@@ -1,0 +1,217 @@
+
+
+
+
+
+农人农情-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0094259";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	农人农情
+求是奋进，服务三农
+
+	永久链接:http://mypage.zju.edu.cn/swj&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			宋文坚，作物学博士，浙江大学农学系副教授。1994年毕业于原浙江农业大学农学系，留校任教。2000年受国家教育部公派赴波兰波兹南农业大学学习一年。主要从事种子加工、种子检验和贮藏，作物栽培生理，遗传育种方面的教学和科研工作，主持国家基金项目1项，参加了多项国家自然科学基金和浙江省科技厅项目，获浙江省科技进步二等奖、浙江省教育厅优秀科技成果一等奖、校优秀科技成果奖各1项。参与编写教材8本，其中&ldquo;种子贮藏加工&rdquo;、&ldquo;种业产业化教程&rdquo;分别为&ldquo;面向21世纪课程教材&rdquo;、&ldquo;高等农林院校十五规划教材&rdquo;。在寄生植物种子萌发特性、种子包衣、种子引发和种子抗劣变等方面共发表论文30余篇，其中作为第一、二作者发表SCI论文4篇，另有3篇被评为浙江省自然科学优秀论文。先后为本科生、研究生主讲或辅讲过的课程有：种子生物学，种子加工技术，种子检验和贮藏实验技术，种子生化分析，种子贮藏学，种子检验学，种子检验与质量控制。教学工作认真负责，教学效果好，曾获浙江大学第三届青年教师教学技能比赛优胜奖。2004年参与胡晋教授主持的&ldquo;种子科学课程体系及教材建设&rdquo;获浙江大学教学成果一等奖。担任班主任工作认真负责，多次获校优秀班主任等荣誉。
+			
+				
+			工作研究领域
+			
+			1.寄生植物种子的萌发特性研究
+2.种子包衣和种子引发技术研究
+3.种子抗劣变的鉴定与遗传
+4.生长调节物质对寄生植物种子萌发的调控机理
+5.寄生植物与寄主的识别机理
+6.分子标记在种子质量控制的应用研究
+7.植物源种子活力剂的研制与开发
+8.优质丝瓜新品种的选育
+
+			
+				
+			联系方式
+			
+			电话：86971801			电子信箱：swj@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：宋文坚
+		单位：农业技术推广中心
+		职称：副教授
+		我的主页共被访问了6676次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	专利成果
+	奖励荣誉
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

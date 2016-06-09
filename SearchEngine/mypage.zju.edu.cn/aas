@@ -1,0 +1,205 @@
+
+
+
+
+
+飞行器-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0099128";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	飞行器
+航空航天
+
+	永久链接:http://mypage.zju.edu.cn/aas&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			1984年西安交通大学本科毕业，1987年浙江大学研究生毕业，2011年浙江大学博士毕业。1999年从华东勘测设计院调入浙大工作。主要从事结构的振动分析、测试诊断振动控制、结构模型试验、有限元仿真计算等研究，具有丰富的教学和科研经验。曾负责连云港田湾核电站某专项研究、天荒坪抽水蓄能电站结构振动研究、苏州河超大跨度翻板闸门流激振动试验研究、抽水蓄能拦污栅流激振动研究（在研）等重点工程的研究工作。目前主要研究方向为流固耦合下振动与控制、有限元仿真。
+主要成果：.曾任连云港核电站(现为田湾核电站)基础处理监测项目经理,提出合理方案,极大地缩短了某环节施工工期；主持了杭州城市天桥的第一次动态检测；主持了亚洲第一的天荒坪抽水蓄能电站地下厂房的振动试验；主持了世界第一跨度(单跨)拦河闸(采用翻板门)的结构动力模型试验；建立了杭州湾跨海大桥照明系统的减振装置；同时较早开展了水利水电系统的结构安检工作；在有限元分析与应用、实验技术等有较多工程实践。
+现为浙江大学固体力学实验室主任。
+&nbsp;
+			
+				
+			工作研究领域
+			
+			结构安全，振动及其控制.振动控制,试验技术与原型观测,结构安全性评估,有限元分析与应用
+
+			
+					
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：罗银淼
+		单位：航空航天学院工程力学系
+		职称：高级工程师
+		我的主页共被访问了9593次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

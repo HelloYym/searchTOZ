@@ -1,0 +1,216 @@
+
+
+
+
+
+肖湧-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0010063";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	肖湧
+浙江大学聚变理论与模拟中心肖湧
+
+	永久链接:http://mypage.zju.edu.cn/yxiao&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			1999年本科毕业于北京大学技术物理系
+2006年获美国麻省理工学院（MIT）博士学位
+2006-2009年从事美国加州大学尔湾分校（UCIrvine）博士后研究&nbsp;&nbsp;
+2009-2012年任美国加州大学尔湾分校研究员
+2011年－至今任浙江大学物理系教授&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			
+				
+			工作研究领域
+			
+			等离子体物理，湍流输运，大规模数值模拟以及核聚变科学
+
+			
+				
+			联系方式
+			
+			电话：86-571-87952649			电子信箱：yxiao@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：肖湧
+		单位：物理学系
+		职称：教授
+		我的主页共被访问了8482次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		发表论文
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	个人主页
+UCI林志宏教授个人主页
+MITPeterCatto博士个人主页
+浙江大学物理系
+浙江大学聚变理论与模拟中心
+国际ITER项目主页
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

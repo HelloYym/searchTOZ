@@ -1,0 +1,199 @@
+
+
+
+
+
+倪明江-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0081134";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	倪明江
+倪明江的主页
+
+	永久链接:http://mypage.zju.edu.cn/nimingjiang&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;倪明江，男，汉族，1949年6月生，山东文登人，1975年12月加入中国共产党，1969年3月参加工作，原浙江大学热物理工程学系毕业，研究生学历，博士，教授。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1969年高中毕业后赴黑龙江省富锦县支边。1972年至75年在东北电力学院动力系学习。1975年至79年在东北电力学院动力系任教。1979年至86年在原浙江大学工程热物理学专业学习，获硕士和博士学位。1986年至88年在原浙江大学热物理工程学系任教，先后任系燃烧教研室副主任、主任，教授。1989年至93年任热能工程研究所副所长，1993年至96年任能源工程系系主任，博士生导师。1996年至98年9月任原浙江大学副校长、党委委员，1998年9月任浙江大学党委常委、副校长。2005年2月任浙江大学党委常委、常务副校长。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江省第十次党代会代表。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;业务专长：动力工程及工程热物理。
+			
+					
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：倪明江
+		单位：校长办公室
+		职称：教授
+		我的主页共被访问了7561次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

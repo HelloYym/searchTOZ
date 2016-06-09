@@ -1,0 +1,211 @@
+
+
+
+
+
+应祖光个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0095078";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	应祖光个人主页
+独自暮凭阑，无限江山
+
+	永久链接:http://mypage.zju.edu.cn/yingzgjiangshan&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			应祖光：1984年毕业于浙江大学力学系，获理学学士学位，1987年获浙江大学工学硕士学位，1995年获浙江大学博士学位，现为浙江大学力学系教师，中国振动工程学会随机振动专业委员会委员。多次赴香港理工大学合作研究。曾获省全国力学优秀教师。长期致力于结构系统非线性随机振动与控制理论及其应用的研究，已在国内外有关重要学术刊物与学术会议上发表论文130余篇，其中SCI检索40余篇，并有多篇获省自然科学优秀论文奖。曾负责国家省自然科学基金项目，作为骨干参加多项国家自然科学基金项目。获2001年中国高校科技一等奖与2002年国家自然科学二等奖（主要成员）。长期讲授理论力学、材料力学、分析（高等）动力学等课程，获2004年浙江大学教学成果一等奖、二等奖等。
+
+主要研究成果：&nbsp;粘弹性阻尼结构的振动与控制、子结构模态精确综合法及其应用、新型智能材料与滞迟结构等系统的非线性随机振动与控制、基于主动的AMD与半主动的MR/ER阻尼器的随机最优控制等。&nbsp;首先得到了随机陀螺系统的精确平稳解；&nbsp;首先提出了Preisach滞迟随机动力响应分析方法与Duhem滞迟系统随机响应的平均法；合作发展了基于随机动态规划原理与随机平均法的最优非线性控制策略，并进一步发展了基于主动质量阻尼器、磁流变与电流变阻尼器等智能材料控制器的最优主动和半主动控制方法，部分可观系统、极小极大的鲁棒与有界控制等，首先提出了非clip的最优半主动控制策略；发展了参激系统稳定性的广义特征分析法，首先将辛算法应用于非线性系统的稳定性分析等。
+			
+				
+			工作研究领域
+			
+			主要研究领域：结构系统振动与控制，包括土木与机械等结构系统的非线性随机振动及运动稳定性理论分析与应用，结构系统非线性随机振动及运动稳定性的最优控制理论方法与应用，智能材料结构与半主动控制，动力学与控制的数值方法与应用等。
+
+			
+				
+			联系方式
+			
+						电子信箱：yingzg@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：应祖光
+		单位：航空航天学院工程力学系
+		职称：教授
+		我的主页共被访问了14542次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	发表论文
+	出版著作
+	奖励荣誉
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

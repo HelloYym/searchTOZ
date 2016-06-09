@@ -1,0 +1,205 @@
+
+
+
+
+
+刘振梅-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0008244";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	刘振梅
+高分子科学研究所
+
+	永久链接:http://mypage.zju.edu.cn/liuzhenmei&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+1976年出生于湖北，1995年进入浙江大学高分子系就读，1999年毕业于浙江大学高分子材料工程专业，获工学学士学位。2004年6月博士毕业于浙江大学高分子化学与物理专业。2004年9月至2005年8月为法国欧洲膜研究所博士后，开展中法先进研究计划项目&ldquo;高活性酶膜反应器在污水处理中的应用&rdquo;基础研究。2006年2月至2008年2月为德国马丁－路德大学博士后，承担欧盟第六框架计划玛丽-居里项目&ldquo;可降解生物医用材料的制备&rdquo;研究。2008年4月起为浙江大学教师。主要研究方向：生物医用高分子膜材料基础研究。获浙江大学2008年&ldquo;紫金计划&rdquo;资助，承担国家自然科学基金青年项目1项；发表SCI收录论文18篇，获授权国家发明专利2项。
+
+			
+				
+			工作研究领域
+			
+			生物医用高分子膜材料的基础研究
+			
+				
+			联系方式
+			
+			电话：0571-87951052			电子信箱：zmliu@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：刘振梅
+		单位：高分子科学与工程学系
+		职称：
+		我的主页共被访问了2595次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

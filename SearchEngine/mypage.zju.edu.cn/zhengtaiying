@@ -1,0 +1,208 @@
+
+
+
+
+
+白丁阁-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0013178";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	白丁阁
+
+
+	永久链接:http://mypage.zju.edu.cn/zhengtaiying&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			1999年到2004年，就读于浙江大学电气工程学院电力系统自动化专业，期间2002年作为国际交流学生访问韩国。2004年至2012年，在韩国全北国立大学取得电力系统专业硕士、博士学位，并在韩国WeGAT风电研究中心做研究教授。2013年，在英国曼彻斯特大学做博士后。2014年起，在浙江大学电气工程学院任教。
+研究领域包括电力系统保护和新能源（风电为主）相关方向。共发表各类期刊/会议文章近80篇，其中包括5篇SCI和20篇左右的EI文章，另有4篇会议文章被IEEE和KIEE颁发了优秀论文奖。在风电和电力系统保护领域分别有数项国际专利。
+&nbsp;
+			
+				
+			工作研究领域
+			
+			电力系统保护，新能源
+			
+				
+			联系方式
+			
+			电话：13588066482			电子信箱：taiying_zheng@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：郑太英
+		单位：电机及其控制研究所
+		职称：
+		我的主页共被访问了1869次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		专利成果
+	奖励荣誉
+	发表论文
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,205 @@
+
+
+
+
+
+黄冲平-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0085057";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	黄冲平
+休闲农业专家
+
+	永久链接:http://mypage.zju.edu.cn/6388&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1995年起任浙江农业大学、浙江大学农业与生物技术学院副教授，硕士生导师。2003年6月获浙江大学生态学博士。2004年11月至2007年2月挂职任浙江省农业和农村工作办公室综合调研处副处长，2007年3月至2011年3月浙江大学现代农业研究中心书记、副主任，现任浙江大学农业试验站海南分站站长，农业与生物技术学院副教授，硕士生导师。
+近年主持&ldquo;余姚市谢家路村新农村建设规划&rdquo;、&ldquo;临海市新农村建设科技示范方案研究&rdquo;、&ldquo;蝴蝶兰花期调控及其计算机模拟&rdquo;、&ldquo;马铃薯留种及高产栽培技术研究&rdquo;&ldquo;诸暨市休闲农业试点示范研究&rdquo;一般项目和重大项目；合作主持省科技厅&ldquo;浙江省高效生态农业战略研究&rdquo;、&ldquo;铁皮石斛新品种（鲜食）选育和栽培新技术研究&rdquo;等省部级重点项目共10多项，在作物生长温度效应及其计算机模拟方面有所贡献，提出了作物生长温度效应的通用模型，修正了前人这一领域的缺陷，在休闲观光农业、新农村经济社会发展规划等方面也有深入研究，并在《应用生态学报》、《生物数学学报》《核农学报》《农业经济问题》等一级学报和相关刊物上发表论文50篇，获省部级奖2项、厅级奖3项，主编、副主编著作两部，参编4部，已培养毕业硕士生42人。
+			
+				
+			联系方式
+			
+						电子信箱：hcping@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：黄冲平
+		单位：农业与生物技术学院、农业试验站
+		职称：副教授
+		我的主页共被访问了8907次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	学术交流（讲座报告）
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

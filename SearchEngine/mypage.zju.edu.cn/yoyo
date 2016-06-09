@@ -1,0 +1,212 @@
+
+
+
+
+
+悠悠山水-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0097261";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	悠悠山水
+悠悠然，徜徉于山水之间也
+
+	永久链接:http://mypage.zju.edu.cn/yoyo&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+				
+			工作研究领域
+			
+			农产品/食品安全风险评估，环境污染与食品安全
+			
+				
+			联系方式
+			
+						电子信箱：shaoyf@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：邵玉芳
+		单位：生物系统工程与食品科学学院生物系统工程系
+		职称：副教授
+		我的主页共被访问了12310次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	小小提琴-中国小提琴网
+古典沙龙-国际在线论坛
+乐谱下载-金色风铃曲谱
+新歌快递-中国音乐在线
+免费伴奏-wo99我要录歌
+我的小学-杭州市崇文实验
+音乐之路-音乐考试考级网
+音响器材-HiFi发烧友俱乐部
+我的社团-杭州市少年交响乐团
+音乐制品-元龙音乐书店
+音乐现场-票务通杭州站
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

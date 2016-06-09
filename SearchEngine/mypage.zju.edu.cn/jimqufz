@@ -1,0 +1,217 @@
+
+
+
+
+
+瞿逢重-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0011024";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	瞿逢重
+
+
+	永久链接:http://mypage.zju.edu.cn/jimqufz&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			瞿逢重，浙江大学海洋技术与船舶工程研究所副教授、博士生导师，浙江大学求是青年学者。担任海洋技术与船舶工程研究所副所长，印度洋研究室副主任。主要从事海底观测网、水下运载器、水声通信与网络、石油工程测井技术的研究。以第一和通信作者在国际期刊和会议上发表论文二十余篇。4次担任国际会议的技术委员会委员，2次担任分会场主席；担任9个国际期刊和7个国际会议的审稿人。
+常年招收硕士研究生、博士研究生以及博士后。
+招收国际学生，详情见中国政府海洋奖学金招生简章。
+			
+				
+			工作研究领域
+			
+			海底观测网(underwaterobservatory)、
+水下运载器(underwatervehicle)、
+水声通信与网络(underwateracousticcommunicationandnetwork)、
+石油工程测井技术(engineeringwellloggingtechnologyforpetroleumdrilling)
+
+			
+				
+			联系方式
+			
+						电子信箱：jimqufz@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：瞿逢重
+		单位：海洋学院
+		职称：副教授
+		我的主页共被访问了21706次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		专利成果
+	教育经历
+	教学工作
+	奖励荣誉
+	学术交流（讲座报告）
+	发表论文
+	指导学生
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

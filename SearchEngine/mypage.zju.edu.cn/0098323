@@ -1,0 +1,232 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0098323";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0098323&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;
+
+代表著作（论文）
+&nbsp;1、文学格局新变：通俗文学的升格与雅化独著
+《学术论坛》2004年第4期《人大复印资料》全文转载
+2、琐屑平凡率真纯情&mdash;&mdash;论丰子恺散文特色独著
+《河南教育学院学报》2005年第1期
+3、消费历史：历史题材电视剧的文化批判独著
+《中国电视》2005年第3期《人大复印资料》全文转载
+4、失乐园的哀歌&mdash;&mdash;试论李金发象征主义诗歌创作1/2
+《浙江大学学报》2000年第4期
+5、试论孙犁短篇小说的散文风格独著
+《中州学刊》1995年第5期
+
+承担课题
+1、中国新兴工业区语言状态研究（中原区）国家哲学社科课题组成员
+2、中华博物源流大典山东省社科课题组成员
+3、中国雅俗文学研究浙江省社科主持（独）
+4、中原铁路&ldquo;路话&rdquo;研究国家哲学社科、河南省社科课题组成员
+5、浙江文化传统与浙江精神浙江省社联课题组成员
+
+开设课程
+&nbsp;1、中国现代文学史
+2、公共关系学
+3、大学语文
+4、社交礼仪
+5、现代散文研究
+6、秘书学
+
+			
+				
+			工作研究领域
+			
+			1、中国现当代文学史
+2、中国现当代散文
+3、中国现当代小说
+4、中外电影电视
+5、雅俗文学比较
+
+			
+					
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：李力
+		单位：人文学院中国语言文学系
+		职称：副教授
+		我的主页共被访问了2900次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	发表论文
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

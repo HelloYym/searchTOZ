@@ -1,0 +1,204 @@
+
+
+
+
+
+寻梦港-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0011006";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	寻梦港
+授人以鱼，只供一餐，授人以渔，可享一生。
+
+	永久链接:http://mypage.zju.edu.cn/wwzhou&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			周文文，副教授，2008年获中国农业大学食品科学专业博士学位，上海交通大学微生物代谢国家重点实验室博士后，美国康奈尔大学、德国基尔大学访问学者，出站后进入浙江大学生物系统工程与食品科学学院任教。
+主要从事微生物代谢调控与发酵工程、食品微生物与生物技术、应用微生物学领域科研与教学工作，现阶段主要围绕吸水链霉菌代谢调控，芽孢杆菌、乳酸菌发酵与功能性食品开发、食品质量安全方面开展科研工作。主讲本科生课程《食品生物技术》，研究生课程《发酵设备》、《工业微生物实验技术》。
+主持国家自然科学基金、浙江省教育厅科研项目、教育部重点实验室开放课题、中国博士后基金等多项课题，参与完成了863计划课题、973项目子课题、国家转基因专项、国家食品安全评价专项、国家自然科技资源平台项目等多项重大课题。
+至2011年发表SCI收录论文10余篇，核心期刊3篇，论文集文章1篇，外文著作1部，中文著作2部，发明专利1项。曾赴美国、日本、意大利、新加坡参加国际学术会议做大会报告4次。现为ProcessBiochemistry、AppliedBiochemistryandBiotechnology等杂志审稿人，国家高级公共营养师，北京食品学会会员，浙江省生物工程学会会员。
+			
+				
+			联系方式
+			
+						电子信箱：vivianzhou11@zju.edu.cn;zww2003@gmail.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：周文文
+		单位：生物系统工程与食品科学学院食品生物科学技术研究所
+		职称：副教授
+		我的主页共被访问了6001次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		论文著作等
+	学术报告
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

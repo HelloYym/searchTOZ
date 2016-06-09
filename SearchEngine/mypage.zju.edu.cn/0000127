@@ -1,0 +1,222 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0000127";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0000127&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			学习经历：
+（1）1978年8月&mdash;1982年7月：在同济大学建筑学专业学习，获学士学位
+（2）1986年&mdash;1990年：在西安建筑科技大学城市规划专业学习，获硕士学位
+（3）1991年2月&mdash;1991年11月：在法国波尔多建筑学院访问、进修
+工作经历：
+（1）1982年8月&mdash;1988年8月：在西安建筑科技大学任助教
+（2）1987年8月&mdash;1993年8月：在西安建筑科技大学任讲师
+（3）1993年8月&mdash;1997年12月：在西安建筑科技大学任副教授
+（4）1997年12月&mdash;2000年6月：在西安建筑科技大学任教授
+（5）2000年3月获博士研究生导师资格
+（6）1998年10月&mdash;11月：赴日本国日本大学访问、讲学
+（7）2000年7月至今：在浙江大学任教授、博导
+			
+				
+			工作研究领域
+			
+			主要研究方向：人居环境、地域建筑、城市景观。
+主要研究项目：
+（1）1997年—2000年完成国家自然科学基金“九五”重点项目“绿色建筑体系与住区可持续发展途径研究”，项目负责人之一
+（2）2002年—2004年完成国家自然科学基金项目“长江三角洲城镇基本住居单元可持续发展模式研究”，项目负责人
+（3）2002年—2004年完成浙江省自然科学基金项目“长江三角洲绿色建筑机理与适宜性途径研究”，项目负责人
+（4）2005年—2006年承担浙江省重大委托项目“推动建筑节能与新材料应用”，项目负责人
+（5）2006年—2008年参加国家自然科学基金项目“长江三角洲湿地类型基本人居生态单元适宜性模式及其评价体系研究”，主要参加人
+（6）2004年—2006年承担杭州市政府研究项目“杭州城市形象与景观设计研究”，项目负责人
+（7）2005年—2006年承担余姚市政府研究项目“余姚城市景观设计研究”，项目负责人
+（8）2005年—2007年承担“四川九洲集团国际软件园”规划与设计，项目负责人
+
+			
+					
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：王竹
+		单位：建筑工程学院建筑学系
+		职称：教授
+		我的主页共被访问了6540次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	研究成果
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,193 @@
+
+
+
+
+
+郭森的主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0010605";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	郭森的主页
+
+
+	永久链接:http://mypage.zju.edu.cn/gs&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;&nbsp;郭森，博士，现任浙江大学苏州工业技术研究院环保技术与装备研究中心常务副主任。2000年开始就读于浙江大学环境与资源学院，2004年获工学学士学位，2009年获环境工程工学博士学位。之后在浙江大学化学工程与技术博士后流动站从事博士后研究工作，期间获中国博士后一等资助，兼任浙江省环境科学学会工业废气污染控制专业委员会学术秘书。2011年12月进入浙江大学苏州工业技术研究院工作。申请者主要研究领域为室内空气污染控制及环境光催化技术，主持国家高技术研究发展计划（863计划）子课题、浙江省教育厅项目、国家博后一等资助项目各1项，参与863计划课题1项（排名第四），浙江省自然基金重点项目1项（排名第二）；曾作为主要参与人员参加863计划项目、&quot;十一五&quot;国家科技支撑计划项目、杭州市社会发展项目各1项。发表SCI论文10篇，授权及申请专利6项。
+			
+					
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：郭森
+		单位：浙江大学工业技术研究院
+		职称：助理研究员
+		我的主页共被访问了2050次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

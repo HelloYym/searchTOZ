@@ -1,0 +1,209 @@
+
+
+
+
+
+林秀斌-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0009804";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	林秀斌
+在地学的海边捡拾美丽的贝壳
+
+	永久链接:http://mypage.zju.edu.cn/linxb&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			2004年毕业于浙江大学地球科学系获学士学位，2009年毕业于浙江大学地球科学系获博士学位，其中，2007年12月-2008年12月受国家留学基金委建设高水平大学公派研究生项目资助前往澳大利亚西澳大学进行联合培养。现为浙江大学地球科学系博士后、助理研究员。
+（1）学习和工作履历：
+2000年9月-2004年6月&nbsp;浙江大学地球科学系地质学专业本科生
+2004年9月-2009年6月&nbsp;浙江大学地球科学系构造地质学专业博士研究生
+2007年12月-2008年12月&nbsp;澳大利亚西澳大学地球与地理科学系访问学者/联合培养
+2009年7月-至今&nbsp;浙江大学地球科学系博士后，助理研究员
+			
+				
+			工作研究领域
+			
+			青藏高原隆升及变形、沉积、气候响应
+			
+				
+			联系方式
+			
+			电话：0571-87952791			电子信箱：xiubin_lin@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：林秀斌
+		单位：地球科学系
+		职称：副教授
+		我的主页共被访问了4017次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

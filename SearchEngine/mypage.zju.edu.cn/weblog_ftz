@@ -1,0 +1,478 @@
+
+
+
+
+
+清风拂面-博客
+
+
+
+
+
+
+varctxPath="http://mypage.zju.edu.cn";
+varb_handle="ftz";
+varcfg_weblog="http://mypage.zju.edu.cn/weblog";
+vard=newDate()
+varselyear=d.getFullYear();
+varselmonth=d.getMonth()+1;
+
+
+
+
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	color:#111;
+	margin-right:10px;	
+}
+#mainlinkullia,.tagsa:hover{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+.tagsa{
+	margin-right:10px;
+}
+img{
+	border:none;
+}
+
+
+
+
+
+
+
+
+
+
+	
+		首页
+		帮助
+		登录
+	
+
+
+
+
+
+
+	清风拂面
+
+
+	永久链接:http://mypage.zju.edu.cn/weblog/ftz&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+
+
+	中文主页
+			博客
+
+
+
+
+
+
+
+
+
+
+			
+				
+
+	
+[1/1]
+首页	上一页下一页末页
+
+	
+
+浏览模式:普通|列表
+
+
+
+
+
+
+		如何回复SCI投稿审稿人意见
+
+作者:傅天珍日期:2010-05-17Monday
+
+
+
+[转载]如何回复SCI投稿审稿人意见如何回复SCI投稿审稿人意见1.所有问题必须逐条回答。2.尽量满足意见中需要补充的实验。3.满足不了的也不要回避，说明不能做的合理理由。4.审稿人推荐的文献一定要引用，并讨论透彻。以下是本人对...
+查看更多...
+
+
+
+
+
+分类:默认分类|			固定链接|评论总数0|
+			阅读次数31
+
+
+
+
+
+
+
+		（转）英文写作×文献管理
+
+作者:傅天珍日期:2010-05-17Monday
+
+
+
+英文文章写作1.阅读10篇文献，总结100个常用句型和常用短语。经常复习。注意，文献作者必须是以英文为母语者，文献内容要与你的专业有关。这属于平时看文献的副产品。2.找3-5篇技术路线和统计方法与你的课题接近的文章，精读。写出论文的草稿。要按照标题、作...
+查看更多...
+
+
+
+
+
+分类:默认分类|			固定链接|评论总数0|
+			阅读次数23
+
+
+
+
+
+
+
+		（转）动态的科学
+
+作者:傅天珍日期:2010-05-17Monday
+
+
+
+动态的科学1.科研靠积累。象伦琴发现X射线那样凭借一次简单观察就得诺贝尔奖的机会越来越少。更多的科研成果来自于实验室长期积累。最终实至名归。做科研不要指望一步登天。设计课题不要好高骛远。基金评审也是这样。没有前期积累，获得资助的可能性小。选导师要想...
+查看更多...
+
+
+
+
+
+分类:默认分类|			固定链接|评论总数0|
+			阅读次数21
+
+
+
+
+
+
+
+		（转）写毕业论文
+
+作者:傅天珍日期:2010-05-17Monday
+
+
+
+写毕业论文1.先列提纲。不列提纲，上来就写，是坏习惯。几百字没问题，几千字勉强，几万字就难了。必须列出写作提纲，再充实完善，以保证思路的连贯和字数的均衡。2.平时多写及时总结阶段性的工作，多写文章多投稿。到最后阶段，把这些文字有机地组合起来，就是一...
+查看更多...
+
+Tags:
+毕业论文
+	
+
+
+
+分类:默认分类|			固定链接|评论总数0|
+			阅读次数30
+
+
+
+
+
+
+
+		怎样读文献
+
+作者:傅天珍日期:2010-05-17Monday
+
+
+
+怎样读文献1.目标：漫无目的则毫无效率，抓不住重点才效率低下。选题之前可能会有一段时间处于迷茫状态，不知从哪入手。胡乱看了大量文献，却不知所以然。在导师的指导下，在同行的启发下，有些人可以迅速明确目标，有的放矢，入门就从这里开始。即使导师不导，没有...
+查看更多...
+
+Tags:
+阅读文献
+	
+
+
+
+分类:默认分类|			固定链接|评论总数0|
+			阅读次数26
+
+
+
+
+
+
+
+		（转）Wiley2008年创刊的《生态水文学》被SCI、EI收录
+
+作者:傅天珍日期:2010-05-17Monday
+
+
+
+Wiley2008年创刊的《生态水文学》被SCI、EI收录2008年创刊的Ecohydrology《生态水文学》，ISSN:1936-0584，季刊，美国（JOHNWILEY&SONSINC,111RIVERST,HOBOKEN,USA,NJ,07030）出版，2009年入选WebofScience的ScienceCitationIndexExpand...
+查看更多...
+
+Tags:
+生态水文
+	
+
+
+
+分类:默认分类|			固定链接|评论总数0|
+			阅读次数20
+
+
+
+
+
+
+
+		强烈推荐读硕士的人看看
+
+作者:傅天珍日期:2010-05-17Monday
+
+
+
+【转帖】强烈推荐读硕士的人看看感觉到了博士才知道这些似乎有点晚了，或者是有不少人也不会去读博，还是希望所有的硕士朋友看过能够从中有所收获。1.先看综述，后看论著。看综述搞清概念，看论著掌握方法。2.早动手在师兄师姐离开之前学会关键技术。3.多数文...
+查看更多...
+
+Tags:
+综述
+	
+
+
+
+分类:默认分类|			固定链接|评论总数0|
+			阅读次数36
+
+
+
+
+
+
+
+		SCI投稿技巧
+
+作者:傅天珍日期:2010-05-17Monday
+
+
+
+[转载]SCI投稿技巧来自引子：先说一个故事。国内的一位老师，把一篇文章投到《植物学报》。这是一个SCIsearch的期刊，不是SCI源期刊。影响因子低于1。但是被拒了。于是修改之后，这位老师把文章投到了植物学领域最著名的thePlantCell，影响...
+查看更多...
+
+Tags:
+技巧SCI投稿
+	
+
+
+
+分类:默认分类|			固定链接|评论总数0|
+			阅读次数27
+
+
+			
+			
+		
+		
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+	
+	
+		姓名：傅天珍
+		单位：浙江大学图书馆
+		职称：馆员（图书）
+		我共发表了8篇文章
+		共收到0条评论
+		我的主页共被访问了513次
+	
+	
+	
+	
+
+
+我的文章分类
+
+	默认分类
+		
+
+
+
+
+日历
+
+
+
+>>
+年月
+
+
+
+日
+一
+二
+三
+四
+五
+六
+
+
+
+
+
+
+
+
+
+
+
+我的最新文章
+
+
+		如何回复SCI投稿审稿人...
+（转）英文写作×文献管理
+（转）动态的科学
+（转）写毕业论文
+怎样读文献
+（转）Wiley2008年创刊...
+强烈推荐读硕士的人看看
+SCI投稿技巧
+	
+
+
+
+
+我的热点文章
+
+
+				强烈推荐读硕士的人看看
+		如何回复SCI投稿审稿人...
+		（转）写毕业论文
+		SCI投稿技巧
+		怎样读文献
+		（转）英文写作×文献管理
+		（转）动态的科学
+		（转）Wiley2008年创刊...
+
+	
+
+
+我收到的评论
+
+	
+	
+
+
+我的文章汇总
+
+		2010年5月[8]
+		
+	
+
+
+链接
+
+
+
+
+
+
+检索
+
+
+
+
+-所有文章-
+默认分类
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+
+
+varflag=newArray();
+flag[0]='2010/05/17';
+
+
+varcale=newCalendar("idCalendar",{
+SelectDay:newDate(),
+onSelectDay:function(o),
+onToday:function(o),
+onFinish:function(){
+$("idCalendarYear").innerHTML=this.Year;$("idCalendarMonth").innerHTML=this.Month;
+for(vari=0,len=flag.length;i<len;i++){
+//alert(flag[i]);
+	vard=newDate(flag[i]);
+	if(this.Year==d.getYear()){
+		if(this.Month==d.getMonth()+1)
+		{
+this.Days[d.getDate()].innerHTML=""+d.getDate()+"";
+			
+		}
+
+	}
+}
+}
+});
+$("idCalendarPre").onclick=function()
+$("idCalendarNext").onclick=function()
+
+
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));

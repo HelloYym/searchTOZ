@@ -1,0 +1,207 @@
+
+
+
+
+
+www.weijiang.info-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0098052";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	www.weijiang.info
+
+
+	永久链接:http://mypage.zju.edu.cn/0098052&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			魏江，博士，浙江大学管理学院教授，博士生导师。浙江大学&ldquo;创新管理与持续竞争力&rdquo;国家创新基地副主任、浙江大学管理学院院长助理兼企业管理系系主任、&ldquo;浙江大学-杭州市&rdquo;服务业发展研究中心主任、浙江大学企业组织与战略研究所所长、浙江大学青年教授联谊会秘书长，现从事企业战略管理、技术创新与管理、服务业创新等领域的教学研究工作。现任美国管理学会会员；亚洲开发银行项目首席专家；加拿大大西洋署咨询专家；国家&ldquo;十二五&rdquo;规划起草组专家；浙江省服务业发展规划咨询专家等。曾被聘为英国曼彻斯特大学PREST研究所客座研究员、台湾东吴大学客座教授等。1998年来主持国际合作项目4项；国家自然科学基金等国家级项目10多项；省部级重大重点项目30多项，其他省市级项目、企业项目40多项。在国际、国内有关刊物上发表论文近200篇，其中国际上发表论文50多篇；出版《产业集群：创新系统和学习范式》等专著14部；获国家级和省部级等科技进步奖、优秀教学成果奖、人文社科优秀成果等等各种奖励10多项。
+政策服务：亚洲开发银行项目首席专家，国家发改委中小企业服务体系规划咨询专家，国家&ldquo;十二五&rdquo;自主创新能力规划起草组专家；国家技术中心评审委员会专家；国家&ldquo;关中-天水经济区规划&rdquo;编制起草组专家；浙江省、杭州市以及部分市区发展规划组组长等
+学术兼职：曾被聘为英国曼彻斯特大学PREST研究所客座研究员、台湾东吴大学客座教授；InternationalJournalofBusinessandSystemsResearch(IJBSR)、JournalofTechnologyManagementandStrategyinChina,中国创新创业、科研管理等杂志编委；AsiaPacificJournalofManagement,InternationalJournalofNewVirtualOrganization等国际国内刊物审稿人；曾担任MOT&rsquo;1998，ICM&rsquo;2001,ISMOT&rsquo;02，PICMET&rsquo;04,IEMC&rsquo;04,ISMOT&rsquo;04，GMC&rsquo;05，GLOBELICS&rsquo;05，IEMC&rsquo;06,CICALICS&rsquo;06等国际会议分会主席。
+企业兼职：担任浙江博凯管理顾问公司、中毅集团、扬帆集团等4家企业的高级顾问，华立集团、核新股份等3家企业独立董事。曾负责万向集团、海尔集团、浙江移动、杭州电力公司等20家企业的管理咨询工作。
+
+			
+				
+			工作研究领域
+			
+			从事企业战略管理、技术创新管理、服务创新管理等领域的研究工作，10多年来，在国际、国内有关杂志和刊物上发表论文200多篇，其中国际刊物发表论文6篇；国际会议发表论文50多篇；国内权威刊物和一级刊物80多篇。发表论文被SCI、EI、ISTP检索论文近40多p篇；出版《企业技术能力论》、《企业购并战略新思维》、《产业集群：创新系统和学习范式》、《知识密集型服务业与创新》、《创新管理前沿》、《知识学习与企业技术能力增长》、《知识密集型服务业创新范式》等专著8部，译著《组织沟通：商务与管理的基石》、《战略历程》等3部；编著《管理沟通：理念与技能》（第一版）、《管理沟通：理念与技能》（第二版）、《企业战略管理》3部。
+主要理论贡献：（1）提出了微观和中观层面的技术能力理论，从企业和产业二层次构建了支持自主创新战略的技术能力体系；（2）建构了集群创新系统理论体系，提出由“集群技术能力增长－区域创新体系演化－区域文化适度根植-产业集群治理机制”为研究路线的产业集群升级机理框架；（3）构建了知识密集型服务业创新理论范式，基本建立了基于“创新过程－多要素互动－创新组织－创新政策”四维度整合的知识密集型服务业创新理论体系和方法体系。
+			
+				
+			联系方式
+			
+			电话：057188206859			电子信箱：weijiang@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：魏江
+		单位：管理学院企业管理系
+		职称：教授
+		我的主页共被访问了4514次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

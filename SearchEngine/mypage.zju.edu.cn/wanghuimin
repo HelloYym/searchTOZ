@@ -1,0 +1,225 @@
+
+
+
+
+
+王慧敏-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0014177";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	王慧敏
+
+
+	永久链接:http://mypage.zju.edu.cn/wanghuimin&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			王慧敏（1987-），安徽宣城人。
+教育经历
+2011-2014北京师范大学教育学博士
+2008-2011华东师范大学教育学硕士
+2004-2008华东师范大学法学学士
+2012-2013受国家留学基金委资助前往美国威斯康辛大学麦迪逊分校访学一年
+论文发表
+&ldquo;达特茅斯学院案的重新考察与评价&rdquo;，《教育研究》，2014（10）；
+&ldquo;美国建国初期国立大学的理念及其失败（1786-1796）&rdquo;，《清华大学教育研究》，2014（3）；
+&ldquo;&lsquo;建立一所真正的大学&rsquo;&mdash;&mdash;作为美国研究型大学路径选择的国立大学运动（1869-1899）&rdquo;，《高等教育研究》，2013（11）；
+&ldquo;重读哈钦斯&mdash;&mdash;&lsquo;学习社会&rsquo;中的大学&rdquo;，《基础教育》，2011（6）；
+&ldquo;以知识沟通教育与哲学&mdash;&mdash;英国规范教育哲学的嬗变与超越&rdquo;，《基础教育》，2013（6）。
+参编图书
+《外国教育史》，陈锋主编，北京大学出版社，2012年2月；
+《教育名著导读》，袁振国主编，学习出版社，2012年9月；
+《爱与自由：外国十大教育家经典教育理念》，陈锋，王慧敏等著，北京大学出版社，2014年6月；
+《美国大学成长的阶梯》，张斌贤、王慧敏编，教育科学出版社，2015即出；
+《美国高等教育史》（三卷本），未出。
+学术讲座
+&ldquo;外国教育史研究文献的获取和利用&rdquo;，首都师范大学教育学院&ldquo;优秀青年学者专题系列讲座&rdquo;
+正在从事的翻译
+《美国高等教育文献史》（第一卷），第三、四、五编；
+《美国教育史研究的领导者》
+			
+				
+			工作研究领域
+			
+			外国教育史，美国高等教育史
+			
+				
+			联系方式
+			
+						电子信箱：wanghuimin@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：王慧敏
+		单位：教育学院教育学系
+		职称：
+		我的主页共被访问了317次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

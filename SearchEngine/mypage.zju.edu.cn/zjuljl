@@ -1,0 +1,234 @@
+
+
+
+
+
+李金林-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0098104";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	李金林
+以行为引领推进思想建设
+
+	永久链接:http://mypage.zju.edu.cn/zjuljl&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			1976年12月24日出生，博士，副教授，主要从事高教管理与服务，卫生政策与健康促进的教学科研工作。
+&nbsp;
+学习经历：
+1994.09-1998.06浙江大学机械系机械制造工艺与设备专业本科学习
+2002.09-2005.06浙江大学机械设计及理论专业在职硕士研究生学习
+2007.09-2011.09浙江大学社会医学与卫生事业管理专业在职博士研究生学习
+&nbsp;
+工作经历：&nbsp;
+1998.07-1998.09浙江大学机械系工作
+1999.09-2002.09机械与能源工程学院工作
+2002.09-2004.07校团委工作
+2004.07-2005.11竺可桢学院工作
+2005.11-2008.08公共管理学院工作
+期间：2008.4-2008.08国家民政部民间组织管理局（挂职）
+2008.08-2009.06本科生院求是学院蓝田学园工作
+2009.06-2011.09机械工程学系工作
+2011.09-2013.08江苏吴江市地方挂职
+2013.07--至今&nbsp;&nbsp;&nbsp;浙江大学党委宣传部
+			
+				
+			工作研究领域
+			
+			公共卫生政策、高等教育管理等
+			
+				
+			联系方式
+			
+			电话：88206887			电子信箱：zju_ljl@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：李金林
+		单位：浙江大学
+		职称：副教授
+		我的主页共被访问了5772次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	研究成果
+	奖励荣誉
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	浙江大学办公网
+浙江大学宣传部
+机械工程学系
+浙江大学公共管理学院
+中央群众路线教育实践活动网
+浙大群众路线教育实践活动网
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

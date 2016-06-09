@@ -1,0 +1,209 @@
+
+
+
+
+
+welcome-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0090223";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	welcome
+
+
+	Permanentlink:http://mypage.zju.edu.cn/en/shanglihao&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			Blog
+
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			
+
+
+
+Education:&nbsp;B.A.inHangzhouUniv.in1985,thentheM.A.andthePh.D.inZhejiangUniv.visitingscholar&nbsp;onColumbiaUniversityin2001&nbsp;andMichiganUniversityinU.S.A.in2007.
+&nbsp;Projects:&ldquo;Thedevelopmentofeducationfinance&nbsp;andeducationalmodernization&rdquo;byEducationMinistryin2003.&nbsp;&ldquo;Theschoolfinancingandeducationalquality&rdquo;byEducationMinistryin2004.
+
+&nbsp;Awards:TheNationExcellentDoctoralDissertationin2002.The11thZhejiangExcellentAcademic&nbsp;works&nbsp;inPhilosophyandSocialScienceResearch,thesecondclassawardin2003.TheExcellentAcademic&nbsp;work&nbsp;inPhilosophyandSocialScienceResearchofNationalHigherUniversitythesecondrankawardin2009.&nbsp;&nbsp;&nbsp;&nbsp;IntheZhejiangNewCentury151PersonnelPlan(thesecondrank)in2004.&nbsp;IntheEducationMinistryNewCenturyPersonnelPlanin2004.&nbsp;
+
+
+&nbsp;
+			
+				
+			Researchwork
+			
+			TheeducationhistoryinChinaandforeigncountries,Educationfinance
+			
+				
+			Contact
+			
+			Phone:
+			E-mail:shanglh@mail.hz.zj.cn
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:
+		Units:EducationCollege
+		Title:professor
+		Myhomepagehasbeenvisited837times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+ResearchPapersandworks
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	
+
+
+Youarevisitor:837
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,202 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0001056";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0001056&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			1988年中山大学毕业，获博士。1989年赴欧洲，先后访问意大利、奥地利和德国等国多所大学。1990至2001年受聘于德国Siegen大学、Martin-Luther大学，从事博士后研究和任研究助理。2001年10月起任浙江大学&quot;长江学者奖励计划&quot;特聘教授。至今在国际SCI学术刊物发表论文四十多篇，其中五篇发表于权威刊物Phys.Rev.Lett.。应Int.J.Mod.Phys.B的邀请，撰写了非平衡态临界动力学的综述论文。论文的SCI他人引文数约三百五十篇次。美国国家自然科学基金项目的特邀评审人。Phys.Rev.Lett.、Phys.Rev.E、Phys.Lett.A和PhysicaA的论文评阅人。&nbsp;
+			
+				
+			工作研究领域
+			
+			计算物理/统计物理/软凝聚态物理/经济物理
+			
+				
+			联系方式
+			
+			电话：87952753			电子信箱：zheng@zimp.zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：郑波
+		单位：物理学系
+		职称：教授
+		我的主页共被访问了4343次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

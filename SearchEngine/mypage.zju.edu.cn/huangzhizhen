@@ -1,0 +1,210 @@
+
+
+
+
+
+黄志真-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0089322";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	黄志真
+
+
+	永久链接:http://mypage.zju.edu.cn/huangzhizhen&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			分别在浙江大学和杭州大学化学系获学士、硕士和博士学位。一九九七年至二000年分别在美国Florida大学化学系和美国Alabama大学化学系做博士后。二OO三年至二O一O年为南京大学化学化工学院教授、博士生导师，二O一一年至今为浙江大学理学院化学系有机所教授、博士生导师。多次主持完成国家自然科学基金、国家重点实验室基金、省自然科学基金等项目，也主持完成多项医药、农药、精细化工等企业的横向研发课题。在AngewChem.、Chem.Commun.、Chem.Eur.J.、Org.Lett.、J.Org.Chem.等国内外著名刊物发表论文八十余篇，授权和申报专利九项，曾获&ldquo;中国化学会青年化学奖&rdquo;、&ldquo;浙江省青年科技奖&rdquo;、&ldquo;教育部科技进步二等奖（排第二）&rdquo;等奖项。被邀请为美国化学会、英国皇家化学会等国际性刊物的评审人。
+			
+				
+			工作研究领域
+			
+			主研方向：(1)有机小分子和过渡金属催化的合成反应;(2)绿色不对称合成(3)生物活性分子的合成;(4)国家级新药的设计和合成。
+在研项目：国家自然科学基金面上项目“金属与有机小分子共催化的新型不对称反应的研究”（No.21072091,2011.1-2013.12）、“过渡金属与有机小分子共催化的新型碳-氢官能化反应的研究”（No.21372195,2014.1-2017.12）、国家重点基础研究发展计划(973项目)中的课题“利用手性有机小分子与过渡金属催化不对称合成不饱和化合物的研究”(No.2011CB808601,2011.1-2015.12)、元素有机国家重点实验室课题“过渡金属与有机小分子催化的新型反应的研究”（No.201014,2011.1-2013.12）以及与香港中文大学和美国Georgia医学院联合开展的新药研究。
+
+
+
+
+			
+				
+			联系方式
+			
+			电话：15268840018			电子信箱：huangzhizhen@zju.edu.cn;			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：黄志真
+		单位：化学系
+		职称：教授
+		我的主页共被访问了22130次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		发表论文
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

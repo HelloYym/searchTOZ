@@ -1,0 +1,214 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0000169";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0000169&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			1978.10-1982.07：浙江大学水工结构专业学习。
+1982.08-1989.02：浙江大学土木系助教、讲师。期间在职获硕士学位。主要研究方向为土石坝的地震稳定分析与优化设计。
+1989.03-1993.09：日本冈山大学留学。获博士学位。主要研究方向为考虑土～结构动力相互作用的长大结构地震反应分析。
+1993.10-1994.01：日本EIGHT设计公司咨询工程师。主要从事桥梁结构的抗震设计咨询。
+1994.02-1995.11：日本铁道综合技术研究所研究员。主要从事高速铁道高架桥梁地震安全评估系统的开发和铁道结构抗震设计规范的编制工作。
+1995.12-2001.08：日本丰桥技术科学大学助理教授。主要研究方向为局域地震动特性和城市灾害评估。
+2001.9-至今&nbsp;&nbsp;&nbsp;：浙江大学建筑工程学院副教授。主要研究方向为高速城市交通环境振动分析与减振、大坝安全评估理论及其应用。
+			
+				
+			工作研究领域
+			
+			1、结构动力分析与抗震设计
+2、水工结构安全评估
+3、流域与海岸带工程防灾
+			
+				
+			联系方式
+			
+			电话：13858091942			电子信箱：jianqun@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：蒋建群
+		单位：建筑工程学院水利与海洋工程学系
+		职称：教授
+		我的主页共被访问了5217次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	研究成果
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

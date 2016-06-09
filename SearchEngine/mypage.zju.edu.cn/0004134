@@ -1,0 +1,218 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0004134";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0004134&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			学&nbsp;&nbsp;&nbsp;历：
+1983年9月-1987年7月&nbsp;佳木斯医学院药学系医学学士
+1992年1月-1994年3月&nbsp;日本国名城大学药学院研究员
+1994年4月-1999年3月&nbsp;日本国名古屋市立大学大学院药学研究科&nbsp;&nbsp;药学博士
+技术工作简历：
+1987年7月-1991年12月黑龙江省齐齐哈尔市制药厂助理工程师
+1999年4月-2004年3月日本产业技术综合研究所研究员
+2004年4月-至今现职
+张辰博士在1987年大学毕业后进入齐齐哈尔第一制药厂工作，从事咖啡因全合成的工艺研究与生产管理，积累了一定的经验。在日本留学期间首先从事了含氮，硫及磷元素的内鎓盐化学等方面的研究，对含氮，硫，磷等元素7-10员环类化合物的创制及其生理活性及药理进行了深入探讨，其成果发表在美国化学会有机化学(J&nbsp;.Org.&nbsp;Chem.)等高水平学术杂志上，并于1999年3月在日本国名古屋市立大学取得药学博士学位。在产业技术综合研究所工作期间，主要从事了有机磷化学（具有烯烃基的含磷化合物合成法开发），有机硅化学（利用新型有机硅阳离子催化的交叉羟醛及醛酮缩合反应合成重要医药化工原料&beta;-羟基酮类化合物），及新型路易斯酸催化的F-C反应（利用不饱和脂肪酸与芳香环直接环化反应制造重要化工及医药中间体茚酮和满酮）等方面的工作，其成果一部分发表在美国化学会誌（J.&nbsp;Am.&nbsp;Chem.&nbsp;Soc.）等世界一流水平学术杂志上，并获得两项日本专利。去年4月回国后受聘为浙江大学药学院药化学科副教授，现正在从事新药开发（具有生理活性的含氮，硫，磷等元素中员环类化合物的设计与创制等），高效有机合成反应的开发及绿色化学方法在药物合成上的应用等方面的研究。主要研究方向为有机化学，有机金属化学，药物合成化学。a
+			
+				
+			工作研究领域
+			
+			一、有机化学:
+1、有机金属化学
+2、元素有机化学
+二、药物化学
+1、含磷、氮、硫等元素的新型生理活性物质的创制
+三、制药工艺学
+高效有机合成反应的开发及绿色化学方法在药物合成上的应用等方面的研究。
+
+			
+				
+			联系方式
+			
+			电话：0571-8721-7047			电子信箱：chenzhang@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：张辰
+		单位：药学院
+		职称：副教授
+		我的主页共被访问了2770次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

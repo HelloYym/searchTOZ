@@ -1,0 +1,344 @@
+
+
+
+
+
+ChunhuiYe-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0006263";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	ChunhuiYe
+Chunhui
+
+	永久链接:http://mypage.zju.edu.cn/chunhui&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+
+
+教育背景
+毕业学校
+毕业时间
+
+
+本科
+安徽农业大学农业经济管理专业
+1998.6
+
+
+硕士
+安徽农业大学农业经济管理专业
+2001.6
+
+
+博士
+南京农业大学农业经济管理专业
+2004.6
+
+
+
+
+
+
+&nbsp;
+
+
+工作经历
+
+
+2004.7－2006.6：中国科学院农业政策研究中心博士后
+
+
+&nbsp;
+
+
+主讲课程
+
+
+计量经济学、发展经济学
+
+
+&nbsp;
+
+
+研究领域(方向1)
+
+
+农业与农村经济发展
+
+
+&nbsp;
+
+
+研究领域(方向2)
+
+
+资源环境经济学
+
+
+&nbsp;
+
+
+研究领域(方向3)
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+科研项目
+
+
+主持课题：
+课题名称：CostofFinancingSolidWasteManagementinRuralChina
+课题编号：003591-064
+课题时间：2005年9月1日-2007年1月31日
+课题来源：EconomyofEnvironmentProgramforSoutheastAsia(EEPSEA)，InternationalDevelopmentResearchCenter（IDRC）
+
+课题名称：农村社区生活垃圾管理问题研究
+课题时间：2008年1月-2010年12月
+课题来源：国家自然科学基金委员会
+
+课题名称：进城农民工子女融入城市生活问题研究
+课题时间：2008年-2010年10月
+课题来源：国家社会科学基金
+
+课题名称：浙江省农民工子女教育问题研究
+课题编号：07WHDD007Z
+课题时间：2008年1月-2008年10月
+课题来源：浙江省哲学社会科学规划重点项目
+
+参与课题：
+1.比较优势与中国农业生产结构调整，2001-2004，自然科学基金（项目编号：70073013）项目主持人：钟甫宁教授；
+2.江苏省农业支柱产业发展战略研究，2001,江苏省政府，项目主持人：钟甫宁教授；
+3.中国主要粮棉产区生产结构调整，2003,农业部软科学，项目主持人：钟甫宁教授；
+4.&ldquo;GovernanceandPublicGoodsProvisioninRuralChina&rdquo;,2005,WorldBankandIDRC，项目主持人：Prof.ScottRozelleandProf.Zhangliuxiu；
+5.我国主要区域NPK肥料使用行为的经济和政策驱动因素研究,2005，中科院创新项目,项目主持人：张林秀研究员
+
+
+
+&nbsp;
+
+
+出版著作
+
+
+l农业政策学，中国农业大学出版社，ISBN书号：7810662295，参编
+l六十亿人口的警示（21世纪的人口增长与食品安全），中国农业出版社，ISBN书号：7109078124，出版时间：2003-02-01，主要译者。
+
+
+
+
+&nbsp;
+
+
+发表论文
+
+
+
+1.中国种植业战略性结构调整的原则和模拟结果，钟甫宁叶春辉，中国农村经济2004（4），第4-9页;
+2.GAMS在安徽省农业生产结构调整最优决策中的应用，钟甫宁叶春辉，安徽农业大学学报,2004,31(3):372～375;
+3.中国种植业结构调整的结果及其对农民收入的影响，钟甫宁叶春辉，经济研究参考，2004年第55期;
+4.农村全面小康社会建设：指标体系、实现程度与国际比较，何军，叶春辉，华东理工大学学报，2005年第3期第20卷，第70-75页;
+5.SchoolAttainmentandCostofEducationinRuralChina,LinxiuZhang,ChunhuiYe,2005CESInternationalConferenceonSustainableEconomicGrowthinChina,ConferenceProceedings,Page495-501;
+6.农村地区小学阶段儿童辍学问题研究，张林秀，叶春辉，和谐社会与农村发展，中国农业出版社2005年10月第一版，第10-15页;
+7.RuralDevelopmentinChina:SearchingForABetterFitBetweenPovertyAlleviationandEnvironment.WorldBankResearchReport.Teammember,November2005;
+8.农村生活垃圾处理服务供给的决定因素分析,叶春辉,农业技术经济,2007（3），第10-16页;
+9.中国生丝对外贸易定价的理论和实证分析,叶春辉，高峰，安徽农业大学学报，2007年第16卷第2期,第17-19页;
+10.ChunhuiYe,PingQin,ProvisionofResidentialSolidWasteManagementServiceinRuralChina,China&amp;WorldEconomy(ThompsonScientificSSCIlistedjournal),2008,Vol.16,No.5,p118-128;
+11.收入、受教育水平和医疗消费：基于农户微观数据的分析,叶春辉，封进，中国农村经济，2008年第8期;
+12.农地细碎化的缘由与效应----历史视角下的经济学解释，叶春辉，许庆，农业经济问题，2008年第9期;
+13.农村公共物品提供策略：一个比较分析，叶春辉，罗仁福，浙江社会科学，2008年第9期;
+
+Tel:&nbsp;&nbsp;&nbsp;86-571-86722935&nbsp;
+Fax:&nbsp;86-571-86971646
+E-mail:chhye@zju.edu.cn
+Web:&nbsp;&nbsp;&nbsp;www.card.zju.edu.cn
+
+
+
+
+			
+				
+			联系方式
+			
+			电话：0571-86722935			电子信箱：chhye@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：叶春辉
+		单位：管理学院
+		职称：副研究员（社会科学）
+		我的主页共被访问了2314次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

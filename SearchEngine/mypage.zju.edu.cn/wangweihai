@@ -1,0 +1,244 @@
+
+
+
+
+
+王文海-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0096081";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	王文海
+求实、创新、敬业、专业
+
+	永久链接:http://mypage.zju.edu.cn/wangweihai&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+浙江大学&nbsp;工学学士&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1989年
+浙江大学&nbsp;工学硕士&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1992年
+浙江大学&nbsp;控制系博士&nbsp;&nbsp;&nbsp;&nbsp;1996年
+
+
+B.S.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ZhejiangUniversity,1989
+M.S.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ZhejiangUniversity,1992
+Ph.D.&nbsp;&nbsp;&nbsp;&nbsp;ZhejiangUniversity,1996
+电子邮箱：whwang@iipc.zju.edu.cn
+
+
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+王文海，长期专注于集散控制系统、可编程控制器、智能仪表、工业控制应用软件平台、大型装备工业自动化系统的研究开发与产业化。最终形成独具特色的具有完全自主知识产权的完整计算机控制系统技术体系，在可靠性设计技术、数据I/O技术、实时控制技术、实时数据库技术、工业网络技术、软件平台技术等关键核心技术上有许多重大创新与技术突破，领导技术团队开发完成了全系列计算机控制系统产品。并进行大型工业装备自动化系统的应用研究，获得一系列应用创新成果。作为项目负责人或技术负责人获国家科技进步二等奖1项，省部级一等奖3项，二等奖4项。取得软件著作权21项，专利20项，省部级成果鉴定18项。共发表论文56篇，其中被SSCI、AHCI、SCI、EI收录或权威期刊论文共9篇，国内一级刊物论文7篇，编著1本。现为中国自动化学会理事、中国自动化学位专家咨询工作委员会常务委员、全国工业过程测量和控制标准化技术委员会工业通信及系统分技术委员会（SAC/TC124/SC4）委员、浙江省自动化学会与浙江省仪器仪表学会常务理事、首批注册自动化系统工程师。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+获得的荣誉情况如下：
+(1)浙江省新世纪151人才工程第一层培养人员；
+(2)2010年&ldquo;全国优秀科技工作者&rdquo;；
+(3)2009年度中国过程控制技术贡献奖；
+(4)中国自动化产业世纪行&ldquo;2006中国自动化领域年度人物奖&rdquo;；
+(5)2007年度浙江省青年科技奖；
+(6)2007年度浙江省有突出贡献中青年专家；
+(7)2005-2006年度杭州市科技创新特别贡献奖。
+
+
+曾先后参与项目获奖情况如下：
+
+(1)全集成新一代工业自动化系统获2006年度国家科技进步二等奖；
+(2)装备自动化系统设计开发平台获2007年度教育部高等学校技术进步一等奖；
+(3)大型造纸厂生产过程计算机控制获1997年度国家教委科技进步奖二等奖；
+(4)大型造纸厂生产过程建模、控制与优化2004年度浙江省科学技术进步一等奖；
+(5)制浆造纸过程的现代控制理论与方法获2004年度国家教育部自然科学奖二等奖；
+(6)全集成新一代主控系统获2005年度浙江省科学技术进步一等奖；
+(7)生物化工制药集成自动化系统的关键技术研究获2007年度浙江省科学技术进步二等奖；
+(8)100MW超超临界火电自动化控制系统（ACS）的研发与应用获2012年度浙江省科学技术进步二等奖。
+
+
+			
+				
+			工作研究领域
+			
+			集散控制系统、可编程控制器、智能仪表、工业控制工程应用软件平台、大型装备工业自动化系统的研究开发与产业化
+			
+				
+			联系方式
+			
+			电话：87952126			电子信箱：whwang@iipc.zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：王文海
+		单位：控制科学与工程学系
+		职称：研究员（自然科学）
+		我的主页共被访问了6345次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

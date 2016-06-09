@@ -1,0 +1,206 @@
+
+
+
+
+
+LJQ-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0090216";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	LJQ
+成为一名教师，是我今生的荣耀！
+
+	永久链接:http://mypage.zju.edu.cn/ljq&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			李建琴，女，浙江省德清县人，1968年生，经济学博士，浙江大学经济学院教授，硕士生导师，经济系副主任。主要研究方向为规制经济理论与中国规制改革，具体为农产品价格管制、公用事业民营化与政府规制、民间商会等三个领域。曾经在香港城市大学（2005.8）、荷兰梯尔堡大学（2007.4-7）和台湾淡江大学（2008.9）做短期交流访问。
+在《中国社会科学文摘》、《金融研究》、《经济社会体制比较》和《中国农村经济》等刊物上发表学术论文近40篇；出版学术专著《中国转型时期农产品价格管制研究&mdash;以蚕茧为例》（2006年），教材2部，合著著作6部；主持国家社科基金一般项目、国家社科基金重大项目子项目和省部级重点项目各1项；研究成果获省部级一等奖、二等奖各1项。
+&nbsp;
+			
+				
+			工作研究领域
+			
+			规制经济学、公共经济学、产业经济学
+			
+				
+			联系方式
+			
+			电话：0571-87953272			电子信箱：zjhzljq@126.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：李建琴
+		单位：经济学院经济学系
+		职称：教授
+		我的主页共被访问了10680次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,221 @@
+
+
+
+
+
+欢迎您来到张玉红课题组-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0093179";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	欢迎您来到张玉红课题组
+
+
+	永久链接:http://mypage.zju.edu.cn/0093179&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			研究及工作经历：
+&nbsp;
+1999-2001，德国Augsburg大学博士后
+1995-1999，浙江大学化学系博士
+1985-1988，兰州大学化学系硕士
+1981-1985，兰州大学化学系本科
+&nbsp;
+研究方向：
+&nbsp;&nbsp;1.过渡金属催化的偶联反应及C-H键活化反应研究
+&nbsp;&nbsp;2.原料药以及药物中间体合成及应用开发研究
+&nbsp;
+联系方式：
+实验室：浙江大学玉泉校区教八（化学楼）804，805，813
+办公室：浙江大学玉泉校区化学系教八808
+手机：13588703580；电话（传真）：(+86)0571-87952723&nbsp;
+Email:yhzhang@zju.edu.cn
+&nbsp;
+			
+				
+			工作研究领域
+			
+			1.过渡金属催化的偶联反应及C-H键活化反应研究
+2.原料药以及药物中间体合成及应用开发研究
+
+			
+					
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：张玉红
+		单位：化学系
+		职称：教授
+		我的主页共被访问了41650次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+	学术交流（讲座报告）
+	专利成果
+	实验室介绍
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	张玉红课题组
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

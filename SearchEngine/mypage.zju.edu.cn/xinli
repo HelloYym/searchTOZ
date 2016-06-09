@@ -1,0 +1,211 @@
+
+
+
+
+
+冬日里的阳光-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0010482";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	冬日里的阳光
+念——把今天放在心上
+
+	永久链接:http://mypage.zju.edu.cn/xinli&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			李娟，浙江大学心理健康教育与咨询中心专职咨询师，浙江大学硕士毕业，国家二级心理咨询师。接受过精神分析治疗、催眠治疗、认知治疗、焦点解决模式、创伤治疗与危机干预、哀伤心理辅导、团体心理辅导等专业培训。在大学生个性与自我成长、学业与生涯发展、人际交往与沟通、恋爱与情感、网络过度依赖、家庭与亲子关系等方面有一定的咨询经验。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;咨询理念：&ldquo;无人可以完美，接纳失意，努力做足够好的自己&rdquo;。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&ldquo;每个人都有自我成长的力量，而成长本身会给你带来真正的安全感。&rdquo;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;愿帮助你的人生变得更好！
+			
+				
+			工作研究领域
+			
+			高校心理健康教育
+心理咨询
+			
+				
+			联系方式
+			
+			电话：88981737			电子信箱：lijuan1104@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：李娟
+		单位：心理健康教育与咨询中心
+		职称：
+		我的主页共被访问了642次
+标签：心理健康教育、心理咨询	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		学术交流（讲座报告）
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	心理访谈
+浙江大学心理健康教育与咨询中心
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

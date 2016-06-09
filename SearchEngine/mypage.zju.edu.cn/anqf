@@ -1,0 +1,215 @@
+
+
+
+
+
+安全-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0005418";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	安全
+polymermaterialsandmembranescience
+
+	永久链接:http://mypage.zju.edu.cn/anqf&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			2005年3月毕业于浙江大学高分子系，获得博士学位；2005年至2007年在浙江大学化工系从事博士后研究；2007年7月晋升副高，同年9月进入浙江大学高分子系工作。2009～2010杭州富阳市政府，市长助理（挂职）；2011～2012在台湾中原大学薄膜研发中心进行学术访问。
+主持和作为骨干参与完成国家自然科学基金、重点基金、中国博士后基金、重点实验室开放基金等项目。目前主持国家自然科学基金、浙江省自然科学基金、973三级子课题各一项，863子课题一项，企业产品研发项目两项，浙江省海水淡化创新团队成员。已在国内外发学术期刊上发表SCI论文80余篇，个人H指数达16；申请国家发明专利29项，已授权发明专利21项。
+&nbsp;
+&nbsp;
+			
+				
+			工作研究领域
+			
+			主要研究兴趣：
+（1）高分子溶液（溶液理论、溶液结构及其应用）
+（2）高分子膜（膜材料与成膜技术；膜与水资源和环境（超滤、纳滤、反
+渗透和渗透汽化膜）；传感用功能性纳米膜；高阻隔包装膜）
+（3）荷电高分子组装与超分子聚集
+（4）高分子/纳米复合材料
+
+			
+				
+			联系方式
+			
+			电话：0571-87953780			电子信箱：anqf@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：安全福
+		单位：高分子科学与工程学系
+		职称：副教授
+		我的主页共被访问了11970次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		实验室介绍
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	课题组主页
+浙江省博士后联谊会
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

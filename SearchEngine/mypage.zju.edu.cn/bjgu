@@ -1,0 +1,211 @@
+
+
+
+
+
+谷保静-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0011779";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	谷保静
+
+
+	永久链接:http://mypage.zju.edu.cn/bjgu&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			谷保静，2006年毕业于浙江大学竺可桢学院理科班，2011年在浙江大学获得生态学博士学位，2007-2008年曾公派至加拿大Alberta大学和McGill大学进行联合培养，2011-2013年在浙江大学经济学院从事生态学与经济学交叉学科研究。目前主要从事氮的生物地球化学循环、城市生态学、生态建模以及环境经济学领域的研究工作，围绕区域和全球生态过程对人类活动干扰的响应等前沿科学问题，开展了城市化区域的环境变化过程与机制、人类活动主导区域氮循环的过程及其调控机制、人类-自然耦合系统氮循环的生态建模、工业氮循环过程对全球氮的生物地球化学循环的影响、大气和水体氮污染的源解析及其调控机制方面的工作。&nbsp;
+&nbsp;
+目前工作的主要领域从氮循环拓展到人口和经济发展领域，探讨人口、环境和经济系统的相互作用过程，从而明确人类活动对环境变化的影响机理，进一步探讨环境治理的政策和经济学基础。
+			
+				
+			工作研究领域
+			
+			生物地球化学循环与环境经济学
+			
+				
+			联系方式
+			
+			电话：86-571-88982615			电子信箱：bjgu@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：谷保静
+		单位：浙大政策仿真实验室
+		职称：副研究员
+		我的主页共被访问了8579次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		Selectedpapers
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	INI
+CHANS
+NitrogenNews
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

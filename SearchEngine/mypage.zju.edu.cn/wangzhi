@@ -1,0 +1,226 @@
+
+
+
+
+
+王智的个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0002427";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	王智的个人主页
+
+
+	永久链接:http://mypage.zju.edu.cn/wangzhi&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;&nbsp;实验室主页：&nbsp;http://www.cpszju.net
+&nbsp;&nbsp;&nbsp;&nbsp;王智（1969-）：工学博士，浙江大学工业控制技术国家重点实验室副研究员、博士生导师。2000年9月，毕业于中国科学院沈阳自动化研究所，获工学博士学位，指导教师为王天然院士；2000.09-2002.09，分别与孙优贤院士和宋叶琼教授合作在浙江大学工业控制技术国家重点实验室和法国洛林理工大学机电工程系从事博士后研究。&nbsp;
+&nbsp;&nbsp;长期从事网络与信号处理相关研究，现为中国计算机学会无线传感器网络专委会委员和中国传感器网络标准委员会委员。负责&ldquo;863&rdquo;、国家自然科学基金项目（重点、面上）和国际合作课题（中法先进研究计划和中葡联合项目等）和省部级重点科技攻关等十多项。特别的，是国内最早从事传感器网络方面主要研究者之一，是国内该方向首个国家自然科学基金重点项目的浙江大学方负责人和&ldquo;863&rdquo;探索项目负责人，是国内传感器网络专委会和标准委员会发起人之一。
+-----------------------------------------
+
+<spanlang="EN-US"style="font-size:12.0pt;line-height:150%;mso-fareast-font-family:
+仿宋_GB2312">
+
+工作经历：
+
+&nbsp;2010.2-2011.02，美国威斯康辛-麦迪逊分校，高级访问学者&nbsp;
+&nbsp;2007.12－2008.02，瑞典皇家理工学院（KTH）高级访问学者
+&nbsp;2006.07－至今，博士生导师，浙江大学工业控制技术国家重点实验室
+&nbsp;2002.09，博士后出站，教师，浙江大学工业控制技术国家重点实验室
+&nbsp;2002.07－2002.08、2003.09－2003.11和2006.02－2006.03，
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;法国信息科学与自动化国家研究院（INRIA-LORIA）高级访问学者
+&nbsp;2002.07，晋升副研究员，浙江大学控制科学与工程系
+&nbsp;2000.09－2002.09，博士后，浙江大学控制科学与工程系
+&nbsp;
+&nbsp;
+			
+				
+			工作研究领域
+			
+			目前主要研究方向为物理信息系统（CyberPhysicalSystem,CPS），包括压缩感知与协同信息及信号处理，无线传感器网络信息处理与通信协议，实时网络的建模与优化以及网络控制，移动智能计算平台，工业通信网络等。
+			
+				
+			联系方式
+			
+						电子信箱：wangzhi@iipc.zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：王智
+		单位：控制科学与工程学系
+		职称：副教授（自然科学）
+		我的主页共被访问了11748次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	发表论文
+	出版著作
+	实验室介绍
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

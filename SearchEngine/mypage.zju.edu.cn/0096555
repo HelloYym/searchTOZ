@@ -1,0 +1,207 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0096555";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0096555&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			工作经历：
+1)&nbsp;1996年8月至今，&nbsp;浙江大学药学院，主要从事抗肿瘤新药和生殖健康药物的机理研究和开发工作。负责和承担国家自然科学基金，国家医药技术创新博士基金，浙江省自然科学基金，国家新药研究基金等多项研究；为《Asian&nbsp;Journal&nbsp;of&nbsp;Andrology》通讯编委，浙江省药理学会副秘书长。
+2)&nbsp;2000年10月至2003年10月，美国&nbsp;University&nbsp;of&nbsp;Southern&nbsp;California&nbsp;博士后，&nbsp;主要从事肿瘤多药抗药性的机理研究，以及新型抗肿瘤药物的筛选开发和作用机制研究，为Active&nbsp;membership&nbsp;of&nbsp;American&nbsp;Association&nbsp;of&nbsp;Cancer&nbsp;Research&nbsp;(2000年11月至今)。
+
+教育经历：
+1)&nbsp;1995年9月至1998年8月，&nbsp;中国科学院上海药物研究所，药理学博士。
+2)&nbsp;1993年9月至1995年8月，浙江大学药学院，药理学硕士。
+3)&nbsp;1989年9月至1993年8月，浙江大学药学院，理学学士。
+			
+				
+			联系方式
+			
+			电话：88208400			电子信箱：yang924@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：杨波
+		单位：浙江大学药理毒理与生化药学研究所
+		职称：教授
+		我的主页共被访问了6724次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

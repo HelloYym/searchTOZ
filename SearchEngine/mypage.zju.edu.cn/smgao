@@ -1,0 +1,218 @@
+
+
+
+
+
+高曙明-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0090050";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	高曙明
+乐在其中
+
+	永久链接:http://mypage.zju.edu.cn/smgao&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+1990年毕业于浙江大学应用数学系，获博士学位，毕业后留校在CAD&amp;CG国家重点实验室工作至今，期间曾在美国ArizonaStateUniversity做访问学者和访问教授，曾在德国IPK研究所做访问教授，现为浙江大学计算机学院研究员和博士生导师。
+长期从事CAD和图形学前沿课题研究。近年来，作为项目负责人承担了国家自然科学基金重点项目1项、面上项目5项、国家863计划项目3项、省部级科研项目7项、与GE和SIEMENS的国际合作项目3项。在Computer-AidedDesign、IEEETrans.onASE、ASMETrans.ofJCISE等国内外重要学术刊物和ACMSPM、IEEESMI、ASMEDETC等重要国际学术会议上发表学术论文100余篇，其中国际期刊论文30余篇，SCI、EI收录论文90余篇。研究成果被国内外同行他人引用1000余次。入选教育部跨世纪优秀人才培养计划，荣获&ldquo;陆增墉CAD&amp;CG高科技奖&rdquo;一等奖。
+目前担任ASMETrans.ofJCISE杂志和计算机辅助设计与图形学学报编委，是ACMSPM、IEEESMI、PLM、CSCWD、CAD/Graphics等国际会议的程序委员。
+
+			
+				
+			工作研究领域
+			
+			三维建模、CAD、虚拟样机、协同工程、CAX系统集成、三维模型检索与重用、工程信息学等。
+			
+				
+			联系方式
+			
+			电话：0571-88206681-514			电子信箱：smgao@cad.zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：高曙明
+		单位：计算机科学与技术学院
+		职称：教授
+		我的主页共被访问了26692次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	专利成果
+	奖励荣誉
+	实验室介绍
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	高曙明英文主页
+CAD&CG国家重点实验室
+浙江大学计算机学院
+浙江大学
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

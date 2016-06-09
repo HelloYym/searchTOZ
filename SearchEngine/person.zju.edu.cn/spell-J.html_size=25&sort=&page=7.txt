@@ -1,0 +1,1 @@
+{'name': [u'\u59ec\u7075'], 'title': [], 'photo': '', 'pos': './person.zju.edu.cn/spell-J.html?size=25&sort=&page=7', 'blog': [], 'intro': '', 'department': [u'\u534e\u5bb6\u6c60\u6821\u533a\u515a\u5de5\u59d4\uff08\u534e\u5bb6\u6c60\u6821\u533a\u7ba1\u7406\u59d4\u5458\u4f1a\uff09\u529e\u516c\u5ba4']}

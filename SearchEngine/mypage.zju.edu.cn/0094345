@@ -1,0 +1,212 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0094345";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0094345&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			范今朝（1969～&nbsp;&nbsp;），男，博士，副教授。1969年1月生于古都西安，1987年9月入西北大学地理系自然地理专业学习，1991年6月毕业，获理学学士学位。同年考取研究生，9月入原杭州大学地理系攻读历史地理专业硕士学位。1994年6月研究生毕业，获史学硕士学位。同年8月留校任教。2000年考取华东师范大学资源与环境学院人文地理专业博士研究生（在职），2004年毕业，获理学博士学位。1998年9月四校合并后为浙江大学理学院地球科学系城市与区域发展研究所教师，2003年12月晋升副教授。主要研究领域为区域历史文化、旅游开发及规划、行政区划与地名、城市发展与管理等，已经发表论文20余篇，主撰、参编著作5部。
+			
+				
+			工作研究领域
+			
+			主要研究领域为：
+1.区域历史文化：如浙江省历史地理，浙江古典园林史等；
+2.旅游开发及规划：如旅游文化，旅游区规划，旅游资源调查等；
+3.行政区划与地名：行政区划基本理论，中外行政区划比较研究，中国行政区划改革，地名理论与管理等；
+4.城市发展与管理：城市规划管理法规，城市历史文化遗产保护与管理，城市土地利用规划等。
+
+			
+				
+			联系方式
+			
+			电话：87951336			电子信箱：jzfan0571@sina.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：范今朝
+		单位：地球科学系
+		职称：副教授
+		我的主页共被访问了12586次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	奖励荣誉
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,226 @@
+
+
+
+
+
+zgs-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0002300";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	zgs
+
+
+	Permanentlink:http://mypage.zju.edu.cn/en/zgs&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			Blog
+
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			
+PersonalInformation:
+
+Name:ZouGuangsheng
+DateofBirth:Nov.24,1967
+Title:professor
+BirthPlace:JiangsuChina
+Sex:Male
+MaritalStatus:Married
+Field:Chinesepoetryandliterarycriticism,Comparativepoetics
+WorkPlace:DepartmentofChineseLanguage&amp;Literature,ZhejiangUniversity
+&nbsp;
+WorkExperience:
+&nbsp;
+2008.1-2008.9&nbsp;&nbsp;&nbsp;&nbsp;HarvardUniversity&nbsp;&nbsp;&nbsp;visitingscholar
+2006.12-2007.12&nbsp;CCS,UCBerkeley&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;visitingscholar
+2008-2010&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ZhejiangUniversity,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;professor
+2000-2007&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ZhejiangUniversity,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;associateprofessor
+1995-1997&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;XuzhouNormalUniversity,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lecturer
+&nbsp;
+Education:
+&nbsp;
+1985-1985&nbsp;&nbsp;HenanUniversityofScienceandTechnology　majorinEducation
+1992-1995　SichuanUniversity&nbsp;&nbsp;majorinWordLiterature&nbsp;M.A.
+1997-2000&nbsp;&nbsp;NanjingUniversity&nbsp;&nbsp;majorinLiteratureTheory&nbsp;&nbsp;Ph.D.
+2000-2002&nbsp;&nbsp;ZhejiangUniversity&nbsp;&nbsp;&nbsp;majorinComparativePoetics&nbsp;&nbsp;PostDoctorate
+&nbsp;
+&nbsp;
+&nbsp;
+			
+				
+			Researchwork
+			
+			literaythoery
+			
+				
+			Contact
+			
+			Phone:057181635293
+			E-mail:guangshengzou@yahoo.com.cn
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:ZouGuangsheng
+		Units:ZhejiangUniversity
+		Title:professor
+		Myhomepagehasbeenvisited677times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	
+
+
+Youarevisitor:677
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

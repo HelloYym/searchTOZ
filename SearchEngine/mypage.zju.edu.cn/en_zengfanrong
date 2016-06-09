@@ -1,0 +1,233 @@
+
+
+
+
+
+FanrongZeng-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0011635";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	FanrongZeng
+PlantCellPlanteletrophysiology
+
+	Permanentlink:http://mypage.zju.edu.cn/en/zengfanrong&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			Education
+Ph.D.inCropScience,ZhejiangUniversity,09/2005-12/2010
+B.S.inAgonomy,NanjingAgriculturalUniversity,09/2001-06/2005
+ResearchExperience
+Visitingscientist,UniversityofTasmania,09/2011-09/2013
+PostdoctoralFellow,ZhejiangUniversity,03/2011-09/2013
+DoctoralResearch,ZhejiangUniversity,09/2005-12/2010
+ResearchInterest
+Physiologicalandmolecularmechanismsinplantadaptiveresponsetoabioticstresses
+Publications
+
+
+ZengFR,&nbsp;KonnerupD,&nbsp;ShabalaL,&nbsp;ZhouM,&nbsp;ColmerTD,&nbsp;ZhangGP,&nbsp;ShabalaS.Linkingoxygenavailabilitywithmembranepotentialmaintenanceand&nbsp;K+&nbsp;retentionofbarleyroots:implicationsforwaterloggingstresstolerance.&nbsp;Plant,Cell&amp;Environment2014,37:2325-2338
+ZengFR,WuXJ,QiuBY,WuFB,JiangLX,ZhangGP.Physiologicalandproteomicalterationsinrice(Oryzasativa&nbsp;L.)seedlingsunderhexavalentchromiumstress.Planta2014,240:291-308
+BoseJ,ShabalaL,PottosinI,ZengFR,Velarde-Buend&iacute;aA,MassartA,PoschenriederC,HariadiYuda,ShabalaS.Kineticsofxylemloading,membranepotentialmaintenance,andsensitivityofK+-permeablechannelstoROS:physiologicaltraitsthatdifferentiatesalinitytolerancebetweenpeaandbarley.Plant,Cell&amp;Environment2014,37:587-600
+ZengFR,ShabalaL,ZhouMX,ZhangGP,ShabalaS.Barleyresponsestocombinedwaterloggingandsalinitystress:separatingeffectsofoxygendeprivationandelementaltoxicity.FrontiersinPlantScience2013,4:313
+QiuBY,ZengFR,CaiSG,WuXD,HaiderSI,WuFB,ZhangGP.Alleviationofchromiumtoxicityinriceseedlingsbyapplyingexogenousglutathione.JournalofPlantPhysiology2013,170:772-779
+Bonales-AlatorreE,PottosinI,ShabalaL,ChenZH,ZengFR,JacobsenS,ShabalaS.Differentialactivityofplasmaandvacuolarmembranetransporterscontributestogenotypicdifferencesinsalinitytoleranceinahalophytespecies,Chenopodiumquinoa.InternationalJournalofMolecularSciences&nbsp;2013,14:9267-9285
+Maksimovi&#263;JD,ZhangJY,ZengFR,&#381;ivanovi&#263;BD,ShabalaL,ZhouMX,ShabalaS.Linkingoxidativeandsalinitystresstoleranceinbarley:canrootantioxidantactivitybeusedasameasureofstresstolerance?.PlantandSoil&nbsp;2013,365:141-155
+ZengFR,QiuBY,WuXJ,NiuSZ,WuFB,ZhangGP.Glutathione-mediatedalleviationofchromiumtoxicityinriceplants.BiologicalTraceElementResearch2012,148:255-263
+AliS,CaiSG,ZengFR,QiuBY,ZhangGP.Effectofsalinityandhexavalentchromiumstressesonuptakeandaccumulationofmineralelementsinbarleygenotypesdifferinginsalttolerance.JournalofPlantNutrition2012,35:827-839
+ZengFR,AliS,ZhangHT,OuyangYN,ZhangGP.TheinfluenceofpHandorganicmattercontentinpaddysoilonheavymetalavailabilityandtheiruptakebyriceplants.EnvironmentalPollution2011,159:84-91
+AliS,BaiP,ZengFR,CaiSG,ShamsiIH,QiuBY,WuFB,ZhangGP.Theecotoxicologicalandinteractiveeffectsofchromiumandaluminumongrowth,oxidativedamageandantioxidantenzymesontwobarleygenotypesdifferinginAltolerance.EnvironmentalandExperimentalBotany2011,70:185-191
+AliS,ZengFR,QiuBY,CaiSG,QiuL,WuFB,ZhangGP.Interactiveeffectsofaluminumandchromiumstressesontheuptakeofnutrientsandthemetalsinbarley.SoilScienceandPlantNutrition2011,57:68-79
+ZengFR,ZhaoFS,QiuBY,OuyangYN,WuFB,ZhangGP.Alleviationofchromiumtoxicitybysiliconadditioninriceplants.AgriculturalSciencesinChina2011,10:1188-1196
+ZengFR,ZhouWH,QiuBY,AliS,WuFB,ZhangGP.Subcellulardistributionandchemicalformofchromiuminriceplantssufferingfromthedifferentchromiumstress.JournalofPlantNutritionandSoilScience2011,174:249-256
+OuyangYN,ZengFR,ZhanL,ZhangGP.Characterizationofgrowthandlightutilizationforricegenotypeswithdifferenttillerangles.AgriculturalSciencesinChina&nbsp;2011,10:1701-1709
+QiuBY,ZengFR,XueDW,ZhouWH,AliS,ZhangGP.QTLmappingforchromium-inducedgrowthandzinc,andchromiumdistributioninseedlingsofariceDHpopulation.Euphytica2011,181:429-439
+AliS,ZengFR,QiuL,ZhangGP.Theeffectofchromiumandaluminumongrowth,rootmorphology,photosyntheticparametersandtranspirationofthetwobarleycultivars.BiologiaPlantarum&nbsp;2011,55:291-296
+AliS,ZengFR,CaiSG,QiuBY,ZhangGP.Theinteractionofsalinityandchromiumintheinfluenceofbarleygrowthandoxidativestress.PlantSoilandEnvironment2011,57:153-159
+ZengFR,QiuBY,AliS,ZhangGP.Genotypicdifferencesinnutrientuptakeandaccumulationinriceunderchromiumstress.JournalofPlantNutrition2010,33:518-528
+ZengFR,AliS,QiuBY,WuFB,ZhangGP.EffectsofchromiumstressonthesubcellulardistributionandchemicalformofCa,Mg,FeandZnintworicegenotypes.JournalofPlantNutritionandSoilScience2010,173:135-148
+XueDW,ZhouMX,ZhangXQ,ChenS,WeiK,ZengFR,MaoY,WuFB,ZhangGP.IdentificationofQTLsforyieldandyieldcomponentsofbarleyunderdifferentgrowthconditions.JournalofZhejiangUniversityScience(B)2010,11:169-176
+QiuBY,ZhouWH,XueDW,ZengFR,AliS,ZhangGP.IdentificationofCr-tolerantlinesinarice(Oryzasativa)DHpopulation.Euphytica2010,174:199-207
+JallohMA,ChenJH,ZengFR,ZhangGP.EffectofdifferentNfertilizerformsonantioxidantcapacityandgrainyieldofricegrowingunderCdstress.JournalofHazardousMaterials2009,162:1081-1085
+JinXL,HuangYZ,ZengFR,ZhouMX,ZhangGP.Genotypicdifferenceinresponseofperoxidaseandsuperoxidedismutaseisozymesandactivitiestosaltstressinbarley.ActaPhysiologiaePlantarum2009,21:1103-1109
+ZengFR,MaoY,ChengWD,WuFB,ZhangGP.Genotypicandenvironmentalvariationinchromium,cadmiumandleadconcentrationsinrice.EnvironmentalPollution2008,153:309-314
+ZengFR,ChenS,MiaoY,WuFB,ZhangGP.ChangesoforganicacidexudationandrhizospherepHinthericeplantsunderchromiumstress..EnvironmentalPollution2008,155:284-289
+ChenS,ZengFR,PaoZZ,ZhangGP.Characterizationofhigh-yieldperformanceasaffectedbygenotypeandenvironmentinrice.JournalofZhejiangUniversityScience(B)2008,9:363-370
+
+
+&nbsp;
+			
+				
+			Contact
+			
+			Phone:
+			E-mail:zengfr@zju.edu.cn
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:FanrongZeng
+		Units:InstituteofCropScience
+		Title:Assoc.Professor
+		Myhomepagehasbeenvisited275times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	
+
+
+Youarevisitor:275
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

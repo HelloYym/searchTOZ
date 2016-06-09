@@ -1,0 +1,207 @@
+
+
+
+
+
+张奇春-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0005177";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	张奇春
+
+
+	永久链接:http://mypage.zju.edu.cn/zhangqichun&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			张奇春：女，浙江大学环境与资源学院土壤学科副教授，博导，浙江大学求是青年。2000年本科毕业于浙江大学土壤农业化学专业；2000年至2005年浙江大学硕博连读，从事土壤环境化学与土壤生物化学研究；2005年6月获浙江大学农业资源利用专业博士学位后留校任教；2007年7月通过浙江大学特别评审，晋升为副教授。2011年8月出访美国，在俄亥俄州立大学开展为期1年的合作研究，利用分子生物学的方法，对抗生素对微生物群落结构的影响进行了系统研究。近年来主要从事土壤生物与生物化学、土壤环境化学等领域的研究，在土壤微生物生态、土壤碳氮转化、土壤微生物群落结构等方面取得了一些有价值的研究成果。目前主持国家青年科学基金项目&ldquo;稻田土壤有机氮供氮及其微生物机制研究&rdquo;，973子课题&ldquo;厌氧氨氧化的生物学机制研究&rdquo;，曾主持浙江省自然科学基金项目&ldquo;稻田土壤供氮与微生物群落关系研究&rdquo;&ldquo;抗生素抗性基因的微生物机制&rdquo;、浙江省科技厅项目&ldquo;毛竹林生态系统碳源/汇功能及其调控技术研究&rdquo;，以及教育部博士点青年专项基金&ldquo;稻田土壤供氮能力的生物学机理研究&rdquo;，国家水专项专题&ldquo;四岭水库小流域典型地块的适地养分管理&rdquo;等项目。相关研究成果已在《ScienceoftheTotalEnvironment》，《Chemosphere》，《AgricultureEcosystems&amp;Environment》，《EnvironmentalScienceandPollutionResearch》，《PlantandSoil》等国内外优秀土壤环境类期刊上以发表，共发表SCI论文20余篇，申请国家发明专利6项，授权3项。
+			
+				
+			工作研究领域
+			
+			土壤环境化学，土壤生物化学
+			
+				
+			联系方式
+			
+			电话：88982413			电子信箱：qczhang@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：张奇春
+		单位：环境与资源学院资源科学系
+		职称：副教授
+		我的主页共被访问了1954次
+标签：土壤微生物生态，土壤环境化学，土壤化学，土壤肥力	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		专利成果
+	教学工作
+	工作研究项目
+	发表论文
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

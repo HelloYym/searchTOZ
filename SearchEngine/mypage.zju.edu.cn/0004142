@@ -1,0 +1,208 @@
+
+
+
+
+
+杜阳-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0004142";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	杜阳
+
+
+	永久链接:http://mypage.zju.edu.cn/0004142&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			博士，教授，博士生导师。
+&nbsp;
+1991年毕业于清华大学精密仪器专业，1997年获美国马萨诸塞大学电子工程硕士学位，2003年获美国密歇根大学电子工程博士学位。2001年获美国密歇根大学数学硕士双学位。2007年10-12月在美国麻省理工学院电子学研究实验室作访问研究。2012年1-5月在美国德州A&amp;M大学大气科学系作访问研究，任研究科学家。为美国NASA的主被动土壤水分遥感计划（SMAP）算法组成员。受邀为美国JPL实验室的EniG.Ejoku博士主编的EncyclopediaofRemoteSensing独立撰写有关理论章节。受邀担任IEEE地球科学与遥感年会（IGARSS）的分会主席（2007，西班牙；2009，南非；2010，美国；2011，加拿大）。为国际电磁学研究进展研讨会（PIERS)学术委员会成员（2007，北京；2009，北京；2010，西安；2010，美国波士顿）。
+			
+				
+			工作研究领域
+			
+			电磁场与电磁波，遥感理论与技术，无线通信
+			
+				
+			联系方式
+			
+			电话：0571-87952610			电子信箱：zjuydu03@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：杜阳
+		单位：信息与电子工程学系
+		职称：教授
+		我的主页共被访问了19841次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		发表论文
+	出版著作
+	专利成果
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

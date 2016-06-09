@@ -1,0 +1,214 @@
+
+
+
+
+
+读万卷书，行万里路-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0003332";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	读万卷书，行万里路
+Theworldisabookandthosewhodonottravelreadonlyonepage.
+
+	永久链接:http://mypage.zju.edu.cn/minwang&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			1993.09-1997.07&nbsp;理学学士北京大学化学系
+1997.07-2001.12&nbsp;哲学博士美国俄亥俄州立大学化学系
+2002.01-2003.08&nbsp;博士后&nbsp;&nbsp;&nbsp;美国伊利诺伊大学香槟分校化学与生物分子工程系
+2014.07-2015.07&nbsp;&nbsp;访问学者美国加州大学圣地亚哥分校化学与生物化学系
+&nbsp;
+欢迎具有化学、生物、环境、化工、材料等专业背景的本科生、硕士生、博士生加入本课题组！
+			
+				
+			联系方式
+			
+			电话：0571-88206772			电子信箱：minwang@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：王敏
+		单位：化学系
+		职称：教授
+		我的主页共被访问了51407次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		奖励荣誉
+	研究成果
+	教学工作
+	发表论文
+	学术交流（讲座报告）
+	专利成果
+	实验室成员
+	相片册
+	Alumni
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,241 @@
+
+
+
+
+
+港湾家园-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0005167";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	港湾家园
+如果一定要把高校教师叫做教书匠的话，我愿意做匠心独具的那一个。
+
+	永久链接:http://mypage.zju.edu.cn/0005167&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			1985.9～1991.6&nbsp;天津耀华中学，学生会主席
+1991.9～1995.6&nbsp;浙江大学能源系电厂热能动力专业，工学学士，班团支部书记
+1995.7～1997.8&nbsp;天津军粮城发电厂，助工
+1997.9～2000.2&nbsp;浙江大学内燃机研究所动力机械及工程热物理专业，工学硕士，党支部组织委员
+2000.3～2001.2&nbsp;天津大学天津内燃机研究所，
+2001.3～2005.6&nbsp;浙江大学热能工程研究所工程热物理专业，工学博士，
+2005.6～2007.12&nbsp;浙江大学热工与动力系统研究所师资博士后，讲师，工会小组长
+2006.1~2006.5&nbsp;美国内布拉斯加林肯大学（UNL）机械系，访问学者
+2008.1~2012.12&nbsp;浙江大学热工与动力系统研究所，副教授，所长助理
+2008.12~2009.12&nbsp;瑞典皇家工学院（KTH）能源技术系，访问博士后
+2012.12~2013.12浙江大学热工与动力系统研究所，教授/博导
+2014.1~&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江大学热工与动力系统研究所，所长
+&nbsp;
+研究方向：
+采用汽液两相分离型热管作为强化传热元件应用于聚光式太阳能集热系统，解决了集热管对流散热损失大，传热工质泵功耗大的难题；建立国内首台50kW自然循环热管式太阳能蒸汽发生系统装置，实现稳定生产0.7-0.8MPa蒸汽，夏季系统集热效率达到35.04%，相关研究发表在期刊SolarEnergy上。
+对管内对流传热进行了理论研究，提出了三角形与圆形截面同心套管内，不同普朗特数流体的对流传热关联式；分析了水基纳米流体在不同形状封闭腔内的非定常自然对流传热特性，探讨了传热性能与纳米颗粒添加量和布朗运动的关系，为拓展先进传热工质的选择方向以及在太阳能集热管中的应用提供了理论依据，相关研究形成一系列论文，其中7篇发表在期刊InternationalJournalofHeatandMassTransfer上。
+近期对碳纳米复合相变材料的表观传递物性（导热系数和粘度）与储能特性（比热容、相变焓和相变温度）的调控规律进行了研究，探索了二维石墨烯材料在导热系数强化上相对于一维碳纳米管材料的特色与优势，相关研究已被国际期刊Carbon（IF=5.378）录用并在网上发表。
+近5年来发表文章SCI论文14篇；获得发明专利授权6项。负责国家自然科学基金青年项目1项，面上项目1项，863子课题1项，中国工程院咨询项目分课题1项，企业横向课题A类（100万）项目1项；作为技术骨干参加国家自然科学基金重点项目1项（3/10），企业横向课题A类项目3项。
+教学情况：
+曾于2006年1-5月被派往美国Nebraska-Lincoln大学机械系进修教学，回国后作为主讲教师为能源系本科生主讲核心课程3门：《工程热力学》（双语），《工程流体力学》（双语），《传热学》（双语）；作为能源系协调人负责《动力工程及工程热物理专业》研究生全英文课程建设，并担任《高等工程热力学》主讲教师之一；作为负责人主持国家精品资源共享课程《热工实验》建设。2009年9月获得国家级教学成果二等奖1项（排名4/10）。
+学术兼职：
+担任中国高等教育学会工程热物理专业委员会理事，教育部高等学校能源动力类专业教学指导委员会副秘书长，全国大学生节能减排社会实践与科技竞赛委员会秘书长，机械工业环境保护机械标准化技术委员会余热回收利用技术装备分技术委员会副秘书长，是美国机械工程师学会(ASME)会员。担任InternationalJournalofHeatandMassTransfer、NumericalHeatTransfer、InternationalJournalofThermalSciences、ASMEJournalofHeatTransfer、HeatandMassTransfer、AppliedEnergy、Energy、Industrial&amp;EngineeringChemistryResearch等期刊审稿人。
+来自天津，
+家住港湾，
+立足杭州，
+献身浙大。
+
+热工研究组主页：http://www.itsps.zju.edu.cn/thermal/
+&nbsp;
+			
+				
+			工作研究领域
+			
+			固体热物性测试技术，
+多孔介质内的传热、传质，
+高热流条件下传热数值计算，
+太阳能集热器的优化设计，
+太阳能光热转化及热利用，
+热管余热利用技术
+
+
+			
+				
+			联系方式
+			
+			电话：0571-87952378			电子信箱：yuzitao@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：俞自涛
+		单位：能源工程学系热工与动力系统研究所
+		职称：教授/博士生导师
+		我的主页共被访问了15559次
+标签：动力工程及工程热物理，工程热物理，热能工程，能源与环境系统工程，新能源科学与工程	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+	专利成果
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	浙江大学热工研究组
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

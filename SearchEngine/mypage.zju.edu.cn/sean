@@ -1,0 +1,328 @@
+
+
+
+
+
+董树荣-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0098072";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	董树荣
+踏踏实实做事！认认真真做人！
+
+	永久链接:http://mypage.zju.edu.cn/sean&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			<spanstyle="font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">浙江大学信电系微电子与光电子所副所长，教授博导，浙江大学昆山专用集成电路研发中心主任（Founder），<spanstyle="font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">浙江大学-美国UCF大学ESD<spanstyle="font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">联合实验室副主任（Founder），联系方法：浙江杭州<spanstyle="font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;
+mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">浙江大学信电系，310027，电话：0571-87951705-302，手机:13858190316；Email:dongshurong@zju.edu.cn;skype：seandong888168;QQ：289158243
+<spanstyle="font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">教育经历：<spanstyle="font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+Calibri;mso-hansi-theme-font:minor-latin">本科及硕士毕业于浙江大学材料系，博士毕业于浙江大学信电系
+<spanstyle="font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+Calibri;mso-hansi-theme-font:minor-latin"/><spanstyle="font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">海外经历：2007,2010-2011<spanstyle="font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">年美国UCF<spanstyle="font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">大学访问教授；2009-2010,2011<spanstyle="font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">年英国剑桥大学访问教授
+<spanstyle="font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin"/><spanstyle="font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">主要兼职：IEEE<spanstyle="font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">高级会员、IEEEEDSHZ<spanstyle="font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">分会副主席、浙江省真空学会会员/<spanstyle="font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">办公室主任/<spanstyle="font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">理事、中华ESD<spanstyle="font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">学会技术委员会委员（TPC<spanstyle="font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">）、TPC<spanstyle="font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">或顾问或chairICSITC,ASICON,IPFA,CIICT<spanstyle="font-family:
+宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
+宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin">等
+<spanstyle="font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">近5<spanstyle="font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+Calibri;mso-hansi-theme-font:minor-latin">年（2008-2013<spanstyle="font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">）成果：
+<spanstyle="font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+Calibri;mso-hansi-theme-font:minor-latin">1）发表期刊论文55<spanstyle="font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+Calibri;mso-hansi-theme-font:minor-latin">篇，其中主要作者的SCI期刊<spanstyle="font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+Calibri;mso-hansi-theme-font:minor-latin">论文47<spanstyle="font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+Calibri;mso-hansi-theme-font:minor-latin">篇，含ScientificReports<spanstyle="font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">、JMC<spanstyle="font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">、5<spanstyle="font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">篇APL<spanstyle="font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">、7<spanstyle="font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">篇EDL<spanstyle="font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">、TED<spanstyle="font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">、JAP<spanstyle="font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">等，合计影响因子超过80，受到英国电子快报EL两次首页专访（关于FBAR和ESD）及两次highlight报道、英国皇家学会季度TOP10论文等<spanstyle="font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">。<spanstyle="font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">另外：国际会议论文31<spanstyle="font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">篇，含邀请论文8<spanstyle="font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">篇及keynotes<spanstyle="font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">主题发言3<spanstyle="font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">次等。
+<spanstyle="font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">2)申请发明专利71<spanstyle="font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">项，授权43<spanstyle="font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">项。
+<spanstyle="font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">3)获得科研经费2100<spanstyle="font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">万元，含国家项目（863<spanstyle="font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">及国家基金）7<spanstyle="font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">项。
+<spanstyle="font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">4)浙江省151<spanstyle="font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">人才、江苏6<spanstyle="font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">大高峰人才、姑苏人才、昆山双创才等。
+<spanstyle="font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">5)国家高校科技进步二等奖、国家高校自然科学二等奖、浙江省科技进步二等奖等。
+<spanstyle="font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin"/>
+			
+				
+			工作研究领域
+			
+			MEMS射频器件和传感器及其系统、集成电路可靠性及ESD，功率集成电路
+			
+				
+			联系方式
+			
+			电话：0571-87951705-302			电子信箱：dongshurong@zju.edu.cn;			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：董树荣
+		单位：信息与电子工程学系微电子与光电子所
+		职称：教授
+		我的主页共被访问了19397次
+标签：踏踏实实做事！认认真真做人！	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	研究成果
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

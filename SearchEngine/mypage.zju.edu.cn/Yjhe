@@ -1,0 +1,209 @@
+
+
+
+
+
+何一坚个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0004200";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	何一坚个人主页
+
+
+	永久链接:http://mypage.zju.edu.cn/Yjhe&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+
+2008年1月-至今，浙江大学能源工程学系副教授、硕士生导师
+2004年8月-2007年12月，浙江大学能源工程学系讲师
+1999年9月-2004年7月，浙江大学机械与能源工程学院,博士研究生
+1995年9月-1999年7月，浙江大学能源工程学系,本科生
+
+&nbsp;
+			
+				
+			工作研究领域
+			
+			研究兴趣主要在两个方面，热科学及其环境控制，每年招收硕士研究生，包括免试生与统考生，欢迎积极联系。现在开展的研究内容具体包括如下一些：1）吸收式制冷技术（溴化锂吸收式制冷、氨水扩散吸收式制冷等）；2）低品位热转换与利用技术（太阳能热泵、地源热泵等）；3）新型制冷技术（半导体制冷、新型喷射制冷、热管及热管式空调技术、复叠/自行复叠制冷技术等）；4）HVACR系统及建筑节能技术(建筑设备及监控系统集成、设备节能等)；5）空调制冷系统热力学及传热学优化（系统优化、换热器强化等）；6）制冷空调应用新技术（在可再生能源、清洁能源等的应用）
+			
+				
+			联系方式
+			
+			电话：0571-87952464(已从美国回国，联系手机：13588175159，QQ：1696327636)			电子信箱：yijian_he@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：何一坚
+		单位：能源工程学系
+		职称：副教授
+		我的主页共被访问了4540次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

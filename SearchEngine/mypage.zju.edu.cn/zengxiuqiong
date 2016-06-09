@@ -1,0 +1,225 @@
+
+
+
+
+
+曾秀琼-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0095391";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	曾秀琼
+快乐工作、快乐生活！
+
+	永久链接:http://mypage.zju.edu.cn/zengxiuqiong&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			1992年9月-1995年7月：杭州大学化学系（现浙江大学），获无机化学专业理学硕士
+1998年3月-2003年3月：浙江大学环境科学系，获环境科学工学博士学位
+2001年9月-2002年7月，上海外国语大学，德语培训（教育部公派出国人员德语强化）
+2003年7月-2004年7月：获瑞士联邦奖学金，赴瑞士苏黎世联邦工业大学（公派留学）
+2006-至今：浙江大学化学系副教授&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1998-2006：浙江大学化学系讲师
+1995.8-1998.5：原杭州大学（现浙江大学）化学系助教
+1．曾秀琼,&nbsp;夏式均,&nbsp;二氧化硫脲还原沉析银的电势法研究，化学研究与应用,&nbsp;&nbsp;1996,8:325.&nbsp;
+2．曾秀琼,&nbsp;夏式均,&nbsp;二氧化硫脲性质的分光光度法研究，化学研究与应用，1996,8:437.&nbsp;
+3．曾秀琼,&nbsp;夏式均,&nbsp;二氧化硫脲性质的电势法研究，应用化学,&nbsp;&nbsp;1996,13:69.&nbsp;
+4．曾秀琼，刘维屏，(NH2)2CSO2&nbsp;与Co2+-NH3体系定向反应的研究，浙江大学学报（理学版），2000，27（6）：633.&nbsp;
+5．曾秀琼，(NH2)2CSO2还原[Ag(S2O3)2]3-以沉析银的研究，贵金属，2001,&nbsp;22:16.
+6．曾秀琼，郭建军，刘维屏，交联膨润土在环境污染控制中的应用综述，上海环境科学，2001,&nbsp;20:&nbsp;312.&nbsp;
+7．曾秀琼，无机&mdash;有机膨润土对活性艳红染料废水的处理，环境科学与技术，2000，3：11.&nbsp;
+8．曾秀琼，许映杰，刘维屏，Al-Fe柱撑膨润土的制备及其对活性艳红的吸附，浙江大学学报（理学版），2001,&nbsp;28:423.&nbsp;
+9．曾秀琼，刘维屏，无机--有机柱撑膨润土的制备及其在水处理的应用进展，环境治理技术与设备，&nbsp;2001,&nbsp;2:9.&nbsp;
+10．曾秀琼，郭建军，刘维屏，羟基铝蒙脱石去除染料弱酸性深蓝GR的研究，环境科学，&nbsp;2001,&nbsp;22&nbsp;:65.&nbsp;
+11．曾秀琼，染料弱酸性深蓝GR在羟基铁柱撑膨润土上的吸附，&nbsp;水处理技术，2001，27：200.&nbsp;
+12．Zeng&nbsp;Xiu-qiong，Liu&nbsp;Wei-ping，Preparation&nbsp;and&nbsp;characterize&nbsp;of&nbsp;mixed&nbsp;Al-Fe&nbsp;pillared&nbsp;montmorillonrite&nbsp;with&nbsp;large&nbsp;basal&nbsp;spacing，Journal&nbsp;of&nbsp;Environmental&nbsp;Sciences，2004，16(1):117（SCI收录）。
+13．Zeng&nbsp;Xiu-qiong，Liu&nbsp;Wei-ping，Adsorption&nbsp;of&nbsp;Direct&nbsp;Green&nbsp;B&nbsp;on&nbsp;mixed&nbsp;hydroxy-Fe-Al&nbsp;pillared&nbsp;montmorillonite&nbsp;with&nbsp;large&nbsp;basal&nbsp;spacing，Journal&nbsp;of&nbsp;Environmental&nbsp;Sciences，&nbsp;2005，17（1）：159-162（SCI收录）。
+14．C.&nbsp;R.&nbsp;Kurz,&nbsp;X.Q.&nbsp;Zeng,&nbsp;R.&nbsp;Kissner,&nbsp;S.&nbsp;Hannemann,&nbsp;and&nbsp;W.&nbsp;H.&nbsp;Koppenol.&nbsp;On&nbsp;the&nbsp;Chemical&nbsp;and&nbsp;Electrochemical&nbsp;One-Electron&nbsp;Reduction&nbsp;of&nbsp;Peroxynitrous&nbsp;Acid.&nbsp;Journal&nbsp;of&nbsp;Physical&nbsp;Chemistry,&nbsp;2005，109：965-969（SCI收录）
+15．Zeng&nbsp;Xiu-qiong，Synthesis&nbsp;and&nbsp;adsorption&nbsp;properties&nbsp;of&nbsp;mixed&nbsp;hydroxy-Fe-Al&nbsp;pillared&nbsp;bentonites，Journal&nbsp;of&nbsp;Zhejiang&nbsp;University&nbsp;SCIENCE，2006年1月
+			
+				
+			工作研究领域
+			
+			1、无机化合物氧化-还原反应机理研究
+2、生物无机化学
+3、羟基金属柱撑蒙脱石的制备及废水处理
+4、实验教学研究
+			
+				
+			联系方式
+			
+			电话：88206126			电子信箱：xiuqiong_zeng@yahoo.com.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：曾秀琼
+		单位：化学系
+		职称：副教授
+		我的主页共被访问了2174次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

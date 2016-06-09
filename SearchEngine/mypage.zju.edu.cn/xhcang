@@ -1,0 +1,246 @@
+
+
+
+
+
+仓晓慧-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0013053";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	仓晓慧
+
+
+	永久链接:http://mypage.zju.edu.cn/xhcang&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			。
+学习经历:
+
+
+1994年9月&ndash;1998年7月:&nbsp;&nbsp;&nbsp;南京大学生物化学系.&nbsp;学士.
+2001年9月&ndash;2003年12月:&nbsp;&nbsp;&nbsp;南京大学生物化学系.&nbsp;硕士.
+2004年8月&ndash;2010年9月:&nbsp;&nbsp;&nbsp;美国犹他大学药物化学系.&nbsp;博士.
+
+
+
+
+。
+工作经历:
+
+
+2011年1月&ndash;2013年5月:&nbsp;&nbsp;&nbsp;中科院上海药物研究所.&nbsp;博士后.
+2013年5月至今：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江大学生命科学学院.教师,副教授
+2015年3月至今：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江大学医学院遗传学研究所&nbsp;副教授
+
+
+
+
+。
+&nbsp;
+教学经历:
+
+
+2006年春学期:&nbsp;&nbsp;&nbsp;&nbsp;犹他大学&nbsp;&ldquo;结构方法学&rdquo;（助教）.
+2013年冬学期:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙大生科院&nbsp;&ldquo;生物信息学实验&rdquo;
+2014年冬学期:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙大生科院&nbsp;&ldquo;生物信息学实验&rdquo;
+&nbsp;
+发表文章：
+9.CangX,YangL,YangJ,LuoC,ZhengM,YuK,YangH*,JiangH*.Cholesterol-beta(1)ARinteractionversuscholesterol-beta(2)ARinteraction&nbsp;.Proteins.2014May;82(5):760-70.&nbsp;(IF=3.3)
+8.SponerJ*,Ml&aacute;dekA,Spa&#269;kov&aacute;N,CangX,CheathamTE3rd,GrimmeS*.RelativestabilityofdifferentDNAGuaninequadruplexstemtopologiesderivedusinglarge-scalequantum-chemicalcomputations.JAmChemSoc.2013Jul3;135(26):9785-96.&nbsp;(IF=10.7)
+7.CangX,DuY,MaoY,WangY,YangH*,JiangH*.Mappingthefunctionalbindingsitesofcholesterolin&beta;2-adrenergicreceptorbylong-timemoleculardynamicssimulations.JPhysChemB.2013Jan31;117(4):1085-94.(IF=3.7,浙大TOP期刊)
+6.MaoY,DuY,CangX,WangJ,ChenZ,YangH*,JiangH*.BindingcompetitiontothePOPGlipidbilayerofCa2+,Mg2+,Na+,andK+indifferentionmixturesandbiologicalimplication.JPhysChemB.2013Jan24;117(3):850-8.&nbsp;(IF=3.7)
+5.SponerJ*,CangX,CheathamTE3rd*.MoleculardynamicssimulationsofG-DNAandperspectivesonthesimulationofnucleicacidstructures.Methods.2012May;57(1):25-39.Review.&nbsp;(IF=4.2)
+4.DuY,YangH*,XuY,CangX,LuoC,MaoY,WangY,QinG,LuoX,JiangH*.ConformationaltransitionandenergylandscapeofErbB4activatedbyneuregulin1&beta;:onemicrosecondmoleculardynamicssimulations.JAmChemSoc.2012Apr18;134(15):6720-31.(IF=10.7)
+3.CangX,&Scaron;ponerJ,CheathamTE3rd*.InsightintoG-DNAstructuralpolymorphismandfoldingfromsequenceandloopconnectivitythroughfreeenergyanalysis.JAmChemSoc.2011Sep14;133(36):14270-9.(IF=10.7)
+2.CangX,&Scaron;ponerJ,CheathamTE3rd*.Explainingthevariedglycosidicconformational,G-tractlengthandsequencepreferencesforanti-parallelG-quadruplexes.NucleicAcidsRes.2011May;39(10):4499-512.&nbsp;(IF=8.3)
+1.CangX,WangJ*.AuniqueATGtripletdownstreamofgenestartinarchaea:implicationsfortranslationinitiationandevolution.Gene.2004Feb18;327(1):75-9.(IF=2.2)
+&nbsp;
+2014年冬学期:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙大生科院&nbsp;&ldquo;生物信息实验&rdquo;
+			
+				
+			工作研究领域
+			
+			生物大分子结构功能关系的分子动力学模拟研究，结构生物信息学
+			
+				
+			联系方式
+			
+						电子信箱：xhcang@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：仓晓慧
+		单位：医学院遗传学研究所
+		职称：副教授
+		我的主页共被访问了6724次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

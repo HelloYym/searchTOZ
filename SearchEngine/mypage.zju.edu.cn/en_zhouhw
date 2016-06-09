@@ -1,0 +1,303 @@
+
+
+
+
+
+BraveHunanese-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0005145";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	BraveHunanese
+
+
+	Permanentlink:http://mypage.zju.edu.cn/en/zhouhw&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			Blog
+
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			M.E.,HunanUniversity,2001
+Ph.D.,ZhejiangUniversity,2004
+Postdoc.,McMasterUniversity,2005
+AssociateProfessor.&nbsp;ZhejiangUniversity,2005
+SelectedPublications:
+&nbsp;
+SynthesisofPolyfunctionalizedQuinolinesviatheSequenceofPropargyl&ndash;AllenylIsomerizationandAza-electrocyclization
+HongweiZhou*,&nbsp;&nbsp;LeLiu,andShiminXu
+J.Org.Chem.,2012,77,9418
+&nbsp;
+ApplicationsoftheinsituPropargyl-AllenylIsomerizationinOrganicSynthesis
+YanpengXing,YuxiuWei,&nbsp;HongweiZhou*
+Curr.Org.Chem.2012,16,1594(invitedreview)
+&nbsp;
+SulfurasaBridge:SynthesisofMediumRingsviaaBicyclicSulfoniumIon
+HongweiZhou,*YanpengXing,LeLiu,andJunjieHong
+Adv.Synth.Catal.2011,353,3146
+&nbsp;
+
+ASimpleandEfficientProtocolto1,2,4-SubstitutedPyrrolesviaaSonogashiraCoupling&ndash;Acid-CatalyzedCyclization
+DaZhu,JieZhao,YuxiuWei,HongweiZhou*
+Synlett&nbsp;2011,2185
+
+&nbsp;
+HeteroatomasaPromotor:SynthesisofPolyfunctionalizedBenzenesandNaphthalenes
+HongweiZhou,*YanpengXing,JinzhongYao,andYunLu
+J.&nbsp;Org.&nbsp;Chem.&nbsp;2011,&nbsp;4582
+
+
+&nbsp;
+Sulfur-assistedpropargyl&ndash;allenylisomerizationsandintramolecularcyclizationforthesynthesisoftricyclicthiophenederivatives
+GuangyuXu,KaixiongChena,HongweiZhou*
+Tetrahedron&nbsp;Lett.2010,51,6240
+
+&nbsp;
+Sulfur-Assistedand1,8-DiazabicycloACHTUNGTRENUNG[5.4.0]undec-7-ene(DBU)-CatalyzedCyclizationof2-AlkynylanilinesfortheMetal-FreeSynthesisofIndoleDerivatives
+HongweiZhou,*DaZhu,YanpengXing,andHuafengHuang
+Adv.Synth.Catal.2010,352,2127&nbsp;&nbsp;&nbsp;
+
+&nbsp;
+&nbsp;
+Sulfur-AssistedPropargyl-AllenylIsomerizationsandElectrocyclizationsfortheConvenientandEfficientSynthesisofPolyfunctionalizedBenzenesandNaphthalenes
+HongweiZhou,*YanpengXing,JinzhongYao,andJunhuiChen
+Org.Lett.,2010,12,3674&nbsp;
+&nbsp;
+Ga(OTf)3-Promoted&nbsp;Sequential&nbsp;Reactions&nbsp;via&nbsp;Sulfur-Assisted&nbsp;Propargyl-Allenyl&nbsp;Isomerizations&nbsp;and&nbsp;Intramolecular&nbsp;[4&nbsp;&amp;thorn;&nbsp;2]&nbsp;Cycloaddition&nbsp;for&nbsp;the&nbsp;Synthesis&nbsp;of&nbsp;1,3-Dihydrobenzo[c]thiophenes
+Hongwei&nbsp;Zhou,*&nbsp;Da&nbsp;Zhu,&nbsp;Yongfa&nbsp;Xie,&nbsp;Huafeng&nbsp;Huang,&nbsp;Kai&nbsp;Wang
+J.&nbsp;Org.&nbsp;Chem.&nbsp;2010,&nbsp;2706
+
+Sulfur-Assisted&nbsp;Five-Cascade&nbsp;Sequential&nbsp;Reactions&nbsp;for&nbsp;the&nbsp;Convenient&nbsp;and
+Efficient&nbsp;Synthesis&nbsp;of&nbsp;Allyl&nbsp;Thiophen-2-yl&nbsp;Acetates,&nbsp;Propionates,&nbsp;and&nbsp;Ketones
+Hongwei&nbsp;Zhou,*&nbsp;Yongfa&nbsp;Xie,&nbsp;Lianjun&nbsp;Ren,&nbsp;and&nbsp;Rui&nbsp;Su
+Org.&nbsp;Lett.&nbsp;2010,&nbsp;356
+
+Sulfur-Participated&nbsp;Nazarov-Type&nbsp;Cyclization:&nbsp;A&nbsp;Simple&nbsp;and&nbsp;Efficient&nbsp;&nbsp;Synthesis&nbsp;for&nbsp;3-Thio-1H-indenes
+Hongwei&nbsp;Zhou*,&nbsp;Yongfa&nbsp;Xie,&nbsp;Lianjun&nbsp;Ren,&nbsp;Kai&nbsp;Wang
+Adv.Synth.Catal.&nbsp;&nbsp;2009,&nbsp;1289
+
+&lsquo;Long-Range&rsquo;&nbsp;Pummerer-Type&nbsp;Cyclization:&nbsp;A&nbsp;Simple&nbsp;and&nbsp;Facile&nbsp;Synthesis&nbsp;of&nbsp;5-Vinyl-1,3-oxazole
+Guanyu&nbsp;Xu,&nbsp;Kaixiong&nbsp;Chen,&nbsp;Hongwei&nbsp;Zhou*
+SYNTHESIS，2009,21，3565
+
+Electrophilic&nbsp;cyclization&nbsp;of&nbsp;4-thio-but-2-yn-1-ols&nbsp;via&nbsp;1,2-migration&nbsp;of
+the&nbsp;thio&nbsp;group:&nbsp;efficient&nbsp;synthesis&nbsp;of&nbsp;2,4-dihalo-3-thio-substituted&nbsp;furans
+Hongwei&nbsp;Zhou,*&nbsp;Jinzhong&nbsp;Yao,&nbsp;Guoliang&nbsp;Liu
+Tetrahedron&nbsp;Lett.&nbsp;2008，&nbsp;226&ndash;228
+
+Bismetalated&nbsp;carbon&nbsp;for&nbsp;tandem&nbsp;Wittig-type&nbsp;reaction&nbsp;via
+allylgallation&nbsp;of&nbsp;magnesium&nbsp;acetylides:&nbsp;A&nbsp;convenient&nbsp;and
+efficient&nbsp;method&nbsp;to&nbsp;allyl&nbsp;allenes
+Hongwei&nbsp;Zhou,*&nbsp;Guoliang&nbsp;Liu,&nbsp;Changying&nbsp;Zeng
+J.&nbsp;Orgmet.&nbsp;Chem.&nbsp;2008,&nbsp;787&ndash;791
+
+GaCl3-Catalyzed&nbsp;Chloroacylation&nbsp;of&nbsp;Alkynes:&nbsp;A&nbsp;Simple,&nbsp;Convenient&nbsp;and
+Efficient&nbsp;Method&nbsp;to&nbsp;b-Chlorovinyl&nbsp;Ketones
+Hongwei&nbsp;Zhou,*&nbsp;Changying&nbsp;Zeng,&nbsp;Lianjun&nbsp;Ren,Wenhui&nbsp;Liao,&nbsp;Xian&nbsp;Huang*
+Synlett&nbsp;&nbsp;2006,&nbsp;3504
+A&nbsp;New&nbsp;Thermal&nbsp;Source&nbsp;of&nbsp;Dimethoxycarbene.&nbsp;Dipolar&nbsp;Intermediates&nbsp;Lead&nbsp;to&nbsp;2:1&nbsp;
+Stoichiometry&nbsp;in&nbsp;Reaction&nbsp;with&nbsp;Electrophilic&nbsp;Alkenes
+Hongwei&nbsp;Zhou,&nbsp;Grzegorz&nbsp;Mloston&nbsp;and&nbsp;John&nbsp;Warkentin*
+Org.&nbsp;Lett.&nbsp;2005,&nbsp;7,&nbsp;487.
+&nbsp;
+Facile&nbsp;and&nbsp;Effective&nbsp;Copper-Mediated&nbsp;Cyclization&nbsp;Reaction&nbsp;of&nbsp;Cyclopropylideneacetic
+Acids&nbsp;(or&nbsp;Esters)&nbsp;and&nbsp;Cyclopropylideneacetonitriles
+Xian&nbsp;Huang*&nbsp;,&nbsp;Hongwei&nbsp;Zhou,&nbsp;Wanli&nbsp;Chen
+J.&nbsp;Org.&nbsp;Chem.&nbsp;2004,&nbsp;69,&nbsp;839&nbsp;
+&nbsp;
+First&nbsp;Tandem&nbsp;Free-Radical&nbsp;Cyclization&nbsp;Reaction&nbsp;of&nbsp;Alkylenecyclopropanes:&nbsp;A&nbsp;Novel&nbsp;and&nbsp;Efficient&nbsp;Method&nbsp;for&nbsp;the&nbsp;Preparation&nbsp;of&nbsp;2-(3,4-Dihydronaphthalen-2-yl)malonic&nbsp;Acid&nbsp;Diethyl&nbsp;Esters.
+Hongwei&nbsp;Zhou,&nbsp;Xian&nbsp;Huang*,&nbsp;Wanli&nbsp;Chen
+J.&nbsp;Org.&nbsp;Chem.&nbsp;2004,&nbsp;69,&nbsp;5471
+&nbsp;
+An&nbsp;Efficient&nbsp;Access&nbsp;to&nbsp;Selenazoline-4-Carboxylate&nbsp;Derivatives&nbsp;Incorporating&nbsp;Cyclopropyl&nbsp;Groups
+Xian&nbsp;Huang&nbsp;*,&nbsp;Wan&nbsp;Li&nbsp;Chen,&nbsp;Hongwei&nbsp;Zhou
+Synlett&nbsp;2004,&nbsp;329
+&nbsp;
+A&nbsp;Novel&nbsp;One-Pot&nbsp;Stereoselective&nbsp;Synthesis&nbsp;of&nbsp;N-[(E)-Homocinnamyl]&nbsp;Amides
+Wanli&nbsp;Chen,&nbsp;Xian&nbsp;Huang*,&nbsp;Hongwei&nbsp;Zhou
+Synthesis&nbsp;2004,&nbsp;1573
+&nbsp;
+CuX2Mediated&nbsp;Halogenation&nbsp;of&nbsp;Alkylidenecyclopropanes:&nbsp;A&nbsp;Highly&nbsp;Efficient&nbsp;and&nbsp;Stereoselective&nbsp;Method&nbsp;for&nbsp;the&nbsp;Preparation&nbsp;of&nbsp;3-Halo-homoallylic&nbsp;Halides
+Hongwei&nbsp;Zhou,&nbsp;Xian&nbsp;Huang*,&nbsp;Wanli&nbsp;Chen
+Synlett&nbsp;2003,&nbsp;13,&nbsp;2080&nbsp;
+&nbsp;
+Novel&nbsp;Tunable&nbsp;CuX2-Mediated&nbsp;Cyclization&nbsp;Reaction&nbsp;of&nbsp;Cyclopropylideneacetic&nbsp;Acids&nbsp;and&nbsp;Esters&nbsp;for&nbsp;the&nbsp;Facile&nbsp;Synthesis&nbsp;of&nbsp;4-Halomethyl-2&nbsp;(5H)-furanones&nbsp;and&nbsp;4-Halo-5,6-dihydro-2H-pyran-2-ones.
+Xian&nbsp;Huang*&nbsp;and&nbsp;Hongwei&nbsp;Zhou
+Org.&nbsp;Lett.&nbsp;2002,&nbsp;4,&nbsp;4419
+			
+				
+			Researchwork
+			
+			OrganicSynthesis
+			
+				
+			Contact
+			
+			Phone:0571-88920271
+			E-mail:zhouhw@zju.edu.cn
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:ZhouHongwei
+		Units:chemistry
+		Title:associateprofessor
+		Myhomepagehasbeenvisited4018times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	
+
+
+Youarevisitor:4018
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

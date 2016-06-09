@@ -1,0 +1,213 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0081110";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0081110&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1、获得并负责完成国家自然科学基金项目5个、863高技术项目7个，并有6项科研成果通过鉴定（其中3项达国际先进或国际水平）。
+　　2、目前与上海交大联合负责国家973重大研究项目&ldquo;语义网格的基础理论、模型、方法和关键技术&rdquo;（04-09年）的课题&ldquo;知识网格环境下支持产品创新设计和虚拟生产的理论与技术&rdquo;，重点研究&ldquo;基于Agent的语义网格和自治计算&rdquo;。
+　　3、收入SCI索引（8）、EI索引(32)、ISTP索引(5)和国内一级期刊（17）的论文62篇；其它国际会议发表的论文十多篇；国内二级期刊和高级学术会议论文70余篇。
+　　4、专著：基于知识的软件智能化技术，国家九五重点图书；教育部面向21世纪课程教材：人工智能基础。
+
+			
+				
+			工作研究领域
+			
+			网络计算与普适计算、智能软件与Agent技术、软件工程与中间件技术、知识管理与决策支持。
+
+			
+				
+			联系方式
+			
+			电话：87951923(O)			电子信箱：gaoji@mail.hz.zj.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：高济
+		单位：计算机科学与技术学院计算机科学与工程学系
+		职称：教授
+		我的主页共被访问了10103次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	研究成果
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

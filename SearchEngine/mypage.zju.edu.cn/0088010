@@ -1,0 +1,208 @@
+
+
+
+
+
+YZZ'S个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0088010";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	YZZ'S个人主页
+叶志镇的个人主页
+
+	永久链接:http://mypage.zju.edu.cn/0088010&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;叶志镇，男，1955年5月生于浙江温州。现任浙江大学材料科学与工程系主任。浙江省特级专家、浙大求是特聘教授、博士生导师。兼任国家自然科学基金委信息科学部半导体学科评审组成员，全国电子材料专委副主任，全国半导体与集成技术、半导体材料和半导体物理专委委员等。1999-2009年曾任浙江大学材料科学与化学工程学院副院长。1997-2009年曾任浙江大学硅材料国家重点实验室主任。
+1977年考入浙江大学电机系，1982年1月获学士，1984年获浙大光仪系硕士，1987年获光仪系博士；毕业后留校工作，1990－1992年作为、高级访问学者、留学美国麻省理工学院(MIT)；1994年晋升为教授；1996年选为博导。1988年进入浙大硅材料国家重点实验室，一直从事半导体薄膜教学科研工作，主要研究方向：ZnO材料生长、物性调控及应用；纳米薄层材料高真空CVD技术研发及应用。
+多年来围绕国家光电信息技术和节能技术目标，完成20余项国家与省部级科研项目。负责完成&ldquo;十五&rdquo;国家&ldquo;973&rdquo;课题和国家自然基金重点项目各1项；目前在研包括&rdquo;973&rdquo;课题、国家自然基金重点项目、面上基金及省部级科研项目10余项。
+国际上较早开展ZnO研究。1989年ZnO研究结果发表在国际期刊AppliedOptics上；1990年&ldquo;ZnO:In透明导电薄膜&rdquo;获浙江省科技三等奖。在ZnO薄膜制备、p型掺杂与LED室温电致发光；ZnO纳米结构可控生长与场发射应用；ZnO:Ga透明导电薄膜等方面取得了重要创新成果；其中&ldquo;ZnO基材料生长、p型掺杂与室温电致发光研究&rdquo;获2006年浙江省科技一等奖、2007年国家自然科学二等奖；&ldquo;基于纳米管、纳米线的低维结构材料可控生长与应用基础研究&rdquo;获2007年浙江省科技一等奖。
+高真空CVD薄膜技术及应用研究取得重要成果。合作创建了国内第一台超高真空CVD设备，自主研发了超高真空CVD和高真空MOCVD两大类创新薄膜系统，发展了低温CVD工艺；研制了优质Si、SiGe和GaN等晶体薄膜材料与器件；整套技术在全国50多家大学和科研单位推广应用，效益重大；3项成果获省部级科技二等奖，其中浙江省科技发明二等奖1项，教育部二等奖2项。
+10项成果获得奖励，其中国家自然科学二等奖1项，浙江省科技一等奖2项，省部级科技二等奖3项；浙江省鉴定成果5项；授权国家发明专利36项；发表论文400多篇，其中国际权威期刊Adv.Mater.1篇，APL30篇；被SCI收录200余篇、EI收录100余篇，论文被他引1700余次，其中SCI他引1200余次；国际大会报告40多次，其中邀请报告15次，包括美国MRS秋季大会邀请报告。
+1994年被评为国家重点实验室全国先进工作者并获&ldquo;金牛奖&rdquo;；1995年选为浙江省首批&ldquo;中青年学术带头人&rdquo;；1996年入选教育部&ldquo;跨世纪优秀人才培养计划&rdquo;；1997年入选国家&ldquo;百千万人才工程&rdquo;；1997年享受国务院特殊津贴。2006年被聘为浙大首批求是特聘教授；2007年评为浙江省突出贡献中青年专家；2008年选为浙江省特级专家和浙江省优秀留学回国人员。
+			
+				
+			联系方式
+			
+						电子信箱：yezz@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：叶志镇
+		单位：材料科学与工程学系
+		职称：教授
+		我的主页共被访问了44496次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	出版著作
+	实验室介绍
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

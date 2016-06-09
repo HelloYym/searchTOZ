@@ -1,0 +1,246 @@
+
+
+
+
+
+JFGong-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0013224";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	JFGong
+
+
+	Permanentlink:http://mypage.zju.edu.cn/en/jfgong&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			JunfengGONG
+Title:AssociateProfessor
+ReesarchInterests:StructuralGeology,TectonicGeomorphologyandOrogenicEvolution
+Institution:SchoolofEarthSciences,ZhejiangUniversity
+E-mail:jfgong@zju.edu.cn
+
+
+
+
+ProfessionalExperience
+2013.12-Present,AssociateProfessor,&nbsp;SchoolofEarthSciences,ZheiangUniversity
+2013.11-2013.12,&nbsp;AssistantProfessor,&nbsp;SchoolofEarthSciences,ZhjejiangUniversity
+2011.10-2013.11,&nbsp;PostdocFellow,UniversityofCaliforniaLosAngeles
+2009.07-2011.10,&nbsp;PostdocFellow,InstitutionofTheoreticalandAppliedGeophysics,PekingUniversity
+2004.09-2009.07,Ph.DinStructuralGeology,SchoolofEarthandSpaceSciences,PekingUniversity
+2000.09-2004.07,Undergraduate,ShandongUniversityofScienceandTechnology
+
+
+
+
+AcademicAchievements
+Projects:
+04.2015.01-2018.12,&nbsp;Subductionandexhumation,metamorphismanddeformation,andthermalevolutionoftheeasternHimalayasasconstrainedbyYadongandCuonasections(NaturalScienceFoundationofChina)
+03.2015.01-2015.12,TheeasternHimalayas:Tectonicevolutionandclimate-tectonicinteractions.(ZhejiangUniversitySpecialFundation)
+02.2011.01-2013.12,Low-temperaturethermochronologyanditscouplingwithclimateintheeasternHimalayansyntaxis(NaturalScienceFoundationofChina)
+01.2010.01-2012.01,&nbsp;Elaborationofthe&nbsp;thermalhistoryontheNamcheBarwa-YarlungZangboRiversection&nbsp;(ChinesePostdocFoundation)
+
+Publications:
+
+21.J.Gong,J.Ji,J.Zhou,J.Tu,D.Sun,D.Zhong,B.Han.LateMiocenethermalevolutionoftheeasternHimalayansyntaxisasconstrainedbybiotite40Ar/39Arthermochronology.JournalofGeology,Accepted.
+20.J.Gong,Y.Chen,2014.EvidenceoflateralasthenosphereflowbeneaththeSouthChinacratondrivenbybothPacificplatesubductionandtheIndia-Eurasiacontinentalcollision.TerraNova,26(1):55-63.
+19.B.Li,J.Ji,D.Wang,J.Gong,Z.Ma,2014.DeterminationofEocene-Oligocene(30-40Ma)deformationaltimebyzieconU-PbSHRIMPdatingfromleucocraticrocksintheAilaoShan-RedRivershearzone,southeastTibet,China.InternationalGeologyReview,56(1):74-87.
+18.H.Sang,F.Wang,J.Gong,J.Zhou.2013.ThecertifiedresultsofZMT04muscovitereferencematerialutilizedfor40Ar/39ArisotopicgeochronologicalresearchonEarlyPrecambrianrocksinChina.ActaPetrologicaSinica,29(8):2759-2774.(inChinesewithEnglishabstract)
+17.Q.Xu,J.Ji,L.Zhao,J.Gong,J.Zhou,G.He,D.Zhong,J.Wang,L.Griffiths.,2013.TectonicevolutionandcontinentalcrustgrowthofNorthernXinjianginnorthwesternChina:Remnantoceanmodel.Earth-ScienceReviews,126:178-205.
+16.J.Tu,J.Ji,J.Zhou,Q.Xu,J.Gong.2013.Laser40Ar/39ArdatingofthesiliceousrocksinNorthXinjiang.ActaPetrologicaSinica,29(8):2796-2802.(inChinesewithEnglishabstract)
+15.J.Zhou,J.Ji,A.Deino,J.Gong,B.Han,J.Tu,H.Sang,J.Xu.2013.Laserfusion40Ar/39Ardatingonyoungvolcanicrocks.ActaPetrologicaSinica,29(8):2811-2825.(inChinesewithEnglishabstract)
+14.J.Gong,J.Ji,B.Han,J.Chen,D.Sun,B.Li,J.Zhou,J.Tu,D.Zhong,2012.Earlysubduction-exhumationandlatechannelflowoftheGreaterHimalayanSequence:implicationsfromtheYadongsectionineasternHimalaya.InternationalGeologyReview,54(10):1184-1202.
+13.B.Li,J.Ji,Q.Lo,J.Gong,J.Qing.2012.ThestructuralstyleandtimingofupliftoftheAilaoShan-DiancangRange,westYunnan,China.SeismologyandGeology,34(4):696-712.(inChinesewithEnglishabstract)
+12.L.Zhao,J.Ji,Q.Xu,J.Gong,J.Tu,J.Wang.2012.Karamailistrike-slippingfaultanddeformationalsequencesinceLatePlaeozoicinthenorthernXinjiang.ActaPetrologicaSinica,28(7):2257-2268.(inChinesewithEnglishabstract)
+11.X.Yu,J.Ji,J.Gong,D.Sun,J.Qing,L.Wang,D.Zhong,Z.Zhang,2011.EvidenceofrapiderosiondrivenbyclimateintheYarlungZangbo(Tsangpo)GreatCanyon,theeasternHimalayansyntaxis.ChineseScienceBulletin,56(11):1123-1130.
+10.J.Gong,J.Ji,J.Zhou,J.Chen,J.Qing,D.Sun,B.Han,D.Zhong.2009.Coolinghistoryconstrainedbydetrital40Ar/39ArgeochronologyineasternHimalayasyntaxis:implicationsforclimaticandtectonicrecords.ActaPetrologicaSinica,25(3):621-635.(inChinesewithEnglishabstract)
+09.B.Li,J.Ji,X.Fu,J.Gong,B.Song,J.Qing,C.Zhang,Z.Ma.2009.Metamorphictimelimits&rsquo;studyonthemetamorphicrocksseriesofAilaoShan-DiancangMountainRanges,westYunnan.ActaPetrologicaSinica,25(3):595-608.(inChinesewithEnglishabstract)
+08.Y.Li,J.Ji,J.Tu,J.Gong,Z.Wang,J.Wang.2009.StructureofLiujiangterrainandimplicationsfordisplacementofTanlufaultsystem.ActaPetrologicaSinica,25(3):675-681.(inChinesewithEnglishabstract)
+07.D.Sun,J.Ji,Z.Zhang,J.Gong,J.Chen,J.Qing,D.Zhong.2009.AFTdatingofdetritalapatitesfromtheYarlungZangboGreatCanyon:implicationsforitsdistinctgeomorphologicalevolution.ChineseScienceBulletin,54:3738-3747.(inChinesewithEnglishabstract)
+06.Q.Xu,J.Ji,J.Gong,L.Zhao,J.Tu,D.Sun,T.Tao,Z.Zhu,G.He,J.Hou.2009.StructuralstyleanddeformationsequenceofwesternJunggar,Xinjiang,sinceLatePaleozoic.ActaPetrologicaSinica,25(3):636-644.(inChinesewithEnglishabstract)
+05.J.Chen,J.Ji,J.Gong,J.Qing.2008.FormationoftheYarlungZangboGrandCanyon,Tibet,China.GeologicalBulletinofChina,27(4):491-499.(inChinesewithEnglishabstract)
+04.J.Gong,J.Ji,J.Chen,H.Sang,B.Li,Y.Liu,B.Han.2008.The40Ar/39ArgeochronologystudiesofrocksineasternHimalayasyntaxis.ActaPetrologicaSinica,24(10):2255-2272.(inChinesewithEnglishabstract)
+03.B.Li,J.Ji,X.Fu,J.Gong,B.Song,J.Qing,C.Zhang.2008.ZirconSHRIMPdatinganditsgeologicalimplicationsofthemetamorphicrocksinAilaoShan-DiancangMountainRanges,westYunnan.ActaPetrologicaSinica,24(10):2322-2330.(inChinesewithEnglishabstract)
+02.J.Zhou,J.Ji,B.Han,F.Ma,J.Gong,Q.Xu,Z.Guo.2008.40Ar/39ArGeochronologyofmaficdykesinnorthXinjiang.ActaPetrologicaSinica,24(5):997-1010.(inChinesewithEnglishabstract)
+01.J.Gong,J.Ji,H.Sang,B.Han,B.Li,J.Chen.2006.40Ar/39ArGeochronologyofhigh-pressuregranuliteexnolithanditssurroundinggraniteincentralHimalaya.ActaPetrologicaSinica,22(11):2677-2686.(inChinesewithEnglishabstract)
+			
+				
+			Researchwork
+			
+			ThermochronologyandGeochronology,StructuralGeologyandTectonicGeomorphology
+			
+				
+			Contact
+			
+			Phone:
+			E-mail:jfgong@zju.edu.cn
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:JunfengGong
+		Units:DepartmentofEarthScience,ZhejiangUniversity
+		Title:AssociateProfessor
+		Myhomepagehasbeenvisited390times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	
+
+
+Youarevisitor:390
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

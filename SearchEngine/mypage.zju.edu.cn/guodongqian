@@ -1,0 +1,257 @@
+
+
+
+
+
+钱国栋的个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0097069";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	钱国栋的个人主页
+GuodongQian
+
+	永久链接:http://mypage.zju.edu.cn/guodongqian&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;
+钱国栋：男，工学博士，博士生导师。教育部&ldquo;长江学者奖励计划&rdquo;特聘教授，国家杰出青年科学基金获得者；无机非金属材料研究所所长，硅材料国家重点实验室副主任，国务院学位委员会第七届学科评议组成员；入选教育部&ldquo;跨世纪优秀人才&rdquo;培养计划和浙江省&ldquo;新世纪151人才工程&rdquo;重点培养人选。
+
+GuodongQian,Ph.D
+Professor,InstituteofInorganicMaterials
+DepartmentofMaterialsScience&amp;Engineering
+ZhejiangUniversity
+Hangzhou310027,China
+E-mail:gdqian@zju.edu.cn
+Tel:+86-571-87952334
+Fax:+86-571-87951234
+&nbsp;
+ProfessorGuodongQianreceivedhisbachelor&rsquo;s(1988)andmaster&rsquo;s(1992)degreesinMaterialsSciencefromZhejiangUniversity.HejoinedtheMaterialsDepartmentofZhejiangUniversityafterobtaininghisPhDdegreefromthesameUniversityin1997.HehasbeenVisitingScholarandVisitingProfessoratHongKongUniversityofScience&amp;Technology,China,andatKyotoUniversity,Japan.HewasawardedJSPSResearchFellowship(December2001-February2002)asaVisitingResearcheratthePhotonCraftProject,ICORP,JSTinJapan.HewaspromotedtofullprofessorandDistinguishedScholar&nbsp;in2002and2011,respectively.
+ProfessorQianisthecoordinatorofmanynationalprojectsandtheauthorofmorethan130scientificpapers.Healsohas15patents.In2001,hewasawardedtheNationalExcellentDoctoralDissertationofChina,FokYingTungEducationFoundationforYoungTeachersandTrans-CenturyTrainingProgrammeFoundationfortheTalentsbyMinistryofEducation,respectively.In2004,hewasawardedtheKurataAwardbyTheCeramicSocietyofJapan.HewasthewinnerofNationalScienceFundforDistinguishedYoungScholarsin2006.
+Hiscurrentresearchinterestsincludehybridorganic-inorganicphotonicmaterials(solidtunablelasermedia,luminescencematerialsandnonlinearopticalmaterials);&nbsp;cathodeoranodematerialsof&nbsp;lithium-ion&nbsp;batteries;photonicglasses;opticalspectroscopy;metal-organicframeworks(MOFs)forthesensing,storageandseparation.
+&nbsp;
+&nbsp;
+Selected&nbsp;Publications：(*Correspondingauthor)
+
+1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;J.Yu,Y.Cui,H.Xu,Y.Yang,Z.Wang,B.Chen*andG.Qian*,Confinementofpyridiniumhemicyaninedyewithinananionicmetal-organicframeworkfortwo-photonpumpedlasing,NatureCommunications,4(2013)2719.DOI:10.1038/ncomms3719
+2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;X.Rao,T.Song,J.Gao,Y.Cui,Y.Yang,C.Wu,B.Chen*andG.Qian*,Ahighlysensitivemixedlanthanidemetal-organicframeworkself-calibratedluminescentthermometer,J.Am.Chem.Soc.,135(41)(2013)15559-15564
+3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;X.Rao,J.Cai,J.Yu,Y.He,C.Wu,W.Zhou,T.Yildirim,B.Chen*andG.Qian*,Amicroporousmetal-organicframeworkwithbothopenmetalandLewisbasicpyridylsitesforhighC2H2andCH4storageatroomtemperature,Chem.Commun.,49(60)(2013)6719-6721
+4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Y.Yang,Z.Liao,Y.Zhou,Y.CuiandG.Qian*,Self-curablesolid-stateelasticdyelaserscapableofmechanicalstressprobing,Opt.Lett.,38(10)(2013)1627-1629
+5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;X.Duan,J.Yu,J.Cai,Y.He,C.Wu,W.Zhou*,T.Yildirim,Z.Zhang,S.Xiang,M.O&rsquo;Keeffe,B.Chen*andG.Qian*,Amicroporousmetal-organicframeworkofararestytopologyforhighCH4storageatroomtemperature,Chem.Commun.,49(20)(2013)2043-2045
+6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;J.Yu,Y.Cui*,C.Wu,Y.Yang,Z.Wang,M.O&rsquo;Keeffe,B.Chen*andG.Qian*,Second-ordernonlinearopticalactivityinducedbyordereddipolarchromophoresconfinedintheporesofananionicmetal-organicframework,Angew.Chem.Int.Ed.,51(42)(2012)10542-10545
+7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;H.Xu,X.Rao,J.Gao,J.Yu,Z.Wang,Z.Dou,Y.Cui,Y.Yang,B.Chen*andG.Qian*,Aluminescentnanoscalemetal-organicframeworkwithcontrollablemorphologiesforsporedetection,Chem.Commun.,&nbsp;48(59)(2012)7377&ndash;7379
+8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Q.Huang,J.Cai,H.Wu,Y.He,B.Chen*andG.Qian*,Arobustmicroporousmetal-organicframeworkconstructedfromaflexibleorganiclinkerforhighlyselectivesorptionofmethanoloverethanolandwater,J.Mater.Chem.,22(20)(2012)10352-10355
+9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;W.Lin,Y.Cui*,J.Gao,J.Yu,T.LiangandG.Qian*,Six-branchedchromophoreswithisolationgroups:synthesisandenhancedopticalnonlinearity,J.Mater.Chem.,22(18)(2012)9202-9208
+10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Y.Cui,H.Xu,Y.Yue,Z.Guo,J.Yu,Z.Chen,J.Gao,Y.Yang,G.Qian*andB.Chen*,Aluminescentmixed-lanthanidemetal&minus;organicframeworkthermometer,J.Am.Chem.Soc.,134(9)(2012)3979-3982
+11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Y.Cui,Y.Yue,G.Qian*andB.Chen*,Luminescentfunctionalmetal-organicframeworks,Chem.Rev.,112(2)(2012)1126-1162
+12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;X.Rao,Q.Huang,X.Yang,Y.Cui,Y.Yang,C.Wu,B.Chen*andG.Qian*,ColortunableandwhitelightemittingTb3+andEu3+dopedlanthanidemetal-organicframeworkmaterials,J.Mater.Chem.,22(7)(2012)3210-3214
+13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Y.Tan,J.Yu,Y.Cui,Y.Yang,Z.Wang,X.HaoandG.Qian*,A&nbsp;novel2,6-dicarbonylpyridine-basedfluorescentchemosensorforCo2+withhighselectivityandsensitivity,Analyst,136(24)(2011)5283-5286
+14.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Y.Das,H.Xu,Z.Wang,G.Srinivas,W.Zhou,Y.Yue,V.Nesterov,G.Qian*andB.Chen*,AZn4O-containingdoublyinterpenetrated&nbsp;porousmetalorganicframeworkforphotocatalyticdecompositionofmethyl&nbsp;orange,Chem.&nbsp;Commun.,47(42)(2011)11715-11717
+15.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;J.Gao,Y.Cui,J.Yu,W.Lin,Z.WangandG.Qian*,Enhancementofnonlinearopticalactivityinnewsix-brancheddendriticdipolarchromophore,J.Mater.Chem.,21(9)(2011)3197&ndash;3203
+16.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;H.Xu,F.Liu,Y.Cui,B.Chen*andG.Qian*,Aluminescentnanoscalemetal-organicframeworkforsensingofnitroaromaticexplosives,Chem.Commun.,47(11)(2011)&nbsp;3153-3155
+17.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Z.Zhang,S.Xiang,X.Rao,Q.Zheng,F.Fronczek,G.Qian*andB.Chen*,Arodpackingmicroporousmetal-organicframeworkwithopenmetalsitesforselectiveguestsorptionandsensingofnitrobenzene,Chem.Commun.,46(38)(2010)7205-7207
+18.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B.Chen*,S.XiangandG.Qian*,Metal-organicframeworkswithfunctionalporesforrecognitionofsmallmolecules,Acc.Chem.Res.,43(8)(2010)1115-1124
+19.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Y.Xiao,Y.Cui,Q.Zheng,S.Xiang,G.Qian*andB.Chen*,Amicroporousluminescentmetal-organicframeworkforhighlyselectiveandsensitivesensingofCu2+inaqueoussolution,Chem.Commun.,46(30)(2010)5503-5505
+20.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;J.Yu,Y.Cui,J.Gao,Z.WangandG.Qian*,Enhancedopticalnonlinearityandimprovedtransparencyofinorganic-organichybridmaterialscontainingbenzimidazolechromophores,J.Phys.Chem.B,113(45)(2009)14877-14883
+21.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;J.Gao,Y.Cui,J.Yu,Z.Wang,M.Wang,J.QiuandG.Qian*,Moleculardesignandsynthesisofhetero-trichromophoreforenhancednonlinearopticalactivity,Macromolecules,42(6)(2009)2198-2203
+22.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B.Chen*,L.Wang,Y.Xiao,F.Zapata,M.Xue,Y.CuiandG.Qian*,ALuminescentmetal-organicframeworkwithLewisbasicpyridylsitesforsensingofmetalions,Angew.Chem.Int.Ed.,48(3)(2009)500-503
+23.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B.Chen*,L.Wang,F.Zapata,G.Qian*andE.B.Lobkovsky,Aluminescentmicroporousmetal-organicframeworkfortherecognitionandsensingofanions,J.Am.Chem.Soc.,130(21)(2008)6718-6719
+24.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B.Chen*,Y.Yang,F.Zapata,G.Lin,G.Qian*andE.B.Lobkovsky,Luminescentopenmetalsiteswithinametal-organicframeworkforsensingofsmallmolecules,Adv.Mater.,19(2007)1693-1696
+25.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L.Chen,G.Qian*,X.Jin,Y.Cui,J.Gao,Z.WangandM.Wang,Inorganic-organichybridnonlinearopticalfilmscontainingbulkyalkoxysilanedyes,J.Phys.Chem.B,111(12)(2007)3115-3121
+26.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Y.Cui,G.Qian*,L.Chen,Z.WangandM.Wang,Hybridnonlinearopticalmaterialscontainingimidazolechromophorethroughthesol-gelprocess,Macromol.RapidCommun.,28(20)(2007)2019-2023
+27.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B.Chen*,Y.Yang,F.Zapata,G.Qian*,Y.Luo,J.ZhangandE.B.Lobkovsky,EnhancedNIR-luminescenceinanerbium-tetrafluoroterephthalateframework,Inorg.Chem.,45(22)(2006)8882-8886
+28.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L.Chen,G.Qian*,Y.Cui,X.Jin,Z.WangandM.Wang,Hybridmaterialscovalentlyincorporatedwithisophorone-baseddyesthroughsol-gelprocessfornonlinearopticalapplications,J.Phys.Chem.B,110(39)(2006)19176&ndash;19182
+29.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Q.Zhong,H.Wang,G.Qian*,Z.Wang,J.Zhang,J.QiuandM.Wang,Anovelstoichiometricallyerbium-ytterbium-co-crystallinecomplexexhibitingenhancednear-infraredluminescence,Inorg.Chem.,45(11)(2006)4537-4543
+30.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Y.Cui,G.Qian*,L.Chen,Z.Wang,J.GaoandM.Wang,Enhancedthermalstabilityofdipolealignmentininorganic-organichybridfilmscontainingbenzothiazolechromophore,J.Phys.Chem.B,110(9)(2006)4105-4110
+31.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Y.Liu,G.Qian*,Z.WangandM.Wang,TemperaturedependentluminescentpropertiesofEu-Tbcomplexessynthesizedin-situingelglass,Appl.Phys.Lett.,86(7)(2005)071907
+32.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Y.Cui,G.Qian*,J.Gao,L.Chen,Z.WangandM.Wang,Preparationandnonlinearopticalpropertiesofinorganic-organichybridfilmswithvarioussubstituentsonchromophores,J.Phys.Chem.B,109(49)(2005)23295-23299
+
+&nbsp;
+			
+				
+			工作研究领域
+			
+			无机―有机杂化光功能材料（固态可调协染料激光介质、发光材料、非线性光学材料、传感材料）；Li离子电池电极材料；光功能玻璃；纳米材料与纳米结构；金属-有机框架多孔功能材料（MOFs）及其在环境、生物、信息等领域应用；光谱学。欢迎有志于从事上述研究领域的青年学者、年轻学子来本实验室工作、从事博士后研究和攻读博士、硕士学位。
+			
+				
+			联系方式
+			
+			电话：+86-571-87952334			电子信箱：gdqian@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：钱国栋
+		单位：材料科学与工程学系
+		职称：教授
+		我的主页共被访问了57041次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		招聘青年学子
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

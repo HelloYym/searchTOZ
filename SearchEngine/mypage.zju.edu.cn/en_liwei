@@ -1,0 +1,222 @@
+
+
+
+
+
+LIWei(ZJUOceanCollege)-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0014120";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	LIWei(ZJUOceanCollege)
+Attitudeiseverything.
+
+	Permanentlink:http://mypage.zju.edu.cn/en/liwei&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			Position
+2014.05-&nbsp;present&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lecturer,OceanCollegeoftheZhejiangUniversity,China
+2008.10-2014.04&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PhDcandidate,DepartmentofHydraulicEngineering,DelftUniversityofTechnology,theNetherlands
+2007.09-2008.10&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PhDcandidate,Department&nbsp;ofHydraulicEngineering,TsinghuaUniversity,China
+2003.09-2007.06&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Undergraduatestudent,DepartmentofHydraulicandHydropowerEngineering,WuhanUniversity,China
+&nbsp;
+Publications
+
+Peer-reviewedinternationaljournalarticles:
+1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Li,W.,deVriend,H.J.,Wang,Z.B.,andD.S.vanMaren(2013),Morphologicalmodelingusingafullycoupled,Totalvariationdiminishingupwind-biasedcenteredscheme,WaterResourcesResearch,AGU,49,3547-3565,doi:10.1002/wrcr.20138.
+2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Li,W.,Wang,Z.B.,deVriend,H.J.,andD.S.vanMaren(2014),Long-termeffectsofwaterdiversionsonthelongitudinalflowandbedprofiles,JournalofHydraulicEngineering,ASCE,doi:10.1061/(ASCE)HY.1943-7900.0000856.
+3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Li,W.,Wang,Z.B.,vanMaren,D.S.,deVriend,H.J.,andB.S.Wu(2014),Relativeroleofbedroughnesschangeandbederosiononpeakdischargeincreaseinhyperconcentratedfloods,AdvancesinGeosciences,EGU(Specialissue:Proceedingsofriver,coastal,andmorphodynamics).
+4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Li,W.,vanMaren,D.S.,Wang,Z.B.,deVriend,H.J.,andB.S.Wu(2014),Peakdischargeincreaseinhyperconcentratedfloods,AdvancesinWaterResources,Elsevier,67,65-77,DOI:10.1016/j.advwatres.2014.02.007.
+5.&nbsp;&nbsp;&nbsp;Hu,P.,Li,W.,*He,Z.,Pahtz,T.,andYue,Z.(2014).Well-balancedandflexiblemodellingofswashhydrodynamicsandsedimenttransport.CoastalEngineering,inpress.(SCI,ZJUTop)
+&nbsp;
+Peer-reviewedChinesejournalarticles:
+5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Li,W.,*Liu,X.Y.,Xu,B.F.,andB.S.Wu(2010),AreviewofresearchprogressinscienceofsoilerosionintheUK,ScienceofSoilandWaterConservation,8(1),108-113(inChinese).
+6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Li,W.,*Liu,X.Y.,Xu,B.F.,andB.S.Wu(2009),StatusandmanagementofsoilerosionintheUKandimplications,JournalofChinaInstituteofWaterResourcesandHydropowerResearch,7(3)(inChinese).
+&nbsp;
+Articlesinconferenceproceedings:
+7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Li,W.,Wang,Z.B.,vanMaren,D.S.,deVriend,H.J.,andB.S.Wu(2013),Relativeroleofbedroughness,bederosionandchannelstorageonpeakdischargeincreaseinhyperconcentratedfloods,In:Proceedingsofriver,coastal,andmorphodynamics,Santander,Spain.[abstractandoralpresentation]
+8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Li,W.,Wang,Z.B.,deVriend,H.J.,andB.S.Wu(2012),Comparativerolesofroughnessreductionandbederosionondownstreampeakdischargeincrease,In:the5thInternationalYellowRiverForum,Zhengzhou,China.[oralpresentation]
+9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Li,W.,Wang,Z.B.,deVriend,H.J.,andD.S.vanMaren(2011),Investigationtothemechanismsofthedownstreamincreasingpeakdischargeinhyperconcentratedfloods,In:Proceedingsofriver,coastal,andmorphodynamics,Beijing,China.[oralpresentation]
+10.&nbsp;*Li,W.,Wang,Z.B.,andH.J.deVriend(2010),TheimpactofwaterdiversiononrivermorphologyanditsimplicationsfortheLowerYellowRiver,In:the11thinternationalsymposiumonriversedimentation,CapeTown,SouthAfrica.[oralpresentation]
+11.&nbsp;*Li,W.,etal.(2006).Calculationofhorizontaldistancesofsedimentsettlinginflowingwater,In:the7thtechniquemeetingonleveeconstructionandmanagementintheYangtzeRiver,Wuhan,China(inChinese).
+&nbsp;
+			
+				
+			Researchwork
+			
+			hydrodynamics,sedimenttransport,fluvialprocesses,hyperconcentratedflow,mathematicalmodelling,computationalfluiddynamics
+			
+				
+			Contact
+			
+			Phone:
+			E-mail:lw05@zju.edu.cn;lwpiglet@hotmail.com
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:LI,Wei
+		Units:OceanCollegeoftheZhejiangUniversity
+		Title:Lecturer
+		Myhomepagehasbeenvisited639times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	
+
+
+Youarevisitor:639
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

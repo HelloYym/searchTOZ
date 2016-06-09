@@ -1,0 +1,217 @@
+
+
+
+
+
+方道元-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0092119";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	方道元
+浙江大学数学系
+
+	永久链接:http://mypage.zju.edu.cn/dyf&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+&nbsp;方道元，男，1958年4月出生。1982年1月获浙江师范大学理学学士，92年7月获复旦大学理学博士学位。之后在浙江大学数学系任教。期间98年在法国巴黎第十三大学作博士后研究。99年7月至今任浙江大学数学系教授，博士生导师，高等数学研究所所长。是浙江省新世纪&ldquo;151&rdquo;人才（二层次）。2001年获国家教学成果2等奖一次（排名第3）。已编著出版《数学建模》、《非线性波动方程》、《常微分方程》、《变粘性Navier-Stokes方程组》等书籍。
+他多年来一直从事非线性偏微分方程分析的研究。研究领域广阔，涉及微局部分析、现代Fourier分析等应用于非线性波动方程、Schrodinger方程，Navier-Stokes&nbsp;方程等描述流体运动的数学理论的研究。自94年以来连续获得国家自然科学基金的资助。近年来他和其合作者在多个研究领域已作出了一系列重要的工作，部分成果已引起同行的重视，并被著名数学家C.Kenig,C.Sogge,D.Tataru和菲尔茨奖获得者T.Tao等人引用。如对高维Klein-Gordon方程的Cauchy问题，大大减弱了在无限远处同类研究（著名数学家Klainerman需要紧支集，Shatah需要快速下降）对初始条件的要求。在方法上突破了Fields奖获得者Bourgain方法所需的限制；对于波动方程方面，他们给出了线性波动方程解的全象征表示，与学生一起王成波解决了Klainerman95年的一个有关Strichartz估计的一个猜想的同时证明了在某端点的不成成立性；之后他们通过引入角变量推广了著名的KSS估计，解决了低正则、低维的Strauss猜想；他们（与学生钟思佳）还对于一类经向初值的两个空间变量Zakharov系统在低于能量的空间中的整体存在性和破裂解的L^2集中现象作了研究，改进了Fields奖获得者Bourgain的一个存在性结果，并发现了系统破裂的一个特征;他们（与韩征、谢剑等）又对分数次Sobolev空间中非线性Schrodinger方程解的适定性，长时间形态等重要性质方面取得了一系列重要成果。解决了上世纪80年代遗留的几个基本而重要的问题如连续依赖性、无条件唯一性等；在紧流形上的Schrodinger方程解的Sobolev模的增长估计方面也取得了一些重要进展（与学生张启迪）。在流体力学的数学理论方面更是取得了一系列重要成果（与学生张挺等）；最近，他们（与学生訾瑞昭等）对复杂流体的Oldroyd-B模型进行了研究并取得了重要成果。近年来经常应邀赴美国、法国、德国、意大利、比利时、日本、澳大利亚、新加坡以及我国的香港、台湾等地访问、讲学以及在众多的国际会议上作邀请报告。
+人才培养：
+
+&nbsp;已经培养毕业博士生14人，其中第一个博士张挺就获得了08年全国优秀博士学位论文提名奖，第二年毕业的3人中，王成波直接受聘于全球排名十多位的美国约翰霍普金斯大学数学系作助理教授，徐江已经为南京航空航天大学的教授与博导，李太龙去经济学院做博士后，现为浙江理工大学副教授。第三年毕业的博士生中钟思佳去法国巴黎11大作博士后，又获得日本的JSPS项目为期两年的资助，在京都大学与Y.Tsutsumi教授作合作研究，现在东南大学工作。09年毕业的3位博士均去公司工作，从事数据挖掘等工作。10年毕业的2位博士生中的张启迪同时获得了法国巴黎第13大学的博士学位，之后去罗马大学作博士后，现在华东理工。吕小俊获两年的资助去西班牙zuazua的研究所作博士后研究，现在东南大学工作。11年毕业的3位博士生中谢剑同时获得了法国巴黎6大的博士学位，去杭师大工作，韩征在物理系做博士后之后将去杭师大工作，在Schroedinger方程方面取得了重要进展。章林子在一家咨询公司工作。
+			
+				
+			工作研究领域
+			
+			偏微分方程分析，微局部分析，调和分析在偏微分方程中的应用以及随机微分方程等。
+			
+				
+			联系方式
+			
+						电子信箱：dyf@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：方道元
+		单位：数学系
+		职称：教授
+		我的主页共被访问了36822次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	学术交流（讲座报告）
+	研究成果
+	奖励荣誉
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

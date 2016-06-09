@@ -1,0 +1,202 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0088421";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0088421&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			1、目前科研工作和成果简介：长期致力于呼吸病学的基础和临床研究，尤其是哮喘发病机制和干预策略。在国际上首先提供了嗜酸粒细胞与哮喘发病之间存在直接因果关系的实验证据；在制备具有我国自主知识产权的鼠抗人CCR3单克隆抗体的基础上，首先提出并阐述了哮喘发病的祖细胞-Eotaxin-CCR3调控新机制；通过阐明气道上皮细胞黏蛋白MUC5AC上调的信号通路，揭示了气道黏液高分泌的分子机制；发现激素存在不依赖于IL-5而是通过抑制CD34+祖细胞的迁移和分化而抑制嗜酸粒细胞的作用新机制；以动物为模型系统开展了卡介苗
+			
+				
+			工作研究领域
+			
+			1、哮喘发病的分子机制和干预策略研究；2、COPD发病的炎症机制及药物干预以及肺部感染细菌耐药机制和呼吸药物临床药理3、哮喘、COPD新型生物靶向药物的开发研究。
+			
+				
+			联系方式
+			
+						电子信箱：hh_shen@yahoo.com.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：沈华浩
+		单位：临床医学二系
+		职称：主任医师
+		我的主页共被访问了2091次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

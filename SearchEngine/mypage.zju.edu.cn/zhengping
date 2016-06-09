@@ -1,0 +1,214 @@
+
+
+
+
+
+郑平主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0085113";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	郑平主页
+HomepageofPingZHENG
+
+	永久链接:http://mypage.zju.edu.cn/zhengping&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			郑平，男，1962年05月生，浙江金华人，博士、教授、博导。现任浙江大学环境生态工程研究所所长，国际水协中国厌氧消化专业委员会副主任，中国沼气学会常务理事，中国微生物学会环境微生物专业委员会委员，浙江省水平台理事会副理事长，《生物工程学报》、《环境工程技术学报》、《浙江大学学报》、《《环境污染与防治》和《工业用水与废水》编委。
+1985年任教，一直从事环境微生物和废水生物处理方面的教学和科研工作。1994-1995年，赴荷兰Delft工业大学从事合作研究。1997-2000年，赴喀麦隆雅温得第一大学执行教育部援教任务。2002-2003年，赴香港大学从事合作研究。2000年被授予喀麦隆总统骑士勋章，并入选&ldquo;浙江省151人才工程&rdquo;一层次。
+开设课程10余门，《环境微生物学》获国家精品/资源共享课程，教学成果获浙江省优秀教学成果一等奖2项。分别于1995年和1997年开始招收微生物和环境工程专业硕士生，分别于2000年和2004年开始招收环境工程和微生物专业博士生，2003年开始培养环境工程专业博士后。
+承担省部级以上课题50余项，出版专著和教材10部，发表学术论文380余篇(SCI收录100余篇)；研究成果获国家级科技进步奖1项，国家技术发明奖1项，省部级科技进步奖8项，厅局级科技进步奖3项，已授权国家发明专利45项，新型实用专利54项。
+主要研究领域：环境微生物与废水生物处理。
+主要研究内容：（1）有机废水生物处理理论与技术，（2）废水生物脱氮理论与技术，（3）废水生物除磷理论与技术，（4）废水生物脱硫理论与技术。
+
+&nbsp;
+			
+				
+			联系方式
+			
+			电话：0571-88982819			电子信箱：pzheng@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：郑平
+		单位：环境与资源学院环境工程系
+		职称：教授
+		我的主页共被访问了37332次
+标签：http://mypage.zju.edu.cn/zhengping	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		奖励荣誉
+	工作研究项目
+	发表论文
+	出版著作
+	专利成果
+	教学工作
+	研究成果
+	实验室介绍
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	环境微生物学国家精品课程
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

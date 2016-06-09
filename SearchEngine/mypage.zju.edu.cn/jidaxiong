@@ -1,0 +1,237 @@
+
+
+
+
+
+浙江大学-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0015108";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	浙江大学
+冀大雄
+
+	永久链接:http://mypage.zju.edu.cn/jidaxiong&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			学习经历
+&nbsp;&nbsp;&nbsp;99.09-03.06武汉工业学院电气工程及其自动化学士
+&nbsp;&nbsp;&nbsp;03.09-08.06中国科学院研究生院模式识别与智能系统博士(导师：封锡盛院士)
+工作经历
+&nbsp;&nbsp;&nbsp;08.07-09.12&nbsp;中国科学院沈阳自动化研究所机器人学国家重点实验室助理研究员
+&nbsp;&nbsp;&nbsp;10.01-15.03&nbsp;中国科学院沈阳自动化研究所机器人学国家重点实验室副研究员
+&nbsp;&nbsp;&nbsp;15.04至今&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江大学海洋学院副教授
+研究成果&nbsp;&nbsp;在水下机器人导航定位、自主控制、自主海洋观测等方向有深入研究。主要设计完成了改进6000米长基线声学定位导航系统，海底应答器最远作用距离10.2km，最长海底工作时间1000h,测阵精度3m，在2006年CR-02AUV南海科学试验中得到成功应用；负责完成&ldquo;潜龙一号&rdquo;6000米AUV组合导航定位技术，实现潜龙一号多个航次连续30小时的自主导航，有力保障了潜龙一号两次南太平洋6000米海底调查数据的可靠性和准确性；主要参与完成我国首个水下机器人重点型号项目的定型试验和国家一级定型，参加海上试验总计120余天，所负责的定型材料经过六级审查均一次性通过。获得中科院杰出科技成就奖1项、国防科技进步三等奖1项、辽宁省自然科学成果奖一等奖1项、三等奖1项。
+主要研究领域&nbsp;&nbsp;&nbsp;从研究生阶段，我的研究领域就是智能海洋机器人。这是一个多学科、多领域交叉融合的方向。我目前关注的问题是人工智能、机器人技术与海洋技术的深度融合。我目前的研究方向主要包括但不限于：1）探测型、作业型海洋机器人设计与开发；2）先进海洋机器人研究与开发；3）深海机器人智能导航与定位；4）水下机器人自主控制技术。
+学术兼职
+美国电气电子工程师协会（IEEE）Membership
+中国海洋学会海洋工程分会会员
+国家自然科学基金通讯评审专家
+国家科技专家库在库专家
+AppliedOceanResearch,MarineGeodesy,中国海洋工程,控制理论与应用,电子学报,控制与决策,信息与控制等期刊审稿专家
+&nbsp;
+2016年度招收硕士研究生若干名，欢迎机电、控制、电路电子、计算机、水声工程、液压、能源动力、数学等专业的学生与我联系（附成绩单和简历），对于特别优秀的理工科本科生可不限专业。也欢迎等相关专业本科生报考我的研究生。
+
+
+我的联系方式：jidaxiong@zju.edu.cn
+&nbsp;
+&nbsp;
+			
+				
+			联系方式
+			
+						电子信箱：jidaxiong@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：冀大雄
+		单位：海洋学院
+		职称：副教授
+		我的主页共被访问了2794次
+标签：水下机器人、导航、定位、机器人控制、海洋机器人	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		研究成果
+	合作信息
+	工作研究项目
+	教学工作
+	专利成果
+	奖励荣誉
+	发表论文
+	工作动态
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	浙江大学海洋学院
+国家自然科学基金委
+国家科技部
+国家海洋局
+中国大洋矿产资源研究开发协会
+中国科学院
+中国科学院大学
+中科院沈阳自动化研究所
+浙江省科技厅
+浙江省人保厅
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

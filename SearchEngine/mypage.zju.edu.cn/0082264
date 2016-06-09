@@ -1,0 +1,210 @@
+
+
+
+
+
+汪斌主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0082264";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	汪斌主页
+
+
+	永久链接:http://mypage.zju.edu.cn/0082264&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;汪斌，1951年出生于上海。毕业于上海复旦大学，获经济学博士学位。1989年荷1995年曾两次赴日本，作为访问学者从事国际合作研究近两年。现任浙江大学经济学院教授、博士生导师、浙江大学产业经济学研究所所长，产业经济学博士点学科带头人。从90年代初以来已公开出版学术著作（合作）10多部。个人代表性学术专著有：《东亚工业化浪潮中的产业结构研究》，（杭州大学出版社，1997）；《国际区域产业结构分析导论》，（上海三联书店《当代经济学文库》2001年版）；《全球化浪潮中的当代产业结构的国际化研究》，（中国社会科学出版社，2004年版）；《中国产业：国际分工地位和结构的战略性调整》，（光明日报出版社，2006年版）。译著《土地经济学》（商务印书馆1997年版）等。同时，在国内学术期刊上公开发表论文70多篇。主持国家社会科学基金、国际合作、浙江社会科学基金、地方政府委托等研究项目近20项。获省部级科研成果奖6项。本人还兼任中国工业经济学会副理事长、浙江省马克思主义协会理事等。目前从事科研工作主要为：现代产业经济理论与政策、国际产业经济、产业与区域经济、产业与制度变迁，发展中国家工业化和东亚经济发展等方面的研究。
+			
+				
+			工作研究领域
+			
+			1、产业经济理论与政策
+2、产业与区域经济
+3、产业与制度变迁
+
+			
+				
+			联系方式
+			
+			电话：88273780/87953280(办公室电话)			电子信箱：wangbin51@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：汪斌
+		单位：经济学院经济学系
+		职称：教授
+		我的主页共被访问了16550次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		出版著作
+	研究成果
+	专利成果
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

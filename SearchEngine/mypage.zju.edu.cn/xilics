@@ -1,0 +1,214 @@
+
+
+
+
+
+xilics-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0014008";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	xilics
+
+
+	永久链接:http://mypage.zju.edu.cn/xilics&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+<spanstyle="font-family:楷体;
+mso-bidi-font-family:宋体"/><spanstyle="font-family:楷体;
+mso-bidi-font-family:宋体"/>
+
+&nbsp;&nbsp;李玺：男，博士，入选第五批中国国家&ldquo;青年千人计划&rdquo;，2014年获聘浙江大学教授，并入职浙江大学计算机学院人工智能研究所。主要从事计算机视觉、模式识别和机器学习等领域的研究和开发。在目标跟踪、目标行为识别、图像标注、视频检索、哈希（hashing）函数学习等方面取得了深入系统的研究成果，其中在视频的运动跟踪、理解与检索等方面的研究具有特色和优势，取得了多项具有国际影响力的重要创新性成果。&nbsp;本人在国际权威期刊和国际顶级学术会议发表文章50多篇，包括TPAMI（4篇）、IJCV（3篇）、TIP（3篇）、TNNLS（1篇）、TKDE（2篇）、TSMC(1篇)、TMM（1篇）、TCSVT(1篇)、ACMTIST（1篇）、PR（1篇）、IVC（1篇）、Neurocomputing（4篇）、SignalProcessing(1篇)、IEEESPL（3篇）、ICCV(4篇，1篇录用为大会开头报告)、CVPR(5篇)、ECCV（1篇）、ICML（1篇，录用为大会口头报告）、AAAI(2篇)、ICDM（1篇）、ACMMM(5篇)、WWW（1篇）等。这些研究成果受到了国际学术界和工业界的广泛关注，GoogleScholar他引900多次，担任神经计算领域知名国际刊物Neurocomputing的AssociateEditor，同时担任多个计算机视觉和模式识别方面的国际刊物和国际会议的审稿人和程序委员。获得两项最佳国际会议论文奖（包括ACCV2010和DICTA2012），另外分别获得两项中国北京市自然科学技术奖（包括一等奖和二等奖），以及一项中国专利优秀奖。所指导的博士生在2012年取得了DICTA（数字图像计算技术及其应用国际会议）最佳论文奖。申请人参加了很多国际著名的学术会议（如ICCV2005、ICPR2006、CVPR2008、BMVC2008、ICASSP2009、ACCV2010、ICCV2011、CVPR2012、DICTA2012等），并作了一些大会口头报告（OralPresentation）。
+
+			
+				
+			工作研究领域
+			
+			计算机视觉、模式识别、数据挖掘、机器学习以及多媒体
+			
+				
+			联系方式
+			
+						电子信箱：xilizju@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：李玺
+		单位：人工智能研究所
+		职称：教授
+		我的主页共被访问了27722次
+标签：青年千人	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教育和研究经历
+	奖励荣誉
+	发表论文
+	人员招聘
+	论文引用
+	指导学生
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

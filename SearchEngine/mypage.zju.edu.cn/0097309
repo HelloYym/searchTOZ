@@ -1,0 +1,205 @@
+
+
+
+
+
+王飞儿-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0097309";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	王飞儿
+
+
+	永久链接:http://mypage.zju.edu.cn/0097309&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			王飞儿，女，博士，副教授，硕士生导师。1994年毕业于南京大学环境科学系，1997年获南京大学环境科学硕士学位，2004年获浙江大学环境工程博士学位。主要从事环境规划与管理、流域环境管理等研究。主持了《钱塘江流域水环境生态补偿机制及运行模式研究》、《湖州农村水环境容量及水污染控制技术研究》、《江阴市锡澄运河张家港河河道综合整治规划》、《江阴市&ldquo;十二五&rdquo;环境保护规划》、《义乌市&ldquo;十二五&rdquo;环境保护规划》、《玉环生态县建设规划研究》、《温岭市生态环境功能区规划研究》等课题，参加了《我国发达地区资源节约与环境保护对策研究》、《省级环境保护五年规划编制技术指南研究》、《钱塘江流域水环境承载力与生态安全指标体系研究》、《钱塘江流域生态环境功能区划及区域开发格局研究》、《杭州生态市建设规划研究》、《千岛湖环境污染与防治规划研究》、《太湖流域水污染防治关健技术集成与示范》等项目，近年发表学术论文十多篇，参与编制著作3部。主讲《环境规划与管理》、《环境法学》等课程。
+			
+				
+			工作研究领域
+			
+			环境规划与管理，流域水环境管理
+			
+				
+			联系方式
+			
+			电话：88982360			电子信箱：wangfeier@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：FeierWang
+		单位：DepartmentofEnvironmentalEngineering
+		职称：
+		我的主页共被访问了7127次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

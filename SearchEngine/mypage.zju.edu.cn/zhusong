@@ -1,0 +1,285 @@
+
+
+
+
+
+朱嵩-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0008248";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	朱嵩
+计算流体力学及反问题
+
+	永久链接:http://mypage.zju.edu.cn/zhusong&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;
+个人信息
+姓名：朱嵩
+性别：男
+出生年月：1981-10
+籍贯：安徽颍上
+学位：工学博士
+职称：助理研究员
+研究方向：计算环境流体力学，参数估计等相关反问题
+&nbsp;
+教育背景
+1998.9-2002.7合肥工业大学土木工程系给水排水专业工学学士
+2002.9-2008.3浙江大学水利与海洋工程系水工结构专业工学博士(师从刘国华教授、毛根海教授)
+&nbsp;
+工作经历
+2008.5-今浙江大学土木工程流动站博士后(合作导师：王立忠教授)
+2008.9-今土木水资0801班班主任
+&nbsp;
+研究兴趣
+流体运动中的数值计算方法（计算流体力学）
+1.数值计算方法：高精度有限体积法、对流稳定性
+2.环境流体力学方面：污染物在河流、湖泊水体中的迁移转化规律、多相流
+反问题
+1.贝叶斯推理（Bayesianinference），马尔科夫链蒙特卡罗（MarkovchainMonteCarlo）
+2.遗传算法（GA）
+3.参数识别及污染源识别
+&nbsp;
+项目经历
+2003-2004水流中泥沙云团运动的大涡模拟国家自然科学基金
+2003-2004西湖引水工程水体推移及浓度场预测分析杭州市水专项
+2005-2006水轮机尾水管内流场数值模拟企业咨询
+2007-今河网糙率广义反演理论及计算技术国家自然科学基金
+2007-今河流突发污染事故的全过程实时快速模拟关键技术浙江省自然科学基金
+2007-今现代城市病的系统识别理论与生态调控机理973项目
+2008-今分段自流压力输水模式的理论及其应用研究国家自然科学基金
+2009-今基于逆向概率函数的污染源重构理论与计算技术研究国家自然科学基金
+2009.1月-今杨东河水工模型泄洪洞水气两相流数值计算企业咨询
+2009.10月-今山地丘陵城市饮用水安全保障共性技术与课题示范国家水体污染控制与治理科技重大专项子课题
+&nbsp;
+参加过的主要学术活动
+2004年河海大学全国博士生学术论坛
+2004年复旦大学力学与工程科学系&ldquo;计算流体力学现代方法&rdquo;讲座
+2005年中科院研究生院地球科学学院&ldquo;概率反演理论&rdquo;暑期课程
+2005年浙江大学研究生专题学术论坛-计算流体力学（主题发言）
+2006年大连理工大学全国博士生学术论坛（宣读论文、分会场主持）
+2006年浙江大学建工学院第三届博士生创新论坛
+
+2007年浙江大学建工学院第四届博士生创新论坛（一等奖）
+2008年复旦大学数学科学学院TheInternationalConferenceonInverseProblemsanditsApplications（25分钟报告）
+2009年KTH-ZJU流体力学联合研讨会
+
+&nbsp;
+发表论文情况
+
+
+[1]朱嵩，毛根海.笛卡尔切割单元法在湖泊二维流场模拟中的应用[J].江南大学学报，2006，5(5)：606-608.
+[2]朱嵩，王振宇，毛根海等.弯肘形尾水管流场的三维数值模拟研究[J].水力发电学报，2006，25(1)：76-80.(EI)
+[3]朱嵩，毛根海，姚懿伦.应用MINMOD格式求解河流中污染物的浓度分布[J].水力发电学报，2005，24(3)：66-69.(EI)
+[4]朱嵩，毛根海，刘国华.基于FVM-HGA的河流水质模型多参数识别[J].水力发电学报，2007，26(6):91-95.(EI)
+[5]朱嵩，毛根海，程伟平等.基于贝叶斯推理的水环境系统参数识别[J].江苏大学学报(自然科学版)，2007，28(3)：237-240.(EI)
+[6]朱嵩，毛根海，程伟平等.利用贝叶斯推理估计二维含源对流扩散方程参数[J].四川大学学报(工程科学版)，2008，40（2）：38-43.(EI)
+[7]张潮，毛根海，张土乔，朱嵩等.基于BP-Bayesian方法的河网糙率反演[J].江苏大学学报(自然科学版)，2008，29(1)：47-51.(EI)
+[8].朱嵩,毛根海,刘国华,黄跃飞.改进的MCMC方法及其应用[J].水利学报,2009,40(8):1019-1023.（EI期刊源）
+[9].朱嵩,刘国华,王立忠.水动力-水质耦合模型污染源识别的贝叶斯方法[J].四川大学学报工程科学版,2009,41(5):30-35.（EI期刊源）
+[10].朱嵩，刘国华，毛欣炜等.基于贝叶斯推理的标准k-epsilon湍流模型参数识别[J].四川大学学报工程科学版(审稿中)
+[11].SongZHU,WuyiWAN,GuohuaLIU.ABayesianapproachtoestimationofcoefficientsintheconvection-diffusionequation[J].FrontiersofArchitectureandCivilEngineeringinChina（审稿中）
+其他&nbsp;
+曾担任浙江大学博士生会科研学术中心副部长、浙江大学建工学院博士生会信息部部长、浙江大学本科生导师组成员、参与《FundamentalsofFluidMechanics,FifthEdition》的改编工作、是国际期刊&ldquo;JournalofGeophysicalResearch-Atmosphere&rdquo;的审稿人、浙江树人大学兼职教师（工程流体力学）以及浙江大学城市学院兼职教师（工程流体力学）。
+			
+				
+			工作研究领域
+			
+			计算流体力学、环境流体力学、反问题
+			
+				
+			联系方式
+			
+			电话：13575463032			电子信箱：migao@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：朱嵩
+		单位：建筑工程学院
+		职称：助理研究员（自然科学）
+		我的主页共被访问了13689次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	学术交流（讲座报告）
+	实验室介绍
+	Resume
+	SUSELINUX资料
+	Currentresearchinterest
+	土木0801
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	AlbertTarantola
+浙江大学建筑工程学院
+CFD@NASA
+力学基地（浙江大学）
+PNNL
+USGS
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,210 @@
+
+
+
+
+
+简介-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0079268";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	简介
+
+
+	永久链接:http://mypage.zju.edu.cn/0079268&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;
+&nbsp;黎禾：男，1979年毕业于杭州大学体育系，同年任教于杭州大学体育系，副教授。1999年起担任体育教学与训练硕士研究生导师。主讲本科课程：排球教学、训练和竞赛理论、网球教学和竞赛理论、体育赛事经营与管理。主讲硕士课程：运动休闲管理理论与实务、专项理论与实践。兼任浙江省大学生排球协会副主席（负责科研工作）；排球国家A级裁判。浙江省网球协会委员；拥有国际网联一级教练员资质证书。
+
+研究成果：主要研究领域为体育赛事经营与管理的理论与实践；排球、网球的教学和训练理论与方法、训练诊断与调控。迄今在国内学术期刊上发表学术论文《中国排球市场失效与市场规则》等10余篇，主编《排球训练理论与方法》、《排球训练教程》、《高校体育课系列教材排球教学互动课件》、及《网球》等多部普通高等学校教材。
+研究项目：近年来，参与全国教育科学&ldquo;十五&rdquo;规划教育部重点课题《定向运动增进学生身心健康的实验研究》工作，并主持子课题《定向运动促进学生体育锻炼兴趣的研究》，主持2009年度浙江省教育厅课题《社会转型期浙江省体育院系办学模式与课程设置的变化研究》，主持浙江省体育局课题及横向课题多项。《关于不同年龄阶段学生的软排球教学方案和实践效果分析》获全国学校软式排球运动研讨会优秀论文奖，多项成果获浙江省体育局及有关协会优秀论文奖等。&nbsp;
+			
+				
+			工作研究领域
+			
+			主要研究领域为体育赛事经营与管理的理论与实践；排球、网球的教学和训练理论与方法、训练诊断与调控。
+			
+				
+			联系方式
+			
+			电话：13757169859			电子信箱：lihe10@sina.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：黎禾
+		单位：教育学院体育学系
+		职称：副教授
+		我的主页共被访问了7642次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		发表论文
+	出版著作
+	研究成果
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

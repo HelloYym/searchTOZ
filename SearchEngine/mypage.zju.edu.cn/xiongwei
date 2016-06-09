@@ -1,0 +1,209 @@
+
+
+
+
+
+质量成就未来-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0003017";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	质量成就未来
+
+
+	永久链接:http://mypage.zju.edu.cn/xiongwei&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+熊伟&nbsp;留日博士，浙江大学质量管理研究中心主任，管理学院教授、博士生导师。兼任中国质量协会理事，QFD研究会副主任。InternationalCouncilforQualityFunctionDeployment(ICQFD)委员，全国六西格玛推进委员会专家委员、全国质量经理职业资格认证委员会委员，国家科技进步奖评审专家，国家/浙江省/江苏省/上海市/重庆市/南京市/无锡市/宁波市/温州市/台州市/嘉兴市/丽水市/杭州市政府质量奖评审组长（专家），浙江省质量创新奖评审组长，数家公司独立董事。
+曾师从国际著名质量专家新藤久和教授和世界质量权威学者赤尾洋二院士，为全日本QFD方向博士学位获得者第一人，开拓了SQFD研究新领域，首创了SQFD理论和应用模型，以及基于此理论的两种设计方法论。在质量科学领域取得重要成果，QFD研究国内权威，研究成果收录中国当代管理思想宝库。
+已在国内外重要期刊（含SSCI/SCI、EI）发表学术论文100余篇，出版专著10部，在日本、美国、德国申请国际发明专利10件40余项专利权，主持国家社科基金重大项目、国家自然科学基金（重大研究计划项目、面上项目）及国际合作研究课题50余项。
+为中国航天、中航工业、中国兵器、中船重工、一汽、神龙汽车、海尔、海信、美的、鞍钢、金蝶软件、云南烟草、延长石油、万科房地产、福建电力、重庆建筑设计院、娃哈哈、宁杭高铁、正泰电器、盾安、杭氧、上海太平保险、上海电信、开元旅业、泰隆银行、台州医院等千余家企业提供培训或咨询。
+
+			
+				
+			工作研究领域
+			
+			质量管理与质量工程、物流与供应链管理、生产运作管理
+
+			
+				
+			联系方式
+			
+			电话：0571-88206856			电子信箱：wxiong@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：熊伟
+		单位：管理学院企业管理系
+		职称：教授、博导
+		我的主页共被访问了8311次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

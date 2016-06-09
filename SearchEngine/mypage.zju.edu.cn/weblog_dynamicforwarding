@@ -1,0 +1,628 @@
+
+
+
+
+
+dynamicforwarding-博客
+
+
+
+
+
+
+varctxPath="http://mypage.zju.edu.cn";
+varb_handle="dynamicforwarding";
+varcfg_weblog="http://mypage.zju.edu.cn/weblog";
+vard=newDate()
+varselyear=d.getFullYear();
+varselmonth=d.getMonth()+1;
+
+
+
+
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	color:#111;
+	margin-right:10px;	
+}
+#mainlinkullia,.tagsa:hover{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+.tagsa{
+	margin-right:10px;
+}
+img{
+	border:none;
+}
+
+
+
+
+
+
+
+
+
+
+	
+		首页
+		帮助
+		登录
+	
+
+
+
+
+
+
+	dynamicforwarding
+LiWorks
+
+	永久链接:http://mypage.zju.edu.cn/weblog/dynamicforwarding&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+
+
+	中文主页
+英文主页
+			博客
+
+
+
+
+
+
+
+
+
+
+			
+				
+
+	
+[1/8]
+首页	上一页下一页末页
+
+	
+
+浏览模式:普通|列表
+
+
+
+
+
+
+		美国密歇根大学教授倪军09年谈中国的高等教育
+
+作者:李道飞日期:2011-12-15Thursday
+
+
+
+转载文章。美国密歇根大学教授倪军：中国大学聘师标准必须严格作者：朱幸福来源：文汇报发布时间：2009-7-1515:18:37倪军教授1983年到美国威斯康星大学留学，获得博士学位。如今，倪军在美国密歇根大学安娜堡分校机械系任教已有20多年，目前还兼任上海...
+查看更多...
+
+
+
+
+
+分类:默认分类|			固定链接|评论总数0|
+			阅读次数19
+
+
+
+
+
+
+
+		悼念敬爱的DavidCrolla教授
+
+作者:李道飞日期:2011-09-08Thursday
+
+
+
+总是带着笑容的DavidCrolla教授从导师喻凡教授那里得知，DavidCrolla教授突然辞世，哀惜万分。DavidCrolla教授是汽车工程领域（尤其车辆动力学方向）的重要权威之一。他曾在英国UniversityofLeeds担任AutomotiveEngineering方向的Chair（1993-2005），之...
+查看更多...
+
+
+
+
+
+分类:默认分类|			固定链接|评论总数0|
+			阅读次数28
+
+
+
+
+
+
+
+		深圳小贩与城管冲突-拳击执法车风挡玻璃
+
+作者:李道飞日期:2011-05-23Monday
+
+
+
+为打碎这个风挡玻璃，那是得怎么样的愤怒？？？？！！！
+查看更多...
+
+Tags:
+城管isuzu
+	
+
+
+
+分类:默认分类|			固定链接|评论总数0|
+			阅读次数26
+
+
+
+
+
+
+
+		浙江将提高购车人门槛'浙江XX政协委员周建桥'
+
+作者:李道飞日期:2011-01-17Monday
+
+
+
+本来地球上傻X就很多，看来我们这块也不少。惊叹啊惊叹！他们应该去受些教育，要不如何能担当&ldquo;政协&rdquo;之重任！？按照这个傻X理论，只有开昂贵的汽车才可以上路....浙江或将提高购车人门槛2011年01月17日08:15来源：东方早报字号：大中...
+查看更多...
+
+Tags:
+汽车发展的阻力
+	
+
+
+
+分类:autoindustry|			固定链接|评论总数0|
+			阅读次数48
+
+
+
+
+
+
+
+		中国汽车2010年产销创纪录
+
+作者:李道飞日期:2011-01-11Tuesday
+
+
+
+能源系汽车专业也很火爆嘛~中国汽车2010年产销创纪录2011年01月11日09:06来源：中国证券报-中证网作者：牛洪军字号：大中小打印产销分别为1826万辆和1806万辆2010年，我国汽车工业在购置税优惠、以旧换新、汽车下乡、节能惠民产品补贴等鼓励消...
+查看更多...
+
+
+
+
+
+分类:autoindustry|			固定链接|评论总数0|
+			阅读次数18
+
+
+
+
+
+
+
+		取消word的自动功能（不要智能）
+
+作者:李道飞日期:2010-12-01Wednesday
+
+
+
+问题：给某一段文字标为&ldquo;编号项&rdquo;时，自动地，全文都变成编号项了。CTRL+Z可以取消该自动动作，但是太麻烦。解决方案：（转载自网上）点&ldquo;格式/自动套用格式/选项/键入时自动套用格式/键入时自动应用&rdquo;，将&ldquo;自动项目符号列表&rdqu...
+查看更多...
+
+Tags:
+office
+	
+
+
+
+分类:tex|			固定链接|评论总数0|
+			阅读次数26
+
+
+
+
+
+
+
+		PPT自动生成摘要目录zz
+
+作者:李道飞日期:2010-09-03Friday
+
+
+
+PPT自动生成摘要目录(转载)PostedByJoeOnJuly30,2010首先是在母板上编辑（所有的幻灯片都需要一级目录）。然后做好有二级目录的幻灯片（加标注来说明二级目录）。最后编辑母板（把一级目录的幻灯片标题做链接）。简单的做法，就是这样：在浏览视图...
+查看更多...
+
+Tags:
+ppt
+	
+
+
+
+分类:默认分类|			固定链接|评论总数0|
+			阅读次数67
+
+
+
+
+
+
+
+		储能电池发展新趋势zz
+
+作者:李道飞日期:2010-08-10Tuesday
+
+
+
+BatteryJapan2010展透露的储能电池发展新趋势来源：国际电子商情发布时间：2010年08月10日在全球高度重视气候变迁与节能减碳的趋势中，再生能源、电动车、以及智能电网之推动已成为国际趋势。同时也带动了各类大型储能与动力电池的市场需求。而日本挟着电...
+查看更多...
+
+Tags:
+battery
+	
+
+
+
+分类:carnowandfuture|			固定链接|评论总数0|
+			阅读次数40
+
+
+
+
+
+
+
+		丰田混合动力汽车发展历程回顾zz
+
+作者:李道飞日期:2010-08-10Tuesday
+
+
+
+这里说的都是发展历程中的好事，其实还有好多坎坎坷坷啊。也不容易。-----------全球销量突破268万丰田混合动力车发展历程回顾作者：JenniferJiang来源：盖世汽车网发布时间：2010年08月10日盖世汽车讯综合外电报道，全球第一大汽车制造商丰田汽车8月5号...
+查看更多...
+
+
+
+
+
+分类:autoindustry|			固定链接|评论总数1|
+			阅读次数34
+
+
+
+
+
+
+
+		近期国际车用动力电池技术动态
+
+作者:李道飞日期:2010-07-20Tuesday
+
+
+
+近期国际车用动力电池技术动态来源：节能与新能源汽车网发布时间：2010年07月14日1、Hitachi开发出插电式混合动力汽车用锂离子电池。2010年1月，日立和日立车用能源公司已开发出应用于插电式混合动力汽车的新的锂离子电池。新开发的电池单体容量为25Ah，能量密度...
+查看更多...
+
+
+
+
+
+分类:carnowandfuture|			固定链接|评论总数0|
+			阅读次数34
+
+
+			
+			
+		
+		
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+	
+	
+		姓名：李道飞
+		单位：能源工程学系
+		职称：
+		我共发表了75篇文章
+		共收到4条评论
+		我的主页共被访问了5454次
+	
+	
+	
+	
+
+
+我的文章分类
+
+	默认分类
+		
+autoindustry
+		
+fun
+		
+carnowandfuture
+		
+caranddriver
+		
+tex
+		
+CAE
+		
+
+
+
+
+日历
+
+
+
+>>
+年月
+
+
+
+日
+一
+二
+三
+四
+五
+六
+
+
+
+
+
+
+
+
+
+
+
+我的最新文章
+
+
+		美国密歇根大学教授倪军...
+悼念敬爱的DavidCroll...
+深圳小贩与城管冲突-拳...
+浙江将提高购车人门槛'...
+中国汽车2010年产销创纪录
+取消word的自动功能（不...
+PPT自动生成摘要目录zz
+储能电池发展新趋势zz
+丰田混合动力汽车发展历...
+近期国际车用动力电池...
+	
+
+
+
+
+我的热点文章
+
+
+				ChinaIsMovingtoDo...
+		APriusisnotatrue...
+		2009年本土供应商信心、...
+		大陆CEO被舍弗勒高层取代
+		菲亚特被爆侵犯长城商业...
+		自行车的胎压比汽车高得多
+		datumanddata
+		上海大众双品牌战略致朗...
+		《亨利·福特和他的汽车...
+		国民车-印度TATA的Nano...
+
+	
+
+
+我收到的评论
+
+			what'swrong?VWinC...
+		
+
+	比较奇怪的是，国内...
+		
+
+	*日产汽车和三...
+		
+
+	李老师：
+
+	...
+
+	
+
+
+我的文章汇总
+
+		2011年12月[1]
+		2011年9月[1]
+		2011年5月[1]
+		2011年1月[2]
+		2010年12月[1]
+		2010年9月[1]
+		2010年8月[2]
+		2010年7月[3]
+		2010年4月[9]
+		2010年3月[4]
+		2010年2月[3]
+		2010年1月[10]
+		
+	
+
+
+链接
+
+auto.gasgoo.com
+
+
+
+
+
+检索
+
+
+
+
+-所有文章-
+默认分类
+autoindustry
+fun
+carnowandfuture
+caranddriver
+tex
+CAE
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+
+
+varflag=newArray();
+flag[0]='2010/02/08';
+flag[1]='2009/07/14';
+flag[2]='2010/01/16';
+flag[3]='2009/06/16';
+flag[4]='2009/07/01';
+flag[5]='2009/07/07';
+flag[6]='2009/06/26';
+flag[7]='2009/06/30';
+flag[8]='2009/07/15';
+flag[9]='2009/08/10';
+flag[10]='2009/08/13';
+flag[11]='2009/07/18';
+flag[12]='2009/07/02';
+flag[13]='2009/06/24';
+flag[14]='2009/06/27';
+flag[15]='2009/07/19';
+flag[16]='2010/04/05';
+flag[17]='2009/12/31';
+flag[18]='2009/11/07';
+flag[19]='2009/08/28';
+flag[20]='2009/08/30';
+flag[21]='2009/09/02';
+flag[22]='2009/09/27';
+flag[23]='2009/09/28';
+flag[24]='2010/01/18';
+flag[25]='2009/11/27';
+flag[26]='2010/01/08';
+flag[27]='2010/01/09';
+flag[28]='2009/08/25';
+flag[29]='2009/09/03';
+flag[30]='2009/09/08';
+flag[31]='2009/11/11';
+flag[32]='2009/11/15';
+flag[33]='2009/10/09';
+flag[34]='2010/03/05';
+flag[35]='2010/01/13';
+flag[36]='2010/09/03';
+flag[37]='2010/01/25';
+flag[38]='2010/01/28';
+flag[39]='2010/02/04';
+flag[40]='2010/02/13';
+flag[41]='2010/03/12';
+flag[42]='2010/03/26';
+flag[43]='2010/04/07';
+flag[44]='2010/04/09';
+flag[45]='2010/04/13';
+flag[46]='2010/04/14';
+flag[47]='2010/04/15';
+flag[48]='2010/04/21';
+flag[49]='2010/04/22';
+flag[50]='2010/07/06';
+flag[51]='2010/07/02';
+flag[52]='2010/07/20';
+flag[53]='2010/08/10';
+flag[54]='2011/01/11';
+flag[55]='2010/12/01';
+flag[56]='2011/01/17';
+flag[57]='2011/05/23';
+flag[58]='2011/09/08';
+flag[59]='2011/12/15';
+
+
+varcale=newCalendar("idCalendar",{
+SelectDay:newDate(),
+onSelectDay:function(o),
+onToday:function(o),
+onFinish:function(){
+$("idCalendarYear").innerHTML=this.Year;$("idCalendarMonth").innerHTML=this.Month;
+for(vari=0,len=flag.length;i<len;i++){
+//alert(flag[i]);
+	vard=newDate(flag[i]);
+	if(this.Year==d.getYear()){
+		if(this.Month==d.getMonth()+1)
+		{
+this.Days[d.getDate()].innerHTML=""+d.getDate()+"";
+			
+		}
+
+	}
+}
+}
+});
+$("idCalendarPre").onclick=function()
+$("idCalendarNext").onclick=function()
+
+
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));

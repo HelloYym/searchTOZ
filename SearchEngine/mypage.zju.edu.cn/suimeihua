@@ -1,0 +1,199 @@
+
+
+
+
+
+浙江大学.隋梅花-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0009237";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	浙江大学.隋梅花
+宝剑锋从磨砺出，梅花香自苦寒来
+
+	永久链接:http://mypage.zju.edu.cn/suimeihua&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			隋梅花研究员、博士生导师
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1999年毕业于浙江大学医学院五年制临床医学系，获医学学士学位，并被保送为浙江大学医学院组织胚胎学硕士。2002年获医学硕士学位后赴美国南卡罗莱纳医科大学（MedicalUniversityofSouthCarolina,MUSC）病理与实验医学系从事肿瘤学博士后研究工作。2006年12月被美国南卡罗莱纳医科大学聘为科研助理教授。2009年3月被聘为浙江大学化学工程与生物工程学系特聘研究员、生物纳米工程中心（Center&nbsp;for&nbsp;Bionanoengineering）副主任，兼生物质化工教育部重点实验室、浙江大学医学院肿瘤创新治疗实验室（ProgramofInnovativeCancerTherapeutics，PICT）固定成员、中华医学会医学细胞生物学会分会青年委员会委员、浙江省转化医学学会理事兼青年委员会会长。2011年底获浙江大学肿瘤学博士学位。目前已在包括CancerRes、ClinCancerRes、IntJCancer、CurrMedChem、JAmChemSoc、JControlRelease、Biomaterials等在内的国内外学术期刊发表文章53篇（其中SCI期刊文章45篇，总影响因子约220），参与撰写三部英文论著。主要研究领域包括医用载体与材料、肿瘤治疗与分子药理、细胞与分子生物学。电子邮箱：suim@zju.edu.cn;suimeihua@sina.com.cn
+			
+					
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：隋梅花
+		单位：化学工程与生物工程学系
+		职称：研究员
+		我的主页共被访问了23777次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		奖励荣誉
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	浙江大学化学工程与生物工程学系
+生物纳米工程中心/申有青教授
+浙江大学医学院
+美国南卡罗莱纳医科大学
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

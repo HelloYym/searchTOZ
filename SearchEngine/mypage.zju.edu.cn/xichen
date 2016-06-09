@@ -1,0 +1,238 @@
+
+
+
+
+
+Dr.XiChen-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0001053";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	Dr.XiChen
+
+
+	永久链接:http://mypage.zju.edu.cn/xichen&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;浙江大学控制科学与工程学系教授，博士生导师
+&nbsp;
+教育背景：
+1989-1993&nbsp;浙江大学&nbsp;化学工程专业&nbsp;工学学士
+1993-1996&nbsp;浙江大学&nbsp;系统工程专业&nbsp;工学硕士
+1996-2001&nbsp;浙江大学&nbsp;控制科学与工程专业工学博士
+1998-2001&nbsp;香港科技大学联合培养
+&nbsp;
+工作经历：
+2001年9月&mdash;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江大学控制系任教
+2004年12月&mdash;&nbsp;&nbsp;&nbsp;&nbsp;浙江大学控制系副教授
+2010年12月&mdash;&nbsp;&nbsp;&nbsp;&nbsp;浙江大学控制系教授、副博导
+2011年6月&mdash;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江大学博导
+2013年7月-10月&nbsp;&nbsp;美国卡内基梅隆大学访问学者
+&nbsp;
+荣誉奖项：
+2005年1月获教育部科技进步一等奖（&ldquo;大型精对苯二甲酸生产过程智能建模、控制与优化技术&rdquo;)
+2005年5月获美国塑料工程师协会(SocietyofPlasticsEngineers)主办权威国际会议SPEAnnualTechnicalConference的最佳论文奖
+2009年8月入选浙江省新世纪151人才工程第三层次培养人员
+2013年1月获教育部自然科学一等奖(&quot;批次过程高性能控制系统基础理论研究&quot;)
+2013年10月入选教育部新世纪优秀人才支持计划
+&nbsp;
+社会服务：
+2009-2010年Secretary,SIGProcessMonitoringandControl,SocietyofPlasticsEngineers
+2010-2011年&nbsp;AssociateChair,SIGProcessMonitoringandControl,SocietyofPlasticsEngineers&nbsp;&nbsp;
+2011-2012年Chair,SIGProcessMonitoringandControl,SocietyofPlasticsEngineers
+2010年起&nbsp;&nbsp;&nbsp;&nbsp;《石油化工自动化》编委。
+			
+				
+			工作研究领域
+			
+			复杂工业过程的建模与优化、过程系统分析与综合、智能计算及其应用研究、工业过程质量控制等
+			
+				
+			联系方式
+			
+			电话：0571-8795396613858077650637650（校园网短号）			电子信箱：xichen@iipc.zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：陈曦
+		单位：控制科学与工程学系
+		职称：教授
+		我的主页共被访问了37382次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		研究方向
+	工作研究项目
+	教学工作
+	学生培养
+	发表论文
+	专利成果
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	浙江大学过程系统工程实验室
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

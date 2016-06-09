@@ -1,0 +1,210 @@
+
+
+
+
+
+何秋伶-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0009905";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	何秋伶
+小荷才露尖尖角~~
+
+	永久链接:http://mypage.zju.edu.cn/heqiuling&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			女，四川泸州人，1980年11月出生。研究生学历，博士，浙江大学农业与生物技术学院作物学研究所棉花课题组工作，助理研究员。
+主要学习及工作经历
+1999年至2003年，四川农业大学，农学士(林学)
+2003年至2006年，南京林业大学，农学硕士(林木遗传学)
+2006年至2009年，南京林业大学，博士(遗传学)
+工作经历
+2009年至2012年，浙江大学，博士后(作物遗传改良)
+2012年至今，浙江大学，从事教学与科研工作
+			
+				
+			工作研究领域
+			
+			主要从事植物分子生物学和作物分子育种方面的研究。
+			
+				
+			联系方式
+			
+						电子信箱：qlhe@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：何秋伶
+		单位：作物科学研究所
+		职称：助理研究员（自然科学）
+		我的主页共被访问了885次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		发表论文
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

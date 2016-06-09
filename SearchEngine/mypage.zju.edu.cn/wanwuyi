@@ -1,0 +1,208 @@
+
+
+
+
+
+万五一的个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0006259";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	万五一的个人主页
+------------努力是幸福之源-----------
+
+	永久链接:http://mypage.zju.edu.cn/wanwuyi&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;&nbsp;万五一，男，汉族，1975年12月生（农历），博士，副教授，博士生导师，水利工程学系副系主任。2004年6月博士毕业于天津大学，2004年7月-2006年7月在清华大学水利工程博士后流动站从事研究工作，2006年8月进入浙江大学水利工程学系工作，主要从事调水工程相关的非恒定流控制问题研究，以及水力学、流体力学和水利工程规划等课程的教学工作。获得中国博士后科学基金资助1项,国家自然科学基金资助2项。2008年获得浙江大学新星计划（浙江大学学术带头人后备人才出国研究专项计划）资助，2008年、2011年先后赴佛罗里达州立大学土木与环境工程系做访问学者。多年来一直从事调水工程水力学问题方面的研究工作，曾以负责人或主要完成人的身份负责或参加过多项课题研究。在国内外期刊上发表论文30余篇，其中SCI、EI等检索收录15篇。&nbsp;
+欢迎报考水力学及河流动力学方向研究生
+联系方式&nbsp;
+万五一（博士，副教授，副系主任）
+wanwuyi@zju.edu.cn
+
+地址：浙江大学建筑工程学院安中大楼B-502
+邮编：310058&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;
+			
+					
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：万五一
+		单位：建筑工程学院水利工程学系
+		职称：副教授
+		我的主页共被访问了13196次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		发表论文
+	工作研究项目
+	教学工作
+	奖励荣誉
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	万五一简介
+英文主页
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

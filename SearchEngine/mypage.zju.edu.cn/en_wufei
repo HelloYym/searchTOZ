@@ -1,0 +1,230 @@
+
+
+
+
+
+WuFei'sHomepage-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0002353";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	WuFei'sHomepage
+
+
+	Permanentlink:http://mypage.zju.edu.cn/en/wufei&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			Blog
+
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			&nbsp;
+
+
+&nbsp;
+
+Education
+
+
+&nbsp;
+
+1999-2002:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ph.D.,CollegeofComputerScience,ZhejiangUniversity,&nbsp;China.
+
+&nbsp;
+
+1996-1999:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;M.S.,FacultyofScienceandTechnology,UniversityofMacau,Macau.
+
+&nbsp;
+
+1992-1996:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B.S.,Dept.ofComputerScience,LanzhouUniversity,China.
+
+&nbsp;
+&nbsp;
+
+PersonalCareer
+
+01/2011-present:&nbsp;&nbsp;&nbsp;FullProfessor,CollegeofComputerScience,&nbsp;ZhejiangUniversity
+12/2004-12/2010:&nbsp;&nbsp;&nbsp;&nbsp;AssociateProfessor,CollegeofComputerScience,&nbsp;ZhejiangUniversity
+10/2009-8/2010：&nbsp;VisitingscholaratProf.BinYu'sgroup,UniversityofCaliforniaatBerkeley(UCBerkeley)
+&nbsp;
+8/2002-12/2004:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lecturer,CollegeofComputerScience,ZhejiangUniversity.
+&nbsp;
+Formoreinformation,pleasevisit&nbsp;http://www.dcd.zju.edu.cn/members/wf_e.htm
+			
+				
+			Researchwork
+			
+			Artificialintelligence,Multimediaanalysisandretrieval,Statisticlearning,Deeplearning,Crowdsourcingforknowledgediscovery
+			
+				
+			Contact
+			
+			Phone:
+			E-mail:wufei@cs.zju.edu.cn
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:WuFei
+		Units:CollegeofComputerScience
+		Title:FullProfessor
+		Myhomepagehasbeenvisited1164times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+Publication
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	
+
+
+Youarevisitor:1164
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,222 @@
+
+
+
+
+
+JunHan-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0011153";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	JunHan
+WelcometoJunHan'shomepage
+
+	Permanentlink:http://mypage.zju.edu.cn/en/jhan&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			&nbsp;
+
+&nbsp;ProfessionalEmployment
+
+&bull;07/12&ndash;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Professor,DepartmentofOceanScienceandEngineering,ZhejiangUniversity,Hangzhou,China
+&bull;04/09&ndash;7/11AssociateProfessor,InstituteofIndustrialScience,TheUniversityofTokyo,Japan
+&bull;08/05&ndash;3/09ResearchFellow,InstituteofIndustrialScience,TheUniversityofTokyo,Japan
+&bull;04/95&ndash;7/05SoftwareSystemEngineer,SENACo.,Ltd.,Tokyo,Japan
+&bull;08/83&ndash;4/89Assistant,ZhejiangFisheriesCollege,Zhejiang,China
+Education
+&bull;4/92-3/95Ph.D.(MarineScienceandTechnology),TokyoUniversityofFisheries,Tokyo,Japan
+&bull;4/90-3/92M.S.(MarineScienceandTechnology),TokyoUniversityofFisheries,Tokyo,Japan
+&bull;9/79-7/83B.S.(MarineFisheries),ZhejiangFisheriesCollege,&nbsp;Zhoushan,China
+ResearchInterests
+&bull;Underwaterobservatory
+&bull;&nbsp;Underwaterinformation&nbsp;processingandvisualization
+&bull;&nbsp;Underwatercommunicationandnetworking
+&bull;Fisheriesacoustics
+RecentResearchActivities
+&bull;AutomatedacousticmethodforfarmedfishcountingandsizingusingDIDSON
+&bull;PreciseunderwaterterrainmeasurementaroundapierbyusinglaserdistancemeterandC3D
+&bull;Noncontactpowersupplierforseafloorgeodeticobservingrobotsystem
+&bull;ShortrangehighspeedPPP-basedunderwateracousticnetworksystem
+&bull;NewUSB-based3Ddigitalechosoundersystemformappingandassessingfishandaquaticplants
+TeachingSubjects
+&bull;&quot;Principlesofunderwatersound&quot;,undergraduatecourse,DOSE&nbsp;ofZJU
+&bull;&quot;OceantechnologyII&quot;,graduatecourse,DOSEofZJU
+&bull;&quot;Underwateracousticmeasurements&quot;,graduatecourse,TheuniversityofTokyo
+
+&nbsp;
+			
+				
+			Contact
+			
+			Phone:+86-571-88208830
+			E-mail:jhan(at)zju.edu.cn
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:JunHan
+		Units:DepartmentofOceanScienceandEngineering
+		Title:Professor
+		Myhomepagehasbeenvisited7633times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+Selectedpublications
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	
+
+
+Youarevisitor:7633
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

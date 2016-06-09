@@ -1,0 +1,207 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0087445";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0087445&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+				
+			工作研究领域
+			
+			1．配合分管领导管理学院教职工的编制、用人计划，内设机构并负责人事调配及人才流动工作。
+2．配合学校完成学院专业技术职务的评聘工作。（包括：高级职务申报，中初级职务申报，特别评审申报工作；职称申报表归档；专业技术职务资格证书的发放等）
+3．会同有关部门做好教职工考核工作和业绩点分块、测算、汇总工作。
+4．根据学院教学、科研与学科建设需要，协助学院做好人才引进、推荐工作。
+5．配合学校办理本院教职工退休退职辞职等手续的工作。
+6．配合学校人事部组织做好本学院教职工各种专业培训报名工作。
+7．及时编报有关人事统计方面的报表工作。
+8．做好人事文书立卷归档。
+9．配合学校做好教师的回聘工作。
+10．负责人事信息数据库的日常维护，及时采录和修改人事管理信息，确保信息的准确。
+11.完成院领导交办的其他工作。
+
+			
+				
+			联系方式
+			
+						电子信箱：zdfxyrsk@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：何晓凯
+		单位：浙江大学中国西部发展研究院
+		职称：馆员（图书）
+		我的主页共被访问了1279次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

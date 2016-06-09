@@ -1,0 +1,205 @@
+
+
+
+
+
+王业伍-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0007412";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	王业伍
+
+
+	永久链接:http://mypage.zju.edu.cn/0007412&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			教授，博士生导师，教育部新世纪优秀人才，从事半导体纳米材料制备、表征、性能及器件化的研究工作。1999年-2002年，中国科学院固体物理所博士；2002年-2005年，韩国普项工科大学(POSTECH)博士后；2005年-2007年，德国马普协会微结构物理所博士后。发表SCI论文40多篇，包括NatureNanotechnology,Appl.Phys.Lett.,Chem.Mater.等，论文被Science,NatureMaterials,Phys.Rev.Lett.等国际期刊他引近2000次，单篇引用超过100次的论文有5篇，所谓H因子达到23。目前为NatureNanotechnology,JACS,J.Phys.Chem.B,Chem.Mater.等杂志审稿人，教育部留学回国人员科研启动基金评审专家，教育部博士点基金评审专家。作为项目负责人承担国家自然科学基金面上项目、教育部新世纪优秀人才基金、教育部留学人员回国启动基金、浙江省自然科学基金、浙江省钱江人才计划等项目。
+			
+				
+			工作研究领域
+			
+			半导体纳米材料物理与器件：1）半导体缺陷与光电性能研究；2）硅基太阳能电池和锂电池。
+			
+				
+			联系方式
+			
+			电话：0571-87953746			电子信箱：yewuwang@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：王业伍
+		单位：物理学系
+		职称：教授
+		我的主页共被访问了8730次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		发表论文
+	实验室介绍
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

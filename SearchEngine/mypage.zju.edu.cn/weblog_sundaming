@@ -1,0 +1,361 @@
+
+
+
+
+
+孙大明博士的博客-博客
+
+
+
+
+
+
+varctxPath="http://mypage.zju.edu.cn";
+varb_handle="sundaming";
+varcfg_weblog="http://mypage.zju.edu.cn/weblog";
+vard=newDate()
+varselyear=d.getFullYear();
+varselmonth=d.getMonth()+1;
+
+
+
+
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	color:#111;
+	margin-right:10px;	
+}
+#mainlinkullia,.tagsa:hover{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+.tagsa{
+	margin-right:10px;
+}
+img{
+	border:none;
+}
+
+
+
+
+
+
+
+
+
+
+	
+		首页
+		帮助
+		登录
+	
+
+
+
+
+
+
+	孙大明博士的博客
+欢迎您的光临
+
+	永久链接:http://mypage.zju.edu.cn/weblog/sundaming&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+
+
+	中文主页
+英文主页
+			博客
+
+
+
+
+
+
+
+
+
+
+			
+				
+
+	
+[1/1]
+首页	上一页下一页末页
+
+	
+
+浏览模式:普通|列表
+
+
+
+
+
+
+		Recordresultmadeinthermoacousticpowergeneration!
+
+作者:孙大明日期:2014-03-13Thursday
+
+
+
+WehavemadeagreatprogressinthermoacousticpowergeneartioninJan.2014.Theoutputelectricpoweris750Wwithathermal-electricefficiencyofmorethan16%,whichrankstopthreeinternationally.
+查看更多...
+
+
+
+
+
+分类:科研进展|			固定链接|评论总数1|
+			阅读次数73
+
+
+
+
+
+
+
+		基于低品位热能利用的行波热声发电系统研究获得突破
+
+作者:孙大明日期:2012-03-28Wednesday
+
+
+
+在973子课题和国家自然科学基金项目的资助下，课题组在基于低品位热能利用的行波热声发电系统研究方面获得突破。目前，单机发电功率达到347W，热电效率约为12%。热声发电技术与斯特林技术相近，理论上二者可以达到相同的热力学效率，但热声热机的结构简单、制造成本低...
+查看更多...
+
+Tags:
+发电热声
+	
+
+
+
+分类:科研进展|			固定链接|评论总数0|
+			阅读次数36
+
+
+
+
+
+
+
+		2010年，远航！
+
+作者:孙大明日期:2010-01-17Sunday
+
+
+
+争取今年在教学、课题研究、社会服务方面有新的突破！
+查看更多...
+
+
+
+
+
+分类:杂笔|			固定链接|评论总数0|
+			阅读次数93
+
+
+			
+			
+		
+		
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+	
+	
+		姓名：孙大明
+		单位：能源工程学系
+		职称：副教授/博导
+		我共发表了3篇文章
+		共收到1条评论
+		我的主页共被访问了1230次
+	
+	
+	
+	
+
+
+我的文章分类
+
+	科研进展
+		
+杂笔
+		
+
+
+
+
+日历
+
+
+
+>>
+年月
+
+
+
+日
+一
+二
+三
+四
+五
+六
+
+
+
+
+
+
+
+
+
+
+
+我的最新文章
+
+
+		Recordresultmadein...
+基于低品位热能利用的行...
+2010年，远航！
+	
+
+
+
+
+我的热点文章
+
+
+				Recordresultmadein...
+		基于低品位热能利用的行...
+		2010年，远航！
+
+	
+
+
+我收到的评论
+
+			
+
+	Good！
+
+	
+
+
+我的文章汇总
+
+		2014年3月[1]
+		2012年3月[1]
+		2010年1月[1]
+		
+	
+
+
+链接
+
+
+
+
+
+
+检索
+
+
+
+
+-所有文章-
+科研进展
+杂笔
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+
+
+varflag=newArray();
+flag[0]='2010/01/17';
+flag[1]='2012/03/28';
+flag[2]='2014/03/13';
+
+
+varcale=newCalendar("idCalendar",{
+SelectDay:newDate(),
+onSelectDay:function(o),
+onToday:function(o),
+onFinish:function(){
+$("idCalendarYear").innerHTML=this.Year;$("idCalendarMonth").innerHTML=this.Month;
+for(vari=0,len=flag.length;i<len;i++){
+//alert(flag[i]);
+	vard=newDate(flag[i]);
+	if(this.Year==d.getYear()){
+		if(this.Month==d.getMonth()+1)
+		{
+this.Days[d.getDate()].innerHTML=""+d.getDate()+"";
+			
+		}
+
+	}
+}
+}
+});
+$("idCalendarPre").onclick=function()
+$("idCalendarNext").onclick=function()
+
+
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));

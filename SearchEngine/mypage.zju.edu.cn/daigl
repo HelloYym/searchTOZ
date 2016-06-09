@@ -1,0 +1,212 @@
+
+
+
+
+
+戴高乐——浙江大学信电系-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0011052";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	戴高乐——浙江大学信电系
+
+
+	永久链接:http://mypage.zju.edu.cn/daigl&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;戴高乐，男，1985年11月出生，浙江宁波人，理学博士。现为浙江大学信息与电子工程学系讲师，IEEE会员。2007年获得北京大学电子科学技术理学学士学位，并保送至北京大学电磁场与微波技术实验室直接攻读博士学位，于2011年获得博士学位（提前一年博士毕业），同年加入浙江大学信息与电子工程学系。期间曾于2005年9月~2007年7月辅修北京大学政府管理学院行政管理专业；2008年9月~2009年1月在香港城市大学访问研究；2009年9月~2010年2月为新加坡国立大学访问博士生。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;目前的研究领域包括：射频无源/有源器件，圆极化天线设计，基于新材料的射频器件。已在国内外重要期刊和会议发表论文十余篇，其中第一作者SCI收录8篇（包括本领域内的核心期刊《IEEET-MTT》，《IEEEMWCL》和《IETEL》）
+			
+				
+			工作研究领域
+			
+			射频微波电路设计，天线及天线阵列，基于新材料的射频器件
+			
+				
+			联系方式
+			
+						电子信箱：daigl@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：戴高乐
+		单位：信息与电子工程学系
+		职称：讲师
+		我的主页共被访问了7677次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		专利成果
+	奖励荣誉
+	发表论文
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	浙江大学射频与纳米系统研究中心
+浙江大学
+北京大学
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,246 @@
+
+
+
+
+
+浙江大学信电系NanoPhotonics&Nanoelectronics-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0011005";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	浙江大学信电系NanoPhotonics&Nanoelectronics
+纳米光电子学现象与器件
+
+	永久链接:http://mypage.zju.edu.cn/ranhao&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;郝然博士，浙江大学硕士生导师，美国电气与电子工程师协会IEEE会员，美国光学学会OSA会员。2007年获得法国驻华使馆颁发的法国政府奖学金，在法国贝桑松CLA学校获得法语A2等级证书，2010年获得法国巴黎第十一大学（PSD，universit&eacute;Paris-SudXI）基础电子所博士（物理学），2011年于中国光谷武汉光电国家实验室获得第二个博士学位（光学），并获得国家实验室优秀科研奖励。2011年获浙江大学首批求是青年学者，2012年获评浙江大学优秀青年教师&ldquo;紫金计划&rdquo;项目负责人，2012年教职工年度考核为优秀，担任浙江大学信息学院2011级工信1105班主任和信电系电科1101班班主任。作为项目负责人主持3个项目，包括：2012年国家青年自然科学基金&ldquo;表面等离激元在石墨烯纳米带中的传输特性与机理研究&rdquo;的项目，2012年浙江省青年科学基金&ldquo;纳米尺度新型导光机制电光调制器的设计与研究&rdquo;项目，2011年浙江省自然科学基金重点项目&ldquo;CMOS工艺兼容的表面等离子激元微纳器件及集成技术的基础研究&rdquo;共同负责人，作为成员参加973项目预研等重大科研项目。发表ZJU100期刊论文2篇，TOP期刊20多篇，SCI、EI检索的会议论文6篇。在读博士期间参与并完成了法国国家科学基金ANR项目和欧洲HELIOSFP7项目等。目前，主要从事表面等离激元学信息器件和硅基微纳光电系统的基础研究。2011年指导的学生的毕业设计获浙江大学百篇特优毕设论文。2013年开始担任本科生课程《光电子学》的主讲教师，用英语授课。
+&nbsp;
+&nbsp;&nbsp;受邀承担国际学术期刊的审稿服务，包括：美国光学学会OpticsLetters，OpticsExpress，美国物理协会：AppliedPhysicsLetters,美国电气与电子工程师协会IEEEPhotonicTechnologyletter,Plasmonics,OpticsCommunication等。
+
+&nbsp;
+&nbsp;&nbsp;近两年内，已培养一些优秀毕业生去世界一流名校全奖留学深造，其中包括:美国乔治亚理工学院(GIT，GeorgiaInstituteofTechnology)；新加坡国立大学（NTU,NationalUniversityofSingapore）；法国巴黎第十一大学（PSD，universit&eacute;Paris-SudXI）；德国慕尼黑工业大学（MTU,TechnischeUniversitaetM&uuml;nchen）；台湾国立成功大学(NCKU,NationalChengKungUniversity)等。
+&nbsp;
+&nbsp;
+&nbsp;&nbsp;所在的团队是浙江大学信电系首批国家千人计划特聘教授李尔平教授团队，有良好的英文学术环境，购买了多款商业仿真软件（包括德国著名电磁场仿真软件CST，瑞士有限元仿真软件COMSOLMultiPhysics，加拿大FDTD仿真软件lumericalFDTDsolution等等），搭建了信电系并行计算刀片集群平台，已与美国名校Rice,Stanford,UIUC,UCBerkeley,UCLA,ColumbiaUniversity,NYU等建立了长期的合作关系。鼓励有兴趣的同学咨询和参与我们的科研项目。欢迎本校和外校的高年级同学报考或免试推荐成为我们信电系的研究生。优秀毕业生可推荐世界名校继续深造或联合培养,也可帮助联系国内外知名企业(如Intel,IBM,AMD,Motorola,Apple,中国移动，中国电信等)工作岗位。
+&nbsp;&nbsp;欢迎来函咨询科研信息。
+
+
+&nbsp;
+联系方式：
+浙江省杭州市西湖区浙大路38号浙江大学玉泉校区行政楼404室
+邮编：310027
+邮件：rhao@zju.edu.cn
+
+
+报考/招聘信息
+&nbsp;欢迎电磁场、光学、光电子学以及相关专业的学生报考本人的研究生、博士生、博士后。有意向者请将简历发到邮箱rhao@zju.edu.cn，来函必复。
+博士后待遇参照但优于浙江大学规定执行（参见浙江大学博士后工作办公室网站http://hr.zju.edu.cn/postdoctor/），可根据应聘者能力和工作情况，具体面议。同时提供良好的研究工作环境及个人成长发展空间。
+			
+				
+			工作研究领域
+			
+			研究方向：
+
+1.纳米光学器件的分析与设计
+
+2.慢光波导的设计与加工制造
+
+3.新型光电调制器、探测器
+
+4.石墨烯表面等离激元相关现象
+
+
+			
+				
+			联系方式
+			
+			电话：0571-87952530			电子信箱：rhao@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：郝然
+		单位：信息与电子工程学系
+		职称：讲师
+		我的主页共被访问了8962次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	发表论文
+	工作研究项目
+	奖励荣誉
+	学术交流（讲座报告）
+	研究领域
+	学生和博士后招募
+	国际会议
+	团队及合作伙伴介绍
+	指导学生
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

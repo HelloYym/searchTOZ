@@ -1,0 +1,211 @@
+
+
+
+
+
+田园牧歌-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0009242";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	田园牧歌
+全情全力，锐意进取！
+
+	永久链接:http://mypage.zju.edu.cn/yeting&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;
+1、2000年9月－2004年6月，浙大农学院园林专业本科就读；
+2、2004年7月－2006年9月，浙大生工食品学院工作，任院团委副书记、书记、辅导员；
+3、2006年9月－2009年3月，浙大建工学院城市规划专业攻读硕士研究生学位，任建工学院本科生党支部书记、兼职辅导员；
+4、2009年4月－2011年12月，浙大计算机学院与软件学院工作，任辅导员、本科生党总支秘书；
+5、2011年12月-2013年1月，浙大计算机学院工作，任党政综合办公室副主任；
+6、2013年1月-至今，浙大计算机学院工作，任党政综合办公室主任。
+曾获得浙江大学优秀辅导员、优秀班主任、优秀团干部等荣誉称号。
+			
+				
+			工作研究领域
+			
+			高校思想政治工作、干部队伍建设、职业生涯规划与创业教育。
+			
+				
+			联系方式
+			
+			电话：0571-87953025			电子信箱：yeting@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：叶艇
+		单位：计算机科学与技术学院
+		职称：助教
+		我的主页共被访问了4010次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

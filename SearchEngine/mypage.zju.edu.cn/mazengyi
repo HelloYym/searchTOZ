@@ -1,0 +1,210 @@
+
+
+
+
+
+马增益-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0098078";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	马增益
+变废为宝，循环经济
+
+	永久链接:http://mypage.zju.edu.cn/mazengyi&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			马增益博士,教授，1970年10月出生，1992年7月毕业于上海交通大学电厂热能动力工程专业本科，同年以优异成绩考取浙江大学工程热物理专业硕士研究生，1995年3月免试推荐攻读浙江大学工程热物理专业博士研究生，1998年7月博士毕业后留校任教，2005年12月晋升为教授。主要研究方向为废弃物清洁焚烧技术及燃烧测试技术,在生活垃圾清洁焚烧发电集成技术开发、医疗废弃物和危险废弃物清洁焚烧技术方面具有很深的造诣。先后参加了国家自然科学基金2项、国家自然科学基金重点项目1项以及国家高新技术产业化示范工程项目1项和863项目、973项目各1项，负责了浙江大学第二代、第三代垃圾异重循环流化床焚烧技术的研究开发工作，第一台300t/d循环流化床生活垃圾焚烧炉于2003年12月成功投入运行，顺利通过了环保验收，并形成了从300t/d、400t/d、500t/d、600t/d、650t/d的产品系列,成功应用于浙江杭州、萧山、义乌，广东东莞，湖北武汉，江苏南通，河南荥阳，山东淄博等地的垃圾焚烧发电工程。负责的湖州世纪清医疗废物焚烧处置工程被国家环保总局认定为中意合作固废处理BAT/BEP项目，负责浙江省重点项目台州固体废物处置工程焚烧处置系统的建设工作。作为主要参加者曾获国家科技进步二等奖一次，中国高校科技进步二等奖一次、浙江省科技进步一等奖二次，三等奖一次。拥有发明专利20余项，发表论文50余篇。2007年列入浙江省&ldquo;新世纪151人才工程&rdquo;第三层次培养人员，2008年被国家环境保护部环境工程评估中心聘为常聘专家。2012年担任浙江省固体废物利用处置行业协会副秘书长。
+			
+				
+			工作研究领域
+			
+			垃圾焚烧热电工程，医疗垃圾及危险废物焚烧处理，含盐有机废水焚烧处理，燃烧火焰图像检测技术
+
+			
+				
+			联系方式
+			
+			电话：0571-87951294			电子信箱：mazy@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：马增益
+		单位：能源工程学系
+		职称：教授
+		我的主页共被访问了13428次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	专利成果
+	奖励荣誉
+	废弃物资源化无害化综合利用课程
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

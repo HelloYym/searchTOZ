@@ -1,0 +1,204 @@
+
+
+
+
+
+汤一的个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0085231";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	汤一的个人主页
+茶人汤一
+
+	永久链接:http://mypage.zju.edu.cn/115&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			汤一，1962年8月出生，浙江诸暨人，茶学硕士。1998年晋升副教授职称，1999年被授予硕士研究生导师资格。1982年浙江农业大学茶学系大学本科毕业，1985年茶学系茶叶加工方向硕士研究生毕业，并获硕士学位，同年留校，在茶学系从事教学科研工作至今。1988年晋升讲师职称。1997年7月至1998年9月曾受农业部委派，赴泰国Kasetsart大学研修农产品加工。1998年9月晋升副教授职称。2005年下派龙泉兰巨乡担作科技特派员。共主持&ldquo;茶水饮料开发技术&rdquo;、&ldquo;名优茶保鲜技术&rdquo;、&ldquo;利用常规绿茶品种试制乌龙茶新产品优化工艺之研究&rdquo;等课题七项，其中，&ldquo;扁形茶全程机制优化工艺及多茶类组合开发技术&rdquo;为省科技厅下达的计划项目。获国家发明专利一项。先后发表&ldquo;茶叶吸香和持香机理研究&rdquo;、&ldquo;茶叶品质形成过程中的高分子机理&rdquo;、&ldquo;我国出口茶贸易条件之实证分析&rdquo;、&ldquo;浙江省茶产业结构调整的实证研究&rdquo;等学术论文三十余篇。出版专著一本，并参编《中国茶叶大辞典》等著作或教材三本，共培养茶学硕士研究生四名。本人的研究领域涉及茶叶加工、茶叶经济与产业文化等方面，并取得了一些较有影响力的学术成果。
+&nbsp;&nbsp;曾获浙江省高校优秀党员、浙江省高校优秀党员、全国优秀科技特派员等荣誉称号。
+			
+				
+			工作研究领域
+			
+			茶叶加工、茶产业经济
+			
+				
+			联系方式
+			
+			电话：0571-86971260			电子信箱：Ytang@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：汤一
+		单位：农业与生物技术学院茶学系
+		职称：副教授
+		我的主页共被访问了423次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,275 @@
+
+
+
+
+
+生物医学材料、防护材料、再生医学-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0005415";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	生物医学材料、防护材料、再生医学
+微创、无创治疗生物材料制品研究开发，纳米营养学，纳米防护技术
+
+	永久链接:http://mypage.zju.edu.cn/gouzhr&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+副研究员，硕士生导师，中国生物材料学会、生物医学工程学会会员;入选2011年度浙江省&ldquo;151人才工程&rdquo;培养对象。
+&nbsp;
+1995.09~1999.07&nbsp;&nbsp;&nbsp;中南工业大学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;工学学士
+1999.09~2002.02&nbsp;&nbsp;&nbsp;&nbsp;中南大学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;工学硕士[导师：李小斌教授]
+2002.03~2005.03&nbsp;&nbsp;&nbsp;&nbsp;中科院上海硅酸盐研究所&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;工学博士[导师：常江研究员]
+2005.03~2007.04&nbsp;&nbsp;&nbsp;&nbsp;浙江大学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;博士后[合作导师：翁文剑教授]
+2007.05~&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江加州国际纳米技术研究院&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;副研究员
+&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;从事骨科、口腔科、眼科、创伤生物医用(纳米)材料及细胞生物学、纳米营养学、防护材料等研究，主持国家自然科学基金、浙江省科技厅项目、浙江省自然基金以及企业合作课题等，
+参与国家自然基金重点项目、市-校合作项目等；&nbsp;在国际刊物JPhysChemC,JMaterChem,ActaBiomater,JBiomedMaterRes(A,B)、JNutrHealthAging,&nbsp;JControlledRelease等发表
+论文40余篇，申请发明/实用新型专利27项（获授权专利21项）。
+&nbsp;
+迄今实验室取得的主要研究进展：
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9834;开发出一种脱敏-防龋口腔护理材料(转化中)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9834;开发出一种急性创伤愈合敷料材料(转化中)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9834;提出低成本制造多维微量营养素功能饮品
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9834;初步开发出一类具有优良综合力学性能的三维打印生物活性陶瓷材料
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9834;提出并初步开发出快速止血、促进急性/慢性创面愈合修复的新型多功能敷料
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9834;发展了多元生物活性物质协同组装(微球)颗粒材料和多层微球生物材料的方法
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9834;初步解决了骨再生修复材料设计中多元生物活性物质协同管理和控制释放的难题
+
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+热忱欢迎相关企业、投资界、学术界同仁开展产学研合作！
+
+			
+				
+			工作研究领域
+			
+			1.生物材料与再生医学（骨科、口腔科、颌面外科、眼科和创伤科等组织损伤再生修复用打印材料、微创可注射材料、多孔生物陶瓷、仿生功能涂层材料等）
+
+2.纳米营养学（多维营养保健纳米技术、纳米生物安全性等）
+
+3.护理/防护技术（包括口腔、皮肤保健护理用品和纤维膜材料）
+
+			
+				
+			联系方式
+			
+			电话：(86)571-88208353			电子信箱：zhrgou(at)zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：苟中入
+		单位：浙江大学浙江加州国际纳米技术研究院（ZCNI）
+		职称：副研究员（自然科学）
+		我的主页共被访问了14535次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+	专利成果
+	出版著作
+	奖励荣誉
+	研究成果
+	学术交流（讲座报告）
+	实验室介绍
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	材料系
+高分子系
+化学系
+机械系
+医学部
+生仪学院
+生研院
+航空航天学院
+附一医院
+附二医院
+口腔医院
+科研院
+人事处
+鸿元医药
+瑞安人民医院
+中科院上硅所
+中南湿法冶金所
+图书馆
+班车
+ACS
+RSC
+Wiley
+Nature
+Springer
+Sciencedirect
+翁老师实验室
+高老师实验室
+贺永老师实验室
+叶娟教授主页
+常老师实验室
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

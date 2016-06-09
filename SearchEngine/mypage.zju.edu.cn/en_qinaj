@@ -1,0 +1,251 @@
+
+
+
+
+
+Anjun'sHome-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0007612";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	Anjun'sHome
+
+
+	Permanentlink:http://mypage.zju.edu.cn/en/qinaj&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			Blog
+
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			
+Dr.AnjunQin,receivedhisPh.D.degreeinPhysicalChemistryandMaterialsSciencefromInstituteofChemistry,ChineseAcademyofSciencesin2004.From2005to2007,heworkedasapostdoctoralassociateinProfessorBenZhongTang&rsquo;sgroupatTheHongKongUniversityofScience&amp;Technology.Fromthebeginningof2007,hestartedhispostdoctoralworkintheDepartmentofPolymerScienceandEngineeringatZhejiangUniversity.HewaspromotedtoAssociateProfessorofZhejiangUniversity&nbsp;in12/2008.
+Hehasbeenworkingontheconstructionoffunctionallinearandhyperbranchedpolymersfrom&nbsp;triple-bondbuildingblocks,especiallyontheexplorationofefficientcatalystsystemsandnewpolymerizationreactions.Heisalsointerestedindesignandsynthesisofpolymerswithaggregation-inducedemissionpropertiesandexplorationtheirapplicationinbioassayandchemosensors.
+Heismanaging4projects:twofromtheNationalNaturalScienceFoundationofChina(NSFC)andanothertwofromtheChinaPostdoctoralScienceFoundation.Hejoinedina&ldquo;973&rdquo;projectfromtheMinistryofScience&amp;TechnologyofChina.Hehaspublished&nbsp;morethan100&nbsp;papersand60ofwhicharepublishedinhighimpactfactorjournals(IF&gt;3)includingChem.Soc.Rev.,Prog.Polym.Sci.,J.Am.Chem.Soc.,Adv.Funct.Mater.,Chem.Sci.,Macromolecules,&nbsp;Chem.Commun.,J.Mater.Chem.etc.He&nbsp;hasbeen&nbsp;issued&nbsp;twoChinesePatentsand&nbsp;twoUSpatents.
+&nbsp;
+&nbsp;SelectedPublications
+
+
+AnjunQin,JackyW.Y.Lam,BenZhongTang,Luminogenicpolymerswithaggregation-inducedemissioncharacteristics,Prog.Polym.Sci.2012,37,182-209.
+JianWang,JuMei,RongrongHu,JingzhiSun,*AnjunQin,*BenZhongTang*,ClickSynthesis,Aggregation-InducedEmission,E&ndash;ZIsomerization,Self-organization,andMultipleChromismsofPureStereoisomersofaTetraphenylethene-CoredLuminogen,J.Am.Chem.Soc.2012,134,9956-9966.&nbsp;&nbsp;
+JuMei,JianWang,JingZhiSun,HuiZHao,WangZhangYuan,ChunmeiDeng,ShumingChen,Herman,H.Y,Sung,PingLu,Anjun&nbsp;Qin,*HoiSingKwok,YuguangMa,IanD.Williams,BenZhongTang*,Symmetricallysubstitutedsilolesontheir2,5-positionswithelectron-acceptinganddonatingmoieties:facilesynthesis,aggregation-enhancedemission,&nbsp;solvatochromism,anddeviceapplication,Chem.Sci.2012,3,&nbsp;549-558.
+
+TianxiangWang,YunboCai,ZhipengWang,ErjiaGuan,DahaiYu,AnjunQin,*JingzhiSun,BenZhongTang,ChangyouGao*Decomposition-AssemblyofTetraphenylethyleneNanoparticlesWithUniformSizeandAggregation-InducedEmissionproperty,Macromol.RapidCommun.2012,inpress.
+
+
+QiangWei,HaiqinDeng,YunboCai,JackyW.Y.Lam,JieLi,JingzhiSun,MengGao,AnjunQin,*BenZhongTang*EfficientpolymerizatioinofAzideandactiveinternalalkynes,Macromol.RapidCommun.2012,inpress.
+
+
+HongkunLi,JianWang,JingZhiSun,RongrongHu,AnjunQin,*andBenZhongTang*,Metal-FreeClickPolymerizationofPropiolatesandAzides:FacileSynthesisofFunctionalPoly(aroxycarbonyltriazole)s,Polym.Chem.,2012,3,1075-1083&nbsp;(Top10most-readarticlesinFeb.2012)
+
+
+AnjunQin,*YaZhang,NingHang,JuMei,JingzhiSun,WeiminFan,BenZhongTang*,Preparationandself-assemblyofamphiphilicpolymerwithaggregation-inducedemissioncharacteristics,Sci.ChinaChem.,2012,55,772-778.
+
+
+HongkunLi,JingzhiSun,Anjun&nbsp;Qin*,Ben&nbsp;ZhongTang*,Azide-alkyneclickpolymerization:anupdate,ChineseJ.Polym.&nbsp;Sci.2012,30,1-15.
+
+YiLiu,AnjunQin,*XiujuanChen,XiaoYuanShen,LiTong,RongrongHu,JingZhiSun,*andBenZhongTang*,Specificrecognitionofbeta-cyclodextrinbyatetraphenyletheneluminogenviacooperativeboronicacid/diolinteraction,Chem.-Eur.J.2011,17,14736-14740.
+JianWang,JuMei,WangzhangYuan,PingLu,AnjunQin*,JingzhiSun,YuguangMa,BenZhongTang*,Hyperbranchedpolytriazoleswithhighmolecularcompressibility:aggregation-inducedemissionandsuperamplifiedexplosivedetection,J.Mater.Chem.2011,21,4056-4059(Highlightedasinsidefrontcover).
+AnjunQin,JackyW.Y.Lam,BenZhongTang,Clickpolymerization:progresses,&nbsp;&nbsp;challenges,andopportunities,Macromolecules,2010,43,8693-8702(Perspective,HighlightedasCoverImage,MostReadArticle).
+AnjunQin,JackyW.Y.Lam,BenZhongTang,Clickpolymerization,Chem.Soc.Rev.2010,39,2522-2544(ToptenmostaccessedarticlesinJuly,2010).&nbsp;
+AnjunQin,JackyW.Y.Lam,FaisalMahtab,CathyK.W.Jim,LiTang,JingzhiSun,HermanH.Y.Sung,IanD.Williams,andBenZhongTang,Pyrazineluminogenswith&ldquo;free&rdquo;and&ldquo;locked&rdquo;phenylrings:understandingofrestrictionofintramolecularrotationasacauseforaggregation-inducedemission,Appl.Phys.Lett.2009,94,253308.
+AnjunQin,LiTang,JackyW.Y.Lam,CathyK.W.Jim,YongYu,HuiZhao,JingzhiSun,BenZhongTang,Metal-freeclickpolymerization:synthesisandphotonicpropertiesofpoly(aroyltriazole)s,Adv.Funct.Mater.2009,19,1891-1900.(AdvancesinAdvance,highlightedbyMaterialsViewspublishedbyWiley-VCH)&nbsp;
+AnjunQin,JackyW.Y.Lam,LiTang,CathyK.W.Jim,HuiZhao,JingzhiSun,BenZhongTang,Polytriazoleswithaggregation-inducedemissioncharacteristics:synthesisbyclickpolymerizationandapplicationasexplosivechemosensors,Macromolecules,2009,42,1421-1424.(selectedforinclusionintotheVirtualIssueonClickChemistryinMacromolecularScience)
+AnjunQin,CathyK.W.Jim,YouhongTang,JackyW.Y.Lam,JianzhaoLiu,FaisalMahtab,PingGao,BenZhongTang,Aggregation-enhancedemissionsofintramolecularexcimersindisubstitutedpolyacetylenes,J.Phys.Chem.B2008,112,9281-9288.
+AnjunQin,JackyW.Y.Lam,CathyK.W.Jim,LiZhang,JingjingYan,MatthiasH&auml;ubler,JianzhaoLiu,YongqiangDong,DehaiLiang,ErqiangChen,GuochenJia,BenZhongTang,Hyperbranchedpolytriazoles:clickpolymerization,regioisomericstructure,lightemission,andfluorescentpatterning,Macromolecules2008,41,3808-3822.(selectedforinclusionintotheVirtualIssueonClickChemistryinMacromolecularScience)
+AnjunQin,JackyW.Y.Lam,HongchenDong,WeixinLu,CathyK.W.Jim,YongqiangDong,MatthiasH&auml;ubler,HermanH.Y.Sung,IanD.Williams,GeorgeK.L.Wong,andBenZhongTang,Metal-free,regioselectivediynepolycyclotrimerization:synthesis,photoluminescence,solvatochromism,andtwo-photonabsorptionofatriphenylamine-containinghyperbranchedpoly(aroylarylene),Macromolecules2007,40,4879-4886.
+AnjunQin,CathyK.W.Jim,WeixinLu,JackyW.Y.Lam,MatthiasH&auml;ubler,YongqiangDong,HermanH.Y.Sung,IanD.Williams,GeorgeK.L.Wong,BenZhongTang,ClickPolymerization:facilesynthesisoffunctionalpoly(aroyltriazole)sbymetal-free,regioselective1,3-dipolarpolycycloaddition,Macromolecules2007,40,2308-2317.
+
+
+
+
+Invitedtalks
+
+
+
+
+AnjunQin,BenZhongTang,Aggregation-InducedEmissionEnhancementsOfIntramolecularExcimersIn&nbsp;DisubstitutedPolyacetylenes,The4thInternationalConferenceonPhotoresponsiveOrganicsandPolymers(ICPOP-2008),Oct.17-20,2008.
+AnjunQin,BenZhongTang,ConstructionofFunctionalPoly(aroyl)triazolesbyClickPolymerization,5thInternationalSymposiumonHigh-TechPolymerMaterials(HTPM-V),Beijing,October26-29,2008.
+AnjunQin,BenZhongTang,ClickPolymerization,XVIIIInternationalMaterialResearchCongress2009(IMRC2009),&nbsp;Cancun,Mexico,16-20August,2009.
+AnjunQin,BenZhongTang，Polytriazoleswithaggregation-inducedemissioncharacteristics:preparationandapplicationinexplosivedetection，TheCross-StraitSymposiumonMacromolecularLiquidCrystalsandSupramolecularOrderedSystems,Zhengzhou,23&ndash;26August2010&nbsp;&nbsp;
+
+
+&nbsp;
+			
+				
+			Researchwork
+			
+			ExplorationofNewPolymerizationMethodsBasedonTriple-BondBuilding-Blocks.
+ConstructionofFunctionalPolymerswithAggregation-InducedEmissionCharacteristics.
+			
+				
+			Contact
+			
+			Phone:+86-571-8795-3734
+			E-mail:qinaj@zju.edu.cn
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:AnjunQIN
+		Units:DepartmentofPolymerScienceandEngineering,ZhejiangUniversity
+		Title:AssociateProfessor
+		Myhomepagehasbeenvisited4018times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	
+
+
+Youarevisitor:4018
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

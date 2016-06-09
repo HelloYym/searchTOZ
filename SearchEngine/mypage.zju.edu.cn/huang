@@ -1,0 +1,217 @@
+
+
+
+
+
+浙江大学黄爱苹教授-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0098179";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	浙江大学黄爱苹教授
+个人主页
+
+	永久链接:http://mypage.zju.edu.cn/huang&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			浙江大学教授、博士生导师。
+1973～1977南京邮电学院（现南京邮电大学）完成本科学习。1977～1980在邮电部设计院任技术员。1980～1982南京工学院无线电工程系（现东南大学信息学院），获通信与电子系统科学硕士学位。1982迄今在浙江大学，历任讲师、副教授、教授。其间于1994～1998公派往芬兰HelsinkiUniversityofTechnology进行科学研究，在无线通信研究所任ResearchScientist，1997年获LicentiateinTechnology学位。
+长期从事信号处理、移动通信、智能仪器课程教学和研究生培养。出版高校统编教材《数字信号处理》，发表教学研究论文多篇，获校优秀教师、教学成果奖。曾任浙江大学信息与通信工程本科专业负责人，主持完成校特色专业建设项目。
+先后从事信号处理、智能仪器系统、移动通信与宽带无线接入、无线网络等理论和技术的研究。近年主要研究方向为移动通信、宽带接入、无线网络。主持完成国家自然科学基金项目、国家重大科技专项课题、省部级科技计划重点项目、企业委托项目数十项，参加多项国家自然科学基金项目、国家重大科技专项课题、国家重大基础理论计划项目、国家高科技计划项目，参与芬兰国家级（TEKES）项目三项。科研成果获省部级科技奖三项，浙江省高校科技奖一项。在IEEETransactiononWirelessCommunications等国内外学术期刊、GLOBLECOM等主要国际学术会议上发表论文一百四十余篇。申请中国发明专利21项，其中12项已授权。
+现任浙江省综合信息网技术重点实验室主任，中国通信学会理事，浙江省通信学会常务理事、学术交流工作委员会主任委员，ViceChairofIEEECommunicationSocietyNanjingChapter，南京邮电大学兼职教授。
+			
+				
+			工作研究领域
+			
+			移动通信、宽带接入、无线网络。包括移动通信、无线网络、宽带接入和信号处理，包括CDMA与混合多址，多载波与多天线，序列设计与系统抗干扰，无线资源管理，无线网络协议，认知无线电和认知无线网络等。
+
+			
+				
+			联系方式
+			
+			电话：0571－87951709			电子信箱：aiping.huang@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：黄爱苹
+		单位：信息与电子工程学系
+		职称：教授
+		我的主页共被访问了70473次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	专利成果
+	奖励荣誉
+	《数字信号处理》课程2014秋冬
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

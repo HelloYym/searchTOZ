@@ -1,0 +1,213 @@
+
+
+
+
+
+穷则独善其身，达则兼济天下-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0007751";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	穷则独善其身，达则兼济天下
+Jimmy
+
+	永久链接:http://mypage.zju.edu.cn/wcj&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			吴昌聚，男，浙江大学航空航天学院副教授，博士生导师。1977年10月出生于浙江三门，1996年进入大庆石油学院学习，2000年获得机械设计及制造专业学士学位。2000年9月进入浙江大学学习，2003年3月获得机械制造及其自动化专业硕士学位，2006年10月获得浙江大学微电子学与固体电子学专业博士学位。2006年11月公派留学瑞典皇家工学院，进行了为期一年的学术访问。2009年博士后出站后留校任教。2010年被评为副教授。2011年被评为&ldquo;浙江大学求是青年学者&rdquo;，同年被聘为博士生导师。2007年10月份开始从事皮卫星研究，作为国内首颗皮卫星的骨干，负责皮卫星结构和分离机构分系统、热控分系统的研制，这两个分系统也是确保ZDPS-1A两颗皮卫星能够在2010年9月22日发射成功并圆满完成各项任务的关键。作为项目主要负责人承担了&ldquo;973&rdquo;、&ldquo;863&rdquo;、国防预研、中国博士后科学基金等多个项目。发表SCI/EI学术论文20余篇。主要研究方向有：飞行器结构设计技术、热防护技术、微流体控制技术、MEMS技术、空间环境探测等。
+			
+				
+			工作研究领域
+			
+			飞行器结构设计技术、热防护技术、微流体控制技术、MEMS技术、空间环境探测
+			
+				
+			联系方式
+			
+						电子信箱：wuchangju@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：吴昌聚
+		单位：航空航天学院
+		职称：副教授
+		我的主页共被访问了14595次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+	教学工作
+	本科生毕业设计指导
+	专利成果
+	奖励荣誉
+	校内兼任党政管理及其它工作
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	浙江大学航空航天学院
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

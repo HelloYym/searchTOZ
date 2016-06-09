@@ -1,0 +1,472 @@
+
+
+
+
+
+菩提树-博客
+
+
+
+
+
+
+varctxPath="http://mypage.zju.edu.cn";
+varb_handle="0098016";
+varcfg_weblog="http://mypage.zju.edu.cn/weblog";
+vard=newDate()
+varselyear=d.getFullYear();
+varselmonth=d.getMonth()+1;
+
+
+
+
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	color:#111;
+	margin-right:10px;	
+}
+#mainlinkullia,.tagsa:hover{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+.tagsa{
+	margin-right:10px;
+}
+img{
+	border:none;
+}
+
+
+
+
+
+
+
+
+
+
+	
+		首页
+		帮助
+		登录
+	
+
+
+
+
+
+
+	菩提树
+扫尘集
+
+	永久链接:http://mypage.zju.edu.cn/weblog/0098016&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+
+
+	中文主页
+			博客
+
+
+
+
+
+
+
+
+
+
+			
+				
+
+	
+[1/1]
+首页	上一页下一页末页
+
+	
+
+浏览模式:普通|列表
+
+
+
+
+
+
+		几点建议
+
+作者:童华章日期:2008-04-29Tuesday
+
+
+
+1.个人博客不够人性化,写在某些栏目里的小文,不想公开在主页上.能不能提供一个是否公开的checkbox?2.重新刷屏,访问数就加1,这个计算不是很好.可参考zupo
+查看更多...
+
+
+
+
+
+分类:心海拾贝|			固定链接|评论总数1|
+			阅读次数359
+
+
+
+
+
+
+
+		ftl乱码问题
+
+作者:童华章日期:2008-04-29Tuesday
+
+
+
+看到有人问在freemaker+spring+hibernate+mysql的开发中,提到ftl显示数据库数据乱码,而jsp中文显示不乱码.有人建议用interceptor,有的在代码中转换.其实ftl中直接指定utf-8,在数据库的联接时,指定编码为utf-8,可解决ftl数据库中文乱码的问题.<propertyname="conne...
+查看更多...
+
+
+
+
+
+分类:心海拾贝|			固定链接|评论总数0|
+			阅读次数351
+
+
+
+
+
+
+
+		liferay的介绍
+
+作者:童华章日期:2008-02-01Friday
+
+
+
+代表了完整的J2EE应用，使用了Web、EJB以及JMS等技术，特别是其前台界面部分使用Struts框架技术，基于XML的portlet配置文件可以自由地动态扩展，使用了WebServices来支持一些远程信息的获取，使用ApahceLucene实现全文检索功能。主要特点：1、提供单一登陆...
+查看更多...
+
+
+
+
+
+分类:liferay|			固定链接|评论总数0|
+			阅读次数460
+
+
+
+
+
+
+
+		缘分
+
+作者:童华章日期:2008-02-01Friday
+
+
+
+生活中其实有很多人&mdash;&mdash;比如一个楼里头的，经常见面，却互不认识。哪天见了他或她，微微一笑，他或她也微笑的话，再攀谈几句，两个人就认识了。说不定能成为好朋友呢。要懂得珍惜，特别是缘分。我们原来住的旧小区，虽然破旧，但邻里关系融洽。互相帮助，...
+查看更多...
+
+
+
+
+
+分类:心海拾贝|			固定链接|评论总数1|
+			阅读次数483
+
+
+
+
+
+
+
+		学习学习再学习
+
+作者:童华章日期:2008-02-01Friday
+
+
+
+学习学习再学习,毛主席说的话到现在也是适用的。从以往处理简单的教学关系，到目前信息化建设要处理的各种关系，算是一个很大的锻炼。以往做的项目也不少，但大多数都是企业信息化建设，关系简单。哪怕是关于政府应用，也是单部门的工作。刚进来的时候，不知深浅。许...
+查看更多...
+
+
+
+
+
+分类:心海拾贝|			固定链接|评论总数0|
+			阅读次数464
+
+
+
+
+
+
+
+		选择生活
+
+作者:童华章日期:2008-02-01Friday
+
+
+
+开完会，走在校园里，已将近深夜12点了。跟团队成员走在深夜的校园里，恍似回到大学时代的毕业前夕。时光荏苒，少了几许歌声，多了一份责任。就如一位同事说的，选择就是在许多门中，打开一扇走进去。这扇门里有什么？进了才知道。唯一可以确定的就是，选择了新的工作...
+查看更多...
+
+
+
+
+
+分类:心海拾贝|			固定链接|评论总数1|
+			阅读次数528
+
+
+
+
+
+
+
+		jetspeed的介绍
+
+作者:童华章日期:2008-01-30Wednesday
+
+
+
+JetSpeedJetspeed是一个开放源代码的企业信息门户(EIP)的实现,使用的技术是Java和XML.用户可以使用浏览器,支持WAP协议的手机或者其它的设备访问Jetspeed架设的信息门户获取信息.Jetspeed扮演着信息集中器的角色,它能够把信息集中起来并且很容易地提供给用户....
+查看更多...
+
+
+
+
+
+分类:jetspeed|			固定链接|评论总数0|
+			阅读次数474
+
+
+			
+			
+		
+		
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+	
+	
+		姓名：童华章
+		单位：信息中心信息化支持与推进部
+		职称：讲师
+		我共发表了7篇文章
+		共收到3条评论
+		我的主页共被访问了7985次
+	
+	
+	
+	
+
+
+我的文章分类
+
+	心海拾贝
+		
+liferay
+		
+businessware
+		
+jetspeed
+		
+appfuse
+		
+
+
+
+
+日历
+
+
+
+>>
+年月
+
+
+
+日
+一
+二
+三
+四
+五
+六
+
+
+
+
+
+
+
+
+
+
+
+我的最新文章
+
+
+		ftl乱码问题
+几点建议
+选择生活
+liferay的介绍
+缘分
+学习学习再学习
+jetspeed的介绍
+	
+
+
+
+
+我的热点文章
+
+
+				选择生活
+		缘分
+		jetspeed的介绍
+		学习学习再学习
+		liferay的介绍
+		几点建议
+		ftl乱码问题
+
+	
+
+
+我收到的评论
+
+			lifeisaboxofchoc...
+		恭喜乔迁新居
+		verygoodadvice！
+
+	
+
+
+我的文章汇总
+
+		2008年4月[2]
+		2008年2月[4]
+		2008年1月[1]
+		
+	
+
+
+链接
+
+学生数据中心
+网络学术创新环境
+校园卡综合服务网站
+浙大办公网
+浙大附小
+浙大信电系系庆五十周年...
+浙大电子信息技术研究所
+yuanyuan的博客
+小留：笑着长大
+
+
+
+
+
+检索
+
+
+
+
+-所有文章-
+心海拾贝
+liferay
+businessware
+jetspeed
+appfuse
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+
+
+varflag=newArray();
+flag[0]='2008/01/30';
+flag[1]='2008/02/01';
+flag[2]='2008/04/29';
+
+
+varcale=newCalendar("idCalendar",{
+SelectDay:newDate(),
+onSelectDay:function(o),
+onToday:function(o),
+onFinish:function(){
+$("idCalendarYear").innerHTML=this.Year;$("idCalendarMonth").innerHTML=this.Month;
+for(vari=0,len=flag.length;i<len;i++){
+//alert(flag[i]);
+	vard=newDate(flag[i]);
+	if(this.Year==d.getYear()){
+		if(this.Month==d.getMonth()+1)
+		{
+this.Days[d.getDate()].innerHTML=""+d.getDate()+"";
+			
+		}
+
+	}
+}
+}
+});
+$("idCalendarPre").onclick=function()
+$("idCalendarNext").onclick=function()
+
+
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));

@@ -1,0 +1,216 @@
+
+
+
+
+
+李艳的主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0006235";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	李艳的主页
+求是是根本，创新是灵魂！
+
+	永久链接:http://mypage.zju.edu.cn/liyan&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+
+
+土地资源管理专业副教授，硕士生导师。2001-2006年在浙江大学环资学院农业遥感与信息技术应用研究所攻读硕士和博士学位，2006年至今，任教于浙江大学公共管理学院土地管理系。主要从事土地利用信息技术、土地遥感、土地利用规划、土地资源评价等方面的研究工作。
+&nbsp;
+目前正主持国家自然科学基金项目&ldquo;滨海盐土水盐时空变异性与农业景观格局变化研究&rdquo;（40701007）、浙江省自然科学基金项目&ldquo;滨海盐碱地土地利用景观格局演变及其对盐分动态变化的影响研究&rdquo;（Y3090198）、中国博士后科学基金&ldquo;基于空间变异特性的滨海盐土随机模拟和三维可视化表达&rdquo;（20060401048），企事业委托项目黄河三角洲土地利用结构优化模式研究、萧山、桐庐经济开发区土地集约利用项目等。正参与国家自然科学基金项目&ldquo;农地非农化治理效率评价及政策仿真研究&rdquo;（G0305）、浙江省自然科学基金项目&ldquo;杭州湾湿地景观时空演变过程及其格局优化预案研究&rdquo;（Y507207）。曾参与完成&ldquo;土壤空间变异与景观模型支持下的土壤遥感解译&rdquo;（40001008）和&ldquo;滨海盐土高光谱特性和二向反射模型研究&rdquo;（40571066）、浙江省科技计划重点项目&ldquo;杭州湾产业带滩涂湿地保护和优化利用&rdquo;（J30523）、浙江省科技厅重点项目&ldquo;浙江省海涂土壤利用动态监测系统的研制与应用&rdquo;（001110445）、浙江省国土资源厅重大合作项目&ldquo;浙江省地质环境与农产品安全基础数据库建设和决策咨询系统研制&rdquo;（2004C32066）、浙江省防洪抗旱信息建设项目&ldquo;浙江省实时水雨情信息WEBGIS发布系统&rdquo;(03-315202-6)、以及省市各级、地方横向课题10多项。在《ComputersandElectronicsinAgriculture》、《JournalofZhejiangUniversitySCIENCEB》、《Pedosphere》和《EnvironmentalGeology》等杂志上发表论文近20余篇，国家级出版社出版专著2部；获得计算机软件发明专利2项。
+
+
+&nbsp;
+			
+				
+			工作研究领域
+			
+			土地利用信息技术，土地遥感，土地利用规划，土地资源评价等
+			
+				
+			联系方式
+			
+			电话：0571-86971375			电子信箱：liyan522@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：李艳
+		单位：公共管理学院土地管理系
+		职称：副教授
+		我的主页共被访问了1817次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		专利成果
+	教学工作
+	工作研究项目
+	出版著作
+	发表论文
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

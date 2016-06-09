@@ -1,0 +1,252 @@
+
+
+
+
+
+HuajunChen-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0004292";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	HuajunChen
+HuajunChen'sHomepage
+
+	永久链接:http://mypage.zju.edu.cn/huajun&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			陈华钧，教授、博导。主要研究方向为大数据、语义互联网、生物信息计算等。2000年获浙江大学生物工程学士学位，2004年毕业于浙江大学计算机科学与技术学院，获博士学位。2006年，2007年分别赴耶鲁大学、卡耐基梅隆大学访问深造。担任国际大数据学术期刊ElsevierJournalofBigDataResearch管理编委，中国电子学会云计算专业委员会委员，中国计算机学会互联网专业委员会委员，世界中医药学会联合会信息专业委员会常务理事等。曾获国际语义互联网会议ISWC最佳论文奖。在Elsevier，Springer等出版社出版英文专著或编著3部。作为主要参与者，获得教育部技术发明一等奖、国家科技进步二等奖等奖励。曾创办国际语义技术联合会议JIST,担任IEEE/ACMCPSCom等多个学术会议或研讨会主席。
+受教育经历:&#8232;
+
+2000/09&ndash;2004/12,浙江大学,计算机科学与技术学院,博士
+1996/09&ndash;2000/07,浙江大学,生物工程专业,学士
+
+研究工作经历:
+
+&#8232;2012/12&ndash;今,浙江大学,计算机学院,教授
+2007/12&ndash;2012/12,浙江大学,计算机学院,副教授
+&#8232;2007/04-2008/04,美国卡内基梅隆大学,计算机学院,访问助理教授
+2006/06-2007/04,耶鲁大学,生物医学信息研究中心,访问学者&#8232;
+2005/03-2007/12,浙江大学,计算机学院,讲师
+
+主要学术兼职及活动
+
+ElsevierJournalofBigDataResearch编委&#1113088;管理负责人&#8232;
+国际期刊ComputingandInformatics(SCI)编委
+&#8232;中国电子学会云计算专家委员会委员&#8232;
+中国计算机学会互联网专家委员会委员&#8232;
+世界中医药联合会信息专业委员会常务理事
+SteeringCommittee:国际语义技术联合会议JIST2011-2015&#8232;
+PCChair:国际语义技术联合会议JIST2011.(创办)&#8232;
+PCChair:亚洲语义互联网会议ASWC2011.&#8232;
+CoChair:WWW2015WorkshoponWebDataScienceandSmartCities&#8232;
+大会副主席:IEEE/ACMCPSCom2010(Cyber-Physical-SocialComputing).&#8232;
+DemoChair:国际语义互联网会议ISWC2010&#8232;PCChair:AAAI2008WorkshoponSemantice-Science.&#8232;
+PCChair:WWW2007/2008WorkshoponSemanticWebforHealthcaresandLifeSciences.
+&#8232;WorkshopChair:IEEEiThing2011,中国语义Web会议CSWC2013
+&#8232;TutorialChair:中国语义Web会议CSWC2006-2012
+GuestEditor:IEEEComputationalIntelligenceMagazine(IF=3.329),SpecialIssueon&ldquo;SemanticWebmeetsComputationalIntelligence&rdquo;.
+&#8232;GuestEditor:ElsevierJournalofBigDataResearchSpecialIssueon&ldquo;BigDatameetsSmartCities&rdquo;.
+&#8232;GuestEditor:BMCBioinformatics(IF=4.221).SpecialIssueon&ldquo;Semantice-ScienceforBiomedicine&rdquo;&#8232;
+GuestEditor:JournalofBiomedicalInformatics(IF=2.605).SpecialIssueon&ldquo;SemanticBio-Mashup&rdquo;&#8232;
+
+主持或参与的科研项目:
+
+国家自然科学基金面上项目,面向大数据的语义计算框架、在研、主持。
+国家重大科技专项子课题,通用M2M设备抽象及语义规范标准化、在研、主持。
+国家自然科学基金面上项目,社会网络空间的语义计算模型研究、已结题、主持。&#8232;
+国家自然科学基金青年基金,语义Web的无尺度网络模型及高性能语义搜索算法研究、已结题、主持。
+&#8232;863计划,中国中医药科学数据网格服务应用,已结题、主持。
+&#8232;国家重大科技专项,高分辨率对地观测(民用)数据服务网格平台,参与。&#8232;
+
+			
+				
+			工作研究领域
+			
+			大数据、语义互联网、生物信息计算
+			
+				
+			联系方式
+			
+						电子信箱：huajunsiratzjudotedudotcn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：陈华钧
+		单位：计算机科学与技术学院计算机科学与工程学系
+		职称：教授
+		我的主页共被访问了26825次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	浙江大学
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

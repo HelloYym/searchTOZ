@@ -1,0 +1,209 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0099451";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0099451&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+				
+			工作研究领域
+			
+			七、党政办公室主任刘伟岗位职责
+（一）办公室主任岗位职责
+1．负责学院行政部门的公共事务管理；负责学院党政办公室的日常事务。
+2．审核公事函件的寄发，负责学院印章的管理和正确使用，负责开具、审核和保管学院介绍信及证明信。
+3．负责整理学院党、政会议纪要；按照院务会议决议，起草或整理排发学院文件、各类临时通知和专项报告等。
+4．承担学院具体外联工作，包括：重要来宾的临时接待工作;与兼职教授相关的联络工作。
+5．协助主管领导管理学院各项经费开支；负责学院酬金分成部分的分类建账与账物核对；负责学院年度财务报告的起草和汇报；负责起草学院经常经费和创收经费年度预算；负责学院综合行政经费的合理使用。
+6．负责与学校房地产管理部的联系工作，承担学院与教师住房、办公用房和实验用房的相关工作；负责与学校基建部的联系工作。
+（二）人事与外事秘书工作职责
+1．承担学院各种具体人事工作，包括：人才引进与智力引
+进；岗位考核与聘任；专业技术职务评聘；教师资格认定；教师培训；优秀、回聘、退休、兼职、辞职和转岗分流等各类教师材料的报批；岗位津贴核（结）算和临时变动申报；学校人事数据库建库相关工作；博士后相关工作。
+2．承担学院具体的外事工作，包括：上报年度聘请外国文
+教专家计划和具体执行相关计划；聘请外籍名誉教授、客座教授的材料准备与报批；负责学院各类外事活动的筹备安排和计划落实等。
+工作地点：湖滨校区3号楼1503室
+			
+				
+			联系方式
+			
+			电话：87217086			电子信箱：pharma@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：刘伟
+		单位：药学院党政办公室
+		职称：主管药师
+		我的主页共被访问了1424次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

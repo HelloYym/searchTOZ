@@ -1,0 +1,199 @@
+
+
+
+
+
+吴朝晖-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0093185";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	吴朝晖
+吴朝晖的主页
+
+	永久链接:http://mypage.zju.edu.cn/wuzhaohui&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;吴朝晖，男，汉族，1966年12月出生，浙江温州人，1995年6月加入中国共产党，1993年10月参加工作，浙江大学计算机应用专业毕业，研究生学历，博士，教授，博士生导师。
+1984年9月至1988年6月在浙江大学混合班、计算机软件专业学习，1988年9月至1993年10月为浙江大学计算机应用专业硕士、博士研究生，其间1991年9月至1993年9月在德国人工智能研究中心学习，1993年10月在浙江大学计算机系任教师，1995年11月任计算机系人工智能实验室主任，1998年3月至1999年8月任计算机系副系主任，2001年3月至2005年7月任软件与网络学院副院长、计算机学院副院长，2005年7月至2007年1月任科学技术处处长、校党委委员，2007年1月任科学技术研究院常务副院长，2007年6月任浙江大学校长助理，2008年3月任浙江大学党委常委、浙江大学副校长，2012年11月任浙江大学党委常委、浙江大学常务副校长，2015年3月任浙江大学校长。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;主要研究领域为计算机科学与技术。国家杰出青年基金获得者、国家百千万人才工程国家级人员、浙江省特级专家以及国家万人计划科技创新领军人才。作为第一获奖人曾获国家科技发明二等奖1项、国家科技进步二等奖1项，2011年荣获&ldquo;何梁何利&rdquo;创新奖。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;973计划项目首席、863计划信息领域专家、国家现代服务业领域总体专家组组长。
+
+&nbsp;
+			
+					
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：吴朝晖
+		单位：校长办公室
+		职称：教授
+		我的主页共被访问了51412次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

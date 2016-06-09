@@ -1,0 +1,259 @@
+
+
+
+
+
+欢迎访问杨强的个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0010085";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	欢迎访问杨强的个人主页
+
+
+	永久链接:http://mypage.zju.edu.cn/qyang&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			副教授、求是青年学者、博士生导师
+
+浙江大学电气工程学院系统科学与工程系，电气自动化研究所
+杭州市浙大路38号浙江大学玉泉校区电机工程楼319，邮编：310027
+
+2007.08-2010.02英国伦敦帝国理工学院（TheRussellGroupUniversities），电气与电子工程系，博士后，控制与电力研究组（ControlandPowerResearchGroup）和智能系统与网络研究组（IntelligentSystemandNetworkResearchGroup）&nbsp;
+2003.12-2007.07英国伦敦大学玛丽女王学院（TheRussellGroupUniversities），电子工程与计算机科学系，哲学博士
+
+ShortBio:MIET('03),MIEEE('03),MIEICE('10),BEng(EE,HEBUSTPRC2001.6),MSc(EE,QMULUK2003.11),PhD(EE,QMULUK2007.7),PostdoctoralResearchFellow(EEE,ImperialUK2007.8-2010.2),AssistantProf.(EE,ZJU,PRC2010.10-2012.11),AssociateProf.(EE,ZJU,PRC2012.12)
+简要介绍：杨强，副教授，九三学社社员（浙江大学九三科技委员会副主任、三支社副主委、青年委员会委员）、英国伦敦大学博士、英国伦敦帝国理工学院博士后，IEEE、IET、IEICE、ACM会员、中国计算机学会高级会员（青年工作委员会委员）、中国电机工程学会会员、中国欧美同学会留英会员、浙江省通信学会会员。2002.9-2010.2期间于英国留学，分别于2003.11和2007.7获得伦敦大学玛丽女王学院（QueenMaryUniversityofLondon）电子与计算机工程系优等硕士学位、哲学博士学位，期间参与欧盟IST（EUIST-39117）和英国EPSRC（No.GR/T18615）等重大项目。2007.8-2010.2由英国EPSRC基金（EP/E003583/1）资助于英国伦敦帝国理工学院（ImperialCollegeLondonUK）电气与电子工程学院从事博士后研究，承担英国智能电网框架项目（AURA-NMS），合作导师为Prof.T.Green(SMIEEE)，DrJ.A.Barria（IETFellow），DrC.HernandezAramburo。2010年浙江省高层次留学回国工作人员，浙江大学电气工程学院系统科学与工程系从事教学和科研工作，获得浙江大学优秀青年教师&ldquo;紫金计划&rdquo;资助和浙江省科学技术协会&ldquo;育才工程&rdquo;重点资助。近年来，主持和参与承担（排名前三）包括英国工程和自然科学研究委员会（EPSRC）研究项目、欧盟IST研究计划、国家自然科学基金、国家高科技研究发展计划（863计划）子课题、国家重点基础研究发展计划（973计划）子课题、浙江省科技厅公益性研究计划、浙江省自然科学基金重点项目、教育部产学研项目、企业研发合作等科研项目20余项。在高水平国际会议和期刊上发表SCI/EI检索学术论文90余篇，申请和授权发明、实用新型、软著34项，出版学术专著2本（王国松优秀教材著作奖）和英文著作章节1项，担任Wiley&amp;Son出版社工程领域评审人，FrontierinComputerScience期刊青年编委，国家自然科学基金项目同行评议专家、杭州市经信委工业和信息化专家，超过40个高水平国际会议（IEEEICC,MILCOM,WCNC,GLOBECOM,IWSSC）和30本国际期刊（IEEEJSAC,IEEETrans.SmartGrid,IEEETPS,IEEEComms.Mag.,IEEENetw.Mag.,Comp.J.,IETComms.,IETInfo.Secu.）、《电子学报》、《通信学报》学术论文评审人，若干高级别通信国际会议分会主席（IEEEGLOBECOM'10,ICC'11-'12）。
+LongBio:QiangYangheldtheBSdegree(firstclasshonors)inElectricalEngineeringandreceivedtheM.Sc.(withdistinction)andPh.D.degreebothin&nbsp;ElectronicEngineeringandComputerScience&nbsp;fromQueenMary,UniversityofLondon,London,U.K.,in2003and2007,respectively.HehasworkedasaPostdoctoralResearchAssociateattheDepartmentofElectricalandElectronicEngineering,ImperialCollegeLondon,U.K.,from2007to2010andinvolvedinanumberofhigh-profileU.K.EPSRC&nbsp;andEuropeanISTresearchprojects.CurrentlyheisanAssociateProfessoratCollegeofElectricalEngineering,ZhejiangUniversity,&nbsp;China,andhaspublishedmorethan70technicalpapersandco-authoredtwobooks.Hisresearchinterestsovertheyearsincludecommunicationnetworks,smartenergysystems,andlarge-scalecomplexnetworkmodeling,control,optimization,andsimulation.HeisthememberofvariousinternationalacademicbodiesincludingIEEE,IETandIEICEaswellastheSeniorMemberofChinaComputerFederation(CCF).
+
+&nbsp;Iamcontinuouslylookingforself-motivatedMasterthesisstudentsand/orPhDcandidates(withthebackgroundinmath,electricalengineering,controlengineering,powersystems,computerscience,communication,&nbsp;orrelatedareas)&nbsp;intheareasofsmartenergysystemsandmicrogrids,cyberphysicalsystemmanagementandcomplexsystemmodelingandoptimization.Pleasefeelfreeto&nbsp;emailmewithyourCVifyouareinterested.
+
+AcademicActivitiesandServices
+【Journalreview】
+IEEETrans.Subst.Energy(2015),MobileInfo.Sys.(2015),IETGen.Trans.&amp;Dist.(2015),Micromachines(2015),MDPISystems(2015),MathematicalProbleminEngineering(2014),SimulationModellingPracticeandTheory(2014),IEEETrans.Intell.TransportationSys.(2014),Abstract&amp;AppliedAnalysis(2014),IEEETrans.PowerSystems(2014),ElsevierInformationSci.(2014,2015),FrontiersinEnergy(2014),IEEEInternetofThings(2013,2014,2015),Compu.Comm.&amp;Collaboration,CA(2013),IEEETrans.VehicularTech.(2013.9),Int'lJ.Dist.Sen.Net.(2013.7,2013.9),IETNetworks(2013.2),J.Engin.Sci.&amp;Tech.Rev.(2013.2),J.Comp.Eng.&amp;Sci.(2012.11,2013.1),Trans.onEmergingTelecommunicationTechnolgies(2013.1),IEEETrans.SmartGrid(2012.8,2012.11,2012.12,2013.11,2014.3),AdvancesinInformationScience&amp;ServiceScience(2012.8),SKIITransactiononInternetandInformationSystems(2012.5,2012.7),WileyTransactiononEmergingTelecommunicationTechnology(2012),WileyBookPublishing(2012),IEEEJournalonSelectedAreasinCommunications(JSAC)-SmartGridComm.Series(2011),J.Electrical&amp;ElectronicEng.Research(2011),IEEETrans.Ind.Inform.(2011,2012.3,2012.7),ChineseJournalofElectroics(2011,2013,2015),JournalofCommunications(2011,2012),IEEENetworkMagzine,Spec.Issue(Dec.2010),IETInformationSecurity(July2010),IEEECommunicationMagazine,GreenCommunicationSpec.Issue(April2010),IETComms.,(Nov2009,April2011,Dec.2013,Jan.2015),TheComputerJournal(July2008)
+【Conferencereview】
+RFM(2015),ICACCI(2015),ICACOMIT(2015),ICOCOE(2015),WoTBD(2015),GSCIT(2015),Marocenet(2015),ICACCI(2015),APMediaCast(2015),ELECTROMAS(2014),IMACSI(2014),IBMSGS(2015),APPEIC(2014),IJCDSV(2014),POLES(2014),DPNoC(2015),MobiApps(2015),IAICT(2014,2015),CCE(2014),TIME-E(2015),ICNC(2015),ELECTROMASA(2014),EECSI(2014),I4CT(2014,2015),MobiApp(2014),ISTMET(2014),ICEPIT(2014),IGCDS'V3(2014),ICOCOE(2014),ISCAIE(2014),ISRS(2014),ICNC-CIS(2014),ROBIONETICS(2013,2014),&nbsp;RFM(2013),ISIEA(2013),ISWTA(2013),ICWiSe(2013),ICA(2013),TIME-E(2013),ISCI(2013),IEEEICCA(2013),IEEESCORED(2012),IEEEICPADS(2012),IEEEAPACE(2012),IEEEICCSII(2012,2013),IEEEISIEA(2012),IEEEISWTA(2012),ICCTD(2011),ISCIT(2011),TridentCom(2011),IEEEICC'11NextGenerationNetworkingandInternetSymposium(2011),IEEEGLOBECOM'10(2010),IEEEWCNC'10-Networks(2009),IEEEICC'10-CQS(TPCreviewer,2009),IEEEMidwestsymposiumoncircuitsandsystems(MWSCAS,2009),IEEEInt'lworkshoponsatelliteandspacecommunications(IWSSC,2009),IEEEInt'lcommunicationconference(ICC,2008),IEEEMilitarycommunicationconference(MILCOM,2008)
+
+TPCMember,GlobalSummitonComputer&amp;InformationTechnology,Sousse,Tunisia,11-13June,2015.
+SessionChair,The27ChineseControlandDecisionConference,Qiangdao,23-25,May,2015.
+Bookproposalreview,Elsvier,SmartEnergySystemEngineering,March,2015.
+InternationalBookReview,PearsonGlobalEditionProgram,InteractiveComputerGraphics:ATop-DownApproachwithShader-BasedOpenGL(EdwardAngel,DaveShreiner),ComputerNetworkandInternets(DouglasE.Comer),2014.
+FCSYoungAEProject,Member,2013-&nbsp;
+AssociateEditor,FrontiersofComputerScience,2013-
+Bookproposalreview,Wiley&amp;SonPublisher,MathematicalModelsandAlgorithmsforPowerSystemOptimization,Sept.2013.&nbsp;&nbsp;
+EditorialBoardMember,ThermalEnergyandPowerTechnology(TEPT),2012-
+TPCMember,IEEEInt'lWorkshoponDistributedCommunicationNetworkSystem,Singapore,Dec.2012
+TPCMember,IEEEAsia-PacificConferenceonAppliedElectromegnetics(APACE),Dec.2012.
+TPCMember,IEEESymposiumonWirelessTelecommunicationsApplications(ISWTA),Sept.2012.
+TPCMember,IEEEConferenceonControl,SystemsandIndustrialInformatics(ICCSII),Dec.2012.
+TPCMember,IEEESymposiumonIndustrialElectronicsandApplications(ISIEA),Nov.2012.
+Bookproposalreview,Wiley&amp;SonPublisher,Electromagnetic&nbsp;Transient&nbsp;Analysis&nbsp;and&nbsp;NovelProtectiveRelaying&nbsp;Techniques&nbsp;for&nbsp;Power&nbsp;Transformer,Sept.2012.
+Editorialmember,J.Electrical&amp;ElectronicEng.Research,2011-present
+TPCmember,3rdInternationalConferenceonComputerTechnologyandDevelopment,Chendu,Nov.2011.
+LocalChair,IEEEInt'lSymp.onCommunicationsandInformationTechnology(ISCIT'11),Hangzhou,Oct.2011.
+SessionChair,IEEEInternationalCommunicationConference(ICC'11),-NextGenerationNetworkingandInternetSymp.,Kyoto,Japan,June2011.
+SessionChair,IEEEGlobalCommunicationConference(GLOBECOM&rsquo;10)-NextGenerationNetworkingSymp.,Miami,Florida,USA,Dec.2010.
+
+			
+				
+			工作研究领域
+			
+			电气方向：高密度混合能源微电网技术和能量优化调度；主动配电网协同调控和自愈控制理论；大规模复杂人工系统建模、仿真、控制与优化；智能电网通信体系与物理信息网络安全控制机制；
+
+信息方向：未来信息网络控制机制和资源虚拟化；网络拥塞控制和多媒体服务质量保证机制；信息网络流量建模与复杂行为分析；
+
+var_clustrmaps=;(function())();
+
+			
+				
+			联系方式
+			
+			电话：(+86)571-8795-3204			电子信箱：qyang@zju.edu.cn;young.cnhz@gmail.com;WeChat:anthanth			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：杨强
+		单位：浙江大学电气自动化研究所
+		职称：副教授
+		我的主页共被访问了60401次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		专利成果
+	教学工作
+	工作研究项目
+	出版著作
+	研究成果
+	发表论文
+	征稿信息
+	科研训练
+	学生工作
+	通知公告
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	新能源电力系统国家重点实验室
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

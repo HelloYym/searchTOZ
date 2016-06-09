@@ -1,0 +1,215 @@
+
+
+
+
+
+ProfessorGuanFuling-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0093002";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	ProfessorGuanFuling
+
+
+	Permanentlink:http://mypage.zju.edu.cn/en/fulingguan&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			Blog
+
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			GuanFuling,female,memberofChineseCommunistParty,wasborninBeijinginMarch,1945.Sheismainlyengagedinspatialstructureandaerospacestructureresearch.SheisoneofthefirstadvocatesofspacedeployablestructureinChinaandnowisprofessoranddoctoraltutorinspatialstructureresearchcenterofCollegeofCivilandArchitecturalEngineering,ZhejiangUniversity.
+&nbsp;
+Mainstudyandworkexperience
+Graduatedfromradartechnologydepartmentoftheuniversityofxi&rsquo;anelectronicscienceandtechnologyin1968.From1978to1981,shestudiedformasterdegreeintheuniversityofxi&rsquo;anelectronicscienceandtechnology.From1982to1986,sheworkedasalecturerinHangzhouelectronicindustrialinstitute.From1986to1990,shestudiedintheuniversityofTokyoastheChinesegovernmentsentresearcher.Japaneseexpertadvisorisfamousspatialstructureexpert:professorhangayi.Duringthisperiod,20articleswerepublished.In1989gainedthedoctoraldegreeofTokyouniversity.Duringthisperiod,workedinJapanZhuZhongGongWutechnologyinstituteforayearfundedbytheJapaneseoverseastechnologyacademiccenter.InApril1990shereturnedasthedeanandtheassociateprofessorsofHangzhouelectronicindustrialinstitutemechanicsdepartment.In1993aszhejianguniversityprofessor,deputydeanofcivilengineeringanddoctoraltutor.From1997to1998,asletguestmemberprofessorindeepspaceexplorationdepartmentofJapancosmicscienceinstitute.Since1998asprofessorandtutorintheresearchcenterofspatialstructureofzhejianguniversity.Duringthisperiod,asdeputydirectoroftheresearchcenterofspatialstructure.
+&nbsp;
+Researchworkfield
+Themainresearchdirectionisstructuralengineering.afterreturninghomein1990,publicityandresearchofspatialdeployablestructure,suchaslargedeployableantenna,thesunpanels,spacestation,etc.inGroundarchitecturefield,earlystudiesofmembranestructure,largeroofingstructure,etc.Since1992startedtotakethreenationalnaturalsciencefund,twofollowingcross-industryfund,anelectricalsciencecollegefund,two863-2project,anassemblypre-researchfoundationandtwoassemblypre-researchitem.Therearemanyresearchtasksfrom509,813,504instituteofAerospacescienceandtechnologyand39instituteofElectronicscienceandtechnologyetc.Andguide24doctoralpostgraduatesand40mastergraduatestudents.
+Inrecentyears,spatialdeployableantennastructurearesystematicallyanalyzedandresearchedindetailsandaseriesofmajorbreakthroughareobtained.Theoreticalresultsareincludedinthefollowingaspects:
+1,spacestructureanalysismethodwithdisplacementconstraintsisproposed,displacementconstraintsofstructuralstressanalysisissolvedbyButt-Daffingeneralizedinversematrix.
+2,Basedonthebasictheoryoftypedesign,displacementrequirementsaredefinedastheconstraintconditionofshapedesign.Differentialform&nbsp;ofthegeneralizedinversematrixMoore&ndash;Penroseisdeducedforthefirsttime,Andisappliedtoinverseanalysisforstructure.
+3,Deployabledynamicanalysistheoryisproposed.themovementprocessfromunstablestructuretothestablestateisanalyzedbyapplicationofthegeneralizedinversetheory.Optimizationfoldingpatternandcontroltheoryareproposed.provideanalysismethodfromgeometryvariablesystemstothedefinedformanditscorrespondingcontroldeterminationisprovided.Theunstablestructureproblemandnonlinearanalysisproblemsaresettledbygeneralizedinversematrixmethodssatisfactorily.
+4,Stabilityproblemofstructureisanalyzedbygeneralizedincrementalmethod
+5,Thestructuredeformationandelectromagneticinteractionproblemoflargereflectivesurfaceantenna,alsohavebesolvedtomakegreatprogress.
+Accordingtoproject863-2,twoof5metersparaboloiddeployableantennamodelsweredesignedcleverlyandtestedrepeatedly.Themodelunitstructure,jointstructureandtheoverallstructurewerefinishedvariousoptimizationdesign.Twodeployableantennamodelnotonlyhavelightweight,andwithhighreflectiveaccuracy.
+FollowingaspectshaveachievedremarkableresultsinCivilengineeringfield:retractableroofstructureisdesignedandanalyzed.Systemengineeringincludingmechanical,electronic,structurewerestudied.Thesportscentertennisretractableroofwasdesigned.Cable-membranestructures:Aanalysissoftware,fromlookingforshape,loadanalysis,cuttingtothenodedesignwasdeveloped.Designanalysisofanumberofmembranestructureengineering.Steelstructure:stadiumroofdesign,thebridgestructureconstructioncontrolandwindtunneltestofbridges,etc.
+Cable-strutmast,andotherspacestructuremicrogravityexperimentalplatformwereestablished.Anon-contactmeasurementsystemhasbeenestablishedbasedonPhotoModelersoftware,whichcanrealizenon-contactmeasurementofinflatabledeployablestructurefordeployprocessandreflectivesurfaceaccuracy.
+&nbsp;
+AbroadacademicexchangeactivitiesareconductedwidelyandwehaveclosecooperationwithexpertsfromAmericanJPL,Californiainstituteoftechnology,UCLA,JapanFengQiaotechnologyuniversity,JapanNagoyauniversityandTokyouniversity.
+			
+				
+			Researchwork
+			
+			spatialstructure,deployablestructure,antennastructure
+			
+				
+			Contact
+			
+			Phone:086-0571-87951347
+			E-mail:
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:
+		Units:
+		Title:Professor
+		Myhomepagehasbeenvisited896times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	
+
+
+Youarevisitor:896
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

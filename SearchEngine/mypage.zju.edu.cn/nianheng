@@ -1,0 +1,226 @@
+
+
+
+
+
+无止境的探索：电机控制-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0005438";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	无止境的探索：电机控制
+欢迎...欢迎...热泪欢迎
+
+	永久链接:http://mypage.zju.edu.cn/nianheng&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			【主要经历】
+&nbsp;&nbsp;&nbsp;1999年7月获合肥工业大学电机与电器专业学士学位，2002年3月获合肥工业大学电机与电器专业硕士学位，2005年3月获浙江大学电机与电器专业博士学位，2005年4月至2007年9月于浙江大学电机及其控制研究所从事博士后研究,2007年10月至今于浙江大学电机及其控制研究所工作。2012年10月至2013年10月于美国伦斯勒理工学院（RensselaerPolytechnicInstitute）担任访问学者。
+【学术成就】
+&nbsp;&nbsp;1、主持国家自然科学基金面上项目1项、863子课题2项，并作为研究骨干参与973青年科学家项目。
+&nbsp;&nbsp;2、近年来主持的项目科研经费600余万元。发表SCI/EI期刊论文20余篇，其中第一/通信作者SCI论文6篇，EI收录期刊论文15篇，获发明专利授权3项。
+&nbsp;&nbsp;3、担任IEEEICEMS2014国际会议OrganizingCommittee副主席。主要研究方向是实际复杂电网（不平衡、谐波电压）下风力发电系统的高性能并网控制技术。
+
+&nbsp;
+【创新成果】
+
+&nbsp;&nbsp;1、研究在实际复杂电网（不平衡、谐波）电压下的DFIG风电机组直接功率控制策略，提高了DFIG的稳定运行和快速动态响应能力，为DFIG长期安全可靠运行和风电机组的故障穿越运行提供了新的研究思路和方法；
+&nbsp;&nbsp;2、系统地提出了谐波电网电压条件下基于谐振调节的电流控制策略，实现风力发电机转矩平稳及风电机组并网电流正弦的运行性能，能适应实际复杂电网下风电机组的不同运行要求；
+&nbsp;&nbsp;3、研究和分析谐振调节器在DFIG风电系统中的运行机理，首次将矢量比例积分谐振器应用于实际复杂电网及故障电网下DFIG控制，以改善电流及功率的控制精度并提高对系统参数和电网状态变化的鲁棒性。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;所研成果已用于实际双馈变流器，并已配套国内主流双馈风电厂商，在多个风场安装应用并通过了实际电网的长时间运行考核。
+
+
+			
+				
+			工作研究领域
+			
+			1、双馈式和直驱式风力发电技术
+2、高效永磁电机优化设计及其控制技术
+
+			
+				
+			联系方式
+			
+			电话：0571-87951784			电子信箱：nianheng@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：年珩
+		单位：电气工程学院电机工程学系电机及其控制研究所
+		职称：副教授（自然科学）
+		我的主页共被访问了22840次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,226 @@
+
+
+
+
+
+欢迎访问李晨的个人主页！-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0011174";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	欢迎访问李晨的个人主页！
+
+
+	永久链接:http://mypage.zju.edu.cn/chenli&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			李晨，系统生物学与生物信息学博士，现为浙江大学医学院基础医学系副教授，研究方向为复杂疾病的大规模生物网络的数学建模和计算机仿真及分析预测。李晨副教授2004年4月在日本国立山口大学获硕士学位（专业：计算机）；2007年3月获得同大学理工学研究科理学博士学位（专业：系统生物学与生物信息学），并在2007年6月-2012年5月，于日本东京大学做博士后研究，期间发表了10篇独创性论文。2012年7月做为海外人才引进至浙江大学基础医学系。浙大&ldquo;求是青年&rdquo;学者，获&ldquo;紫金计划&rdquo;资助。李博士为《Bioinformatics》，《BMCSystemsBiology》，《BMCBioinformatics》，《MolecularBiosystems》等10余本国际学术期刊审稿人。
+
+工作经历：
+2012.6-至今&nbsp;&nbsp;&nbsp;浙江大学医学部&nbsp;基础医学院
+2010.4-2012.5&nbsp;东京大学医科学研究所博士后，主持日本学术振兴会（JSPS）研究项目
+2007.6-2010.3&nbsp;东京大学医科学研究所博士后，参加文部科学省科学研究费特定领域&ldquo;GENOME4领域&rdquo;项目研究
+学历：
+2004.4-2007.3&nbsp;日本山口大学理工学研究科系统生物学及生物信息学博士学位
+2002.4-2004.3&nbsp;日本山口大学教育学研究科计算机专业硕士
+1996.9-2000.7&nbsp;浙江大学生命科学学院生物化学专业本科
+&nbsp;
+更多信息：http://bioinfo.zju.edu.cn/~chenli
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;http://bioinfo.zju.edu.cn/cn/&nbsp;(研究室主页)
+&nbsp;
+联系方式：chenli2012&quot;at&quot;zju&quot;dot&quot;edu&quot;dot&quot;cn
+学术兼职：
+
+论文审稿：国际学术期刊《Bioinformatics》，《BMCSystemsBiology》，《IEEE/ACMTransactionsonComputationalBiologyandBioinformatics》，《TheoreticalComputerScience》，《JournalofMathematicalBiology》，《InSilicoBiology》，《JournalofBioinformaticsandComputationalBiology》(JBCB)，《IETSystemsBiology》，《BioSystems》，《JournalofIntegrativeBioinformatics》等及生物信息学顶级国际会议RECOMB，ISBM，CMSB，CSB等
+程序委员:Petri网顶级国际会议分会BioPPN2011,BioPPN2013,BioPPN2014.
+
+欢迎有系统生物学及生物信息学研究兴趣，有计算机，生物或医学专业背景的学生报考本实验室硕士、博士研究生！
+
+
+欢迎其他研究室的师生访问本研究室探讨共同研究，并欢迎本科生实习研究！
+
+&nbsp;
+&nbsp;
+			
+					
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：李晨
+		单位：医学院基础医学系
+		职称：副教授
+		我的主页共被访问了7919次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+	科研资助
+	Upcomingconferences
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	BioPPN2013
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

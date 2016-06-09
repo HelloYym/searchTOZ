@@ -1,0 +1,211 @@
+
+
+
+
+
+欢迎访问厉刚的主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0004127";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	欢迎访问厉刚的主页
+文以拙进，道以拙成
+
+	永久链接:http://mypage.zju.edu.cn/0004127&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			浙江大学化学系理学学士（1989－1993）、理学硕士（1993－1996），日本早稻田大学工学博士（2000－2003）、博士后（2003－2004）。历任浙江大学化学系助教（1996）、讲师（1998）和副教授（2004），硕士生导师（2005）。主讲《物理化学》和《普通化学》课程，从事无机分子筛膜和高能燃料的研究。
+欢迎硕士研究生报考！
+			
+				
+			工作研究领域
+			
+			1、沸石分子筛膜制备、成膜机理及其在先进航空发动机中的应用：
+研究沸石分子筛多孔材料在金属基材上成膜过程及其机理，探索分子筛膜在整体式催化反应器中的应用，特别是在先进航空发动机中的应用。本工作得到了国家自然科学基金及科技重大专项的持续资助（2009年~至今），先后培养了若干名硕士研究生。
+
+2、绿色高能燃料的分子设计、合成及其在液体火箭推进剂中的应用：
+随着载人航天和空间站的发展，对液体火箭发动机及推进剂提出了更高要求。本课题组与国内液体火箭发动机研究单位紧密合作，围绕新型绿色高能燃料的合成及其在液体火箭推进剂中的应用开展系列研究。本工作得到了航天科技创新基金的持续资助（2007年~至今），先后培养了若干名硕士研究生。
+			
+				
+			联系方式
+			
+			电话：15988829711			电子信箱：gli@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：厉刚
+		单位：化学系
+		职称：副教授
+		我的主页共被访问了15219次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	发表论文
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

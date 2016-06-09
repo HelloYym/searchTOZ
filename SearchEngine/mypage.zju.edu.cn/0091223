@@ -1,0 +1,205 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0091223";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0091223&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+&nbsp;&nbsp;&nbsp;蔡袁强出生年月：1965.10，教授，博士生导师，一级注册结构工程师，注册土木工程师（岩土），1983年就读浙江大学土木系、1989年岩土工程硕士毕业、1995~1998年在职博士，1998年7月晋升为教授。1996.5~2002.9兼任浙江大学基本建设处副处长、总工程师；2002.9至今兼任浙江大学出版社社长。2001.12~2002.1到西班牙国家公共建筑研究所高访。2004.4~2004.5获包氏基金资助到英国UniversityofNottingham高访。
+&nbsp;&nbsp;&nbsp;毕业后一直从事土木、水利、市政等方面的教学、科研及设计工作，开课《土力学》、《基础工程》、《地基处理》、《土工抗震》课程，负责国家自然科学基金&ldquo;柔性桩复合地基的动力特性研究&rdquo;(1999年)，&ldquo;交通荷载作用下软土加筋路基的沉降特性研究&rdquo;(2004年)，负责霍英东青年教师基金&ldquo;复合地基的动力性质及工程应用&rdquo;(2001年)。作为项目负责人和主要参加者完成几十项国家、省、市重点建设工程重大科研项目研究及分析咨询。&ldquo;地基中瑞利波传播特性研究及应用&rdquo;获国家科技进步二等奖（排名4，1997年），&ldquo;碎石桩加固粉砂性土地基研究及应用&rdquo;获省科技进步二等奖（排名1，1997年），&ldquo;砂石桩加固地基及质监系统研究&rdquo;获教育部科技进步三等奖（排名2，1998年），&ldquo;软土地基砂土模袋围堰技术及应用&rdquo;获省科技进步二等奖（排名5，1997年），&ldquo;粉砂性土地基堤坝液化与稳定分析&rdquo;获省科技进步二等奖（排名1，2000年），&ldquo;钱塘江海塘粉砂土地基抗震分析研究&rdquo;获浙江省科技进步二等奖（排名3，2004年）。负责和参加了&ldquo;杭州钱塘江城市防洪堤地基液化稳定及抗震分析&rdquo;、&ldquo;温州机场二期扩建工程地基处理&rdquo;、&ldquo;浙江省电力调度大楼地下室围护（16m深）设计分析&rdquo;、&ldquo;解放路隧道工程咨询分析&rdquo;等二十余项国家、省、市重点建设工程的论证、设计、咨询及分析测试工作。主要研究方向为：基础工程学、土动力学、地基处理。在《岩土工程学报》、《岩土力学》、《岩石力学与工程学报》、《力学学报》、《应用数学与力学》（英文版）、《固体力学学报》（英文版）以及《SoilDynamicandEarthquakeEngineering》、《Int.J.Numer.Anal.Meth.Geomech.》等国内外核心刊物和重要国际会议上录用和发表论文60余篇，20余篇被SCI、EI、ISTP收录。
+1996年获浙江省青少年科技英才青年组一等奖，浙大十佳优秀青年教师；1998年获第五届浙江省十大杰出青年称号；2000年入选浙江省151人才工程第一层次；2001年获国务院政府特殊津贴；2002年获教育部第八届霍英东青年教师基金奖。2003年获浙江省有突出贡献的中青年专家；2006年获浙江省新世纪151人才工程重点资助。现任《振动工程学报》编委、《浙江大学学报》（英文版）副主编、《工程设计学报》编委、建筑振动工程学会委员、中国水利学会岩土力学专业委员会委员等职务。
+			
+				
+			工作研究领域
+			
+			土木、水利、市政等方面的教学、科研及设计
+			
+				
+			联系方式
+			
+			电话：0571-87952619（O），013			电子信箱：Caiyq@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：蔡袁强
+		单位：建筑工程学院土木工程学系
+		职称：教授
+		我的主页共被访问了3983次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,207 @@
+
+
+
+
+
+徐光明-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0088018";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	徐光明
+
+
+	永久链接:http://mypage.zju.edu.cn/xugm&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;副教授，硕士研究生导师。毕业于中国科学技术大学近代化学系分析化学专业，理学硕士学位。现就职于浙江大学理学部化学系、浙江大学微分析系统研究所，从事分析化学教学以及光谱分析、微流控芯片分析系统、分析仪器智能化和联用技术等方面的研究工作。主持和参加过多项国家自然科学基金、国家863和973高科技攻关等科研项目，在国内外发表研究论文30余篇，合作出版著作2部，获得过中华人民共和国教育部自然科学二等奖和科技成果证书奖等荣誉。
+			
+				
+			工作研究领域
+			
+			主要研究领域包括:
+1.毛细管电泳芯片分析、离心式阵列芯片分析、微流控芯片检测器、微流控生物化学分析系统集成化。
+2.分析仪器智能化和分析仪器与计算机接口、分析仪器智能控制和数据处理软件等方面。
+3.光谱、色谱、电化学等分析仪器的联用分析技术。
+
+			
+				
+			联系方式
+			
+			电话：0571-88206772(o),13958172245(m)			电子信箱：xugmhz@mail.hz.zj.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：徐光明
+		单位：化学系
+		职称：副教授
+		我的主页共被访问了1236次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

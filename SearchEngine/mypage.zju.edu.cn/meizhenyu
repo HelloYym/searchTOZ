@@ -1,0 +1,206 @@
+
+
+
+
+
+梅振宇-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0006125";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	梅振宇
+交通规划
+
+	永久链接:http://mypage.zju.edu.cn/meizhenyu&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;
+梅振宇，男，博士，浙江大学副教授，博士后。2001年毕业于东南大学交通工程专业，同年考入东南大学交通运输规划与管理专业，硕博连读攻读博士学位，2006年毕业并获工学博士学位，同年进入浙江大学博士后流动站，2008年8月出站后留校任教。主要研究方向为城市交通规划与管理、停车诱导系统规划等。目前主持国家自然科学基金1项，博士后科学基金1项，浙江省教育厅科研项目1项，以及多项横向课题。作为主要参加人员参加了国家973项目、国家&ldquo;十五&rdquo;科技攻关项目和国家863计划等多项科研任务。发表和录用论文近20篇，参与撰写著作1本，参与发明专利1项。
+			
+				
+			工作研究领域
+			
+			交通规划、智能交通、停车诱导相关领域研究
+			
+				
+			联系方式
+			
+			电话：0571-88208476			电子信箱：meizhenyu2002@163.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：梅振宇
+		单位：建筑工程学院土木工程学系
+		职称：副教授
+		我的主页共被访问了7501次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

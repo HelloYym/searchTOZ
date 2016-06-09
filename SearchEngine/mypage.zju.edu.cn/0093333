@@ -1,0 +1,206 @@
+
+
+
+
+
+潘雯雯-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0093333";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	潘雯雯
+
+
+	永久链接:http://mypage.zju.edu.cn/0093333&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			潘雯雯，女，1971年2月出生，硕士，副教授，九三学社社员。1993年毕业于北京体育大学，2005年毕业于浙江大学获硕士学位。1993年&mdash;1998年就职于原杭州大学公体部，1998年至今就职于浙江大学教育学院公体部，兼任浙江省高等教育学会体育专业委员会秘书。
+主持和参与省部级、厅局级课题十余项，在核心期刊上发表论文近20篇，参与编写的教材共4本，参与教学的定向越野课程是浙江大学精品课程，多篇论文获浙江省自然科学优秀论文、全国高等学校体育科学论文报告会论文、全国大学生运动会科学论文报告会论文三等奖以上，曾被评为浙江大学教育学院&ldquo;先进工作者&rdquo;、获得2007年度浙江大学&ldquo;奖教金&rdquo;。
+
+&nbsp;
+			
+				
+			工作研究领域
+			
+			1.学校体育学、2.体育社会学
+			
+				
+			联系方式
+			
+						电子信箱：panww@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：潘雯雯
+		单位：教育学院公共体育部
+		职称：副教授
+		我的主页共被访问了612次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

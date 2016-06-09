@@ -1,0 +1,239 @@
+
+
+
+
+
+吕斌个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0007432";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	吕斌个人主页
+厚德载物
+
+	永久链接:http://mypage.zju.edu.cn/lubin&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			吕斌，副研究员，博士。
+
+
+
+
+1996年进入浙大物理系，2005年获理学博士学位；其间曾在新加坡国立大学以助理研究身份进行合作研究半年；2005年10月起在日本东京大学物性研究所从事博士后研究工作；2007年11月至今在浙江大学硅材料国家重点实验室工作，硕士生导师。近期研究方向有：半导体功能材料与器件、二维层状材料的环境与能源应用、固体的表面与界面等。已在PRL,APL,PRB,Nanoscale等国内外著名学术期刊上发表文章70余篇,&nbsp;并以第三作者出版学术教材一部。拥有授权国家发明专利2项。主持国家自然科学基金、钱江人才计划、企业委托技术开发等科研项目多项。
+
+
+近期发表的部分论文：
+
+1.Y.Z.Wang,W.Wang,H.Y.Mao,Y.H.Lu,J.G.Lu,J.Y.Huang,Z.Z.Ye,andB.Lu*,Electrostaticself-AssemblyofBiVO4-reducedgrapheneoxidenanocompositesforhighlyefficientvisiblelightphotocatalyticactivities,ACSAppliedMaterials&amp;interfaces,6,12698-12706,2014.&nbsp;
+2.H.Y.Mao*,F.Hu,Q.L.Ye,Y.F.Xu,X.X.Yang,andB.Lu*,ManipulatingthechargetransferatCuPc/grapheneinterfacebyO2plasmatreatments,Nanoscale,6,8149-8154,2014.&nbsp;
+
+
+
+3.B.Lu*,Y.Z.Wang,W.J.Li,W.G.Zhang,Y.H.Ye,L.Q.Zhang,andZ.Z.Ye,Co&ndash;GacodopingeffectonpreferredgrowthorientationsandpropertiesofferromagneticZnOthinfilms,JournalofMagnetismandMagneticMaterials,374,278-282,2015.
+4.X.H.Pan,P.Ding,J.Y.Huang,H.P.He,Z.Z.Ye,andB.Lu*,Homobufferthicknesseffectontheconductiontypeofnon-polarZnOthinfilms,JournalofCrystalGrowth,404,80-83,2014.
+5.T.T.Zhou,B.Lu*,Y.H.Ye,X.H.Pan,J.G.Lu,andZ.Z.Ye,Improvementofelectricpropertiesintransparentp-Li0.07Ni0.93O(111)/n-ZnOheterojunctionwithMg1-xZnxOintermediatelayer,MaterialsLetters,114,76-79,2014.
+6.X.H.Pan*,Y.S.Zhou,S.S.Chen,P.Ding,B.Lu*,J.Y.Huang,andZ.Z.Ye,EffectofNacontentsonfabricationofp-typenon-polarm-planeZnOfilms,JournalofCrystalGrowth,404,54-58,2014.
+7.H.H.Zhang,X.H.Pan*,B.Lu*,J.Y.Huang,P.Ding,W.Chen,H.P.He,J.G.Lu,S.S.Chen,andZ.Z.Ye*,MgcompositiondependentbandoffsetsofZn1-xMgxO/ZnOheterojunction,PhysicalChemistryChemicalPhysics,15,11231-11235,2013.
+8.W.Ge,B.Lu*,W.J.Li,J.G.Lu,andZ.Z.Ye,SynthesisofgraphenetogetherwithundesiredCuxOnanodotsoncopperfoilsbylow-pressurechemicalvapordeposition,Vacuum,97,9-14,2013.
+9.B.Lu*,T.T.Zhou,M.J.Ma,Y.H.Ye,Z.Z.Ye,J.G.Lu,andX.H.Pan,Mnconcentrationdependentstructuralandopticalpropertiesofa-planeZn0.99-xMnxNa0.01O,JournalofAppliedPhysics,114,223508-223512,2013.
+10.T.T.Zhou,B.Lu*,C.J.Wu,Z.Z.Ye,J.G.Lu,andX.H.Pan,CorrelationofZnOorientationtobandalignmentinp-Mg0.2Ni0.8O/n-ZnOinterfaces,JournalofAppliedPhysics,114,143707-143711,2013.
+11.B.Lu*,T.T.Zhou,M.J.Ma,C.L.Ye,X.H.Pan,J.G.Lu,andZ.Z.Ye,Realizationofnonc-axisorientedZnOthinfilmsonquartzthroughMn-Lico-doping,MaterialsLetters,108,153-155,2013.
+12.M.J.Ma,B.Lu*,T.T.Zhou,Z.Z.Ye,J.G.Lu,andX.H.Pan,Orientationdependentbandalignmentforp-NiO/n-ZnOheterojunctions,JournalofAppliedPhysics,113,163704-163707,2013.
+13.L.Q.Zhang,B.Lu*,J.G.Lu,J.Y.Huang,andZ.Z.Ye,Pressurecontrolledtunablemagnetic,electricalandopticalpropertiesof(Cu,Li)-codopedZnOthinfilms,SolidStateCommunications,170,53-57,2013.
+14.L.Q.Zhang,B.Lu*,Y.H.Lu,Z.Z.Ye,J.G.Lu,X.H.Pan,andJ.Y.Huang,Non-polarp-typeZn0.94Mn0.05Na0.01Otexture:growthmechanismandcodopingeffect,JournalofAppliedPhysics,113,083513-083518,2013.
+15.B.Lu*,M.J.Ma,Y.H.Ye,J.G.Lu,H.P.He,andZ.Z.Ye,Rationalgrowthofsemi-polarZnOtextureonglasssubstrateforoptoelectronicapplications,JournalofPhysicsD:AppliedPhysics,46,055105-055111,2013.
+16.L.Q.Zhang,Z.Z.Ye,B.Lu*,J.G.Lu,J.Y.Huang,Y.Z.Zhang,andZ.Xie,Defect-inducedferromagnetismininsulatingMn-PcodopedZnOgrowninoxygen-richenvironment,SolidStateCommunications,155,16-20,2013.
+17.B.Lu*,L.Q.Zhang,Y.H.Lu,Z.Z.Ye,J.G.Lu,X.H.Pan,andJ.Y.Huang,Ferromagneticenhancementandmagneticanisotropyinnonpolar-oriented(Mn,Na)-codopedZnOthinfilms,AppliedPhysicsLetters,101,242401-22404,2012.
+18.Y.H.Ye,B.Lu*,W.G.Zhang,H.W.Huang，andZ.Z.Ye，Studyonthestructure,optical,electricalandmagneticpropertiesofMn-NacodopedZnOnonpolarthinfilms，ActaPhysicaSinica,61,036701-036708,2012.
+
+
+
+&nbsp;
+			
+				
+			工作研究领域
+			
+			半导体功能材料与器件、二维层状材料、固体表面与界面
+			
+				
+			联系方式
+			
+			电话：0571-87952187			电子信箱：binlu@zju.edu.cn;微信号：bright_happiness			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：吕斌
+		单位：材料科学与工程学系
+		职称：副研究员（自然科学）
+		我的主页共被访问了7023次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		发表论文
+	出版著作
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

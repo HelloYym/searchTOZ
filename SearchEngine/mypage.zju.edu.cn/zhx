@@ -1,0 +1,214 @@
+
+
+
+
+
+HongxinZhang'Homepage-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0003415";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	HongxinZhang'Homepage
+张宏鑫，浙江大学
+
+	永久链接:http://mypage.zju.edu.cn/zhx&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			男，1975年生,浙江杭州人,博士。
+&nbsp;&nbsp;&nbsp;1993年进入浙江大学应用数学系就读，1997年本科毕业并获学士学位。同年开始在浙江大学数学系CAGD科研组攻读博士研究生。2001年7月至11月在微软亚洲研究院做访问研究。2002年完成研究生学业，获理学博士学位。
+&nbsp;&nbsp;&nbsp;2002年赴香港科技大学计算机系作博士后访问研究工作。2003年回到浙江大学，进入CAD&amp;CG国家重点实验室工作。2004年12月至2005年6月在德国亚琛工大做访问合作研究。近年来已完成论文近30余篇,其中多篇论文被SCI/EI/ISTP收录，并获得了较高的文献引用率。
+&nbsp;&nbsp;&nbsp;具有扎实的数学和计算机图形理论基础，主要兴趣领域为几何计算和可视计算。在攻读博士学位期间，主要系统研究了计算机辅助几何设计理论，深入研究细分曲面理论和算法，给出了一组统一的细分离散算法。毕业后，进入国家重点实验室工作，在实验室良好的环境下，在与同事良好的合作基础上，系统与深入地研究了数字几何处理、计算机图形硬件加速，三维重建和计算机视觉的知识，将离散微分方程、卷积理论成功应用于快捷三维造型，取得了一系列独具特色的原创性的研究工作。
+&nbsp;&nbsp;&nbsp;近年来，作为负责人或主要成员参加国家面上项目和重点项目，以及国家973计划项目多项。在就读研究生期间，还主持或参与了商用电子邮件系统以及钢铁厂高炉可视化工程等多个实际项目，具有丰富的实际项目开发和组织经验。
+
+			
+				
+			工作研究领域
+			
+			计算机图形学，几何造型，机器学习
+
+ComputerGraphics,GeometricComputing
+			
+				
+			联系方式
+			
+			电话：0571-88206681-518			电子信箱：zhx@cad.zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：张宏鑫
+		单位：计算机科学与技术学院
+		职称：副教授
+		我的主页共被访问了11236次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	实验室介绍
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

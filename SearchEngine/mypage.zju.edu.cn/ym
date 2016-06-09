@@ -1,0 +1,233 @@
+
+
+
+
+
+杨明的个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0087330";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	杨明的个人主页
+
+
+	永久链接:http://mypage.zju.edu.cn/ym&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			杨明
+硕导
+籍贯：浙江东阳
+学位：博士
+职称：教授
+&nbsp;
+&nbsp;
+&nbsp;
+任教课程
+本科生：教育学、教育社会学、教育经济学、公共财政与财务、教育发展理论与实践等；研究生：教育财政学、教育经济社会问题研究、教育改革与发展等。
+&nbsp;
+&nbsp;
+教育经历
+1984年在杭州大学教育系获教育学学士学位。
+&nbsp;
+1987年在华中师范大学教育科学研究所获教育学硕士学位。
+&nbsp;
+2005年在浙江大学获教育学博士学位。
+&nbsp;
+&nbsp;
+&nbsp;
+研究方向：
+教育学原理、教育经济学、高等教育学等
+&nbsp;
+&nbsp;
+研究成果：
+现已出版《国际高等教育财政改革》一本专著，参加《教育经济学》和《当代教育学》等教材的编写，参加《外国教育家评传》、《国际高等教育政策比较研究》、《道德教育哲学》等著作的翻译。
+&nbsp;
+迄今为已发表了50多篇论文，其中两篇为《新华文摘》转载。
+&nbsp;
+《中国教育离现代化目标有多远》和《论高等教育中的市场失灵》分别获浙江省哲学社会科学优秀成果奖二等奖。
+&nbsp;
+《向素质教育转轨要从制度层面上深化改革》和《从高校与企业的似与不似看高校组织的性质》分别获浙江省哲学社会科学优秀成果奖优秀奖。
+&nbsp;
+&nbsp;
+&nbsp;
+学术/社会兼职
+担任中国教育经济学研究会理事
+&nbsp;
+			
+					
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：杨明
+		单位：教育学院教育学系
+		职称：教授
+		我的主页共被访问了14921次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

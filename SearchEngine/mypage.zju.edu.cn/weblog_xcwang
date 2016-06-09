@@ -1,0 +1,312 @@
+
+
+
+
+
+茶人王-博客
+
+
+
+
+
+
+varctxPath="http://mypage.zju.edu.cn";
+varb_handle="xcwang";
+varcfg_weblog="http://mypage.zju.edu.cn/weblog";
+vard=newDate()
+varselyear=d.getFullYear();
+varselmonth=d.getMonth()+1;
+
+
+
+
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	color:#111;
+	margin-right:10px;	
+}
+#mainlinkullia,.tagsa:hover{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+.tagsa{
+	margin-right:10px;
+}
+img{
+	border:none;
+}
+
+
+
+
+
+
+
+
+
+
+	
+		首页
+		帮助
+		登录
+	
+
+
+
+
+
+
+	茶人王
+一台电脑一壶茶，闲码文字忽悠茶。
+
+	永久链接:http://mypage.zju.edu.cn/weblog/xcwang&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+
+
+	中文主页
+英文主页
+			博客
+
+
+
+
+
+
+
+
+
+
+			
+				
+
+	
+[1/1]
+首页	上一页下一页末页
+
+	
+
+浏览模式:普通|列表
+
+
+
+
+
+
+		茶经与茶文化
+
+作者:王校常日期:2011-02-16Wednesday
+
+
+
+陆羽的《茶经》是中国最早全面论述茶相关知识的一个百科全书式文献，对后世茶业的贡献不言而语。对其进行考古学上或者茶产业发展历史方面的研究这也是完全可以理解，而且有必要的。然而在茶文化兴起的二十一世纪，茶科学发展到今天，许多人包括茶叶工作者反而对古人...
+查看更多...
+
+Tags:
+茶经
+	
+
+
+
+分类:茶文化|			固定链接|评论总数0|
+			阅读次数49
+
+
+			
+			
+		
+		
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+	
+	
+		姓名：王校常
+		单位：农业与生物技术学院茶学系
+		职称：教授
+		我共发表了1篇文章
+		共收到0条评论
+		我的主页共被访问了623次
+	
+	
+	
+	
+
+
+我的文章分类
+
+	茶
+		
+茶文化
+		
+杂
+		
+
+
+
+
+日历
+
+
+
+>>
+年月
+
+
+
+日
+一
+二
+三
+四
+五
+六
+
+
+
+
+
+
+
+
+
+
+
+我的最新文章
+
+
+		茶经与茶文化
+	
+
+
+
+
+我的热点文章
+
+
+				茶经与茶文化
+
+	
+
+
+我收到的评论
+
+	
+	
+
+
+我的文章汇总
+
+		2011年2月[1]
+		
+	
+
+
+链接
+
+凤凰网
+新语丝
+西湖问茶
+
+
+
+
+
+检索
+
+
+
+
+-所有文章-
+茶
+茶文化
+杂
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+
+
+varflag=newArray();
+flag[0]='2011/02/16';
+
+
+varcale=newCalendar("idCalendar",{
+SelectDay:newDate(),
+onSelectDay:function(o),
+onToday:function(o),
+onFinish:function(){
+$("idCalendarYear").innerHTML=this.Year;$("idCalendarMonth").innerHTML=this.Month;
+for(vari=0,len=flag.length;i<len;i++){
+//alert(flag[i]);
+	vard=newDate(flag[i]);
+	if(this.Year==d.getYear()){
+		if(this.Month==d.getMonth()+1)
+		{
+this.Days[d.getDate()].innerHTML=""+d.getDate()+"";
+			
+		}
+
+	}
+}
+}
+});
+$("idCalendarPre").onclick=function()
+$("idCalendarNext").onclick=function()
+
+
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));

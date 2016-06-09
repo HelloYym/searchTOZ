@@ -1,0 +1,204 @@
+
+
+
+
+
+高奋-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0088264";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	高奋
+浙江大学外国文学研究所
+
+	永久链接:http://mypage.zju.edu.cn/fen&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			高奋（1964-&nbsp;），女，教授，博导，外国语学院外国文学研究所所长，兼任全国美国文学研究会常务理事，中国英语教学研究会常务理事，浙江省作协会员。主要研究方向为英美现代主义文学、女性文学和西方文论。1995年8月至1996年8月在美国印第安纳大学访学一年,2006年至2007年在英国剑桥大学和牛津大学作为期6个月的高级访问.近年来发表在权威和一级等学术期刊上的论文30余篇，近期论文包括《批评，从观到悟的审美体验&mdash;论弗吉尼亚&middot;伍尔夫的批评理论》（《外国文学评论》2009，3期）、《小说：记录生命的艺术形式&mdash;&mdash;论弗吉尼亚&middot;伍尔夫的小说理论》（《外国文学评论》2008年第2期）、《论伍尔夫《海浪》中的生命写作》（《外国文学》2008年第5期）、《中西诗学语境下的伍尔夫现实观》（《外国文学》2009，5期）等，出版著作10余部，包括《现代主义与东方文化》、《西方现代主义文学的源与流》、《英国小说批评史》、《外语类学生毕业论文写作指导》、《英语常用短语词典》、《西方女性独白》、《美国赖以立国的文本》。主持国家社科基金项目《弗吉尼亚&middot;伍尔夫小说理论研究》（2009）、《英国形式主义美学及其文学创作实践研究》（2014）。
+主讲研究生课程：20世纪西方文论、外国文学专题研究、文学批评、西方文学与中国文化等
+主讲本科生课程：英语文学名著精读、西方文艺理论精读、文学阅读导论、现代主义文学与现代人的困惑等。
+			
+				
+			联系方式
+			
+						电子信箱：gfed2002@163.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：高奋
+		单位：浙江大学外国文学研究所
+		职称：教授，博导
+		我的主页共被访问了10647次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

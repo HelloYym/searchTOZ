@@ -1,0 +1,219 @@
+
+
+
+
+
+裘正军-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0096258";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	裘正军
+
+
+	永久链接:http://mypage.zju.edu.cn/zjqiu&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;
+主要学历：
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1989.9&mdash;1993.7&nbsp;&nbsp;&nbsp;浙江大学能源系，内燃机工程专业，本科生
+1993.9&mdash;1996.3&nbsp;&nbsp;&nbsp;浙江大学能源系，内燃机工程，研究生
+1999.9&mdash;2003.7&nbsp;&nbsp;&nbsp;浙江大学生物系统工程系，农业机械化工程，博士生
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;工作简历：
+1996.3&mdash;1998.9&nbsp;&nbsp;&nbsp;浙江农业大学农业工程学院，助教，
+1998.10&mdash;2002.11&nbsp;浙江大学生物系统工程系，讲师
+2002.12&mdash;2007.12&nbsp;浙江大学生物系统工程系，副教授
+2008.12&mdash;2009.9&nbsp;&nbsp;美国UIUC大学，访问教授
+2007.12&mdash;今&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江大学生物系统工程系，教授
+			
+				
+			工作研究领域
+			
+			单片机与嵌入式系统应用；
+农业信息化与自动化；
+检测技术与智能化仪器；
+GPS及GIS在农业中的应用
+			
+				
+			联系方式
+			
+			电话：0571-88982728			电子信箱：zjqiu@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：裘正军
+		单位：生物系统工程与食品科学学院生物系统工程系
+		职称：教授
+		我的主页共被访问了1430次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,210 @@
+
+
+
+
+
+饶灿-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0011133";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	饶灿
+mineralogy
+
+	永久链接:http://mypage.zju.edu.cn/raocan&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			饶灿，博士，副教授，主要从事矿物晶体化学研究。2001、2004年分别获得桂林理工大学的学士和硕士学位，2009年毕业于南京大学获矿物学博士学位。之后进入南京大学博士后流动站工作，2011年12月进入浙江大学地球科学系工作。2011年度以第七完成人身份获教育部高等学校科学研究优秀成果奖自然科学奖一等奖。2013年1月被聘为浙江大学&ldquo;求是青年学者&rdquo;。在福建南平伟晶岩中发现了两种新矿物：磷锶铍石SrBe2(PO4)2(Strontiohurlbutite，IMANo.2012-032，国家博物馆藏馆号：M11803)和闽江石Ba[Be2P2O8](Minjiangite，IMANo.2013-021，国家博物馆藏馆号：M11842)。参与国家自然科学基金重点项目1项和国家自然基金项目1项，目前主持国家自然科学青年基金项目1项。多年来，一直从事矿物学的教学和科研工作。
+			
+				
+			工作研究领域
+			
+			矿物晶体化学
+			
+				
+			联系方式
+			
+						电子信箱：canrao@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：饶灿
+		单位：地球科学系
+		职称：副教授
+		我的主页共被访问了1842次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		专利成果
+	工作研究项目
+	奖励荣誉
+	研究成果
+	发表论文
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

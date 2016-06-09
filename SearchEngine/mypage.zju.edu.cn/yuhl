@@ -1,0 +1,226 @@
+
+
+
+
+
+俞洪良-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0097029";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	俞洪良
+浙大建筑工程学院土木工程管理所
+
+	永久链接:http://mypage.zju.edu.cn/yuhl&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			俞洪良，男，1966年12月出生，硕士研究生毕业，高级工程师，国家注册监理工程师，现为浙江大学土木系土木工程管理研究所教师。
+主要教学工作：
+主要讲授的课程有：《建筑工程经济与企业管理》、《建设项目管理》、《施工组织管理》。
+曾在建设部、人事部组织考试的监理工程师、造价工程师、建造师等考前培训班中，主讲《工程建设投资控制》、《工程造价管理相关知识》、《建设工程项目管理》等课程。
+先后培养指导本科生毕业论文18人，专科生毕业论文8人；
+先后指导四届本科生《建筑施工》课程的生产实习。
+主要科研工作及奖励：
+项目名称获奖级别授奖单位（主持鉴定单位）获奖（鉴定）年月本人排名/总人数
+软土地基深基坑围护结构研究与应用浙江省科技进步优秀奖浙江省科学技术委员会1999.8第二/总人数7人
+建设监理制下，建设项目政府质量监督管理体系研究国内先进水平宁波市科学技术委员会1999.7第五/总人数5人
+软土地基拱形围护结构设计计算理论研究浙江省科技进步二等奖浙江省科学技术厅2002.12第四/总人数7人
+建设监理质量动态控制与运行机制研究浙江省科技进步二等奖浙江省科学技术厅2003.12第九/总人数14人
+
+主要工程管理经历：
+1988.7～1994.8：主要从事工程地质、水文地质、桩基础、矿井工程等方面的设计及施工管理工作。
+1997.3～至今：先后参与了十余个工程的监理工作。其中作为项目总监理工程师的主要项目有：乐清新世纪大酒店工程，杭州采荷东区住宅工程，浙江省青田县双坑口电站工程，浙江景宁县龙川水电站工程，长兴金陵商城迁建工程，长兴人民医院迁建工程，乐清金马广场工程，杭州浪漫和山一期工程，丽水市城市防洪工程，杭州黄龙月亮湾大酒店工程。
+
+
+			
+				
+			工作研究领域
+			
+			工程项目管理，工程项目经济分析与评价，工程地质与基础工程，施工组织与管理，建设监理
+
+
+			
+				
+			联系方式
+			
+			电话：87951012			电子信箱：yhl@dial.zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：俞洪良
+		单位：建筑工程学院土木工程学系
+		职称：高级工程师
+		我的主页共被访问了5979次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	奖励荣誉
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

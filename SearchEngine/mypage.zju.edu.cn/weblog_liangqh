@@ -1,0 +1,332 @@
+
+
+
+
+
+liangqh-博客
+
+
+
+
+
+
+varctxPath="http://mypage.zju.edu.cn";
+varb_handle="liangqh";
+varcfg_weblog="http://mypage.zju.edu.cn/weblog";
+vard=newDate()
+varselyear=d.getFullYear();
+varselmonth=d.getMonth()+1;
+
+
+
+
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	color:#111;
+	margin-right:10px;	
+}
+#mainlinkullia,.tagsa:hover{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+.tagsa{
+	margin-right:10px;
+}
+img{
+	border:none;
+}
+
+
+
+
+
+
+
+
+
+
+	
+		首页
+		帮助
+		登录
+	
+
+
+
+
+
+
+	liangqh
+资料存放
+
+	永久链接:http://mypage.zju.edu.cn/weblog/liangqh&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+
+
+	中文主页
+			博客
+
+
+
+
+
+
+
+
+
+
+			
+				
+
+	
+[1/1]
+首页	上一页下一页末页
+
+	
+
+浏览模式:普通|列表
+
+
+
+
+
+
+		ZT《如何成为卓越的大学教师》读书札记
+
+作者:梁清华日期:2010-03-28Sunday
+
+
+
+追求卓越，教学有方&mdash;&mdash;《whatthebestcollegeteachersdo》读书札记发表时间：2010-3-2517:01:00阅读次数:155所属分类：教育研究http://axiu.fyfz.cn/art/596235.htm一本书是被誉为全美最好的老师之一的肯&middot;贝恩教授的作品，获得哈佛...
+查看更多...
+
+
+
+
+
+分类:杂谈|			固定链接|评论总数0|
+			阅读次数30
+
+
+
+
+
+
+
+		惊喜
+
+作者:梁清华日期:2009-09-28Monday
+
+
+
+搬入港湾家园新居，昨晚头一次闻到桂花香。今早往窗外一望，两株桂树伫立在窗下，一株丹桂，一株银桂！馨香四溢啊！
+查看更多...
+
+
+
+
+
+分类:杂谈|			固定链接|评论总数1|
+			阅读次数57
+
+
+			
+			
+		
+		
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+	
+	
+		姓名：梁清华
+		单位：思想政治理论教学科研部
+		职称：讲师
+		我共发表了2篇文章
+		共收到1条评论
+		我的主页共被访问了3238次
+	
+	
+	
+	
+
+
+我的文章分类
+
+	默认分类
+		
+杂谈
+		
+
+
+
+
+日历
+
+
+
+>>
+年月
+
+
+
+日
+一
+二
+三
+四
+五
+六
+
+
+
+
+
+
+
+
+
+
+
+我的最新文章
+
+
+		ZT《如何成为卓越的大学...
+惊喜
+	
+
+
+
+
+我的热点文章
+
+
+				惊喜
+		ZT《如何成为卓越的大学...
+
+	
+
+
+我收到的评论
+
+			
+
+	春捂秋冻，保重身体...
+
+	
+
+
+我的文章汇总
+
+		2010年3月[1]
+		2009年9月[1]
+		
+	
+
+
+链接
+
+
+
+
+
+
+检索
+
+
+
+
+-所有文章-
+默认分类
+杂谈
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+
+
+varflag=newArray();
+flag[0]='2009/09/28';
+flag[1]='2010/03/28';
+
+
+varcale=newCalendar("idCalendar",{
+SelectDay:newDate(),
+onSelectDay:function(o),
+onToday:function(o),
+onFinish:function(){
+$("idCalendarYear").innerHTML=this.Year;$("idCalendarMonth").innerHTML=this.Month;
+for(vari=0,len=flag.length;i<len;i++){
+//alert(flag[i]);
+	vard=newDate(flag[i]);
+	if(this.Year==d.getYear()){
+		if(this.Month==d.getMonth()+1)
+		{
+this.Days[d.getDate()].innerHTML=""+d.getDate()+"";
+			
+		}
+
+	}
+}
+}
+});
+$("idCalendarPre").onclick=function()
+$("idCalendarNext").onclick=function()
+
+
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));

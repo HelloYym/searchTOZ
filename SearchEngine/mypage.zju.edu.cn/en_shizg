@@ -1,0 +1,257 @@
+
+
+
+
+
+Info.Process.&Commun.(IPC)Group-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0006017";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	Info.Process.&Commun.(IPC)Group
+
+
+	Permanentlink:http://mypage.zju.edu.cn/en/shizg&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			Blog
+
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			
+Dr.ZhiguoShiisnowa&nbsp;&nbsp;professoratZhejiangUniversity,Hangzhou,Chinafrom2014andavisitingprofessorinBBCRgroupatUniversityofWaterloofrom2011.HereceivedtheB.S.degreeandPh.D.degreebothinelectronicengineeringfromZhejiangUniversity,Hangzhou,China,in2001and2006respectively.From2006to2009,andfrom2009to2014,hewasanassistantprofessor,andanassociateprofessor&nbsp;withtheDepartmentofInformationandElectronicEngineering,ZhejiangUniversity.Dr.Shi'sresearchintrestsmainlyinludeInformationandSignalProcessing,WirelessCommunicationandNetwork.
+ThispagewillnotchangefromApril2015.Pleasegotothe&nbsp;updatedwebpagesformoreupdatedinformation.
+Teaching
+
+2013:OFDMCommunicationSystemExperiment
+2009-2010:FundamentalsofFPGADesign
+2008-2010:Experimental&nbsp;StudyonOFDMCommunicationSystem
+2006-2008:PrincipleandApplicationofWireless&nbsp;Communication&nbsp;
+
+ResearchProjects
+
+&nbsp;201210-201506Sub-projectof&ldquo;863&rdquo;Program
+201201-201512NSFC:Real-timeMultipleModelParticlePHDFilter:AlgorithmandHardwareDesign
+201110-201212IndustrialProject:Light-weightSSISignalAquazationCardViaPCIInterface
+201105-201204StateKeyLabOpenProject:50-kmLongdisntanceWSNNodesDesignforOceanicWind-poweredElectricitySystem
+201104-201203&nbsp;IndustrialProject:SSISignalAquazationCardViaPCIInterface
+201001-201212ZhejiangProvincialCommonwealProject:60GHzCompactDual-modeAnti-CollisionRadar
+200901-201112NSFC:PowerCombinationofSi-based&nbsp;on-Chip&nbsp;TerahertzSignalGeneration
+
+SelectedPublications
+
+Z.Shi,Y.Liu,S.Hong,J.Chen,andX.Shen,&quot;POSE:DesignofHardwareFriendlyParticle-BasedObservationSelectionPHDFilter&quot;,IEEETrans.onIndustrialElectronics,toappear.
+Y.Zheng,Z.Shi,R.Lu,S.Hong,andX.Shen,&quot;AnEfficientData-DrivenParticlePHDFilterforMulti-TargetTracking&quot;,IEEETrans.onIndustrialInformatics,toappear.
+X.Wei,Z.Shi,E.Li,&quot;Anovelcombinedequivalentnetworksanalysisforpowerandgroundplaneswithnarrowslots&quot;,IEEETrans.onElectromagn.Compat.,2010,52(4):994-1000.
+Z.Shi,S.Hong,K.Chen,&quot;ExperimentalstudyontrackingthestateofanalogChua&rsquo;scircuitwithparticlefilterforchaossynchronization&quot;,PhysicsLettersA,2008,372:5575-5580.
+More...
+
+EditedBooks
+
+Z.Shi,S.Hong,K.Chen,BasebandDesignofOFDMCommunicationSystem,ZhejiangUniversityPress,2009.
+
+Services
+
+Editorship:KSIITransactio&#8203;nsonInternetandInformatio&#8203;nSystems
+2013TPCMember:VTC2013Fall,ICCC2013,EUSPN2013,ANT2013
+2014TPCMember:Infocom2014,ICNC2014
+
+HonorsandAwards
+
+2013:IEEEWCNCBestPaperAward
+2013:QIUSHIYoung&nbsp;ScholarofZhejiangUniversity
+2012:&nbsp;ScientificandTechnologicalAwardofZhejiangProvince
+2012:IEEEWCSPBestPaperAward
+
+News
+
+201304:ZhiguoAttendedIEEEInfocom2013andpresentedpaperinTurin,Italy.
+201304:ZhiguoattendedIEEEWCNC2013inShanghai,China&nbsp;andpresented4papers.Ourpapertitled&quot;ANovelLow-PowerMixed-ModeImplementationofWeightUpdateinParticlePHDFilters&quot;receivedtheBestPaperAwards.
+201304:Ourpaper&quot;POSE:DesignofHardwareFriendlyParticle-BasedObservationSelectionPHDFilter&quot;hasbeenaccpetedbyIEEETransactionsonIndustrialElectronics.
+201304:ZhiguovisitedTongjiUniversity,UESTC,South-WestJiaotongUniversityandUCAS.
+More...
+
+&nbsp;
+
+&nbsp;
+
+
+
+
+			
+				
+			Researchwork
+			
+			InformationandSignalProcessing;WirelessCommunicationandNetwork
+			
+				
+			Contact
+			
+			Phone:
+			E-mail:shizg@zju.edu.cn;z22shi@uwaterloo.ca
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:SHIZhiguo
+		Units:Dept.Info.&Elect.Eng
+		Title:Professor
+		Myhomepagehasbeenvisited11300times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	
+
+
+Youarevisitor:11300
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

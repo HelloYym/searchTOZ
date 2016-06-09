@@ -1,0 +1,225 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0090183";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0090183&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			目前主要从事家蚕分子生物学以及蚕桑资源学等方面的科研和教学工作，主持国家自然科学基金等国家、省部科技项目20余项，在国内外学术刊物上发表论文100余篇，主编著作和教材各1部，参编著作5部，主持获得省科技进步二等奖1项，以及&ldquo;大江园丁奖&rdquo;、&ldquo;优秀教师奖&rdquo;、&ldquo;先进工作者&rdquo;等荣誉称号，入选&ldquo;浙江省新世纪151人才工程第二层次培养人员&rdquo;。学术兼职有浙江省昆虫学会常务理事和《蚕业科学》编委。
+教育背景与工作简历
+
+1978.9~1982.7原浙江农业大学蚕学系本科生
+
+1982.8~1983.8浙江省桐乡市石门蚕种场技术员
+
+1983.9~1986.7原浙江农业大学蚕学系硕士研究生
+
+1986.8~1990.8浙江省农业科学院蚕桑研究所助理研究员
+
+1990.9~1995.3原浙江农业大学蚕学系副教授
+
+1995.3~1996.4日本京都工艺纤维大学访问学者
+
+1997.9~2001.4浙江大学在职博士
+
+2001.5~浙江大学动物科学学院教授、博士生导师
+
+学术兼职:
+
+浙江省昆虫学会常务理事
+
+
+			
+				
+			工作研究领域
+			
+			1、蚕学2、分子生物学3、生物资源学
+			
+				
+			联系方式
+			
+						电子信箱：slgsilk@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：时连根
+		单位：动物科学学院特种经济动物科学系
+		职称：教授
+		我的主页共被访问了1889次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

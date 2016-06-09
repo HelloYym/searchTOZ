@@ -1,0 +1,255 @@
+
+
+
+
+
+lryang-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0093037";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	lryang
+Biocat
+
+	永久链接:http://mypage.zju.edu.cn/lryang&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			杨立荣
+职称：教授
+学位：生物化工博士
+出生年月：1962年8月
+电话&amp;传真：0571-87952363
+Email：lryang@zju.edu.cn
+地址：浙江大学（玉泉校区）材料与化工学院生物工程研究所，杭州，310027
+
+研究方向:生物催化与转化、酶工程、生物过程工程。
+
+
+Dr.Li-rongYang&nbsp;Ph.D.
+Professor,InstituteofBioeng.
+Dept.ofChem.Eng.&amp;Bioeng.
+CollegeofMaterialsScienceandChemicalEngineering
+ZhejiangUniversity,Hangzhou310027China
+Tel:86-571-87952363
+Fax:86-571-87952363
+E-mail:lryang@zju.edu.cn
+
+EducationBackground
+Ph.D.,Dept.OfChem.Eng.&amp;Biochem.Eng.,ZhejiangUniversity(2003),MajoredinBiochem.Eng.
+M.S.,&nbsp;Dept.ofChem.Eng.,ZhejiangUniversity(1991),MajoredinBiochem.Eng.
+B.Sc.,&nbsp;Dept.ofChem.Eng.,ZhejiangUniversityofTechnology(1984),MajoredinFineChem.Eng.
+
+WorkingExperience:
+12/2002-Present&nbsp;Dept.ofChem.Eng.,ZhejiangUniversity
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Position:Professor&nbsp;&nbsp;Field:Biochem.Eng.&amp;AppliedChemistry
+10/1997-11/2002&nbsp;Dept.ofChem.Eng.,ZhejiangUniversity
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Position:AssociateProfessor&nbsp;Field:Biochem.Eng.&amp;AppliedChemistry
+&nbsp;3/1993-9/1997&nbsp;Dept.ofChem.Eng.,ZhejiangUniversity
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Position:Lecturer&nbsp;&nbsp;&nbsp;Field:Biochem.Eng.&amp;AppliedChemistry
+&nbsp;1/1991-3/1993&nbsp;Dept.ofLightIndustryEng.,ZhejiangUniversityofTechnology
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Position:Lecturer&nbsp;&nbsp;&nbsp;Field:Biochem.Eng.&amp;FermentationEng.
+&nbsp;8/1984-12/1990&nbsp;Dept.ofChem.Eng.,ZhejiangUniversityofTechnology
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Position:Assistant&nbsp;&nbsp;&nbsp;Field:FineChem.Eng.&amp;AppliedChemistry
+
+Teaching:
+BiocatalysisandBiotransformation
+IntroductiontoBio-engineering
+
+ResearchInterests&amp;CurrentProjects
+
+ResearchInterests:
+&nbsp;Biochem.Eng.,Biocatlysis&amp;Biotransformation,EnzymeEng.,AppliedChemistry.SpeciallyfocusonChiralDrugs&amp;Chiralintermediates;Enzymeinnon-conventionalmedia;PeptideSynthesis.
+&nbsp;
+			
+				
+			工作研究领域
+			
+			生物催化与转化、酶工程、生物过程工程。
+			
+				
+			联系方式
+			
+			电话：0571-87952363			电子信箱：lryang@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：杨立荣
+		单位：化学工程与生物工程学系
+		职称：教授
+		我的主页共被访问了44308次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	研究成果
+	专利成果
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

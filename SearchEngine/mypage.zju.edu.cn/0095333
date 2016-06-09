@@ -1,0 +1,221 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0095333";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0095333&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			1963年生，安徽省怀远县人。1995年于中国科学院等离子体物理研究所获博士学位，现为浙江大学农业与生物技术学院原子核农业科学研究所研究员、硕士生导师、韩国Journal&nbsp;of&nbsp;Plant&nbsp;Biotechnology&nbsp;编委，主要研究方向为植物诱变遗传与分子改良。
+学历
+1995.7.-1997.12.：博士后，原浙江农业大学原子核农业科学研究所。
+1991.5.-&nbsp;1995.6.：博士，中国科学院等离子体物理研究所与原北京农业大学联合培养；
+1985.9.-1988.7.：硕士，原北京农业大学农业大学农学系植物遗传育种专业；
+1980.9.-1984.7.：学士，皖南农学院农学专业；
+工作经历
+2002.12.-今：研究员，浙江大学原子核农业科学研究所
+1997.12.-2002.11：副研究员，浙江大学原子核农业科学研究所
+2000.11.-2001.11.：研究员，韩国忠南大学大学农学院园艺系；访问学者，澳大利亚国际分子生物学农业应用研究中心。
+1988.7.-1991.5：河北省农林科学院粮油作物研究所
+1984.7.-1985.9：安徽省怀远县人事局
+			
+				
+			工作研究领域
+			
+			研究方向为诱变遗传与植物分子改良，主要研究内容包括1）植物诱变遗传育种；2）转基因技术及其在品种改良上的应用；2）分子标记及其应用
+
+			
+				
+			联系方式
+			
+			电话：86971405			电子信箱：hrcui@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：崔海瑞
+		单位：农业与生物技术学院应用生物科学系
+		职称：研究员（自然科学）
+		我的主页共被访问了8975次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	奖励荣誉
+	实验室介绍
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,207 @@
+
+
+
+
+
+汪烨鹏老师-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0009335";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	汪烨鹏老师
+致力于高等教育国际交流与合作事业
+
+	永久链接:http://mypage.zju.edu.cn/wyp&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+汪烨鹏，男，汉族，1984年1月出生，湖北黄冈人，2009年7月参加工作，德国柏林洪堡大学毕业，研究生学历，浙江大学教师。
+&nbsp;
+2009年7月入职浙江大学；2013年9月起在浙大国际校区建设发展委员会办公室工作。
+&nbsp;
+2009年7月获得德国柏林洪堡大学国际农业发展理学硕士学位（ErasmusMundusMSc），曾担任柏林洪堡大学中国学生与学者联合会2008/2009届学联主席。2009年3月起以研究学者身份赴美国佛罗里达大学完成硕士论文。
+&nbsp;
+			
+				
+			联系方式
+			
+			电话：0571-88208081			电子信箱：wangyepeng@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：汪烨鹏
+		单位：国际联合学院（筹）
+		职称：讲师
+		我的主页共被访问了4887次
+标签：浙江，杭州，德国，柏林，洪堡，留学	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	我的微博
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

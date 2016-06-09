@@ -1,0 +1,250 @@
+
+
+
+
+
+章淑芳-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0009680";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	章淑芳
+
+
+	永久链接:http://mypage.zju.edu.cn/zhangshufang&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+章淑芳
+博士，博士生导师、硕士生导师，浙江大学医学院干细胞与组织工程中心副教授，中国生物医学工程学会组织工程与再生医学分会会员，浙江大学&ldquo;求是青年学者&rdquo;。作为负责人主持国家自然科学基金面上项目、青年基金等8项，参与863、国家自然科学基金面上项目、国际合作项目等项目多项，在biomaterials、actabiomaterialia等上发表SCI论文十多篇，其中第一作者5篇，参与英文与中文专著章节写作各1次，申请国际发明专利（PCT）1项并成功获得授权。
+工作研究领域
+
+干细胞微环境调控
+&nbsp;组织工程材料
+软骨组织工程
+力学生物学
+
+教育工作经历
+1996-2001&nbsp;浙江大学生仪学院生物医学工程系，本科
+2001-2004&nbsp;浙江大学生仪学院生物医学工程系，硕士
+2004-2008&nbsp;新加坡国立大学医学院生物工程系，博士
+2009-2011&nbsp;浙江大学医学院基础医学院，博士后
+2011-2013&nbsp;浙江大学医学院基础医学院，助理研究员
+2013.12-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江大学医学院基础医学院，副教授
+
+
+
+学术兼职
+&nbsp;&nbsp;&nbsp;中国生物医学工程学会分会会员
+&nbsp;&nbsp;&nbsp;浙江省生物医学学会会员
+&nbsp;&nbsp;&nbsp;国际组织工程与再生医学协会（TERMIS）会员&nbsp;
+主要论著
+
+&nbsp;ZhangS,ChenL,JiangY,CaiY,XuG,TongT,ZhangW,WangL,JiJ,ShiP,&nbsp;OuyangHW,Bi-layercollagen/microporouselectrospunnanofiberscaffoldimprovestheosteochondralregeneration,ActaBiomater.2013.
+ZhangS,JiangYZ,ZhangW,ChenL,TongT,LiuW,MuQ,LiuH,JiJ,OuyangHW,ZouX,NeonatalDesensitizationSupportsLong-TermSurvivalandFunctionalIntegrationofHumanEmbryonicStemCell-DerivedMesenchymalStemCellsinRatJointCartilageWithoutImmunosuppression,StemCellsDev.2013.
+ZhangS,&nbsp;TongW,&nbsp;ZhengB,&nbsp;SusantoTA,&nbsp;XiaL,&nbsp;ZhangC,&nbsp;AnanthanarayananA,&nbsp;TuoX,&nbsp;SakbanRB,&nbsp;JiaR,&nbsp;IliescuC,ChaiKH,&nbsp;McMillianM,&nbsp;ShenS,&nbsp;LeoH,&nbsp;YuH,Arobusthigh-throughputsandwichcell-baseddrugscreeningplatform,Biomaterials2011.&nbsp;
+&nbsp;ZhangS,JiangYZ,OuyangHW,CartilageinjuriesofWomeninSports:thePresentandFutureTherapeutics,InternationalJournalofMedicalandBiologicalFrontiers2011.
+&nbsp;ZhangS,XiaL,KangCH,XiaoG,OngSM,TohYC,LeoHL,vanNoortD,KanSH,TangHH,YuH,Microfabricatedsiliconnitridemembranesforhepatocytesandwichculture,Biomaterials2008.&nbsp;
+&nbsp;章淑芳，章恩明，郑筱祥，胚体培养对小鼠ES细胞定向神经分化的影响研究，生物医学工程学杂志，2006.
+JiangY,ChenL,&nbsp;ZhangS,TongT,ZhangW,LiuW,XuG,TuanRS,HengBC,CrawfordR,XiaoY,&nbsp;OuyangHW,Incorporationofbioactivepolyvinylpyrrolidone-iodinewithinbilayeredcollagenscaffoldsenhancesthedifferentiationandsubchondralosteogenesisofmesenchymalstemcells,ActaBiomater.2013.
+&nbsp;ZhangW,ChenJ,&nbsp;ZhangS,&nbsp;OuyangHW,Inhibitoryfunctionofparathyroidhormone-relatedproteinonchondrocytehypertrophy:theimplicationforarticularcartilagerepair,ArthritisResTher.2012.&nbsp;
+&nbsp;XiaL,AroozT,ZhangS,TuoX,XiaoG,SusantoTA,SundararajanJ,ChengT,KangY,PohHJ,LeoHL,YuH.Hepatocytefunctionwithinastackeddoublesandwichcultureplatecylindricalbioreactorforbioartificialliversystem,Biomaterials2012.
+JiangYZ,ZhangSF,QiYY,WangLL,&nbsp;OuyangHW,Celltransplantationforarticularcartilagedefects:principlesofpast,presentandfuturepractice.CellTransplantation2011.
+OngSM,ZhaoZ,AroozT,ZhaoD,ZhangS,DuT,WasserM,vanNoortD,&nbsp;YuH,Engineeringascaffold-free3Dtumormodelforinvitrodrugpenetrationstudies,Biomaterials2010.
+ZhangC,ChiaSM,OngSM,ZhangS,TohYC,vanNoortD,YuH,TheControlledPresentationofTGF-&beta;1toHepatocytesina3D-MicrofludicCellCultureSystem,Biomaterials,2009
+&nbsp;vanNoortD,OngSM,ZhangC,ZhangS,AroozT,YuH,Stemcellsinmicrofluidics,BiotechnolProg.,2009
+ZhangE,LiX,ZhangS,ChenL,ZhengX,Cellcyclesynchronizationofembryonicstemcells:Effectofserumdeprivationonthedifferentiationofembryonicbodiesinvitro,BiochemBiophysResCommun.,2005&nbsp;
+
+
+专利
+HanryYu,ShufangZhang,HwaLiangLeo,ApparatusforCellorTissueCulture,PCTPatentApplicationNo.PCT/SG2010/000120,PublicationNumber-WO2010/110754A1,PublicationDate-30Sept2010.
+
+联系方式
+
+工作部门:&nbsp;浙江大学基础医学院干细胞与再生医学系、医学院科研楼B608
+通讯地址:&nbsp;浙江省杭州市西湖区余杭塘路866号浙江大学紫金港校区医学院39号信箱邮编310058
+电话:&nbsp;0571-88208442，Email：zhangshufang@zju.edu.cn
+
+
+			
+					
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：章淑芳
+		单位：浙江大学医学院
+		职称：副教授
+		我的主页共被访问了2221次
+标签：生物材料，基础医学院，医学院，浙江省干细胞与组织工程技术重点实验室干细胞、组织工程生物医学工程再生医学	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		专利成果
+	教学工作
+	工作研究项目
+	出版著作
+	奖励荣誉
+	发表论文
+	招生信息
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,211 @@
+
+
+
+
+
+程军-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0002008";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	程军
+
+
+	永久链接:http://mypage.zju.edu.cn/0002008&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;程军，教授，博士生导师。男，1974年8月生，山东济宁人。国家863项目首席专家，教育部新世纪优秀人才，全国百篇优秀博士学位论文获得者，浙江省151人才，美国普林斯顿大学访问学者。
+&nbsp;&nbsp;&nbsp;1996年毕业于山东大学热能动力工程专业获学士学位，2002年毕业于浙江大学能源环境工程专业获博士学位，同年留校在浙江大学能源清洁利用国家重点实验室任教，2008-2009年赴美国普林斯顿大学作访问学者，2009年晋升为教授，2010年批准为博士生导师。现任浙江大学可持续能源研究院院长助理，兼任中国环境增值产业技术创新战略联盟副理事长，浙江省-德国石荷州联合生物质中心执行主任，全国煤炭标准化委员会委员，中国藻业协会专家委员会委员，中国生物质能专业委员会委员。
+&nbsp;&nbsp;&nbsp;研究领域为新能源和节能环保，重点研究生物质能、太阳能、氢能、洁净煤及污染控制等高效清洁转化技术。主要研究方向：（1）微藻新能源&mdash;转化太阳能制油制气；（2）生物质转化制取生物柴油和燃料酒精等液体燃料；（3）生物质转化制取氢气和甲烷等气体燃料；（4）洁净煤气化燃烧及CO2减排利用的控制机理等。在微藻固定CO2制生物柴油、废弃物制车用生物天然气、微波褐煤提质制浆体燃料、燃煤烟气脱硫脱碳等方面取得了突出的科研成果。
+&nbsp;&nbsp;&nbsp;主持负责了国家基金、863项目、973课题、支撑计划课题、国际合作专项等国家级项目12项和省部级项目7项，另外主持完成企业委托项目10余项。作为第一或通讯作者发表国际期刊SCI论文50余篇和国内期刊EI论文30余篇，申请发明专利30余项（其中已授权17项），合作著作1部。2004年获全国百篇优秀博士学位论文奖，2009和2001年两次获得国家科技进步二等奖，2003年获得浙江省科学技术一等奖。2011年入选教育部新世纪优秀人才，2012年入选浙江省151人才，2013年获得浙江省青年科技奖。
+			
+				
+			工作研究领域
+			
+			研究领域为新能源和节能环保，重点研究生物质能、太阳能、氢能、洁净煤及污染控制等高效清洁转化技术。
+			
+				
+			联系方式
+			
+			电话：0571-87952889			电子信箱：juncheng@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：程军
+		单位：浙江大学能源工程学院
+		职称：教授/博导/院长助理
+		我的主页共被访问了17472次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	奖励荣誉
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

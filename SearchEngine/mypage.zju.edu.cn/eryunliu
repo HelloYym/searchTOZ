@@ -1,0 +1,244 @@
+
+
+
+
+
+刘而云-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0014085";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	刘而云
+浙江大学信息与电子工程学系
+
+	永久链接:http://mypage.zju.edu.cn/eryunliu&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+
+刘而云，男，1984年11月生，浙江大学信息与电子工程学系信息与通信工程研究所讲师，分别于2006年7月和2011年6月获得西安电子科技大学学士和博士学位，博士毕业后留校工作，并于2011年10月至2013年10月在美国密西根州立大学（MichiganStateUniversity）计算机科学与工程系PRIP实验室从事博士后研究，目前主要研究方向是指纹识别、模式识别与机器视觉，已发表学术论文20余篇，获得授权发明专利4项，同时担任IEEETransactionsonPatternAnalysisandMachineIntelligence，IEEETransactionsonCircuitsandSystemsforVideoTechnology等期刊的审稿人。
+&nbsp;
+受教育经历:
+
+
+
+2002/08&ndash;2006/07，西安电子科技大学，理学院，电子信息科学与技术专业，学士
+2006/08&ndash;2011/07，西安电子科技大学，电子工程学院，模式识别与智能系统专业，博士
+&nbsp;
+研究工作经历:
+2014/03&ndash;至今，浙江大学，信息与电子工程学系，讲师
+2011/07&ndash;2014/03，西安电子科技大学，生命科学技术学院，讲师
+
+
+
+2011/10&ndash;2013/10，美国密歇根州立大学，计算机科学与工程系，博士后&nbsp;&nbsp;
+
+&nbsp;
+工作地点：
+
+
+
+地址：浙江省杭州市浙大路38号，浙江大学玉泉校区信电大楼315室
+邮编：310027
+
+			
+				
+			工作研究领域
+			
+			1.机器视觉地面机器人导航；
+2.生物特征加密；
+3.指纹/掌纹识别。
+
+
+			
+				
+			联系方式
+			
+						电子信箱：eryunliu(at)zju(dot)edu(dot)cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：刘而云
+		单位：信电系
+		职称：讲师
+		我的主页共被访问了5705次
+标签：指纹识别数字图像处理模式识别机器视觉BiometricsPalmprintFingerprint	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		发表论文
+	工作研究项目
+	领域相关期刊和会议
+	链接
+	本科SRTP请进！
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	浙江大学办公网
+浙大信电系主页
+信电系信通所主页
+PRIPLab
+BiometricSys.Lab
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,257 @@
+
+
+
+
+
+廖备水(BeishuiLiao)-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0006423";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	廖备水(BeishuiLiao)
+
+
+	永久链接:http://mypage.zju.edu.cn/beishui&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			廖备水，2006年3月毕业于浙江大学计算机学院，获得博士学位，主要从事逻辑学与人工智能的研究。现任浙江大学教授，博士生导师，浙江大学逻辑与认知研究所副所长，浙江大学&ldquo;求是青年学者&rdquo;，卢森堡大学访问教授（2014-2018，每年3-4个月），中国逻辑学会科学逻辑专业委员会副秘书长、常务委员，国际期刊《IfCoLogJournalofLogicsandtheirApplications》编委、美国德克萨斯大学奥斯汀分校访问学者(&ldquo;新星计划&rdquo;,2009.7-2011.7)、意大利布雷西亚大学访问学者(2014.7-10)。已出版专著3本、译著1本，已在ArtificialIntelligence、InformationSciences、JournalofLogicandComputation、AnnalsofMathematicsandArtificialIntelligence、IJCAI、LORI等学术刊物及国际会议上发表论文50多篇(GoogleScholar)。
+&nbsp;
+欢迎对逻辑学和人工智能感兴趣的同学加盟本课题组。详细信息=&gt;
+&nbsp;
+学术活动
+
+论辩挖掘(ArgumentationMining)国际合作研究：http://www.argmining.org
+《形式论辩手册》（HandbookofFormalArgumentation）顾问委员会委员
+组织国际学术会议：
+
+德国达堡研讨会&ldquo;形式论辩的现在与未来&rdquo;(withD.M.Gabbay,M.Giacomin,L.vanderTorre),2015
+XixiWorkshoponArgumentationMining
+TheAberdeen-ZhejiangInterdisciplinarySymposiumonLanguageProduction,2015
+
+
+国际会议程序委员会委员:
+
+PRIMA2015:the18thConferenceonPrinciplesandPracticeofMulti-AgentSystems
+TAFA-15:the2015InternationalWorkshoponTheoryandApplicationsofFormalArgument
+JURISIN2015:the8thInternationalWorkshoponJuris-informatics
+ArgMining2015:the2ndWorkshoponArgumentationMining
+ArgMAS2015:the12thInternationalWorkshoponArgumentationinMulti-AgentSystems
+IJCAI-15:the24thInternationalJointConferenceonArtificialIntelligence
+LORI-V:the5thInternationalWorkshoponLogic,RationalityandInteraction
+COMMA2014:the5thInternationalConferenceonComputationalModelsofArgument
+EASLLC2014:the3rdEast-AsianSchoolonLogic,LanguageandComputation
+
+
+参与国际学术论坛:
+
+DagstuhlSeminar:&quot;NormativeMulti-AgentSystems&quot;(15131),March22toMarch27,2015.
+DagstuhlSeminar:&quot;FormalMethodsforCoordinatingMulti-AgentSystems&quot;(14332),August10-14,2014.
+DagstuhlSeminar:&quot;BeliefChangeandArgumentationinMulti-AgentScenarios&quot;(13231),June02-07,2013.
+BiCiSeminar:&quot;FrontiersandConnectionsbetweenArgumentationTheoryandNaturalLanguageProcessing&quot;,July20-24,2014.
+Invitedspeaker,atthefourthInternationalWorkshoponLogic,RationalityandInteraction(LORI),October9-12,2013.
+
+
+
+&nbsp;
+国外专家来访
+
+Thomas&Aring;gotnes-UniversityofBergen(2015.5-2016.4)
+BrianLam-NICTA,Australia(2015.6)
+PietroBaroni-Universit&agrave;degliStudidiBrescia(2015.6-7).
+
+&nbsp;
+			
+				
+			工作研究领域
+			
+			逻辑学与人工智能：(1)论辩理论；（2）论辩理论与计算语言学；(3)Agent理论及应用。
+			
+				
+			联系方式
+			
+			电话：0571-88273089			电子信箱：baiseliao@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：廖备水
+		单位：浙江大学语言与认知研究中心
+		职称：教授
+		我的主页共被访问了50863次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		课题组(Logic&AI)
+	发表论文
+	教学工作
+	出版著作
+	奖励荣誉
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	XixiLogicSeminars
+ArgumentationMining
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

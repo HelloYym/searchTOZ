@@ -1,0 +1,332 @@
+
+
+
+
+
+规划空间-博客
+
+
+
+
+
+
+varctxPath="http://mypage.zju.edu.cn";
+varb_handle="caokang";
+varcfg_weblog="http://mypage.zju.edu.cn/weblog";
+vard=newDate()
+varselyear=d.getFullYear();
+varselmonth=d.getMonth()+1;
+
+
+
+
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	color:#111;
+	margin-right:10px;	
+}
+#mainlinkullia,.tagsa:hover{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+.tagsa{
+	margin-right:10px;
+}
+img{
+	border:none;
+}
+
+
+
+
+
+
+
+
+
+
+	
+		首页
+		帮助
+		登录
+	
+
+
+
+
+
+
+	规划空间
+城市规划种种
+
+	永久链接:http://mypage.zju.edu.cn/weblog/caokang&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+
+
+	中文主页
+英文主页
+			博客
+
+
+
+
+
+
+
+
+
+
+			
+				
+
+	
+[1/1]
+首页	上一页下一页末页
+
+	
+
+浏览模式:普通|列表
+
+
+
+
+
+
+		费城——费城的城市设计：视镇为城
+
+作者:曹康日期:2009-04-22Wednesday
+
+
+
+TranslationExtractofShapingtheCity:StudiesinHistory,TheoryandUrbanDesign,Chapter8理查德&middot;M.索莫17世纪中叶，威廉姆&middot;佩恩制定了如今以费城中心城（center-city）而闻名的设计。佩恩为费城做的设计是贵格派[i]乌托邦主义和殖民...
+查看更多...
+
+Tags:
+translation,history,urbandesign
+	
+
+
+
+分类:默认分类|			固定链接|评论总数0|
+			阅读次数107
+
+
+
+
+
+
+
+		CitiesofTomorrowChapter10片段
+
+作者:曹康日期:2009-04-22Wednesday
+
+
+
+10理论之城约翰&middot;沃尔夫冈&middot;冯&middot;歌德《浮士德》I（1898）不读历史；只是传记，那是没有理论的生活。本杰明&middot;迪斯雷利[1]《contariniFleming》能的，去做；不能的，去教。萧伯纳[2]《改革者箴言（人与超人）》（1903）所有...
+查看更多...
+
+Tags:
+translation,planninghistory
+	
+
+
+
+分类:默认分类|			固定链接|评论总数0|
+			阅读次数87
+
+
+			
+			
+		
+		
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+	
+	
+		姓名：曹康
+		单位：建筑工程学院区域与城市规划系
+		职称：副教授
+		我共发表了2篇文章
+		共收到0条评论
+		我的主页共被访问了1191次
+	
+	
+	
+	
+
+
+我的文章分类
+
+	默认分类
+		
+
+
+
+
+日历
+
+
+
+>>
+年月
+
+
+
+日
+一
+二
+三
+四
+五
+六
+
+
+
+
+
+
+
+
+
+
+
+我的最新文章
+
+
+		费城——费城的城市设计...
+CitiesofTomorrowCh...
+	
+
+
+
+
+我的热点文章
+
+
+				费城——费城的城市设计...
+		CitiesofTomorrowCh...
+
+	
+
+
+我收到的评论
+
+	
+	
+
+
+我的文章汇总
+
+		2009年4月[2]
+		
+	
+
+
+链接
+
+InternationalPlannin...
+中国城市规划学会
+SocietyforAmerican...
+
+
+
+
+
+检索
+
+
+
+
+-所有文章-
+默认分类
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+
+
+varflag=newArray();
+flag[0]='2009/04/22';
+
+
+varcale=newCalendar("idCalendar",{
+SelectDay:newDate(),
+onSelectDay:function(o),
+onToday:function(o),
+onFinish:function(){
+$("idCalendarYear").innerHTML=this.Year;$("idCalendarMonth").innerHTML=this.Month;
+for(vari=0,len=flag.length;i<len;i++){
+//alert(flag[i]);
+	vard=newDate(flag[i]);
+	if(this.Year==d.getYear()){
+		if(this.Month==d.getMonth()+1)
+		{
+this.Days[d.getDate()].innerHTML=""+d.getDate()+"";
+			
+		}
+
+	}
+}
+}
+});
+$("idCalendarPre").onclick=function()
+$("idCalendarNext").onclick=function()
+
+
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));

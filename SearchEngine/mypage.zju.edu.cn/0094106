@@ -1,0 +1,206 @@
+
+
+
+
+
+0094106-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0094106";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	0094106
+0094106
+
+	永久链接:http://mypage.zju.edu.cn/0094106&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本科、博士均就读于浙江大学生物医学工程专业。现在浙江大学生物医学工程及仪器科学学院工作，曾任院长助理一职，现任浙江省心脑血管检测技术与药效评价重点实验室主任、生物医学工程教育部重点实验室副主任。2008年在美国杜克大学做访问学者，合作开展心血管生理检测及仪器方面的研究。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;近年来作为项目负责人承担并完成了国家科技部十一五支撑计划项目、浙江省重点项目、航天医学合作项目等十余项，在国内外刊物上发表论文五十余篇，其中SCI收录7篇，EI收录20余篇，并获得授权发明专利和软件著作权各一项。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;自主研发的动态心电分析系统以及新型心电工作站达到了国际同类产品的领先水平，已获得医疗仪器注册证。为航天员中心开发的心血管监测仪已成功应用于&ldquo;天宫一号&rdquo;，该仪器服务于载人交会对接任务，保障航天员的健康，并在未来航天员太空长期生存活动中发挥重要作用。
+			
+				
+			工作研究领域
+			
+			生物医学信号处理；生物医学仪器
+			
+				
+			联系方式
+			
+			电话：0571-87952131			电子信箱：ch-sun@263.net			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：陈杭
+		单位：生物医学工程与仪器科学学院生物医学工程学系
+		职称：教授
+		我的主页共被访问了10196次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

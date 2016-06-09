@@ -1,0 +1,221 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0094413";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0094413&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			1977.12－1982.12浙江医科大学医学系学生
+　　1983.01－1985.08浙江医科大学附属第二医院外科
+　　1985.09－1987.05浙江医科大学外科硕士研究生（导师：黄德瞻教授）
+　　1985.09－1986.07北京语言学院
+　　1987.06－1987.09德国弗莱堡大学,歌德语言学院
+　　1987.10－1989.10德国科隆大学医学院外科（主任：H.Troidl教授，欧洲内镜外科学会主席）
+　　1989.11－1993.09德国埃森大学医学院外科（主任：K－P.Schmit-Neuerburg教授，德国创伤外科学会主席）
+　　1992.10德国埃森大学医学院医学博士（导师：K－P.Schmit-Neuerburg教授）
+　　1993.11－1994.11浙江医科大学附属邵逸夫医院外科
+　　1994.12－浙江医科大学附属第二医院外科
+　　1995浙江医科大学附属第二医院外科副教授
+　　1998起浙江大学医学院附属第二医院外科副主任
+　　2000起浙江大学外科学教授
+　　2001起浙江大学外科学博士生导师
+　　2006起浙江大学医学院二系外科教研室副主任
+			
+				
+			工作研究领域
+			
+			胃肠胆道外科，血管外科，微创外科
+			
+				
+			联系方式
+			
+			电话：0571-87783580			电子信箱：chenli@mail.hz.zj.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：陈力
+		单位：临床医学二系
+		职称：教授
+		我的主页共被访问了7328次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	研究成果
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

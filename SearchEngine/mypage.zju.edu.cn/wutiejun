@@ -1,0 +1,209 @@
+
+
+
+
+
+吴铁军的个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0088178";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	吴铁军的个人主页
+学术交流空间
+
+	永久链接:http://mypage.zju.edu.cn/wutiejun&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			目前主要从事柔性机器人群体协同操作控制、空间行走机器人控制、用于复杂大系统的计算智能理论、海军舰艇高动态导航与制导等领域的研究，主持国家重大基础研究计划（国家973计划）课题1项、国家高技术研究与发展计划（国家863计划）课题5项、国家高技术产业化计划课题3项、国防国防科工委预研基金项目1项、各省、部委和大型企业的技术改造、技术攻关项目多项，并获国家教委科技进步一等奖1项，国家科技进步二等奖1项。已发表学术论文215篇，其中SCI收录35篇，EI收录56篇。任中国人工智能学会理事、分布式人工智能专业委员，浙江大学导航制导与控制研究所副所长，浙江大学工业控制研究所副所长，浙江大学控制科学与工程学科学位委员会主任，浙江大学航空航天学院学术委员会委员。
+			
+				
+			工作研究领域
+			
+			1、空天智能机器人协同控制
+为空间实验室研制多个智能操作臂的精密协同操作系统，并可用于多机器人协同外星探测、深海勘探和其它复杂未知环境的精密作业。
+2、导航与制导理论与方法
+研制用于超高速飞行器和深海探测器的高精度惯导系统与组合导航系统。
+
+			
+				
+			联系方式
+			
+			电话：(571)87951871（办）			电子信箱：tjwu@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：吴铁军
+		单位：航空航天学院
+		职称：教授
+		我的主页共被访问了16889次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	发表论文
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

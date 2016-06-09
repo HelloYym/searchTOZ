@@ -1,0 +1,208 @@
+
+
+
+
+
+hqm's个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0088262";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	hqm's个人主页
+hqm's个人主页
+
+	永久链接:http://mypage.zju.edu.cn/0088262&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;
+何钦铭，浙江大学计算机学院教授，博士生导师，现任浙江大学继续教育学院院长、全国干部教育培训浙江大学基地常务副主任。教育部大学计算机课程教学指导委员会副主任，全国高校计算机基础教育研究会副理事长，中国人工智能学会机器学习专委会常务理事，浙江省高校计算机类专业教学指导委员会主任。
+学术成就：曾获国家优秀教学成果二等奖（2001、2009）、浙江省科技进步二等奖（1994）、浙江省优秀教学成果一等奖（2001、2005、2009、2014）、二等奖（1997）等。曾获教育部霍英东优秀青年教师（2000）、宝钢优秀青年教师（2003）、浙江省高校教学名师（2006）等荣誉。
+			
+				
+			工作研究领域
+			
+			数据挖掘、计算系统虚拟化
+			
+				
+			联系方式
+			
+						电子信箱：hqm@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：何钦铭
+		单位：计算机科学与技术学院
+		职称：教授
+		我的主页共被访问了28510次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	发表论文
+	出版著作
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

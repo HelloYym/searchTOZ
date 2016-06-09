@@ -1,0 +1,208 @@
+
+
+
+
+
+严建华-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0085220";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	严建华
+严建华
+
+	永久链接:http://mypage.zju.edu.cn/yanjianhua&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			1962年6月生于浙江宁波。1982年浙江大学电厂热能动力专业本科毕业，1985年浙江大学工程热物理专业硕士毕业，1990年毕业于浙江大学，获博士学位，1995年晋升为教授，1996年任博导，加拿大NovaScotia技术大学和日本东京大学访问学者，现为教育部&ldquo;长江学者奖励计划&rdquo;特聘教授、浙江大学副教务长、研究生院常务副院长，兼任浙江大学能源工程设计院院长、能源工程系主任、浙江省科协常委、浙江大学热能工程研究所&ldquo;废弃物资源化清洁利用&rdquo;研究室主任、能源清洁利用国家重点实验室学术委员。任中国工程热物理学会理事、中国电机工程学会洁净发电专委会副主任委员、浙江省节能协会副理事长、浙江省资源综合利用协会副理事长、杭州市能源学会理事长、浙江省环境科学学会常务理事、浙江省科技厅固废综合处置重大科技专项专家组长，曾先后任国家教委洁净燃烧技术开放研究实验室（现能源利用与环境工程教育部重点实验室）主任、浙江大学热能工程研究所副所长兼实验室主任和浙江大学机械与能源学院常务副院长等职。曾获浙江省青年科技奖、浙江省青年科技金奖和宝钢全国优秀教师奖，入选国家百千万人才工程、原国家教委跨世纪人才、浙江省跨世纪学术和技术带头人、浙江省高校中青年学科带头人，获国务院政府特殊津贴和浙江省有突出贡献的中青年专家称号。
+			
+				
+			工作研究领域
+			
+			能源与环境工程、燃烧学、废弃物无害化能源化利用、燃烧诊断等基础理论和工程应用研究。在煤和废弃物的燃烧及污染控制的基础研究和技术开发方面取得了显著成绩。先后承担和参加了科研项目100余项（包括国家自然科学基金重点项目、面上基金项目、攀登计划项目、863重点项目、973项目、国家科技攻关和国家发改委高技术产业化示范项目等）。“煤水混合物异重床结团燃烧技术”1997年获国家发明二等奖，“生活垃圾循环流化床清洁焚烧发电集成技术”2006年获国家科技进步二等奖。另获省部级科技进步一等奖1项、二等奖3项、三等奖1项、国家教学成果二等奖2项、全国优秀教材奖1项及全国优秀专利奖1项，发表学术论文300余篇，中国专利18项。
+			
+				
+			联系方式
+			
+			电话：0571-87952738，879526			电子信箱：yanjh@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：严建华
+		单位：研究生院
+		职称：教授
+		我的主页共被访问了32731次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+	出版著作
+	研究成果
+	专利成果
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

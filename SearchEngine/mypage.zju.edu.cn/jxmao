@@ -1,0 +1,220 @@
+
+
+
+
+
+ZJU-Mao-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0095358";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	ZJU-Mao
+
+
+	永久链接:http://mypage.zju.edu.cn/jxmao&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+访问学者&nbsp;2001～2002&nbsp;北海道大学(日本)&nbsp;&nbsp;&nbsp;
+&nbsp;
+博士&nbsp;&nbsp;&nbsp;1992～1995&nbsp;&nbsp;浙江大学
+硕士&nbsp;&nbsp;&nbsp;1988～1991&nbsp;&nbsp;杭州大学
+学士&nbsp;&nbsp;&nbsp;1984～1988&nbsp;&nbsp;杭州大学
+&nbsp;1995年5月浙江大学博士毕业后至今在浙江大学催化研究所工作。2001年6月-2002年8月到日本北海道大学地球环境研究科作为访问学者进行合作研究一年。曾主持完成了一项省教委基金项目、一项国家教委留学回国人员基金资助项目、一项国家自然科学基金项目。参加过多项国家和省自然科学基金研究工作。&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;
+			
+				
+			工作研究领域
+			
+			研究方向：
+
+催化新材料，酸碱催化，绿色化学，精细合成,反应动力学等.
+
+
+			
+				
+			联系方式
+			
+			电话：13588457945			电子信箱：jxmao@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：毛建新
+		单位：化学系
+		职称：副教授
+		我的主页共被访问了4378次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		专利成果
+	教学工作
+	工作研究项目
+	发表论文
+	自然风光
+	集体活动
+	美文欣赏
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,213 @@
+
+
+
+
+
+虞云龙-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0084273";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	虞云龙
+欢迎您的访问
+
+	永久链接:http://mypage.zju.edu.cn/ylyu&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			1984年毕业于北京师范大学化学系，获学士学位；1990年、1995年毕业于浙江农业大学分获硕士和博士学位，研究方向为农药生态毒理学；1995-1997年在中国科学院广州地球化学研究所有机地球化学国家重点实验室和广东省环境资源利用与保护重点实验室从事博士后-环境生物地球化学研究；1997年入浙江农业大学工作至今。2004年入选浙江省&ldquo;151人才工程&rdquo;第二层次，2005年入选教育部新世纪优秀人才支持计划。主要从事农药残留分析、农药生态毒理、农药残留与农产品安全、生态风险评价及其生物修复、农药污染生态化学方面等研究，先后主持国家自然科学基金7项、863课题2项、973子课题2项、浙江省自然科学基金重点项目1项、浙江省自然科学基金面上项目2项、浙江省科技厅重点项目1项、环保部公益性科研专项1项、中-意合作项目1项等，在JofAgricultureandFoodChemistry、Chemosphere、EnvironmentalPollution、JournalofHazardousMaterials、Biodegradation、微生物学报、环境科学学报、土壤学报等刊物发表论文70余篇，其中SCI收录39篇，获6项国家发明专利。
+			
+				
+			工作研究领域
+			
+			农药残留分析;
+农药生态毒理;
+农药残留与农产品安全;
+生态风险评价及其生物修复;
+农药污染生态化学
+
+			
+				
+			联系方式
+			
+			电话：0571-88982433			电子信箱：ylyu@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：虞云龙
+		单位：农业与生物技术学院植物保护系
+		职称：教授
+		我的主页共被访问了16272次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

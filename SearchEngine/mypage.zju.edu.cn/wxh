@@ -1,0 +1,210 @@
+
+
+
+
+
+王新华-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0093052";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	王新华
+个人主页
+
+	永久链接:http://mypage.zju.edu.cn/wxh&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			1986-1993年就读于浙江大学材料系，先后获得浙江大学学士和硕士学位，1999-2003赴日本东京大学材料系攻读博士学位，2003年获东京大学工学博士学位，2005年曾作为&ldquo;ResearchFellow&rdquo;在新加坡国立大学从事金属氮氢化物储氢材料研究工作。现任浙江大学材料系教授，博士生导师。1993年起在浙江大学材料系留校从事能源材料（主要研究方向储氢材料与氢能技术）和稀土永磁材料的基础研究及其应用研究，近年来作为项目负责人承担(完成)国家级和省部级科研项目十余项，包括国家&ldquo;863&rdquo;计划项目3项、国家自然科学基金3项以及国际合作项目、教育部留学归国人员基金、浙江省自然科学基金、浙江省科技计划项目等；作为主要研究成员先后参与国家&ldquo;973&rdquo;计划项目、国家&ldquo;863&rdquo;计划项目、国家自然科学基金重点和面上项目等十余项。研究成果获2013年度国家发明二等奖1项、2010年度教育部高等学校科学技术进步奖一等奖1项和2009年度浙江省科学技术奖一等奖1项，授权发明专利9项，先后在国内外主要学术刊物发表学术论文100余篇。
+			
+				
+			工作研究领域
+			
+			能源新材料
+新型储氢材料与氢能技术
+金属氢化物及其应用
+稀土永磁材料
+			
+				
+			联系方式
+			
+			电话：0571-87952716;13575739892			电子信箱：xinhwang@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：王新华
+		单位：材料科学与工程学系
+		职称：教授
+		我的主页共被访问了24789次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	研究成果
+	奖励荣誉
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,235 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0092176";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0092176&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			男,1966年2月出生,山东蓬莱人，管理学博士，现任浙江大学管理学院企业管理系教授、企业管理专业博士生导师、企业管理系主任。
+　　学习经历：
+　　1985年9月至1989年7月,就读于浙江大学工业管理工程学系,获工学学士学位。
+　　1990年9月至1992年6月,就读于浙江大学哲学社会学系科学技术哲学专业,获哲学硕士学位。
+　　1994年3月至1998年2月,在浙江大学工商管理学院在职攻读管理科学与工程专业博士学位,获管理学博士学位。
+　　出国经历：
+　　2000年9月至2001年9月，在&ldquo;包兆龙包玉刚中国留学生奖学金&rdquo;的资助下赴英国阿斯顿大学商学院进行访问研究。
+　　2002年6月至2002年9月，在&ldquo;国家留学基金&rdquo;的资助下赴美国加州州立大学海沃德分校进行访问研究。
+　　2004年8月16日至2004年9月20日，在加拿大政府&ldquo;加拿大研究特别奖励项目&rdquo;的资助下赴加拿大女王大学政策研究学院进行访问研究。
+　　2005年4月至2005年7月，在&ldquo;浙江大学汤永谦学科建设发展基金&rdquo;的资助下赴英国伦敦经济学院进行访问研究。
+工作经历：
+　　1992年8月至1994年3月,在浙江大学哲学社会学系任助教。1994年4月至1998年6月,在浙江大学哲学社会学系任讲师。　　1998年7月至1999年6月,在浙江大学哲学社会学系任副教授。
+　　1999年7月至2002年11月，在浙江大学经济学院公共管理系任副教授。
+　　2002年12月至2005年8月，在浙江大学经济学院公共管理系任教授。
+　　2005年9月至今，在浙江大学管理学院企业管理系任教授。
+　　科研教学概况：
+　　现在的主要研究方向为：组织理论与组织创新、知识理论与知识管理、战略更新与竞争优势、创新与创业管理等。曾出版专著2部、合著1部、编著教材1本、参编教材4本，发表论文80余篇，作为课题负责人主持国家自然科学基金2项、其他纵向和横向课题多项，作为主要参加者获得省部级奖励多项。
+　　目前主讲主要课程：中外管理思想史（全校本科通识课）、管理学（MBA、科学类硕士生学位课）、创业管理（科学类硕士生专业方向课）、组织理论前沿（博士生专题课）。
+ProfessorGangZhangwasborninPenglai,Shangdong,inFebruary,1966.
+DoctorofManagement,HeiscurrentprofessoranddoctoralsupervisoroftheDepartmentofEnterpriseManagementatZhejiangUniversity,directorofDepartmentofEnterpriseManagement.
+Learningexperience:
+B.A.industrialengineeringmanagement,ZhejiangUniversity,(1985-1989)
+M.A.DepartmentofPhilosophy,ZhejiangUniversity.(1990-1992)
+Ph.D.Businessandmanagementscienceandengineering,ZhejiangUniversity(1994-1998)
+Overseasexperience:
+VisitedAstonUniversityBusinessSchoolinBritish,fundedby&quot;PaoYu-KongandPaoZhao-LongscholarshipsforChinesestudentsstudyingabroad&quot;(2000.9&ndash;2001.9).
+VisitedHaywardCampusofCaliforniaStateUniversity,fundedby&quot;ChinaScholarshipCouncil&quot;(2002.6-2002.9).
+VisitedPolicyResearchInstituteatQueen'sUniversityinCanada,fundedby&quot;Canadianresearchersspecialincentivesforprojects&quot;,(2004.8-2004.9).
+VisitedLondonSchoolofEconomics,fundedby&quot;ZhejiangUniversityTang-Yongqiandisciplinesdevelopmentfund&quot;(2005.4-2005.7).
+Workexperience:
+Assistant,DepartmentofPhilosophyandSociology,ZhejiangUniversity(1992.8-1994.3)
+Lecturer.DepartmentofPhilosophyandSociology,ZhejiangUniversity(1994.4to1998.7)
+Associateprofessor,DepartmentofPhilosophyandSociology,ZhejiangUniversity(1998.7-1999.6)
+AssociateProfessor,DepartmentofManagement,CollegeofEconomics,ZhejiangUniversity(1999.7-2002.11)
+Professor,DepartmentofManagement.CollegeofEconomics,ZhejiangUniversity(2002.12-2005.8)
+Professor,DepartmentofBusinessManagement,ZhejiangUniversity.(2005-)
+ResearchandTeaching:
+Majorresearchfocusesonthetheoryoforganizationandorganizationalinnovation,theoriesofknowledgeandknowledgemanagement,strategicupdateandcompetitiveadvantage,innovationandentrepreneurialmanagement.Hehaspublished2books,1co-authored,editedatextbookand4teachingbooks,publishedmorethan80papers,inchargeof2nationalnaturalsciencefundandotherverticalandhorizontaltopicsasataskprincipal,wonanumberofprovincialandministerial-levelawardsasamajorparticipant.
+courses:HistoryofChineseandForeignmanagement,andmanagement(MBA,mastersdegree),theventuremanagement,OrganizationalTheory(doctoralcoursesondissertation).
+			
+				
+			工作研究领域
+			
+			组织理论与组织创新、知识理论与知识管理、战略更新与竞争优势、创新与创业管理等
+			
+					
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：张钢
+		单位：管理学院企业管理系
+		职称：教授
+		我的主页共被访问了4188次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,202 @@
+
+
+
+
+
+郑经武-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0096259";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	郑经武
+
+
+	永久链接:http://mypage.zju.edu.cn/0096259&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			主要从事植物病原线虫学、分子植物线虫学、植物线虫病害的发生及治理等领域，包括线虫的形态学分类、分子进化、分子分类与诊断、线虫检疫与生物信息技术等方面的研究与教学。先后发表植物线虫方面的学术论文70余篇，其中被SCI收录的有16篇。现主要承担国家自然科学基金项目、农业部公益性（农业）科研专项、&ldquo;十一五&rdquo;国家科技支撑计划等子项目、教育部留学回国基金和浙江省科技计划等项目。目前研究的线虫类群：胞囊类线虫（Heteroderaspp.Globoderaspp.）、根结类线虫(Meloidogyne
+			
+				
+			工作研究领域
+			
+			植物病原线虫学/植物检疫学
+			
+				
+			联系方式
+			
+			电话：0571-86971580			电子信箱：jwzheng@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：郑经武
+		单位：农业与生物技术学院生物技术研究所
+		职称：教授
+		我的主页共被访问了2720次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

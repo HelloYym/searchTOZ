@@ -1,0 +1,265 @@
+
+
+
+
+
+何若-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0004192";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	何若
+
+
+	永久链接:http://mypage.zju.edu.cn/heruo&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+<spanstyle="font-size:10.5pt;font-family:宋体;
+mso-ascii-font-family:&quot;TimesNewRoman&quot;;mso-bidi-font-family:&quot;TimesNewRoman&quot;;
+color:black;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:
+ZH-CN;mso-bidi-language:AR-SA">何若<spanstyle="font-size:10.5pt;font-family:
+宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;mso-bidi-font-family:&quot;TimesNewRoman&quot;;
+color:black;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:
+ZH-CN;mso-bidi-language:AR-SA">，女，博士，<spanstyle="mso-bidi-font-weight:
+bold">副教授。<spanlang="EN-US"style="font-size:10.5pt;font-family:
+&quot;TimesNewRoman&quot;;mso-fareast-font-family:宋体;color:black;mso-font-kerning:1.0pt;
+mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA">2004<spanstyle="font-size:10.5pt;font-family:宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;
+mso-bidi-font-family:&quot;TimesNewRoman&quot;;color:black;mso-font-kerning:1.0pt;
+mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA">年毕业于浙江大学，获环境工程专业博士学位，<spanlang="EN-US"style="font-size:10.5pt;font-family:&quot;TimesNewRoman&quot;;mso-fareast-font-family:
+宋体;color:black;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:
+ZH-CN;mso-bidi-language:AR-SA">2007<spanstyle="font-size:10.5pt;
+font-family:宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;mso-bidi-font-family:
+&quot;TimesNewRoman&quot;;color:black;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;
+mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA">年晋升为副教授，<spanlang="EN-US"style="font-size:10.5pt;font-family:&quot;TimesNewRoman&quot;;mso-fareast-font-family:
+宋体;color:black;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:
+ZH-CN;mso-bidi-language:AR-SA">2009.4-2011.11<spanstyle="font-size:
+10.5pt;font-family:宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;mso-bidi-font-family:
+&quot;TimesNewRoman&quot;;color:black;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;
+mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA">年在美国<spanlang="EN-US"style="font-size:10.5pt;font-family:&quot;TimesNewRoman&quot;;mso-fareast-font-family:
+宋体;color:black;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:
+ZH-CN;mso-bidi-language:AR-SA">UAFInstituteofArcticBiology<spanstyle="font-size:10.5pt;font-family:宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;
+mso-bidi-font-family:&quot;TimesNewRoman&quot;;color:black;mso-font-kerning:1.0pt;
+mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA">做博士后研究，期间在<spanlang="EN-US"style="font-size:10.5pt;font-family:&quot;TimesNewRoman&quot;;mso-fareast-font-family:
+宋体;color:black;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:
+ZH-CN;mso-bidi-language:AR-SA;mso-bidi-font-style:italic">MichiganStateUniversity<spanstyle="font-size:10.5pt;font-family:宋体;mso-ascii-font-family:
+&quot;TimesNewRoman&quot;;mso-bidi-font-family:&quot;TimesNewRoman&quot;;color:black;
+mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;
+mso-bidi-language:AR-SA;mso-bidi-font-style:italic">，<spanlang="EN-US"style="font-size:10.5pt;font-family:&quot;TimesNewRoman&quot;;mso-fareast-font-family:
+宋体;color:black;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:
+ZH-CN;mso-bidi-language:AR-SA;mso-bidi-font-style:italic">CenterforMicrobialEcology<spanstyle="font-size:
+10.5pt;font-family:宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;mso-bidi-font-family:
+&quot;TimesNewRoman&quot;;color:black;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;
+mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA">和<spanlang="EN-US"style="font-size:10.5pt;font-family:&quot;TimesNewRoman&quot;;mso-fareast-font-family:
+宋体;color:black;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:
+ZH-CN;mso-bidi-language:AR-SA">RibosomalDatabaseProject<spanstyle="font-size:10.5pt;font-family:宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;
+mso-bidi-font-family:&quot;TimesNewRoman&quot;;color:black;mso-font-kerning:1.0pt;
+mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA">进行访问研究<spanstyle="font-size:10.5pt;font-family:宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;
+mso-bidi-font-family:&quot;TimesNewRoman&quot;;color:black;mso-ansi-language:EN-US;
+mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA">。<spanstyle="mso-font-kerning:
+1.0pt">主要从事固体废弃物处理与资源化、有机污染物代谢途径、分子机理的研究工作。<spanstyle="font-size:10.5pt;font-family:宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;
+mso-bidi-font-family:&quot;TimesNewRoman&quot;;color:black;mso-ansi-language:EN-US;
+mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA"><spanstyle="mso-font-kerning:
+1.0pt"/><spanstyle="font-size:10.5pt;font-family:宋体;
+mso-ascii-font-family:&quot;TimesNewRoman&quot;;mso-hansi-font-family:&quot;TimesNewRoman&quot;;
+mso-bidi-font-family:&quot;TimesNewRoman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA">目前已发表论文<spanlang="EN-US"style="font-size:10.5pt;font-family:&quot;TimesNewRoman&quot;;mso-fareast-font-family:
+宋体;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;
+mso-bidi-language:AR-SA">40<spanstyle="font-size:10.5pt;font-family:
+宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;mso-hansi-font-family:&quot;TimesNewRoman&quot;;
+mso-bidi-font-family:&quot;TimesNewRoman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA">余篇
+<spanstyle="font-size:10.5pt;font-family:宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;
+mso-bidi-font-family:&quot;TimesNewRoman&quot;;color:black;mso-ansi-language:EN-US;
+mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA"><spanstyle="mso-font-kerning:
+1.0pt"/>
+&nbsp;
+			
+				
+			工作研究领域
+			
+			固体废弃物处理与资源化；有机污染物代谢途径、分子机理研究
+			
+				
+			联系方式
+			
+			电话：0571-88982221			电子信箱：heruo@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：何若
+		单位：环境与资源学院环境工程系
+		职称：副教授
+		我的主页共被访问了4412次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

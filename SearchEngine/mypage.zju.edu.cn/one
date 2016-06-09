@@ -1,0 +1,206 @@
+
+
+
+
+
+张月飞-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0088214";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	张月飞
+
+
+	永久链接:http://mypage.zju.edu.cn/one&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			1964、11月出生于浙江嵊州，1986.6毕业于原杭州大学经济系金融专业，1989.2毕业于中国人民银行研究生院金融学，获经济学硕士学位。1995年获香港银行学会银行从业资格证书，1998.9月赴法国POITIERS高等商学院作高访学者一年，2009.8赴台湾淡江大学等作学术交流，2008年在中国美丽乡村－－浙江湖州市安吉县挂职锻炼一年。浙江省保险学会学术委员会委员，嵊州合作银行独立董事。
+			
+				
+			工作研究领域
+			
+			商业银行管理，农村金融，保险理论与实践
+			
+				
+			联系方式
+			
+			电话：13857185066			电子信箱：zhang_yf2@163.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：张月飞
+		单位：经济学院金融学系
+		职称：副教授
+		我的主页共被访问了7801次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		研究成果
+	发表论文
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

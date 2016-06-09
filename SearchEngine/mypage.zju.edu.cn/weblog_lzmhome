@@ -1,0 +1,483 @@
+
+
+
+
+
+陆哲明教授的博客-博客
+
+
+
+
+
+
+varctxPath="http://mypage.zju.edu.cn";
+varb_handle="lzmhome";
+varcfg_weblog="http://mypage.zju.edu.cn/weblog";
+vard=newDate()
+varselyear=d.getFullYear();
+varselmonth=d.getMonth()+1;
+
+
+
+
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	color:#111;
+	margin-right:10px;	
+}
+#mainlinkullia,.tagsa:hover{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+.tagsa{
+	margin-right:10px;
+}
+img{
+	border:none;
+}
+
+
+
+
+
+
+
+
+
+
+	
+		首页
+		帮助
+		登录
+	
+
+
+
+
+
+
+	陆哲明教授的博客
+路漫漫其修远兮，吾将上下而求索
+
+	永久链接:http://mypage.zju.edu.cn/weblog/lzmhome&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+
+
+	中文主页
+英文主页
+			博客
+
+
+
+
+
+
+
+
+
+
+			
+				
+
+	
+[1/1]
+首页	上一页下一页末页
+
+	
+
+浏览模式:普通|列表
+
+
+
+
+
+
+		主成分分析
+
+作者:陆哲明日期:2010-01-08Friday
+
+
+
+主成分分析主成分分析（principalcomponentsanalysis，PCA）又称：主分量分析，主成分回归分析法。下面逐步展开介绍一、什么是主成分分析法　　主成分分析也称主分量分析，旨在利用降维的思想，把多指标转化为少数几个综合指标。　　在统计学中，主成分分...
+查看更多...
+
+Tags:
+主成分分析
+	
+
+
+
+分类:数理知识|			固定链接|评论总数0|
+			阅读次数114
+
+
+
+
+
+
+
+		如何顺利博士毕业之三开题
+
+作者:陆哲明日期:2010-01-07Thursday
+
+
+
+开题开题是博士课题的重要一环，主要是要花半年到一年时间的文献阅读。开题分为：文献收集、文献泛读和文献归类、文献精读、研究分支确认和题目确定、报告撰写等五步。首先，根据选题进行文献收集。先在Google中简单搜索一下，看看所研究领域的关注度，顺便...
+查看更多...
+
+Tags:
+毕业开题
+	
+
+
+
+分类:教研之道|			固定链接|评论总数0|
+			阅读次数202
+
+
+
+
+
+
+
+		如何顺利博士毕业之二选题
+
+作者:陆哲明日期:2010-01-07Thursday
+
+
+
+选题1、选题要求（1）理论性。博士课题必须具有理论性，不能是纯软件开发、纯硬件开发和纯系统设计。通常必须是基础研究（数学、物理、化学、生命、医学等）或应用基础研究类（信息、计算机、机电、电气等工科）课题。若搞软件开发，必须附带软件分析与测试新理论新...
+查看更多...
+
+Tags:
+毕业选题
+	
+
+
+
+分类:教研之道|			固定链接|评论总数0|
+			阅读次数182
+
+
+
+
+
+
+
+		如何顺利博士毕业之一博士生素质要求
+
+作者:陆哲明日期:2010-01-06Wednesday
+
+
+
+博士生素质要求我认为博士生要顺利毕业要具备六大要素：基础、优势、勤奋、效率、创新、机遇。（1）基础。指的是英语、数学、编程、思维等四项基础。英语要过关，至少六级水平，科技英语水平要好。这平时可以通过阅读文献和模仿写作得到提高，通过查Google...
+查看更多...
+
+Tags:
+毕业素质
+	
+
+
+
+分类:教研之道|			固定链接|评论总数0|
+			阅读次数235
+
+
+
+
+
+
+
+		矢量量化的基本概念
+
+作者:陆哲明日期:2010-01-06Wednesday
+
+
+
+矢量量化的基本概念一、矢量量化概念的引入在数字通信理论中，经常提到信源编码和信道编码的概念。前者将原信号转换为适合于在信道中传输的数字形式，其主要目的是提高传输效率；后者的主要目的是使数字信号在有噪声的信道上进行可靠的通信。这里主要探讨...
+查看更多...
+
+Tags:
+数据压缩矢量量化
+	
+
+
+
+分类:多媒体信号处理|			固定链接|评论总数0|
+			阅读次数108
+
+
+
+
+
+
+
+		信息隐藏技术的主要分支简介
+
+作者:陆哲明日期:2010-01-05Tuesday
+
+
+
+信息隐藏技术的主要分支简介信息隐藏学是一门新兴的交叉学科，在计算机、通讯、保密学等领域有着广阔的应用前景。其研究涉及密码学，图像处理，模式识别，数学和计算机科学等领域。按隐藏技术的应用目的和载体对象不同，信息隐藏可分为许多分支领域。下面对...
+查看更多...
+
+Tags:
+信息安全信息隐藏
+	
+
+
+
+分类:信息隐藏|			固定链接|评论总数0|
+			阅读次数104
+
+
+
+
+
+
+
+		信息隐藏基本概念
+
+作者:陆哲明日期:2010-01-05Tuesday
+
+
+
+信息隐藏基本概念一、信息隐藏概念20世纪90年代早期，信息隐藏的各种应用引起不同研究团体的关注和重视。1996年5月第一次国际信息隐藏学术研讨会在英国剑桥的召开，使这些独立的研究团体走到一起，从而在信息隐藏的一些基本概念和术语上达到共识。信息隐藏...
+查看更多...
+
+Tags:
+信息安全信息隐藏
+	
+
+
+
+分类:信息隐藏|			固定链接|评论总数0|
+			阅读次数100
+
+
+			
+			
+		
+		
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+	
+	
+		姓名：陆哲明
+		单位：航空航天学院
+		职称：教授、博导
+		我共发表了7篇文章
+		共收到0条评论
+		我的主页共被访问了3767次
+	
+	
+	
+	
+
+
+我的文章分类
+
+	多媒体信号处理
+		
+模式识别
+		
+信息隐藏
+		
+教研之道
+		
+程序与算法设计
+		
+数理知识
+		
+硬件和系统设计
+		
+学生天地
+		
+
+
+
+
+日历
+
+
+
+>>
+年月
+
+
+
+日
+一
+二
+三
+四
+五
+六
+
+
+
+
+
+
+
+
+
+
+
+我的最新文章
+
+
+		主成分分析
+如何顺利博士毕业之三开题
+如何顺利博士毕业之二选题
+如何顺利博士毕业之一博...
+矢量量化的基本概念
+信息隐藏技术的主要分支...
+信息隐藏基本概念
+	
+
+
+
+
+我的热点文章
+
+
+				如何顺利博士毕业之一博...
+		如何顺利博士毕业之三开题
+		如何顺利博士毕业之二选题
+		主成分分析
+		矢量量化的基本概念
+		信息隐藏技术的主要分支...
+		信息隐藏基本概念
+
+	
+
+
+我收到的评论
+
+	
+	
+
+
+我的文章汇总
+
+		2010年1月[7]
+		
+	
+
+
+链接
+
+
+
+
+
+
+检索
+
+
+
+
+-所有文章-
+多媒体信号处理
+模式识别
+信息隐藏
+教研之道
+程序与算法设计
+数理知识
+硬件和系统设计
+学生天地
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+
+
+varflag=newArray();
+flag[0]='2010/01/06';
+flag[1]='2010/01/07';
+flag[2]='2010/01/05';
+flag[3]='2010/01/08';
+
+
+varcale=newCalendar("idCalendar",{
+SelectDay:newDate(),
+onSelectDay:function(o),
+onToday:function(o),
+onFinish:function(){
+$("idCalendarYear").innerHTML=this.Year;$("idCalendarMonth").innerHTML=this.Month;
+for(vari=0,len=flag.length;i<len;i++){
+//alert(flag[i]);
+	vard=newDate(flag[i]);
+	if(this.Year==d.getYear()){
+		if(this.Month==d.getMonth()+1)
+		{
+this.Days[d.getDate()].innerHTML=""+d.getDate()+"";
+			
+		}
+
+	}
+}
+}
+});
+$("idCalendarPre").onclick=function()
+$("idCalendarNext").onclick=function()
+
+
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));

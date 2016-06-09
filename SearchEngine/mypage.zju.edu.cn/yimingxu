@@ -1,0 +1,208 @@
+
+
+
+
+
+许宜铭-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0097222";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	许宜铭
+最大的优点就是做到了,最大的缺点就是不知道.
+
+	永久链接:http://mypage.zju.edu.cn/yimingxu&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+1982年原扬州师范学院学士,1997年加拿大Calgary大学博士.1987、1992年Concordia大学访问学者、ResearchAssistant,1997年Calgary大学ResearchAssociate.1982、1988年原扬州师范学院助教、讲师,1998、2001、2011年浙江大学副教授、教授、求是特聘教授.
+			
+				
+			工作研究领域
+			
+			主要从事半导体光催化、金属配合物光化学的研究,力求利用太阳光,实现重要有机物在常温常压下的矿化性分解和选择性合成.研究方法包括纳米、多孔无机材料的合成、表面修饰、光电化学测试、纳秒级超快反应动力学等.该研究小组主要成绩:发现酞菁钯在同系物中具有最高的单线态氧生成量子产率;首创可通过光敏再生的有机膨润土.锐钛矿、金红石、板钛矿二氧化钛的固有光催化活性与煅烧温度呈指数关系,并且几乎相同;锐钛矿和金红石之间的表观光催化协同效应来源于相间氧分子转移,而不是电荷转移.澄清各种晶型氧化铁参与的有机物光降解机理主要属于半导体光催化,而不是配合物光解.提出氟离子促进羟基自由基脱附的双电层半导体光催化机理;磷钨等杂多酸参与的有机物光降解的决速步骤是氢氧自由基的生成和消耗;金红石二氧化钛、钨酸铋、钨酸铜光催化还原氧气起始于单步双电子过程.
+			
+				
+			联系方式
+			
+			电话：+8657187952410			电子信箱：xuym@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：许宜铭
+		单位：化学系
+		职称：教授
+		我的主页共被访问了43645次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	发表论文
+	专利成果
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

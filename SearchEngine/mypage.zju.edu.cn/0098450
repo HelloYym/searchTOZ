@@ -1,0 +1,255 @@
+
+
+
+
+
+习玲玲-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0098450";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	习玲玲
+
+
+	永久链接:http://mypage.zju.edu.cn/0098450&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			现任浙江大学化学系副教授。1998.6&nbsp;杭州大学化学系分析化学硕士毕业，1998.8至今相继在浙江大学药学院和化学系任教，2008.6浙江大学化学系分析化学博士毕业。现主要负责《仪器分析》、《大学化学实验G》和《大学化学实验A》的教学工作。主要研究液相色谱-脉冲安培电化学检测技术、离子液体载金属粒子修饰电极及稀土/金属粒子修饰电极的液相色谱-直流安培电化学法在抗生素药物分析和质量控制方面的应用；另外还将纳米金属粒子和导电聚合物膜电化学传感器应用到食品中抗氧化剂、复杂生物样品中抗坏血酸，甲氨蝶呤，叶酸，多巴胺等生物活性物质的测定。主持国家自然科学基金，浙江省自然科学基金和浙江省科技计划项目等项目,在《JournalofchromatographyA》、《Talanta》、《Journalofelectroanalyticalchemistry》和《分析化学》等刊物上发表SCI研究论文。
+[1].LinglingXi*(习玲玲),FengliWang,ZuoyiZhu,ZhongpingHuang,Yanzhu，Talanta,119,440-446,2014.
+
+
+[2].ZuoyiZhu,HongweiWu,ShuchaoWu,ZhongpingHuang,YanZhu,LinglingXi*(习玲玲),JournalofChromatographyA,1283,62-67,2013.
+
+
+[3].LinglingXi*(习玲玲),ZuoyiZhu,FengliWang,JournaloftheElectrochemicalSociety,160,H327-H334,2013.
+
+
+[4].ZuoyiZhu,FengliWang,FengmeiWang,LinglingXi*(习玲玲),JournalofElectroanalyticalChemistry,708,13-19,2013.
+
+
+[5].ZhongpingHuang,LinglingXi(习玲玲),QamarSubhani,WenwuYan,WeiqiangGuo,YanZhu*,Carbon,62,127-134,2013.
+
+
+[6].何世伟，吴宏伟，习玲玲*，分析化学，41(5)，766-770，2013.
+
+
+[7].王凤丽,汪凤梅,习玲玲*,朱作艺,黄忠平,朱岩,分析化学，41(10)，1601-1605，2013.
+
+
+[8].ShuchaoWu,BingchengYang,LinglingXi(习玲玲),YanZhu*,JournalofChromatographyA,1229,288-292,2012.
+
+
+[9].DandanRen,JingangXu,LinglingXi*(习玲玲),JournalofChromatographicScience,49,612-616,2011.
+
+
+[10].LinglingXi*(习玲玲),DandanRen,JinwenLuo,YanZhu，JournalofElectroanalyticalChemistry,650,127-134,2010.
+
+
+[11].LinglingXi*(习玲玲),PeiMinZhang,YanZhu,ChineseChemicalLetter,20(10),1245–1247,2009.
+
+
+[12].习玲玲，朱岩*,分析化学,36(5),678-682，2008.
+
+
+[13].习玲玲*，朱岩,分析化学，35(5),703-706，2007.
+
+
+[14].习玲玲，朱岩*,分析化学，34（12），1763-1766,2006.
+
+
+[15].LinglingXi(习玲玲),GenfuWu,YanZhu,JournalofChromatographyA,1115，202-207,2006.
+
+
+[16].习玲玲*，施清照，分析化学，29(12)，1457-1460，2001.
+
+
+			
+				
+			工作研究领域
+			
+			电分析化学；液相色谱-电化学联用技术；抗生素药物分析和食品分析；生物传感器
+			
+				
+			联系方式
+			
+			电话：18657193155			电子信箱：xll98731@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：习玲玲
+		单位：化学系
+		职称：副教授
+		我的主页共被访问了15244次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	发表论文
+	实验室介绍
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

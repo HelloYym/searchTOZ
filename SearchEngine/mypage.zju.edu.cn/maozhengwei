@@ -1,0 +1,215 @@
+
+
+
+
+
+毛峥伟的主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0009137";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	毛峥伟的主页
+
+
+	永久链接:http://mypage.zju.edu.cn/maozhengwei&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			毛峥伟，博士，副教授，浙江大学&ldquo;求是青年学者&rdquo;，博士生导师。1980年6月生于浙江杭州，1998年保送进入浙江大学混合班（竺可桢学院）学习，2002年获高分子材料与工程专业学士学位。同年保送浙江大学高分子系研究生，指导老师为沈家骢院士和高长有教授，2007年于获得材料学博士学位。2007.8-2009.12在德国马普胶体与界面研究所从事博士后工作，合作教授为HelmuthMoehwald教授。2009年12月起在浙江大学高分子系工作，2010年4月起任副教授。作为负责人主持国家基金、浙江省&ldquo;钱江人才&rdquo;计划、教育部博士点基金各一项，作为骨干参与国家基金重点项目和重大国际合作项目各一项。在AngewChem,Nanolett,JACS,Biomaterials,Advancedfunctionalmaterials等本领域顶级和权威期刊上发表SCI论文50余篇，他人引用1000余次，H因子为18。主要研究兴趣为胶体微粒与细胞的相互作用及其在生物医学领域中的应用。
+&nbsp;
+联系方式：
+地址：浙江大学玉泉校区第八教学大楼707室
+电话：0571-87951922
+邮箱：zwmao@zju.edu.cn
+&nbsp;
+&nbsp;
+每年招收博士和硕士研究生，欢迎有创新精神，勤奋刻苦的学生和我们一起做有趣的研究！
+&nbsp;
+同时欢迎本科生加入我们！
+			
+				
+			工作研究领域
+			
+			纳米生物材料
+			
+				
+			联系方式
+			
+			电话：0571-87951922			电子信箱：zwmao@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：毛峥伟
+		单位：高分子科学与工程学系
+		职称：副教授
+		我的主页共被访问了4613次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	研究成果
+	学术交流（讲座报告）
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,207 @@
+
+
+
+
+
+堂堂正正做人-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0000159";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	堂堂正正做人
+爽快
+
+	永久链接:http://mypage.zju.edu.cn/zhangliping&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			张丽萍，女，1998年中国科学院水土保持研究所获理学博士学位，同年进入南京大学自然地理博士后流动站工作，2000年10月作为引进人才，来到浙江大学环境与资源学院。
+目前主要从事环境地学和水土环境工程方面的研究。重点研究坡面侵蚀产流产沙和河流水文泥沙、水土保持措施设置和水土保持规划、水域面源污染机理和控制技术、水源地水土资源保护、水域毒性污染物质的来源与转归及控制技术。尤其专长于人为过程造成的环境退化问题研究，曾参加过三峡库区和晋、陕、蒙煤炭基地等大型工程的生态环境影响和恢复研究工作，在城市化过程中的生态环
+			
+				
+			工作研究领域
+			
+			土壤侵蚀与水土保持
+水土环境工程
+坡地水文与泥沙运动学
+
+			
+				
+			联系方式
+			
+						电子信箱：lpzhang@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：张丽萍
+		单位：环境与资源学院资源科学系
+		职称：教授
+		我的主页共被访问了3705次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

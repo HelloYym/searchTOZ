@@ -1,0 +1,210 @@
+
+
+
+
+
+杜永忠-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0005127";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	杜永忠
+学术介绍
+
+	永久链接:http://mypage.zju.edu.cn/duyongzhong&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;1969年5月生，浙江淳安人。1991年毕业于浙江农业大学食品科技系，1999年和2002年分别获得日本东京农工大学硕士和博士学位，2002年至2005年3月日本产业技术综合研究所特别研究员；2005年4月浙江大学药学院药物制剂研究所副教授。2010年12月晋升教授。主要从事生物材料、药物的控制释放和靶向给药技术研究。获浙江省151人才二层次培养资助。在AngewandteChemieInternationalEdition，ACSNANO，Biomaterials，JournalofBiomedicalNanotechnology，ChemicalCommunications，Nanomedicine:Nanotechnology,BiologyandMedicine，MolecularPharmaceutics，Macromolecules，Biomacromolecules，JournalofPolymerSciencePartA:Polymerchemistry，GeneTherapy等国际刊物上已发表SCI收录论文100余篇，在国际学术会议上发表论文32篇；获得美国发明专利授权1项，日本发明专利8项，申请中国发明专利30项，其中获得授权26项。研究成果获得浙江省科学技术一等奖、高等学校科学研究优秀成果自然科学二等奖和浙江省科学技术三等奖各一项。
+			
+				
+			工作研究领域
+			
+			1.生物材料的合成及其在缓控释递药系统中的应用
+2.分子靶向给药系统（肿瘤、基因治疗、神经系统疾病、细菌感染与脏器损伤）的构建及其构效关系研究
+3.分子靶向对比剂
+
+			
+				
+			联系方式
+			
+			电话：0571-88208435			电子信箱：duyongzhong@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：杜永忠
+		单位：药学院药物制剂研究所
+		职称：教授博导
+		我的主页共被访问了15558次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	奖励荣誉
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

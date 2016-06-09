@@ -1,0 +1,256 @@
+
+
+
+
+
+王维东(WANGWeidong)-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0001042";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	王维东(WANGWeidong)
+wdwd的世界
+
+	永久链接:http://mypage.zju.edu.cn/wdwd&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			1987年大学毕业留校后参加科研工作，曾获得浙江省科技进步三等奖，1991年在职攻读硕士学位。后进入青岛三美电机有限公司任设计课长。2001年博士毕业后留校从事教学、科研工作，参加多项自然科学基金和863等多媒体数字处理等项目，并申请多项发明专利，参加浙大数芯媒体处理器的研制。
+
+
+
+&nbsp;
+主要研究工作：
+1)&ldquo;SOC中数字信号处理器芯片开发和设计平台技术研究&rdquo;,No.2002AA1Z1140,863超大规模集成电路设计专项,负责体系结构和平台设计。2002年9月-2003年12月。
+2)&ldquo;数字音视频解码系统芯片&rdquo;，杭州士兰微电子股份有限公司（横向重大项目），项目第二负责人，负责总体系统设计，2003年10月-2005年6月。
+3)&ldquo;数字视频处理技术开发&rdquo;，No.2003AA1Z1090-3，863重大课题&ldquo;高清晰度数字电视SOC平台&rdquo;子课题，2003年7月-2005年12月，子课题负责人。
+4)&ldquo;基于宽带无线信道的多媒体通信终端核心芯片设计技术研究&rdquo;，浙江省科技厅重点科研项目，项目负责人，2004年4月-2006年3月。
+5)2002年-2004年参加国家发改委数字电视重大产业化专项&ldquo;数字视频后处理芯片&rdquo;项目，在数字视频处理方面，作为专利发明人获得4项国家发明专利授权，该芯片已在杭州国芯科技有限公司量产（型号GX2001）。
+6)&nbsp;&ldquo;基于DSP的图像处理软件&rdquo;，福州瑞芯微电子有限公司，H20050522，2005年4月～2006年4月，项目负责人。
+7)&nbsp;&ldquo;摩托车电子仪表开发&rdquo;，钱江摩托集团，H20062777，2006年12月-2007年4月，项目负责人。
+8)&nbsp;&ldquo;多媒体系统芯片关键技术研究&rdquo;,横向重大项目,H20082661,2008年10月-2013年10月,300万，项目负责人。
+9)&ldquo;三维视频后处理技术开发&rdquo;，核高基国家科技重大专项&ldquo;三维电视与SOC技术研究&rdquo;子课题，R20100063，2009年1月-2012年6月，子课题负责人。
+10)&nbsp;2005年12月作为主要专家之一，主持杭州市地面移动数字电视系统一期覆盖方案单频试验网的设计和调试工作，至今系统播出覆盖效果良好，获得相关单位的认可。
+11）2005年至2013年与福州瑞芯微电子有限公司在移动多媒体播放器系统芯片架构、算法软件上开展产学研用长期合作，并建立&quot;浙江大学信息学院-福州瑞芯微电子多媒体系统联合实验室&quot;，探索高效音视频编解码技术、3D立体显示技术等研究方向，开展相关前瞻性研究。
+12）2009年-2012年与我校高分子系杜滨阳博士合作就&ldquo;石英晶体微天平仪技术&rdquo;展开学科交叉研究。
+
+
+
+发表的主要论文：
+[1]&nbsp;Wei-DongWang,Qing-DongYao,LuYu.&ldquo;Fastalgorithmofarbitraryfractional-pixelaccuracymotionestimation&rdquo;.VisualCommunicationsandImageprocessing2002SPIE,vol.4671-2,pp.1061-1068,January2002
+[2]&nbsp;WeidongWang;YuliShen;ZuchengWu;QingqingYe.Afastmotionestimationalgorithmusingspatialcorrelationofmotionvectors,ProceedingsofInternationalCongressonImageandSignalProcessing2009,V0l.1(1),2009,EI:&nbsp;20100212631554.
+[3]&nbsp;WeidongWang;BinGuo;ShenZhang;QingqingYe.ACABACAcceleratingAlgorithmBasedonAdaptiveProbabilityEstimationUpdate,ProceedingsofInternationalCongressonImageandSignalProcessing2009,V0l.1(1),2009,EI:&nbsp;20100212631443.
+[4]CeShi,&nbsp;WeidongWang,LiZhou,LeiGao,PengLiu,QingdongYao.&ldquo;32bRISC/DSPmediaprocessor:MediaDSP3201&rdquo;,EmbeddedProcessorsforMultimediaandCommunications,ProceedingsofSPIE-IS&amp;TElectronicImaging,Jan2005,SanJoseCAUSA.
+[5]&nbsp;YixiongZhang;WeidongWang*(通讯作者),PengLiu,QingdongYao.Framerateup-conversionusingmultiresolutioncriticalpointfilterswithocclusionrefinement,JournalofZhejiangUniversitySCIENCEA,V0l.9(12),2008,SCI,ISI:000261376000001.
+[6]王维东，刘鹏，史册，姚庆栋.&ldquo;浙大数芯媒体处理器&rdquo;.中国多媒体视讯，2004年7月,第96-99页.
+[7]王维东，姚庆栋，刘鹏.&ldquo;小数像素运动估计快速算法&rdquo;，通信学报,2003年4月，第24卷(第4期),第128-132页
+[8]陈涛，王维东，谢磊，张明，王匡.&ldquo;基于矢量加权中值滤波的快速分层运动估计算法&rdquo;，浙江大学学报（工学版）,2004年7月，第38卷(第7期),第811-815页
+[9]&nbsp;倪昕，王维东(通讯作者)，刘鹏，张贻雄，媒体处理器视频哈夫曼解码快速算法，浙江大学学报(工学版)，(12)，20071200,EI:080611079549.
+[10]刘鹏，王维东，肖志斌等.&ldquo;MediaSOC:ASystem-on-ChipArchitectureforMultimediaApplication&rdquo;,Proceedings,2005IEEEInternationalWorkshoponVLSIDesignandVideoTechnology,Sept.2005,pp.161&ndash;164
+[11]吴皓，刘鹏，王维东，蔡钟，姚庆栋.&ldquo;媒体处理器软硬件协同仿真验证平台&rdquo;,浙江大学学报（工学版）,2005年3月，第39卷(第3期),第348-353页
+[12]&nbsp;郭斌、王维东(通讯作者)、叶青青、沈渝力、章竑.基于概率估计更新的CABAC加速算法,《中国图象图形学报》,V0l.0(02),2009.
+
+
+授权专利：
+
+
+1)王维东、陈涛、张明、谢磊，采用错误保护运动补偿解交织的方法和设备2003.1,专利号ZL03115134.5
+2)王维东、陈涛、张明、谢磊，采用误差修正运动补偿解交织的方法和设备2003.1,专利号ZL03115132.9
+3)陈涛、王维东、张明、谢磊，数字图像边缘插值的方法2003.9,专利号ZL03115135.3
+4)王维东、陈涛、张明、谢磊，视频运动估计方法2003.1,专利号ZL03115133.7
+5)刘鹏，姚庆栋，李东晓，王维东，史册，陈晓毅，周莉，蔡钟，吴皓，郑伟，赖莉雅，琚小明，32位媒体数字信号处理器，ZL200410016753.8，授权日期:2007-1-31.
+
+&nbsp;
+			
+				
+			工作研究领域
+			
+			数字多媒体通信、音视频编解码、识别和处理、嵌入式系统设计、数字电视、媒体SoC芯片设计等。多核系统芯片研究。
+
+			
+				
+			联系方式
+			
+			电话：0571-87953170,13605812196			电子信箱：wdwang@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：王维东
+		单位：信息与电子工程学系
+		职称：副教授
+		我的主页共被访问了24132次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	专利成果
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,1 @@
+{'name': [u'\u5434\u654f'], 'title': [u'\u672c\u79d1\u751f\u62db\u751f\u5904\u5904\u957f   '], 'photo': '', 'pos': './person.zju.edu.cn/spell-W.html?size=25&sort=&page=4', 'blog': [], 'intro': '', 'department': [u'\u672c\u79d1\u751f\u62db\u751f\u5904\uff08\u5916\u6302\u672c\u79d1\u751f\u62db\u751f\u529e\u516c\u5ba4\uff09'], 'homepage': u'http://mypage.zju.edu.cn/wumin'}

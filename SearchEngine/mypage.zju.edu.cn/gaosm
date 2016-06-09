@@ -1,0 +1,213 @@
+
+
+
+
+
+高士明-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0006305";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	高士明
+欢迎来到高士明的个人主页
+
+	永久链接:http://mypage.zju.edu.cn/gaosm&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			2000年7月获得清华大学精密仪器与机械学系学士学位，2005年1月获得清华大学光学工程专业博士学位。在校期间曾获得北京市三好学生、清华大学研究生&ldquo;航天海鹰杯&rdquo;学术新秀、清华大学&ldquo;优秀研究生&rdquo;、清华大学特等奖学金、中日友好NSK机械工学优秀论文奖等多项奖励。2005年1月至2006年9月于清华大学仪器科学与技术博士后流动站从事博士后研究工作，自2006年10月起进入浙江大学光电信息工程学系任教，2007年7月起任副教授。2009年11月至2011年9月受浙江大学&ldquo;新星计划&rdquo;资助于美国UniversityofCalifornia,Irvine交流访问。2011年入选浙江大学首批&ldquo;求是青年学者&rdquo;、博士生导师。2012年12月晋升为教授。2013年入选浙江省151人才工程第三层次。
+作为项目负责人完成了国家自然科学基金2项、教育部高校博士点基金1项、浙江省自然科学基金1项、中国博士后科学基金（一等）1项，在研国家自然科学基金2项、教育部高校博士点基金1项、浙江省自然科学基金1项。目前主要研究非线性光学、光通信系统及器件、新型激光器等，发表论文114篇，其中SCI检索62篇，授权中国发明专利8项、中国实用新型专利2项。2011年获得浙江省高校科研成果奖二等奖。2012年获得浙江大学信息学部青年教师奖三等奖。2012年获得中国仪器仪表学会&ldquo;金国藩青年学子奖学金&rdquo;。现为IEEE（国际电子电气工程师协会）会员、OSA（美国光学学会）会员、SPIE（国际光学工程学会）会员。
+			
+				
+			工作研究领域
+			
+			1.非线性硅光子学
+2.光通信全光信号处理
+3.新型激光器
+			
+				
+			联系方式
+			
+						电子信箱：gaosm@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：高士明
+		单位：浙江大学光电信息工程学系
+		职称：教授
+		我的主页共被访问了29219次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	专利成果
+	实验室介绍
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

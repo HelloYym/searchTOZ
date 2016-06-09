@@ -1,0 +1,240 @@
+
+
+
+
+
+杨国青-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0011374";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	杨国青
+追逐智慧
+
+	永久链接:http://mypage.zju.edu.cn/ygq1978&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			杨国青，男，教育部嵌入式系统工程研究中心副主任，浙江大学ESE工程中心主任，浙江大学常州工业技术研究院智能电子信息中心副主任。
+过去15年来，开展了嵌入式软件体系结构、嵌入式系统设计方法、无人驾驶交通机器人等研究，提出了面向汽车控制的基础支撑软件架构、基于模型驱动的汽车电子软件开发方法、发明了面向控制领域的专用建模语言SmartC，发明了面向智慧城市、低碳交通的智能新能源车辆。作为项目负责人相继承担并主持了&ldquo;核高基&rdquo;重大专项、多项科技部863项目以及浙江省科技厅项目等重点科研项目的开发，研制了国内首套符合OSEK标准的嵌入式实时操作系统-SmartOSEKOS，开发了国内首套基于模型驱动的实控系统开发环境-SmartOSEKIDE，开发了完全自主知识产权的硬件在环仿真测试系统-SmartController，发布了国内首个低速无人驾驶交通机器人，将智慧城市、低碳交通、平安城市建设需求与交通物联网技术、大数据、移动互联网技术成功融合，提出了面向中国城市发展的新能源交通分享模式。发表论文10余篇，授权专利15项。2012年获得教育部科学技术进步二等奖，浙江省科技进步一等奖。2014年获得国家技术发明二等奖。
+1）承担或负责的嵌入式相关的科研项目：
+2002年，主要负责人，国家863重大软件专向项目&ldquo;面向大型机电设备状态监测与故障诊断的智能仪器嵌入式软件开发平台&rdquo;。
+2003年，主要负责人，国家863重大软件专向项目&ldquo;支持汽车电子的嵌入式软件平台。
+2004年，主要负责人，&ldquo;面向汽车自动变速箱的嵌入式软件开发平台&rdquo;，编号2004C21057。
+2004年，副组长，国家863重大软件专向项目&ldquo;面向数字化设备的嵌入式软件平台。
+2005年，主要负责人，国家863重大软件专向项目&ldquo;新型经济型轿车的嵌入式软件平台及关键电控系统开发。
+2006年，主要负责人，杭州市科技项目&ldquo;车控电子嵌入式支撑软件平台&rdquo;，编号20062412B01。
+2007年，课题组长，国家863重大软件专向项目&ldquo;基于模型驱动的汽车电子安全软件开发技术。
+2008年，副组长，浙江省科技厅重点项目&ldquo;基于AUTOSAR的汽车电子软件平台及发动机控制应用示范。
+2009年，副组长，&ldquo;核高基&rdquo;重大专项项目&ldquo;汽车电子虚拟服务总线及其模型设计工具。
+2014年，课题组组长，&ldquo;核高基&rdquo;重大专项项目&ldquo;汽车电子代码生成与缺陷管理系统研制&rdquo;。
+&nbsp;
+2）授权的专利：
+1&nbsp;&nbsp;一种基于ANTLR的LIN网络描述文件LDF的导入方法&nbsp;&nbsp;&nbsp;专利号ZL&nbsp;&nbsp;201110386945.8
+2&nbsp;&nbsp;基于AUTOSAR的电控单元通信数据格式的自动生成方法&nbsp;&nbsp;&nbsp;专利号ZL&nbsp;&nbsp;201110153355.0
+3&nbsp;&nbsp;一种基于资源共享的组件间通信方法&nbsp;&nbsp;&nbsp;专利号ZL&nbsp;&nbsp;201110009872.0
+4&nbsp;&nbsp;车载电子总线静态段通讯扩容方法&nbsp;&nbsp;&nbsp;专利号ZL&nbsp;&nbsp;201010569884.4
+5&nbsp;&nbsp;基于内存数据架构的模块间实时同步方法&nbsp;&nbsp;&nbsp;专利号ZL&nbsp;&nbsp;201010186142.3
+6&nbsp;&nbsp;基于CAN的嵌入式软件可靠性测试中的通信方法&nbsp;&nbsp;&nbsp;专利号ZL&nbsp;&nbsp;201010171389.8
+7&nbsp;&nbsp;一种改善嵌入式实时操作系统中断延迟的方法&nbsp;&nbsp;&nbsp;专利号ZL&nbsp;&nbsp;200910101891.9
+8&nbsp;&nbsp;一种基于OSEK网络管理机制的动态网络管理方法&nbsp;&nbsp;&nbsp;专利号ZL&nbsp;&nbsp;200910097839.0
+9&nbsp;&nbsp;一种基于CAN网络的OSEKCOM消息动态调度方法&nbsp;&nbsp;&nbsp;专利号ZL&nbsp;&nbsp;200910097836.7
+10&nbsp;&nbsp;一种基于CAN总线的网络控制方法&nbsp;&nbsp;&nbsp;专利号ZL&nbsp;&nbsp;200810059419.9
+11&nbsp;&nbsp;一种基于汽车电控领域模型的自动状态机构造方法&nbsp;&nbsp;&nbsp;专利号ZL&nbsp;&nbsp;200810059418.4
+12&nbsp;&nbsp;一种基于看门狗和定时器的周期任务可靠性监控方法&nbsp;&nbsp;&nbsp;专利号ZL&nbsp;&nbsp;200810059147.2
+13&nbsp;&nbsp;嵌入式实时操作系统高效遍历的定时方法&nbsp;&nbsp;&nbsp;专利号ZL&nbsp;&nbsp;200610052373.9
+14&nbsp;&nbsp;一种基于模糊控制技术的离合器结合控制方法&nbsp;&nbsp;&nbsp;专利号ZL&nbsp;&nbsp;200510060733.5
+15&nbsp;&nbsp;一种故障采集检测装置及方法&nbsp;&nbsp;&nbsp;专利号ZL&nbsp;&nbsp;200410084236.4
+&nbsp;
+3）发表嵌入式相关论文共发表论文10多篇:
+lGuoqingYang,MindeZhao,HongLi,ZhaohuiWu,&ldquo;SmartOSEKBasedDesignandVerificationforIn-vehicleNetworkSystem:AModel-BasedApproach&rdquo;,InternationalConferenceonControl,Automation,RoboticsandVision(ICARCV2006).&nbsp;
+lGuoqingYang,MindeZhao,HongLi,ZhaohuiWu,&ldquo;SmartC:AComponent-BasedHierarchicalModelingLanguageforAutomotiveElectronics&rdquo;,InternationalConferenceonControl,Automation,RoboticsandVision(ICARCV2006).
+lGuoqingYang,ZhaohuiWu,LeiWang,&ldquo;Model-baseddesignandverificationofautomotiveelectronicscompliantwithOSEK/VDX&rdquo;,The2ndInternationalConferenceonEmbeddedSoftwareandSystems(ICESS-2005)
+lGuoqingYang,ZhaohuiWu,LeiWang,&ldquo;AnOSEKCOMCompliantCommunicationModelforSmartVehicleEnvironment&rdquo;,The2ndInternationalConferenceonEmbeddedSoftwareandSystems(ICESS2005).&nbsp;
+lMindeZhao,ZhaohuiWu,GuoqingYang,LeiWang,&ldquo;SmartOSEK:Adependableplatformforvehicleelectronics&rdquo;,intheFirstInternationalConferenceonEmbeddedSoftwareandSystem,LNCS3605,Hangzhou,China,December9-10,2004,pp.437-444.&nbsp;
+&nbsp;
+&nbsp;
+			
+				
+			工作研究领域
+			
+			汽车信息物理系统、汽车电子、嵌入式实时控制系统、仿真测试、轨道交通
+			
+				
+			联系方式
+			
+						电子信箱：ygq78@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：杨国青
+		单位：科学技术研究院
+		职称：
+		我的主页共被访问了2593次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

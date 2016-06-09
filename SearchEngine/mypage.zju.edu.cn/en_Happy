@@ -1,0 +1,210 @@
+
+
+
+
+
+MinChen-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0078416";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	MinChen
+
+
+	Permanentlink:http://mypage.zju.edu.cn/en/Happy&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			Blog
+
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			RepresentativePublications
+&nbsp;
+1.Chen,M.;Fan,L.,Qi,L.;Luo,X.;Zhou,R.;Zheng，X.Catal.Commun.2009,10,838&ndash;841.
+2.Chen,M.;Qi,L,Fan,L,Zhou,R.;Zheng,X.Mater.Lett.2008,62,3646－3648.
+3.Chen,M.;Ma,Y.;Li,G.;Zheng,X.Catal.Commun.2008,9,990&ndash;994.&nbsp;&nbsp;
+4.Chen,M.;Zheng,H.;Shi,C.;Zhou,R.;Zheng.X.J.Mole.Catal.A:Chem.2005,237,132-136.&nbsp;&nbsp;
+5.Chen,M.;Zhu,Y.Zheng.X.Mater.Chem..Phys.2005,92,43-44.
+&nbsp;
+			
+				
+			Researchwork
+			
+			ResearchFocus
+1.Exploitationandapplicationofenvironmentalprotectioncatalysts
+2.Designandfabricationofrareearthdopednano-sizedpowder&porousmaterials
+3.Designandpreparationofselectivityoxidationcatalyst
+4.Studyonnano-sizedoxidemembranematerialsforcatalysis
+
+			
+				
+			Contact
+			
+			Phone:
+			E-mail:chenmin@zju.edu.cn
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:MinChen
+		Units:DepartmentofChemistry
+		Title:Professor
+		Myhomepagehasbeenvisited3523times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	
+
+
+Youarevisitor:3523
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

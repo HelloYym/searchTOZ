@@ -1,0 +1,256 @@
+
+
+
+
+
+Zhiguo-OceanScienceandEngineering-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0008439";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	Zhiguo-OceanScienceandEngineering
+
+
+	Permanentlink:http://mypage.zju.edu.cn/en/he&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			Blog
+
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			ZhiguoHe,Ph.D.
+
+AssociateProfessor,DeputyDirectorofInstituteofPhysicalOceanography,OceanCollege
+
+Education
+
+Ph.D.&ndash;UniversityofMississippi,USA,EngineeringScience,2007
+M.S.&ndash;ZhejiangUniversity,CivilEngineering,2002,
+B.S.&ndash;XianUniversityofArchitectureandTechnology,CivilEngineering,1999
+
+WorkingExperience
+
+
+2012-present,AssociateProfessor,OceanCollege,ZhejiangUniversity
+2011-2012,VisitingScholar,DepartmentofAppliedOceanPhysics&amp;Engineering,WoodsHoleOceanographicInstitution,MA,USA
+2010-present,AssociateProfessor,DepartmentofOceanScienceandEngineering,ZhejiangUniversity
+2009-2010,AssistantProfessor,DepartmentofOceanScienceandEngineering,DepartmentofHydraulicEngineering,ZhejiangUniversity
+2007-2009,Post-DoctoralResearchAssociate,NationalCenterforComputationalHydroscienceandEngineering,UniversityofMississippi,USA
+2003-2007,ResearchAssistant,NationalCenterforComputationalHydroscienceandEngineering,UniversityofMississippi,USA
+
+&nbsp;
+AwardsandHonors
+
+
+OutstandingFacultyAwardofOceanCollege,2013;&nbsp;ExcellentTeachingAwardofZhejiangUniversity,2013
+&quot;151&quot;ExpertProgramofZhejiangProvince,2012
+OutstandingFacultyAwardofDepartment,2009
+MemberoftheHonorSocietyofPhiKappaPhi,2006
+&nbsp;
+TeachingCourses
+
+FluidMechanics,EstuaryDynamics,NumericalAnalysis
+
+PublicationList
+RecentPublications(*Correspondingauthor)
+
+
+
+He,Z,&nbsp;HWeng,TWu,&nbsp;H.Ho,YLin*,Q.Ran.(2015).Impactofmovingrainfalleventsonhllslopepollutanttransport.EnvironmentalEarthSciences,DOI:10.1007/s12665-015-4623-0.
+Hu,P.,P&auml;htz,T.,He,Z*,(2015).&nbsp;&nbsp;IsitappropriatetomodelturbiditycurrentswiththeThree-EquationModel?JournalofGeophysicalResearch-EarthSurface.DOI:10.1002/2015JF003474.
+He,Z,TWu,HWeng,P.Hu*,G.Wu.(2015).Numericalsimulationofdam-breakflowandbedchangeconsideringthevegetationeffects,InternationalJournalofSedimentResearch,DOI:10.1007/s12665-015-4623-0.
+Hu,P.,Li,W.,He,Z*,P&auml;htz,T.,Yue,Z.(2015).Well-balancedandflexiblemorphologicalmodelingofswashhydrodynamicsandsedimenttransport.CoastalEngineering,96:27&ndash;37.
+He,Z*,Weng,H.,Ho.H.,Ran,Q.,andMao,M.(2014).SoilErosionandPollutantTransportduringRainfall-runoffProcesses,WaterResources,&nbsp;41(5):&nbsp;604-611.
+Wu,G.,He,Z*,Liu,G..(2014).Developmentofacell-centeredGodunov-Typefinitevolumemodelforshallowwaterflowbasedonunstructuredmesh.MathematicalProblemsinEngineering,15.DOI:10.1155/2014/257915.
+G.Tayfur,&nbsp;He,Z.,&nbsp;Ran,Q.(2013).Finitevolumemethodsolutionofpollutanttransportincatchmentsheetflow.HydrologyResearch,45(2),182-189.doi:10.2166/nh.2013.177.
+He,Z.,G.Tayfur,Q.Ran,andH.Weng.(2013).Modelingpollutanttransportinoverlandflowovernon-planarandnon-homogenousinfiltratingsurfaces.JournalofZhejiangUniversity-ScienceA,14(2):110-119.
+Ran,Q.,Su,D.,Qian,Q.,Fu,X.,Wang,G.,He,Z*.(2012)Physically-basedapproachtoanalyzerainfall-triggeredlandslideusinghydraulicgradientasslidedirection.JournalofZhejiangUniversityScienceA,13(12):943-957.
+Wu,W.,Marsooli,R.,andHe,Z.(2012).Adepth-averagedtwo-dimensionalmodelofunsteadyflowandsedimenttransportduetonon-cohesiveembankmentbreak/breaching.JournalofHydraulicEngineering-ASCE,138(6),503&ndash;516.
+Ran,Q.,Su,D.,Li,P.,He,Z.*(2012).Experimentalstudyoftheimpactofrainfallcharacteristicsonrunoffgenerationandsoilerosion,JournalofHydrology,424&ndash;425:99-111,10.1016/j.jhydrol.2011.12.035.
+Cheng,W.,andHe,Z.(2011).CalibrationofNodalDemandinWaterDistributionSystems.JournalofWaterResourcesPlanningandManagement,137(1):31-40.
+He,ZG,Wu,W.,andWang,S.S.Y.(2009).Anintegrated2Dsurfaceand3Dsubsurfacecontaminanttransportmodelconsideringsoilerosionandsorption.JournalofHydraulicEngineering-ASCE,135(12),1028-1040.DOI:10.1061/(ASCE)HY.1943-7900.0000116.&nbsp;
+Wu,W.andHe,ZG*.(2009).Effectsofvegetationonflowconveyanceandsedimenttransportcapacity.InternationalJournalofSedimentResearch,24(3):247-259.
+He,ZG.SouthernUSsandycreek.Ecohydrology,2(3):370-380,DOI:10.1002/eco.60.(SCI,EI),Wu,W.,andShields,D.Jr.(2009).Numericalanalysisofeffectsoflargewoodstructuresonchannelmorphologyandfishhabitatsuitabilityin&nbsp;aSouthernUSsandycreek.Ecohydrology,2(3):370-380,DOI:10.1002/eco.60.a
+He,ZG.&nbsp;andWu,W.(2009).Aphysically-basedintegratednumericalmodelforflow,uplanderosion,andcontaminanttransportinsurface-subsurfacesystems,ScienceinChinaSeriesE:TechnologicalSciences,52(11):3391-3400.&nbsp;
+He,ZG.,Wu,W.,andWang,S.S.Y.(2008).Coupledfinite-volumemodelfor2Dsurfaceand3Dsubsurfaceflows.JournalofHydrologicEngineering,13(9):835-845.
+Leu,J.M.,Chan,H.C.,Jia,Y,He,ZG.,andWang,S.S.Y.(2008).Cuttingmanagementofriparianvegetationbyusinghydrodynamicmodelsimulations.AdvancesinWaterResources,31:1299-1308.&nbsp;
+
+&nbsp;
+&nbsp;
+			
+				
+			Researchwork
+			
+			Modelingofstormsurgeandflood;Waveovertoppingandoverflowonlevees;Sedimenttransportprocessesonestuariesandtidalflats;Saltwaterintrusioninthemacro-tideestuaryofQiantangRiver;Contaminanttransportwithinawatershedconsideringflow,erosion,andsedimenttransportintheintegratedsurface-subsurfacesystem;Restorationofwetlandinthecoastalreclamationarea;GIS-basedpre-warningsystemforflooddisaster;
+			
+				
+			Contact
+			
+			Phone:
+			E-mail:hezhiguoatzju.edu.cn
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:ZhiguoHe
+		Units:OceanCollege
+		Title:AssociateProfessor
+		Myhomepagehasbeenvisited2864times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	
+
+
+Youarevisitor:2864
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

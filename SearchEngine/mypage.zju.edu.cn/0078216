@@ -1,0 +1,203 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0078216";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0078216&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;
+杨启帆，男，1944年7月出生于杭州，1967年7月毕业于浙江大学数学系，毕业后在浙大数学系任教至今。现为浙大理学院数学系教授，运筹与控制博士点博士生导师。近十年来，先后承担过国家自然科学基金项目5项，承担过国际合作项目3项和浙江省科技计划项目1项。1992年为执行中国-奥地利科技合作协定，到奥地利格拉兹技术大学数学研究所开展合作研究7个月，1993-1995年，应邀到美国明尼苏达大学计算机科学系及美国内布拉斯加-林肯大学计算机科学与工程系开展合作研究各一年。发表科研论文40余篇，出版学术著作6本，参加在美国奥兰多、澳大利亚巴拉莱特、美国田纳西、澳大利亚墨尔本和中国香港等地主办的国际会议各一次，在会上宣读并发表学术论文多篇。1982年起，在国内率先开设出数学建模课程。经过20多年的课程建设与教学改革，该课程已于2003年被教育部授予首批国家级精品课程、相关的教改项目于2000年通过国家级鉴定，并于2001年荣获国家级教学成果奖、本人获国务院政府特殊津贴，被授予浙江省优秀教师称号，获浙江省省级名师奖和教育部颁发的高等教学国家级名师奖。
+			
+				
+			工作研究领域
+			
+			组合最优化，数学建模
+			
+				
+			联系方式
+			
+			电话：13515712769或家庭电话8822			电子信箱：lyang@mail.hz.zj.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：杨启帆
+		单位：数学系
+		职称：教授
+		我的主页共被访问了2993次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

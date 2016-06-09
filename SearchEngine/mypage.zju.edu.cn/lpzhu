@@ -1,0 +1,217 @@
+
+
+
+
+
+zlp'spage-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0007297";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	zlp'spage
+Dancewithpolymermembranes
+
+	永久链接:http://mypage.zju.edu.cn/lpzhu&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;朱利平，副教授/博士生导师，浙江大学求是青年学者，湖南娄底人。2001年6月毕业于湖南大学，获工学学士学位，2007年6月毕业于浙江大学高分子化学与物理专业，获理学博士学位，2007年7月至2009年6月作为师资博士后在浙江大学高分子系从事教学与科研工作，出站后留校工作。其中2011年5月至8月在美国加州大学河滨分校（UCRiverside）进行短期学术访问，2012年2月至2013年2月在美国宾夕法尼亚大学（UPenn）材料科学与工程系作访问学者。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;主要研究方向为高分子膜与微/纳米材料的结构设计与可控制备、膜用高分子的设计与合成、膜材料表面修饰与功能化等，所研究的膜与微/纳米材料主要用于分离与吸附过程，包括纳滤、超滤、微滤、医用分离与药物传递等。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;已主持/参与包括国家自然科学基金、国家973计划、国家863计划等在内的科研项目10余项，近年来已以第一作者或通讯作者在J.Mater.Chem.A、ACSAppl.Mater.Interf.、Langmuir、Polymer、J.Membr.Sci.等国内外重要学术刊物发表SCI收录论文50余篇，他引1000余次，H-指数为23，获得中国发明专利12余项，获得2008年浙江省高等学校科研成果二等奖（排名第二）、2013年教育部科技进步二等奖（排名第三）、2013年浙江大学工学杰出成就奖（工学三大标志性成果，排名第二）。为中国化学会会员、美国化学会会员、北美膜学会会员、多个国际学术期刊审稿人。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;每年招收硕士生1-2名、博士生（直博生）1-2名，常年招收博士后。所在课题组提供优越的科研工作平台和充足的研究经费，欢迎垂询和报考。
+
+			
+				
+			工作研究领域
+			
+			高分子化学与物理；分离功能高分子；高分子膜材料；膜分离技术
+
+
+			
+				
+			联系方式
+			
+			电话：0571-87953011			电子信箱：lpzhu@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：朱利平
+		单位：高分子科学与工程学系
+		职称：副教授
+		我的主页共被访问了10425次
+标签：高分子膜材料与技术	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	专利成果
+	奖励荣誉
+	实验室介绍
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

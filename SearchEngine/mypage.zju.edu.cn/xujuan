@@ -1,0 +1,241 @@
+
+
+
+
+
+徐娟-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0012418";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	徐娟
+不卑不亢不慌不忙
+
+	永久链接:http://mypage.zju.edu.cn/xujuan&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			教育背景：
+2008.12-2010.05，UniversityofMissouri,生物化学，联合培养博士生。
+2005.09-2011.06，中国农业大学，生物化学与分子生物学，博士；
+2001.09-2005.06，山东师范大学，生物科学，学士；
+&nbsp;
+工作经历：
+2015.01-至今，浙江大学生命科学学院植物科学研究所，副研究员
+2012.07-2014.12，浙江大学生命科学学院植物科学研究所，助理研究员。
+2011.07-2012.06，深圳华大基因研究院，重测序与群体遗传生物信息学；
+&nbsp;
+发表文章(*标注：通讯作者)：
+&nbsp;
+12.&nbsp;Xu,J.andZhang,S.*(2015)Ethylenebiosynthesisandregulationinplants.EthyleneinPlants,Springer(Bookchapter).
+&nbsp;
+11.Xu,J.andZhang,S.*(2015)Mitogen-activated&nbsp;protein&nbsp;kinasecascades&nbsp;in&nbsp;signaling&nbsp;plant&nbsp;growthanddevelopment.TrendsinPlantSciences,20(1):56-64.(IF5=14.22)
+<spanlang="EN-US"style="font-family:
+&quot;TimesNewRoman&quot;,serif;mso-bidi-language:EN-US">
+&nbsp;
+10.Xu,J.andZhang,S.*(2014)RNAinterferenceofplantMAPKcascadesforfunctionalstudies.PlantMAPKinases,MethodsinMolecularBiology,Springer.1171,91-103(Bookchapter)
+&nbsp;
+9.Xu,J.*,Yang,K.,Yoo,S.,Liu,Y.,Ren,D.,Zhang,S.(2014)ReactiveoxygenspeciesinsignalingthetranscriptionalactivationofWIPKexpressionintobacco.PlantCell&amp;Environment&nbsp;37,1614-1625.(IF5-years＝5.861).
+&nbsp;
+8.Xu,J.*andZhang,S.*(2014)Regulationofethylenebiosynthesisandsignalingbyproteinkinasesandphosphatase.MolecularPlant7,939-942.
+&nbsp;
+7.Lei,L.,Li,Y.,Wang,Q.,Xu,J.,Chen,Y.,Yang,H.,Ren,D.,(2014)ActivationofMKK9-MPK3/MPK6enhancesphosphateacquisitioninArabidopsisthaliana.NewPhytologist&nbsp;203,1146-1160(IF:6.545)
+
+6.Guan,Y.,Lu,J.,Xu,J.,McClureB.,ZhangS.*(2014)Twomitogen-activatedproteinkinases,MPK3andMPK6,arerequiredforfunicularguidanceofpollentubesinArabidopsis.PlantPhysiology&nbsp;165,528-533(IF5-years＝7.084).
+
+5.Xu,J.*,Xie,J.,Yan,C.,Zou,X.,Ren,D.,ZhangS.*(2014)AchemicalgeneticapproachdemonstratesthatMPK3/MPK6activationandNADPHoxidase-mediatedoxidativeburstaretwoindependentsignalingeventsinplantimmunity.ThePlantJournal77,222-234(IF5-years＝7.113).
+
+4.Meng,X.#,Xu,J.#,He,Y.,Yang,K.,Mordorski,B.,Liu,Y.,ZhangS.*(2013)PhosphorylationofanERFtranscriptionfactorbyArabidopsisMPK3/MPK6regulatesplantdefensegeneinductionandfungalresistance.ThePlantCell25,1126-1142(#:equalcontribution)(IF5-years＝10.125).
+
+3.Su,T.,Xu,J.,Li,Y.,Lei,L.,Zhao,L.,Yang,H.,Liu,G.,Ren,D.*(2011)Glutathione-Indole-3-AcetonitrileisrequiredforCamalexinbiosynthesisinArabidopsisthaliana.ThePlantCell,23,364-380.(IF5-years＝10.125).
+
+2.Xu,J.,Li,Y.,Wang,Y.,Liu,H.,Lei,L.,Yang,H.,Liu,G.,Ren,D.*(2008)ActivationofMAPKkinase9inducesethyleneandcamalexinbiosynthesisandenhancessensitivitytosaltstressinArabidopsis.JournalofBiologicalChemistry.283,26996-27006.(IF5-years＝5.023).
+
+1.Liu,H.,Wang,Y.,Xu,J.,Su,T.,Liu,G.,Ren,D.*(2008)EthylenesignalingisrequiredfortheaccelerationofcelldeathinducedbytheactivationofAtMEK5inArabidopsis.CellResearch,18,422-432.
+&nbsp;
+			
+				
+			工作研究领域
+			
+			系统研究丝裂原活化蛋白激酶（MAPK）信号系统在植物生长、发育、抗病及其他逆境反应等生理过程中的功能和调控分子机制。MAPK级联信号调控了多个重要植物生长发育过程，包括合子的第一次不对称分裂、胚胎细胞分化、胚珠的珠被发育、气孔分化、叶柄伸长、花器官脱落、花序形态建成等。此外，MAPK级联信号通过调控不同的底物参与了植物的抗病过程中的不同反应的调节。我们长期致力于MAPK调控植物生长发育及抗逆境过程的上游信号、下游底物及具体分子机制研究。
+			
+				
+			联系方式
+			
+			电话：0571-88982466			电子信箱：xujuan@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：徐娟
+		单位：植物科学研究所
+		职称：副研究员
+		我的主页共被访问了4036次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

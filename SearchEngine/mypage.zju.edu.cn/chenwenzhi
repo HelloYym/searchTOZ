@@ -1,0 +1,215 @@
+
+
+
+
+
+陈文智-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0092215";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	陈文智
+往来都是客
+
+	永久链接:http://mypage.zju.edu.cn/chenwenzhi&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			我的实验室主页：http://arc.zju.edu.cn/
+
+陈文智，男，教授，博士生导师，浙江大学计算机科学与技术学院副院长。
+IEEE/ACM会员，ACMEducationCouncil委员，中国计算机学会CCF高级会员，CCF教育工作委员会委员、CCF体系结构专委委员、CCF嵌入式系统专委委员，浙江省新世纪151人才培养工程第二层次培养人员，浙江省计算机教育研究会常务理事，浙江省信息安全行业协会副秘书长，浙江省信息安全产业技术创新战略联盟常委理事，担任多个学术期刊审稿专家，多个国际会议程序委员会委员。
+主要研究方向：嵌入式系统及应用（包括移动计算、汽车电子、数字家庭等）、计算机体系结构（包括FPGA、多核架构、新型体系等）、计算机系统级软件（包括操作系统、分布式并行、虚拟化技术、云计算基础软件等）、计算机网络和安全（包括移动智能终端安全、软件恶意代码检测、信息安全攻防、网络空间可信体系等）。承担国家自然基金、国家863重大项目、国家核高基专项、军工预研等国家级科技项目20多项，发表SCI／EI学术论文近100篇，获得国家发明专利授权近20项，获得软件著作权20多项。2007年获得浙江省科技进步一等奖。
+主要教学工作：担任《嵌入式系统》、《操作系统》、《计算机体系结构》、《高级计算机体系结构》、《软件工程》、《SoC综合设计》等本科生和研究生博士生骨干课程的主讲老师，承担国家级省部级以上教学改革建设项目10多项，出版&ldquo;十一五&rdquo;和&ldquo;十二五&rdquo;国家级规划教材《嵌入式系统原理与设计》、重点教材《计算机科学导论－基于机器人的实践方法》等近10部，是国家级精品课程和国家级精品资源共享课程《嵌入式系统》负责人。2013年获宝钢优秀教师奖。
+&nbsp;
+			
+				
+			工作研究领域
+			
+			（1）计算机体系结构（FPGA、多核架构、存储系统、新型体系等）
+（2）计算机系统级软件（操作系统、分布式并行、虚拟化计算、云计算基础软件等）
+（3）嵌入式系统及应用（移动计算、汽车电子、数字家庭等）
+（4）计算机网络和安全（智能终端安全、软件恶意代码检测、信息安全攻防、可信体系等）
+（5）其他和计算机相关的领域。
+
+			
+				
+			联系方式
+			
+			电话：0571-87952411			电子信箱：chenwz@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：陈文智
+		单位：计算机科学与技术学院计算机科学与工程学系
+		职称：教授
+		我的主页共被访问了17476次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

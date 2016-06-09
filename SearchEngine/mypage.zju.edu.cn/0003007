@@ -1,0 +1,214 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0003007";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0003007&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			　　　1982年在浙江医科大学获医学学士学位。
+　　　1986年在浙江医科大学获医学硕士学位。
+　　　1989年德国吕贝克医科大学和浙江医科大学的中德联合培养博士生计划获医学科学博士学位。
+　　　1990年至1992年，赴德国BorstelResearchCenter及加拿大UniversityofToronto从事博士后研究。　
+　　　1992年至1994年在美国国家肿瘤研究所免疫生物学实验室任访问学者，
+　　　1994年至1996年任美国国家肿瘤研究所免疫生物学实验室访问科学家。
+　　　1996年任美国密西根韦纳州立大学(WayneStateUniversity)医学、生化及分子生物学助理教授，卡曼诺斯肿瘤研究所研究员。
+　　　1997年任韦纳州立大学分子生物医学和遗传学中心研究员。
+　　　1998年任美国科罗拉多大学医学院(UniversityofColoradoSchoolofMedicine)医学及肿瘤生物学副教授，兼丹佛市卫生医学中心肿瘤基因研究室主任。2003年被聘为中国教育部浙江大学医学院长江学者奖励计划特聘教授。
+　　　2004年美国德克萨斯科技大学卫生科学中心药学院药理科学系教授，药学院AMARILLOCOMMUNITY肿瘤生物学奖励教授.药学院肿瘤生物学中心主任。
+			
+				
+			工作研究领域
+			
+			1.激酶型受体在肿瘤侵袭和转移过程中的病理作用
+2.生长因子及其受体在炎症反应中对巨噬细胞的调节作用
+			
+				
+			联系方式
+			
+			电话：0571－87236586			电子信箱：STANLEY60WANG@YAHOO.COM			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：王明海
+		单位：临床医学一系
+		职称：教授
+		我的主页共被访问了5451次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

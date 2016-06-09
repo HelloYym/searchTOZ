@@ -1,0 +1,205 @@
+
+
+
+
+
+蒋君侠主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0006132";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	蒋君侠主页
+
+
+	永久链接:http://mypage.zju.edu.cn/jjx&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			蒋君侠，1968年7月生，中共党员，研究员。浙江大学先进技术研究院从事先进制造技术与高端制造装备结构创新研究工作。2006年起在国内率先开始飞机数字化装配技术研究，作为主研人员参加并完成了多个国家重大项目的研究和开发。在这些项目中，主要负责飞机数字化装配系统的总体设计、核心工艺装备的开发和创新研究工作。作为项目负责人完成科研和基金项目10多项。在机械工程学报，航空学报、计算机集成制造系统、浙江大学学报(工学版)等国内外刊物上发表过30多篇研究论文，其中被SCI/EI收录12篇，获得国家发明授权专利16项。获得2013年度国家技术发明二等奖1项（第三完成人），获得2012年度教育部技术发明一等奖1项（第三完成人）。浙江省智能装备&ldquo;机器换人&rdquo;专家组成员，航空学报正式会员和审稿专家。
+			
+				
+			工作研究领域
+			
+			主要从事高端制造装备机械结构设计与创新研究、飞机数字化装配技术研究工作。
+			
+				
+			联系方式
+			
+			电话：87953930			电子信箱：junxia.jiang@126.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：蒋君侠
+		单位：先进技术研究院
+		职称：研究员
+		我的主页共被访问了254次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		专利成果
+	工作研究项目
+	发表论文
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

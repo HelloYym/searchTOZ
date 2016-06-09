@@ -1,0 +1,1 @@
+{'name': u':Niu Haixia', 'title': u':', 'photo': u'http://mypage.zju.edu.cn/attachments/66/0927013723-527184853.jpg', 'pos': './mypage.zju.edu.cn/en|niu', 'intro': [u'\n\t\t                \t\t\t\n\t'], 'department': u':', 'homepage': 'http://mypage.zju.edu.cn/en/niu'}

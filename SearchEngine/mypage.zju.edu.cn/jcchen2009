@@ -1,0 +1,301 @@
+
+
+
+
+
+陈杰诚-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0087334";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	陈杰诚
+个人主页
+
+	永久链接:http://mypage.zju.edu.cn/jcchen2009&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			一、学历与工作简历
+
+&nbsp;&nbsp;&nbsp;1978－1982：杭州大学数学系学生（本科、77级）
+&nbsp;&nbsp;&nbsp;1982－1984：杭州大学数学系学生（硕士、81级）
+&nbsp;&nbsp;&nbsp;1985－1987：杭州大学数学系学生（博士、84级）
+&nbsp;&nbsp;&nbsp;1987－1998：杭州大学数学与信息科学系教师
+&nbsp;&nbsp;&nbsp;1998－&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;：浙江大学数学教师
+
+&nbsp;&nbsp;&nbsp;备注：1、职称变化&nbsp;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1987－1990：讲师
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1990－1992：副教授
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1992－&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;：教授
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1994－&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;：博士生导师
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2、兼职情况
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1992－1999：杭州大学(及1998年四校合并后的新浙江大学)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;数学与信息科学系副主任
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1999－2002：浙江大学理学院数学系（1999年夏合并）系主任
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1999－2009：浙江大学理学院（1999年夏组建）副院长&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1996－&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;：浙江省科协常委
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2001－2005：中国科协委员
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2003－&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;：中国数学会理事（2008-常务理事）
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2003－&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;：浙江省数学会副理事长
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2006－&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;：教育部数学与统计学教指委数学类专业分委员会成员
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2006－&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;：浙江省高校高等数学教指委成员（第一届）、
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;副主任委员（第二届）
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2009－&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;：国务院学位委员会数学学科组成员&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2009－&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;：浙江省学位委员会理学学科组成员&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2010－&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;：国务院自然科学名词审定委员会&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第二届数学名词审定委员会成员&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1998－2003：《科技通报》编委
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2000－&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;：《Analysis-TheoryanditsApplications》编委
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2001－&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;：《浙大学报》（理科版）编委
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2003－&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;：《高校应用数学学报》（A辑、B辑(SCI)）编委
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2004－&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;：《数学研究与评论》编委
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2006－&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;：《数学年刊》（A辑、B辑(SCI)）编委&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2008－&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;：《数学学报》（A辑）编委&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2008－&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;：《数学译林》编委
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2011－&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;：《Jour.ofFunctionSpacesandAppl.》（SCI）编委
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+二、教学经历
+
+&nbsp;&nbsp;&nbsp;为本科生主讲过的主要课程：
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《数学分析》、《高等数学》、《实变函数》、《泛函分析》、
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《实分析》、《Fourier级数初步》、《数学分析例题选讲》，等
+
+&nbsp;&nbsp;&nbsp;为研究生主讲过的主要课程：
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《现代实分析》、《现代泛函分析》、《多元调和分析基础》、
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《奇异积分论》、《Hardy空间理论》、《流形上调和分析》，等
+
+三、主持教学与科研项目情况
+
+&nbsp;&nbsp;&nbsp;1991－1993：国家自然科学基金青年基金项目－&ldquo;流形上拉普拉斯分析&rdquo;
+&nbsp;&nbsp;&nbsp;1991－1995：国家天元基金重点项目－&ldquo;欧氏空间上调和分析&rdquo;（成员）
+&nbsp;&nbsp;&nbsp;1997－2001：国家自然科学基金重点项目－&ldquo;调和分析与小波分析&rdquo;（成员）
+&nbsp;&nbsp;&nbsp;1999－2004：国家重点基础研究项目（973项目）－&ldquo;核心数学的前沿问题&rdquo;&nbsp;（成员）
+&nbsp;&nbsp;&nbsp;2006－2008：国家自然科学基金面上项目(No.10571156)－&ldquo;奇异积分算子理论中若干问题的研究&rdquo;
+&nbsp;&nbsp;&nbsp;2009－2011：国家自然科学基金面上项目(No.10871173)－&ldquo;几类超奇性奇异积分算子的研究&rdquo;
+&nbsp;&nbsp;&nbsp;2010－2013：国家自然科学基金重点项目(No.10931001)－&ldquo;调和分析及其应用&rdquo;（成员）
+&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;1994－1996：浙江省自然科学基金项目－&ldquo;向量值调和分析&rdquo;
+&nbsp;&nbsp;&nbsp;1998－2000：浙江省自然科学基金项目－&ldquo;流形上的调和分析与小波分析&rdquo;&nbsp;
+&nbsp;&nbsp;&nbsp;1998－2001：教育部资助优秀年轻教师基金项目
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;－&ldquo;调和分析与小波分析中若干问题的研究&rdquo;
+&nbsp;&nbsp;&nbsp;1998－2002：浙江省自然科学基金青年科技人才培养专项资金项目
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;－&ldquo;流形上分析中若干问题的研究&rdquo;&nbsp;
+&nbsp;&nbsp;&nbsp;1999－2001：浙江省151人才基金项目－&ldquo;多元调和分析中的几个问题&rdquo;
+&nbsp;&nbsp;&nbsp;2002－2004：浙江省自然科学基金青年科技人才培养专项资金项目
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;－&ldquo;流形上分析中若干问题的研究（续）&rdquo;
+&nbsp;&nbsp;&nbsp;2004－2006：教育部博士点基金－&ldquo;两类粗糙奇异积分及边值问题的研究&rdquo;
+&nbsp;
+
+&nbsp;&nbsp;&nbsp;2000－2001：教育部创建名牌课程项目－&ldquo;实分析&rdquo;
+&nbsp;&nbsp;&nbsp;2002－2003：教育部创建名牌课程项目－&ldquo;实分析(续)&rdquo;
+&nbsp;&nbsp;&nbsp;2007－2010：浙江省新世纪教改项目(No.yb07001)－&ldquo;理科人才培养模式改革的研究与实践&rdquo;
+&nbsp;&nbsp;&nbsp;2009－2011：国家自然科学基金人才培养项目(No.J0830103)－&ldquo;浙大数学基地科研训练项目&rdquo;
+
+四、主要学术与荣誉获奖情况
+&nbsp;&nbsp;&nbsp;1990：&nbsp;&ldquo;做出突出贡献的中国博士学位获得者&rdquo;
+&nbsp;&nbsp;&nbsp;1992：浙江省青年科技奖（第二届）
+&nbsp;&nbsp;&nbsp;1992：中国青年科技奖（第三届）
+&nbsp;&nbsp;&nbsp;1992：国家教委科技进步奖（三等奖）－《现代调和分析中的若干新进展》
+&nbsp;&nbsp;&nbsp;1992：光华科技奖（二等奖）
+&nbsp;&nbsp;&nbsp;1993：&ldquo;浙江省十大杰出青年&rdquo;
+&nbsp;&nbsp;&nbsp;1993：国务院政府特殊津贴
+&nbsp;&nbsp;&nbsp;1995：浙江省青少年英才奖（一等奖）
+&nbsp;&nbsp;&nbsp;1996：&ldquo;浙江省高等学校首批中青年学科带头人&rdquo;（首届）
+&nbsp;&nbsp;&nbsp;&nbsp;1996：&ldquo;国家百千万人才工程&rdquo;第一、二层次人选（首届）
+&nbsp;&nbsp;&nbsp;&nbsp;1997：&ldquo;浙江省151人才工程&rdquo;第一层次人选（首届）
+&nbsp;&nbsp;&nbsp;&nbsp;1997：浙江省自然科学优秀学术论文奖（一等奖）－
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《旋转法与乘积空间上的Marcinkiewicz积分》
+&nbsp;&nbsp;&nbsp;
+			
+				
+			工作研究领域
+			
+			调和分析及其应用/流形上分析/群上分析
+			
+				
+			联系方式
+			
+			电话：0571-87953951			电子信箱：jcchen@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：陈杰诚
+		单位：数学系
+		职称：教授
+		我的主页共被访问了45199次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		发表论文
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

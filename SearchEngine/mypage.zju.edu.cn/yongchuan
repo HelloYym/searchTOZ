@@ -1,0 +1,214 @@
+
+
+
+
+
+Yongchuan-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0003162";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	Yongchuan
+Introduction
+
+	永久链接:http://mypage.zju.edu.cn/yongchuan&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			汤永川，1974年出生，副研究员，浙江大学计算机应用、数字化艺术与设计博士生导师，浙江省新世纪151人才工程第三层次培养人员。2007年入选浙江大学&ldquo;新星计划&rdquo;，并于2007年11月至2009年10月在英国UniversityofBristol从事合作研究。主要研究兴趣包括近似推理、计算智能、信息产品与交互设计、跨媒体情感计算与情感化设计等。在国际刊物ArtificialIntelligence、IEEETrans.onFuzzySystems,IEEETrans.onSMC-PartB:Cybernetics、InformationSciences、FuzzySetsandSystems、Inter.J.ofApproximateReasoning等刊物上发表论文30余篇，一些论文成为最热门论文（hottestarticle）或亮点论文（featuredpaper）。担任IUKM2011国际研讨会程序主席，编辑出版LNAI论文集一期。近5年来，作为项目负责人承担三项国家自然科学基金，作为学术骨干参与973项目一项，以及其它省部项目两项。
+以下为所承担项目列表：
+[1].973项目：面向公共安全的跨媒体计算理论与方法研究，批准号2012CB316400，资助金额3400万，2012.1-2016.12，学术骨干。
+[2].国家自然科学基金面上项目：语义细胞认知模型研究，批准号61075046，资助金额36万，2011.1-2013.12，项目负责人。
+[3].国家自然科学基金与微软亚洲研究院联合资助项目：基于言词计算理论的情感化音乐检索技术研究，批准号60776798，资助金额26万，2008.1-2010.12，项目负责人。
+[4].国家自然科学基金青年项目：面向突发性群体事件的群体行为模糊模型研究，批准号60604034，资助金额25万，2007.1-2009.12，项目负责人。
+[5].浙江省自然科学基金项目：音乐情感计算关键技术研究，批准号Y1090003，资助金额10万，2010.1-2011.12，项目负责人。
+[6].浙江省科技计划重点项目：突发性群体事件仿真、控制与预警技术的研究，批准号2007C23061，资助金额20万，2008.1-2009.12，项目负责人。
+&nbsp;
+			
+				
+			工作研究领域
+			
+			近似推理、计算智能、信息产品与交互设计、跨媒体情感计算与情感化设计
+			
+				
+			联系方式
+			
+			电话：87953695			电子信箱：tyongchuan@gmail.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：汤永川
+		单位：计算机科学与技术学院工业设计系
+		职称：副研究员（自然科学）
+		我的主页共被访问了17170次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,236 @@
+
+
+
+
+
+ChuanzaoMao'sHomepage-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0003354";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	ChuanzaoMao'sHomepage
+
+
+	Permanentlink:http://mypage.zju.edu.cn/en/mcz&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			EducationalBackground:
+2000.09-2003.07ZhejiangUniversityPhDPlantScience
+1997.09-2000.07ChineseAcademyofAgriculturescienceMScPlantgenetics
+1993.09-1997.07ZhejiangAgricultureUniversityBScAgronomy
+ProfessionalExperience:
+2014.12－nowCollegeofLifeSciences,ZhejiangUniversity,Professor
+2005.12－2014.11CollegeofLifeSciences,ZhejiangUniversity,AssociateProfessor
+2005.09-2005.12CollegeofLifeSciences,ZhejiangUniversity,Lecturer
+2003.09-2005.08CollegeofLifeSciences,ZhejiangUniversity,PostdoctoralResearcher
+2007.01－2009.01CornellUniversity,USA,Visitingresearcher
+Publicationlist
+1.WangZY,RuanWY,ShiJ,ZhangL,XiangD,YangC,LiCY,WuZC,LiuY,YuYN,ShouHX,MoXR,MaoCZ*,WuP(2014)RiceSPX1andSPX2inhibitphosphatestarvationresponsesthroughinteractingwithPHR2inaphosphate-dependentmanner.ProcNatlAcadSciUSA111:14953-14958
+2.ChenXA,ShiJ,HaoX,LiuHL,WuYR,WuZC,ChenMX,WuP,MaoCZ*(2013)OsORC3isrequiredforlateralrootdevelopmentinrice.PlantJ74:339-350
+3.TanDY,LvQD,ChenXA,ShiJ,RenMY,WuP,MaoCZ*(2013)InteractionsamongriceORCsubunits.PlantSignalBehav8
+4.JiaLQ,WuZC,HaoX,CarrieC,ZhengLB,WhelanJ,WuYR,WangSF,WuP,MaoCZ*(2011)Identificationofanovelmitochondrialprotein,shortpostembryonicroots1(SPR1),involvedinrootdevelopmentandironhomeostasisinOryzasativa.NewPhytol189:843-855
+5.MaoCZ，DingWN,Wu　YR,Yu　J,HeXW,ShouHX,WuP,(2007)OverexpressionofaNAC-domainproteinpromotesshootbranchinginrice.NewPhytol176:288-298
+6.MaoCZ,WangS,JiaQ,WuP(2006)OsEIL1,aRiceHomologoftheArabidopsisEIN3RegulatestheEthyleneResponseasaPositiveComponent.PlantMolBiol61:141-152
+7.MaoCZ,YiK,YangL,ZhengB,WuY,LiuF,WuP(2004)Identificationofaluminium-regulatedgenesbycDNA-AFLPinrice(OryzasativaL.):aluminium-regulatedgenesforthemetabolismofcellwallcomponents.J.Exp.Bot.55:137-143
+8.MaoCZ,YangL,ZhengBS,WuYR,LiuFY,YiKK,WuP(2004)ComparativemappingofQTLsforAltoleranceinriceandidentificationofpositionalAl-inducedgenes.JZhejiangUnivSci5:634-643
+9.LvQD,ZhongYJ,WangYG,WangZY,ZhangL,ShiJ,WuZC,LiuY,MaoCZ,YiKKK,WuP(2014)SPX4NegativelyRegulatesPhosphateSignalingandHomeostasisthroughItsInteractionwithPHR2inRice.PlantCell26:1586-1597
+10.ZhuXF,ShiYZ,LeiGJ,FrySC,ZhangBC,ZhouYH,BraamJ,JiangT,XuXY,MaoCZ,PanYJ,YangJL,WuP,ZhengSJ(2012)XTH31,EncodinganinVitroXEH/XET-ActiveEnzyme,RegulatesAluminumSensitivitybyModulatinginVivoXETAction,CellWallXyloglucanContent,andAluminumBindingCapacityinArabidopsis.PlantCell24:4731&ndash;4747
+11.ZhuZX,LiuY,LiuSJ,MaoCZ,WuYR,WuP(2012)AGain-of-FunctionMutationinOsIAA11AffectsLateralRootDevelopmentinRice.MolPlant5:154-161
+12.ZhaoCF,XuJM,ChenY,MaoCZ,ZhangSL,BaiYH,JiangDA,WuP(2012)MolecularcloningandcharacterizationofOsCHR4,aricechromatin-remodelingfactorrequiredforearlychloroplastdevelopmentinadaxialmesophyll.Planta236:1165-1176
+13.LinM,ZhouX,ShenXL,MaoCZ,ChenX(2011)ThePredictedArabidopsisInteractomeResourceandNetworkTopology-BasedSystemsBiologyAnalyses.PlantCell23:911-922
+14.MengYJ,GouLF,ChenDJ,MaoCZ,JinYF,WuP,ChenM(2011)PmiRKB:aplantmicroRNAknowledgebase.NucleicAcidsRes39:D181-D187
+15.WangXF,HeFF,MaXX,MaoCZ,HodgmanC,LuCG,WuP(2011)OsCAND1IsRequiredforCrownRootEmergenceinRice.MolPlant4:289-299
+16.ChenD,MengYJ,MaXX,MaoCZ,BaiYH,CaoJJ,GuHB,WuP,ChenM(2010)SmallRNAsinangiosperms:sequencecharacteristics,distributionandgeneration.Bioinformatics26:1391-1394
+17.ChenM,MengYJ,MaoCZ,ChenDJ,WuP(2010)MethodologicalframeworkforfunctionalcharacterizationofplantmicroRNAs.JExpBot61:2271-2280
+18.MaronLG,PinerosMA,GuimaraesCT,MagalhaesJV,PleimanJK,MaoCZ,ShaffJ,BelicuasSNJ,KochianLV(2010)TwofunctionallydistinctmembersoftheMATE(multi-drugandtoxiccompoundextrusion)familyoftransporterspotentiallyunderlietwomajoraluminumtoleranceQTLsinmaize.PlantJ61:728-740
+19.MengYJ,ChenDJ,JinY,MaoCZ,WuP,ChenM(2010)RNAeditingofnucleartranscriptsinArabidopsisthaliana.BMCGenomics11Suppl4:S12
+20.YueRQ,WangXF,ChenJY,MaXX,ZhangHH,MaoCZ,WuP(2010)ARiceStromalProcessingPeptidaseRegulatesChloroplastandRootDevelopment.PlantCellPhysiol.51:475-485
+21.ZhengBS,YangL,MaoCZ,HuangYJ,WuP(2008)MappingQTLsformorphologicaltraitsundertwowatersupplyconditionsattheyoungseedlingstageinrice.PlantSci175:767-776
+22.JiaLQ,ZhangBT,MaoCZ,LiJH,WuYR,WuP,WuZC(2008)OsCYT-INV1foralkaline/neutralinvertaseisinvolvedinrootcelldevelopmentandreproductivityinrice(OryzasativaL.).Planta228:51-59
+23.MaronLG,MatiasK,MaoCZ,MilnerMJ,MenossiM,KochianLV(2008)Transcriptionalprofilingofaluminumtoxicityandtoleranceresponsesinmaizeroots.NewPhytol179:116-128
+24.HuangG,YiKK,WuYR,ZhuL,MaoCZ,WuP(2004)QTLsfornitrateinducedelongationandinitiationoflateralrootsinrice(OryzasativaL.).PlantSoil263:229-237
+25.YangL,ZhengBS,MaoCZ,YiKK,LiuFY,WuYR,TaoQN,WuP(2003)cDNA-AFLPanalysisofinduciblegeneexpressioninriceseminalroottipsunderawaterdeficit.Gene314:141-148
+26.YangL,ZhengBS,MaoCZ,YiKK,WuYR,WuP,TaoQN(2003)Seminal,adventitiousandlateralrootgrowthandphysiologicalresponsesinricetouplandconditions.JZhejiangUnivSci4:469-473
+27.ZhengBS,YangL,ZhangWP,MaoCZ,WuYR,YiKK,LiuFY,WuP(2003)MappingQTLsandcandidategenesforriceroottraitsunderdifferentwater-supplyconditionsandcomparativeanalysisacrossthreepopulations.TheorApplGenet107:1505-1515
+			
+				
+			Researchwork
+			
+			Molecularmechanismofricerootarchitecture.
+
+MolecularregulationnetworkofPhosphatesignaling
+			
+				
+			Contact
+			
+			Phone:0571-88206108
+			E-mail:mcz@zju.edu.cn
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:ChuanzaoMao
+		Units:CollegeofLifeSciences,ZhejiangUniversity
+		Title:Professor
+		Myhomepagehasbeenvisited29times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	
+
+
+Youarevisitor:29
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,219 @@
+
+
+
+
+
+黄凯-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0008825";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	黄凯
+用芯看世界
+
+	永久链接:http://mypage.zju.edu.cn/kai_huang&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			祖籍江西广丰。
+经历：
+2003年-2008年：浙江大学硕博连读
+2006年：法国TIMA实验室SLS组交流访问
+&nbsp;2009年-2011年：浙江大学博士后
+&nbsp;2010年：法国VERIMAG实验室BIP组合作专家
+
+&nbsp;研究进展：
+1）参于国产自主CKCore系列32位嵌入式处理器。依托国家863计划、&ldquo;核高基&rdquo;重大专项等，参于多款处理器设计，负责处理器的功能验证和原型芯片开发工作。
+2）研究构建国产嵌入式处理器的系统芯片架构和设计流程平台，已完成十几款从40nm到180nm的不同工艺以及TSMC，SMIC，GSMC等不同Foundry的SoC芯片流片。
+3）与法国TIMA、CEA-LETI和VERIMAG实验室合作，研究设计了多处理器系统芯片设计流程和平台，采用高层混合建模技术统一描述应用软件算法和硬件体系结构，通过三级高抽象层对软硬件逐步细化生多处理器软硬件代码，突破并行软硬件系统级设计难点。
+&nbsp;
+成果：
+2008年获得电子信息科学技术一等奖，2009年获得国家科技进步二等奖；第一作者完成本领域顶级会议DAC论文一篇，提名最佳论文，发表各类论文20多篇；授权发明专利5项，受理发明专利10项。
+&nbsp;
+			
+				
+			工作研究领域
+			
+			多核处理器及SoC芯片架构设计，多处理器软硬件并行建模和仿真技术，SoC芯片设计和实现，音视频应用的芯片解决方案设计研发等。
+			
+				
+			联系方式
+			
+						电子信箱：huangk@vlsi.zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：黄凯
+		单位：信息与电子工程学系
+		职称：副教授
+		我的主页共被访问了6988次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

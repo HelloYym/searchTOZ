@@ -1,0 +1,233 @@
+
+
+
+
+
+陈万芝-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0004153";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	陈万芝
+浙江大学化学系陈万芝
+
+	永久链接:http://mypage.zju.edu.cn/ChenWanzhi&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			教育经历
+1988.9-1991.7：博士学位，中国科学院大连化学物理研究所
+1985.9-1988.7：硕士学位，中国科学院大连化学物理研究所
+1981.9-1985.7：学士学位，山东聊城师范学院(现聊城大学)化学系
+
+科研工作经历
+2004.6-至今：教授，博士生导师，浙江大学化学系
+2001.12-2004.4:&nbsp;客员助教授，日本早稻田大学高等科学和工程研究中心
+2000.3-2001.11：研究员，日本早稻田大学化学系
+1998.4-2000.3：研究员，日本物资工学工业技术研究所有机合成化学部
+1996.4-1998.3：副教授，南京大学配位化学研究所配位化学国家重点实验室
+1993.12-1996.2：博士后，西班牙Zaragoza大学阿拉贡材料科学研究所
+1991.7-1993.12：讲师，山东大学新材料研究所
+&nbsp;
+			
+				
+			工作研究领域
+			
+			主要研究领域：金属有机化学和均相催化。目前的工作集中在下列三个方面:1.N-杂环卡宾VIII族金属化合物合成,结构和性质;2.非贵金属有机化合物在有机合成中的应用;3.杂环化合物合成新方法。
+			
+				
+			联系方式
+			
+			电话：0571-88273314			电子信箱：chenwzz@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：陈万芝
+		单位：化学系
+		职称：教授
+		我的主页共被访问了70169次
+标签：铂氪	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	学术交流（讲座报告）
+	专利成果
+	实验室介绍
+	联系方式
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	Webofscience
+Science
+Nature
+ACSPublications
+Angew.Chem.
+Chem.Commun.
+Chem.Eur.J.
+Dalton
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

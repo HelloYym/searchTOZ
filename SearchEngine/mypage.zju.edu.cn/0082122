@@ -1,0 +1,218 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0082122";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0082122&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			朱祥瑞，男，1957年生，浙江省桐乡市人，博士。现任浙江大学副教授，硕士生导师。浙江大学动物科学学院蚕蜂学实验室主任、应用生物资源与材料工程实验室副主任。中国农学会会员，中国蚕学会会员，浙江蚕桑学会浙江大学学会组长；《氨基酸与生物资源》杂志编委，《中国丝绸年鉴》特约撰稿人。
+&nbsp;&nbsp;社会兼职：中国民主同盟浙江省委员会常委、民盟浙江省委联络委员会主委、民盟浙江大学华家池校区总支部主委。
+
+&nbsp;&nbsp;在大学工作期间，担任本科生&ldquo;蚕桑综合利用&rdquo;、&ldquo;蚕丝化学&rdquo;；硕士研究生的&ldquo;蚕副产品加工和利用专题&rdquo;、&ldquo;蚕蜂学专题&rdquo;、&ldquo;动物生化制药专题&rdquo;、&ldquo;生化工程与生物资源利用专题&rdquo;、&ldquo;计算机在农业上的应用&rdquo;以及&ldquo;生物资源工程专题&rdquo;等课程的教学工作。2003年获优秀本科生导师荣誉称号。已指导毕业的研究生4名，另有1名在读（合作）。主持国家科技部项目子专题、浙江省自然科学基金、浙江省教委课题等8项，主持横向课题多项，参加国家自然科学基金2项、浙江省自然科学基金课题2项。获浙江省科技进步三等奖1项，学校优秀科技成果奖1项。已在国内外科技学术刊物上发表论文40余篇，多篇获优秀论文二等奖，另作为副主编和参编出版专著6本。2000年起为中国丝绸年鉴常年撰稿。另作为技术指导拍摄科教片1部。
+			
+				
+			工作研究领域
+			
+			1.植物生理活性物质以及相关产品开发研究。
+由雀巢公司上海研发中心、湖州丰泰生物技术有限公司、湖州市科技局等单位资助，与浙江中医学院研究实验动物中心、浙江省方圆检测股份有限公司、浙江大学农学院等单位合作，对桑叶生物碱DNJ的分析方法、各桑叶品种不同干燥条件下DNJ含量的比较分析、桑不同部位DNJ含量分析；桑叶提取物（EML）质量标准等，进行了全面系统的研究；由浙江省自然科学基金资助，进行了桑叶多糖及其生物应答效应的研究。
+2.氨基酸分解、提取、分离、纯化技术研究。
+由国家科委生命中心资助，立子专题对蚕蛹氨基酸进行研究。利用家蚕蛹家蚕丝为原料，研究其氨基酸组成、水解方法、分离（分组分离）技术、高纯度复合氨基酸的制备方法、产业化氨基酸生产（年产30吨复合氨基酸）设备和生产技术规程，另外，以制备输液用氨基酸为目的，研究氨基酸去除热源、过敏原、降压物质等的方法。
+3.固定化酶技术研究。由浙江省自然科学基金资助，对以家蚕丝素为载体，对不同种类的酶、多种酶、以及酶和微生物同时固定于丝素内部和丝素表面的方法和各种理化性状进行研究，提出了以淀粉为原料采用固定化酶技术一步法制备果葡糖浆的方法以及在一定条件下的数学方程。
+4.叶绿素化学和生产工艺研究。
+以蚕沙为原料，研究生产多种形式的叶绿素及其衍生物的工艺和设备。为多家企业的叶绿素生产设备改造以及生产工艺提供指导和咨询。为降低那些企业的生产成本提供技术。
+5.果胶规模化生产工艺和技术研究。
+以蚕沙以及宽皮桔的果皮为原料生产高酯果胶的生产工艺、设备、技术等进行研究。并为建立一个年产10吨果胶的车间提供了技术支持。在此过程中总结出了生产高质量低成本果胶的技术。
+
+			
+				
+			联系方式
+			
+			电话：0571-86971146			电子信箱：xrzhu@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：朱祥瑞
+		单位：动物科学学院特种经济动物科学系
+		职称：副教授
+		我的主页共被访问了3708次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

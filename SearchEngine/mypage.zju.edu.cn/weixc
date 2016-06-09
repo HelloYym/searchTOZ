@@ -1,0 +1,229 @@
+
+
+
+
+
+魏兴昌-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0009115";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	魏兴昌
+
+
+	永久链接:http://mypage.zju.edu.cn/weixc&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			工作和学习经历：
+
+2010年至今，浙江大学信息与电子工程学系，教授，博士生导师，电子信息技术与系统研究所副所长；
+2013年7月－8月，访问学者，韩国高等科技大学（KoreaAdvancedInstituteofScienceandTechnology，KAIST）；
+2001年-2010年，新加坡国家高性能计算科学研究院（SingaporeInstituteofHighPerformanceComputing），博士后（2001年至2003年），研究员（2003年至2005年），高级研究员（2005年至2009年），研究科学家（2010年）；
+1998年－2001年，西安电子科技大学电磁场与微波技术专业，博士研究生；
+1995年－1998年，西安电子科技大学电磁场与微波技术专业，硕士研究生；
+1991年－1995年，西安电子科技大学微波通信工程系，工学学士。
+
+研究领域集中在芯片、封装与PCB板级的电源完整性、信号完整性分析,石墨烯射频器件和射频电路分析，以及相关的应用计算电磁学算法研究。已在在著名国际期刊IEEETransactions等和国际会议发表50多篇论文，合著英文学术专著1部和1项国际专利。获新加坡2007年卓越工程成就奖、中国教育部2009年新世纪优秀人才支持计划、亚太国际电磁兼容会议最佳会议论文奖（2012新加坡）。IEEE高级会员，曾任IEEE先进封装和系统电设计会议技术委员会共同主席（2010新加坡）、亚太国际电磁兼容会议程序委员会主席（2012年新加坡）和技术程序委员会委员（2010年北京、2011年韩国、2013年墨尔本）、亚太国际微波会议技术程序委员会委员（2009新加坡）
+报考/招聘信息
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;研究方向：
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.高速电路电磁兼容
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.三维集成（硅通孔）的电特性分析与设计
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.微纳射频器件的分析与设计
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.微波射频天线与电路
+欢迎电磁场微波技术以及相关专业的学生报考本人的研究生、博士生，以及博士后。有意向者请将简历发到邮箱weixc@zju.edu.cn，来函必复。
+博士后待遇参照浙江大学规定执行（参见浙江大学博士后工作办公室网站http://hr.zju.edu.cn/postdoctor/），可根据应聘者能力和工作情况，具体面议。同时提供良好的研究工作环境及个人成长发展空间。
+			
+				
+			工作研究领域
+			
+			石墨烯射频器件分析与设计，三维集成电路和硅通孔的电磁特性分析与设计，PCB板级和封装级的电磁干扰、电源完整性、信号完整性分析，微波天线和射频电路分析，计算电磁学
+			
+				
+			联系方式
+			
+			电话：0571-87953869			电子信箱：weixc◎zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：魏兴昌
+		单位：信息与电子工程学系
+		职称：教授
+		我的主页共被访问了23710次
+标签：石墨烯，三维集成电路，电磁兼容，计算电磁学	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		专利成果
+	教学工作
+	工作研究项目
+	出版著作
+	奖励荣誉
+	实验室介绍
+	发表论文
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

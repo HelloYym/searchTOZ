@@ -1,0 +1,334 @@
+
+
+
+
+
+邓见(J.Deng)-博客
+
+
+
+
+
+
+varctxPath="http://mypage.zju.edu.cn";
+varb_handle="dengjian";
+varcfg_weblog="http://mypage.zju.edu.cn/weblog";
+vard=newDate()
+varselyear=d.getFullYear();
+varselmonth=d.getMonth()+1;
+
+
+
+
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	color:#111;
+	margin-right:10px;	
+}
+#mainlinkullia,.tagsa:hover{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+.tagsa{
+	margin-right:10px;
+}
+img{
+	border:none;
+}
+
+
+
+
+
+
+
+
+
+
+	
+		首页
+		帮助
+		登录
+	
+
+
+
+
+
+
+	邓见(J.Deng)
+北雁南来,至此越冬,待来年春暖而归
+
+	永久链接:http://mypage.zju.edu.cn/weblog/dengjian&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+
+
+	中文主页
+英文主页
+			博客
+
+
+
+
+
+
+
+
+
+
+			
+				
+
+	
+[1/1]
+首页	上一页下一页末页
+
+	
+
+浏览模式:普通|列表
+
+
+
+
+
+
+		航空航天技术概论评论楼
+
+作者:邓见日期:2011-05-08Sunday
+
+
+
+欢迎大家对"航空航天技术概论"课程提出宝贵意见,我们将在今后的教学中予以改进.
+查看更多...
+
+
+
+
+
+分类:默认分类|			固定链接|评论总数1|
+			阅读次数132
+
+
+
+
+
+
+
+		OpenFOAM中的智能指针autoPtr
+
+作者:邓见日期:2010-05-24Monday
+
+
+
+OpenFOAM中有两个常用但很难理解的模板类，自动指针模板类autoPtr和瞬态对象操作模板类tmp。这两个类几乎无处不在，使用极易出错。OpenFOAM通过该自动指针来实现对象的多态创建。这使得你可以在不改变程序的情况下，完成多种不同实现。本文意在探讨，这autoPtr的使用...
+查看更多...
+
+
+
+
+
+分类:OpenFOAM网上资料大全|			固定链接|评论总数0|
+			阅读次数71
+
+
+			
+			
+		
+		
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+	
+	
+		姓名：邓见
+		单位：航空航天学院
+		职称：副教授
+		我共发表了2篇文章
+		共收到1条评论
+		我的主页共被访问了2202次
+	
+	
+	
+	
+
+
+我的文章分类
+
+	默认分类
+		
+OpenFOAM网上资料...
+		
+
+
+
+
+日历
+
+
+
+>>
+年月
+
+
+
+日
+一
+二
+三
+四
+五
+六
+
+
+
+
+
+
+
+
+
+
+
+我的最新文章
+
+
+		航空航天技术概论评论楼
+OpenFOAM中的智能指针a...
+	
+
+
+
+
+我的热点文章
+
+
+				航空航天技术概论评论楼
+		OpenFOAM中的智能指针a...
+
+	
+
+
+我收到的评论
+
+			
+
+	自己先占个沙发,请大...
+
+	
+
+
+我的文章汇总
+
+		2011年5月[1]
+		2010年5月[1]
+		
+	
+
+
+链接
+
+苏军伟新浪博客
+
+
+
+
+
+检索
+
+
+
+
+-所有文章-
+默认分类
+OpenFOAM网上资料大全
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+
+
+varflag=newArray();
+flag[0]='2010/05/24';
+flag[1]='2011/05/08';
+
+
+varcale=newCalendar("idCalendar",{
+SelectDay:newDate(),
+onSelectDay:function(o),
+onToday:function(o),
+onFinish:function(){
+$("idCalendarYear").innerHTML=this.Year;$("idCalendarMonth").innerHTML=this.Month;
+for(vari=0,len=flag.length;i<len;i++){
+//alert(flag[i]);
+	vard=newDate(flag[i]);
+	if(this.Year==d.getYear()){
+		if(this.Month==d.getMonth()+1)
+		{
+this.Days[d.getDate()].innerHTML=""+d.getDate()+"";
+			
+		}
+
+	}
+}
+}
+});
+$("idCalendarPre").onclick=function()
+$("idCalendarNext").onclick=function()
+
+
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));

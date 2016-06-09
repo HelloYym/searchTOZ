@@ -1,0 +1,216 @@
+
+
+
+
+
+任红军-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0009221";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	任红军
+
+
+	永久链接:http://mypage.zju.edu.cn/0009221&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+
+
+任红军:浙江大学特聘研究员，博导。
+任红军，德国慕尼黑大学的博士和美国斯坦福大学医学院博士后。2009年3月回到浙江大学化学系工作，聘为特聘研究员，同年9月晋升为博士生导师。他于1998年本科毕业于浙江大学化学系化学专业，同年保送本校有机化学专业攻读硕士研究生。2001年硕士毕业后，加入上海有机所麻生明院士课题组工作。2003年，进入慕尼黑大学攻读博士学位，师从著名的金属有机化学家PaulKnochel从事金属有机锌试剂和镁试剂的合成研究。博士毕业后，于2007年4月加入斯坦福大学医学院分子成像中心JianghongRao教授领导课题组，开始了化学生物学的研究。目前在著名期刊杂志PNAS，NatureChemistry，J.Am.Chem.Soc，Angew.Chem.Int.Ed，Org.&nbsp;Lett.,&nbsp;Chem.&nbsp;Commun.上发表多篇论文。
+
+
+			
+				
+			工作研究领域
+			
+			1有机合成方法学
+2蛋白质特异性修饰研究
+3基于FRET效应的荧光探针设计和细胞成像研究
+
+			
+				
+			联系方式
+			
+			电话：15868183766			电子信箱：renhj@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：任红军
+		单位：理学院化学系
+		职称：特聘研究员
+		我的主页共被访问了22181次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		实验室介绍
+	发表论文
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

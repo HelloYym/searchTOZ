@@ -1,0 +1,218 @@
+
+
+
+
+
+陈丽华-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0099168";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	陈丽华
+浙江大学流体力学专业
+
+	永久链接:http://mypage.zju.edu.cn/chenlihua&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			1990.9-1994.7西安交通大学能源工程学系电厂热能动力工程专业,学士学位
+1994.9-1999.9浙江大学能源系工程热物理专业,博士学位
+1999.9-2002.12浙江大学机械与能源工程学院工程力学系讲师
+2002.12-至今浙江大学机械与能源工程学院现航空航天学院工程力学系副教授
+2011.5-&nbsp;2012.6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;美国DukeUniversity机械与材料科学系访问学者
+&nbsp;
+			
+				
+			工作研究领域
+			
+			多相流动理论与数值计算,高超声速空气动力学数值研究，气弹理论与计算方法研究
+			
+				
+			联系方式
+			
+			电话：0571-87951078,87952100			电子信箱：mecclh@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：陈丽华
+		单位：航空航天学院工程力学系
+		职称：副教授
+		我的主页共被访问了17598次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	研究兴趣
+	研究人员介绍（在职人员）
+	研究人员（已毕业校友）
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	浙江大学陈伟芳教授
+杜克大学Prof.EarlH.Dowell
+浙江大学樊建人教授
+浙江大学岑可法院士
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

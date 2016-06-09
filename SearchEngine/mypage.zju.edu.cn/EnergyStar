@@ -1,0 +1,215 @@
+
+
+
+
+
+EnergyStar-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0087197";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	EnergyStar
+能源之星
+
+	永久链接:http://mypage.zju.edu.cn/EnergyStar&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;陈坚红，现任浙江大学机械与能源工程学院热能实验室主任、博士、副教授。1987年毕业于浙江大学电厂热能动力专业。在热物性测量、激光推进技术、燃气轮机和燃气&mdash;蒸汽联合循环发电技术、热力发电厂、热系统分析、故障诊断、人工智能、数据挖掘、数据融合、火力发电厂的SIS/MIS系统、数据库互连等领域，进行了广泛而深入的研究。先后参与国家自然科学基金项目：气液两相介质中脉冲激光诱导爆轰波演化过程的热动力学基础研究(编号：51276169，排名第二，在研)、基于外腔振荡的激光二极管列阵光束相干合成技术研究(编号：60278038，排名第三，已完成)、基于光纤光栅测量湿蒸汽两相流湿度场和温度场机理研究(编号：50376059，排名第三)；浙江省自然科学基金项目：湿蒸汽两相流湿度的光声学测量方法机理研究(编号：Y13E060005，排名第一，在研)；横向项目：西门子V94.3A燃气－蒸汽联合循环机组运行与维护辅助决策系统研究、9FA燃气－蒸汽联合循环机组运行与维护辅助决策系统研究、多套9FA级GTCC最佳运行方式研究、联合循环机组SIS功能模块研发、燃机多机组运行优化及经济性研究、热网系统性能模拟与损耗分析、多套9FA级GTCC最佳运行方式研究、机组性能计算与运行优化系统、发电机组能损分析、300MW联合循环机组变工况优化运行研究、温州发电厂数据库系统评价分析、化水及巡测仪联网与功能开发、抽凝机组大修前后热力试验、旋转机械的在线故障诊断系统的研制、火电厂在线性能监测与分析系统、企业管理信息系统的研制与开发、联合循环机组运行计划和负荷分配：建模、启发式遗传算法求解和数据处理；承担了大量的分析、建模、计算、应用软件研究开发和现场调试工作。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1983年9月-1987年7月：浙江大学热能专业读大学；
+　　1987年8月-1989年7月：浙江大学热物理系涡轮机教研室工作，助教，参与教学和科研工作；
+　　1989年9月-1995年1月：浙江大学电厂热能动力及自动化专业读硕士；
+　　1995年2月-1998年2月：浙江大学能源系涡轮机教研室工作，工程师，高工，进行教学和科研工作；
+　　1998年2月-2004年4月：浙江大学工程热物理专业读博士；
+　　2004年4月-今：浙江大学能源系电厂热能动力及自动化研究所工作，副教授，进行教学和科研工作；
+　　迄今为止，已在国内外期刊及国际、国内学术会议上发表论文90余篇，其中被SCI、EI、ISTP收录30余篇，获浙江省自然科学优秀论文奖12篇；发明专利6项。
+			
+				
+			工作研究领域
+			
+			热物性测量、激光推进技术、燃气轮机和燃气—蒸汽联合循环发电技术、热力发电厂、热系统分析、燃气-蒸汽联合循环、故障诊断、人工智能、数据挖掘、数据融合、火力发电厂的SIS/MIS系统、数据库互连等。
+			
+				
+			联系方式
+			
+			电话：0571-87951492			电子信箱：power@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：陈坚红
+		单位：能源工程学系
+		职称：副教授
+		我的主页共被访问了21927次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	研究成果
+	奖励荣誉
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

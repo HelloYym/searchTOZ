@@ -1,0 +1,244 @@
+
+
+
+
+
+徐维东主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0011011";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	徐维东主页
+
+
+	永久链接:http://mypage.zju.edu.cn/xuweidong&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			徐维东现任浙江大学管理学院副教授，博士生导师。目前担任国际期刊ChinaFinanceReviewInternational副主编。
+&nbsp;
+&nbsp;
+职业经历
+2013年1月&mdash;现在&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;副教授&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江大学管理学院会计与财务系
+2011年2月&mdash;2012年12月&nbsp;&nbsp;讲师&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江大学管理学院会计与财务系&nbsp;&nbsp;
+2009年8月&mdash;2010年8月&nbsp;&nbsp;&nbsp;UniversityofBritishColumbia&nbsp;商学院金融系交流
+2013年8月&mdash;2013年12月&nbsp;新加坡国立大学RMI访问
+教育背景
+2010年上海交通大学管理学博士
+2007年上海交通大学数学硕士
+2004年宁夏大学&nbsp;&nbsp;&nbsp;数学学士&nbsp;&nbsp;
+当前研究&nbsp;
+跳风险下的资产定价和资产配置研究，国家自然科学基金
+奈特不确定下的资产定价研究，钱江人才计划
+&nbsp;
+部分发表文章：
+1XuW.D.,WuC.F.,XiaoW.L.Ambiguity,assetprices,andexcessvolatilityinapure-exchangeeconomy.QuantativeFinance,2014,14,393-400.
+2MaY.,ZhangZ.J.,ZhangW.G.,XuW.D.Evaluationthedefaultriskofbondportfolioswithextremevaluetheory.ComputationalEconomics,2014,forthcoming.
+3&nbsp;SunQ.,DongY.C.,XuW.D.Effectsofhigherordermomentsonthenewsvendorproblem.InternationalJournalofProductionEconomics,2013，146，167-177.
+4&nbsp;HuM.L.,ChengY.X.,XuW.D.AgeneralizationofBoesch&rsquo;stheorem.DiscreteMathematics,2012,312(6):1171-1177.
+5&nbsp;XuW.D.,Li,H.Y.,Xiao,W.L.Ajump-diffusionapproachtomodelingvulnerableoptionpricing.FinanceResearchLetter,2012.9，48-56.
+6&nbsp;TongB.,WuC.F.,Xu,W.D.Riskconcentrationofaggregatedependentrisks:second-orderproperties.Insurance:MathematicsandEconomics,2012,50,139-149.
+7XuW.D.,Li,H.Y.,WuC.F.Arobustgeneralequilibriumstochasticvolatilitymodelwithrecursivepreferenceinvestors.AnnalsofEconomicsandFinance,2011,12,217-231..
+8&nbsp;XuW.D.,WuC.F.,Li,H.Y.Foreignequityoptionpricingunderstochasticvolatilitymodelwithdoublejumps.EconomicModeling,2011,28(4):1857-1863.
+9&nbsp;XuW.D.,WuC.F.,Li,H.Y.&nbsp;Robustgeneralequilibriumunderstochasticvolatilitymodel.FinanceResearchLetters,2010,224-231.
+10&nbsp;XuW.D.,WuC.F.,DongY.C.,XiaoW.L.ModellingChinesestockreturnswithstabledistributionl.MathematicalandComputerModelling,2011,54,610-617.
+11XiaoW.L.,ZhangW.G.,XuW.D.ParameterestimationforfractionalOrnstein-Uhlenbeckprocessesatdiscreteobservation.AppliedMathematicalModelling,2011,53,4196-4207.
+12W.D.Xu,C.F.Wu,W.J.Xu,H.Y.Li.Dynamicassetallocationwithjumprisk.JournalofRisk,2010,12(3):29-44.
+13W.D.Xu,C.F.Wu,W.J.Xu,H.Y.Li.Ajump-diffusionmodelforoptionpricingunderuncertaintyenvironments.Insurance:MathematicsandEconomics,2009,44(3):337-344.
+&nbsp;
+Workingpapers
+&nbsp;
+1PricingvulnerableoptionswithHawkes-typejumpclusteringrisk,2014.(withMaYong)
+2PricingTurboWarrantsundermixed-exponentialjumpdiffusionmodel,2013.(withYuJianfeng,WuChongfeng)
+3Whentobuyorsellinsupplychainswiththepresenceofmergers,2012,(withWangXunxiao,WuChongfeng),minorrevised.
+4Volatilityforecasting:theroleoflunch-breakreturns,overnightreturns,tradingvolumeandleverageeffects,2014,(WithWangXunxiao,WuChongfeng),InternationalJournalofForecasting,forthcoming.
+&nbsp;
+5Animprovedframeworkforassetpricingwithheterogeneousbeliefsandrelativeperformance,2014,(withYuJianfeng,WuChongfeng),underrevision.
+&nbsp;
+			
+				
+			工作研究领域
+			
+			资产估值，公司财务，金融风险计量
+			
+				
+			联系方式
+			
+			电话：0571-88206867			电子信箱：weidxu@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：徐维东
+		单位：管理学院会计与财务管理系
+		职称：副教授
+		我的主页共被访问了2277次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	个人主页
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

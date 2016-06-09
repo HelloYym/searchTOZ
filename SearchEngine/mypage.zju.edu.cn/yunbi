@@ -1,0 +1,205 @@
+
+
+
+
+
+卢韵碧-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0095494";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	卢韵碧
+
+
+	永久链接:http://mypage.zju.edu.cn/yunbi&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+1995年7月毕业于浙江医科大学（现为浙江大学医学院），获学士学位；同年任浙江大学医学院药理教研室助教；2000年7月浙江大学医学院药理学专业硕士研究生毕业，获医学硕士学位；同年任浙江大学医学院药理教研室讲师；2002年-2006年浙江大学、德国莱比锡大学联合培养博士研究生（德国DAAD奖学金资助），2007年3月毕业获浙江大学博士学位，同年被聘为浙江大学副教授、硕士生导师。2007年10月至2007年12月在美国加利福尼亚大学参加PBL教学培训；2008年10月至2009年6月，2011年4月-9月为德国莱比锡大学Paul-Flechsig脑研究所、实验物理I系访问学者（由DAAD奖学金项目、德国Interneuro研究生院项目、德国BuildMoNa研究生院项目资助）；2014年9月至2015年2月为加拿大多伦多大学访问学者。
+			
+				
+			工作研究领域
+			
+			神经药理
+			
+				
+			联系方式
+			
+			电话：88208223			电子信箱：yunbi@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：卢韵碧
+		单位：基础医学系
+		职称：副教授
+		我的主页共被访问了911次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

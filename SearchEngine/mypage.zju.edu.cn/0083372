@@ -1,0 +1,207 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0083372";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0083372&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			1978.3-1982.12&nbsp;浙江医科大学医学系本科学生，获学士学位。1985.9-1988.7苏州医学院医学遗传学专业硕士研究生，获硕士学位。1990.9-1991.6CMB-HKU奖学金获得者，香港大学医学院妇产科系进修学习。1997.10.-1998.11澳大利亚Adelaide大学妇产科系访问学者，从事比较基因组杂交着床前胚胎遗传学研究。2002.11-2003.11国家公派美国MAYO医学中心内分泌研究所访问学者(博士后)，从事生殖内分泌研究。2004.9-浙江大学研究生院在职博士研究生。2005.1.-2005.8美国MAYO医学中心内分泌研究所访问学者(博士后)，从事生殖内分泌研究。自1983.1本科毕业后主要从事临床遗传学（产前和植入前遗传学诊断）、生殖内分泌（辅助生殖、分子生物学）的实验室工作。
+			
+				
+			工作研究领域
+			
+			植入前遗传学诊断，辅助生殖技术与胚胎基因组重新编程
+			
+				
+			联系方式
+			
+			电话：87013891,13666652091			电子信箱：jinfan@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：金帆
+		单位：临床医学二系
+		职称：教授
+		我的主页共被访问了6141次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	研究成果
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

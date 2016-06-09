@@ -1,0 +1,230 @@
+
+
+
+
+
+周伟军教授-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0083000";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	周伟军教授
+油菜种质创新与分子育种；生理生态与调控研究
+
+	永久链接:http://mypage.zju.edu.cn/wjzhou&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;&nbsp;
+周伟军，博士，男，浙江鄞县人。日本宇都宫大学应用生物学博士后毕业，浙江大学作物科学研究所教授、博士生导师，从事油菜遗传育种与种子工程、生理生态与环境调控及安全农产品研究。历任浙江大学作物所副所长、农学系主任、农业试验站副站长。育成了油菜601、高油605、浙大619、浙大622等系列优质高产抗病油菜新品种，提出了作物高产生理与配套栽培技术体系。已授权发明专利7项，发表了110余篇SCI论文与英文著作，个人H指数25，获省部级一、二等科技进步奖5项。现兼任国际刊物《ActaPhysiologiaePlantarum》、《CropandPastureScience》、《JournalofIntegrativeAgriculture》、《PLoSONE》编委，中国作物学会理事、中国作物学会油料作物专业委员会理事、中国作物学会栽培专业委员会作物生理学组副组长、中国植保学会杂草学分会理事、全国作物高产创建专家指导团专家、浙江省作物学会理事等。应邀担任2012年第六届国际杂草科学大会的协调人，先后在英国、瑞典、德国、日本等多家研究机构研修及工作6年，与国内外同行建立了良好的合作关系。
+&nbsp;
+学位教育
+1994.09&ndash;1998.06:浙江农业大学环境资源学院，理学博士(生态学)
+1987.09&ndash;1988.09:英国伯明翰大学生物学院，理学硕士(生物学)
+1979.11&ndash;1983.06:浙江农业大学农学系，农学学士
+&nbsp;
+工作简历
+1998.09&ndash;至今:浙江大学农业与生物技术学院，教授、博导(2000.3)
+2010.11&ndash;2013.08:浙江大学农业试验站，副站长
+2009.09&ndash;2011.01:浙江大学农学系，系主任
+2005.12&ndash;2009.12:浙江大学作物科学研究所，副所长
+2006.02&ndash;2008.04:浙江大学外事处挂职，副处长
+1994.12&ndash;1998.08:浙江农业大学农学系，副教授
+1991.03&ndash;1994.12:浙江农业大学农学系，讲师
+1983.08&ndash;1991.03:浙江农业大学农学系，助教
+&nbsp;
+			
+				
+			工作研究领域
+			
+			作物种质创新与分子育种；作物品质形成与分子调控；生理生态与环境调控。
+			
+				
+			联系方式
+			
+			电话：0571-88982770			电子信箱：wjzhou@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：周伟军
+		单位：农业与生物技术学院农学系
+		职称：教授
+		我的主页共被访问了15922次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	学术交流（讲座报告）
+	研究成果
+	专利成果
+	奖励荣誉
+	实验室介绍
+	实验室合影
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

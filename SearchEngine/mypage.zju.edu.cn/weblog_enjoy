@@ -1,0 +1,552 @@
+
+
+
+
+
+轨迹-博客
+
+
+
+
+
+
+varctxPath="http://mypage.zju.edu.cn";
+varb_handle="enjoy";
+varcfg_weblog="http://mypage.zju.edu.cn/weblog";
+vard=newDate()
+varselyear=d.getFullYear();
+varselmonth=d.getMonth()+1;
+
+
+
+
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	color:#111;
+	margin-right:10px;	
+}
+#mainlinkullia,.tagsa:hover{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+.tagsa{
+	margin-right:10px;
+}
+img{
+	border:none;
+}
+
+
+
+
+
+
+
+
+
+
+	
+		首页
+		帮助
+		登录
+	
+
+
+
+
+
+
+	轨迹
+想什么、做什么、怎么做
+
+	永久链接:http://mypage.zju.edu.cn/weblog/enjoy&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+
+
+	中文主页
+			博客
+
+
+
+
+
+
+
+
+
+
+			
+				
+
+	
+[1/2]
+首页	上一页下一页末页
+
+	
+
+浏览模式:普通|列表
+
+
+
+
+
+
+		ANSYS内部数学函数
+
+作者:何勇日期:2010-07-27Tuesday
+
+
+
+ParameterExpressionsIfaparameteroperationexpressionisinputinanumericargument,thenumericvalueoftheexpressionissubstitutedintothecommandatthatpoint.AllowableoperationexpressionsareoftheformE1oE2oE3...oE10whereE1...
+查看更多...
+
+
+
+
+
+分类:有限元技术|			固定链接|评论总数0|
+			阅读次数29
+
+
+
+
+
+
+
+		淘宝链接
+
+作者:何勇日期:2010-07-08Thursday
+
+
+
+如果你有过网购经历，你一定知道淘宝网，你知道http://www.taobao.com这个网址可以进入淘宝网首页，但你肯定不知道淘宝网还有各种内部员工购物通道；比如：正品商城通道，从这里进入全是淘宝网的品质商家，不担心受骗上当买到假货；淘宝网促销通道，找促销商品从此进...
+查看更多...
+
+Tags:
+网购
+	
+
+
+
+分类:其他|			固定链接|评论总数0|
+			阅读次数40
+
+
+
+
+
+
+
+		如何在Word中加载MathType和Endnote菜单与工具栏
+
+作者:何勇日期:2010-01-13Wednesday
+
+
+
+如何在Word中加载MathType和Endnote菜单与工具栏要在word中使用mathtype必须先安装word，再安装mathtype，mathtype会自动把需要在word启动时需加载的模板加载，但经常发现即使重新安装了也无法加载mathtype菜单和工具条，以下是解决办法：（1）修改模板文件word加载...
+查看更多...
+
+Tags:
+mathtype
+	
+
+
+
+分类:其他|			固定链接|评论总数0|
+			阅读次数33
+
+
+
+
+
+
+
+		工程应变和真实应变的对应关系
+
+作者:何勇日期:2009-10-16Friday
+
+
+
+
+查看更多...
+
+Tags:
+应变
+	
+
+
+
+分类:专业相关|			固定链接|评论总数0|
+			阅读次数35
+
+
+
+
+
+
+
+		Ansys使用技巧-非线性收敛准则
+
+作者:何勇日期:2009-09-01Tuesday
+
+
+
+ansys计算非线性时会绘出收敛图，其中横坐标是cumulativeiterationnumber纵坐标是absoluteconvergencenorm。他们分别是累积迭代次数和绝对收敛范数，用来判断非线性分析是否收敛。ansys在每荷载步的迭代中计算非线性的收敛判别准则和计算残差。其中计算残...
+查看更多...
+
+Tags:
+ANSYS
+	
+
+
+
+分类:有限元技术|			固定链接|评论总数0|
+			阅读次数71
+
+
+
+
+
+
+
+		（转载）世界名校的课件
+
+作者:何勇日期:2009-09-01Tuesday
+
+
+
+一、伯克利加州大学伯克利分校http://webcast.berkeley.edu/courses.php作为美国第一的公立大学，伯克利分校提供了许多优秀教授的播客和视频讲座，可以跟踪最新的讲座。想看教授布置的作业和课堂笔记，可以点击该教授的网页，通常，他/她都会第一堂课留下网址。实...
+查看更多...
+
+
+
+
+
+分类:专业相关|			固定链接|评论总数0|
+			阅读次数45
+
+
+
+
+
+
+
+		（转载）Ansys使用技巧-动画制作功能
+
+作者:何勇日期:2009-09-01Tuesday
+
+
+
+ANSYS提供的现成的动画制作功能已经非常丰富，各种计算结果的变形动画、时间历程动画、切片动画、粒子轨迹动画等等，均可通过一个简单的菜单即可完成。即便如此，对于一些特殊的要求来说，尚无法直接实现。对于这种情况，ANSYS提供的&ldquo;片内存（SegmentMemory）...
+查看更多...
+
+Tags:
+ANSYS
+	
+
+
+
+分类:有限元技术|			固定链接|评论总数0|
+			阅读次数82
+
+
+
+
+
+
+
+		Ansys中的阻尼
+
+作者:何勇日期:2009-09-01Tuesday
+
+
+
+ANSYS动力学分析中提供了各种的阻尼形式，这些阻尼在分析中是如何计算，并对分析有什么影响呢？本文将就此做一些说明何介绍.一．首先要清楚，在完全方法和模态叠加法中定义的阻尼是不同。因为前者使用节点坐标，而后者使用总体坐标.1．在完全的模态分析、谐相应分...
+查看更多...
+
+Tags:
+ANSYS
+	
+
+
+
+分类:有限元技术|			固定链接|评论总数0|
+			阅读次数81
+
+
+
+
+
+
+
+		Ansys使用技巧-后处理
+
+作者:何勇日期:2009-09-01Tuesday
+
+
+
+1.ANSYS后处理时如何按灰度输出云图？1）你可以到utilitymenu-plotctrls-style-colors-windowcolors试试2）直接utilitymenu-plotctrls－redirectplots2将云图输出为JPG菜单->PlotCtrls->RedirectPlots->ToJPEGFiles3.怎么在计算结果实体云图中切面?命...
+查看更多...
+
+Tags:
+ANSYS
+	
+
+
+
+分类:有限元技术|			固定链接|评论总数0|
+			阅读次数76
+
+
+
+
+
+
+
+		(转载)同一模型不同结果文件（.rst文件）的合成
+
+作者:何勇日期:2009-09-10Thursday
+
+
+
+ANSYS后处理中的LOADCASE功能除能进行多个工况结果之间的多种计算之外，还能对同一模型计算生成的多个.RST文件进行合成。/filenam,file/prep7et,1,42mp,ex,1,2e11mp,nuxy,1,0.3blc4,,,3,1esize,0.1amesh,allfinisave!/filenam,ppp01/solulsel,s,loc,x...
+查看更多...
+
+Tags:
+ANSYS
+	
+
+
+
+分类:有限元技术|			固定链接|评论总数0|
+			阅读次数82
+
+
+			
+			
+		
+		
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+	
+	
+		姓名：何勇
+		单位：建筑工程学院土木工程学系
+		职称：助理研究员（自然科学）
+		我共发表了12篇文章
+		共收到0条评论
+		我的主页共被访问了1296次
+	
+	
+	
+	
+
+
+我的文章分类
+
+	其他
+		
+有限元技术
+		
+电脑相关
+		
+专业相关
+		
+
+
+
+
+日历
+
+
+
+>>
+年月
+
+
+
+日
+一
+二
+三
+四
+五
+六
+
+
+
+
+
+
+
+
+
+
+
+我的最新文章
+
+
+		ANSYS内部数学函数
+淘宝链接
+如何在Word中加载MathT...
+工程应变和真实应变的对...
+均值方差计算
+(转载)同一模型不同结果...
+职位、职务、职衔英语翻...
+（转载）世界名校的课件
+Ansys使用技巧-后处理
+Ansys使用技巧-非线性收...
+	
+
+
+
+
+我的热点文章
+
+
+				(转载)同一模型不同结果...
+		（转载）Ansys使用技巧...
+		Ansys中的阻尼
+		Ansys使用技巧-后处理
+		Ansys使用技巧-非线性收...
+		均值方差计算
+		（转载）世界名校的课件
+		淘宝链接
+		职位、职务、职衔英语翻...
+		工程应变和真实应变的对...
+
+	
+
+
+我收到的评论
+
+	
+	
+
+
+我的文章汇总
+
+		2010年7月[2]
+		2010年1月[1]
+		2009年10月[2]
+		2009年9月[7]
+		
+	
+
+
+链接
+
+mile
+
+
+
+
+
+检索
+
+
+
+
+-所有文章-
+其他
+有限元技术
+电脑相关
+专业相关
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+
+
+varflag=newArray();
+flag[0]='2009/10/14';
+flag[1]='2009/09/09';
+flag[2]='2009/09/10';
+flag[3]='2009/09/01';
+flag[4]='2009/10/16';
+flag[5]='2010/01/13';
+flag[6]='2010/07/08';
+flag[7]='2010/07/27';
+
+
+varcale=newCalendar("idCalendar",{
+SelectDay:newDate(),
+onSelectDay:function(o),
+onToday:function(o),
+onFinish:function(){
+$("idCalendarYear").innerHTML=this.Year;$("idCalendarMonth").innerHTML=this.Month;
+for(vari=0,len=flag.length;i<len;i++){
+//alert(flag[i]);
+	vard=newDate(flag[i]);
+	if(this.Year==d.getYear()){
+		if(this.Month==d.getMonth()+1)
+		{
+this.Days[d.getDate()].innerHTML=""+d.getDate()+"";
+			
+		}
+
+	}
+}
+}
+});
+$("idCalendarPre").onclick=function()
+$("idCalendarNext").onclick=function()
+
+
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));

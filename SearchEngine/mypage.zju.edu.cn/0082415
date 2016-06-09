@@ -1,0 +1,199 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0082415";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0082415&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+				
+			工作研究领域
+			
+			岗位职责:
+1．党务工作：协助党委书记分管学院党委日常党务工作、学院党政办公室党线工作；负责学院党委组织、宣传、群工（工会、共青团、学生会、研究生会、博士生会）等相关工作。
+2．学生思想政治工作和学生党建工作：制定全院学生思想政治教育计划及组织全院性教育活动，对学生实施日常思想政治教育；负责学院学生党建工作规划的制订及实施，负责学生党总支各项工作。
+3．学生行政管理工作：负责制定全院学生素质综合测评方案及组织实施；负责制定学院各项奖学金和荣誉称号的评比条例及组织开展评奖工作；负责学院学生违纪处分的审核工作；负责学院学生困难补助、贷学金和学费减免、勤工助学等有关资助政策的实施及相关经费的审批工作。
+4．负责工会、教代会工作；
+5．其他工作：负责本科生招生工作、学生就业指导工作；负责制定学业导师、班主任工作条例，组织班主任工作考核工作；负责学院群体工作；分管离退休工作。
+
+工作地点：湖滨校区3号楼1509
+
+			
+					
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：张小玲
+		单位：其他
+		职称：副主任药师
+		我的主页共被访问了1228次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

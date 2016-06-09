@@ -1,0 +1,237 @@
+
+
+
+
+
+张永强的个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0006013";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	张永强的个人主页
+YQZhang'sblog
+
+	永久链接:http://mypage.zju.edu.cn/yqzhang&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			1991年7月毕业于南京工业大学建工系工业与民用建筑专业，获学士学位，1994年3月毕业于浙江大学建筑工程学院岩土工程专业，获硕士学位，2000年7月毕业于西安交通大学建筑工程与力学学院固体力学专业,获博士学位。1994年3月至1996年3月在深圳市建设集团工作。2001年初至2005年底分别在新加坡南洋理工大学土木与环境工程学院和新加坡国立大学新加坡&amp;麻省理工学院联盟从事博士后研究工作。2006年3月到浙江大学工作，同年7月被特评为教授，年底被聘为博士生导师。2003年获陕西省科学技术（自然科学类）一等奖一项，2011年获国家自然科学二等奖一项，获教育部高校科技进步一等奖一项。与他人合作著有英文专著一部，由Springer出版社出版。主持或参与国内外项目十余项。发表论文60余篇，其中SCI论文被SCI引用670余次（SCI他引640余次）。多次受邀担任JournalofAppliedPhysics,Nanotechnology,PhysicsLettersA,InternationalJournalofSolidsandStructures,&nbsp;CompositesScience,JournalofSoundandVibration,International&nbsp;Journal&nbsp;ofMechanicalSciences,&nbsp;ZAMMZeitschriftf&uuml;rAngewandteMathematikundMechanik,&nbsp;International&nbsp;JournalofComputationalMethod,&nbsp;以及中国科学等国内外著名杂志的论文评审工作。
+主要SCI期刊论文：
+1．&nbsp;&nbsp;Yu,M.H.,Li,J.C.,Zhang,Y.Q.,Unifiedcharacteristicslinetheoryofspacialaxisymmetricplasticproblem,ScienceinChinaSeriesE:TechnolgicalScience,2001,44(2):207&ndash;215.
+2．&nbsp;&nbsp;&nbsp;Zhang,Y.Q.,Hao,H.,Yu,M.H.,Effectofporosityonthepropertiesofstrainlocalizationinporousmediaunderundrainedconditions.InternationalJournalofSolidsandStructures,2002,39(7):1817-1831.&nbsp;(Correspondingauthor)
+3．&nbsp;&nbsp;&nbsp;Zhang,Y.Q.,Hao,H.,Yu,M.H.,Analysisofdiscontinuousbifurcationsforelasto-plasticgeomaterialswitheffectofdamage,ACTAMechanica,2002,159(1-4):65-76.&nbsp;(Correspondingauthor)
+4．&nbsp;&nbsp;&nbsp;Zhang,Y.Q.,Lu,Y.,Yu,M.H.,Investigationofstrainlocalizationinelastoplasticmaterialswithtransverselyisotropicelasticity,InternationalJournalofMechanicalSciences,2003,45(2):217-233.&nbsp;(Correspondingauthor)
+5．&nbsp;&nbsp;Zhang,Y.Q.,Hao,H.,Lu,Y.,Anisotropicdamageandfragmentationofrockmaterialsunderexplosiveloading,&nbsp;InternationalJournalofEngineeringScience,2003,41(9):917-929.&nbsp;(Correspondingauthor)
+6．&nbsp;&nbsp;Zhang,Y.Q.,Hao,H.,Yu,M.H.,Aunifiedcharacteristictheoryforplasticplanestressandstrainproblems,ASME,JournalofAppliedMechanics,2003,70(5):649-654.&nbsp;(Correspondingauthor)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+7．&nbsp;&nbsp;Zhang,Y.Q.,Hao,H.,Dynamicfractureinbrittlesolidsathighratesofloading,ASME,JournalofAppliedMechanics,2003,70(3):454-457.&nbsp;(Correspondingauthor)&nbsp;&nbsp;&nbsp;
+8．&nbsp;&nbsp;&nbsp;Zhang,Y.Q.,Lu,Y.,Qiang,H.F.,Influencesofdamageonpropertiesofstrainlocalizationforgeomaterialsatplanestressandplanestrain,ArchiveofAppliedMechanics,2004,74(1-2):102-117.&nbsp;(Correspondingauthor)
+9．&nbsp;&nbsp;&nbsp;Zhang,Y.Q.,Liu,G.R.,Han,X.,Analysisofstrainlocalizationforductilematerialswitheffectofvoidgrowth,InternationalJournalofMechanicalSciences,2004,46(7):1021-1034.&nbsp;(Correspondingauthor)
+10．Zhang,Y.Q.,Lu,Y.,Hao,H.,Analysisoffragmentsizeandejectionvelocityathighstrainrate,InternationalJournalofMechanicalSciences,2004,46(1):27-34.&nbsp;(Correspondingauthor)&nbsp;&nbsp;&nbsp;&nbsp;
+11．Zhang,Y.Q.,Liu,G.R.,Wang,J.S.,Small-scaleeffectsonbucklingofmultiwalledcarbonnanotubesunderaxialcompression,PhysicalReviewB,70(20),2004,Art.No.205430.&nbsp;(Correspondingauthor)
+12．Zhang,Y.Q.,Liu,G.R.,Xie,X.Y.,Freetransversevibrationsofdouble-walledcarbonnanotubesusingatheoryofnonlocalelasticity,PhysicalReviewB,2005,71(19),&nbsp;Art.No.195404.&nbsp;(Correspondingauthor)
+13．Zhang,Y.Q.,Liu,G.R.,Han,X.,Transversevibrationsofdouble-walledcarbonnanotubesundercompressiveaxialload,PhysicsLettersA,2005,340(1-4):258-266.&nbsp;(Correspondingauthor)
+14．Zhang,Y.Q.,Lu,Y.,Ma,G.W.,Investigationofdynamicresponseofbrittlematerialsunderhigh-rateloading,MechanicsResearchCommunications,2006，33(3):359-369.&nbsp;
+15．Zhang,Y.Q.,Liu,G.R.,Han,X.,Effectofsmalllengthscaleonelasticbucklingofmulti-walledcarbonnanotubesunderradialpressure,PhysicsLettersA,2006,349(5):370-376.&nbsp;(Correspondingauthor)
+16．Zhang,Y.Q.,Liu,G.R.,QiangH.F.,Li,G.Y.,Investigationofbucklingofdouble-walledcarbonnanotubesembeddedinanelasticmediumusingtheenergymethod,InternationalJournalofMechanicalSciences,2006,48:53-61.&nbsp;(Correspondingauthor)
+17.&nbsp;Zhang,Y.Q.,Liu,X.,Liu,G.R.,Thermaleffectontransversevibrationsofdouble-walledcarbonnanotubes,&nbsp;&nbsp;&nbsp;Nanotechnology,2007,18(44):ArticleNumber:445701.&nbsp;&nbsp;&nbsp;&nbsp;
+18．Zhang,Y.Q.,Lu,Y.,Wang,L.Z.,Vibrationsofrigiddiskonelasticandviscoelasticstratumundertransientground-transmittedexcitation,JournalofSoundandVibration,2007，304(1-2):272-283.&nbsp;(Correspondingauthor)
+19．Zhang,Y.Q.,Lu，Y.,Wang,&nbsp;L.Z.,Investigationofverticalvibrationsofrigiddiskonsaturatedporoelasticstratumunderhigh-frequencyexcitation,InternationalJournalofEngineeringScience，2008，46（3）：202-210.&nbsp;(Correspondingauthor)
+20．Zhang,Y.Q.,Liu,X.,Zhao,J.H.,Influenceoftemperaturechangeoncolumnbucklingofmultiwalledcarbonnanotubes,PhysicsLettersA,2008,372(10):1676-1681.&nbsp;
+21．Zhang,Y.Q.,Lu,Y.,Ma,G.W.,Effectofcompressiveaxialloadonforcedtransversevibrationsofadouble-beamsystem,InternationalJournalofMechanicalSciences,2008,50(2):299-305.&nbsp;(Correspondingauthor)
+22．Zhang，Y.Q.,Lu，Y.,Wang,S.L.,LiuX.，Vibrationandbucklingofadouble-beamsystemundercompressiveaxialloading，JournalofSoundandVibration,&nbsp;2008,318(1-2):341-352.&nbsp;
+23&nbsp;&nbsp;&nbsp;&nbsp;Wang,L.Z.,Zhang,Y.Q.,Plasticcollapseanalysisofthin-walledpipesbasedonunifiedyieldcriterion,InternationalJournalofMechanicalSciences,2011,53(5):348-354.&nbsp;(Correspondingauthor)
+24&nbsp;&nbsp;&nbsp;&nbsp;Jin,C.W.,Wang,L.Z.,Zhang,Y.Q.,Strengthdifferentialeffectandinfluenceofstrengthcriteriononburstpressureofthin-walledpipelines.AppliedMathematicsandMechanics-EnglishEdition,2012,33(11):1361&minus;1370.&nbsp;(Correspondingauthor)
+25&nbsp;&nbsp;&nbsp;&nbsp;Pang,M.,Yang,S.,Zhang,Y.Q.,ExperimentalStudyofCementMortar-SteelFiberReinforcedRammedEarthWall,Sustainability,2012,4:2630-2638.&nbsp;(Correspondingauthor)
+26&nbsp;&nbsp;&nbsp;&nbsp;Zhang,Y.Q.,Wang,L.Z.,Burstpressureofpipelineswithplasticanisotropyundercombinedinternalandexternalpressures.JournalofEngineeringMechanics,ASCE,2013;139(7):920&minus;924.&nbsp;&nbsp;(Correspondingauthor)
+27&nbsp;&nbsp;&nbsp;&nbsp;Zhang,Y.Q.,Pang,M.,Chen,W.Q.,Non-localmodellingonthebuclikngofaweakenednanobeam,Micro&amp;Nanoletters,2013,8(2):102-106.&nbsp;&nbsp;(Correspondingauthor)
+28&nbsp;&nbsp;&nbsp;&nbsp;Zhang,Y.Q.,Wang,L.Z.,Jin,W.L.,Theoreticalassessmentofburstfailureofinternallypressurizeddefect-freepipelineswithplasticanisotropy,ChinaOceanEngineering,2013,27(4):427-436.&nbsp;(Correspondingauthor)
+29&nbsp;&nbsp;&nbsp;&nbsp;Wang,Z.Y.,Zhang,P.,Zhang,Y.Q.,Locallyresonantbandgapsinflexuralvibrationsofatimoshenkobeamwithperiodicallyattachedmultioscillators,MathematicalProblemsinEngineering,2013,ArticleNumber:146975.&nbsp;
+30&nbsp;&nbsp;&nbsp;&nbsp;Zhang,P.,Wang,Z.Y.,Zhang,Y.Q.,Liang,X.,Multi-banddesignforone-dimensionalphononiccrystals.ScienceChina-Physics,Mechanics&amp;Astronomy,2013,56(7):1253-1262.&nbsp;&nbsp;
+31&nbsp;&nbsp;&nbsp;Wang,Z.Y.,Zhang,P.,&nbsp;Zhang,Y.Q.,Nie,X.F.,Experimentalverificationofdirectionalliquidsurfacewaveemissionatbandedgefrequencies,&nbsp;&nbsp;PHYSICAB-CONDENSEDMATTER,431:75-79.&nbsp;&nbsp;
+
+&nbsp;
+			
+				
+			工作研究领域
+			
+			岩土工程与力学，材料损伤与结构破坏，纳米结构与力学
+			
+				
+			联系方式
+			
+						电子信箱：cyqzhang@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：张永强
+		单位：建工学院水利与海洋工程系
+		职称：教授
+		我的主页共被访问了4649次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

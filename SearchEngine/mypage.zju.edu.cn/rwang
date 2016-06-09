@@ -1,0 +1,216 @@
+
+
+
+
+
+王锐-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0008211";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	王锐
+
+
+	永久链接:http://mypage.zju.edu.cn/rwang&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			浙江大学，计算机学院，CAD&CG国家重点实验室，副教授，博导。
+
+&#8226;	2007年－2009年，浙江大学，计算机科学与技术学院，师资博后/讲师
+&#8226;	2012年－2014年，美国Cornell大学，计算机学院，访问副教授
+&#8226;	2010年－至今，浙江大学，计算机科学与技术学院，副教授
+
+已培养/共同培养十余名硕/博毕业生，除部分出国深造外，广泛就职于国内外游戏公司/IT企业。
+
+
+
+详情请访问实验室个人主页：
+http://www.cad.zju.edu.cn/home/rwang/
+			
+				
+			工作研究领域
+			
+			一直从事计算机图形学绘制方面的研究工作，在快速/实时全局光照明绘制、实时阴影计算、大规模（Out-of-core）场景绘制、自动的shader代码简化等方面取得了具有国际先进水平的研究成果。在计算机图形学的顶级期刊/会议ACMTransactiononGraphic及SIGGRAPH，SIGGRAPHAsia发表文章5篇，在IEEETransactiononVisualizationandGraphics,ComputerGraphicsForum，Computer&Graphics，VisualComputer，EuroGraphics，PacificGraphics等国际知名期刊和会议共发表论文二十余篇。申请多项国家发明专利。
+			
+				
+			联系方式
+			
+						电子信箱：rwang[at]cad.zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：王锐
+		单位：计算机科学与技术学院
+		职称：副教授
+		我的主页共被访问了827次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	CAD&CG国家重点实验室
+实验室个人主页
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

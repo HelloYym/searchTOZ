@@ -1,0 +1,1 @@
+{'name': u'\uff1a\u53f2\u6cbb\u56fd\uff08SHI Zhiguo\uff09', 'title': u'\uff1aProfessor', 'photo': u'http://mypage.zju.edu.cn/teacherimage/0006017.jpg', 'pos': './mypage.zju.edu.cn/weblog|shizg', 'intro': [], 'department': u'\uff1aDept Info. Electron. Engineering', 'homepage': 'http://mypage.zju.edu.cn/weblog/shizg'}

@@ -1,0 +1,253 @@
+
+
+
+
+
+朱燕群的主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0007374";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	朱燕群的主页
+
+
+	永久链接:http://mypage.zju.edu.cn/zhuyanqun&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+
+
+
+
+主要学习及工作经历：
+2001.09-2004.07&nbsp;&nbsp;&nbsp;&nbsp;浙江大学机械与能源工程学院热能与动力工程专业，获工学学士学位
+2005.09-2007.07&nbsp;&nbsp;&nbsp;&nbsp;上海理工大学动力学院热能工程专业，获硕士学位&nbsp;
+学术交流及社会活动：
+2006.12.10-2006.12.13&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;参加在中国澳门举办的第五届国际多相流测量会议（5thISMTMF/IWPT-2），并做了学术报告，题目为&ldquo;MercuryEmissionMeasurementin
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Coal-firedBoilersbyContinuousMercuryMonitorandOntarioHydroMethod&rdquo;
+2007.10.23-2007.10.26&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;参加在杭州举办的国际动力会议（2007-ICOPE）
+2008.07.17-2008.07.19&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;作为能源清洁利用国家重点实验室代表团成员访问美国佛罗里达大学，并参加学术讨论会
+2008.08.05&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;美国夏威夷大学学术访问
+2008.12.16-2008.12.19&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;参加在泰国清迈举办的第五届国际燃烧焚烧/裂解及污染物控制会议(5thi-CIPEC)，并做PostPresentation，题为
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&ldquo;Numericalsimulationonmercuryformation,distributionandtransformationduringcoalcombustion&rdquo;
+2009.01.17-2009.02.27&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;赴瑞典隆德大学访问交流
+2009.07.17&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;随团赴英国利兹大学访问，参加了由中英双方联合举办的&ldquo;能源与环境研讨会&rdquo;，并在会上做了&ldquo;MercuryEmissionsanditsControlin&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Coal-firedPowerPlants&rdquo;&ldquo;中国燃煤汞排放与控制技术&rdquo;报告。英方与会者对所做的工作很感兴趣，并提了很多问题
+2009.07.21-24&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;随团参观和访问曼彻斯特大学以及瑞典隆德大学燃烧诊断中心
+2010.2.5-2010.2.27&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;赴瑞典隆德大学燃烧物理实验室短期访问
+
+&nbsp;
+
+负责或参与的科研项目：
+
+[1]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;企业横向课题&ldquo;烟气中汞控制机理及技术研究&rdquo;课题编号：H20072037(2007.9.28-2010.9.27)100万元，1/1(负责人)
+[2]&nbsp;&nbsp;&nbsp;国家高技术研究发展计划(863计划)&ldquo;中国燃煤汞排放及其控制研究&rdquo;课题编号NO.2005AA520080（与美利坚合众国能源部化石能技术开发与利用合作议定书）（2005-2007）150万，15/18
+[3]&nbsp;&nbsp;&nbsp;国家高技术研究发展计划(863计划)&ldquo;硫碘热化半循环大规模联产H2和H2SO4的关键技术研究&rdquo;课题编号:2008AA05Z103(2008.12.01-2010.11.30)95万，4/6（项目骨干）
+[4]&nbsp;&nbsp;&nbsp;国家自然科学基金项目&ldquo;基于多种自由基测量的PLIF技术对低热值合成气湍流火焰燃烧反应机理的研究&rdquo;课题编号:J20080890（2009.01-2011.12）21万，3/7（项目骨干）
+[5]&nbsp;&nbsp;&nbsp;浙江省自然科学基金&ldquo;热化学硫碘开路循环产氢气和硫酸的关键基础问题研究&rdquo;课题编号:Y106538（2007.1-2009.12）10万，6/6（项目骨干）
+
+[6]&nbsp;&nbsp;&nbsp;高等学校博士学科点专项科研基金&ldquo;常规燃烧污染物控制过程汞形态转化脱除新方法研究&rdquo;课题编号:20050335057（2006.01-2008.12）6万，5/9（项目骨干）
+[7]&nbsp;&nbsp;&nbsp;国际科技合作项目&ldquo;生物质快速热裂解制油及生物油气化合成高品位液体燃料技术&rdquo;课题编号:2009DFA61050（2009.01.01-2011.12.31）273万，8/13
+
+&nbsp;
+
+所获奖项：
+
+[1]&nbsp;&nbsp;作为指导教师，指导&ldquo;纳米金属燃料动力循环系统&rdquo;项目，参加了由教育部主办的2009年第二届全国大学生节能减排社会实践与科学竞赛（博奇环保杯），荣获一等奖。
+
+&nbsp;
+&nbsp;
+			
+				
+			工作研究领域
+			
+			能源及污染物控制研究及检测
+			
+				
+			联系方式
+			
+			电话：86-571-87952281			电子信箱：yqzhu@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：朱燕群
+		单位：能源工程学系
+		职称：工程师
+		我的主页共被访问了2437次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		专利成果
+	教学工作
+	工作研究项目
+	出版著作
+	研究成果
+	发表论文
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

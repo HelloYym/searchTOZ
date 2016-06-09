@@ -1,0 +1,214 @@
+
+
+
+
+
+朱柏铭-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0086337";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	朱柏铭
+有一点思想，有一点低调，有一点幽默
+
+	永久链接:http://mypage.zju.edu.cn/Iamzbm&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+朱柏铭，1964年生，浙江上虞人。分别在杭州大学、厦门大学获经济学学士和硕士学位。现任浙江大学经济学院教授、硕士生导师，浙江大学公共经济与财政研究所所长，财政学系主任。兼任全国高校财政学教学研究会理事、浙江省高校经济学类教学指导委员会副主任委员、浙江省财政学会常务理事。
+主要研究领域为公共经济理论、财税制度与政策。出版《中韩财政比较研究》、《公共经济学案例》、《公共经济学理论与应用》（教育部普通高校&ldquo;十一五&rdquo;国家级规划教材）等专著和教材。累计发表论文90多篇，其中近半数在《财贸经济》、《经济学家》、《光明日报》等国内一级报刊发表，或为《新华文摘》、《财政与税务》（人大报刊复印资料）全文转载。承担省部级重大和一般课题10项。
+曾获得教育部&ldquo;宝钢优秀教师奖&rdquo;、&ldquo;全国MPA优秀教师奖&rdquo;、&ldquo;浙江大学教学名师奖&rdquo;，负责的公共经济学课程已成为浙江省高校本科省级精品课程。2001、2007年两度被学生评为&ldquo;我最喜爱的浙江大学老师&rdquo;之一。曾赴日本神奈川大学、台湾淡江大学等进行学术交流。多次接受《中国新闻周刊》、《南方周末》及浙江卫视等媒体的采访。经常应政府部门和高等院校的邀请，作有关公共经济问题的专题报告或学术讲座。
+			
+				
+			工作研究领域
+			
+			公共经济理论和财政制度与政策的教学与研究
+			
+				
+			联系方式
+			
+			电话：0571－87951614			电子信箱：zbm64@163.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：朱柏铭
+		单位：经济学院财政学系
+		职称：教授
+		我的主页共被访问了7162次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	出版著作
+	奖励荣誉
+	研究成果
+	学术交流（讲座报告）
+	发表论文
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

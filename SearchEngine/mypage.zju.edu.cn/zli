@@ -1,0 +1,329 @@
+
+
+
+
+
+ZilongLi'shomepage-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0004270";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	ZilongLi'shomepage
+厉子龙的博客
+
+	永久链接:http://mypage.zju.edu.cn/zli&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			籍贯浙江东阳，现为浙江大学理学院地球科学系教授，博士生导师，日本神户大学博士、美国哈佛大学高级访问学者
+&nbsp;
+一、教育情况和工作经历：
+2008.12－现在&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江大学地球科学系教授、博士生导师。
+2003.12－2013.12&nbsp;&nbsp;&nbsp;多次短期出访美国、澳大利亚、日本开展国际合作研究和国际学术讨论会。
+2006.11－2008.6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;美国哈佛大学访问学者。
+2004.9－2008.11&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江大学地球科学系副教授、副博士生导师。
+2002.10－2004.9&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;入浙江大学地球科学系做博士后、副教授。
+2002.3－2002.10&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;日本神户大学作为特别研究员从事科研工作。
+1999.4－2002.3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;日本神户大学地球环境科学专攻，获理学博士学位。
+1996.10－1999.3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;日本岛根大学，获理学硕士学位。
+1987.7－1996.9&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在中国地质科学院地质研究所工作。
+1983.9－1987.7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;中国地质大学（武汉）地质系，获学士学位。
+
+
+二、研究专长：
+1.造山带和大陆的形成及其地球动力学演化（包括东南极冈瓦纳超大陆、阿尔泰造山带、塔里木板块、华北陆台、华南板块、三江、日本、东南亚）
+2.&nbsp;岩石矿物学、地球化学和同位素年代学
+3.&nbsp;金属矿产成矿远景区评价与预测、成矿机理和成矿规律研究
+&nbsp;
+三、近年来主持的研究课题：
+1.二叠纪大规模岩浆作用的时空特征和岩浆动力学
+国家重点基础研究发展规划（973，二级课题），2011.1－2015.12.
+2.阿尔泰超高温麻粒岩变质P－T轨迹、变质时代和流体包裹体特征及其对构造演化的指示.
+国家自然科学基金（面上），2011.1－2013.12.
+
+3.阿尔泰超高温麻粒岩极端温压－流体条件和变形变质动力学研究.
+&nbsp;&nbsp;&nbsp;国家教育部博士学科点专项科研基金（博导类），2012.1－2014.12.
+4.构造体制转换期大规模岩浆活动与成矿.&nbsp;
+&nbsp;&nbsp;&nbsp;国家重点基础研究发展规划（973，子课题），2007.01-&nbsp;2011.12.
+5.阿尔泰超高温麻粒岩的地质演化过程：来自锆石U-Pb年代学和Hf同位素及
+&nbsp;&nbsp;&nbsp;PT轨迹的证据.
+国家自然科学基金（面上），2010.1－2010.12.
+6.浙西北及赣南地区成岩成矿作用研究.
+中国地调局项目，2011.1－2013.12.
+7.浙西北燕山期花岗质岩浆作用及其成矿规律研究.
+中国地调局项目，2010.1－2012.12.
+8.塔里木早二叠世大火成岩省地球动力学及其对多金属矿床形成的制约.
+国家人力资源和社会保障部科技择优资助项目，2010.1－2011.12.
+9.&nbsp;浙西北燕山期岩浆动力学与铜多金属成矿作用研究.
+浙江省科技厅，钱江人才计划项目，2010.01－2011.12.
+10.东南极索龙达讷山变质岩浆事件及在冈瓦纳大陆演化中的作用.&nbsp;
+&nbsp;&nbsp;&nbsp;国家自然科学基金（面上）&nbsp;&nbsp;&nbsp;2005.1&ndash;2007.12.
+11.江西瑞金－会昌地区矿产远景调查.
+&nbsp;&nbsp;&nbsp;中国地质调查局矿产资源补偿项目&nbsp;2006.8－2008.3.
+12.中国东南部和日本中新生代火山-侵入作用与成矿对比研究.
+&nbsp;&nbsp;&nbsp;中国地质调查局科研专项，2006.1－2011.12.
+13.东南极索隆达山及邻区泛非期岩浆作用及构造热事件.&nbsp;
+&nbsp;&nbsp;&nbsp;教育部留学回国人员基金，2004.5－2006.5
+14.东南极泛非期花岗岩SHRIMP年龄.&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;国家博士后基金&nbsp;2003.03-&nbsp;2004.9
+15.城市和农业生态地质环境的调查研究及经济可持续发展战略.&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;浙江省博士后基金2004.1-&nbsp;2005.3
+
+四、近年来作为第一作者或通讯作者发表的论文：
+&nbsp;
+1.&nbsp;LiZL*,YangXQ,LiYQ,SantoshM.,ChenHL,XiaoWJ,2014.LatePaleozoictectono-metamorphicevolutionoftheAltaisegmentoftheCentralAsianOrogenicBelt:constraintsfrommetamorphicP-TpseudosectionandzirconU-Pbdatingofultra-hightemperaturegranulite.Lithos,203:83-96.
+2.&nbsp;ZouSY,LiZL*,SongB,ErnstRE,LiYQ,RenZY,YangSF,ChenHL,XuYG,SongXY.ZirconU-Pbdating,geochemistryandSr-Nd-Pb-HfisotopesoftheWajilitagalkalimaficdikes,andassociateddioriteandsyeniticrocks:ImplicationsformagmaticevolutionoftheTarimLargeIgneousProvince.212&ndash;215:428&ndash;442.
+3.&nbsp;LiYQ,LiZL*,YuX,LangmuirCH,SantoshM.,YangSF,ChenHL,TangZL,SongB,ZouSY,2014.OriginoftheEarlyPermianzirconsinKepingbasaltsandmagmaevolutionoftheTarimLargeIgneousProvince(northwesternChina).Lithos,203:47-58.
+4.&nbsp;YangXQ,LIZL*,WangHH,ChenHL,LiYQ,XiaoWJ.2014.Geochemicalandmineralcharacteristicsoftheultrahigh-temperaturegranulitefromtheSouthernAltayorogenicbelt,northwesternChina:ImplicationsforprotolithandmetamorphicP&ndash;Tpath.IslandArc(inpress).
+5.&nbsp;毛建仁*，厉子龙*，叶海敏，2014.华南中生代构造-岩浆活动研究：现状与前景.中国科学(地球科学),44(12):2593-2617.doi:10.1007/s11430-014-5006-1.
+6.&nbsp;MaoJR*,LiZL*,YeHM.2014.Mesozoictectono-magmaticactivitiesinSouthChina:Retrospectandprospect.Vol.57,No.1:1&ndash;25.doi:10.1007/s11430-014-5006-1.
+7.LiZL*,ZhouJ,MaoJR,SantoshM.,YuMG,LiYQ,HuYZ,LangmuirC.H.,ChenZX,CaiXX,HuYH,2013.ZirconU&ndash;PbgeochronologyandgeochemistryoftwoepisodesofgranitoidsfromthenorthwesternZhejiangProvince,SEChina:Implicationformagmaticevolutionandtectonictransition.Lithos,179:334&ndash;352(SCI收录,国际高影响因子刊物).IF=3.779.
+8.厉子龙*，周静，毛建仁，胡逸洲，余明刚，汪惠惠.2013.浙西北木瓜燕山期花岗斑岩的定年、地球化学特征及其地质意义.岩石学报，29（10）:3607-22.
+9.邹思远，厉子龙(*通讯作者)，任钟元，励音骐，杨树锋，陈汉林，宋彪，余星.2013.塔里木柯坪地区二叠系沉积岩碎屑锆石U-Pb定年和Hf同位素特征及其对塔里木块体地质演化的限定.岩石学报，29(10):3369-88.
+10.杨孝强，厉子龙*.2013.阿尔泰晚古生代超高温麻粒岩流体特征及其意义.岩石学报，29(10):3446-56.
+11.胡逸洲，厉子龙*，毛建仁，余明刚，励音骐，汪惠惠，蔡雄祥，骆学全.2013.浙西北淳安银山地区银铅锌矿床矿石结构构造、矿石成分及成矿机制.岩石学报，29(10):3623-36.
+12.LiZL*,LiYQ,ChenHL,SantoshM,YangSF,XuYG,LangmuirCH,ChenZX,YuX.,ZouS.Y.2012.HfisotopiccharacteristicsofthePermianlargeigneousprovinceofTarim,NWChina:Implicationsformagmasourceandevolution.JournalofAsianEarthSciences,49:191-202&nbsp;(SCI收录).IF=2.215.
+13.LiYQ,LiZL*,SunYL,SantoshM,LangmuirCH,ChenHL,YangSF,ChenZX,YuX.2012.Platinum-groupelementsandgeochemicalcharacteristicsofthePermiancontinentalfloodbasaltsintheTarimBasin,northwestChina:ImplicationsfortheevolutionoftheTarimLargeIgneousProvince.ChemicalGeology,&nbsp;328:278-289&nbsp;(SCI论文,国际顶尖刊物).IF=3.722.
+14.LiYQ,LiZL*,ChenHL,YangSF,YuX.2012.MineralcharacteristicsandmetallogenesisoftheWajilitaglayeredmafic-ultramaficintrusionandassociatedFe-Ti-VoxidedepositintheTarimlargeigneousprovince,northwestChina.JournalofAsianEarthSciences,49:161-174(SCI收录).IF=2.215.
+15.LiZ.L.*,ChenH.L.,SongB.,LiY.Q.,YangS.F.,YuX.2011.TemporalevolutionofthePermianlargeigneousprovinceinTarimBasin,NorthwestChina.JournalofAsianEarthSciences42,917&ndash;927&nbsp;(SCI收录).
+16.LiZL*,LiYQ,ChenHL,SantoshM,XiaoWJandWangHH.2010.SHRIMPU-Pbzirconchronologyofultrahigh-temperaturespinel-orthopyroxene-garnetgranulitefromSouthAltayorogenicbelt,northwesternChina.IslandArc,19(3):506-516(SCI收录).
+17.厉子龙*，汪惠惠，陈汉林，肖文交，杨树锋，胡逸洲.2010.超高温麻粒岩中尖晶石成分特征、结构特征和矿物反应的指示意义：以阿尔泰造山带超高温尖晶石－斜方辉石－石榴石麻粒岩为例.地学前缘，17(1):74-85.
+18.励音骐，厉子龙*，孙亚莉，陈汉林，杨树锋，余星．2010．塔里木瓦吉里塔格超镁铁质隐爆角砾岩铂族元素和微量元素地球化学特征及其岩石成因探讨．岩石学报，26(11):3307~3318(SCI收录).
+19.励音骐，厉子龙*，毛建仁，骆学全，徐贻赣，汪惠惠.2009.江西会昌岽背玄武岩地球化学和Sr-Nd同位素特征及其地质意义.矿床地质,28(5):696-706.
+20.厉子龙*，杨树锋，陈汉林，ＣHLangmuir，余星，林秀彬，励音骐.2008.塔西南玄武岩年代学和地球化学特征及其对二叠纪地幔柱岩浆演化的制约.岩石学报,24(05):959-70(SCI收录).
+21.Li,Z.-L.,Chen,H.-L,Yang,S.F,Tainosho,Y.,Shiraishi,K.andOwada,M.&nbsp;2007.FluidcomponentsinaccessorymineralsofPan-AfricangranitoidsintheSorRondaneMountains,EastAntarctica.JournalofZhejiangUniversity-Science(A),8(7):1004-1010(SCI收录).
+22.杨树锋，厉子龙*，陈汉林，SantoshM.,董传万，余星.2007.PermianbimodaldykeofTarimBasin,NWChina:Geochemicalcharacteristicsandtectonicimplications.GondwanaResearch,12(1):113-120(SCI收录).
+23.YangSF,LiZL*,ChenHL,ChenW,YuX.2006.40Ar-39ArdatingofbasaltsfromTarimBasin,NWChinaanditsimplicationtoaPermianthermaltectonicevent.JournalofZhejiangUniversity-Science,7:320-324(EI收录).
+24.LiZL*,DuZM,YangSF,ChenHL,SongB,LiuY.2006.FirstreportofzirconSHRIMPU-PbdatingfromtheSorRondaneMountains,EastAntarctica.JournalofZhejiangUniversity-Science,(Suppl.II),7:315-319(EI收录).
+25.ChenHL,LiZL*,YangSF,DongCW,XiaoWJandTainoshoY.2006.MineralogicalandgeochemicalstudyofmaficgranulitesfromNWChina:implicationsfortectonicevolutionoftheAltayorogenicbelt.IslandArc,15(1):210-222(SCI收录).
+26.LiZL*,TainoshoY,KimuraJ-IandShiraishiK.2005.CharacterizationoftheMefjellComplex,EastAntarctica:implicationsforpetrogenesisofPan-Africanplutonicrocks.&nbsp;IslandArc,14(4):636-652(SCI收录).
+27.LiZL*,TakasuA.2005.P-T-tpathofatectonicblockintheSambagawabelt,centralShikoku,Japan:evidencefrompetrologicalstudyofWesternIratsumass.J.ZhejiangUniv.-Science,6A(7):649-655(EI收录).
+28.厉子龙*，陈汉林，杨树锋，肖文交，TAINOSHO,Y.阿尔泰基性麻粒岩的发现:来自矿物学的证据.&nbsp;岩石学报,20(6):1445-1455(SCI收录).
+29.LiZL*,SantoshM,ChenHL,YangSF.2004.Firstreportofhigh-Tspinel-garnetgranulitefromtheAltayorogenicbelt,NWChina.GondwanaResearch,Supp.,7(4):1335-1336.
+30.LiZL.*,ChenH,SantoshM,YangSF.2004.Discoveryofultrahigh-Tspinel-garnetgranulitewithpureCO2fluidinclusionsfromtheAltayorogenicbelt,NWChina.JournalofZhejiangUniversity-Science,5(10):1180-1182(EI收录).
+31.LiZL*,ChenHL,YangSF,DongCW,XiaoWJ.2004.Petrology,geochemistryandgeodynamicsofbasicgranulitefromtheAltaiarea,NorthXinjiang,China.JournalofZhejiangUniversity-Science,5(8):979-984(EI收录).
+32.LiZL*,ChenHL,YangSF,DongCW,XiaoWJ,LiJL,YeY,WangJ.2004.ThediscoveryandgeneticmechanismofAltaigranulitefromtheAltaiorogenicbelt,Xinjiang,NWChina.ActaGeologicaSinica,78(1):177-185(SCI收录).
+33.LiZL,TainoshoY,KimuraJ-I,ShiraishiKandOwadaM.2003.Pan-AfricanalkaligranitoidsfromtheSorRondaneMountains,EastAntarctica.GondwanaResearch,6(4):595-605(SCI收录).
+34.LiZL*,Tainosho,Y,ShiraishiKandOwadaM.2003.Chemicalcharacteristicsoffluorine-bearingbiotiteofearlyPaleozoicplutonicrocksfromtheSorRondaneMountains,EastAntarctica.GeochemicalJournal,37(2):145-161(SCI收录).
+35.LiZL*,TainoshoY,KimuraJ-I,ShiraishiK,OwadaM.2001.PetrogenesisoftheearlyplutonicrocksfromtheSorRondaneMountains,EastAntarctica.GondwanaResearch(Specialissue)4,4,684-685.
+36.LiZL*,TainoshoY,ShiraishiK,OwadaMandKimuraJ-I.2001.GeochemicalcharacteristicsoftwotypesoftheearlyPaleozoicgranitoidsfromtheSorRondaneMountains,EastAntarctica.PolarGeoscience,14:120-139.
+&nbsp;
+
+五、荣誉和奖励
+1.林百欣高科技奖二等奖（2010年)
+2.浙江省&ldquo;新世纪151人才工程&rdquo;第二、三层次培养人员（2006年、2005年)
+3.浙江省自然科学优秀论文一等奖、二等奖（2005年)
+4.浙江省优秀博士后奖励（2005年)浙江省高校科研成果二等奖（2005年)
+5.浙江大学优秀博士后奖励（2004年)
+6.日本文部省奖学金获得者（1996年)
+
+
+六、教学工作：
+1.矿床与资源（硕、博士生课程）
+2.专业英语（博士生课程，地球科学类）
+3.岩石学（本科生课程）
+4.遥感地学分析（本科生课程）
+5.地球科学进展（双语，本科生课程）
+6.野外专业实习（本科生课程）
+&nbsp;
+七、社会兼职：
+1.中国地质学会前寒武地质专业委员会委员
+2.&nbsp;中国矿物岩石地球化学学会第八届变质岩专业委员会委员
+3.中国矿物岩石地球化学学会第八届地幔矿物岩石地球化学专业委员会
+&nbsp;&nbsp;&nbsp;委员&nbsp;
+4.国家自然科学基金、国家留学基金委员会、世界地质公园和国内外刊物（同行）评审专家；
+5.中国雁荡山世界地质公园高级顾问
+6.美国地球物理学会（AGU）会员
+
+
+
+招聘信息：
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;欢迎有志于从事成岩成矿研究的学生和研究人员报考本人的研究生或从事博士后研究。
+
+&nbsp;
+			
+				
+			联系方式
+			
+			电话：86-571-87951580			电子信箱：zilongli@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：厉子龙
+		单位：地球科学系
+		职称：教授
+		我的主页共被访问了32557次
+标签：矿物学、岩石学、矿床学矿产普查与勘探地球化学资源与地质工程哈佛	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	奖励荣誉
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

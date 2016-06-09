@@ -1,0 +1,214 @@
+
+
+
+
+
+方征平教授主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0086379";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	方征平教授主页
+与人为善
+
+	永久链接:http://mypage.zju.edu.cn/zpfang&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			方征平，男，教授，博士生导师。1963年出生于浙江省江山市。1983年和1986年在复旦大学分别获得化学专业和高分子化学与物理专业的学士和硕士学位。曾任原杭州大学化学系副主任，浙江大学高分子复合材料研究所所长，浙江大学宁波理工学院高分子材料与工程研究所所长，浙江省&ldquo;十一五&rdquo;重大科技专项：&ldquo;高档皮塑加工技术及装备&rdquo;咨询专家组组长等。现任浙江大学宁波理工学院生物与化学工程学院学术委员会主任，浙江省塑料工程学会理事长，中国塑料加工工业协会工程塑料专业委员会副理事长，复合材料学报等刊物的编委。研究兴趣包括：多组分聚合物体系的结构－性能关系、高分子材料的共混与复合改性、高分子纳米复合材料、环保阻燃高分子材料等。截至2013年底，已发表论文256余篇（其中SCI收录160余篇，H指数24），教材或著作7部（章），获授权发明专利15项。
+			
+				
+			工作研究领域
+			
+			多组分多相高分子材料的相容性与相行为;
+高分子纳米复合材料;
+高分子材料的共混、填充和复合改性;
+环保阻燃高分子材料
+			
+				
+			联系方式
+			
+			电话：86-571-87953712;86-574-88130132			电子信箱：zpfang@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：方征平
+		单位：高分子科学与工程学系
+		职称：教授
+		我的主页共被访问了30739次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	专利成果
+	奖励荣誉
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	方征平教授主页
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

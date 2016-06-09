@@ -1,0 +1,208 @@
+
+
+
+
+
+杭国强-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0096367";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	杭国强
+交流平台
+
+	永久链接:http://mypage.zju.edu.cn/hanggq&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			杭国强&nbsp;男,&nbsp;1968年生于浙江省桐乡市.&nbsp;中国农工民主党党员.博士,副教授,硕士生导师.中国电子学会高级会员.&nbsp;在研究生学习期间曾获竺可桢奖学金.&nbsp;已在《Science&nbsp;in&nbsp;China》,&nbsp;《Microelectronics&nbsp;J.》,&nbsp;《Multiple&nbsp;Valued&nbsp;Logic:An&nbsp;International&nbsp;J.》,&nbsp;《J.&nbsp;of&nbsp;Comput.&nbsp;Sci.&nbsp;&amp;&nbsp;Technol.》,&nbsp;《中国科学》,&nbsp;《电子学报》,&nbsp;《半导体学报》,&nbsp;《计算机学报》等国内外学术刊物及IEEE&nbsp;ASP-DAC,&nbsp;IEEE&nbsp;APCCAS等国际学术会议上发表论文50余篇,&nbsp;合作编著教材(辅)3部.&nbsp;获1998年教育部科技进步奖二等奖1项,&nbsp;2003年浙江省高校优秀科研成果奖一等奖1项,&nbsp;2003年浙江省科技进步奖二等奖1项.&nbsp;另有1项成果获教育部科技成果完成者证书.&nbsp;目前主要从事新型集成电路设计理论,&nbsp;低功耗集成电路设计,&nbsp;多值逻辑等方面的研究工作.
+			
+				
+			工作研究领域
+			
+			低功耗集成电路设计;多值逻辑;新型集成电路设计理论
+			
+				
+			联系方式
+			
+			电话：87952017			电子信箱：guoqianghang@163.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：杭国强
+		单位：信息与电子工程学系
+		职称：副教授
+		我的主页共被访问了12852次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	发表论文
+	出版著作
+	研究成果
+	奖励荣誉
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

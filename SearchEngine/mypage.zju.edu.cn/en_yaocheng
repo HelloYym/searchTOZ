@@ -1,0 +1,201 @@
+
+
+
+
+
+YaochengShi'shomepage-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0008777";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	YaochengShi'shomepage
+
+
+	Permanentlink:http://mypage.zju.edu.cn/en/yaocheng&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			
+&nbsp;
+
+YaochengShiwasborninJiangsu,China,in1981.HereceivedtheB.Eng.degreefromtheDepartmentofOpticalEngineering,ZhejiangUniversity,Hangzhou,China,in2003andthePh.D.degreefromtheRoyalInstituteofTechnology(KTH),Stockholm,Sweden,in2008.ThenhejoinedinZhejiangUniversityasanassistantprofessorandbecameanassociateprofessorinDec.2010.Hehasauthoredabout50refereedinternationaljournalpapers.His&nbsp;research&nbsp;activities&nbsp;are&nbsp;in&nbsp;the&nbsp;design&nbsp;and&nbsp;fabrication&nbsp;of&nbsp;photonicintegrateddevices.
+			
+				
+			Researchwork
+			
+			IntegratedOptics
+			
+				
+			Contact
+			
+			Phone:+86-571-88206516-113
+			E-mail:yaocheng@zju.edu.cn
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:YaochengShi
+		Units:DepartmentofOpticalEngineering
+		Title:AssociateProfessor
+		Myhomepagehasbeenvisited5451times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+Publications
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	
+
+
+Youarevisitor:5451
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

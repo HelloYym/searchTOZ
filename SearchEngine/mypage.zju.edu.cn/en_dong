@@ -1,0 +1,283 @@
+
+
+
+
+
+BaominDong-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0011040";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	BaominDong
+InternationalEconomics
+
+	Permanentlink:http://mypage.zju.edu.cn/en/dong&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			Blog
+
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			Education
+
+&nbsp;PhD,Economics,ConcordiaUniversity,Montr&eacute;al,Canada,2004;
+&nbsp;MA,Economics,Northwest(China)University,Xi'an,China,1996;&nbsp;
+
+WorkExperience
+
+&nbsp;May2011topresent,SchoolofEconomics,ZhejiangUniversity,China
+&nbsp;Srping2012,VisitingScholar,DepartmentofEconomics,StanfordUniversity,Stanford,California
+&nbsp;March2010toJune2010,visitingscholar,DepartmentofEconomics,UniversityofCaliforniaatSantaBarbara
+&nbsp;2003to2011,AssociateProfessor,DepartmentofEconomics,UniversityofInternationalBusinessandEconomics(UIBE)
+&nbsp;&nbsp;2002-2003,AssistantProfessor,SchoolofManagement,XiamenUniversity
+
+ResearchInterests
+&nbsp;&nbsp;&nbsp;IndustrialOrganizationTheory,InternationalTradeTheory,GameTheoryandApplications
+PublishedPapers
+&nbsp;&#8729;&nbsp;SharingAPollutedRiverNetwork.(withY.WangandD.Ni),Environmental&nbsp;andResourceEconomics(SSCI),forthcoming
+&nbsp;&#8729;&nbsp;EstimatingOutageCostsinChina:amodifiedTobitModel.(withX.Li),EmergingMarketsFinanceandTrade(SSCI),forthcoming
+&nbsp;&#8729;&nbsp;HighwayTollPricingGame(withY.Wang),EuropeanJournalofOperationalResearch(SSCI),220:744--751,2012
+&nbsp;&#8729;&nbsp;FDIandEnvironmentalRegulation:PollutionHavenoraRacetotheTop?,(withJ.Gong,andX.Zhao),JournalofRegulatoryEconomics(SSCI),41(2):216-237,2012
+&nbsp;&#8729;&nbsp;Asimplemodeloftwo-countrybargainingforfinancialintegration,(withX.Gu)AppliedEconomicsLetters(SSCI),19(8):725--728,2012
+&nbsp;&#8729;&nbsp;Braess'ParadoxandTrafficCongestionsinCitieswithCircularExpressways,GameTheoryandApplications,forthcoming(inpress)
+&nbsp;&#8729;&nbsp;TheRelationshipBankingParadox:NoPainNoGainVersusraisond'&ecirc;tre,EconomicModelling,(SSCI),28,2263--2270,2011
+&nbsp;&#8729;&nbsp;RJVFormationandStrategicEntryAccommodation(withG.Guo),AustralianEconomicPapers(SSCI),50(4):129-146,2011
+&nbsp;&#8729;&nbsp;ATheoryofFinancialLiberalization:WhyareDevelopingCountriessoReluctant?(withX.Gu)TheWorldEconomy(SSCI),34(7),1106--1123,July2011
+&nbsp;&#8729;&nbsp;InternationalR&amp;DNetworks(withX.Zhao),ReviewofInternationalEconomics(SSCI),19(2),325--340,2011
+&nbsp;&#8729;&nbsp;TheLossfromTradeunderInternationalCournotOligopolywithCostAsymmetry(withL.Yuan),ReviewofInternationalEconomics(SSCI),18(5):818--831,2010
+&nbsp;&#8729;&nbsp;ForecastingLong-runCoalPriceinChina:AShiftingTrendTimeSeriesApproach(withB.Lin,andX.Li),ReviewofDevelopmentEconomics(SSCI),14(3):499--519,2010
+&nbsp;&#8729;&nbsp;InternationalEnvironmentalAgreementFormationandTrade(withX.Zhao),Asia-PacificJournalofAccountingandEconomics(SSCI),16:339-356,2009
+&nbsp;&#8729;&nbsp;CostSharinginElectricityTransmissionGrid,GameTheoryandApplications,vol1317-29,2008
+&nbsp;&#8729;&nbsp;AirportGameandLandingChargeReform,ChinaEconomicsQuarterly,Vol5,2006,
+&nbsp;&#8729;&nbsp;MoralHazardinTeamsRevisited,ChinaEconomicsQuarterly,2003
+PapersunderReview
+&nbsp;&#8729;&nbsp;RetailPower,SlottingAllowances,andtheCountervailingPowerHypothesis(withY.Dong)
+&nbsp;&#8729;&nbsp;ASignal-jammingTheoryofBrainDrain(withJ.Gong)
+&nbsp;&#8729;&nbsp;APreemptiveModelofValueDestroyingMergers(withY.Wang)
+&nbsp;&#8729;&nbsp;AModelofExport-StrengtheningFDI(withG.Guo)
+&nbsp;&#8729;&nbsp;InternationalCapitalFlows:TradeoffatOptimumandDelayinBargaining(withX.Gu)
+&nbsp;&#8729;&nbsp;Trade,LeakageandConsumption-basedEKC(withY.WangandF.Wang)
+&nbsp;&#8729;&nbsp;AsymmetricCustomsUnionFormation(withX.Zhao)
+&nbsp;&#8729;&nbsp;AMoralHazardModelofPairBondingandConflicgtofParentalCareinMonogamy(withT.Zhou)
+WorkingPapers
+&nbsp;&#8729;&nbsp;OptimalCollectiveTournamentandTeamFormation(withG.Guo),
+&nbsp;&#8729;&nbsp;Consumption-basedEKC:isthereaninverted-U?(withF.WangandY.Wang)
+&nbsp;&#8729;&nbsp;ARepeatedGameTheoryofAnti-dumping,
+&nbsp;&#8729;&nbsp;CapacityConstraint,MergerParadoxandMergerWaves(withF.Han)
+&nbsp;&#8729;&nbsp;LimitingSupplyasaSignalofQuality.(withT.BandyopadhyayandC.ZQin)
+&nbsp;&#8729;&nbsp;InReachingGale-ShapleyStableMatching
+PapersinProgress
+&nbsp;&#8729;&nbsp;AreMercanlistsWrong?ATheoryoftheEnglishEastIndiaCompany(withJ.Li)
+&nbsp;&#8729;&nbsp;TheInformedConsumerProblem
+&nbsp;&#8729;&nbsp;AModelofLossLeaderPricing
+&nbsp;&#8729;&nbsp;ASignallingTheoryofGroup-Buying
+&nbsp;&#8729;&nbsp;StrategicVerticalIntegrationandOutsourcing,(withY.Dong)
+&nbsp;&#8729;&nbsp;AParadoxofComparativeAdvantageTheory
+&nbsp;&#8729;&nbsp;SequentialIEAFormation
+&nbsp;&#8729;&nbsp;AModelofRep&ecirc;chage
+ProposedResearchProjects
+&nbsp;&#8729;&nbsp;GlobalizationandWageInequality
+&nbsp;&#8729;&nbsp;RegionalIntegrationandVerticalTrade
+Books
+&nbsp;&#8729;&nbsp;LectureNotesonInformationEconomics(withYongWang),RenminUniversityPress
+&nbsp;&#8729;&nbsp;CooperativeGameTheory:SolutionsandCostSharing,(withYuntongWang,GuixiaGuo),ChinaMarketPress
+ConferencePresentations
+&nbsp;&nbsp;&nbsp;Manyinternationalconferences(inaverage5-6peryear)includingMidwestInternationalEconomicsMeetings,2008WorldCongressofGameTheory,Pan-PacificGameTheoryConferences,AsianPacificTradeSeminars,ChinaEconomistSocietyConferences,etc.aswellasinvitedseminarsinvariousinstitutes.
+ConferenceOrganization
+&nbsp;&#8729;&nbsp;SessionOrganizer,SocietyfortheAdvancementofEconomicTheory(SAET)AustralianConference,June29-July1,2012
+&nbsp;&#8729;&nbsp;ConferenceOrganizer,TheInauguralConferenceofChineseGameTheoryandExperimentalEconomicsAssociation,August24-26,2010
+&nbsp;&#8729;&nbsp;SessionOrganizer,SocietyfortheAdvancementofEconomicTheory(SAET)SingaporeConference,August13-15,2010
+&nbsp;&#8729;&nbsp;ConferenceOrganizer,The3rdPan-PacificGameTheoryConference,Beijing,Oct20-23,2006
+&nbsp;&#8729;&nbsp;ConferenceCo-organizer,WTO,ChinaandAsianEconomies,Beijing,June24-26,2006.
+Refereeing
+&nbsp;&nbsp;&nbsp;ReviewofInternationalEconomics,GamesandEconomicBehavior,JournalofBankingandFinance,EconomicsBulletin,JournalofInternationalTradeandEconomicDevelopment,EconomicModelling,Asia-PacificJournalofAccountingandEconomics,JournalofInstitutionalandTheoreticalEconomics,CanadianJournalofEconomics
+Consulting
+&nbsp;&#8729;&nbsp;ADBPPTA7891:YunnanChuxiongUrbanEnvironmentImprovementProject
+&nbsp;&#8729;&nbsp;ADBADTA7202UtilizationofForeignCapitaltoPromoteEnergyConservationandEnergy-EfficientPowerGeneration
+&nbsp;&#8729;&nbsp;ADBPPTA7360GuangxiBeibuGulfCitiesDevelopment,Guangxi
+&nbsp;&#8729;&nbsp;ADBPPTATA7177WuhanUrbanEnvironmentalImprovementProject
+&nbsp;&#8729;&nbsp;ADBPPTAGuangxiWuzhouUrbanDevelopmentProject,Guangxi,PRChina
+&nbsp;&#8729;&nbsp;ADBPPTA4971PRCSonghuaRiverBasinWaterPollutionControlandManagementProject
+&nbsp;&#8729;&nbsp;ADBPPTA4804JilinUrbanInfrastructureProject
+&nbsp;&#8729;&nbsp;ADBPPTAHenanEcologicalAgricultureandRuralProductivityImprovementProject
+&nbsp;&#8729;&nbsp;ADBPPTAIntegratedEcosystemManagementandEnvironmentalProtectionoftheBaiyangdianLakeCatchmentProject
+&nbsp;&#8729;&nbsp;ADBPPTAInnerMongoliaEnvironmentImprovementProject
+&nbsp;&#8729;&nbsp;ADBADTAPovertyReductioninCoalMineAreasinShanxiProvince
+			
+				
+			Researchwork
+			
+			InternationalEconomics,IndustrialOrganization,GameTheory
+			
+				
+			Contact
+			
+			Phone:
+			E-mail:baomindong@vip.163.com
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:BaominDong
+		Units:SchoolofEconomics
+		Title:Lecturer
+		Myhomepagehasbeenvisited4639times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+CallforRA
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	
+
+
+Youarevisitor:4639
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

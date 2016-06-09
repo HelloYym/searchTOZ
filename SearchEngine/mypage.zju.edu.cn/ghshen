@@ -1,0 +1,205 @@
+
+
+
+
+
+与风共舞-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0004206";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	与风共舞
+
+
+	永久链接:http://mypage.zju.edu.cn/ghshen&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			沈国辉，男，1977年8月出生，博士，副教授。1999年6月浙江大学土木系本科毕业，2004年6月浙江大学土木系博士研究生毕业，获得博士学位，同年留校任教，2007年至2009年先后两次在美国路易斯安那州立大学从事访问工作，合作导师SteveC.S.Cai教授。主要研究课题有：（1）主持国家自然科学基金项目2项：长塔臂输电塔的三维风荷载特性及抗风设计方法研究（51178425）；大型冷却塔风荷载和风振特性相关问题研究（50608063。（2）主持浙江省自然科学基金项目1项：冰冻灾害天气下输电塔破坏和倒塌的机理研究（Y1080207）。（3）参与国家自然基金项目3项。（4）主持10余个高层高耸和屋盖结构的风洞试验和风致响应计算。（5）参与30余个各类建筑物的抗风研究。（6）以第一作者发表论文SCI/EI检索30多篇。
+			
+				
+			工作研究领域
+			
+			结构风工程、结构计算机分析
+			
+				
+			联系方式
+			
+			电话：13858196500；88208737			电子信箱：ghshen@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：沈国辉
+		单位：建筑工程学院土木工程学系
+		职称：副教授
+		我的主页共被访问了1965次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

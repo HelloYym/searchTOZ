@@ -1,0 +1,220 @@
+
+
+
+
+
+刘召峰的主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0012165";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	刘召峰的主页
+
+
+	永久链接:http://mypage.zju.edu.cn/liuzhaofeng&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			刘召峰，男，汉族，1980年生，山东省鱼台县人，浙江大学马克思主义学院副教授、硕士生导师。
+1.学习与工作经历：
+先后就读于曲阜师范大学历史系、中国社会科学院哲学研究所（研究生院哲学系）、中国人民大学马克思主义学院，获历史学学士、哲学硕士、哲学博士学位。
+2002年8月至2003年7月，在山东省桓台第一中学当高中历史教师。
+2013年1月，从中国社会科学院马克思主义研究院博士后流动站出站来浙江大学工作，现为副教授。
+2、硕士招生：
+招生专业：马克思主义基本原理。
+欢迎历史学、哲学、经济学、社会学、政治学、思想政治教育、外语等人文社会科学类专业，以及其他专业的同学报考；特别欢迎有志于将来从事学术研究的同学报考。
+3、科研简况：
+正主持&ldquo;国家社科基金青年项目&rdquo;、&ldquo;教育部人文社会科学研究青年基金项目&rdquo;、&ldquo;中央高校基本科研业务费专项资金资助项目&rdquo;（后增列为&ldquo;浙江省社会科学规划项目&rdquo;）各一项，独立完成中国博士后科学基金面上资助项目一项。
+在《马克思主义研究》（2篇）、《教学与研究》（2篇）、《南京大学学报》、《学术研究》、《政治经济学评论》等CSSCI来源期刊上，独立署名发表学术论文11篇，其中3篇被中国人民大学复印报刊资料全文转载。
+出版学术专著一部：《拜物教批判理论与整体马克思》，浙江大学出版社2013年8月版。
+4、主要学术兼职：中国马克思主义哲学史学会理事、全国经济哲学研究会理事、浙江省青年马克思主义研究会会员。
+			
+				
+			工作研究领域
+			
+			马克思主义哲学、劳动价值论、马克思主义基本原理、中共党史
+			
+				
+			联系方式
+			
+						电子信箱：liuzhaofeng@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：刘召峰
+		单位：马克思主义学院
+		职称：副教授
+		我的主页共被访问了6676次
+标签：劳动价值论中国近现代史基本问题研究马克思主义学院马克思主义哲学马克思主义基本原理	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	出版著作
+	奖励荣誉
+	发表论文
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

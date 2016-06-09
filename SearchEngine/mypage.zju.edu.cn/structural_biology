@@ -1,0 +1,209 @@
+
+
+
+
+
+赵烨-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0012101";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	赵烨
+分子生物学以及结构生物学实验室
+
+	永久链接:http://mypage.zju.edu.cn/structural_biology&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+
+&nbsp;&nbsp;&nbsp;&nbsp;赵烨，男，副教授，博士生导师。现为浙江大学求是青年学者，毕业于浙江大学生物物理学专业，2008-2011年于美国国立卫生研究院（NIH）分子生物学实验室（LMB）交流访问，博士毕业后留校并晋升为副教授。
+&nbsp;&nbsp;&nbsp;&nbsp;近年来，研究成果多次在重要国际影响力的杂志期刊上发表，其中包括《自然》（Nature）、《美国国家科学院院刊》（PNAS）、《细胞研究》（CellResearch）、《核酸研究》（NucleicAcidsResearch）、《分子微生物》（MolMicrobiol）,等，阐述了多种DNA结合蛋白的结构与功能。
+
+&nbsp;&nbsp;&nbsp;&nbsp;过去数年的研究对象包括参与DNA复制及损伤、响应修复的关键蛋白，包括人类DNA聚合酶&eta;、转录调控蛋白OxyR、DrRRA、单链结合蛋白SSB以及解旋酶RecG等。今后的研究将集中在1）翻译后修饰对于人类重要核酸酶FEN1活性以及细胞定位的调控。2）重要脱氧核糖核酸酶结构以及功能的研究。
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;欢迎广大有志同学报考！
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			
+				
+			联系方式
+			
+			电话：0571-86971279			电子信箱：yezhao@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：赵烨
+		单位：浙江大学
+		职称：副教授
+		我的主页共被访问了12894次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		发表论文
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

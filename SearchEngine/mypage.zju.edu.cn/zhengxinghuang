@@ -1,0 +1,214 @@
+
+
+
+
+
+黄正行-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0011634";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	黄正行
+Carethehealthcare
+
+	永久链接:http://mypage.zju.edu.cn/zhengxinghuang&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			围绕医疗过程开展一系列科研工作，研发出涵盖过程建模表达、执行辅助决策和分析优化等多项关键技术，建立了业务过程管理与医学人工智能技术相融合的智能医疗过程方法体系，拓展了复杂环境下的过程管理理论，探索出医疗过程智能这一医学信息学新的研究方向。
+主持国家自然科学青年基金、博士后特别资助、博士后一等资助项目各一项，作为核心人员参与浙江大学、荷兰埃茵霍芬科技大学、飞利浦研究院联合项目《面向临床路径管理的过程分析与挖掘方法研究》，科技部十二五863主题项目《医疗信息集成融合技术与系统研发》等。
+&nbsp;
+			
+				
+			工作研究领域
+			
+			医学信息学、医学中的人工智能、医疗工作流管理与过程挖掘
+			
+				
+			联系方式
+			
+						电子信箱：zhengxing.hatgmail.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：黄正行
+		单位：生物医学工程与仪器科学学院生物医学工程学系
+		职称：
+		我的主页共被访问了6092次
+标签：CaretheHealthcare	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		受教育经历
+	研究工作经历
+	工作研究项目
+	奖励荣誉
+	研究成果
+	发表论文
+	学术兼职
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	GoogleScholar
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

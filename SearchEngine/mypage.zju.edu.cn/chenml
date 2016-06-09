@@ -1,0 +1,213 @@
+
+
+
+
+
+陈明亮-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0003405";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	陈明亮
+学术信息个人门户
+
+	永久链接:http://mypage.zju.edu.cn/chenml&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;陈明亮，男，汉族，江苏常州市人，工学学士，计算机科学硕士，管理科学与工程博士、博士后，浙江大学管理学院教授，博士生导师。在《BiologicalPsychology》、《Cyberpsychology,BehaviorandSocialNetworking》、《管理世界》、《统计研究》、《管理科学学报》、《科研管理》、《管理工程学报》、《科学学研究》等刊物发表学术论文50余篇，在AMT有个人专栏。近年来一直从事&ldquo;管理＋IT&rdquo;类咨询和研究，主持过行业应用软件开发、管理软件咨询、企业和政府信息化规划、信息系统监理等横向课题20余项，主持国家自然科学基金课题4项，主持省部级课题多项。
+&nbsp;
+			
+				
+			工作研究领域
+			
+			1、客户关系管理（企业客户关系管理、政府客户关系管理、客户智能、客户口碑、神经客户关系管理）
+2、管理软件（ERP、CRM）咨询
+3、政府和企业信息化规划
+
+			
+				
+			联系方式
+			
+						电子信箱：chenml@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：陈明亮
+		单位：管理学院管理科学与工程学系
+		职称：教授
+		我的主页共被访问了18142次
+标签：客户关系管理
+在线口碑传播
+消费者从众消费者决策神经科学	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,221 @@
+
+
+
+
+
+lugq-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0093271";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	lugq
+作为一名地下工作者，将加强交流合作，实现共享共赢
+
+	永久链接:http://mypage.zju.edu.cn/lugq&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;男，博士，硕导。1984年在原浙江农业大学获学士学位；87年在中国农科院研究生院获硕士学位；2002年在浙江大学获博士学位；2002-03年在加拿大麦基尔大学做博士后访问学者。1993年底从中国农科院甘薯所调入浙江大学。曾受包氏留学基金、以色列外交部培训基金、埃及高等教育部交流基金、国际马铃薯中心、美国国家宇航局等资助出访过美、日、韩、加、以、埃、秘等近10个国家。现为中国作物学会甘薯专业委员会常委，中国作物学会栽培生理研究会杂粮组副组长。浙江省非主要作物品种认定委员会旱粮组组长。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本人主要从事以甘薯、马铃薯、芋头、雪莲果、万灵薯、脚板薯、莳药等地下根茎植物（薯类）为主要材料，以抗性淀粉、膳食纤维、天然色素、多酚和多糖等功能性成分为主要研究对象，以农学为基础，并结合生物技术、生物化学、食品学、生物医学等其它学科的多学科综合研究。所从事研究的最大特点在于从植物特异种质资源开发出发，通过培育专用特色品种，围绕专用品种开展产前、产中和产后一系列研究，开发特定品种的产业化配套集成技术，并通过市场化方式，实现薯类产业化，以使植物增产、农民增收，企业增效，消费者获益。多年来，曾主持或参加过50多个课题，其中包括国家基金、国家863、国家科技支撑、公益性行业等国家级项目10多项。曾获省部级奖励8项。发表论著120多篇，包括SCI论文5篇，专著2本。获授权专利3项，商标1个。参与育成新品种3个，为企业开发或改进新产品5个。
+			
+				
+			工作研究领域
+			
+			1、根茎植物种质创新与分子育种和品质调控，包括：
+⑴、根茎植物特色资源和特异种质重要基因的发掘、鉴定、创新和利用。
+⑵、根茎作物专用优质特色新品种（如彩色甘薯和马铃薯、观赏甘薯等）选育。
+⑶、根茎作物优质栽培调控及其优良品种的优质生产。
+2、根茎植物生物技术及其高新技术产品开发，包括：
+⑴、根茎植物生物反应器系统的构建及其利用，如高色素细胞系培养和利用等。
+⑵、根茎植物无土培养技术及其应用，如微型种薯快繁及其种苗工程等。
+⑶、模拟太空生命保障系统中的食物持续生产。
+3、根茎植物品质生物化学及其产后商品化技术研究，包括：
+⑴、根茎植物天然色素、黄酮、多糖等功能性天然产物的提取及其产业化。
+⑵、根茎植物产品的贮藏与深加工综合利用。
+⑶、根茎植物产后品质生理生化分析及其品质安全性评价。
+			
+				
+			联系方式
+			
+			电话：13003671273			电子信箱：lugq10@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：陆国权
+		单位：农业与生物技术学院农学系
+		职称：副教授
+		我的主页共被访问了20904次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	专利成果
+	奖励荣誉
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

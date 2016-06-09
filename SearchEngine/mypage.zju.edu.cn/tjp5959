@@ -1,0 +1,212 @@
+
+
+
+
+
+唐吉平的主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0087321";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	唐吉平的主页
+
+
+	永久链接:http://mypage.zju.edu.cn/tjp5959&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			唐吉平，男，1965年9月出生，湖南省桃源县人。
+
+
+1981年9月至1985年7月就读于湖南财经学院金融系，获经济学士学位；1985年9月至1987年7月就读于陕西财经学院研究生院金融专业，1987年7月研究生班毕业，1989年12月获经济学硕士学位。
+
+
+1987年7月至今，在原杭州大学经济系、财金系、金融与经贸学院以及合并后的浙江大学经济学院任教。
+&nbsp;
+现为浙江大学经济学院金融系副教授，硕士生导师。主要从事商业银行经营管理、资本市场与证券投资以及信托租赁等方向的教学与科研，擅长金融机构融资管理、金融风险分析与控制、证券投资分析以及金融业务创新等。曾在国内一级学术刊物上发表上述领域的论文若干篇，并为国家开发银行、上海银行等多家金融机构提供金融业务分析与决策咨询。
+			
+				
+			工作研究领域
+			
+			商业银行经营管理，资本市场与证券投资，信托与租赁
+			
+				
+			联系方式
+			
+						电子信箱：tjp5959@126.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：唐吉平
+		单位：经济学院金融学系
+		职称：副教授
+		我的主页共被访问了2262次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

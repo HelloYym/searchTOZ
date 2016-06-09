@@ -1,0 +1,223 @@
+
+
+
+
+
+ZhiyunLin'sMainPage-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0007390";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	ZhiyunLin'sMainPage
+
+
+	Permanentlink:http://mypage.zju.edu.cn/en/linz&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			Blog
+
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			Zhiyun&nbsp;Lin&nbsp;iscurrentlyafullprofessorattheDepartmentofSystemsScienceandEngineering,CollegeofElectricalEngineering,ZhejiangUniversity,China.
+HereceivedhisPh.D.degreeinElectricalandComputerEngineeringfromUniversityofToronto,Canada,in2005.From2005to2007,hewasapostdoctoralresearcherinthesamedepartmentatUniversityofToronto.&nbsp;HejoinedtheDepartmentofSystemsScienceandEngineering,CollegeofElectricalEngineering,ZhejiangUniversityin2007as&nbsp;aResearchProfessor.
+Hehasbeenavisitingprofessorat:TheUniversityofTokyo(Japan),UniversityofCagliari(Italy),TheAustralianNationalUniversity(Australia),UniversityofNewcastle(Australia),UniversityofTechnologySydney(Australia).
+He&nbsp;isaseniormemberofIEEE,amemberofIEEEControlSystemsSociety,IEEERoboticsandAutomationSociety,IEEECommunicationSociety,andamememberofSIAM.HeisanassociatededitorofElsvierjournal--NonlinearAnalysis:HybridSystems.
+
+GoogleScholarCitations
+
+			
+				
+			Researchwork
+			
+			*CooperativeMulti-AgentSystems:consensus,formationcontrol,distributedestimation,coordinationofsystemssubjecttononholonomicconstraints.
+
+
+*HybridControlSystems:switchingcontrolandstabilityanalysis,reachabilityanalysis.
+
+
+*CyberPhysicalSystems:smartnodeandsmartagent.
+
+
+*Applications:roboticswarms(exploration,sourceseekingetc.),wirelesssensornetworks(deployment,coverage,estimationandsensorscheduling,routing,securityandprivacy,etc.),communication(distributedbeamformingetc.),Bipedrobots(stablewalkingandrunning).
+
+			
+				
+			Contact
+			
+			Phone:+86-571-8795-1637
+			E-mail:linz@zju.edu.cn
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:ZhiyunLin
+		Units:CollegeofElectricalEngineering
+		Title:Professor
+		Myhomepagehasbeenvisited46644times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+Research
+Teaching
+Publications
+ProfessionalActivities
+MyStudents
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	Scirus
+Dogpile
+Altavista
+Vivisimo
+
+
+
+Youarevisitor:46644
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

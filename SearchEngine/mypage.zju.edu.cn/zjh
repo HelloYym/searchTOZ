@@ -1,0 +1,213 @@
+
+
+
+
+
+观点交流-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0091265";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	观点交流
+生活、工作
+
+	永久链接:http://mypage.zju.edu.cn/zjh&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+				
+			工作研究领域
+			
+			周洁红，浙江大学管理学院副教授博士，主要研究领域:农产品营销，食品安全与供应链管理、中小型企业管理.
+作为学院营销管理课程的骨干教师，除承担校内本科生及硕士生的营销课程外，同时大量承担学院对外培训如职业经理人培训等的教学任务。另外也承担了许多公司的员工培训，主要客户：正大集团（泰国）、江西正帮集团、传化集团（曾为其华洋公司的培训老师）、金义集团、萧山大地钢构、温州美丰公司、西子奥的斯集团、云南大理烟草公司、杭州烟草公司等。在教学之余，也经常与合作者开展一些咨询和策划活动，如为台州华侨农业园区进行品牌战略设计。
+
+近三年主要学术成果:1、农产品质量安全追溯体系中的农户行为分析——以蔬菜种植户为例，中国社会科学文摘，2007（4）：33-35，周洁红姜励卿（原载《浙江大学学报》（人文社科版）2007（2）：118-127）
+2、农户蔬菜质量安全控制行为及其影响因素分析——基于浙江省396户菜农的实证分析，中国农村经济，2006（11）：25-34，周洁红
+3、我国食品安全管理中HACCP应用的现状、瓶颈与路径选择，农业经济问题，2007（8）：55-61，周洁红叶俊焘
+4、消费者对蔬菜安全的态度、认知和购买行为分析――基于浙江省城市和城镇消费者的调查统计，中国农村经济，2004（11）：44-52，周洁红
+5、消费者对蔬菜安全认知和购买行为的地区差别分析，浙江大学学报（人文社会科学版），2005（6）：周洁红
+6、食品安全管理研究动态，农业经济问题，2004（4）：周洁红钱锋燕
+7、农贸市场超市化改造对农产品流通的影响，浙江大学学报（人文社会科学版)，2004（3），周洁红金少胜
+8、食品质量安全信息管理：理论与实证，浙江大学出版社，2007年3月，25/29.6万字，周洁红姜励卿
+9、生鲜蔬菜质量安全管理问题研究，农业出版社，21.2/21.2万字，2005年9月，周洁红
+目前承担的主要课题:1、产业化进程中蔬菜质量安全管理机制研究，国家自然科学基金，18万，2007.01-2009.12
+2、浙江产业化进程中蔬菜质量安全管理机制研究，省社科规划（重点），2万元,2006.09-2008.05
+3、基于菜农生产质量控制行为分析的蔬菜质量安全管理研究，省自然科学基金（面上），4万元,2006.01-2007.12
+
+
+			
+				
+			联系方式
+			
+			电话：057186971593			电子信箱：runzhou@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：周洁红
+		单位：管理学院农业经济与管理系
+		职称：教授
+		我的主页共被访问了2893次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,207 @@
+
+
+
+
+
+李铁强-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0013025";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	李铁强
+
+
+	永久链接:http://mypage.zju.edu.cn/tieqiang_li2013&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;李铁强，浙江大学生物医学工程与仪器科学学院千人计划特聘教授，博士生导师。瑞典卡罗林斯卡医学院临床科学与介入技术系的兼职教授。瑞典国家核心设备7T委员会委员。主要从事磁共振大脑成像方法的研究工作。曾先后在多个国际一流的磁共振实验室从事研究工作，包括斯坦福大学医学院放射学系Lucas核磁中心、普林斯顿大学大脑意识和行为研究中心和美国国立健康卫生研究院神经疾病和中风研究所的功能和分子成像实验室。发表SCI收录的论文70余篇。主持承担过美国国立健康卫生研究院(NIH)，私人科学基金以及瑞典国家科学基金(VR)所资助的项目。2013年3月作为浙江大学千人计划教授参加浙大工作，招收硕士，博士研究生及博士后，并开设相关课程。
+Tie-QiangLi'smainresearchinterestisthedevelopmentofimagingand&nbsp;spectroscopictechniqueswithpotentialstoimprovetheclinicaldiagnosticsand&nbsp;theunderstandingsofbiologicalandphysiologicalprocesses.Particularly,HeisveryinterestedindevelopingrapiddataacquisitionmethodsforMRIand&nbsp;exploringnewimagingcontrastmechanismsforneurologicalapplications.
+			
+				
+			工作研究领域
+			
+			生物医学工程与大脑核磁影像技术。
+			
+				
+			联系方式
+			
+			电话：0571-87951833			电子信箱：kstqli@gmail.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：李铁强
+		单位：生物医学工程与仪器科学学院
+		职称：教授
+		我的主页共被访问了4065次
+标签：MRI，fMRI，BME	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		奖励荣誉
+	发表论文
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	浙江大学生仪学院
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

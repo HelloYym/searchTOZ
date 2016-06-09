@@ -1,0 +1,207 @@
+
+
+
+
+
+千勇-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0010115";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	千勇
+博学而笃志切问而近思
+
+	永久链接:http://mypage.zju.edu.cn/qianyong&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			1998-2002&nbsp;&nbsp;&nbsp;&nbsp;吉林省延边大学政治系，本科
+2002-2005&nbsp;&nbsp;&nbsp;&nbsp;延边大学-复旦大学联合培养国际政治系，硕士
+2006-2010&nbsp;&nbsp;&nbsp;&nbsp;韩国学中央研究院政治学专业，博士
+2010.3-2010.10韩国学中央研究院世宗研究所客座研究员
+2010.11-至今&nbsp;浙江大学人文学院韩国研究所讲师
+			
+				
+			工作研究领域
+			
+			主要研究方向为朝鲜半岛问题、中韩海洋问题、中韩关系史
+			
+				
+			联系方式
+			
+			电话：TEL:86-571-8827-3684			电子信箱：qianyong328@hotmail.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：千勇
+		单位：浙江大学韩国研究所
+		职称：讲师
+		我的主页共被访问了2445次
+标签：浙江大学韩国研究所中韩关系朝鲜半岛研究	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

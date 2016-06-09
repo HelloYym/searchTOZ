@@ -1,0 +1,211 @@
+
+
+
+
+
+郭欣Nanophotonics-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0012035";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	郭欣Nanophotonics
+
+
+	永久链接:http://mypage.zju.edu.cn/guoxin&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			郭欣，特聘副研究员，硕士生导师。
+2005年7月毕业于四川大学光信息科学与技术专业，获理学学士学位；2010年6月毕业于浙江大学光电信息工程学系光学工程专业，获工学博士学位。2010年7月至2012年5月，在北京邮电大学信息光子学与光通信国家重点实验室工作。2012年6月至今，为浙江大学光电信息工程学系特聘副研究员，其中2014年9月至2015年9月在香港理工大学电机工程系进行访问研究。主要从事表面等离激元光子学相关研究，在NanoLett.、Laser&Photon.Rev.、Acc.Chem.Res.、Appl.Phys.Lett、Opt.Express等期刊发表论文20余篇，其中第一作者论文单篇最高SCI他引超过100次。获浙江省自然科学一等奖（排名第二）、全国优秀博士学位论文提名、浙江省优秀博士学位论文、第八届饶毓泰基础光学奖优秀奖等奖励。
+			
+				
+			工作研究领域
+			
+			1.	表面等离激元光子学及器件
+2.	低维光子结构的导波光学、非线性光学新效应与新器件
+
+			
+				
+			联系方式
+			
+			电话：0571-87952016			电子信箱：guoxin@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：郭欣
+		单位：光电信息工程学系
+		职称：特聘副研究员
+		我的主页共被访问了2899次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		研究方向
+	发表论文
+	工作研究项目
+	奖励荣誉
+	学术交流
+	实验室介绍
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,213 @@
+
+
+
+
+
+WelcometoHong-BingXiong-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0005203";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	WelcometoHong-BingXiong
+ZhejiangUniversity
+
+	Permanentlink:http://mypage.zju.edu.cn/en/hongbing&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			Education:
+PhD&amp;MS-MechanicalEngineering,StateUniversityofNewYorkatStonyBrook,Dec2004
+BS-ThermalScienceandEnergyEngineering,UniversityofScienceandTechnologyofChina,June2000
+&nbsp;
+WorkingExperience:
+2005-,Lecturer,AssociateProfessor,DepartmentofMechanicalEngineering,ZhejiangUniversity
+Dec2004&ndash;May2005:ResearchAssistant,Thermal&amp;FluidProcessLaboratory,DepartmentofMechanicalEngineering,StateUniversityofNewYorkatStonyBrook,U.S.A.&nbsp;
+&nbsp;
+Professionalinterests:
+Numericalandanalyticalthermal-fluidscienceswithdirectinterestsinfluidmechanics,heatandmasstransfer,chemicalkineticsandhigh-temperaturegas-dynamics:
+-Dynamicsofmicro-andnano-particulatesinmultiphaseflow.
+-Heatandmasstransferinthermalspray.
+-Directionalsolidificationincrystalgrowth.
+-Discreteparticlemethod,andSPHmethod.
+-Aerodynamicsofhigh-speedtrain.
+&nbsp;
+Address:
+Office:TheTwelfthTeachingBuilding321
+ZhejiangUniversity,YuquanCampus
+38ZhedaRoad
+Hangzhou,China310027
+&nbsp;
+			
+				
+			Contact
+			
+			Phone:
+			E-mail:hbxiong@zju.edu.cn
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:Hong-BingXiong
+		Units:SchoolofAeronauticsandAstronautics,ZhejiangUniversity
+		Title:AssociateProfessor
+		Myhomepagehasbeenvisited1624times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	
+
+
+Youarevisitor:1624
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

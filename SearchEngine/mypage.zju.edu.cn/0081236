@@ -1,0 +1,207 @@
+
+
+
+
+
+tianzhengping-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0081236";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	tianzhengping
+
+
+	永久链接:http://mypage.zju.edu.cn/0081236&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;
+&nbsp;
+田正平，山西省应县城关镇人，1944年12月20日出生。1968年毕业于北京师范大学教育学系。1981年在杭州大学获教育学硕士学位并留校任教。1996至2005年期间，先后任杭州大学、浙江大学教育学系系主任，浙江大学教育学院首任院长。现任浙江大学教育学院教授、博士生导师，浙江大学中外教育现代化研究所所长。主要社会兼职有：中国教育学会常务理事，中国教育学会教育史分会理事长，中国地方教育史志研究会副理事长，教育部全国教育科学规划领导小组教育理论与教育史学科组成员，浙江省教育学会顾问等。主要学术荣誉有：1993年开始享受中华人民共和国国务院特殊津贴，同年被评定为浙江省有突出贡献的中青年科技专家，2002年获全国优秀博士论文指导教师奖，2004年获全国优秀教师称号，2005年获浙江省首批特级专家称号，2010年获浙江省功勋教师称号。
+长期从事中国教育史、中外教育文化交流史、高等教育史的教学与研究工作，主要研究领域是：中国教育现代化史、中外教育交流史、中国高等教育史、中国留学教育史、中国近代职业教育史等。曾先后主持全国哲学社会科学、浙江省哲学社会科学和教育部教育科学、教育部人文社会科学重点研究项目&ldquo;中国教育近代化研究&rdquo;、&ldquo;中外教育交流史研究&rdquo;、&ldquo;中国近代义务教育研究&rdquo;、&ldquo;中国近代边疆教育研究&rdquo;、&ldquo;中外教育现代化比较研究&rdquo;等多项。出版和主编的学术专著有《留学生与中国教育近代化》、《黄炎培教育思想研究》、《中国近代义务教育研究》、《中国教育史研究（近代卷）》、《中外教育交流史》、《中国高等教育百年史论》、《中国教育早期现代化问题研究》等多种，主编《中国教育近代化研究》（7种）、《近代教育与社会变迁研究》（5种）、《教育交流与教育现代化》（3种）等。在《文史》、《教育研究》、《日本教育史学》等国内外学术刊物发表论文百余篇。研究成果先后获中华人民共和国教育部人文社会科学优秀成果一等奖1项、二等奖2项，教育部全国教育科学优秀成果一等奖1项、二等奖2项；浙江省哲学社会科学优秀成果一等奖3项、三等奖1项，以及国家图书奖提名奖2项、中华优秀出版物奖1项、提名奖1项。
+			
+				
+			联系方式
+			
+						电子信箱：tianzp88@126.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：田正平
+		单位：教育学院教育学系
+		职称：教授
+		我的主页共被访问了24699次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	研究成果
+	奖励荣誉
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

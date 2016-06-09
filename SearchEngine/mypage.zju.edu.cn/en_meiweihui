@@ -1,0 +1,207 @@
+
+
+
+
+
+MeiWeihui-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0009097";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	MeiWeihui
+Prendiiltempodivivere!
+
+	Permanentlink:http://mypage.zju.edu.cn/en/meiweihui&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			&nbsp;
+2000.9-2004.6&nbsp;&nbsp;UndergraduateStudent,DepartmentofEducation,ZhejiangUniversity
+2004.9-2006.2&nbsp;&nbsp;M.A,MajoredinComparativeEducation,DepartmentofEducation,ZhejiangUniversity
+2006.3-2009.6&nbsp;&nbsp;Ph.DStudent,MajoredinComparativeEducation,DepartmentofEducation,ZhejiangUniversity
+2007.7-2008.6&nbsp;&nbsp;FacultyofEducation,Universita&rsquo;PontificiaSalesiana,Rome,Italy
+2009.9-2012.12&nbsp;&nbsp;&nbsp;Lecturer,DepartmentofEducation,ZhejiangUniversity
+2012.12-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AssociateProfessor,DepartmentofEducation,ZhejiangUniversity
+&nbsp;
+			
+				
+			Researchwork
+			
+			comparativehighereducation,entrepreneurshipeducation,Italianeducation
+			
+				
+			Contact
+			
+			Phone:
+			E-mail:tthuihui@163.com,tthuihui@zju.edu.cn
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:MeiWeihui
+		Units:DepartmentofEducation,ZhejiangUniversity
+		Title:AssociateProfessor
+		Myhomepagehasbeenvisited4335times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+Teaching
+ResearchProjects
+Publications
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	
+
+
+Youarevisitor:4335
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

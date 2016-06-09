@@ -1,0 +1,355 @@
+
+
+
+
+
+陈万芝-博客
+
+
+
+
+
+
+varctxPath="http://mypage.zju.edu.cn";
+varb_handle="ChenWanzhi";
+varcfg_weblog="http://mypage.zju.edu.cn/weblog";
+vard=newDate()
+varselyear=d.getFullYear();
+varselmonth=d.getMonth()+1;
+
+
+
+
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	color:#111;
+	margin-right:10px;	
+}
+#mainlinkullia,.tagsa:hover{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+.tagsa{
+	margin-right:10px;
+}
+img{
+	border:none;
+}
+
+
+
+
+
+
+
+
+
+
+	
+		首页
+		帮助
+		登录
+	
+
+
+
+
+
+
+	陈万芝
+浙江大学化学系陈万芝
+
+	永久链接:http://mypage.zju.edu.cn/weblog/ChenWanzhi&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+
+
+	中文主页
+英文主页
+			博客
+
+
+
+
+
+
+
+
+
+
+			
+				
+
+	
+[1/1]
+首页	上一页下一页末页
+
+	
+
+浏览模式:普通|列表
+
+
+
+
+
+
+		我税后年薪40多万比国外同行低得多
+
+作者:陈万芝日期:2011-03-06Sunday
+
+
+
+武钢总经理，党委副书记邓崎琳说：我们中国央企高管的工资薪酬水平和同类岗位相比低得多，这是事实。我们都是一样的，绝对是低得多。我们一年把税交完的工资40多万，你会信吗？美国GE那些大公司多是几千万美金的，民营企业就更不用说了。这个我们信，可你也坦白下，...
+查看更多...
+
+
+
+
+
+分类:默认分类|			固定链接|评论总数0|
+			阅读次数193
+
+
+
+
+
+
+
+		民政部副司长称“找不到穷人”
+
+作者:陈万芝日期:2011-03-04Friday
+
+
+
+民政部副司长称指慈善救助&ldquo;找不到穷人&rdquo;呵呵，似乎一夜之间中国真成发达国家啦，可即使美日欧也不会没有穷人吧。即便温总理也承认按联合国一天一美元标准，中国也有1.5亿人口生活在这个标准之下。你民政部官员找不到穷人，岂不是滑天下之大稽吗？你你他...
+查看更多...
+
+
+
+
+
+分类:默认分类|			固定链接|评论总数0|
+			阅读次数82
+
+
+
+
+
+
+
+		钓鱼岛户籍
+
+作者:陈万芝日期:2011-02-28Monday
+
+
+
+近日媒体报道某些日本百姓将户籍迁到钓鱼岛，引起好多中国年轻人的愤怒，其实大可不必，中国人完全应有点大国气度，我们欢迎日本人加入中国籍不就好啦，如果一亿日本人都迁至钓鱼岛，那中国人口数量上升一亿，本来中国人口就多，还怕多出15分之一，这样的话，日本还有...
+查看更多...
+
+
+
+
+
+分类:默认分类|			固定链接|评论总数0|
+			阅读次数69
+
+
+			
+			
+		
+		
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+	
+	
+		姓名：陈万芝
+		单位：化学系
+		职称：教授
+		我共发表了3篇文章
+		共收到0条评论
+		我的主页共被访问了2208次
+	
+	
+	
+	
+
+
+我的文章分类
+
+	默认分类
+		
+ChenWanzhi
+		
+
+
+
+
+日历
+
+
+
+>>
+年月
+
+
+
+日
+一
+二
+三
+四
+五
+六
+
+
+
+
+
+
+
+
+
+
+
+我的最新文章
+
+
+		我税后年薪40多万比国...
+民政部副司长称“找不到...
+钓鱼岛户籍
+	
+
+
+
+
+我的热点文章
+
+
+				我税后年薪40多万比国...
+		民政部副司长称“找不到...
+		钓鱼岛户籍
+
+	
+
+
+我收到的评论
+
+	
+	
+
+
+我的文章汇总
+
+		2011年3月[2]
+		2011年2月[1]
+		
+	
+
+
+链接
+
+
+
+
+
+
+检索
+
+
+
+
+-所有文章-
+默认分类
+ChenWanzhi
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+
+
+varflag=newArray();
+flag[0]='2011/02/28';
+flag[1]='2011/03/04';
+flag[2]='2011/03/06';
+
+
+varcale=newCalendar("idCalendar",{
+SelectDay:newDate(),
+onSelectDay:function(o),
+onToday:function(o),
+onFinish:function(){
+$("idCalendarYear").innerHTML=this.Year;$("idCalendarMonth").innerHTML=this.Month;
+for(vari=0,len=flag.length;i<len;i++){
+//alert(flag[i]);
+	vard=newDate(flag[i]);
+	if(this.Year==d.getYear()){
+		if(this.Month==d.getMonth()+1)
+		{
+this.Days[d.getDate()].innerHTML=""+d.getDate()+"";
+			
+		}
+
+	}
+}
+}
+});
+$("idCalendarPre").onclick=function()
+$("idCalendarNext").onclick=function()
+
+
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));

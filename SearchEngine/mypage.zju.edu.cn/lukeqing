@@ -1,0 +1,206 @@
+
+
+
+
+
+青出于蓝-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0010865";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	青出于蓝
+
+
+	永久链接:http://mypage.zju.edu.cn/lukeqing&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			卢科青，男，博士，在站博士后。1980年7月出生于浙江慈溪，2003年6月毕业于浙江工业大学机电工程学院工业工程专业，获工学学士学位，浙江省省级优秀毕业生。2004年9月考入浙江大学机械制造及其自动化专业，攻读硕士学位，2006年2月提前攻读博士学位，导师陈子辰教授，研究方向：逆向工程曲面数字化测量。2010年9月获浙江大学机械工程博士学位，目前在浙江大学计算机科学与技术博士后流动站从事博士后研究工作。目前承担国家自然科学基金（青年基金）项目&quot;基于语义信息的逆向工程CAD建模新方法研究&quot;（No.51105332）。近几年来先后参加了国家自然科学基金项目&ldquo;网络协同商务链的理论与方法研究（NO.70172016）&rdquo;、浙江大学211工程项目&ldquo;网络化制造平台&rdquo;子课题、浙江省科技计划重点项目&ldquo;多传感器集成的智能化柔性测量、加工一体化装备研制（NO.2003C21031）&rdquo;、浙江省科技厅重大专项项目&ldquo;复合式三坐标扫描测量机关键技术研究及产业化开发（NO.2006C11256）&rdquo;等多项项目的研究。曾获得浙江省科学技术三等奖一项，已发表学术论文9篇，其中EI收录7篇，申请国家发明专利8项，其中已授权4项，获国家计算机软件版权登记6项。主要从事逆向工程数字化测量、逆向工程CAD建模、数据信息处理方面的研究工作。
+			
+				
+			工作研究领域
+			
+			自由曲面数字化测量、逆向工程CAD建模、数据信息处理
+			
+				
+			联系方式
+			
+			电话：0571-87951906			电子信箱：lukq1980@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：卢科青
+		单位：机械工程学系
+		职称：助理研究员
+		我的主页共被访问了575次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		专利成果
+	工作研究项目
+	奖励荣誉
+	发表论文
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

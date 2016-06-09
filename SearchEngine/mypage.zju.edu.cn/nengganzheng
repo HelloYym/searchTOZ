@@ -1,0 +1,251 @@
+
+
+
+
+
+郑能干—学术主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0009783";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	郑能干—学术主页
+
+
+	永久链接:http://mypage.zju.edu.cn/nengganzheng&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			郑能干，男，博士，计算机副教授，主要研究方向为人工智能、机器学习、复杂网络、数据挖掘、移动互联网、嵌入式系统和脑机接口。
+&nbsp;
+2002年本科毕业于浙江大学生物医学工程系，2007年获留学生基金委（CSC）&ldquo;国家建设高水平大学公派研究生项目&rdquo;资助赴加拿大联合培养，2009年获浙江大学计算机科学与技术专业博士学位，曾获浙江大学优秀博士生卓越计划资助。2009年进入求是高等研究院从事博士后研究，2011年6月出站留校任教。在人工智能、机器学习、移动互联网、嵌入式系统和脑机接口等方面积累了较为丰富的研究和开发经验。
+&nbsp;
+主持或完成国家自然基金青年项目、中国博士后基金面上项目、中国博士后基金特别资助、浙江省自然科学基金重点项目共计4项，作为科研骨干参与973计划项目、863计划项目、国家自然基金重点项目、国家自然基金面上等7项，在IEEETrans,JMEMS,IEEEIntelligentSystems,PLoSONE等重要国际期刊和会议发表学术论文30余篇，获得授权专利4项、软件著作版权3个。
+&nbsp;
+中国计算机学会高级会员、中国人工智能学会高级会员、ACM会员、IEEE会员、ISN会员。担任IEEETransactionsonComputers,&nbsp;IEEETransactionsonIndustrialElectronics,IEEETransactionsonIndustrialInformatics,IEEETransactionsonSystem,Man,Cybernetics(PartB/C),IEEETransactionsonInformationTechnologyinBiomedicine,IEEETransactionsonNetworkingandServiceManagement,IEEETransactionsonEmergingTopicsinComputing,计算机学报,Neurocomputing等重要期刊审稿人，并担任EmbeddedCom、HPCC、FCST、ICESS、CMC和FGCN等多个国际会议程序委员会委员。
+&nbsp;
+
+&nbsp;
+欢迎热爱&diams;人工智能、数据挖掘、计算机系统（嵌入式系统）研究和技术开发&diams;的同学加入我们研究组，参加本科生SRTP（在读本科生）、硕士研究生阶段（本科保研、考研）、博士阶段（直博、硕转博、硕士毕业攻博）、博士后研究工作，请发email或者电话联系！
+&nbsp;
+
+
+
+&nbsp;
+本科SRTP/毕业设计&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+硕士研究生
+博士研究生
+博士后
+
+
+当前专业/所在学院
+计算机、应用统计、应用数学、生物医学工程、自动控制、信息电子工程、机械电子
+信息相关专业（计算机、电子、控制等）、数学（特别是应用统计）、心理学
+计算机、信息电子、控制、心理学
+All
+
+
+入学后专业
+---------
+计算机、生物医学工程
+计算机科学与技术、生物医学工程
+计算机科学与技术、生物医学工程
+
+
+
+
+
+
+
+&nbsp;
+			
+				
+			工作研究领域
+			
+			人工智能、机器学习、数据挖掘、脑机接口、实时嵌入式系统
+			
+				
+			联系方式
+			
+			电话：86-0-135-6710-6229			电子信箱：zngＡＴ　cs.zju.edu.cnＯＲ　zhengnengganＡＴ　gmail.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：郑能干
+		单位：求是高等研究院
+		职称：副教授
+		我的主页共被访问了4524次
+标签：移动互联网人工智能嵌入式系统脑机接口数据分析数据挖掘	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	出版著作
+	学术交流（讲座报告）
+	发表论文
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

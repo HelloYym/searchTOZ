@@ -1,0 +1,251 @@
+
+
+
+
+
+王林翔-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0011021";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	王林翔
+
+
+	永久链接:http://mypage.zju.edu.cn/wanglinxiang&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+王林翔教授，1971年生。1999年毕业于浙江大学流体传动及控制国家重点实验室，获博士学位。1999年-2003年间先后为上海交大与宝钢研究院联合培养博士后，韩国庆熙大学博士后，和南丹麦大学博士后。2003年起任南丹麦大学自然科学与工程学院助理教授，2006年起任南丹麦大学工程学院副教授。2008年回国任杭州电子科技大学特聘教授。2011年起任浙江大学海洋科学与工程系教授，为海洋工程研究方向学科带头人。王林翔教授现为AmericanJournalofMaterialsScienceandTechnology(美国）,机械工程期刊（中国）编委。ASME会员,IEEE会员，中国力学学会高级会员，中国机械工程学会高级会员，入选浙江省海外高层次人才(浙江省千人计划)。
+工作经历
+1999.08-2000.08,上海交通大学与宝钢研究院自动化研究所联合博士后流动站，博士后。
+2000.09-2001.12,韩国庆熙大学机械工程系，博士后。
+2002.01-2003.02,南丹麦大学自然科学与工程学院，博士后。
+2003.03-2006.03,南丹麦大学自然科学与工程学院，助理教授（AssistantProf.）。
+2006.03-2008.02,南丹麦大学工程学院,副教授(AssociateProf.)。
+2008.03-2011.07，杭州电子科技大学特聘教授。
+2011.08-至今&nbsp;&nbsp;浙江大学教授
+学术活动与服务：
+AmericanJournalofMaterialsScienceandTechnology（美国）,机械工程期刊（中国）编委。
+ASME会员,IEEE会员，中国力学学会高级会员，中国机械工程学会高级会员。&nbsp;
+JournalofVibrationandControl,SmartMaterialsandStructures,&nbsp;CurrentOpinioninSolidStateMaterialsScience,&nbsp;Internationaljournalofnonlinearmechanics,MaterialsScienceandEngineering.A,SolidStateScience,MechanicsResearchCommunications,JournalofMathematical等多家国际期刊审稿人。
+发表论文（自2005年,部分期刊论文）：
+1.&nbsp;L.X.Wang,RVN,Melnik,F.Z.Lv,Stressinducedpolarizationswitchingandcoupledhystereticdynamicsinferroelectricmaterials,FrontiersofMechanicalEngineering,2011.6(3):287-291
+2.&nbsp;RongLiu,LinxiangWang,ResearchesonDifferentialModelofMagnetorheologicalDampersintheDependenceontheLoadingRates,AdvancedScienceLetters,2011,Vol.4,P:814&ndash;818.
+3.&nbsp;L.X.Wang,Numericalsimulationofmicrostructuregrowthcausedbytwinninganddetwinninginshapememoryalloys,ActaMechanicaSolidaSinica,2010，23(S.Issue):204-209。
+4.&nbsp;L.X.Wang,RVN,Melnik,Lowdimensionalapproximationstoferroelasticdynamicsandhystereticbehaviourduetophasetransformations，ASMETrans,Journalofappliedmechanics,2010，77:031015。
+5.&nbsp;L.X.Wang,M.Willatzen,ExtensionoftheLandautheoryforhystereticelectricdynamicsinferroelectricceramics,JournalofElectroceramics,2010,24(1):51-57
+6.&nbsp;L.X.Wang,RVN,Melnik，ControlofcoupledhystereticdynamicsofferroelectricmaterialswithaLandau-typedifferentialmodelandfeedbacklinearization，SmartMaterials&amp;Structures,2009,18(7):074011.
+7.&nbsp;L.X.Wang,M.Willatzen,Modellingofnonlineardynamicsforreciprocalmulti-layerpiezoceramictransducersystems,AppliedMathematicalModelling,2009,33:2263-2273.&nbsp;
+8.&nbsp;L.X.Wang,R.Liu,R.V.N.Melnik,Modelinglargereversibleelectric-field-inducedstraininferroelectricmaterialsusing90oorientationswitching,SciChinaSerE-TechSci(中国科学E辑英文版)，2009,52(1):141-147.&nbsp;
+9.&nbsp;M.Willatzen,L.X.Wang,andL.C.LewYanVoon,ElectrostrictioninGaN/AlNheterostructures,SuperlatticesandMicrostructures,2008,43(5-6):436-440.
+10.&nbsp;L.X.Wang,R.V.N.Melnik,Modifyingmacroscalevariantcombinationsin2Dstructureusingmechanicalloadingsduringthermallyinducedtransformation,MaterialScienceandEngineeringA,2008,481-482:190-193.
+11.&nbsp;L.X.Wang,R.V.N.Melnik,Simulationofphasecombinationsinshapememoryalloyspatchesbyhybridoptimizationmethods,AppliedNumericalMathematics,2008,58(4):511-524.
+12.&nbsp;M.Willatzen,L.X.Wang,Mathematicalmodellingofone-dimensionalpiezoelectrictransducersbasedonmonocliniccrystals,ActaAcusticaunitedwithAcustica,2007,93(5):716-721
+13.&nbsp;L.X.Wang,R.V.N.Melnik,Thermo-mechanicalwavepropagationinshapememoryalloyrodwithphasetransformations,MechanicsofAdvancedMaterialsandStructures,2007,14(8):665-676.
+14.&nbsp;L.X.Wang,R.V.N.Melnik,Finitevolumeanalysisofnonlinearthermo-mechanicaldynamicsofshapememoryalloys,HeatandMassTransfer,2007,43(6):535-546
+15.&nbsp;L.X.Wang,R.V.N.Melnik,Numericalmodelforvibrationdampingresultingfromthefirstorderphasetransformations,AppliedMathematicalModelling,2007,31:2008-2018.
+16.&nbsp;L.X.Wang,andM.Willatzen,NonlineardynamicalmodelForhysteresisbasedonnon-convexpotentialenergy,ASCE,JournalofEngineeringMechanics,2007,133(5):506-513.
+17.&nbsp;L.X.Wang,R.V.N.Melnik,Modelreductionappliedtothesquaretorectangularmartensitetransformationusingproperorthogonaldecomposition,AppliedNumericalMathematics,2007,57:510-520.
+18.&nbsp;L.X.Wang,&nbsp;M.Willatzen,Modellingofnonlinearresponsesforreciprocaltransducersinvolvingpolarizationswitching,IEEETransactionsonUltrasonics,Ferroelectrics,andFrequencyControl,2007,54(1):177-189.
+19.&nbsp;L.X.Wang,R.V.N.Melnik,MechanicallyinducedphasecombinationbyChebyshevcollocationmethods,MaterialScienceandEngineeringA,2006,438-440:427-430.
+20.&nbsp;L.X.Wang,R.V.N.Melnik,Dfferential-algebraicapproachforcoupledproblemsofdynamicthermoelasticity,AppliedMathematicsandMechanics,2006,27(9):1185-1196.
+21.&nbsp;L.X.Wang,R.V.N.Melnik,Two-dimensionalanalysisofshapememoryalloysundersmallloadings,InternationalJournalofmultiscalecomputationalengineering,&nbsp;2006,4(2):291-304.
+22.&nbsp;L.X.Wang,H.Kamath,Modellinghystereticbehaviorinmagnetorheologicalfluidsanddampersusingphase-transitiontheory,SmartMaterialsandStructures,2006,15(6):1725-1733.
+23.&nbsp;L.X.Wang,R.V.N.Melnik,DynamicsofShapememoryalloypatcheswithmechanicallyinducedtransformations,DiscreteandContinuousDynamicalSystem,2006,15(4):1237-1252.
+
+授权专利
+
+1.&nbsp;王林翔，张诚，王耀光，基于磁流变液的传动装置.（ZL200920122484.1），授权公告：2010.10.20
+2.&nbsp;王林翔，王振宇，金方银.基于铁电材料的吸声减噪装置.&nbsp;(ZL200910155799.0)，授权公告：2011.04.20
+3.&nbsp;王林翔，周昌全，冯长水.悬臂梁振动式铁电发电装置.（ZL200920121804.1）,&nbsp;授权公告：2012.02.24
+4.&nbsp;王林翔，李冰茹，陈双琳.基于海浪能捕获的海上仪器仪表供电装置.(ZL200920199442.8),授权公告：2011.09.01
+5.&nbsp;王林翔，金方银,王振宇.基于压电材料的梁振动频率控制装置.（ZL201020200453.6），授权公告：2010.12.15
+6.&nbsp;王林翔，周昌全,王振宇.频率可调的形状记忆合金振动吸收器.(ZL201020172552.8）授权公告：2011.04.13
+&nbsp;
+			
+				
+			工作研究领域
+			
+			机械电子工程，智能结构与元器件，数值模拟与分析等
+			
+				
+			联系方式
+			
+			电话：0571-88208802			电子信箱：wanglx236@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：王林翔
+		单位：机械工程学系
+		职称：教授
+		我的主页共被访问了6987次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

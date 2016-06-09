@@ -1,0 +1,236 @@
+
+
+
+
+
+傅建中教授-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0096151";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	傅建中教授
+
+
+	永久链接:http://mypage.zju.edu.cn/0096151&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+
+
+傅建中教授，博士生导师&nbsp;&nbsp;
+浙江大学机械工程学系副系主任
+浙江大学现代制造工程研究所常务副所长
+浙江大学省级先进制造技术重点实验室副主任
+浙江大学工程训练(金工)中心主任
+
+
+1986年09月－1990年07月&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江大学工学学士学位
+1990年09月－1992年12月&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江大学工学硕士学位
+1993年02月－1996年07月&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江大学工学博士学位(机械制造及其自动化)
+
+
+1996年08月－1998年07月&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江大学机械工程学系讲师
+1998年08月－2004年11月&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江大学机械工程学系副教授
+2003年07月－2003年09月&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;香港大学机械工程系&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;访问学者
+2004年12月－至今&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江大学机械工程学系&nbsp;教授、博士生导师
+&nbsp;
+
+
+
+
+
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;现任浙江大学现代制造工程研究所常务副所长，浙江省先进制造技术重点实验室副主任，浙江大学工程训练（金工）中心主任，浙江省151人才第二层次人员,&ldquo;十二五&rdquo;浙江省高端装备制造技术重大专项专家组成员，浙江省机械装备制造技术创新服务平台理事，浙江省机械工程学会常务理事（青年工作委员会主任委员），中国仪器仪表学会精密机械分会常务理事，中国机械工程学会生产工程分会机床专业委员会常务理事。近年来，主持国家自然科学基金3项，国家支撑计划项目1项，863重点项目1项，承担国家科技专项&ldquo;高档数控机床及基础制造装备&rdquo;子课题3项，主持并完成企业委托项目20多项。在国际及国内期刊上发表学术论文150余篇，其中SCI、EI收录论文80余篇，编著1部。先后获得省部级科技进步二等奖1项（排名第1），授权国家发明专利19项。
+			
+				
+			工作研究领域
+			
+			CAM/CNC、
+智能制造技术与装备、
+3D打印
+			
+				
+			联系方式
+			
+			电话：0571-87951907(O)			电子信箱：fjz@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：傅建中
+		单位：机械工程学系
+		职称：教授
+		我的主页共被访问了20566次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		科研团队
+	教学工作
+	工作研究项目
+	发表论文
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

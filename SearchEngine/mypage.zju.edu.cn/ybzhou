@@ -1,0 +1,214 @@
+
+
+
+
+
+周亦斌-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0096274";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	周亦斌
+zyb
+
+	永久链接:http://mypage.zju.edu.cn/ybzhou&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			周亦斌：1996年6月毕业于华中科技大学建筑工程专业(工业与民用建筑)，分配至浙江大学工作至今。2005年3月在浙江大学硕士毕业并获硕士学位。主要从事房屋建筑构造原理及方法，建筑结构，建筑施工概预算的教学与科研工作。同时一直从事生物物料物理特性信息及农产品的品质检测与评价研究；电子鼻在生物物料及食品品质检测与评价；模式识别技术及方法等方面的研究。
+
+2007年获浙江大学资产清查先进个人
+2008年获浙江省省直单位住房资金管理先进个人
+2010年获2009年度浙江大学奖教金
+2012年获2011年度浙江大学校级先进工作者
+
+&nbsp;
+			
+				
+			工作研究领域
+			
+			农产品品质检测与分析；电子鼻在农产品及食品品质检测中的评价；模式识别方法；房屋建筑构造原理及设计；施工概预算。
+			
+				
+			联系方式
+			
+			电话：0571-88981003			电子信箱：ybzhou@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：周亦斌
+		单位：浙江大学住房制度改革领导小组办公室
+		职称：主任
+		我的主页共被访问了6775次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

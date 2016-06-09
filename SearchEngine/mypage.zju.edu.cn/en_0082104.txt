@@ -1,0 +1,1 @@
+{'name': u':He Guoqing', 'title': u':', 'photo': u'http://mypage.zju.edu.cn/teacherimage/0082104.jpg', 'pos': './mypage.zju.edu.cn/en|0082104', 'intro': [u'\n\t\t                \t\t\t\n\t'], 'department': u':Zhejiang university ', 'homepage': 'http://mypage.zju.edu.cn/en/0082104'}

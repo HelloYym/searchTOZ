@@ -1,0 +1,215 @@
+
+
+
+
+
+张志新-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0002012";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	张志新
+
+
+	永久链接:http://mypage.zju.edu.cn/birdflyzzx&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;张志新，男，副教授，硕士生导师。1974年1月出生，浙江绍兴人。1997年在浙江大学获得过程装备与控制专业学士学位，2002年获得博士学位并留校任教，2002年晋升讲师，2004年晋升副教授，次年被批准为硕士生导师。
+主要从事旋转机械故障诊断、信号测试与分析、现场整机动平衡技术与智能化仪器、过程装备的自动控制的相关教学与研究工作。目前作为项目负责人承担国家自然科学基金1项，浙江省科技计划项目2项;作为技术骨干参与国家863计划，国家支撑计划，浙江省重大专项等科研工作。研制成功DB系列现场整机动平衡仪；闪频式现场动平衡仪；磨床砂轮快速动平衡仪；计算机智能化动平衡测试系统，仪器广泛应用于石油、化工、电力、制药、机床等行业，取得了良好的经济和社会价值。在国内外重要学术期刊上发表论文30余篇，现为中国振动工程学会故障诊断学会理事。
+			
+				
+			工作研究领域
+			
+			1.振动、冲击、噪声测试与分析
+2.转子动平衡技术与智能化仪器
+3.轴承故障识别技术
+4.信号处理与过程装备自动控制
+5.流体机械CFD及可靠性设计
+			
+				
+			联系方式
+			
+			电话：0571-87952821;13335882585			电子信箱：birdflyzzx@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：张志新
+		单位：化学工程与生物工程学系
+		职称：副教授
+		我的主页共被访问了10076次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		专利成果
+	教学工作
+	工作研究项目
+	奖励荣誉
+	发表论文
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

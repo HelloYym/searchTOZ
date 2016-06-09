@@ -1,0 +1,213 @@
+
+
+
+
+
+浙江大学李春光教授的个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0009021";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	浙江大学李春光教授的个人主页
+
+
+	永久链接:http://mypage.zju.edu.cn/cgli&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;李春光，男，1976年生于辽宁铁岭。分别于1999、2002、2004年在电子科技大学获得应用电子技术学士学位、模式识别与智能系统硕士学位和电路与系统博士学位。1999年7月在电子科技大学留校工作，2003年7月破格晋升为副教授，2006年7月破格晋升为教授，被评为博士生导师。2009年4月起任浙江大学信息与电子工程学系教授、博士生导师。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;曾于2003年3月-9月在香港城市大学访问研究；2004年10月-2005年3月为英国牛津大学访问学者；2005年5月-2006年4月受日本科技振兴机构（JST）资助在东京大学做博士后研究；2007年7月-2008年8月作为洪堡学者(AlexandervonHumboldtFellow)在柏林洪堡大学从事研究工作。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;李春光具有多学科交叉的研究经历和知识背景，近几年来主要从事统计信号处理、无线传感器网络、神经信息处理等方向的研究工作。在国际学术刊物上发表被SCI收录的论文80余篇，论文被他人引用2500余次（根据ISIWebofScience），其中单篇被引用超百次的6篇。2005年入选教育部新世纪优秀人才支持计划，博士论文被评为2006年全国优秀博士论文，2009年获教育部高等学校科学研究优秀成果奖自然科学一等奖，2012年入选首批国家青年拔尖人才支持计划。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;除了电子信息类学科学生外，也特别欢迎应用数学、统计学、理论物理等学科的同学报考研究生或做博士后研究（对我们研究领域中某个方面感兴趣即可，如有兴趣请email联系，招生专业为电路与系统）。
+			
+				
+			工作研究领域
+			
+			统计信号处理、无线传感器网络、神经信息处理
+			
+				
+			联系方式
+			
+			电话：0571-87951577			电子信箱：cgli@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：李春光
+		单位：信息与电子工程学系
+		职称：教授
+		我的主页共被访问了89162次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	发表论文
+	出版著作
+	奖励荣誉
+	实验室介绍
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

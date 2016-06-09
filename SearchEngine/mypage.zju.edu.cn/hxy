@@ -1,0 +1,220 @@
+
+
+
+
+
+黄晓艳-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0009092";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	黄晓艳
+
+
+	永久链接:http://mypage.zju.edu.cn/hxy&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			主要经历
+&nbsp;&nbsp;u&nbsp;2009年11月至今
+&nbsp;浙江大学电气工程学院讲师、副教授
+&nbsp;研究方向：高速列车永磁同步牵引电机设计、航空屏蔽电机热力学分析
+&nbsp;&nbsp;u&nbsp;2008年4月至2009年10月
+&nbsp;&nbsp;英国诺丁汉大学电气工程博后研究员(ResearchFellow)
+&nbsp;&nbsp;研究方向：容错型发电机的设计
+&nbsp;u&nbsp;2003年9月至2008年5月
+&nbsp;&nbsp;英国诺丁汉大学电气工程博士
+&nbsp;&nbsp;研究方向：基于无刷直流电机的电气驱动系统在航空电动液压作动器上的应用
+&nbsp;u&nbsp;1999年9月至2003年6月
+&nbsp;浙江大学测控技术与仪器系学士
+&nbsp;&nbsp;浙江大学电子商务与信息管理双学士学位
+&nbsp;
+&nbsp;研究领域
+&nbsp;&nbsp;u&nbsp;直流无刷电机设计及其驱动控制
+&nbsp;u&nbsp;容错型双馈发电机设计及其驱动控制
+&nbsp;u&nbsp;高速列车永磁同步牵引电机设计
+&nbsp;u&nbsp;电机容错控制策略研究
+&nbsp;
+			
+				
+			联系方式
+			
+			电话：87953134			电子信箱：xiaoyanhuang@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：黄晓艳
+		单位：电气工程学院电机工程学系
+		职称：副教授
+		我的主页共被访问了10696次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	发表论文
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

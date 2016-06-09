@@ -1,0 +1,268 @@
+
+
+
+
+
+XiaogangJIN-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0096364";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	XiaogangJIN
+
+
+	Permanentlink:http://mypage.zju.edu.cn/en/xiaogangjin&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			Blog
+
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			&nbsp;XiaogangJin,male,borninJiangsuProvince,P.R.China.
+AcademicBackground:
+
+
+Educations
+
+
+
+1984.09-1988.06,B.S.inMathematics,YangzhouUniversity,China
+1991.09-1996.06,Ph.D.inMathematics,Hangzhouuniversity,China
+2001.09-2002.08,Post-DoctorinComputerScience,SejongUniversity,Korea
+
+
+ProfessionalExperience
+
+1996.08-present,AssociateProfessorofCollegeofComputerScienceandTechnology,ZhejiangUniversity,China
+2004.05-2011.6,Vice-deanof&nbsp;CollegeofInformationScienceandEngineering,NingboInstituteofTechnology,ZhejiangUniversity,China
+ResearchInterests:
+
+NetworkDynamics,MachineLearning,ComputationalSocialScience,ComputationalEcology
+
+Lectures:
+
+DiscreteMathematics,TheoryofComputation&nbsp;
+ResearchProjects:
+
+1.StudyoncharacterizationofcomplexityoflinearCellularAutomata,NaturalScienceFoundationofChina,2002,GrantNo.60103049.
+2.StudyoftheArtificialFinancialMarketbasedonCellularAutomata,TheScienceFoundationforReturnedOverseasChineseScholarsGrantedbytheMinistryofEducationofChina.
+3.StudyonthesimulationmodelofITSbasedonCellularAutomata,ZhejiangProvincialNaturalScienceFoundationofChina,2005,GrantNo.Y105697.
+4.ResearchandDevelopmentofthePlatformofVisualizationTrafficdesignandSimulation,NingboNaturalScienceFoundation,2005,GrantNo.2005A610004.
+5.StudyofEpidemicSpreadingModelonDataBasedContactNetwork,NaturalScienceFoundationofChina,2011,GrantNo.61070069.
+
+Publications:
+
+&nbsp;&nbsp;JournalPapers
+
+1.YongMin,XiaogangJin,JieChang,BaojingGu,YangZhong,MingChen,ChanghuiPeng,XiaoliDong,WeijunYang,YantingGuo,FengMao,ZhengzhengPan,RoxannaRazavi,YingGe,Asystemsbiologyanalysisofurbannitrogenmetabolicnetworks,SubmittoPLoSONE.
+2.ChengbinPeng,XiaogangJin,PietroLio,Ka-ChunWong,andMeixiaShi,CollectiveMobilityPatternfromTaxiTripsinUrbanArea,JournalofStatisticalMechanics:TheoryandExperiment(JSTAT),revised.
+3.XianchuangSu,XiaogangJin,YongMin,LinjianMo,JiangangYang,ACurveShapedDescriptionofLargeNetworks,withanApplicationtotheEvaluationofNetworkModels,PLoSONE,v.6(5)2011,e19784.http://dx.plos.org/10.1371/journal.pone.0019784.
+4.YongMin,XiaogangJin,MingChen,ZhengzhengPan,YingGe,JieChang,Pathwayknockoutandredundancyinmetabolicnetworks,JournalofTheoreticalBiology,270(2011),pp.63-69.
+5.YongMin,WeiGong,XiaogangJin,JieChang,BaojingGu,ZhenHan,YingGeNCNA:integratedplatformforconstructing,visualizing,analyzingandsharinghumanmediatednitrogenbiogeochemicalnetworks,EnvironmentalModelling&amp;Software,26(2011),pp.678-679.
+6.JinyuHuang,XiaogangJin,Preventthespreadingofrumoronsmall-worldnetworks,JournalofSystemsScienceandComplexity,2011,24(3),pp.449-456.
+7.ChengbinPeng,XiaogangJin,MeixiaShi,EpidemicThresholdandImmunizationonGeneralizedNetworks,PhysicaA:StatisticalMechanicsanditsApplications,389(2010),pp.549-560.
+8.YixiaoLi,XiaogangJin,Fan-shengKong,ChengbinPeng,Cooperationandcharityinspatialpublicgoodsgameunderdifferentstrategyupdaterules,PhysicaA:StatisticalMechanicsanditsApplications,389(2010),pp.1090-1098.
+9.YixiaoLi,XiaogangJin,Fan-shengKongandHui-lanLuo,Strategicgamesonahierarchicalnetworkmodel,JournalofZhejiangUniversitySCIENCEA,20089(2),pp.271-278.
+10.LiangZhao,ThiagoHenriqueCupertino,KwanghoPark,Ying-ChengLai,XiaogangJin,Optimalstructureofcomplexnetworksforminimizingtrafficcongestion,Chaos,2007,17,pp.043103.
+11.YongMin,XiaogangJin,XianchuangSu,BoPeng,Minimizingoftheonly-insertionInsdelsystems,JournalofZhejiangUniversitySCIENCE,20056A(10),pp.1021-1025.
+12.XiaogangJin,JieLin,JiangangYang,ThegeneralizedsolutionsofBenjamin-onoequationsinColombeausense,JournalofZhejiangUniversitySCIENCE,2004(11),pp.1466-1470.
+13.JieLin,XiaogangJin,JiangangYang,Ahybridneuralnetworkmodelforconsciousness,JournalofZhejiangUniversitySCIENCE,2004(11),pp.1440-1448.
+14.XiaogangJin,Tae-wanKim,Theclassificationofcellularautomataandcomplexity,InternationalJournalofModernPhysicsB,2003(17),pp.4232-4237.
+15.XinanMa,XiaogangJin,AnecessaryconditionofsovabilityforCapillaryboundaryconditionofPoisson&rsquo;sequationintwodimensions,JournalofEastChinaNormalUniversity(NatureScience),2000(33),pp.1-6.
+16.JianWang,XiaogangJin,sEMGSignalanalysismethodanditsapplicationresearch,ChinaSportScienceandTechnology,200036(8),pp.26-28.
+17.XiaogangJin,FangyuSun,Studyonthelocalandglobalwell-posednessofHirota-Satsumasystem,JournalofSystemsScienceandMathematicalSciences,199919(4),pp.501-506.
+
+&nbsp;ConferencePapers
+
+1.XianchuangSu,XiaogangJin,YongMinandYixiaoLi,EstimatingGrowthParametersfortheProteinInteractionNetworkbyaNetworkComparisonMethodBasedonBreadth-FirstSearch,TheProceedingsofISKE2010,Nov.15-16,2010Hangzhou,China,pp.344-348.
+2.YongMin,XiaogangJin,BoGao,JieChangandYingGe,FindingCommunityStructureinNetworksbyGravitationAlgorithm,TheProceedingsofWMWA2010,Nov.26-28,2010Wuhan,China.
+3.&nbsp;GenlangChen,XiaogangJin,JiangangYang,StudyonSpatialandTemporalMobilityPatternofUrbanTaxiServices,TheProceedingsofISKE2010,Nov.15-16,2010Hangzhou,China,pp.422-425.
+4.&nbsp;YixiaoLi,XiaogangJin,Fan-shengKongandJiminLi,Linkingviasocialsimilarity:Theemergenceofcommunitystructureinscale-freenetwork,ProceedingoftheIEEESymposiumonWebSociety2009,8.23-24,2009,Lanzhou,China,pp.124-128.
+5.BoPeng,XiaogangJin,XianchuangSuandYongMin,AHybridEEGPatternClassificationAlgorithmBasedonHHTandSupportVectorMachine,IntelligentDecisionMakingSystem,ISKE2009,Nov.24-25,Hasselt,Belgium,pp.159-166.
+6.WeihongWang,KaiPei,XiaogangJin,UsingHilbert-HuangTransformtocharacterizeintrusionsincomputernetworks,ProceedingsofThirdInternationalConferenceonNaturalComputation,2007,Vol.5,pp.749-753.
+7.BoPeng,XiaogangJin,XianchuangSuandYongMin,ThestudyonthesEMGsignalcharacteristicsofmuscularfatiguebasedontheHilbert-Huangtransform,ICCS2006,LectureNotesinComputerScience,2006,Vol.3991,pp.140-147.
+8.YongMin,XiaogangJin,XianchuangSuandBoPeng,Empiricalanalysisofthespatialgeneticalgorithmonsmall-worldnetworks,ICCS2006,LectureNotesinComputerScience,Vol.3993,pp.1032-1039.
+9.XianchuangSu,XiaogangJin,YongMin,BoPeng,Studyonasymmetrictwo-lanetrafficmodelbasedonCellularAutomata,ICCS2005,LectureNotesinComputerScience,Vol.3514,pp.599-606.
+10.YongMin,XiaogangJin,XianchuangSu,BoPeng,Theonly-insertionInsdelsystemswithsmallerparameters,ProceedingofDNA11,2005Canada,pp.404.
+
+BooksEdited
+
+1.DerenChen,DanZhang,HonghuaGan,XiaogangJin,ShaoyongXiao,MathematicsforComputing,TsinghuaUniversityPress,2011,ISBN:9787302228257.&nbsp;&nbsp;&nbsp;
+&nbsp;
+			
+				
+			Researchwork
+			
+			NetworkDynamics,MachineLearning,ComputationalSocialScience,ComputationalEcology
+			
+				
+			Contact
+			
+			Phone:+86-137-0581-5020
+			E-mail:xiaogangj@cise.zju.edu.cn
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:XiaogangJin
+		Units:AIInstitute,CollegeofComputerScience
+		Title:AssociateProfessor
+		Myhomepagehasbeenvisited5420times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	
+
+
+Youarevisitor:5420
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

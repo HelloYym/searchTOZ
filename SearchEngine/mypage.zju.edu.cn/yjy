@@ -1,0 +1,393 @@
+
+
+
+
+
+信电人-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0096228";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	信电人
+
+
+	永久链接:http://mypage.zju.edu.cn/yjy&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+
+
+
+
+
+
+Normal
+0
+
+7.8磅
+0
+2
+
+false
+false
+false
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MicrosoftInternetExplorer4
+
+
+
+
+<object
+classid="clsid:38481807-CA0E-42D2-BF39-B33AF135CC4D"id=ieooui>
+
+st1:*
+
+
+<!--
+/*FontDefinitions*/
+@font-face
+	{font-family:宋体;
+	panose-1:2160311111;
+	mso-font-alt:SimSun;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:36804602882202621450;}
+@font-face
+	{font-family:"@宋体";
+	panose-1:2160311111;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:36804602882202621450;}
+/*StyleDefinitions*/
+p.MsoNormal,li.MsoNormal,div.MsoNormal
+	{mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	mso-pagination:none;
+	font-size:10.5pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"TimesNewRoman";
+	mso-fareast-font-family:宋体;
+	mso-font-kerning:1.0pt;}
+/*PageDefinitions*/
+@page
+	{mso-page-border-surround-header:no;
+	mso-page-border-surround-footer:no;}
+@pageSection1
+	{size:612.0pt792.0pt;
+	margin:72.0pt90.0pt72.0pt90.0pt;
+	mso-header-margin:36.0pt;
+	mso-footer-margin:36.0pt;
+	mso-paper-source:0;}
+div.Section1
+	
+/*ListDefinitions*/
+@listl0
+	{mso-list-id:1469200179;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-694767382676987056769871367698715676987036769871367698715676987036769871367698715;}
+@listl0:level1
+	{mso-level-text:"%1)";
+	mso-level-tab-stop:21.0pt;
+	mso-level-number-position:left;
+	margin-left:21.0pt;
+	text-indent:-21.0pt;}
+ol
+	
+ul
+	
+-->
+
+/*StyleDefinitions*/
+table.MsoNormalTable
+{mso-style-name:普通表格;
+mso-tstyle-rowband-size:0;
+mso-tstyle-colband-size:0;
+mso-style-noshow:yes;
+mso-style-parent:"";
+mso-padding-alt:0cm5.4pt0cm5.4pt;
+mso-para-margin:0cm;
+mso-para-margin-bottom:.0001pt;
+mso-pagination:widow-orphan;
+font-size:10.0pt;
+font-family:"TimesNewRoman";
+mso-ansi-language:#0400;
+mso-fareast-language:#0400;
+mso-bidi-language:#0400;}
+table.MsoTableGrid
+{mso-style-name:网格型;
+mso-tstyle-rowband-size:0;
+mso-tstyle-colband-size:0;
+border:solidwindowtext1.0pt;
+mso-border-alt:solidwindowtext.5pt;
+mso-padding-alt:0cm5.4pt0cm5.4pt;
+mso-border-insideh:.5ptsolidwindowtext;
+mso-border-insidev:.5ptsolidwindowtext;
+mso-para-margin:0cm;
+mso-para-margin-bottom:.0001pt;
+text-align:justify;
+text-justify:inter-ideograph;
+mso-pagination:none;
+font-size:10.0pt;
+font-family:"TimesNewRoman";
+mso-ansi-language:#0400;
+mso-fareast-language:#0400;
+mso-bidi-language:#0400;}
+
+
+1.学习经历
+博士研究生：1994年3月至1996年12月，浙江大学材料工程学系半导体材料，导师：阙端麟院士，王明华教授
+
+硕士研究生：1991年9月至1994年1月，浙江大学信息与电子工程学系微电子学与固体电子学，导师：王明华教授
+
+本科：1987年9月至1991年6月，浙江大学信息与电子工程学系光电子技术专业
+&nbsp;
+
+
+
+
+2.主要科研工作经历
+2003年6月至今，浙江大学信息与电子工程学系教授（2004年1月起担任博士生导师）
+
+2000年8月至2002年12月，美国得州大学奥斯汀分校(UniversityofTexasatAustin)博士后
+
+1998年12月至2003年6月，浙江大学信息与电子工程学系副教授
+
+1996年12月至1998年6月，浙江大学信息与电子工程学系讲师
+&nbsp;
+
+
+
+
+
+3.科研工作概况
+多年来一直从事集成光学和光电子技术的研究工作，通过对基本理论、基本功能与器件结构和制作工艺等研究，利用集成光学材料的特性，探索各种光电功能结构及其平面集成。
+&nbsp;
+4.获奖情况
+1)&ldquo;偏振遥感的系统化理论、方法及几个发现&rdquo;(2012环-1-003)
+北京市科学技术一等奖，2012
+北京大学，中国科学院合肥物质科学研究院，浙江大学，东北师范大学，浙江师范大学
+晏磊，乔延利，赵虎，关桂霞，李宇波（浙江大学），吴太夏，徐华，赵云升，杨建义（浙江大学），相云，陈伟，赵海盟，洪津，ChangyongCao，Xin-ZhongLIANG
+
+2)&nbsp;&nbsp;&ldquo;集成光波导芯片(光功分模块)&rdquo;
+浙江省科学技术二等奖，2008
+浙江南方通信集团股份有限公司，浙江大学，
+王明华（浙江大学），吕金良，李锡华（浙江大学），杨建义（浙江大学），江晓清（浙江大学），郝寅雷（浙江大学），宋南辛（浙江大学）
+
+3)&nbsp;&nbsp;&nbsp;国家重点基础研究发展计划(973计划)先进个人，科技部,2004年11月
+&nbsp;
+5.工作研究领域：集成光电子、光通信与光互连、集成微光机电系统、光传感
+
+&nbsp;
+
+
+
+
+			
+				
+			联系方式
+			
+			电话：0571-87952867			电子信箱：yangjy@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：杨建义
+		单位：信息与电子工程学系
+		职称：教授
+		我的主页共被访问了43955次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	科研工作
+	发表论文
+	奖励荣誉
+	活动新闻
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	浙江大学
+浙江大学办公室
+浙江大学信息与电子工程学系
+浙江大学微电子与光电子研究所
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

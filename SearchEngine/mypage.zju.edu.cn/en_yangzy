@@ -1,0 +1,204 @@
+
+
+
+
+
+ZaiyueYang'sHomepage-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0009152";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	ZaiyueYang'sHomepage
+
+
+	Permanentlink:http://mypage.zju.edu.cn/en/yangzy&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			1997-2001:&nbsp;UniversityofScienceandTechnologyofChina,Bachelor
+2001-2004:&nbsp;UniversityofScienceandTechnologyofChina,Master
+2004-2008:&nbsp;TheUniversityofHongKong,PhD
+2008-2010:&nbsp;TheHongKongPolytechnicUniversity,PostdoctoralFellow
+2010-2014:&nbsp;ZhejiangUniversity,AssociateProfessor
+2014:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ZhejiangUniversity,Professor
+moreimformation:
+http://www.sensornet.cn/zaiyue/home_en.html
+			
+				
+			Researchwork
+			
+			Smartgrid,Controltheory,Signalprocessing
+			
+				
+			Contact
+			
+			Phone:
+			E-mail:yangzy(at)zju.edu.cn
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:ZaiyueYang
+		Units:Dept.ofControlScienceandEngineering
+		Title:Professor
+		Myhomepagehasbeenvisited412times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	
+
+
+Youarevisitor:412
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

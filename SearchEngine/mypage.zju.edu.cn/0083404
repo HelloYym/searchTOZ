@@ -1,0 +1,200 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0083404";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0083404&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			戴宁，女，浙江大学医学院附属邵逸夫医院内科副主任，消化内科主任，教授，主任医师，博士生导师。1983年毕业于原浙江医科大学医学系本科，1990－1993年在德国埃森大学医学院留学，1993.6获医学博士学位。2003.3-2004.3在瑞士苏黎世大学医院进修。现为中华医学会消化学会胃肠动力学组委员，浙江省医学会消化分会副主任委员，浙江省医学会消化内镜学会委员，省抗癌协会肿瘤营养专委会委员，浙江省国际科学技术协会理事。近年已在国际和国内学术期刊上发表论文30多篇，参编著作4部，主持和参与国际合作等研究课题多项，并多次获奖。经过20多年的临床实践，已积累了丰富临床经验，擅长疑难消化病例的诊断和治疗，综合分析能力强，诊断符合率高，熟练、正确、成功地组织和抢救了相当数量消化系统危重病人如：消化道大出血，急性重症胰腺炎等。
+&nbsp;&nbsp;精通内镜下的诊断和治疗，如：食管曲张静脉的硬化、套扎、消化道狭窄的扩张、食管癌支架放置术，消化道息肉摘除，急诊消化道出血的止血和经皮内镜下胃造瘘等，并在省内率先开展了经皮内镜下空肠造瘘技术。
+&nbsp;&nbsp;在完成临床工作的同时，积极开展幽门螺杆菌和功能性胃肠病方面的研究，在国内首先开展了幽门螺杆菌耐药性逆转的研究，成功筛选出对幽门螺杆菌耐药性有良好逆转作用的药物，并发现了幽门螺杆菌的膜耐药现象，这对幽门螺杆菌耐药机制的研究和耐药菌的治疗具有十分重要的价值。
+
+			
+					
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：戴宁
+		单位：临床医学三系（含护理系）
+		职称：教授
+		我的主页共被访问了8766次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	奖励荣誉
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

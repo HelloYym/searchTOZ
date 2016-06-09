@@ -1,0 +1,220 @@
+
+
+
+
+
+光电系钱骏-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0009723";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	光电系钱骏
+
+
+	永久链接:http://mypage.zju.edu.cn/qianjun&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			钱骏，博士，男，浙江大学光电系副教授，求是青年学者，博士生导师。
+2004年6月在浙江大学光电系获学士学位，2009年6月在浙江大学光电系获博士学位，2009年7月至2011年6月在浙江大学光及电磁波研究中心从事博士后研究，2011年6月至2011年12月在浙江大学光电系担任讲师，2011年12月至今在光电系担任副教授，2012年1月成为浙江大学求是青年学者、博士生导师。主要研究方向为新颖光学纳米材料在生物成像、治疗中的应用，光学生物成像仪器。2006年至2007年曾在美国纽约州立大学布法罗分校&ldquo;激光、光子学、生物光子学研究中心&rdquo;进行学术访问，师从纳米生物光子学的国际领军人物ParasN.Prasad教授。
+
+
+&nbsp;
+			
+				
+			工作研究领域
+			
+			纳米生物光子学，光学成像仪器
+			
+				
+			联系方式
+			
+			电话：13505815872/636278			电子信箱：qianjun@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：钱骏
+		单位：光电信息工程学系
+		职称：副教授
+		我的主页共被访问了18052次
+标签：
+生物光子学光及电磁波研究中心光电信息工程学系光电系光电	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		专利成果
+	教学工作
+	工作研究项目
+	出版著作
+	奖励荣誉
+	发表论文
+	招贤纳士
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	浙江大学光电系
+浙江大学光及电磁波研究中心
+《生物光子学》本科课程网站
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

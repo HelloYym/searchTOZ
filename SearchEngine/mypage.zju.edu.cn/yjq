@@ -1,0 +1,213 @@
+
+
+
+
+
+杨家强老师主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0004533";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	杨家强老师主页
+我是浙江大学电气工程学院的杨家强老师，欢迎大家来访
+
+	永久链接:http://mypage.zju.edu.cn/yjq&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+&nbsp;
+
+浙江大学电机及其控制研究所副所长，近年来一直从事高性能伺服系统、电动汽车驱动、变频调速节能、飞轮储能、多相交流电机及其传动装置系统、有源电力滤波器（APF）、智能传感器等电气传动和电力电子领域的研究和教学工作，在这个领域完成了众多的企业科研项目，并主持了国家自然科学基金、中国博士后科学基金、航空科学基金、浙江省科技计划项目、浙江省教育厅项目等一些国家和省部级项目，取得了一些成果，在变频调速驱动和新能源综合利用方面具有较高的专业技术水平，积累了丰富的实际经验。申请了多项发明专利，已有40余篇论文在国内外重要刊物上发表，其中30多篇被SCI、EI收录。
+
+			
+				
+			工作研究领域
+			
+			1.高性能交流伺服驱动系统；3.电动汽车电机与驱动系统；3.电力电子与电气传动（有源电力滤波器）；4.机电一体化（飞轮储能系统）；5.智能传感器。
+			
+				
+			联系方式
+			
+			电话：0571-87951784			电子信箱：yjq1998@163.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：杨家强
+		单位：电气工程学院电机工程学系
+		职称：副教授（自然科学）
+		我的主页共被访问了14227次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	专利成果
+	实时信息
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

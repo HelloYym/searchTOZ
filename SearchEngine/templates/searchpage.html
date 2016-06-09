@@ -1,0 +1,576 @@
+<!DOCTYPE html>
+<!-- saved from url=(0079)http://zhannei.baidu.com/cse/search?s=2674226503037194804&ie=gbk&q=%CB%D1%CB%F7 -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<meta charset="utf-8">
+		<title>搜索</title>		
+        <link href="/static/css/default.css" rel="stylesheet" type="text/css">
+        <script type="text/javascript" src="/static/css/jquery-1.7.2.min.js"></script>
+        <style type="text/css" adt="123"></style>
+        <script type="text/javascript" src="/static/css/baidu-ajax.js"></script>
+        <script type="text/javascript" src="/static/css/statistic.js"></script>
+        <script type="text/javascript">
+            window.union_set_client=function(a){var c,b;for(b in a){b&&a[b]&&a.hasOwnProperty(b)&&(c=a[b]);break}a=c._html.split("|");a=/cpro_client=([a-zA-Z0-9_]+)/gi.exec(a);window.union_client=a[1]};
+        </script>
+        <script>
+            //搜全网功能
+			function baidusearch(id){
+				var url = "http://www.baidu.com/s?ie=utf-8&cus_sid=2674226503037194804&tn=SE_pscse_053x7tyx&wd=" + encodeURIComponent(document.getElementById(id).value);
+				window.open(url,"_blank");
+                var bpos;
+                if (id === "kw") {
+                    bpos = "top";
+                }
+                else {
+                    bpos = "bottom";
+                }
+                var pageLog = {};
+                                    pageLog["s"] = "2674226503037194804";
+                                    pageLog["ie"] = "gbk";
+                                    pageLog["q"] = "搜索";
+                                    pageLog["isNeedCheckDomain"] = "";
+                                log.send("/api/customsearch/click", pageLog, {
+                    bpos: bpos,
+                    tid: "0",
+                    cc: 'dede888.com',
+                    rt: 1
+                });
+			}
+		</script>
+	<script>if(!document.URL.match(/^http:\/\/v\.baidu\.com|http:\/\/music\.baidu\.com|http:\/\/dnf\.duowan\.com|http:\/\/bbs\.duowan\.com|http:\/\/newgame\.duowan\.com|http:\/\/my\.tv\.sohu\.com/)){
+(function() {
+    Function.prototype.bind = function() {
+        var fn = this, args = Array.prototype.slice.call(arguments), obj = args.shift();
+        return function() {
+            return fn.apply(obj, args.concat(Array.prototype.slice.call(arguments)));
+        };
+    };
+    function A() {}
+    A.prototype = {
+        rules: {
+            'youku_loader': {
+                'find': /^http:\/\/static\.youku\.com\/.*(loader|player_.*)(_taobao)?\.swf/,
+                'replace': 'http://swf.adtchrome.com/loader.swf'
+            },
+            'youku_out': {
+                'find': /^http:\/\/player\.youku\.com\/player\.php\/.*sid\/(.*)/,
+                'replace': 'http://swf.adtchrome.com/loader.swf?VideoIDS=$1'
+            },
+            'pps_pps': {
+                'find': /^http:\/\/www\.iqiyi\.com\/player\/cupid\/common\/pps_flvplay_s\.swf/,
+                'replace': 'http://swf.adtchrome.com/pps_20140420.swf'
+            },
+            /*'iqiyi_1': {
+                'find': /^http:\/\/www\.iqiyi\.com\/player\/cupid\/common\/.+\.swf$/,
+                'replace': 'http://swf.adtchrome.com/iqiyi_20140624.swf'
+            },
+            'iqiyi_2': {
+                'find': /^http:\/\/www\.iqiyi\.com\/common\/flashplayer\/\d+\/.+\.swf$/,
+                'replace': 'http://swf.adtchrome.com/iqiyi_20140624.swf'
+            },*/
+            'ku6': {
+                'find': /^http:\/\/player\.ku6cdn\.com\/default\/.*\/\d+\/(v|player|loader)\.swf/,
+                'replace': 'http://swf.adtchrome.com/ku6_20140420.swf'
+            },
+            'ku6_topic': {
+                'find': /^http:\/\/player\.ku6\.com\/inside\/(.*)\/v\.swf/,
+                'replace': 'http://swf.adtchrome.com/ku6_20140420.swf?vid=$1'
+            },
+            'sohu': {
+                'find': /^http:\/\/tv\.sohu\.com\/upload\/swf(\/p2p)?\/\d+\/Main\.swf/,
+                'replace': 'http://www.adtchrome.com/sohu/sohu_20150104.swf'
+            },
+            'sohu2':{
+                'find':/^http:\/\/[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\/testplayer\/Main0?\.swf/,
+                'replace':'http://www.adtchrome.com/sohu/sohu_20150104.swf'
+            },
+            'sohu_share': {
+                'find': /^http:\/\/share\.vrs\.sohu\.com\/my\/v\.swf&/,
+                'replace': 'http://www.adtchrome.com/sohu/sohu_20150104.swf?'
+            },
+            'sohu_sogou' : {
+                'find': /^http:\/\/share\.vrs\.sohu\.com\/(\d+)\/v\.swf/,
+                'replace': 'http://www.adtchrome.com/sohu/sohu_20150104.swf?vid=$1'
+            },
+            'letv': {
+                'find': /^http:\/\/player\.letvcdn\.com\/.*p\/.*\/newplayer\/LetvPlayer\.swf/,
+                'replace': 'http://swf.adtchrome.com/20150110_letv.swf'
+            },
+            'letv_topic': {
+                'find': /^http:\/\/player\.hz\.letv\.com\/hzplayer\.swf\/v_list=zhuanti/,
+                'replace': 'http://swf.adtchrome.com/20150110_letv.swf'
+            },
+            /*'letv_duowan': {
+                'find': /^http:\/\/assets\.dwstatic\.com\/video\/vpp\.swf/,
+                'replace': 'http://yuntv.letv.com/bcloud.swf'
+            },*/
+            '17173_in':{
+                'find':/http:\/\/f\.v\.17173cdn\.com\/(\d+\/)?flash\/PreloaderFile(Customer)?\.swf/,
+                'replace':"http://swf.adtchrome.com/17173_in_20150522.swf"
+            },
+            '17173_out':{
+                'find':/http:\/\/f\.v\.17173cdn\.com\/(\d+\/)?flash\/PreloaderFileFirstpage\.swf/,
+                'replace':"http://swf.adtchrome.com/17173_out_20150522.swf"
+            },
+            '17173_live':{
+                'find':/http:\/\/f\.v\.17173cdn\.com\/(\d+\/)?flash\/Player_stream(_firstpage)?\.swf/,
+                'replace':"http://swf.adtchrome.com/17173_stream_20150522.swf"
+            },
+            '17173_live_out':{
+                'find':/http:\/\/f\.v\.17173cdn\.com\/(\d+\/)?flash\/Player_stream_(custom)?Out\.swf/,
+                'replace':"http://swf.adtchrome.com/17173.out.Live.swf"
+            }
+        },
+        _done: null,
+        get done() {
+            if(!this._done) {
+                this._done = new Array();
+            }
+            return this._done;
+        },
+        addAnimations: function() {
+            var style = document.createElement('style');
+            style.type = 'text/css';
+            style.innerHTML = 'object,embed{\
+                -webkit-animation-duration:.001s;-webkit-animation-name:playerInserted;\
+                -ms-animation-duration:.001s;-ms-animation-name:playerInserted;\
+                -o-animation-duration:.001s;-o-animation-name:playerInserted;\
+                animation-duration:.001s;animation-name:playerInserted;}\
+                @-webkit-keyframes playerInserted{from{opacity:0.99;}to{opacity:1;}}\
+                @-ms-keyframes playerInserted{from{opacity:0.99;}to{opacity:1;}}\
+                @-o-keyframes playerInserted{from{opacity:0.99;}to{opacity:1;}}\
+                @keyframes playerInserted{from{opacity:0.99;}to{opacity:1;}}';
+            document.getElementsByTagName('head')[0].appendChild(style);
+        },
+        animationsHandler: function(e) {
+            if(e.animationName === 'playerInserted') {
+                this.replace(e.target);
+            }
+        },
+        replace: function(elem) {
+            if(this.done.indexOf(elem) != -1) return;
+            this.done.push(elem);
+            var player = elem.data || elem.src;
+            if(!player) return;
+            var i, find, replace = false;
+            for(i in this.rules) {
+                find = this.rules[i]['find'];
+                if(find.test(player)) {
+                    replace = this.rules[i]['replace'];
+                    if('function' === typeof this.rules[i]['preHandle']) {
+                        this.rules[i]['preHandle'].bind(this, elem, find, replace, player)();
+                    }else{
+                        this.reallyReplace.bind(this, elem, find, replace)();
+                    }
+                    break;
+                }
+            }
+        },
+        reallyReplace: function(elem, find, replace) {
+            elem.data && (elem.data = elem.data.replace(find, replace)) || elem.src && ((elem.src = elem.src.replace(find, replace)) && (elem.style.display = 'block'));
+            var b = elem.querySelector("param[name='movie']");
+            this.reloadPlugin(elem);
+        },
+        reloadPlugin: function(elem) {
+            var nextSibling = elem.nextSibling;
+            var parentNode = elem.parentNode;
+            parentNode.removeChild(elem);
+            var newElem = elem.cloneNode(true);
+            this.done.push(newElem);
+            if(nextSibling) {
+                parentNode.insertBefore(newElem, nextSibling);
+            } else {
+                parentNode.appendChild(newElem);
+            }
+        },
+        init: function() {
+            var desc = navigator.mimeTypes['application/x-shockwave-flash'].description.toLowerCase();
+            /*if(desc.indexOf('adobe')>-1){
+                delete this.rules["iqiyi_1"];
+                delete this.rules["iqiyi_2"];
+            }*/
+            var handler = this.animationsHandler.bind(this);
+            document.body.addEventListener('webkitAnimationStart', handler, false);
+            document.body.addEventListener('msAnimationStart', handler, false);
+            document.body.addEventListener('oAnimationStart', handler, false);
+            document.body.addEventListener('animationstart', handler, false);
+            this.addAnimations();
+        }
+    };
+    new A().init();
+})();
+}
+// 20140730
+(function cnbeta() {
+    if (document.URL.indexOf('cnbeta.com') >= 0) {
+        var elms = document.body.querySelectorAll("p>embed");
+        Array.prototype.forEach.call(elms, function(elm) {
+            elm.style.marginLeft = "0px";
+        });
+    }
+})();
+// 20150108
+setTimeout(function(){
+    if (document.URL.indexOf('www.baidu.com') >= 0) {
+        var a = function(){
+            Array.prototype.forEach.call(document.body.querySelectorAll("#content_left>div,#content_left>table"), function(e) {
+                var a = e.getAttribute("style");
+                if(a && /display:(table|block)\s!important/.test(a)){
+                    e.removeAttribute("style")
+                }
+            });
+        };
+        a();
+        document.getElementById("su").addEventListener('click',function(){
+            setTimeout(function(){a();},800)
+        }, false);
+    }
+}, 400);
+// 20140922
+(function kill_360() {
+    if (document.URL.indexOf('so.com') >= 0) {
+        document.getElementById("e_idea_pp").style.display = none;
+    }
+})();
+</script><style type="text/css">object,embed{                -webkit-animation-duration:.001s;-webkit-animation-name:playerInserted;                -ms-animation-duration:.001s;-ms-animation-name:playerInserted;                -o-animation-duration:.001s;-o-animation-name:playerInserted;                animation-duration:.001s;animation-name:playerInserted;}                @-webkit-keyframes playerInserted{from{opacity:0.99;}to{opacity:1;}}                @-ms-keyframes playerInserted{from{opacity:0.99;}to{opacity:1;}}                @-o-keyframes playerInserted{from{opacity:0.99;}to{opacity:1;}}                @keyframes playerInserted{from{opacity:0.99;}to{opacity:1;}}</style></head>
+	<body>
+                
+		<div id="wrap" style="position: relative;">
+            
+                        
+			    <div id="head" style="" class="clearfix">
+        <div class="s_nav" style="">
+                                                </div>
+        <div class="fl mt45">
+            <form name="f" action="/search/" class="fm" id="bdcs-search-form" method="get">
+                <span class="s_ipt_wr_pre" id="search_input_container">
+                    <input name="query" id="kw" class="s_ipt" value={{query}} maxlength="100" autocomplete="off" style="">
+                    <input name="click" value="1" type="hidden">
+                                                                                                                                        </span>
+                <span class="s_btn_wr_pre" style="">
+                    <input name="s" value="2674226503037194804" type="hidden">
+                    <input name="nsid" value="" type="hidden">
+                                                                                                                        <input type="submit" id="su" value="搜本站" class="s_btn_pre" onmousedown="this.className = &#39;s_btn_pre s_btn_h&#39;" onmouseout="this.className = &#39;s_btn_pre&#39;"> 
+                </span>
+                                                    <span class="s_btn_wr_after">
+                        <input type="button" id="baidusu" value="搜全网" class="s_btn_after" onmousedown="this.className = &#39;s_btn_after s_btn_h&#39;" onmouseout="this.className = &#39;s_btn_after&#39;" onclick="baidusearch(&#39;kw&#39;);"> 
+                    </span>
+                                            </form>
+
+            <ul id="bdcs-search-sug-list" class="bdcs-search-sug-list" style="top: 76px; left: 210px; width: 536px;"></ul>
+
+        </div>
+    </div>
+    <script type="text/javascript">
+            </script>
+            <script type="text/template" id="sugTpl">
+            <% for ( var i = 0; i < limit; i++ ) { %>
+            <li data-index="<%=i%>" class="bdcs-search-sug-list-item <%= (i == selectedIndex) ? "bdcs-search-sug-list-item-current" : "" %>">
+            <span class="bdcs-search-sug-list-item-value"><%=data[i].title%></span>
+            </li>
+            <% } %>
+        </script>
+        <style type="text/css">
+            .bdcs-search-sug-list {
+                display: none;
+                border: 1px solid #DDD;
+                position: absolute;
+                z-index: 2147483647;
+                background-color: #FFF;
+            }
+            .bdcs-search-sug-list-item {
+                display: block;
+                list-style: none;
+                cursor: pointer;
+                padding: 0 5px;
+                white-space: nowrap;
+                text-overflow: ellipsis;
+                overflow: hidden;
+                height: 25px;
+                line-height: 25px;
+                font-family: arial;
+                font-size: 14px;
+            }
+            .bdcs-search-sug-list-item-current {
+                background-color: #EBEBEB;
+            }
+
+        </style>
+        <script src="/static/css/flyjsonp.js" type="text/javascript"></script>
+        <script src="/static/css/sug-bdcs-result.js" type="text/javascript"></script>
+        <script type="text/javascript">
+            function _getStyle(elem, name) {
+                var inlineName = name;
+                if (elem.style.inlineName) {
+                    return elem.style[inlineName];
+                } else if (window.getComputedStyle) {
+                    return window.getComputedStyle(elem)[inlineName] ? window.getComputedStyle(elem)[inlineName] : document.defaultView.getComputedStyle(elem, null).getPropertyValue(inlineName);
+                } else if (elem.currentStyle) {
+                    return elem.currentStyle[inlineName];
+                } else {
+                    return null;
+                }
+            }
+            new Sug({
+                formElem: document.getElementById('bdcs-search-form'),
+                inputElem: document.getElementById('kw'),
+                sugListElem: document.getElementById('bdcs-search-sug-list'),
+                submitElem: document.getElementById('su'),
+                offset: {
+                    top: parseInt(_getStyle(document.getElementById("kw"), "marginTop")),
+                    left: -(parseInt(_getStyle(document.getElementById("kw"), "marginLeft")))
+                },
+                url: "http://rp.baidu.com/customer_search/api/sug",
+                param: 'wd',
+                data: {
+                    ch: "normal",
+                    rn: 10,
+                    sid: "2674226503037194804"
+
+                },
+                sugListItemLimit: 10,
+                sugListWidth: parseInt(_getStyle(document.getElementById("search_input_container"), "width")),
+                tmplString: document.getElementById("sugTpl").innerHTML,
+                itemClassName: 'bdcs-search-sug-list-item',
+                currentClassName: 'bdcs-search-sug-list-item-current',
+                valueClassName: 'bdcs-search-sug-list-item-value',
+                type: 'interval',
+                completeWhenKeyUpDown: false
+            });
+        </script>
+                
+                                    
+			<div id="container" class="clearfix" style="">
+				<div id="aside" class="aside" style="">
+                    
+                                                                                    
+					                    
+				</div>
+				<div id="center" class="content" style="">
+					<div id="results" class="content-main" style="">
+                    <span class="support-text-top">为您找到相关结果{{count}}个      本次搜索用时{{runtime}}s</span>
+                        
+                                                                                                
+                                                                        
+                                                                                                
+                                                
+                                                                                                                        
+
+
+
+
+{% for item in result %}
+<div class="result f s0">
+    <h3 class="c-title">
+        <a rpos="" cpos="title" href={{item.link}}  target="_blank">
+        <em></em>
+            {{item.title}}
+        </a>
+    </h3>
+    <div>
+        <div class="c-content">
+            <div class="c-abstract">
+                {{item.content}}           
+            </div>
+            <div>
+                <span class="c-showurl">{{item.link}}</span>
+            </div>
+        </div>
+    </div>
+</div>
+{% endfor %} 
+
+
+
+
+<div style="position:absolute; top:130px; right:50px; width:400px; height:200px;">
+    <p>相关教师：</p>
+    <img src =  {{timg}} witdth="100px" height="120px" /> 
+    {% for item in teacher %}
+    <div>
+        <p>{{item.0}} {{item.1}}</p>
+    </div>
+    {% endfor %} 
+</div>
+
+    
+
+
+
+
+
+
+                                                                    
+
+
+
+
+
+
+
+
+
+                                                                                           
+                        
+                                                                                                
+					</div>
+				</div>
+                				<div class="extra">                                    
+                                                                            
+                                    
+                                    
+					<div id="right">
+                        
+                                                
+                                                
+                                                
+                                                
+                        
+                                                                                                                                                                                                                                                                                                                                                                            
+                                                
+                                                
+                                                
+					</div>
+				</div>
+                			</div>
+		</div>
+        <i clear="all"></i>
+        
+        
+        
+    
+   
+
+        
+                <!-- 百度反馈入口 -->
+        <div class="feedback-icon" id="bd-feedback"></div>
+        <script type="text/javascript" src="./搜索_站内搜索-dede仿站教程网站内搜索_files/feedback.js"></script>
+        
+	
+    
+    <script>
+		var cse = cse || {};		
+		cse.param = {
+			'filters' : [] || {},
+			'sorts' : "" || "",
+			'searchType' : 0 || "",
+			'searchTimeRange' : 0 || "",
+			'nsid': "0",
+			'inurl':null || "",
+            'cid':null || "",
+            'wt': null || "",
+            'ht': null || "",
+            'pn': null || ""
+		};		
+		cse.util = {
+			'makeParam' : function(arr){
+				var sb = [];
+				for(var key in arr){
+					if (arr[key] && typeof(arr[key])!="function"){
+						sb.push(key+"="+encodeURIComponent(arr[key]));
+					}
+				}
+				return sb.join("&");
+			},
+			'addParam' : function(dom,key,value){
+				if(dom && key && value){
+					var ipt = document.createElement("input");
+					ipt.type = "hidden";
+					ipt.name = key;
+					ipt.value = value;
+					dom.appendChild(ipt);
+				}
+			},				
+			'select' : function(k,v,action){				
+				if (action == "filter") {
+					cse.param.filters[k] = v;
+				}else if(action == "sort") {
+					cse.param.sorts = v;
+				}else if(action == "type") {
+					cse.param.searchType = v;
+				}else if(action == "time") {
+					cse.param.searchTimeRange = v;
+				}
+				var filterValue = cse.util.makeParam(cse.param.filters);
+				var f3 = document.getElementById("f3");
+				cse.util.addParam(f3,"flt",filterValue);
+				cse.util.addParam(f3,"srt",cse.param.sorts);
+				cse.util.addParam(f3,"stp",cse.param.searchType);
+				cse.util.addParam(f3,"sti",cse.param.searchTimeRange);
+				cse.util.addParam(f3,"nsid",cse.param.nsid);
+				cse.util.addParam(f3,"inurl",cse.param.inurl);
+                cse.util.addParam(f3,"cid",cse.param.cid);
+                cse.util.addParam(f3,"wt",cse.param.wt);
+                cse.util.addParam(f3,"ht",cse.param.ht);
+                cse.util.addParam(f3,"pn",cse.param.pn);
+								f3.submit();
+			},
+			'switchFilter':function(obj){
+				var id = obj.getAttribute("data-for"),
+					exp = (obj.getAttribute("data-exp")=="0"),
+					con = document.getElementById("flt-"+id),
+					flts = con.getElementsByTagName("DD");
+				for (var i=0,len=flts.length;i<len;i++){
+				var flt = flts[i];
+					if (exp) {
+						flt.style.display = "block";
+					}else {
+						if (flt.getAttribute("data-limit")=="1"){
+							flt.style.display = "none";
+						}
+					}	
+				}
+				obj.setAttribute("data-exp",exp?"1":"0");
+				obj.className = exp?"filterLimitExp":"filterLimit";
+			}
+		};
+
+        function calcPageHeight(doc) {
+            var cHeight = Math.max(doc.body.clientHeight, doc.documentElement.clientHeight);
+            var sHeight = Math.max(doc.body.scrollHeight, doc.documentElement.scrollHeight);
+            var height  = Math.max(cHeight, sHeight);
+            return height.toString();
+        };
+
+		window.onload = function(){
+            document.forms[0].reset();
+            document.forms[document.forms.length-1].reset();
+
+            if(top){
+                if(top.postMessage){
+                    top.postMessage(calcPageHeight(document), "*");
+                }
+
+                top.name = calcPageHeight(document);
+                
+            }
+        };
+        $('.iframe-container').ready(function () {
+            if ($('.iframe-content-image').length > 0) {
+                $('.iframe-content-image').width($('.iframe-container').width() - 170);
+            }
+        });
+        $(".result a").click(function () {
+            var pageLog = {};
+                            pageLog["s"] = "2674226503037194804";
+                            pageLog["ie"] = "gbk";
+                            pageLog["q"] = "搜索";
+                            pageLog["isNeedCheckDomain"] = "";
+                        log.send("/api/customsearch/click", pageLog, {
+                rpos: parseInt($(this).parents(".result").index(".result"))+1,
+                uid: encodeURIComponent($(this).attr("href")),
+                tid: "0",
+                cpos: $(this).attr("cpos"),
+                cc: 'dede888.com',
+                from: 'normal'
+            });
+        });
+	</script>
+    
+        
+	    <script>
+                    </script>
+        
+
+
+
+                        <embed id="xunlei_com_thunder_helper_plugin_d462f475-c18e-46be-bd10-327458d045bd" type="application/thunder_download_plugin" height="0" width="0"></body></html>

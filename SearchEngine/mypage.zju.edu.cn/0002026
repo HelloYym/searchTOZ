@@ -1,0 +1,213 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0002026";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0002026&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+王仰正，汉族，1952年5月生人。俄语教授，博士。1972年毕业于西安外国语学院俄罗斯语言文学系。1991年在莫斯科大学获博士学位。作为高级访问学者多次赴莫斯科大学访学。回国后担任俄语专业三、四年级专业主干课；担任硕士研究生课程。硕士研究生导师；研究方向为：俄罗斯语言和俄罗斯语言与文化。
+回国后担任教育部高等学校专业外语教学指导委员会委员，中国俄语教学研究会常务理事；曾担任西安外国语学院俄语专业学科带头人，学院学术委员会委员，系主任，教务处长等职。现在为浙江大学外国语言文化与国际交流学院俄语语言文化研究所所长，学科带头人，学院学术委员会委员。
+1994年回国后多次荣获陕西省505外语教育奖励基金优秀科研工作者奖，学院优秀科研成果奖；1998年获陕西省教育委员会人文、社会科学研究优秀成果二等奖；2000年被评为学院先进教育工作者。2003年被评为浙大外语学院先进工作者。
+出版专著《俄语功能语法&mdash;句子、内容、形式、聚合体》，主编《俄罗斯国情文化》、《俄罗斯历史》，《中国专业俄语教学的回顾与展望》等；参编《汉俄成语大词典》、《旅游公共关系学》，译著《生活的序曲》，主编外语学院俄语专业本科生多种教材；曾承担陕西省教育厅文科重点科研项目三项；现承担浙大&ldquo;曙光&rdquo;重点项目和上海外语教育出版社的重点出版项目；在国内外核心杂志上发表论文数十篇。
+
+			
+				
+			工作研究领域
+			
+			俄语语言学、俄罗斯语言与文化
+
+			
+				
+			联系方式
+			
+			电话：0571-88206228			电子信箱：wangyangzheng@hzcnc.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：王仰正
+		单位：浙江大学俄罗斯语言文化研究所
+		职称：教授
+		我的主页共被访问了4521次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	奖励荣誉
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

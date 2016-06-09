@@ -1,0 +1,268 @@
+
+
+
+
+
+刘山-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0095027";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	刘山
+道可道，非常道。
+
+	永久链接:http://mypage.zju.edu.cn/liushan&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;刘山
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;博士、副教授、硕士生导师
+
+学历
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1992年于中国科学技术大学数学系获应用数学、计算数学与应用软件专业理学学士学位。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1995年于浙江大学工业控制技术研究所获工业自动化专业工学硕士学位。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2002年于浙江大学控制科学与工程学系获控制科学与工程专业工学博士学位。
+
+工作
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1995年至今在浙江大学控制科学与工程学系工作，历任助教、助理研究员、讲师、副研究员、副教授。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1995年至1999年在浙江大学工业控制技术国家重点实验室工作；1999年至2005年在浙江大学智能系统与决策研究所工作；2005年至今在浙江大学工业控制研究所工作。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2003年至今任浙江大学控制科学与工程学系副研究员、副教授、硕士生导师。
+&nbsp;
+教学
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;主讲研究生学位课程&ldquo;智能控制&rdquo;;&nbsp;选修课程&ldquo;学习控制理论&rdquo;;&nbsp;&ldquo;自动化前沿&rdquo;.工程硕士课程&ldquo;辨识、滤波与自适应&rdquo;.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;主讲本科生基础课程&ldquo;数值计算方法&rdquo;;&nbsp;选修课程&ldquo;智能控制技术及应用&rdquo;;&nbsp;&ldquo;机器人技术&rdquo;;&nbsp;&ldquo;自动化技术&rdquo;.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;曾获浙江大学优秀班主任和浙江大学优秀教师奖。
+&nbsp;
+
+科研&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;承担和完成了多项科研项目。其中，作为项目负责人承担和完成了国家自然科学基金项目2项，浙江省自然科学基金项目1项，国家&ldquo;863计划&rdquo;项目1项，横向和其他科研项目多项；作为主要研究人员完成了国家自然科学基金重点项目1项，国防科技预研基金项目1项，横向科研项目多项。&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;针对钢管连轧过程，提出了一种国内外独创的平均壁厚控制和管端增厚控制迭代学习策略，用于高度复杂的无缝钢管张力减径过程的壁厚控制，简单实用，在上海宝钢股份有限公司钢管分公司实际应用，钢管的平均壁厚偏差和管端增厚段长度分别平均下降90%和25%以上，平均每年产生1500万元的经济效益，受到了厂方的好评。研发实现的张减机壁厚控制系统已于2003年4月通过上海市科委组织的鉴定，并获得冶金科学技术奖一等奖、宝钢公司优秀科技成果一等奖和宝钢集团公司技术创新奖。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;发表论文40余篇。在迭代学习控制领域取得了优秀的成果。论文《基于最优化指标的迭代学习控制》获得了&ldquo;第四届全球智能控制与自动化大会&rdquo;最佳优秀论文奖。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;目前负责&ldquo;多工业机械臂智能协作系统&rdquo;实验室。以异质多工业机械臂协作系统为实际背景，研究在动态不确定环境下，分布式多机器人系统的运动规划和协调控制问题，为多机器人系统提供解决方案和技术，使其能够灵活、快速地响应环境和任务变化，从而在复杂环境中高效、可靠地完成协作任务。&nbsp;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;学科方向为模式识别与智能系统。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;感兴趣的研究领域为学习控制、重复控制、自适应控制、鲁棒控制和信号处理理论及其在工业过程建模、控制与优化中的应用。机器人控制、规划和协作、基于视觉伺服的控制及其在工业机器人、柔性机器人、医用机器人和服务机器人中的应用。&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;
+研究方向
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;智能控制理论与技术&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.学习控制&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.自适应控制
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.重复控制
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.模糊控制及神经网络控制
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.相关方法的性能分析&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;机器人技术&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.机器人运动控制&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.机器人协作规划
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.柔性机械臂的控制
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.移动机械臂的控制
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.基于视觉伺服的控制&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;工业过程控制&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.钢铁工业过程建模与控制&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.间歇过程控制
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.模型预测控制&nbsp;
+&nbsp;
+			
+				
+			工作研究领域
+			
+			学科方向为模式识别与智能系统。
+智能控制理论与技术、机器人技术、工业过程控制。
+研究迭代学习控制、重复控制、自适应控制、鲁棒控制和信号处理理论及其在工业过程建模、控制与优化中的应用；
+研究机器人控制、规划和协作、基于视觉伺服的控制及其在工业机器人、柔性机器人、医用机器人和服务机器人中的应用。
+
+			
+				
+			联系方式
+			
+			电话：0571-88714209			电子信箱：sliu@iipc.zju.edu.cn;sliu@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：刘山
+		单位：控制科学与工程学系
+		职称：副教授
+		我的主页共被访问了12380次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+	专利成果
+	教学工作
+	奖励荣誉
+	研究成果
+	实验室介绍
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	控制科学与工程学系
+智能控制技术（本科生）
+机器人技术（本科生）
+数值计算方法（本科生）
+智能控制（研究生）
+辨识、滤波与自适应（工程硕士）
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,249 @@
+
+
+
+
+
+赵康主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0012041";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	赵康主页
+上次更新:21July2015
+
+	永久链接:http://mypage.zju.edu.cn/kangzhao&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			教育经历
+英国埃克塞特大学(UNIVERSITYOFEXETER)，教育学博士(PhD)&nbsp;2008.11&nbsp;
+英国埃克塞特大学(UNIVERSITYOFEXETER)，教育研究硕士(MSc)&nbsp;2005.10
+山西大学，英语语言文学学士(BA)&nbsp;&nbsp;1998.7&nbsp;&nbsp;
+学术工作经历
+2012.6-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江大学，教育学院教育学系
+2010.1-2012.6&nbsp;&nbsp;&nbsp;北京大学，博士后研究员
+2009.1-2009.9&nbsp;&nbsp;&nbsp;英国斯特林大学(UNIVERSITYOFSTIRLING)，访问研究员
+研究与教学
+我研究西方教育思想史，教育理论，以及教师教育。教学方面，我与其他老师合作讲授本科和研究生阶段的外国教育史课程。
+发表
+14.赵康.(2015)英国对杜威教育思想的吸收--基于知识吸收理论的历史分析.教育学报(3),121-128.
+13.赵康.(录用)论能力本位主义教师教育思想.比较教育研究.
+12.赵康.(2015)杜威教育思想跨时空传播与吸收的历史比较研究述评(1996-2012).比较教育研究(2),68-73.
+11.Zhao.K(2014)BookReview:TheGlobalReceptionofJohnDewey'sthought.FrontiersofEducaitoninChina，9&nbsp;(1):137-141.
+10.Zhao,K.&amp;Ting,K.(2013)StudentsattitudestowardsteachingmethodsusedinuniversitiestheUK.ReviewofEuropeanStudies,5(4):&nbsp;71-81.DOI:10.5539/res.v5n4p71
+9.Zhao,K.&amp;Biesta,G.(2012)Moraldimensionoflifelonglearning:Giddens,Taylorandreflexiveprojectoftheself.AdultEducationQuarterly.&nbsp;&nbsp;62(4),November2012,pp.332-350.DOI:10.1177/0741713611411176.(SSCI，SAGEJournal).
+8.陈向明，赵康.(2012)&nbsp;从杜威的实用主义知识论视角看教师的实践性知识[J].教育研究.2012(4).
+7.Zhao，K.&amp;Biesta,G.(2011)Lifelonglearningbetween&lsquo;East&rsquo;and&lsquo;West&rsquo;:Confucianismandthereflexiveprojectoftheself.Interchange:AQuarterlyReviewofEducation.2011，42(1):1-20.DOI:10.1007/s10780-011-9143-6.(SpringerJournal).
+6.赵康.(2011)教育理想，教师的专业认同和个人认同：试论三者的关系[J].教育学报.2011(2):60-66.
+5.赵康.(2011)终身学习的&ldquo;个体化&rdquo;：三个社会学视角的一个比较分析[J].比较教育研究.2011(4):63-67.[人大复印资料转载2011.7]
+4.赵康.(2010)从终身教育到终身学习的三重分析：以欧洲终身学习领域为背景[J].继续教育研究.2010(11):1-3.[人大复印资料转载2011.2.]
+3.赵康.(2010)终身学习，吉登斯的自我认同观和道德维度.外国教育研究[J].2010(8):24-29.
+2.赵康.(2010)&quot;学习话语&rdquo;何以主导教育领域&mdash;基于欧洲地区相关现象的分析[J].教育发展研究.2010(13-14):16-20.
+1.赵康.(2010)自我作为&ldquo;自反性概念&rdquo;和终身学习的道德维度[J].教育学报.2010(3):106-115.
+专著
+Learning,IdentityandNarrativeintheLateModernAge:TowardsaTheoryofReflexiveLearning(英文).ZhejiangUniversityPress.2014.9.
+(中文书名：《晚期现代中的学习，身份认同和叙事：走向一个自反性学习理论》)
+会议论文
+9.Zhao,K.(2013).Locatingteachers&rsquo;lifestoriesinlifehistories:Towardsteachers&rsquo;narrativelearning.Apaperfor2ndInternationalConferenceofCurriculumReformandTeacherDevelopment,22-24March2013,HangzhouNormalUniversity,Hangzhou,China
+8.赵康.(2011)Notjustsocialization,teachingforsubjectification.ApaperpresentedatThe1stGlobalTeacherEducationSummit,28-31October2011,BeijingNormalUniversity,Beijing,China.
+7.赵康等TowardFullerHumanityinMoralEducation:OurMoraleintheDynamismofConception,Self-Constancy,Language,andMoralValues.AsymposiumofInternationalConferenceonMoralEducation,NanjingInternationalConferenceHotel,24-28October2011,NanjingNormalUniversity,Nanjing,China.
+6.赵康.(2010)教育理想,教师的专业认同和个人认同:试论三者的关系.中国教育学会教育哲学专业委员会第十五届学术年会会议.2010年11月17-20日,山东师范大学,山东济南.
+5.Zhao,K.(2009).Reflexivityinquestofidentityandlifelonglearning.ApaperpresentedattheAnnualConferenceofthePhilosophyofEducationSocietyofGreatBritain,Friday3rdtoSunday5thofApril2009,OxfordUniversity,Oxford,UK.
+4.Zhao,K.(2009).Whatkindof&lsquo;reflexivity&rsquo;?Whatkindofidentity?Onreflexivelearningrelevanttoidentity.ApaperpresentedattheResearchSeminarinTheStirlingInstituteofEducation,1stApril2009,UniversityofStirling,Stirling,UK.
+3.Zhao.K.&amp;Biesta,G.(2008).Lifelonglearning,identityandthemoraldimension:The&lsquo;reflexiveprojectoftheself&rsquo;revisited.Apaperpresentedatthe38thAnnualSCUTREA（StandingConferenceonUniversityTeachingandResearchintheEducationofAdults）ConferenceWednesday2toFriday4July2008，UniversityofEdinburgh,Edinburgh,Scotland,UK.
+2.Zhao,K.(2007).PaulRicoeurandCharlesTaylorontheroleofnarrativeinunderstandingidentity:theimplicationsforlearning.APapergivenattheAnnualSummerConference,12thMay2007,SchoolofEducationandLifelongLearning,UniversityofExeter,Exeter,UK.
+1.Zhao,K.(2005).UnavoidabledifficultiesinleaningexperiencedbyChinesestudentsintheUKuniversities:aculturalperspective.APapergivenattheAnnualSummerConference,14thMay2005,SchoolofEducationandLifelongLearning,UniversityofExeter,Exeter,UK.
+翻译
+威廉&bull;哈里森&bull;伍德沃德.文艺复兴时期教育研究（第7章和12章），山东教育出版社，2013.10.
+格特&bull;比斯塔.教育研究和教育实践中的证据和价值，北京大学教育评论.2011(1).&nbsp;
+格特&bull;比斯塔.为着公益的教育哲学:五个挑战和一个议程.(2011年4月在美国新奥尔良举行的美国教育研究协会年度会议中，教育哲学研究专门兴趣组会议特邀演讲)，教育学报2011(4).
+联系
+浙江省杭州市天目山路148号
+浙江大学西溪校区田家炳学院
+教育学院教育学系
+邮编：310028
+电子信箱：kangzhao@zju.edu.cn&nbsp;
+&nbsp;
+			
+				
+			工作研究领域
+			
+			外国教育思想史，教育理论，教师教育
+			
+					
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：赵康
+		单位：浙江大学教育学院教育学系
+		职称：副教授
+		我的主页共被访问了8403次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	出版著作
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

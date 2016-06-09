@@ -1,0 +1,225 @@
+
+
+
+
+
+姚波的个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0008344";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	姚波的个人主页
+浙大化学系微分析系统研究所
+
+	永久链接:http://mypage.zju.edu.cn/bobodaisy&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;1995年-2002年在东北大学化学系学习，获得理学学士和硕士学位。2003年考入清华大学化学系从事微流控芯片相关技术研究，2006年获得理学博士学位。后进入北京大学工学院从事博士后研究工作，进行小分子核酸分析和分子诊断技术研究。2008年加入浙江大学化学系任教至今，2012年至2013年获得日本学术振兴会奖学金在东京医科齿科大学做博士后，现已回国工作。目前研究方向主要是微流控芯片，定量PCR技术，单细胞分析和分子诊断新技术等。目前担任仪器分析和化学生物学实验主讲老师，发表文章20余篇。
+
+其他个人主页：http://www.linkedin.com/pub/bo-yao/22/718/48
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.researchgate.net/profile/Bo_Yao5/contributions/?ev=prf_act
+
+
+欢迎有兴趣的同学报考硕士，本科毕设，SRTP或者联合培养等
+&nbsp;
+			
+				
+			工作研究领域
+			
+			microRNA以及其他小分子核酸的表达和调控;
+单细胞基因分析;
+微流控芯片技术;
+核酸分子的电化学检测;
+与上述研究领域相关的新技术新方法;
+
+			
+				
+			联系方式
+			
+			电话：0571-88273496			电子信箱：yaobo08@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：姚波
+		单位：化学系
+		职称：副教授（自然科学）
+		我的主页共被访问了24726次
+标签：genechip，MicrofluidicBiologyChemistryAnalytical	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	发表论文
+	研究成果
+	实验室介绍
+	项目支持
+	研究领域
+	myCV
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

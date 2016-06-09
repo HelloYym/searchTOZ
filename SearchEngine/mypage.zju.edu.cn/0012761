@@ -1,0 +1,210 @@
+
+
+
+
+
+谢刚-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0012761";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	谢刚
+
+
+	永久链接:http://mypage.zju.edu.cn/0012761&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+博士，助理研究员，2012年毕业于电子科技大学微电子学与固体电子学专业，获博士学位。博士期间从事硅基功率半导体器件及宽禁带功率半导体器件的研发工作。
+2009年9月至2011年9月，赴加拿大多伦多大学电气工程学院从事宽禁带功率半导体器件的研发。回国后加入浙江大学电气工程学院，重点从事硅基IGBT等器件及模块的产业化技术攻关以及第三代功率半导体器件的研发工作。
+至目前为止在国内外顶级刊物及会议发表论文20余篇，申报专利20余项。从2011年起担任IEEEElectronDeviceLetters、IEEETransactionsonElectronDevices、IEEETransactionsonPowerElectronics、ChinesePhysicsB等国内外期刊审稿人。
+作为项目负责人，目前承担科技部863主题子课题2项、国家自然科学基金青年基金一项、中央高校基本业务费资助的相关研究等。
+&nbsp;
+			
+				
+			工作研究领域
+			
+			硅基功率半导体器件及智能功率集成电路；宽禁带功率半导体器件
+			
+				
+			联系方式
+			
+			电话：0571-87951345			电子信箱：xielyz@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：谢刚
+		单位：电力电子技术研究所
+		职称：
+		我的主页共被访问了2236次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		发表论文
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	Crosslight软件
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

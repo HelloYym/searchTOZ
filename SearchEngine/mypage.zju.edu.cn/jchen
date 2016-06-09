@@ -1,0 +1,254 @@
+
+
+
+
+
+陈剑-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0012088";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	陈剑
+
+
+	永久链接:http://mypage.zju.edu.cn/jchen&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			浙江大学控制科学与工程学系&nbsp;&nbsp;智能系统与控制研究所&nbsp;教授、博士生导师
+国家&ldquo;青年千人计划&rdquo;,浙江省&ldquo;千人计划&rdquo;，浙江省特聘专家
+本实验室长期招收本科、硕士、博士、博士后以及专职科研人员，欢迎自动化、电气电子工程、机械工程、能源工程和应用数学等相关学科的学生与本人联系。
+
+博士后招聘
+http://hr.zju.edu.cn/postdoctor/news.asp?nid=1018
+
+
+教育经历
+&bull;&nbsp;1998/06，浙江大学，仪器科学与工程学系，本科
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江大学工程教育高级班
+&bull;&nbsp;2001/03，浙江大学，控制科学与工程学系，硕士
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;导师：褚健教授、苏宏业教授
+&bull;&nbsp;2005/08，美国克莱姆森大学，电子与计算机工程学系，博士
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;导师：DarrenDawson教授
+
+&nbsp;
+学术成果
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在机器人视觉伺服控制、非线性控制以及燃料电池系统建模与控制等领域取得了一些研究成果，合作发表了50多篇学术论文，其中多篇论文（含第一作者兼通讯作者的长文）在控制领域的顶级学术期刊IEEETransactionsonAutomaticControl和Automatica以及机器人领域的顶级学术期刊IEEETransactionsonRobotics上发表。
+&nbsp;
+&nbsp;
+工作经历
+
+&bull;&nbsp;2005/08－2006/08，美国ClarksonUniversity，ResearchAssociate，MEMS振荡器建模、设计与制造
+
+
+
+
+
+&bull;&nbsp;2006/08－2008/03，美国UniversityofMichigan,AnnArbor，ResearchFellow，燃料电池系统建模与控制
+
+&bull;&nbsp;2008/04－2012/03，美国IdaTechLLC，Firmware/SoftwareEngineer，燃料电池嵌入式控制系统
+
+
+
+&bull;&nbsp;2012/04－2013/02，美国ProterraInc.，SeniorControlsEngineer，美国国家燃料电池公交车
+
+
+&bull;&nbsp;2013/02－至今，浙江大学，教授、博士生导师
+			
+				
+			工作研究领域
+			
+			计算机视觉，非线性系统，燃料电池系统集成与控制，电池管理系统，车辆混合动力系统控制
+			
+				
+			联系方式
+			
+			电话：0571-87952233-1164			电子信箱：jchenatzju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：陈剑
+		单位：控制科学与工程学系
+		职称：教授
+		我的主页共被访问了22994次
+标签：燃料电池系统集成与控制，非线性系统，计算机视觉，电池管理系统，车辆混合动力系统控制	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	奖励荣誉
+	发表论文
+	教学工作
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	千人计划
+DarrenDawson
+JingSun
+RomeoOrtega
+方勇纯
+鲜斌
+弟
+FuelCellsWorks
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

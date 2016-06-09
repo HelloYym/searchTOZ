@@ -1,0 +1,223 @@
+
+
+
+
+
+绿心-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0095312";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	绿心
+如果每个人的内心都充满绿色，生态文明还会远吗
+
+	永久链接:http://mypage.zju.edu.cn/jhruan&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			男教师
+共产党员
+志愿者
+求是强鹰
+紫领
+&nbsp;
+所希望的墓志铭：
+阮俊华&mdash;&mdash;热心公益事业者，作为一名老师，他以他的青春和激情帮助和成全了更多青年学生的彩虹人生。
+新浪博客：http://blog.sina.com.cn/ruanjunhua2010
+			
+				
+			工作研究领域
+			
+			主要从事大学生思想政治教育、创业教育及环境教育管理、环保NGO等方面的研究实践
+
+
+
+
+			
+				
+			联系方式
+			
+			电话：0571-88206818			电子信箱：jhruan@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：阮俊华
+		单位：管理学院
+		职称：政工师
+		我的主页共被访问了8647次
+标签：做人，学生，朋友，紫领志愿服务求是强鹰、风云浙商、导师带徒，绿色浙江	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	出版著作
+	研究成果
+	奖励荣誉
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	浙江大学管理学院
+绿色浙江
+求是强鹰
+浙江大学青年志愿讲师团
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

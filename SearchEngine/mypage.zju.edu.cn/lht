@@ -1,0 +1,218 @@
+
+
+
+
+
+人类-语言-计算机-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0010026";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	人类-语言-计算机
+
+
+	永久链接:http://mypage.zju.edu.cn/lht&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;刘海涛(1962&mdash;)，工业自动化专业学士，语言学及应用语言学专业博士。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江大学求是特聘教授（语言学及应用语言学），博士生导师；外语学院学术委员会主任；国家社科基金重大项目《现代汉语计量语言学研究》（11&amp;ZD188）首席专家。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JournalofQuantitativeLinguistics、LanguageProblems&amp;LanguagePlanning、Glottometrics、Glottotheory等多种国际语言学相关学术刊物的编委会成员。教育部重点研究基地外国语言学及应用语言学研究中心学术委员会委员。爱思唯尔&ldquo;2014年中国高被引学者&rdquo;(MostCitedChineseResearchers)（社会科学领域）。
+&nbsp;&nbsp;&nbsp;&nbsp;在Lingua、JournalofQuantitativeLinguistics、JournalofChineseLinguistics、LanguageProblemsandLanguagePlanning、CorpusLinguisticsandLinguisticTheory、LanguageSciences、JournalofLinguistics、CognitiveLinguistics、PhysicsofLifeReviews、EPL、PhysicaA、Phonetica、PoznańStudiesinContemporaryLinguistics、ChineseScienceBulletin、ComputationalLinguistics、NaturalLanguageEngineering、JournalofCognitiveScience、Glottometrics、Glottotheory、GrKG/Humankybernetik、科学通报、模式识别与人工智能、复杂系统与复杂性科学、光明日报、浙江大学学报（人文社会科学版）、语言文字应用、外国语、现代外语、语言教学与研究、语言科学、情报科学等国内外专业刊物发表语言学相关文章150余篇，其中约40篇被SSCI、A&amp;HC、SCII收录。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;目前的主要研究方向：从真实语料中发现人类语言的结构模式与演化规律，语言复杂网络。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;师承：索绪尔&rarr;梅耶&rarr;岑麒祥&rarr;冯志伟
+&nbsp;&nbsp;&nbsp;&nbsp;Erd&#337;snumber=3
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;个人网站http://www.lingviko.net
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;@ResearchGate&nbsp;GoogleScholar&nbsp;Scopus&nbsp;ResearcherID
+&nbsp;
+			
+				
+			工作研究领域
+			
+			计量语言学、依存语法、语言规划、复杂网络、国际语语言学、认知科学、计算语言学
+			
+				
+			联系方式
+			
+			电话：杭州市余杭塘路866号浙江大学外语学院（310058）			电子信箱：htliu@163.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：刘海涛
+		单位：语言行为模式研究中心
+		职称：教授
+		我的主页共被访问了36505次
+标签：依存语法国际语语言学语言规划计算语言学计量语言学语言学复杂网络认知科学	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		发表论文
+	主要学术贡献
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	Bibliographyonlinguistic,cognitiveandbrainnetworks.
+Languageevolutionandcomputationbibliography
+Physicists'papersonnaturallanguage
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,245 @@
+
+
+
+
+
+程洪强个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0010108";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	程洪强个人主页
+
+
+	永久链接:http://mypage.zju.edu.cn/hqcheng&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			程洪强，1975年出生于浙江省东阳市，九三学社社员。1997年获得吉林大学生物化学学士学位。2005年获得中国科学院上海生命科学院生物化学与细胞生物学研究所生化与分子生物学专业理学博士学位。2005年4月-2011年3月在美国加州大学圣迭戈分校（UCSD）医学院从事博士后研究（JuChen实验室）。主要研究Cypher和ENH两个细胞骨架蛋白在心肌细胞中功能及与扩张型心肌病的关系。2011年3月回国加入浙江大学医学部基础医学院病理与病理生理学系柯越海教授课题组，主要研究方向是细胞骨架蛋白在心血管和心血管疾病中的功能。
+&nbsp;
+&nbsp;基金资助
+
+
+细胞骨架接头蛋白&nbsp;ENH调控血管平滑肌的生理学意义与机制（2012年-2015年），国家自然科学基金资助的面上项目；
+
+
+骨架蛋白Cypher在心肌细胞内对蛋白激酶A信号微调作用的研究（2012年-2014年），浙江省自然科学基金一般项目（参与）；
+
+
+蛋白酪氨酸磷酸酶SHP2调节血管内皮屏障通透性的生理意义及分子机制研究（2015年-2018年），国家自然科学基金资助的面上项目；
+
+
+骨架蛋白Cypher作为PKA的锚定蛋白参与扩张型心肌病发病机制的研究（2015年-2018年），国家自然科学基金资助的面上项目（合作）；
+
+
+&nbsp;
+荣誉&nbsp;
+
+The2010SchulmanAwardforbasicresearchfromUniversityofCaliforniaSanDiego,SchoolofMedicine.
+
+&nbsp;
+学术兼职
+
+JournalofCardiovascularDiseaseResearch编委http://www.jcdronline.com/&nbsp;(editorialprefacetothefirstissueof2012)
+
+&nbsp;
+校内兼职
+
+2011-2013,医学院2011口腔医学班班主任;
+2013-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;医学院巴德年1302班班主任
+
+&nbsp;
+			
+				
+			工作研究领域
+			
+			1.细胞骨架蛋白和酪氨酸磷酸酶Shp2在心血管系统中的作用。利用基因敲除的小鼠模型研究血管内皮和血管平滑肌细胞在血管病变中的作用及两种细胞之间的相互作用。
+
+2.改善和治疗心肌病的中草药的筛选及其分子机制的研究。
+			
+				
+			联系方式
+			
+						电子信箱：hqcheng2@hotmail.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：程洪强
+		单位：基础医学系
+		职称：副教授
+		我的主页共被访问了30047次
+标签：浙江大学程洪强	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		发表论文
+	教学工作
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	柯越海
+上海生命科学院
+丁香园
+UCSDDrJuChen'slab
+心血管疾病杂志JCDR
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,223 @@
+
+
+
+
+
+祝莹的个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0010726";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	祝莹的个人主页
+
+
+	永久链接:http://mypage.zju.edu.cn/yingzhu&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			ResearchID
+http://www.researcherid.com/rid/B-6637-2011
+
+2013.1-至今&nbsp;浙江大学，化学系，特聘副研究员，硕士生导师
+2015.3-2015.6ETHZurich（瑞士苏黎世联邦理工学院），化学与应用生物学系，高端访问学者（合作导师，Prof.RenatoZenobi)
+2010.6-2013.1浙江大学，控制系，智能系统与控制研究所，博士后（导师，方群教授，牟颖教授）
+2012.1-2012.4NationalUniversityofSingapore(新加坡国立大学)，化学系，访问学者（合作导师，Prof.ShaoqinYao)
+2005.9-2010.6浙江大学，化学系，微分析系统研究所，博士（导师，方群教授）
+2001.9-2005.6浙江大学，化学系，学士
+
+&nbsp;
+			
+				
+			工作研究领域
+			
+			(1)超微量、高通量的微流控筛选仪器，并用于药物筛选和蛋白质结晶筛选;(2)新型微型化电喷雾质谱离子源的研制以及用于药物筛选和单细胞分析;(3)基于激光诱导荧光的单分子和单细胞分析方法;(3)基于微流控芯片的微型化色谱分离和检测装置。
+
+			
+				
+			联系方式
+			
+			电话：+86+57188206771			电子信箱：yingzhu@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：祝莹
+		单位：化学系
+		职称：特聘副研究员，硕士生导师
+		我的主页共被访问了17257次
+标签：微流控芯片高通量筛选分析仪器	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		研究成果
+	实验室介绍
+	发表论文
+	会议论文
+	研究生招生
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	AnalyticalChemistry
+LabonaChip
+Analyst
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

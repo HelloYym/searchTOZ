@@ -1,0 +1,210 @@
+
+
+
+
+
+ee-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0008239";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	ee
+peng
+
+	Permanentlink:http://mypage.zju.edu.cn/en/pengyg&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			Blog
+
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			YonggangPeng(彭勇刚)
+HewasborninWuhan,HubeiProvince,P.R.China.HereceivedhisB.S.degree,M.SdegreeandPh.DdegreeinCollegeofElectricalandEngineering,Zhejiang&nbsp;Universityin2001,2004and2008.He&nbsp;joinedCollegeofElectrical&nbsp;and&nbsp;Engineering,ZhejiangUniversityin2008as&nbsp;apostdoctor.From2010heisa&nbsp;facultymemeberofCollegeofElectrical&nbsp;and&nbsp;Engineering,ZhejiangUniversity.HewasaVisiting&nbsp;ScholarofTheChineseUniversityofHongKongfromJun.2011toJun.2012.Form2012heisanAssociateProfessorandPh.D.advisor.
+Hisresearchinterestsincludeintelligentcontrol,robot,injectionmoldingprocesscontrolandevolutionaryalgorithm.Hehaspublishedover30papersinrefereedprofessionaljournalsandinternationalconferenceproceedingsandhehasapplied&nbsp;12Chinesepatents,&nbsp;6ofwhichhavebeenauthorized.
+Contactinformation:
+CollegeofElectricalandEngineering,ZhejiangUniversity,
+Hangzhou,ZhejiangProvince,
+310027,CHINA
+Email:pengyg@zju.edu.cn
+Phone:86-(0)571-87952653
+
+			
+				
+			Researchwork
+			
+			intelligentcontrol,robot,injectionmoldingprocesscontrol，evolutionaryalgorithm
+			
+				
+			Contact
+			
+			Phone:86-571-87952653
+			E-mail:pengyg@zju.edu.cn
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:YonggangPeng
+		Units:CollegeofElectricalEngineering,ZhejiangUniversity
+		Title:AssociateProfessor
+		Myhomepagehasbeenvisited3308times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+ResearchIntrests
+Projects
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	zjuee
+
+
+
+Youarevisitor:3308
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

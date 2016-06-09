@@ -1,0 +1,207 @@
+
+
+
+
+
+张阿平-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0003437";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	张阿平
+浙江大学光电系
+
+	永久链接:http://mypage.zju.edu.cn/zhangap&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			1997年9月和2000年3月分别获浙江大学学士和硕士学位。2003年12月获香港理工大学博士学位。2005年12月起任浙江大学副教授(光学工程)。2006年5月至2008年6月为美国纽约州立大学布法罗分校高级研究学者。2011年7月至2012年1月为美国加州大学圣地亚哥分校访问研究学者。现在浙江大学光电系的光及电磁波研究中心从事光纤传感和通信器件、激光微纳加工技术等研究工作，为硕士生和博士生导师。
+已经在国际知名期刊和会议发表研究论文有70余篇，特邀报告3次。主持或曾主持包括国家自然科学基金项目、国防预研基金、教育部留学回国人员科研启动基金、科技部基础研究973项目子课题等项目多项。曾担任2009年国际光电子与通信会议(OECC)技术委员会委员、2010年亚太光传感会议（APOS）技术委员会联合主席、2010年光纤传感器发展与产业化论坛程序委员会委员等。为国家自然科学基金、北京和黑龙江等自然科学基金、国内外知名期刊如&ldquo;OptLett&rdquo;、&ldquo;OptExp&rdquo;、&ldquo;ApplOpt&rdquo;、&ldquo;IEEEJSTQE&rdquo;、&ldquo;IEEEPTL&rdquo;、&ldquo;IEEEJLT&rdquo;、&ldquo;IEEESJ&rdquo;、&ldquo;Sensors&nbsp;andActuators&rdquo;、&ldquo;OptCommun&rdquo;等评审专家。
+			
+				
+			工作研究领域
+			
+			1)光纤光栅、光纤传感与通信器件;2)激光微纳加工及光子器件;
+
+			
+				
+			联系方式
+			
+						电子信箱：zhangap@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：张阿平
+		单位：光电信息工程学系
+		职称：副教授
+		我的主页共被访问了14154次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		发表论文
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

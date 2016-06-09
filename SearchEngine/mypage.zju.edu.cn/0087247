@@ -1,0 +1,216 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0087247";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0087247&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			范志强，男，1957年5月生，汉族。1982年1月毕业于浙江大学化学系，1987年在该校化学系获理学博士学位，后留校任教。曾先后在意大利米兰大分子化学研究所和加拿大McMaster大学化工系进修、访问。1996年起任浙江大学高分子科学与工程学系教授，1997年起任博士生导师。现任浙江大学高分子科学研究所所长。中国化学会会员。浙江省化学会理事。1998年入选浙江省跨世纪学术与技术带头人培养计划，2000年获浙江省中青年学科带头人称号。
+学科领域为高分子化学与物理。主要从事烯烃聚合催化剂、聚烯烃合成、聚烯烃功能化及聚合物结构表征的研究工作。近年来作为项目负责人承担了国家重点基础研究计划（973）、国家自然科学基金重点和面上项目、教育部博士点基金、中国石油化工股份有限公司、荷兰DSM公司、美国DowChemical公司等多项研究项目，涉及烯烃聚合的新型负载型催化剂与聚烯烃结构调控，反应器内合金化方法制备高性能的多组分聚烯烃合金，茂金属催化剂和前、后过渡金属有机催化剂及烯烃聚合，自由基引发的固相接枝聚合，基于聚烯烃的功能和精细高分子材料，聚合物链结构表征等研究课题，取得多项成果。近年获浙江省科学技术二等奖（2003年）和教育部科技进步三等奖（1998年）各一项。在国内外学术刊物发表论文150余篇，其中被SCI、EI收录100余篇，SCI期刊他引200余篇次。获6项中国发明专利。
+			
+				
+			工作研究领域
+			
+			[1]活性中心分布可控的负载型烯烃聚合催化剂与聚合机理；
+[2]新型茂金属与后过渡金属烯烃聚合催化剂与助催化剂；
+[3]聚烯烃反应器合金的制备与结构性能调控；
+[4]聚烯烃固相接枝聚合；
+
+[5]聚烯烃的亲水化改性与功能化；
+[6]聚烯烃链结构的表征。
+
+			
+				
+			联系方式
+			
+			电话：0571-87952400			电子信箱：fanzq@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：范志强
+		单位：高分子科学与工程学系
+		职称：教授
+		我的主页共被访问了14450次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	研究成果
+	专利成果
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,229 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0097281";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0097281&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+
+代表著作（论文）
+1、逃离与眷恋：柔石小说中的精神流浪现象（论文）
+2、启蒙舞台的边缘化追求：《闲人三部曲》的文化意蕴（论文）
+3、言说与不可言说：20世纪中国文学启蒙话语的流变（论文）
+4、现代文学中杭州形象的解读与反思（论文）
+5、新时期文学的疯癫主题研究（论文）
+
+承担课题
+1、代言与立言：新时期文学启蒙话语的嬗变
+2、20世纪文学中的师者形象研究
+3、新时期文学启蒙的审美价值研究
+
+开设课程
+1、中国当代影视文化
+2、欧洲名片分析
+3、大学语文
+
+联系地址杭州天目山路148号浙江大学西溪校区中文系
+电子邮箱ducyj@163.com联系电话13858176140
+
+			
+				
+			工作研究领域
+			
+			主要研究领域
+
+1、中国现当代文艺思潮
+2、当代影视文化研究
+3、鲁迅研究
+
+			
+				
+			联系方式
+			
+			电话：13858176140			电子信箱：ducyj@163.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：陈力君
+		单位：人文学院中国语言文学系
+		职称：讲师
+		我的主页共被访问了7288次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,239 @@
+
+
+
+
+
+ChunjiangYu'sCyberHome-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0000137";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	ChunjiangYu'sCyberHome
+me
+
+	Permanentlink:http://mypage.zju.edu.cn/en/viking&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			EDUCATION:
+PhDinThermophysicsEngineering
+ZhejiangUniversity,fromSept,1995toJul,2000
+BachelorinThermo-powerEngineering
+ZhejiangUniversity,DepartmentofEnergyEngineering,fromSept.1991toJuly,1995
+&nbsp;
+WORKINGEXPERIENCE:
+Jan.2015-present,ProfessorinInstituteforThermalPowerengineering,&nbsp;ZhejiangUniversity
+Sept.2002-Dec.2014,AssociatedProfessorinInstituteforThermalPowerengineering,&nbsp;ZhejiangUniversity
+Sept.2000-Sept.2002,DocentinInstituteforThermalPowerengineering,ZhejiangUniversity
+Feb.1999-Feb.2000&nbsp;GuestResearcherinDepartmentofAppliedScience,MidSwedenUniversity,Sweden
+R&amp;DExperience:
+Directorofover8Projects,whichcovertheareaofcleancoalcombustionscienceandTechnology,biomassgasification/combustionandfire-safetytechnologies.
+&nbsp;
+Mainprojectsasdirectorisasfollow:
+1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;R&amp;DofCirculatingFluidizedBedBoilerforstraw-firedCHP,Enterprisecooperationproject,2006.1-present
+2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Researchonemissionandmeasurementofmercuryincoal-firedutilityboiler,TheNationalHighTechnologyResearchandDevelopmentofChina(863Program),2005.7-2007.6
+3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Operationoptimizationforacoal/petrolcockco-firedCFBboiler,Enterprisecooperationproject,&nbsp;&nbsp;2005.7-.2006.5
+4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thefundamentalresearchonfirepreventinganditskineticevolution,ProjectSubsidizedbytheSpecialFundsforMajorStateBasicResearchProjectsofChina,2002.4-2007.3
+5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ModelingofAlkaliTransformationinBiomassCFBGasification,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;InternationalcooperationprojectwithMidSwedenUniversity,2000.9-2002.3
+6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thefundamental&amp;experienceresearchonalkaliproblemsinbiomassthermo-chemicalconversion,projectformFoundationforreturnedoverseascholarofZhejiangprovince,2000
+7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Conceptverificationandprocessintegratedoptimizationforcoalconversion,ProjectSubsidizedbytheSpecialFundsforMajorStateBasicResearchProjectsofChina1999.10-2004.9
+&nbsp;
+Publications:
+Over20academicpapershavebeenpublished.
+Mainacademicpapersinbiomassutilizationlistedbelow:
+1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Designofadouble-shellreverse-combustionstoveformoldingstraw,PowerEngineering,2005.6
+2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bio-oilProductionbyflashpyrolysisofbiomassparticleinfluidizedbedreactor,Chinaparticuology,2005.2
+3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Experimentalresearchonpyrolysis/combustionoffirusingTG,JournalofFuelChemistryandTechnology,2005.2
+4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ExperimentalResearchonignitionpropertiesoftypicalboardmaterialinarchitecturedecoration,JournalofZhejiangUniversity(EngineeringScience),2005.2
+5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TheExperimentalResearchOfAlkali&nbsp;TransformationDuringRiceStrawPyrolysis,ProceedingsofWorldRenewableEnergyCongressVIII,2004.9
+6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NumericalSimulationOfSecondaryReactionsInsideHardwoodParticleDuringPyrolysisⅠ.ConstructionOfSingleParticlePyrolysisModel,JournalofFuelChemistryandTechnology,2002.10
+7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NumericalResearchOnInter-ParticleSecondaryReactionInHardwoodPyrolysisⅡ.SimulationResearchOnParticleWithDifferentSize,JournalofFuelChemistryandTechnology,2002.8
+8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AnImprovedKineticModelForCellulosePyrolysis,JournalofZhejiangUniversity(EngineeringScience),2002.8
+9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GreenhouseEffectandutilizationofBiomassEnergyResources,TheSymp.OfRegionalSeminaronCommercializationofBiomassTechnologyR&amp;DTechnologyinSouth-eastAsia,2001.6
+10.&nbsp;&nbsp;&nbsp;&nbsp;ModelofcelluloseParticlePyrolysisinFluidizedBedReactor,ActaEnergiaeSolarisSinica,2002.1
+11.&nbsp;&nbsp;&nbsp;&nbsp;InorganicMaterialEmissionDuringBiomassPyrolysis,JournalofFuelChemistryandTechnology,2000.10
+12.&nbsp;&nbsp;&nbsp;&nbsp;TheExperimentalResearchonPneumaticFeederofRiceHull,TransactionsoftheChineseSocietyofAgriculturalMachinery,2000.9
+13.&nbsp;&nbsp;&nbsp;&nbsp;ModelingPotassiumReleaseinbiomasspyrolysis,Progressinthermochemicalbiomassconversion,,2000.9
+14.&nbsp;&nbsp;&nbsp;&nbsp;Amodelingstudyoncelluloseparticlepyrolysisunderfluidized-bedconditions,Progressinthermochemicalbiomassconversion,2000.9
+15.&nbsp;&nbsp;&nbsp;&nbsp;Astudyonkineticmodelforcellulosepyrolysismodeling,WorldrenewableenergyCongressVI(WREC2000),2000.7
+16.&nbsp;&nbsp;&nbsp;&nbsp;Measurementofalkaliandrelativeinorganicelementsinstraw,JournalofAgriculturalMechanizationresearch,2000.1
+			
+				
+			Researchwork
+			
+			cleancoalcombustionscienceandTechnology,biomassgasification/combustionandfire-safetytechnologies.
+recently,mainlyworkinthefieldofbiomass(straw)combustiontopower.
+			
+				
+			Contact
+			
+			Phone:+86-571-87953129
+			E-mail:
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:ChunjiangYu
+		Units:
+		Title:Professor
+		Myhomepagehasbeenvisited318times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	
+
+
+Youarevisitor:318
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

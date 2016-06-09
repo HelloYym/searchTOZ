@@ -1,0 +1,206 @@
+
+
+
+
+
+陈奇-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0085164";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	陈奇
+
+
+	永久链接:http://mypage.zju.edu.cn/chenq&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;浙江大学计算机学院副教授，浙江省智慧城市研究中心特聘研究员，杭州国际城市学研究中心客座研究员，中国互动媒体产业联盟专家组专家，中国数字城市专业委员会委员。
+&nbsp;&nbsp;&nbsp;现任浙江大学软件学院物联网中心主任、物流系主任，从事物联网、智慧城市、智能交通、GIS、智能决策支持系统、大规模动态仿真建模、移动计算、文化教育旅游、互动媒体等领域的研究。著有《高级程序设计》，《智能决策支持系统实现技术》、《面向对象程序设计高级教程》等多部教材与专著。
+曾负责或作为实际技术负责人主持一系列重大科研项目，如国防科工委重大攻关项目：面向对象的智能决策支持系统开发环境；信息港项目：三层架构的分布式GIS平台；科技部科技攻关项目：移动文化生活服务聚合平台与应用示范等等。
+&nbsp;&nbsp;&nbsp;近几年还主持了许多大型复杂应用系统的设计开发：环保部评估中心环境影响评价基础数据库建设，上海机场基于车联网的GIS地面安全监控联动系统，杭州排水综合监控与优化调度系统，国家核与辐射全国监测系统，国家核与辐射应急指挥系统，浙江省智慧高速大型软件，浙江省智慧环保系统，城市级交通仿真系统，省级洪水预报系统，城市智慧水务系统，土地市场智能分析系统，国土一张图工程，环保一张图工程，西湖文化遗产地理信息平台等等。
+			
+				
+			工作研究领域
+			
+			技术领域：物联网、GIS、移动计算、大规模仿真建模、IDSS、数字媒体、大数据分析等。
+应用领域：智慧城市、交通、水务、水利、环保、海洋、国土、农业、文化、教育、旅游等
+			
+				
+			联系方式
+			
+						电子信箱：chenqi@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：陈奇
+		单位：计算机科学与技术学院计算机科学与工程学系
+		职称：副教授
+		我的主页共被访问了1576次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

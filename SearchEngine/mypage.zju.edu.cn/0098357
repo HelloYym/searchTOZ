@@ -1,0 +1,230 @@
+
+
+
+
+
+联系电话-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0098357";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	联系电话
+
+
+	永久链接:http://mypage.zju.edu.cn/0098357&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			刘玉能,男,苗族,1964年9月生于贵州省三都水族自治县。
+贵州民族学院法学学士(1986年7月,政治理论专业),
+四川大学法学硕士(1998年6月应用社会学专业),
+上海大学法学博士（2013年6月社会学专业）。2014年4月至2015年3月德国基尔大学访问学者。
+曾在贵州省三都民族中学和黔南州三都民族师范任教。1998年8月至今浙江大学社会学系教师。
+主要担任社会学、社会政策、城乡社会学课程教学。
+研究方向为组织社会学、城市社会学和社会政策。
+在《社会学研究》等刊物上发表过多篇论文。
+获得过浙江省高等学校优秀成果三等奖。
+&nbsp;
+代表著作（论文）
+1、近期中国身份称谓变迁与运行的动力机制（《社会科学研究》1996年第6期，中国人民大学复印资料《社会学》1997年第1期全文转载）
+2、弗兰克与社会科学建构的全球视野（《社会学研究》2000年第5期）
+3、建构城市公共领域：论城市社区功能的重新定位（《浙江大学（人文社会科学板）》2004年第4期。《中国社会科学文摘》2004年第6期论点摘要转载）&nbsp;
+4.社会行动的意外后果：一个理论简史（《浙江大学学报人文社会科学版》2008年第3期，《新华文摘》2008年第16期全文转载）
+5.《民间组织与治理：案例研究》（社会科学文献出版社2012年）
+
+主持的研究课题
+1、组织社会学学科体系研究（1999，董氏基金项目）
+2、城市社区组织关系模式的变迁与重塑研究（2003，浙江省教育厅科研项目）
+3、利益组织化机制研究：杭州民间商会个案（2006，浙江省哲学社会科学规划基地（中心）重点项目）
+4、多重约束与社会组织治理（浙江省哲学社会科学规划基地（中心）重点项目）
+开设课程
+1、社会学
+2、城市社会学
+3、社会政策
+&nbsp;
+			
+				
+			工作研究领域
+			
+			致力于社会组织、城市治理、社会政策等领域的行动体系研究
+
+			
+					
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：刘玉能
+		单位：公共管理学院社会学系
+		职称：讲师
+		我的主页共被访问了4669次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	奖励荣誉
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

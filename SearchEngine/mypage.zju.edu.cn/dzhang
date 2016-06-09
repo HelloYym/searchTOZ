@@ -1,0 +1,224 @@
+
+
+
+
+
+296856-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0010057";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	296856
+
+
+	永久链接:http://mypage.zju.edu.cn/dzhang&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			张丹丹，女，出生于1981年，博士，浙江大学医学院副教授，研究方向为复杂疾病的生物学机制研究。于2002年7月在华东师范大学获学士学位（专业：生物化学）；于2007年7月在复旦大学获博士学位（专业：遗传学，师从金力院士）；于2007年11月-2010年8月期间，在美国芝加哥大学进行博士后训练，主要从事甲基化和复杂疾病的遗传学研究。于2010年9月到浙大任职。浙大&ldquo;求是青年&rdquo;学者，获&ldquo;紫金计划&rdquo;资助。为《plosone》,《psychiatricgenetics》审稿人。
+
+
+&nbsp;
+&nbsp;
+会议摘要
+D.Zhang,L.Cheng,C.Liu.Telomerelengthinbrainandpsychiatricdisorders.58thAnnualMeetingoftheAmericanSocietyofHumanGenetics.Philadelphia,PA,November11-15,2008.Abstract#1801
+&nbsp;
+DandanZhang,YudongQian,NirmalaAkula,ElliotS.Gershon,ChunyuLiu.
+CNVDetectionFromGWASdata:ComparisonofFourSoftwareSuites.XVIIWorldCongressofPsychiatricGenetics,SanDiego,SD,November4-8,2009,Abstract#127.
+&nbsp;
+DandanZhang,JinsongTang,LijunCheng,FabioPibiri,ChaoChen,ChunlingZhang,JudithBadner,ElliotS.Gershon,ChunyuLiu.RareCNVsAffectGeneExpressioninHumanCerebellum.XVIIIWorldCongressofPsychiatricGenetics,Athens,Greece,October3-7,2010.
+&nbsp;
+大会报告
+Geneticcontrolofindividualdifferencesingene-specificmethylationinhumanbrain.XVIIWorldCongressofPsychiatricGenetics,SanDiego,SD,November4-8,2009.
+			
+				
+			工作研究领域
+			
+			了解复杂疾病的遗传学基础和分子机制，包括大肠癌、肥胖和代谢综合征等。
+
+了解生命遗传现象的基本过程。
+
+
+			
+				
+			联系方式
+			
+			电话：0571-88208138			电子信箱：dandanz@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：张丹丹
+		单位：浙江大学医学院基础医学系
+		职称：副教授，博士生导师
+		我的主页共被访问了2408次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		近5年主要论文
+	早期发表的文章
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

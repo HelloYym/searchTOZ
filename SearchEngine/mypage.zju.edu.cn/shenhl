@@ -1,0 +1,244 @@
+
+
+
+
+
+-----浙江大学沈会良教授------个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0005220";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	-----浙江大学沈会良教授-----
+Prof.Hui-liangShen'shomepage
+
+	永久链接:http://mypage.zju.edu.cn/shenhl&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;
+&nbsp;
+沈会良，浙江大学信息与电子工程学系教授、博导、副所长。从事图像处理、计算机视觉、颜色信息
+处理等方面的教学和科研工作。1996毕业于浙江大学信息与电子工程学系，2002年获浙江大学工学
+博士学位。2001年至2005年在香港理工大学从事研究工作，2005年到浙江大学信电系任教并评聘为
+副教授，2009年晋升为教授。目前为浙江省&ldquo;新世纪151人才工程&rdquo;培养人员，任浙江大学电子信息
+技术与系统研究所副所长。
+
+&nbsp;
+已发表SCI收录学术论文30余篇。主要科研项目包括：国家自然科学基金项目、国家973项目子课题、
+香港创新及科技支援计划项目、企业合作项目等。
+&nbsp;
+
+
+欢迎报考本实验室的直博研究生、硕士研究生！
+
+
+更多实验室信息，请访问&nbsp;http://www.ivlab.org
+
+
+
+
+
+
+&nbsp;
+&nbsp;
+
+
+
+
+
+
+
+
+&nbsp;&nbsp;
+			
+				
+			工作研究领域
+			
+			图像处理、计算机视觉、颜色信息处理
+			
+				
+			联系方式
+			
+			电话：0571-87952501			电子信箱：shenhl@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：沈会良
+		单位：信息与电子工程学系
+		职称：教授
+		我的主页共被访问了39251次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		发表论文
+	实验室介绍
+	工作研究项目
+	《信号与系统》课程
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	浙大办公网
+浙大信电系
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

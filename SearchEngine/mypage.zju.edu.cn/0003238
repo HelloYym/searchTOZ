@@ -1,0 +1,212 @@
+
+
+
+
+
+Ontheway-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0003238";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	Ontheway
+
+
+	永久链接:http://mypage.zju.edu.cn/0003238&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;&nbsp;博士，教授、博士生导师。2005年度全国百篇优博论文提名奖获得者，教育部新世纪优秀人才计划获得者、浙江省151人才第二层次资助和浙江省杰出青年基金获得者。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2003年6月获得浙江大学工学博士学位，2003年7月留校工作。2004年11月赴德国柏林工业大学从事高级访问研究。2005年获国家全国百篇优秀博士论文提名奖。2009年11月受国家公派资助赴德国FraunhoferIGB开展访问研究。2011年12月晋升为教授，同年获博士生指导教师资格。2012年度获教育部新世纪优秀人才支持计划、浙江省&quot;151&quot;人才工程第二层次资助及浙江省优秀博士后。近年来先后主持参加国家&ldquo;863&rdquo;计划、国家自然科学基金、浙江省自然科学基金、省科技厅重大科技计划等项目。最近5年在本学科高水平期刊上发表了SCI收录论文30余篇，在国内期刊上发表了4篇EI收录论文。申请国家发明专利40项，其中已授权的发明专利26项，公开20项。获省部科技奖励3项，作为第一完成人完成的博士研究论文获得2005年教育部优秀博士论文提名奖。在学术兼职方面，兼任多本SCI期刊特邀审稿专家。同时还兼任中国食品科技学会乳酸菌分会理事、浙江省食品学会理事、浙江省生物工程学会会员、ACS会员等。&nbsp;
+			
+				
+			工作研究领域
+			
+			食品微生物与生物催化工程：生物活性物质或小分子化合物的微生物制造及其构效研究；
+食品生物技术：围绕发酵食品和传统发酵产品的非安全因子产生基础及其调控展开研究；
+功能性食品与食品生物制造科学：以脂肪代谢、免疫调节和抗衰老等功能为对象，开展功能性食品的生物制造及其工程化基础研究
+
+			
+				
+			联系方式
+			
+						电子信箱：chenqh@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：陈启和
+		单位：生物系统工程与食品科学学院食品科学与营养系
+		职称：教授（自然科学）
+		我的主页共被访问了38042次
+标签：食品安全代谢工程食品制造生物转化工程	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	出版著作
+	招生信息
+	博士后、博士需求信息
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

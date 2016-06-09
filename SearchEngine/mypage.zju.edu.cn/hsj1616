@@ -1,0 +1,206 @@
+
+
+
+
+
+何嗣江主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0096401";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	何嗣江主页
+
+
+	永久链接:http://mypage.zju.edu.cn/hsj1616&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			何嗣江，1962年6月出生，安徽芜湖市南陵县人。分别在安徽师范大学数学系、上海理工大学系统科学与系统工程学院、浙江大学经济学院获得理学士、工学硕士、经济学博士学位。现任浙江大学经济学院副教授、金融学硕士生导师。曾赴日本神奈川大学、台湾淡江大学等进行学术交流。先后主持或作为主要成员参与&ldquo;浙江省十二五金融发展规划、嘉兴市南湖区十二五金融发展规划、温州民营经济改革创新试验区若干金融发展重大问题研究、小额信贷技术可复制研究、上虞农村合作银行发展战略研究、&lsquo;公司+农户&rsquo;发展中的金融创新研究&rdquo;等10余项课题研究。
+主要研究领域：金融创新与金融工程；微小金融发展；小额贷款可复制技术；农业产业化发展与金融支持；新农村建设中的金融支持。1996年以来在《金融研究》、《经济社会体制比较》、《数量经济技术经济研究》、《经济学家》等国家级期刊发表学术论文50余篇，主编教材、专著8部；主持或参与省部级及以上课题10余项。其中《微小企业小额贷款》研究成果得到浙江省常务副省长陈敏尔等领导批示。
+曾获浙江大学优秀共产党员、优秀班主任、研究生优秀德育导师、本科生优秀导师各一次、优秀教师二次；经济学院先进个人一次，连续四次获评浙江大学经济学院继续教育中心&ldquo;十佳&rdquo;优秀教师称号。经常应政府，高校培训机构，中小商业银行、农村合作金融、小额贷款公司等微小金融机构邀请，作&ldquo;小额贷款理论、政策与实践；小额信贷风险管理；县域金融机构业务的定位与发展；现代金融发展与财富安全；金融工程与财富管理&rdquo;等专题报告。
+			
+				
+			工作研究领域
+			
+			金融工程、国际金融、金融衍生品研究、微型金融发展研究
+			
+				
+			联系方式
+			
+						电子信箱：hsj1616@163.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：何嗣江
+		单位：经济学院金融学系
+		职称：副教授
+		我的主页共被访问了3111次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

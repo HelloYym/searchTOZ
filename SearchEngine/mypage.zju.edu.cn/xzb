@@ -1,0 +1,218 @@
+
+
+
+
+
+许忠斌-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0003371";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	许忠斌
+许忠斌的主页
+
+	永久链接:http://mypage.zju.edu.cn/xzb&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+
+
+
+许忠斌，男，教授/博士生导师，浙江宁波人。1990年毕业于浙江大学化工系，同年免试直读浙江大学流体工程研究所研究生，1993年硕士毕业后到华南理工大学任教。1998年考取华南理工大学与北京航空材料研究院联合培养博士生，2001年塑料机械博士毕业。其间曾借调到仲恺农业技术学院工作。2003年9月作为引进人才回到浙江大学工作。其中，2001年9月至2003年8月在华南理工大学与顺德市秦川恒利塑机公司从事材料加工工程博士后研究工作；2008年6月至2009年9月英国剑桥大学（UniversityofCambridge）访问学者。2014年7月至10月赴美国哈佛大学（HarvardUniversity）开展合作研究。
+主要从事过程微纳米技术与装备、塑料机械、流体工程和高分子材料成型加工的应用基础研究，包括注射成型、挤出成型、挤注发泡集成加工机械以及高性能纳米塑料、特种塑料、导电塑料加工等。近5年来，先后主持及参加国家自然科学基金面上项目、省部重大科技专项、国家重点实验室基金、企业重大项目、国家自然科学基金重点项目等10余项。在高性能塑料加工和工程装备方面取得了具有一定国际影响力的研究成果。
+在国际上提出了一系列新的塑料加工方法，包括特种工程塑料、纳米聚氨酯塑料和导电塑料等，部分工艺已设计出相应的生产设备，应用于新材料、包装、涂料及塑料机械等行业，取得了较好的经济和社会效益。已在SensorActuatB-Chem,Appl.Phys.Lett.,PolymEngSci,JApplPolymSci,Nanotech.,AdvFunctMater,JMaterSci.、化工学报、中国塑料、高校化工学报、化工机械、纳米科技等国内外期刊发表学术论文60篇，其中SCI、EI收录40余篇，已被国际同行他引共计800余次，H指数16。是国际期刊JApplPolymSci、化工学报等刊物的长期审稿人，兼任国内科技项目、科技奖励、质量鉴定、学位论文等多个部门的评审专家。获得授权国家发明专利及实用新型专利10余项。曾获省部级科技进步一等奖、自然科学二等奖和汤氏优秀中青年教师奖等荣誉称号。
+
+
+工作研究领域
+①微通道塑料制品成型加工和高效节能塑料机械，包括注射、挤出成型等；
+②微混合器结构优化、微流体器件与系统，复杂系统流体工程及设备；
+③新材料加工技术及装备，新型导电材料、包装材料、纳米及吸声材料等。
+联系方式：
+电话：0571-87951216、13516872308
+邮箱：xuzhongbin@zju.edu.cn
+&nbsp;
+
+
+
+
+			
+					
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：许忠斌
+		单位：化学工程与生物工程学系
+		职称：教授
+		我的主页共被访问了21746次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	专利成果
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,246 @@
+
+
+
+
+
+邵建忠个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0087343";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	邵建忠个人主页
+细胞与分子免疫
+
+	永久链接:http://mypage.zju.edu.cn/shao&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;
+
+1980年就读于杭州大学生物学系，1984年获理学学士学位，1987年获细胞生物学专业硕士学位；1995
+年就读于浙江大学生物科学与技术系，1998年获生物医学工程专业博士学位；2003年赴美国哈佛大学院从
+事高访研究；1987至2000年，就职于浙江大学生命科学学院，任讲师、副教授；2000年至今，任浙江大学
+生命科学学院教授、博士生导师。&nbsp;
+1998年以来，先后任浙江大学细胞研究所所长、浙江省细胞与基因工程重点实验室主任、浙江大学生
+命科学学院党委书记、党委书记兼副院长、中国细胞生物学会常务理事、中国免疫学会理事、中国海洋与
+湖沼学会理事、浙江省细胞生物学会副理事长、浙江省免疫学会副理事长等职，为美国免疫学家协会(AAI)
+成员，美国生物化学与分子生物学学会（ASBMB）会员。
+
+研究领域
+1.干细胞分化调控、干细胞组织工程与再生医学：重点研究胚胎和成体干细胞体外定向分化调控技术，
+干细胞定向分化的表观遗传机制，干细胞移植治疗与组织修复和重建的生物学基础。
+&nbsp;
+&nbsp;&nbsp;&nbsp;2.细胞与分子免疫学、比较与发育免疫学：重点以斑马鱼等模式动物为代表，研究天然和适应性免疫
+系统的分子与细胞基础，免疫信号网络调控机制，免疫细胞发生发育机理，重要免疫功能基因分子起源进
+化，海洋物种免疫功能基因组学等。
+
+
+
+&nbsp;
+&nbsp;联系电话：86-571-88206582&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;电子邮件：shaojz@zju.edu.cn
+
+
+&nbsp;
+
+
+
+近期代表性论文
+
+
+ZhuLY,PanPP,FangW,ShaoJZ,XiangLX.EssentialroleofIL-4andIL-4R&alpha;interactioninadaptiveimmunityofzebrafish:insightintotheoriginofTh2-likeregulatorymechanisminancientvertebrates.JImmunol.2012,188(11):5571-84.
+XiongR,NieL,XiangLX,ShaoJZ.CharacterizationofaPIAS4homologuefromzebrafish:insightsintoitsconservednegativeregulatorymechanismintheTRIF,MAVS,andIFNsignalingpathwaysduringvertebrateevolution.JImmunol.2012,188(6):2653-68.
+MengZ,ZhangXY,GuoJ,XiangLX,ShaoJZ.ScavengerreceptorinfishisalipopolysacchariderecognitionmoleculeinvolvedinnegativeregulationofNF-kBactivationbycompeting&nbsp;withTNFR-associatedfactor2recruitmentintotheTNF-asignalingpathway.JImmunol.2012(online)
+PanRL,WangP,XiangLX,ShaoJZ.Delta-like1servesasanewtargetandcontributortoliverfibrosisdown-regulatedbymesenchymalstemcelltransplantation.JBiolChem.2011,286(14):12340-48.
+GuYF,FangY,JinY,DongWR,XiangLX,ShaoJZ.DiscoveryoftheDIGIRRgenefromteleostfish:&nbsp;anovelToll-IL-1receptorfamilymemberservingasanegativeregulatorofIL-1signaling,JImmunol.2011,187(5):2514-30.
+ZhangRP,XiangLX,ShaoJZ.Gadd45aplaysanessentialroleinactiveDNAdemethylationduringterminalosteogenicdifferentiationofdipose-derivedmesenchymalstemcells.JBiolChem.2011,286(47):41083-94.
+HuYL,PanXM,XiangLX,ShaoJZ.CharacterizationofC1Qinteleosts:insightintothemolecularandfunctionalevolutionofC1Qfamilyandclassicalpathway.JBiolChem.2010,285(37):28777-86.
+
+WenY,FangW,XiangLX,PanRL,ShaoJZ.IdentificationofTreg-likecellsinTetraodon:insightintotheoriginofregulatoryTsubsetsduringearlyvertebrateevolution.CellMolLifeSci.2010,68(15):2615-26.
+ChenY,XiangLX,ShaoJZ,PanRL,WangYX,DongXJ,ZhangGR.Recruitmentofendogenousbonemarrowmesenchymalstemcellstowardsinjuredliver.JCellMolMed.2010,14(6B):1494-508.
+GongYF,XiangLX,ShaoJZ.CD154-CD40Interactionsareessentialforthymus-dependentantibodyproductioninzebrafish:insightsintotheoriginofcostimulatorypathwayinhelperTcell-regulatedadaptiveimmunityinearlyvertebrates.JImmunol.2009,182(12):7749-62.
+LinAF,XiangLX,WangQL,DongWR,GongYF,ShaoJZ.TheDC-SIGNofzebrafish:insightsintotheexistenceofaCD209homologinalowervertebrateanditsinvolvementinadaptiveimmunity.JImmunol.2009,183(11):7398-410.
+ChenY,PanRL,ZhangXL,ShaoJZ,XiangLX,DongXJ,ZhangGR.InductionofhepaticdifferentiationofmousebonemarrowstromalstemcellsbythehistonedeacetylaseinhibitorVPA.JCellMolMed.2009,13(8B):2582-92.
+FengSM,DengLF,ChengW,ShaoJZ,XuGL,LiYP.Atp6v1c1isanessentialcomponentoftheosteoclastprotonpumpandinF-actinringformationinosteoclasts.BiochemicalJ.2009,417:195-203.
+ChenW,YangSY,AbeY,LiM,WangYC,ShaoJZ,LiYP.NovelpycnodysostosismousemodeluncoverscathepsinKfunctionasapotentialregulatorofosteoclastapoptosisandsenescence.HumMolGenet.2007,16(4):410-23.
+LiYP,AbeY,IsodaR,MoroiR,YangS,ShaoJZ,LiE,ChenW.CathepsinK-deficientmiceexhibitpycnodysostosisgeaturesduetolossofcathepsinK-mediatedosteoclastsenescenceforbonehomeostasis.JBoneMinerRes.2005,20(9):253.
+
+&nbsp;
+			
+					
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：邵建忠
+		单位：生命科学学院
+		职称：教授、博导
+		我的主页共被访问了69186次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		研究工作
+	发表论文
+	人才培养
+	教学工作
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

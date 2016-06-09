@@ -1,0 +1,261 @@
+
+
+
+
+
+Xuecheng-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0007332";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	Xuecheng
+分享是一种美德
+
+	永久链接:http://mypage.zju.edu.cn/xuecheng&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			吴学成，浙江长兴人，副教授，博士生导师，浙江大学求是青年学者。
+
+2001年获浙江大学热能工程专业学士学位，2007年获浙江大学动力工程及工程热物理工学博士学位。2005年3月至2006年3月赴法国鲁昂大学留学，2007年7月起为浙江大学能源工程系师资博士后，讲师，2009年6月出站并留校任教，同年12月晋升副教授。2011年2月至3月为法国国家科研中心访问学者。2011年被评为浙江大学求是青年学者。
+主要从事：1)能源环境领域流动、燃烧和污染物的测试技术研究，包括粒子场数字全息三维测量技术、喷雾全场彩虹测量技术、MEMs等微流场三维测量技术、彩虹测试技术、细颗粒物(PM2.5)测试技术、颗粒旋转碰撞微观运动特性检测技术、非球形颗粒多普勒测量技术等；2）大气污染控制评估，包括环保装备评价、污染物来源解析等；3）煤燃烧气化试验和数值模拟研究。&nbsp;
+目前主持国家自然科学基金面上项目、自然基金重大项目子课题、973子课题、十二五支撑项目子课题等多项，完成国家自然科学基金青年基金1项、浙江省公益技术应用研究项目1项、中国博士后基金1项和博士后特别资助基金项目1项等，参与中国工程院重大咨询项目、十一五/十二五科技支撑计划、省创新团队项目、国家自然科学基金、973课题、863项目等项目研究工作。
+国际合作方面，与法国国家科研中心GerardGrehan教授团队建立了长久深入的合作关系，每年有互访和合作研究计划。
+
+在国内外学术期刊发表研究论文80篇，其中第一/通讯作者SCI收录论文32篇，申请授权国家专利10余项，国际专利1项。
+代表论文有：&nbsp;
+
+WuY.C.,Wu*X.C.,YaoL.C.,BrunelM.,CoetmellecS.,LebrunD.,GrehanG.,CenK.F.Simultaneousmeasurementof3Dvelocityand2Drotationofirregularparticlewithdigitalholographicparticletrackingvelocimetry.PowderTechnology,201506录用
+WuX.C.,ZhaoL.J.,ZhangY.X.,ZhengC.H.,Gao*X.,CenK.F.Primaryairpollutantemissions&nbsp;andfuturepredictionofironandsteelindustryinChina.AerosolandAirQualityResearch,201504录用
+&nbsp;Wu,X.C.,Zhao,H.F.,Zhang,Y.X.,Zheng,C.H.,&amp;Gao*,X.(201409online).Measurementofslurrydropletsincoal-firedfluegasafterWFGD.EnvironmentalGeochemistry&amp;Health,Publishonline25Sep.
+WuX.C.,XueZ.L.,ZhaoH.F.,YaoL.C.,ChenL.H.,ZhengC.H.,Gao*X.MeasurementofSlurryDropletsbyDigitalHolographicMicroscopy:FundamentalResearch.Fuel,2015,158:687-704.
+ChengK.,WangY.,TianH.Z.,GaoX.,ZhangY.X.,WuX.C.,ZhuC.Y.,GaoJ.J.Atmosphericemissioncharacteristicsandcontrolpoliciesoffiveprecedent-controlledtoxicheavymetalsfromanthropogenicsourcesinChina.EnvironmentalScience&amp;Technology,2015,49(2):1206-1214.
+YaoL.C.,Wu*X.C.,YangJ.,WuY.C.,GaoX.,ChenL.H.,GrehanG.,CenK.F.Simultaneousthreedimensionaltemperatureandvelocityfieldmeasurementsofmicro-flowwithintegratedLIFthermometryandmicro-DHPTVsystem.ChineseOpticsLetters,2015,13(7):072801
+YangJ.,Wu*X.C.,WuY.C.,YaoL.C.,ChenL.H.,QiuK.Z.,CenK.F.Studyonextendingthedepthoffieldofreconstructedimageformicrodigitalholography.ActaPhysicaSinica,2015,64(11):114209.
+WuX.C.,HuangW.W.,ZhangY.X.,ZhengC.H.,JiangX.,Gao*X.,CenK.F.CharacteristicsanduncertaintyofindustrialVOCsemissionsinChina.AerosolandAirQualityResearch,2015,15(3):1045-1058.
+Yao,L.C.,Wu*,X.C.,Wu,Y.C.,Yang,J.,Gao,X.,Chen,L.H.,&nbsp;Cen,K.F.&nbsp;Characterizationofatomizationandbreakupofacousticallylevitateddropswithdigitalholography.AppliedOptics,2015,&nbsp;54(1),A23-A31.
+Wu,Y.C.,Wu*,X.C.,Yao,L.C.,Wang,Z.H.,Chen,L.H.,Grehan,G.,&amp;Cen,K.F.&nbsp;DirectparticledepthdisplacementmeasurementinDHPTVusingspatialcorrelationoffocusmetriccurves:locating-free.OpticsCommunications,2015,345,71-79.
+Wu,Y.C.,Wu*,X.C.,Yao,L.C.,Grehan,G.,&amp;Cen,K.F.(2015).Directmeasurementofparticlesizeand3Dvelocityofagas-solidpipeflowwithdigitalholographicparticletrackingvelocimetry(DHPTV).AppliedOptics,2015,54(9),2514-2523.
+WuX.C.*,JiangH.Y.,WuY.C.,SongJ.,GrehanG.,SaengkaewS.,ChenL.H.,GaoX.,CenK.F.One-dimensionalrainbowthermometry(ORT)systembyusingslitapertures.OpticsLetters,2014,39(3):638-641.
+WuY.C.,WuX.C.*,YangJ.,WangZ.H.,ZhouB.W.,ChenL.H.,QiuK.Z.,GrehanG.,CenK.F.Wavelet-baseddepth-of-fieldextension,accurateautofocusingandparticlepairingfordigitalinlineparticleholography.AppliedOptics,2014,53(4):556-564.
+Zhang,Y.W.,Bo,Y.,Wu,Y.C.,Wu*,X.C.,Huang,Z.Y.,Zhou,J.H.,&amp;Cen,K.F.&nbsp;Flowbehaviorofhigh-temperaturefluegasintheheattransferchamberofapilot-scalecoal-waterslurrycombustionfurnace.Particuology,2014,17,114-124.
+ZhouB.W.,WuX.C.*,WuY.C.,YangJ.,Gr&eacute;hanG.,CenK.F.Influenceofrecordingparametersonparticlefieldmeasurementbydigitalholographicmicroscopy:anumericalinvestigation.&nbsp;ActaPhysicaSinica,2013,62(20):204203.
+WuY.C.,WuX.C.*,SaengkaewS.,Meunier-Guttin-CluzelS.,ChenL.H.,QiuK.Z.,GaoX.,GrehanG.,CenK.F.DigitalGaborandoff-axisparticleholographybyshapedbeams:anumericalinvestigationwithGLMT.OpticsCommunications,2013,305(15):247-254.
+WuX.C.,WuY.C.,YangJ.,WangZ.H.,ZhouB.W.,GrehanG.,CenK.F.ModifiedconvolutionmethodtoreconstructparticlehologramwithanellipticalGaussianBeamillumination.OpticsExpress,2013,21(10):12803-12814.
+WuX.C.,WuY.C.,WangZ.H.,ZhouB.W.,GaoX.,GrehanG.,CenK.F.AsymmetricwaveletreconstructionofparticlehologramwithanellipticalGaussianBeamillumination.AppliedOptics,2013,52(21):5065-5071.
+WuY.C.,WuX.C.*,Gr&eacute;hanG.,SaengkaewS.,JiangH.Y.,HongQ.Q.,CenK.F.Concentrationandsizemeasurementsofsprayswithglobalrainbowtechnique.ActaPhys.Sin,2013,62(9):090703.
+WuX.C.,WuY.C.,ZhangC.C.,LiG.N.,HuangQ.X.,ChenL.H.,QiuK.Z.,ZhouH.,CenK.F.Fundamentalresearchonthesizeandvelocitymeasurementsofcoalpowderbytrajectoryimaging.JournalofZhejiangUniversity-ScienceA,2013,14(5):377-382.
+WuX.C.,WuY.C.,SaengkaewS.,Meumier-Guttin-CluelS.,GrehanG.,CenK.F.ConcentrationandcompositionmeasurementofsprayswithGlobalrainbowtechnique.MeasurementScience&amp;Technology,2012,23(12):125302.
+WuX.C.,Meunier-Guttin-CluzelS.,WuY.C.,SaengkaewS.,LebrunD.,BrunelM.,ChenL.H.,CoetmellecS.,CenK.F.,GrehanG.Holographyandmicro-holographyofparticlefields:anumericalstandard.OpticsCommunications,2012,&nbsp;285(13-14):3013-3020.
+WuY.C.,WuX.C.*,WangZ.H.,GrehanG.,ChenL.H.,CenK.F.Measurementofmicrochannelflowwithdigitalholographicmicroscopybyintegratednearestneighborandcross-correlationparticlepairing.AppliedOptics,2011,50(34):H297-H305.
+WuY.C.,WuX.C.*,WangZ.H.,ChenL.H.,CenK.F.Coalpowdermeasurementbydigitalholographywithexpandedmeasurementarea.AppliedOptics,2011,50(34):H22&ndash;H29.
+BriardP.,SaengkaewS.,WuX.C.,Meunier-Guttin-CluzelS.,ChenL.H.,CenK.F.,Gr&eacute;hanG.Measurementsof3DrelativelocationsofparticlesbyFourierInterferometryImaging(FII).OpticsExpress,2011,19(13):12700-12718.
+WuY.C.,WuX.C.*,LuS.X.,ZhangJ.Q.,CenK.F.NovelMethodsforFlamePulsationFrequencyMeasurementwithImageAnalysis.FireTechnology,2011,48(2):389-403.
+Wu,X.C.,GrehanG.,Meunier-Guttin-CluzelS.,ChenL.H.,CenK.F.,2009.&nbsp;Sizingofparticlessmallerthan5micrometerindigitalholographicmicroscopy.OpticsLetters,34(7):857-859.&nbsp;
+WuX.C.,WangQ.H.,LuoZ.Y.,FangM.X.,CenK.F.RotationspeedmeasurementofmovingparticlesinaCFBriser.Particuology,2009,7(4):238-244.
+Wu,X.C.,Wang,Q.H.,Luo,Z.Y.,Fang,M.X.,Cen,K.F.,2008.TheoreticalandexperimentalinvestigationsonparticlerotationspeedinCFBriser.ChemicalEngineeringScience,63(15):3979-3987.[doi:10.1016/j.ces.2008.04.059]
+Wu,X.C.,Gr&eacute;han,G.,Cen,K.F.,Ren,K.F.,Wang,Q.H.,Luo,Z.Y.,Fang,M.X.,2007.SizingofirregularparticlesusinganearbackscatteredlaserDopplersystem.AppliedOptics,46(36):8600-8608.[doi:10.1364/AO.46.008600]
+Wu,X.C.,Wang,Q.H.,Tian,C.,Luo,Z.Y.,Fang,M.X.,Cen,K.F.,2008.ExperimentalstudyonthespatialdistributionofparticlerotationintheupperdilutezoneofacoldCFBriser.JournalofZhejiangUniversity-ScienceA,9(7):922-931.[doi:10.1631/jzus.A0820034]
+Wu,X.C.,Cen,K.F.,Luo,Z.Y.,Wang,Q.H.,Fang,M.X.,2008.Measurementonparticlerotationspeedingas&ndash;solidflowbasedonidentificationofparticlerotationaxis.ExperimentsinFluids,45(6):1117-1128.[doi:10.1007/s00348-008-0532-2]
+Wu,X.C.,Wang,Q.H.,Luo,Z.Y.,Fang,M.X.,Cen,K.F.,2008.ExperimentalinvestigationofinterparticlecollisionintheupperdilutezoneofacoldCFBriser.InternationalJournalofMultiphaseFlow.34(10):924-930.&nbsp;[doi:10.1016/j.ijmultiphaseflow.2008.04.001]
+Wu,X.C.,Wang,Q.H.,Luo,Z.Y.,Fang,M.X.,Cen,K.F.,2008.Experimentalstudyofparticlerotationcharacteristicswithhigh-speeddigitalimagingsystem.PowderTechnology,181(1):21-30.[doi:10.1016/j.powtec.2007.04.007]
+
+&nbsp;
+欢迎保送硕士研究生和直博研究生联系，常年招收博士后。
+			
+				
+			工作研究领域
+			
+			煤炭清洁利用、燃烧和流动的先进测量和优化控制(Cleancoalutilization,Advancedmeasurementsandoptimizingcontrolofmultiphaseflowsandcombustion)
+			
+				
+			联系方式
+			
+			电话：0571-8795-2805			电子信箱：wuxch@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：吴学成
+		单位：能源工程学系
+		职称：副教授
+		我的主页共被访问了13444次
+标签：能源清洁利用国家重点实验室CEUITPE热能所燃烧多相流光学测量能源系	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		临时下载
+	实验室(CEU)
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	CEU
+ITPE
+DOEE
+Sina
+Yahoo
+google
+Baidu
+Googlescholar
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

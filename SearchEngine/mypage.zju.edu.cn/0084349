@@ -1,0 +1,218 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0084349";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0084349&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			　　　1979年9月至1984年8月：浙江医科大学医学系学习
+　　　1984年8月：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙医二院眼科助教
+　　　1990年1月：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙医二院眼科讲师
+　　　1990年1月至4月：&nbsp;&nbsp;&nbsp;日本滨松医科大学眼科进修
+　　　1992年4月：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;日本大阪大学医学部博士研究生
+　　　1993年4月：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;日本大阪大学医学部客座研究员
+　　　1995年10月：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙医二院眼科副教授
+　　　1998年1月：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江大学医学院附属邵逸夫医院眼科主任、教授、博导
+			
+				
+			工作研究领域
+			
+			1.眼科学，角膜病
+2.眼免疫学
+3.真菌及单疱病毒
+4.眼表疾病、眼表重建技术和角膜移植技术的开发
+			
+				
+			联系方式
+			
+			电话：0571-66090073			电子信箱：yaoyuf@mail.hz.zj.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：姚玉峰
+		单位：临床医学三系（含护理系）
+		职称：教授
+		我的主页共被访问了6986次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	研究成果
+	专利成果
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

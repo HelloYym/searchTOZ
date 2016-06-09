@@ -1,0 +1,287 @@
+
+
+
+
+
+ZHIZHENZHANG-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0011022";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	ZHIZHENZHANG
+
+
+	Permanentlink:http://mypage.zju.edu.cn/en/zzhang88&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			&nbsp;
+Education
+1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ph.D.&ndash;BeijingMedicalUniversity,China,1995-1998.
+2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;M.S.&ndash;Jiangxi&nbsp;UniversityofTraditionalChineseMedicine,China,1987-1990.
+3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B.S.&ndash;Jiangxi&nbsp;UniversityofTraditionalChineseMedicine,China,1980-1984.
+&nbsp;
+Employment
+1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11/2011-present&nbsp;&nbsp;Professor,OceanCollege,ZhejiangUniversity,China.&nbsp;
+2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11/2008-11/2011&nbsp;&nbsp;SeniorScientist,NovoBioticPharmaceuticals,USA.
+3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;01/2002-10/2008&nbsp;&nbsp;ResearchScientist,NationalCenterforPharmaceuticalCrops,SFAStateUniversity,USA.
+4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;08/1999-12/2001&nbsp;&nbsp;PostdoctoralResearchAssociate,NationalCenterforNaturalProductsResearch,theUniversityofMississippi,USA.
+5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;05/1998-06/1999&nbsp;&nbsp;VisitingResearchScholar,TohoUniversity,Japan.
+6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;09/1990-08/1995&nbsp;&nbsp;AssociateProfessor,Jiangxi&nbsp;UniversityofTraditionalChineseMedicine,China.
+7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;08/1984-08/1987&nbsp;&nbsp;AssistantTeacher,Jiangxi&nbsp;UniversityofTraditionalChineseMedicine,China.
+&nbsp;
+AwardsandHonors
+1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ScienceandTechnologyAdvancementThirdPrizeofJiangxiProvince,1997.
+2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NationalChineseMedicinalScienceandTechnologyAdvancementSecondPrize,1996.
+3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NationalChineseMedicinalScienceandTechnologyAdvancementThirdPrize,1994.
+&nbsp;
+CurrentResearchSupport
+1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Discoveryofnovelantibioticsfrommarinebacteriaculturedinsimulatednativeenvironment,theNaturalScienceFoundationofChina,2013-2016.
+2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Discoveryofnovelantibioticsfrommarinemicroorganismsculturedbynewmethods,theCross-DisciplinaryResearchforOceanScienceofZhejiangUniversity,2011-2013.
+&nbsp;
+RepresentativePublications(over&nbsp;80publications)
+
+
+LuChen,YingLiang,TengfeiSong,KomalAnjum,WenlingWang,SiranYu,HaocaiHuang,Xiao-YuanLian*,ZhizhenZhang*(2015).SynthesisandbioactivityoftripolinolateAfromTripoliumvulgareanditsanalogs.Bioorganic&amp;MedicinalChemistryLetters,25(13),2629-2633.
+
+XueweiYe,KomalAnjum,TengfeiSong,WenlingWang,SiranYu,HaocaiHuang,Xiao-YuanLian*,ZhizhenZhang*(2015).AnewcurvularinglycosideandcytotoxicandantibacterialanaloguesfrommarineactinomycetePseudonocardiasp.HS7.NaturalProductResearch,June29,1-6.
+
+SiranYu,XueweiYe,HaocaiHuang,RuiPeng,ZenghuaSu,Xiao-YuanLian*,ZhizhenZhang*(2015).BioactivesulfatedsaponinsfromseacucumberHolothuriamoebii.PlantaMedica,81(2):152-159.
+
+XueweiYe,SiranYu,YingLiang,HaocaiHuang,Xiao-YuanLian*,ZhizhenZhang*(2014).Bioactivetriterpenoidsaponinsandphenoliccompoundsagainstgliomacells.Bioorganic&amp;MedicinalChemistryLetters,25:5157-5163.
+
+SiranYu,XueweiYe,LuChen,Xiao-YuanLian*,ZhizhenZhang*(2014).Polyoxygenated24,28-epoxyergosterolsinhibitingtheproliferationofgliomacellsfromseaanemoneAnthopleuramidori.Steriods,88:19-25.
+
+KangningXu,YufenZhang,YanWang,PengLing,XinXie,ChenyaoJiang,ZhizhenZhang*,Xiao-YuanLian*(2014).GinsengRbfractionprotectsglia,neuronsandcognitivefunctioninaratmodelofneurodegeneration.PloSOne,9(6):e101077.
+
+SiranYu,XueweiYe,WenxiuXin,KangningXu,Xiao-YuanLian*,ZhizhenZhang*(2014).FatsiosideA,aRareBaccharane-TypeGlycosideInhibitingtheGrowthofGliomaCellsfromtheFruitsofFatsiajaponica.PlantaMedica,80:315-320.
+
+XueweiYe,SiranYu,Xiao-YuanLian,ZhizhenZhang*(2014).QuantitativedeterminationoftriterpenoidglycosidesinFatsiajaponicaDecne.&amp;Planch.usinghighperformanceliquidchromatography.JournalofPharmaceuticalandBiomedicalAnalysis,88:472-476.
+
+XinGuo,LuShen,YuhuaTong,JianZhang,GangWu,QiongHe,SiranYu,XueweiYe,LiboZou,ZhizhenZhang*,Xiao-YuanLian*(2013).Antitumoractivityofcaffeicacid3,4-dihydroxyphenethylesteranditspharmacokineticandmetabolicproperties.Phytomedicine,20:904-912.
+
+Xiao-Yuan,ZhizhenZhang*(2013).Indanomycin-relatedantibioticsfrommarineStreptomycesantibioticusPTZ0016.NaturalproductResearch,27:2161-2167.
+
+Xiao-YuanLian,ZhizhenZhang*(2013).QuantitiveanalysisofgleditsiasaponinsinGleditsiasinensisLambyhighperformanceliquidchromatography.JournalofPharmaceuticalandBiomedicalAnalysis,75:41-46.
+
+WenxiuXin,XueweiYe,SiranYu,Xiao-YuanLian*,ZhizhenZhang*(2012).Newapoamycin-typeantibioticsandpolyeneacidsfrommarineStreptomycesfradiaePTZ0025.MarineDrugs,10:2388-2402.
+
+ZhizhenZhang,WeiYuan,PingWang,GregGrant,ShiyouLi(2011).FlavonoidsfromLupinustexensisandtheirfreeradicalscavengingactivity.NaturalProductResearch,25:1641-1649.
+
+ZhizhenZhang,StacyOwnby,PingWang,WeiYuan,WanliZhang,ShiyouLi(2010).NewphenoliccompoundsfromLiatriselegans.NaturalProductResearch,24:1079-1085.
+
+ZhizhenZhang,BinghuaXiao,QiChen,Xiao-YuanLian(2010).Synthesisandbiologicalevaluationofcaffeicacid3,4-dihydroxyphenethylester.JournalofNaturalProducts,73:252-254.
+
+ZhizhenZhang*,ShiyouLi,Xiao-YuanLian(2010).AnoverviewofthegenusAesculusL.:ethnobotany,phytochemistry,andpharmacologicalactivities.PharmaceuticalCrops,1:24-51.
+
+ZhizhenZhang*,Xiao-YuanLian,ShiyouLi,JanetL.Stringer(2009).CharacterizationofchemicalingredientsandanticonvulsantactivityofAmericanskullcap(Scutellarialateriflora).Phytomedicine,16:485-493.
+
+ZhizhenZhang,PingWang,WeiYuan,ShiyouLi(2008).Steroids,alkaloids,andcoumarinsfromGelsemiumsempervirens.PlantaMedica,74:1818-1822.
+
+ZhizhenZhang,ShiyouLi,StacyOwnby,PingWang,WeiYuan,WanliZhang,ScottR.Beasley(2008).PhenoliccompoundsandrarepolyhydroxylatedtriterpenoidsaponinsfromEryngiumyuccifolium.Phytochemistry,69:2070-2080.
+
+ZhizhenZhang,ShiyouLi(2007).CytotoxictriterpenoidsaponinsfromthefruitsofAesculuspaviaL.Phytochemistry,68:2075-2086.
+
+ZhizhenZhang,ShiyouLi,ShangmingZhang,DavidGorenstein(2006).TriterpenoidsaponinsfromthefruitsofAesculuspavia.Phytochemistry,67:784-794.
+
+ZhizhenZhang,ShiyouLi,ShangmingZhang(2005).SixnewtriterpenoidsaponinsfromtherootandstembarkofCephalanthusoccidentalis.PlantaMedica,71:355-361.
+
+Xiao-YuanLian,ZhizhenZhang,JanetL.Stringer(2005).Protectiveeffectsofginsengcomponentsinarodentmodelofneurodegeneration.AnnalsofNeurology,57:642-648.
+
+Xiao-yuanLian,ZhizhenZhang,JanetL.Stringer(2005).Anticonvulsantactivityofginsengonseizuresinducedbychemicalconvulsants.Epilepsia,46:15-22.
+
+ZhizhenZhang,ShiyouLi,ShanminZhang,ChunLiang,DavidGorenstein,ScottR.Beasley(2004).NewcamptothecinandellagicacidanaloguesfromtherootbarksofCamptothecaacuminata.PlantaMedica,70:1216-1221.
+
+ZhizhenZhang,HalaN.ElSohly,Xing-CongLi,ShabanaI.Khan,SheldonE.BroedelJr.,RobertE.Raulli,RonaldL.Cihlar,LarryA.Walker(2003).PhenoliccompoundsfromNymphaeaodorata.JournalofNaturalProducts,66:548-550.ZhizhenZhang,HalaN.ElSohly,Xing-CongLi,ShabanaI.Khan,SheldonE.BroedelJr.,RobertE.Raulli,RonaldL.Cihlar,LarryA.Walker(2003).FlavanoneglycosidesfromMiconiatrailii.JournalofNaturalProducts,66:39-41.
+
+ZhizhenZhang,HalaN.ElSohly,MelissaR.Jacob,DavidS.Pasco,LarryA.Walker,AliceM.Clark(2002).NewsesquiterpenesfromtherootofGautteriamultiveria.JournalofNaturalProducts,65:856-859.
+
+ZhizhenZhang,HalaN.ElSohly,MelissaR.Jacob,DavidS.Pasco,LarryA.Walker,AliceM.Clark(2002).NaturalproductsinhibitingCandidaalbicanssecretedasparticproteasesfromLycopodiumcernuum.JournalofNaturalProducts,65:979-985.
+
+ZhizhenZhang,HalaN.ElSohly,MelissaR.Jacob,DavidS.Pasco,LarryA.Walker,AliceM.Clark(2002).NaturalproductsinhibitingCandidaalbicanssecretedasparticproteasesfromTovomitakrukovii.Plantamedica,68:49-54.
+
+ZhizhenZhang,HalaN.ElSohly,MelissaR.Jacob,DavidS.Pasco,LarryA.Walker,AliceM.Clark(2001).NovelindolealkaloidsfromthebarkofNaucleaorientalis.JournalofNaturalProducts,64:1001-1005.
+
+ZhizhenZhang,DeanGuo,JunhuaZheng,KazuoKoike,ZhonghuaJia,TamotsuNikaido(2000).GaulthrinsCandD,twonewlignansfromtherootsofGaultheriayunnanensis.Heterocycles,53:675-679.
+
+&nbsp;
+			
+				
+			Researchwork
+			
+			1.Discoveryofnovelbioactivecompoundsfromthesecondarymetabolitesofmarineorganisms.2.Investigationandutilizationofnewmarinemedicinalresources.3.Cultureandpurificationofmarinemicroorganism.4.Structuremodificationandsemi-synthesisofnovelmarinebioactivecompounds.5.Discoveryanddevelopmentofnewpharmaceutical,dietaryandagrochemicalproductsbasedononthemarinebioactivecompounds.
+
+			
+				
+			Contact
+			
+			Phone:+8613675859706
+			E-mail:zzhang88@zju.edu.cn
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:ZHIZHENZHANG
+		Units:OceanCollege
+		Title:Professor
+		Myhomepagehasbeenvisited2053times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	
+
+
+Youarevisitor:2053
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

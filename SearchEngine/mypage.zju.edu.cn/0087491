@@ -1,0 +1,224 @@
+
+
+
+
+
+我爱生活，我爱科学-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0087491";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	我爱生活，我爱科学
+
+
+	永久链接:http://mypage.zju.edu.cn/0087491&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			1984年毕业于厦门大学海洋系，获学士学位；1993年毕业于浙江医科大学药学系，获硕士学位；2001年毕业于浙江大学高分子系，获博士学位。2001.7-2004.7在新加坡材料研究和工程研究所（IMRE）进行博士后研究工作，后在新加坡生物工程和纳米技术研究所（IBN）研究员。
+2006.9-2008.4在香港大学化学系分子生物研究所做访问学者；
+2010.7-2010.10在德国Rostock大学心脏外科研究所做访问学者；
+2011.7-2011.10在香港城市大学等离子生物材料研究所高级访问学者；
+2012.7-2012.10在香港城市大学等离子生物材料研究所高级访问学者；
+2013.7-2013.10在香港城市大学等离子生物材料研究所高级访问学者。
+承担和完成了国家863项目、973项目和国家自然科学基金项目多项。在国内外重要期刊发表论文160余篇。
+目前承担的课题主要有：
+1国家自然科学基金（2011-2013，负责），新型纳米载体介导的小分子药物/基因药物协同作用于肝肿瘤的研究
+2国家自然科学基金（2014-2017，负责），逆转肿瘤多药耐药的&ldquo;双联&rdquo;药物输送体系
+3国家重点基础研究计划(973计划)（2014CB9319012014-2018，子课题负责）核酸药物高效纳米载药系统的研究
+4食品中热反应伴生危害物毒理学检测及风险评估关键技术研究（2012BCK01B03）
+&nbsp;
+			
+				
+			工作研究领域
+			
+			1、基因药物研究
+2、生物降解性材料
+3、药物的控制释放
+
+			
+				
+			联系方式
+			
+			电话：0571-88273284			电子信箱：tangguping@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：汤谷平
+		单位：化学系
+		职称：教授
+		我的主页共被访问了40816次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	发表论文
+	出版著作
+	专利成果
+	实验室介绍
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

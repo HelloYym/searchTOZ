@@ -1,0 +1,226 @@
+
+
+
+
+
+梁金友-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0012023";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	梁金友
+工业生态与环境研究所
+
+	永久链接:http://mypage.zju.edu.cn/liangjinyou&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			梁金友，哈佛博士；主要从事空气污染化学模拟。
+
+在哈佛期间曾经首次用气液耦合的、在线的、并行的光化学输送模式方法模拟云水化学对臭氧的影响，用在线的、并行的光化学输送模式方法计算北美大陆臭氧和氮化物种的成因、输出通量与季节性变化。博士毕业后，在斯坦福大学大气模式组从事化学模式博士后研究3年。随后，在美国加州湾区空气质量管理局和美国加州环保局从事支撑环保法规及科研管理的工作11年；后四年为高级空气污染专家，致力于验证分析用于环保法规的空气质量模式。
+
+主要成果:(1)建立了一个优化的非负值因子分析模式(NMFROC)；(2)建立了一个同时求解复杂的物理和化学过程的优化的数值模式版块(CVPS)；（3）发表学术论文、新闻60余篇,审议大气环境(国际杂志)和(美国)地球物理杂志(大气)等的论文；（4）参与美国加州环保局空气资源部与公立大学的研究合同的立项、管理和终审；（5）荣获中科院&ldquo;百人计划&rdquo;(2000年入选)和浙江省第四批千人计划。自2012年2月加入浙大化工系工业生态与环境研究所。著有英文"空气资源化学模拟"(浙江大学-Elsevier出版社,2013.6)。
+
+欢迎报考博士生。
+			
+				
+			工作研究领域
+			
+			大气化学模式
+			
+				
+			联系方式
+			
+			电话：136-0663-9015			电子信箱：jinyouliang@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：梁金友
+		单位：工业生态与环境研究所
+		职称：特聘研究员
+		我的主页共被访问了1808次
+标签：大气环境
+空气质量
+化学模式
+臭氧
+颗粒物
+酸雨	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	美国社区模拟和分析系统
+何奕
+工生环所
+化工系
+中国环境科学研究院
+StanfordUniversity
+HarvardUniversity
+王韬教授
+王育航教授
+PrincetonUniversity
+Berkeley
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

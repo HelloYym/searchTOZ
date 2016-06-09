@@ -1,0 +1,198 @@
+
+
+
+
+
+Welcometomypage-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0098046";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	Welcometomypage
+ShilieZheng
+
+	Permanentlink:http://mypage.zju.edu.cn/en/zhengsl&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			ShilieZhengreceivedherB.S.andM.S.degreesinmaterialssciencefromZhejiangUniversity,China,in1995and1998andreceivedherPhDdegreeinphysicalelectronicsandoptoelectronicsfromthesameUniversityin2003.In1998,shejoinedthefacultyofInformationScience&amp;ElectronicEngineering,ZhejiangUniversity,whereshewasappointedasanassociatedprofessorin2005.SheworkedasaresearchassiciateinTohukuUniversity&nbsp;fromDecember,2005toApril,2006.Dr,Zhengistheauthororco-authorofover30peer-reviewedscientificpapers.&nbsp;Currently&nbsp;her&nbsp;researchinterestsinclude&nbsp;humanareanetworkcommunication,radiooverfiberlinks,&nbsp;FBGbaseddevicesandfiberopticalcommunicationsystems.
+			
+				
+			Researchwork
+			
+			microwavephotonics,humanareanetworkcommunication,opticalcommunicationandopticaldevices.
+			
+				
+			Contact
+			
+			Phone:
+			E-mail:zhengsl@zju.edu.cn
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:ShilieZheng
+		Units:DepartmentofInformationandElectronicEngineering
+		Title:AssociateProfessor
+		Myhomepagehasbeenvisited3072times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+Majorpublicationlist
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	
+
+
+Youarevisitor:3072
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

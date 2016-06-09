@@ -1,0 +1,1 @@
+{'name': [u'\u7a0b\u78ca'], 'title': [u'\u751f\u547d\u79d1\u5b66\u5b66\u9662\u526f\u9662\u957f   '], 'photo': '', 'pos': './person.zju.edu.cn/spell-C.html?size=25&sort=&page=8', 'blog': [], 'intro': '', 'department': [u'\u751f\u547d\u79d1\u5b66\u5b66\u9662'], 'homepage': u'http://mypage.zju.edu.cn/chenglab'}

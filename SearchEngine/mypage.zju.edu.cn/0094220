@@ -1,0 +1,242 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0094220";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0094220&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			2006.9~现在石河子大学动物科技学院副院长
+
+2004.12~现在浙江大学动物科学学院副教授
+
+2002.12~2004.11浙江大学动物科学学院讲师
+
+1999.09~2002.11德国基尔大学畜牧所访问学者博士研究生
+
+1997.08~1999.08浙江农业大学动物科学学院讲师实验牧场副场长
+
+1994.08~1997.07浙江农业大学动物科学学院助教
+
+1991.08~1994.07南京农业大学畜牧系硕士研究生
+
+1987.08~1991.07南京农业大学畜牧系本科生
+学术兼职:
+中国畜牧兽医学会畜禽遗传标记学分会理事
+所获荣誉与主要奖励:
+㈠1998年10月获得大江园丁奖
+
+㈡2003年度浙江大学优秀教师
+
+㈢2003-2004学年动物科学学院先进工作者
+
+			
+				
+			工作研究领域
+			
+			分子遗传标记及辅助选择
+
+QTLmapping
+
+功能基因分析
+
+基因定位
+
+猪育种
+
+遗传缺陷基因研究
+
+家畜抗病遗传
+
+			
+				
+			联系方式
+			
+			电话：0571-86971109			电子信箱：guoxiaoling@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：郭晓令
+		单位：动物科学学院动物科技系
+		职称：副教授
+		我的主页共被访问了5062次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

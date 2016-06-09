@@ -1,0 +1,326 @@
+
+
+
+
+
+徐政的主页-博客
+
+
+
+
+
+
+varctxPath="http://mypage.zju.edu.cn";
+varb_handle="xuzheng";
+varcfg_weblog="http://mypage.zju.edu.cn/weblog";
+vard=newDate()
+varselyear=d.getFullYear();
+varselmonth=d.getMonth()+1;
+
+
+
+
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	color:#111;
+	margin-right:10px;	
+}
+#mainlinkullia,.tagsa:hover{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+.tagsa{
+	margin-right:10px;
+}
+img{
+	border:none;
+}
+
+
+
+
+
+
+
+
+
+
+	
+		首页
+		帮助
+		登录
+	
+
+
+
+
+
+
+	徐政的主页
+HVDCandFACTS
+
+	永久链接:http://mypage.zju.edu.cn/weblog/xuzheng&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+
+
+	中文主页
+英文主页
+			博客
+
+
+
+
+
+
+
+
+
+
+			
+				
+
+	
+[1/1]
+首页	上一页下一页末页
+
+	
+
+浏览模式:普通|列表
+
+
+
+
+
+
+		给联系我做本科生导师和研究生导师的同学的几点提示
+
+作者:徐政日期:2013-03-14Thursday
+
+
+
+每年不同时间段有不少同学联系我做导师的事，在与同学的接触中，我觉得不管是联系做本科生导师还是做研究生导师，由于同学对我的工作方式不是很了解，使得本来可以做好的事做得不够好，因此给想联系我做导师的同学几点提示。1、联系的email地址一定要准确，我目前...
+查看更多...
+
+
+
+
+
+分类:默认分类|			固定链接|评论总数0|
+			阅读次数101
+
+
+
+
+
+
+
+		关于保硕还是保博的问答
+
+作者:徐政日期:2013-03-14Thursday
+
+
+
+近来有多名同学询问我是保硕好呢还是保博好？对此，谈一点个人看法：1、按照我国社会目前的发展趋势，获得最高学位是成为高层次人才的重要因素甚至是必要条件。理由如下：1）目前我国高校已普遍采用国际惯例，未获得本学科最高学位，不可能在大学任教。2）根据我...
+查看更多...
+
+
+
+
+
+分类:默认分类|			固定链接|评论总数0|
+			阅读次数95
+
+
+			
+			
+		
+		
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+	
+	
+		姓名：徐政
+		单位：电气工程学院电机工程学系
+		职称：教授
+		我共发表了2篇文章
+		共收到0条评论
+		我的主页共被访问了1473次
+	
+	
+	
+	
+
+
+我的文章分类
+
+	默认分类
+		
+
+
+
+
+日历
+
+
+
+>>
+年月
+
+
+
+日
+一
+二
+三
+四
+五
+六
+
+
+
+
+
+
+
+
+
+
+
+我的最新文章
+
+
+		给联系我做本科生导师和...
+关于保硕还是保博的问答
+	
+
+
+
+
+我的热点文章
+
+
+				给联系我做本科生导师和...
+		关于保硕还是保博的问答
+
+	
+
+
+我收到的评论
+
+	
+	
+
+
+我的文章汇总
+
+		2013年3月[2]
+		
+	
+
+
+链接
+
+徐政实验室的网站
+
+
+
+
+
+检索
+
+
+
+
+-所有文章-
+默认分类
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+
+
+varflag=newArray();
+flag[0]='2013/03/14';
+
+
+varcale=newCalendar("idCalendar",{
+SelectDay:newDate(),
+onSelectDay:function(o),
+onToday:function(o),
+onFinish:function(){
+$("idCalendarYear").innerHTML=this.Year;$("idCalendarMonth").innerHTML=this.Month;
+for(vari=0,len=flag.length;i<len;i++){
+//alert(flag[i]);
+	vard=newDate(flag[i]);
+	if(this.Year==d.getYear()){
+		if(this.Month==d.getMonth()+1)
+		{
+this.Days[d.getDate()].innerHTML=""+d.getDate()+"";
+			
+		}
+
+	}
+}
+}
+});
+$("idCalendarPre").onclick=function()
+$("idCalendarNext").onclick=function()
+
+
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));

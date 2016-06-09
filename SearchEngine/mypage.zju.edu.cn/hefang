@@ -1,0 +1,228 @@
+
+
+
+
+
+何方-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0015136";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	何方
+
+
+	永久链接:http://mypage.zju.edu.cn/hefang&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;
+工作经历：
+2015.7-至今，浙江大学，海洋学院，讲师
+2015.4-2015.7，新加坡南洋理工大学，DHI-NTU中心，博士后
+2014.9-2015.3，交通运输部天津水运工程科学研究院，科研人员
+2013.6-2014.9，新加坡南洋理工大学，土木与环境工程学院，博士后
+&nbsp;
+教育经历：
+2009.8-2014.2，新加坡南洋理工大学，博士
+2007.9-2009.6，天津大学，硕士
+2003.9-2007.6，华中科技大学，学士
+&nbsp;
+研究兴趣：
+海洋水动力学（Marinehydrodynamics）
+波浪能利用（Waveenergyextraction）
+波浪-结构物相互作用（Wave-bodyinteraction）
+浮体结构（Floatingstructure）
+海岸和海洋工程（Coastalandoceanengineering）
+海底管线冲刷（Submarinepipelinescouring）
+&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;创建于2015-07-16
+<pclass="MsoListParagraphCxSpMiddle"style="margin-left:21.0pt;mso-add-space:
+auto;text-indent:-21.0pt;line-height:115%;mso-list:l0level1lfo1"><spanstyle="mso-bidi-font-size:10.5pt;
+line-height:115%;font-family:宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;
+mso-hansi-font-family:&quot;TimesNewRoman&quot;"/>
+<pclass="MsoListParagraphCxSpMiddle"style="margin-left:21.0pt;mso-add-space:
+auto;text-indent:-21.0pt;line-height:115%;mso-list:l0level1lfo1"><spanstyle="mso-bidi-font-size:10.5pt;
+line-height:115%;font-family:宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;
+mso-hansi-font-family:&quot;TimesNewRoman&quot;"/>
+&nbsp;
+			
+				
+			联系方式
+			
+						电子信箱：hefang@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：何方
+		单位：海洋学院
+		职称：讲师
+		我的主页共被访问了452次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		发表论文
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,214 @@
+
+
+
+
+
+陈纯的个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0082004";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	陈纯的个人主页
+CC's个人主页
+
+	永久链接:http://mypage.zju.edu.cn/chenc&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			陈纯&nbsp;博士，教授，博士生导师，浙江大学软件学院院长，计算机软件研究所所长。兼任浙江省计算机学会理事长。
+
+长期从事计算机图形图象处理、计算机视觉、CAD/CAM、CSCW、人工智能、移动数据库、嵌入式系统等领域的教学和科研工作，已经发表高质量的学术论文150多篇，其中SCI/EI收录的有80多篇。出版专著4部。
+
+在开展学科前沿的理论研究的同时，注重对国家建设有重大经济和社会效益的项目进行科研攻关。近年来，承担了国家自然科学基金、国家和省部委攻关等科研项目二十余项，作为项目负责人通过科研成果鉴定的项目12项，其中2项国际领先、4项国际先进、2项国内首创、4项国内领先。其中，开创研制的纺织智能CAD/CAM系统已在国内轻纺行业300多家企业推广应用，取得了显著的经济效益和社会效益。
+
+作为第一或者第二获奖者，曾获得：国家技术发明二等奖1次、国家科技进步二等奖和三等奖各1次、浙江省科技进步一等奖和二等奖各1次、纺织总会科技进步二等奖1次、第三届中国青年科技奖、第二届浙江省青年科技奖。是国家教委&ldquo;跨世纪优秀人才培养计划&rdquo;首批入选专家，浙江省首批&ldquo;特级专家&rdquo;获得者，并享受政府特殊津贴。
+
+			
+				
+			工作研究领域
+			
+			计算机图形图象处理、计算机视觉、CAD/CAM、CSCW、人工智能、移动数据库、嵌入式系统等。
+			
+				
+			联系方式
+			
+			电话：0571-87951901			电子信箱：chenc@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：陈纯
+		单位：计算机科学与技术学院计算机科学与工程学系
+		职称：教授
+		我的主页共被访问了50453次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	出版著作
+	专利成果
+	实验室介绍
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

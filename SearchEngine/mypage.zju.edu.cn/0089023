@@ -1,0 +1,205 @@
+
+
+
+
+
+吴天星简介-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0089023";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	吴天星简介
+
+
+	永久链接:http://mypage.zju.edu.cn/0089023&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			1963年4月生，中国农业科学院动物营养学博士，浙江大学化学博士后，浙江大学理学院教授；动物营养学和饲料科学与化学生物学两学科博士生导师；宁波市人大代表，享受国务院特殊津贴；浙江省有突出贡献专家称号，入选浙江省新世纪151人才工程第一层次；指导培养博士生、硕士生近30人，发表学术论文100多篇，完成各类科研项目20多项，多项研究成果荣获国家级、省级科技进步奖；宁波市科技创新特别奖获得者，曾任浙江省博士后联谊会理事长，浙江大学宁波理工学院分子设计与营养工程重点实验室主任等职，现任宁波天邦股份有限公司董事长。
+			
+				
+			工作研究领域
+			
+			1、水生动物营养学与饲料科学2、生物活性物质类饲料添加剂分子结构与功能3、调控生物大分子的化学营养学
+			
+				
+			联系方式
+			
+			电话：057187953996			电子信箱：wutx@tianbang.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：吴天星
+		单位：化学系
+		职称：教授
+		我的主页共被访问了11716次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		发表论文
+	专利成果
+	奖励荣誉
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

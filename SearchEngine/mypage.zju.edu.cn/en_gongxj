@@ -1,0 +1,235 @@
+
+
+
+
+
+XiaojinGong'sHomepage-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0009113";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	XiaojinGong'sHomepage
+
+
+	Permanentlink:http://mypage.zju.edu.cn/en/gongxj&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			XiaojinGong
+AssociateProfessor,
+ComputerVisionLab,
+DepartmentofInformationScienceandElectronicEngineering,
+ZhejiangUniversity
+Office:
+XindianBuilding315,
+No.38ZhedaRoad,Hangzhou,310027,China
+Email:gongxj@zju.edu.cn
+Education
+Ph.D.&nbsp;ElectricalandComputerEngineering,VirginiaTech
+MA,BA,ComputationalLinguistics,Tsinghua
+=================================
+News
+
+
+2015.05&nbsp;Acoauthored&nbsp;paperis&nbsp;acceptedto&nbsp;&nbsp;IEEESignalProcessingLetters.
+2015.05&nbsp;Acoauthored&nbsp;paperis&nbsp;acceptedto&nbsp;&nbsp;MeasurementScienceandTechnology.
+2015.04&nbsp;ApaperonRGB-DsaliencydetectionisacceptedtoCVPRMSF2015.
+2015.02&nbsp;IwasinvitedtoserveasaTPCmemberforCVPRMSF2015.
+2014.09&nbsp;&nbsp;Wehavereleasedcodeforthepaper&quot;Jointobjectsegmentationanddepthupsampling&quot;(SPL2015).Pleasereferto'Publications'fordownloading.
+2014.09&nbsp;Atechnicalreportonholisticroadsceneunderstandingisreleased.
+2014.08&nbsp;ApaperonjointobjectsegmentationanddepthupsamplingisacceptedtoIEEESignalProcessingLetters,codewillbereleasedsoon.
+2014.06&nbsp;Acoauthored&nbsp;paperis&nbsp;acceptedto&nbsp;&nbsp;MeasurementScienceandTechnology.
+2014.04&nbsp;Apaper&nbsp;onguideddepthupsamplingisacceptedtoCVPR&nbsp;WorkshopMSF2014.&nbsp;
+2014.02ApaperonblindimagedeconvolutionisacceptedtoOpticsExpress.
+2014.01Wehavereleasedcodeforthepaper&quot;GuidedDepthEnhancementviaAnisotropicDiffusion&quot;(PCM2013).Pleasereferto'Publications'fordownloading.
+2014.01Ourpaper&quot;GuidedDepthEnhancementviaAFastMarchingMethod&quot;istheTop10mostdownloadedpaperinlast90daysinImageandVisionComputing.
+2014.01ApaperonroadscenesegmentationisacceptedtoICRA2014.SeeyouinHongKong!
+2013.08ApaperisacceptedtoPCM2013.
+2013.08Wehavereleasedourguidedinpaintingcode.Pleasecheck'Publications'pagefordownloading.
+2013.07ApaperisacceptedtoImageandVisionComputing.Codewillbeavailablesoon.
+2013.05ApaperisacceptedtoICIP2013.
+2013.03Aco-authoredpaperisacceptedtoOpticsLetters.
+2013.01ApaperisacceptedtoSensors.
+2012.11WehaveapaperacceptedtoOpticsandLasersinEngineering.
+2012.11Wehaveapaperacceptedto2ndInt.ConferenceonComputerScienceandNetworkTechnology,Changchun,China,2012.
+2012.11NingboWangandJunyiLiu&nbsp;willattendICPR2012,Japan,&nbsp;andpresenttheirworksonRGBDpedestriandetectionandGuidedDepthEnhancement.
+2012.09&nbsp;IwillpresentapaperonICIP2012,Florida,USA
+2012.07&nbsp;&nbsp;WehaveapaperacceptedtoInternationalJournalofAdvancedRoboticSystems:VisualServoing.CongratulationstoYanchangWang!
+2012.06&nbsp;&nbsp;Wehave&nbsp;apaperacceptedtoOpticalEngineering.&nbsp;Congratulationsto&nbsp;YingLin!
+2012.06&nbsp;&nbsp;Wehave&nbsp;twopapersacceptedtoICPR2012.&nbsp;Congratulationsto&nbsp;NingboWangad&nbsp;JunyiLiu!
+2012.04&nbsp;&nbsp;WehaveapaperacceptedtoICIP2012.
+2011.12&nbsp;&nbsp;WehaveapaperacceptedtoWACV2012.
+2011.10&nbsp;&nbsp;Iwillattendthe8thAnnualAcademicConferenceoftheCommitteeonDeepSpaceExplorationTechnology,ChineseSocietyofAstronautics&nbsp;during10/26/2011-10/29/2011,inShanghai.&nbsp;
+2011.09&nbsp;&nbsp;IwillattendICIP2011during11/09/2011-14/09/2011,inBrussels,Belgium.
+			
+					
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:XiaojinGong
+		Units:ZhejiangUniversity
+		Title:AssociateProfessor
+		Myhomepagehasbeenvisited15751times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+Research
+Publications
+Teaching
+Links
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	CVConferences
+
+
+
+Youarevisitor:15751
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

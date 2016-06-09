@@ -1,0 +1,1 @@
+{'name': u'\uff1a\u8def\u660e', 'title': u'\uff1a\u52a9\u7406\u5de5\u7a0b\u5e08', 'photo': u'http://mypage.zju.edu.cn/teacherimage/0707016.jpg', 'pos': './mypage.zju.edu.cn/weblog|airwing', 'intro': [], 'department': u'\uff1a\u57fa\u672c\u5efa\u8bbe\u5904\u603b\u5de5\u7a0b\u5e08\u529e\u516c\u5ba4', 'homepage': 'http://mypage.zju.edu.cn/weblog/airwing'}

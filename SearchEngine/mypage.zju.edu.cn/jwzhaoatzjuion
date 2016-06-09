@@ -1,0 +1,328 @@
+
+
+
+
+
+浙大医学院赵经纬教授-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0013283";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	浙大医学院赵经纬教授
+神经干细胞与神经损伤和修复
+
+	永久链接:http://mypage.zju.edu.cn/jwzhaoatzjuion&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+
+Normal.dotm
+0
+0
+1
+791
+4511
+theVetinaryschool,Cambridge
+37
+9
+5539
+12.256
+
+
+
+
+
+
+0
+false
+
+
+18pt
+18pt
+0
+0
+
+false
+false
+false
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*StyleDefinitions*/
+table.MsoNormalTable
+	{mso-style-name:"TableNormal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0cm5.4pt0cm5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"TimesNewRoman";
+	mso-ascii-font-family:Cambria;
+	mso-ascii-theme-font:minor-latin;
+	mso-hansi-font-family:Cambria;
+	mso-hansi-theme-font:minor-latin;
+	mso-ansi-language:EN-US;}
+
+
+赵经纬，男，医学博士，浙江大学医学院教授和博士生导师，浙大神经科学研究所PI。毕业于解放军第四军医大学，分别于1992年、1995年和2000年获医学学士、医学硕士和医学博士学位（博士学位论文由第四军医大学与中科院上海生理所联合培养完成）。2000年8月至2004年10月在复旦大学神经生物学研究所任副教授。2004年11月至2013年在英国剑桥大学MRC-Wellcome&nbsp;Trust&nbsp;剑桥干细胞研究所、MRC再生医学中心、John&nbsp;van&nbsp;Geest&nbsp;脑修复中心任ResearchAssociate，专业为神经科学。曾被评为上海市科技启明星、获教育部自然科学奖一等奖（第四获奖人）、上海市自然科学奖一等奖（第四获奖人）。在SCI专业杂志发表的代表性原著论文包括《Cell&nbsp;Stem&nbsp;Cell》&nbsp;、《Nature&nbsp;Neuroscience》、《Journal&nbsp;of&nbsp;Neuroscience》、《DiseaseModelsandMechanisms》、《Glia》等。
+*教育和训练背景
+1986.08&mdash;1992.07&nbsp;中国人民解放军第四军医大学&nbsp;医学&nbsp;本科
+1992.08&mdash;1995.07&nbsp;中国人民解放军第四军医大学&nbsp;神经解剖学&nbsp;医学硕士
+1997.08&mdash;2000.07&nbsp;中国人民解放军第四军医大学&nbsp;神经生物学&nbsp;医学博士（与中科院上海生理所联合培养）
+2004.11&mdash;2013&nbsp;英国剑桥大学MRC-Wellcome&nbsp;Trust&nbsp;剑桥干细胞研究所、MRC再生医学中心、John&nbsp;van&nbsp;Geest&nbsp;脑修复中心，神经科学，博士后
+
+*工作经历
+1995.08&mdash;1997.07&nbsp;中国人民解放军第四军医大学解剖学教研室，先后任助教、讲师
+2000.08&mdash;2004.10&nbsp;复旦大学神经生物学研究所&nbsp;&nbsp;副教授，硕士生导师，兼管所公用实验室
+2014.05&mdash;现在&nbsp;浙江大学医学院&nbsp;&nbsp;教授，PI，博士生导师
+*学术团体和社会兼职
+国际脑研究组织(IBRO)会员
+中国解剖学会会员，浙江省解剖学会理事
+中国神经科学会会员
+中国生理科学会会员
+
+*迄今发表的SCI原著论文：
+1.JuliaMRuckh*,&nbsp;Jing-WeiZhao*,&nbsp;JenniferLShadrach,PetervanWijngaarden,TataNageswaraRao,AmyJWagers,RobinJMFranklin.Rejuvenationofregenerationintheagingcentralnervoussystem.&nbsp;CellStemCell,&nbsp;2012,&nbsp;10:96-103.&nbsp;(*co-firstauthors,&nbsp;&nbsp;with&nbsp;Editor&rsquo;snote;&nbsp;highlighted&nbsp;by&nbsp;Faculty1000&nbsp;and&nbsp;Science)
+2.&nbsp;&nbsp;Jing-WeiZhao*,&nbsp;SeanC&nbsp;Dyson*,ChristinaKriegel,PamTyers,XiaolingHe,TarekMFahmy,SuMMetcalfe,RogerABarker.Modellingofananotherapeutic&quot;stroma&quot;todeliverLIF,orXAV939,forpromotionofhumanfetaldopaminergiccellsintreatmentofParkinson'sdisease.&nbsp;DiseaseModels&amp;Mechanisms,2014,7(10):1193-203.&nbsp;(*co-firstauthors,withEditor'snote,coverimage)
+3.&nbsp;Jing-WeiZhao*,&nbsp;Ruma-RahaChowdhury,JamesWFawcett,ColinWatts*.&nbsp;Astrocytesandoligodendrocytescanbegenerated&nbsp;from&nbsp;&nbsp;&nbsp;NG2+&nbsp;progenitorsafteracutebraininjury:intracellularlocalizationofoligodendrocytetranscriptionfactor2isassociatedwiththeirfatechoice.&nbsp;EuropeanJournalofNeuroscience,2009,&nbsp;29:1853-69.&nbsp;(*co-correspondingauthors)
+4.&nbsp;VeroniqueEMiron*,AmandaBoyd,&nbsp;Jing-WeiZhao,TracyJYuen,JuliaMRuckh,JenniferLShadrach,AmyJWagers,AnnaWilliams,&nbsp;RobinJMFranklin,Charlesffrench-Constant.&nbsp;M2microgliaandmacrophagesdriveoligodendrocytedifferentiationduringCNSremyelination.&nbsp;NatureNeuroscience,2013,&nbsp;16(9):1211-18.
+5.&nbsp;IliasKazanis,NataliaGorenkova,&nbsp;Jing-WeiZhao,RobinJMFranklin,MichelModo,Charlesffrench-Constant.Thelateresponseofratsubependymalzonestemandprogenitorcellstostrokeisrestrictedtoareasofdamagetotheirniche.&nbsp;ExperimentalNeurology,2013,248:387-397.
+6.&nbsp;Jing-WeiZhao,Jiu-LinDu,Ji-ShuoLi,Xiong-LiYang.ExpressionofGABAtransportersonbullfrogretinalM&uuml;llercells.&nbsp;Glia,2000,&nbsp;31(2):104-117.&nbsp;(coverimage)
+7.&nbsp;Jing-WeiZhao,Xiong-LiYang.GlutamatetransporterEAAC1isexpressedonM&uuml;llercellsoflowervertebrateretinas.&nbsp;JournalofNeuroscienceResearch,2001,&nbsp;66(1):89-95.
+8.&nbsp;Hong-PingXu*,&nbsp;Jing-WeiZhao*,Xiong-LiYang.Cholinergicanddopaminergicamacrinecellsdifferentiallyexpresscalciumchannelsubunitsintheratretina.&nbsp;Neuroscience,2003,118:763-768.(*co-correspondingauthors)
+9.&nbsp;MiaoTian,LingChen,Jun-XiaXie,Xiong-LiYang,&nbsp;Jing-WeiZhao*.Expressionpatternsofinwardlyrectifyingpotassiumchannelsubunitsinratretina.&nbsp;NeuroscienceLetters,2003,345:9-12.(*correspondingauthor)
+10.&nbsp;MichaelFricker,JonasJNeher,&nbsp;Jing-WeiZhao,ClotildeTh&eacute;ry,AvivaMTolkovsky,GuyCBrown.MFG-E8mediatesprimaryphagocytosisofviableneuronsduringneuroinflammation.&nbsp;JournalofNeuroscience,2012,32(8):2657&ndash;2666.
+11.&nbsp;&nbsp;JonasJNeher,NeniskyteU,Jing-WeiZhao,&nbsp;AnnaBal-Price,AvivaMTolkovsky,GuyCBrown.Inhibitionofmicroglialphagocytosisissufficienttopreventinflammatoryneuronaldeath.&nbsp;JournalofImmunology,2011,&nbsp;186:4973-4983.
+12.&nbsp;FaelAl-MayhaniTM,SiolianLBall,&nbsp;Jing-WeiZhao,JamesWFawcett,KoichiIchimura,PeterVCollins,ColinWatts.Anefficientmethod&nbsp;forderivationandpropagationofglioblastomacelllinesthatconservesthemolecularprofileoftheiroriginaltumours.&nbsp;JournalofNeuroscienceMethods,2009,&nbsp;176(2):192-99.
+13.&nbsp;Wei-LiKuan,&nbsp;Jing-WeiZhao,RogerABarker.Theroleofanxietyinthedevelopmentoflevodopa-induceddyskinesiasinananimalmodelofParkinson&rsquo;sdisease,andtheeffectofchronictreatmentwiththeselectiveserotoninreuptakeinhibitorcitalopram.Psychopharmacology,2008,&nbsp;197(2):279-93.
+14.&nbsp;&nbsp;JianLiu,&nbsp;Jing-WeiZhao,Jiu-LinDu,Xiong-LiYang.FunctionalGABA(B)receptorsareexpressedattheconephotoreceptorterminalsinbullfrogretina.&nbsp;Neuroscience,2005,&nbsp;132(1):103-13.
+15.&nbsp;Li-YaXu,&nbsp;Jing-WeiZhao,Xiong-LiYang.GLASTexpressiononbullfrogMullercellsisregulatedbydark/light.&nbsp;Neuroreport,2004,15(16):2451-4.&nbsp;(coverimage)
+16.&nbsp;LingChen,Yong-CunYu,&nbsp;Jing-WeiZhao,Xiong-LiYang.Inwardlyrectifyingpotassiumchannelsinratretinalganglioncells.&nbsp;EuropeanJournalofNeuroscience,2004,&nbsp;20(4):956-64.
+17.&nbsp;Li-HuiCao,Yong-ChunYu,&nbsp;Jing-WeiZhao,Xiong-LiYang.ExpressionofnatriureticpeptidesinratMullercells.&nbsp;NeuroscienceLetters,2004,&nbsp;365(3):176-9.
+18.&nbsp;MiaoTian,&nbsp;Jing-WeiZhao,Xiong-LiYang,Jun-XiaXie.Differentialexpressionofvoltage-gatedpotassiumchannelsubunitsoncholinergicanddopaminergicamacrinecellsinratretina.&nbsp;Neuroreport,2003,&nbsp;14:1763-1766.(coverimage)
+19.&nbsp;Hong-PingXu,&nbsp;Jing-WeiZhao,Xiong-LiYang.Expressionofvoltage-dependentcalciumchannelsubunitsintheratretina.&nbsp;&nbsp;NeuroscienceLetters,2002,&nbsp;329:297-300.
+*获奖：
+格式：奖项，题目，年份，排名
+1.&nbsp;&nbsp;&nbsp;教育部自然科学一等奖，抑制性神经递质GABA和甘氨酸在视网膜信号处理中的作用，2006年，4/5
+2.&nbsp;&nbsp;&nbsp;上海市自然科学一等奖，2006年，4/5
+3.&nbsp;&nbsp;&nbsp;上海市政府科技启明星，2002年。
+
+*实验室成员：
+研究助理：
+尹秀华硕士
+博士研究生：
+2014级：许永成
+硕士研究生：
+2013级：王丹（与苏州大学联合培养）
+2014级：王迪仙
+
+
+
+			
+				
+			工作研究领域
+			
+			赵经纬博士实验室的研究目标是应用多学科手段致力于探索在转化神经科学研究中的共性问题和“瓶颈”问题：如何提高内源性（脑内固有的）神经干细胞在老年脑内胶质细胞损伤后的修复效率？怎样提高外源性（移植的）神经干细胞分化为特异类型神经元的效率？以期为胶质细胞损伤的修复和神经元变性疾病的治疗提供策略。
+
+研究方向：
+1.神经干细胞在胶质细胞损伤后修复的细胞和分子机制。
+2.神经干细胞向神经元定向分化的细胞和分子机制。
+
+
+热忱欢迎医学或生物学及相关专业的学者、学生以博士后或博士研究生、硕士研究生身份加盟本实验室！
+
+			
+				
+			联系方式
+			
+			电话：0571-88206862			电子信箱：jingweizhao@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：赵经纬
+		单位：医学院神经科学研究所
+		职称：教授
+		我的主页共被访问了3035次
+标签：Jing-WeiZhaoatZhejiangUniversitySchoolMedicine	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

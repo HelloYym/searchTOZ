@@ -1,0 +1,213 @@
+
+
+
+
+
+个人-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0004407";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	个人
+无语
+
+	永久链接:http://mypage.zju.edu.cn/jxf&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+金晓峰教授，生于1968年9月。1990年本科毕业于华中科技大学光电子系，1993年硕士毕业于中国舰船研究院水声电子专业，1996年博士毕业于浙江大学测试计量技术及仪器专业。2000-2004年期间，曾在美国高科技公司开展研究与开发工作；在光电子技术、电磁场与微波技术、测试计量技术与仪器、水声工程等多个学科与领域具有相关的研究经验；目前主要从事的研究项目主要包括：科技部973课题、国家科技支撑课题、国家自然科学基金以及其他纵向与企事业联合攻关项目等。现任浙江大学电子信息技术与系统研究所（电子所）常务副所长。
+			
+				
+			工作研究领域
+			
+			现在从事的研究领域主要：微波/毫米波技术、微波光子技术、新型传感与探测技术等。
+
+			
+				
+			联系方式
+			
+						电子信箱：jinxf00@zju.edu.cn，行政楼301			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：金晓峰
+		单位：信息与电子工程学系
+		职称：教授
+		我的主页共被访问了47584次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	主要研究方向介绍
+	工作研究项目
+	发表论文
+	专利成果
+	实验平台(设备)共享
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

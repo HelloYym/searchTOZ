@@ -1,0 +1,209 @@
+
+
+
+
+
+0011169-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0011169";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	0011169
+
+
+	永久链接:http://mypage.zju.edu.cn/jiefu&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			傅杰
+博士、副教授、博士生导师、求是青年学者
+生物质化工教育部重点实验室固定成员
+2005-2010为浙江大学和美国UniversityofMichigan的联合培养博士生（2008-2010在UniversityofMichigan化工学院进行联合培养），2010-2012在美国IowaStateUniversity化工系从事博士后研究工作，2012年底到浙江大学化工学院任教。长期从事生物质定向化学转化方面的研究，目前主持国家自然科学基金1项，省部级基金项目4项，并获得波音公司的专项资助。已在EnergyEnviron.Sci.(IF=15.490),ACSCatal.(IF=7.572),ChemSusChem(IF=7.117),Bioresour.Technol.(IF=5.039)等期刊发表学术论文30余篇，授权国家发明专利5项。
+			
+				
+			工作研究领域
+			
+			地沟油/微藻油制备生物航空煤油、生物质催化转化工程、药物纳米缓释载体的开发
+			
+				
+			联系方式
+			
+			电话：18806810769			电子信箱：jiefu@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：傅杰
+		单位：化学工程与生物工程学系
+		职称：副教授
+		我的主页共被访问了4061次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		发表论文
+	专利成果
+	教学工作
+	奖励荣誉
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

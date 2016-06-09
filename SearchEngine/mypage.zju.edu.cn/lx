@@ -1,0 +1,281 @@
+
+
+
+
+
+李鲜-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0004290";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	李鲜
+果实品质与营养
+
+	永久链接:http://mypage.zju.edu.cn/lx&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			学历及工作经历：
+1994.09-1998.07中国农业大学学士
+1998.09-2001.07中国农业大学硕士
+2001.08-2004.12美国伊利诺依大学香槟分校博士
+2004.12月-至今浙江大学农业与生物技术学院工作
+2008.10月-2009.7法国国家工程院-国家农业科学院访问学者
+2010.5月-2010.12法国国家工程院-国家农业科学院访问学者
+科研项目：
+1.杨梅产业化关键技术研究与示范，农业部公益性行业科研专项课题，2012.1-2016.12，主持
+2.果树遗传改良与控制技术研究及其应用，农业部公益性行业科研专项课题，2009.1-2013.12，主持
+3.杨梅EST库扩展及在功能基因组学研究中的应用，浙江省科技厅优先主题重点国际科技合作研究重大项目，2009.1-2012.12，主持
+4.枇杷果实采后衰老与冷害过程乙烯信号转导元件基因表达调控，国家自然科学基金，2009.1-2011.12，主持
+5.枇杷果实采后品质劣变的调控技术，国家科技支撑计划子课题，2006.1-2010.12，主持
+6.采后枇杷果实木质化4个相关基因的协同表达与调控研究，国家自然科学基金，2007.1-2009.12，主持
+7.枇杷花、果主要生物活性组分研究与应用，浙江省科技厅国际合作重点项目，2006.1-2008.12，主持
+已发表论文(*为通讯作者)：
+1.LuoFL,FuYY,XiangY,HuGB,HuangXM,HuangGD,SunCD,LiX(李鲜)*,ChenKS.Identificationandquantificationofgallotanninsinmango(MangiferaindicaL.)kernelandpeelandtheirantiproliferativeactivities.JournalofFunctionalFoods,2014,8:282-291
+2.HaoYW,WangXY,LiX(李鲜),BassaC,MilaI,AudranC,MazaE,LiZG,BouzayenM,RestB,ZouineM.Genome-wideidentification,phylogeneticanalysis,expressionprofiling,andprotein&ndash;proteininteractionpropertiesofTOPLESSgenefamilymembersintomato.JournalofExperimentalBotany,2014,65(4):1013-1023.
+3.LvQ,SiMM,YanYY,LuoFL,HuGB,WuHS,SunCD,LiX(李鲜)*,ChenKS.Effectsofphenolic-richlitchi(LitchichinensisSonn.)pulpextractsonglucoseconsumptioninhumanHepG2cells.JournalofFunctionalFoods,2014,7:621-629
+4.&nbsp;SunCD,HuangHZ,XuCJ,LiX(李鲜)*,ChenKS.BiologicalactivitiesofextractsfromChinesebayberry(MyricarubraSieb.etZucc.):AReview.PlantFoodsforHumanNutrition.2013.68:97-106
+5.LuoFL,LvQ,ZhaoYQ,HuGB,HuangGD,ZhangJK,SunCD,LiX(李鲜)*.ChenKS.Characterization,purificationof1mangiferinfromChinesemango(MangiferaindicaL.)cultivarsanditsprotectiveeffectinhumanumbilicalveinendothelialcellsunderH2O2-inducedstress.InternationalJournalofMolecularSciences,2012,13(9):11260-11274
+6.ZhangJK,SunCD,YanYY,ChenQJ,LuoFL,ZhuXY,LiX(李鲜)*,ChenKS.PurificationofnaringinandneohesperidinfromHuyou(Citruschangshanensis)fruitandtheireffectsonglucoseconsumptioninhumanHepG2cells.FoodChemistry,2012,135(3):1471-1478
+7.SunCD,ZhangB,ZhangJK,XuCJ,WuYL,LiX(李鲜)*,ChenKS.Cyanidin-3-glucoside-richextractfromChinesebayberryfruitprotectspancreatic&beta;cellsandameliorateshyperglycemiainstreptozotocin-induceddiabeticmice.JournalofMedicinalFood.2012,15(3):288-298
+8.ZhangJK,ZhuXY,LuoFL,SunCD,HuangJZ,LiX(李鲜)*,ChenKS.SeparationandpurificationofneohesperidinfromthealbedoofCitrusreticulatacv.Suavissimabycombinationofmacroporousresinandhigh-speedcounter-currentchromatography.JournalofSeparationScience,2012,35(1):128-136
+9.SunCD,ZhengYX,ChenQJ,TangXL,JiangM,ZhangJK,LiX(李鲜)*,ChenKS.Purificationandanti-tumoractivityofcyanidin-3-O-glucosidefromChinesebayberryfruit.FoodChemistry,2012,131(4):1287-1294
+10.ZhouCH,LiX(李鲜)*,ZhangWS,SunCD,ChenKS.OleanolicandursolicacidinthefruitofEriobotryajaponicaLindl.JournalofMedicinalPlantsResearch,2011,5(9):1735-1740
+11.ZhouCH,SunCD,ChenKS,LiX(李鲜)*.Flavonoids,phenolics,andantioxidantcapacityintheflowerofEriobotryajaponicaLindl.InternationalJournalofMolecularSciences,2011,12(5):2935-2945
+12.JiangTM,WangP,YinXR,ZhangB,XuCJ,LiX(李鲜)*,ChenKS.Ethylenebiosynthesisandexpressionofrelatedgenesinloquatfruitatdifferentdevelopmentalandripeningstages.ScientiaHorticulturae,2011,130(2):452-458.
+13.LiX(李鲜),XuCJ,KorbanSS,ChenKS.Regulatorymechanismsoftexturalchangesinripeningfruits.CriticalReviewsinPlantSciences.2010,29(4):222-243
+14.LiX(李鲜),WenZM,BohnertHJ,SchulerMA,KushadMM.Myrosinaseinhorseradish(Armoraciarusticana)root:Isolationofafull-lengthcDNAanditsheterologousexpressioninSpodopterafrugiperdainsectcells.PlantScience,2007,172(6):1095-1102
+15.LiX(李鲜),KushadMM,Purificationandcharacterizationofmyrosinaseenzymefromhorseradish(Armoraciarusticana)root.PlantPhysiologyandBiochemistry,2005,43(6):503-511
+16.LiX(李鲜),KushadMM,Correlationofglucosinolatecontenttomyrosinaseactivityinhorseradish(Armoraciarusticana).JournalofAgriculturalandFoodChemistry,2004,52(23):6950-6955
+17.ZhouCH,ChenKS,SunCD,ChenQJ,ZhangWS,LiX*(李鲜).Determinationofoleanolicacid,ursolicacid,andamygdalinintheflowerofEriobotryajaponicaLindl.byHPLC.BiomedicalChromatography,2007,21(7):755-761
+18.FengC,ChenM,XuCJ,BaiL,YinXR,LiX(李鲜),AllanC,FergusonIB,ChenKS.TranscriptomicanalysisofChinesebayberry(Myricarubra)fruitdevelopmentandripeningusingRNA-Seq.BMCGenomics,2012,13:19
+19.SuMS,ChenKS*,YeZW,ZhangB,GuoJ,XuCJ,SunCD,ZhangJK,LiX(李鲜),WuAZ,XiWP.Physicalchangesandphysiologicalcharacteristicsofredandgreenpeelduringnectarine(cv.Hu018)maturation.JournaloftheScienceofFoodandAgriculture.2012,92(7):1448-1454.
+20.ZhouCH,LiX(李鲜),SunCD*,XuCJ,ChenKS.Effectsofdryingmethodsonthebioactivecomponentsinloquat(EriobotryajaponicaLindl.)flowers.JournalofMedicinalPlantsResearch,2011,5(14):3037-3041
+21.WangP,ZhangB,LiX(李鲜),XuCJ,YinXR,ShanLL,Ferguson,ChenKS.Ethylenesignaltransductionelementsinvolvedinchillinginjuryinnon-climactericloquatfruit.JournalofExperimentalBotany,2010,61(1):179-190.
+22.NiuSS,XuCJ,ZhangWS,ZhangB,LiX(李鲜),Lin-WangK,FergusonIB,AllanAC,ChenKS.CoordinatedregulationofanthocyaninbiosynthesisinChinesebayberry(Myricarubra)fruitbyaR2R3MYBtranscriptionfactor.Planta,2010,231(4):887-899
+23.JinWW,XuCJ,LiX(李鲜),ZhangB,WangP,AllanAC,ChenKS.ExpressionofROP/RACGTPasegenesinpostharvestloquatfruitinassociationwithsenescenceandcoldregulatedlignification.PostharvestBiologyandTechnology,2009,54(1):9-14
+24.ZhangB,YinXR,LiX(李鲜),YangSL,FergusonIB,ChenKS.Lipoxygenasegeneexpressioninripeningkiwifruitinrelationtoethyleneandaromaproduction.JournalofAgriculturalandFoodChemistry,2009,57(7):2875-2881
+25.ShanLL,LiX(李鲜),WangP,CaiC,ZhangB,SunCD,ZhangWS,XuCJ,FergusonIB,ChenKS.CharacterizationofcDNAsassociatedwithlignificationandtheirexpressionprofilesinloquatfruitwithdifferentligninaccumulation.Planta,2008,227:1243-1254
+26.ZhangWS,LiX(李鲜),ZhengJT,WangGY,SunCD,FergusonIB,ChenKS.BioactivecomponentsandantioxidantcapacityofChinesebayberry(MyricarubraSieb.andZucc.)fruitinrelationtofruitmaturityandpostharveststorage.EuropeanFoodResearchandTechnology,2008,227(4):1091-1097.
+27.YangSL,SunCD,WangP,ShanLL,CaiC,ZhangB,ZhangWS,LiX(李鲜),FergusonIB,ChenKS.Involvementofexpansingenesinpostharvestlignificationandsofteningof&lsquo;Luoyangqing'and&lsquo;Baisha'loquatfruitunderdifferentstorageconditions.PostharvestBiologyandTechnology,2008,49:46-53
+28.ZhangWS,LiX(李鲜),WangXX,WangGY,ZhengJT,AbeysingheDC,FergusonIB,ChenKS.EthanolvapourtreatmentalleviatespostharvestdecayandmaintainsfruitqualityinChinesebayberry.PostharvestBiologyandTechnology,2007,46(2):195-198.
+29.AbeysingheDC,LiX(李鲜),SunCD,ZhangWS,ZhouCH,ChenKS.Bioactivecompoundsandantioxidantcapacityindifferentedibletissuesofcitrusfruitoffourcultivars,FoodChemistry,2007,104(4):1338-1344
+30.ZhouCH,XuCJ,SunCD,LiX(李鲜),ChenKS.Carotenoidsinwhite-andred-fleshedloquatfruits.JournalofAgriculturalandFoodChemistry,2007,55(19):7822-7830
+31.YangSL,XuCJ,ZhangB,LiX(李鲜),ChenKS.InvolvementofbothsubgroupsAandBofexpansingenesinkiwifruitfruitripening.HortScience,2007,42(2):315-319
+32.SunCD,LiX,XuCJ,ZhangSL,ChenKS,ChenQJ,LiuCR.Determinationof9(10H)‐acridonebyHPLCwithfluorescencedetection.JournalofLiquidChromatography&amp;RelatedTechnologies.2007,30(2):245-254
+33.CaiC,ChenKS*,XuWP,ZhangWS,LiX(李鲜),FergusonIB.Effectof1-MCPonpostharvestqualityofloquatfruit.PostharvestBiologyandTechnology,2006,40:155-162
+34.CaiC,XuCJ,LiX(李鲜),FergusonIB,ChenKS.Accumulationoflignininrelationtochangeinactivitiesoflignificationenzymesinloquatfruitfleshafterharvest.PostharvestBiologyandTechnology,2006,40:163-169
+35.CaiC,XuCJ,ShanLL,LiX(李鲜),ZhouCH,ZhangWS,FergusonIB,ChenKS.Lowtemperatureconditioningreducespostharvestchillinginjuryinloquatfruit.PostharvestBiologyandTechnology,2006,41:252-259
+36.CaiC,LiX(李鲜),ChenKS.Acetylsalicylicacidalleviateschillinginjurypostharvestloquat(EriobotryajaponicaLindl.)fruit.EuropeanFoodResearchandTechnology,2006,223:533-539
+37.蒋天梅，殷学仁，孙崇德，徐昌杰，李鲜*，陈昆松。乙烯调控非跃变型果实成熟衰老研究进展。园艺学报，2011，38(2):371-378
+38.宋肖琴，张波，徐昌杰，张九凯，李鲜*，陈昆松。采后枇杷果实的质构变化研究。果树学报，2010,27(3):379-384
+39.沈燕琳，董文轩，李鲜，孙崇德，陈昆松。山楂酚类物质及其生物活性研究进展。园艺学报，2013，40(9):1691-1700
+40.孙崇德,徐昌杰,李鲜*,江文彬,陈昆松。葡萄果实生物活性物质的检测与抗氧化活性评价.果树学报,2008,25(5):635-639
+41.周春华;孙崇德;李鲜*。富含绿原酸的植物中类黄酮测定方法探讨。植物生理学通讯,2007,43(5):902-904
+42.李鲜,朱本忠,罗云波。番茄果实中NEVER-RIPE基因的克隆及其反义表达载体的构建.农业生物技术学报,2001,9(7):371-373
+43.陈秋燕,周京一,张波*,傅秀敏,宋肖琴,李鲜,徐昌杰,陈昆松。白肉枇杷与红肉枇杷成熟果实可溶性糖组成差异及其与蔗糖代谢相关酶活性的关系.果树学报,2010,27(4):616-621
+44.金微微,徐昌杰,李鲜,王平,张波,孙崇德,陈昆松。采后玉露桃果实冷害发生与ROP基因的表达调控.果树学报,2009,26(5):608-613
+45.殷学仁,张波,李鲜,陈昆松。乙烯信号转导与果实成熟衰老研究进展.园艺学报,2009,36(1):133-140
+46.张波,李鲜,陈昆松。基于EST库的猕猴桃脂氧合酶基因家族成员克隆.园艺学报,2008,35(3):337-342
+47.张波,李鲜,陈昆松*。脂氧合酶及其基因家族成员与果实成熟衰老.园艺学报,2007,34(1):245-250
+48.杨绍兰,陈妙金,张波,李鲜,徐昌杰,陈昆松。乙酰水杨酸调控猕猴桃果实后熟软化进程中的Ad-EXP1基因表达.果树学报,2007,24(6):778-782
+49.李鲜,陈昆松,张明方,KushadM.Mosbah。十字花科植物中硫代葡萄糖苷的研究进展.园艺学报,2006,33(3):675-679
+50.蔡冲,龚明金,李鲜,吕均良,陈昆松。枇杷果实采后质地的变化与调控.园艺学报,2006,33(4):731-736
+51.魏绍冲,李鲜,陈昆松,徐志豪,罗云波。1-MCP处理对不同成熟度番茄果实Le-ETR4表达的影响.园艺学报,2005,32(4):620-623
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+承担的教学工作：
+参与或主讲《园艺产品品质与营养健康》、《园艺植物分子生理学》、《科技论文写作》、《园艺产品贮运学》》、《园艺植物功能基因组学》等课程。
+&nbsp;
+&nbsp;
+			
+				
+			工作研究领域
+			
+			1.果实采后品质变化的生物学机理
+2.果实次生代谢物质与人类健康
+
+			
+				
+			联系方式
+			
+						电子信箱：xianli@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：李鲜
+		单位：农业与生物技术学院园艺系
+		职称：教授
+		我的主页共被访问了4808次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

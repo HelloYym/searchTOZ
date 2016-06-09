@@ -1,0 +1,1 @@
+{'name': u'\uff1a\u97e9\u5175\u7537', 'title': u'\uff1a\u526f\u6559\u6388\uff08\u81ea\u7136\u79d1\u5b66),\u7855\u5bfc', 'photo': u'http://mypage.zju.edu.cn/teacherimage/0009112.jpg', 'pos': './mypage.zju.edu.cn/weblog|proteomics', 'intro': [], 'department': u'\uff1a\u6d77\u6d0b\u79d1\u5b66\u4e0e\u5de5\u7a0b\u5b66\u7cfb', 'homepage': 'http://mypage.zju.edu.cn/weblog/proteomics'}

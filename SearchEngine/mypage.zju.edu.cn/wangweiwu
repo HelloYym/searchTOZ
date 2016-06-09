@@ -1,0 +1,207 @@
+
+
+
+
+
+规划是预测未来的学科-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0098287";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	规划是预测未来的学科
+--浙江大学城市规划人王伟武
+
+	永久链接:http://mypage.zju.edu.cn/wangweiwu&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;王伟武，浙江永康人，博士，浙江大学城市规划工程与信息技术研究所副所长兼支部书记，副教授。以第一作者在国际期刊、国内一级、国内核心等杂志上发表近20余篇专业论文，获得实用专利一项，软件著作权2项，获发明专利4项，并编写了环境遥感教材1部。完成国家863计划项目1项，参与国家基金项目1项，主持省部级基金项目2项，参与省厅级项目多项。
+			
+				
+			工作研究领域
+			
+			主要研究领域为低碳城市与生态住区规划分析、城市生态环境评价及规划、城市综合信息系统（如城市热岛缓减分析与管理系统）、高分辨率高光谱城市遥感技术、3DGIS城市高效空间建模技术、GIS与遥感等新技术方法在城市与区域分析中的应用等方面。项目承接领域为区域与城乡发展战略规划、城乡概念规划、城乡生态与环境规划、城镇总体规划、控制性详细规划、修建性详细规划、风景园林规划、社区规划与设计、城市交通、环卫、人防、公共设施等专项规划、建设项目环境影响评价等。
+			
+				
+			联系方式
+			
+			电话：057188208535			电子信箱：weiwuwang@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：王伟武
+		单位：建筑工程学院区域与城市规划系
+		职称：副教授
+		我的主页共被访问了2210次
+标签：指点大地山河湖海，构筑中国美丽城乡	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	王伟武单位主页
+王伟武主页
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

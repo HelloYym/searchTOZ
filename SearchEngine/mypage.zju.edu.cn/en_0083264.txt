@@ -1,0 +1,1 @@
+{'name': u':Jin xiaoming', 'title': u':Assistant professor', 'photo': u'http://mypage.zju.edu.cn/attachments/64/1026112320-947302712.jpg', 'pos': './mypage.zju.edu.cn/en|0083264', 'intro': [u'\n\t\t                \t\t\t\n\t'], 'department': u':Institute of Chinese Art Studies,ZJU', 'homepage': 'http://mypage.zju.edu.cn/en/0083264'}

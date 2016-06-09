@@ -1,0 +1,216 @@
+
+
+
+
+
+我爱呼吸-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0005170";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	我爱呼吸
+Flowerinsummer
+
+	永久链接:http://mypage.zju.edu.cn/tanghuifang&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			1995年毕业于湖北省十堰市郧阳医学院(原同济医科大学郧阳分院)临床医学系本科，毕业后留校药理教研室任教。1998年考入华中科技大学同济医学院（原同济医科大学）临床药理教研室攻读药理学硕士，2001年毕业并获硕士学位。同年考入浙江大学医学院药理教研室攻读药理学博士。2005年毕业并获博士学位，留校药理教研室做师资博士后，从事药理学科研和教学工作。2007年晋升副教授。2008年获硕士生导师资格。2009年12月--2011年6月,哈佛大学医学院访问学者,从事肺损伤机制研究。2012年获博士生导师招生资格。
+&nbsp;
+			
+				
+			工作研究领域
+			
+			主要从事呼吸药理学、抗炎免疫药理学和临床药理学研究。
+			
+				
+			联系方式
+			
+						电子信箱：tanghuifang@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：汤慧芳
+		单位：基础医学系
+		职称：副教授
+		我的主页共被访问了14415次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+	研究成果
+	奖励荣誉
+	招生招聘
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	医路同行
+飘渺水云间
+BeavoLab
+CyclicNucleotidePhosphodiesterases
+HarvardMedicalSchool
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

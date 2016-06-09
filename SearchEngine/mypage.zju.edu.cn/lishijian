@@ -1,0 +1,217 @@
+
+
+
+
+
+ShijianLi-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0006292";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	ShijianLi
+ShijianLi'sHomepage
+
+	永久链接:http://mypage.zju.edu.cn/lishijian&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+&nbsp;
+&nbsp;
+
+李石坚：男，1979年生，浙江大学计算机学院副教授，CCF普适计算专委会委员，IEEE和ACM会员。2006年9月于浙江大学获得工学博士学位，2008年11月自浙江大学控制科学与工程博士后流动站出站，2010年于法国巴黎国立电信研究院访学。研究兴趣集中于普适计算、移动计算、智能汽车等领域。近年来主持了国家科技支撑计划子课题、863子课题、核高基子课题、国家自然科学基金、中国博士后科学基金等多个科研课题，并作为骨干参与多项国家级和省级课题研发（包括973课题、863课题、国家科技支撑计划、国防预研基金等）。已在领域内多个重要期刊和会议上发表（录用）了70余篇学术论文，是《InternationalJournalofDistributedSensorNetworks》期刊编委，以及《WirelessCommunicationsandMobileComputing》、Ubicomp、PAKDD、JRS、GrC、MSN、UIC、PCC等十余个期刊和国际会议的审稿人或PC委员。
+
+			
+				
+			工作研究领域
+			
+			普适计算、移动互联网、智能汽车、海量数据分析
+			
+				
+			联系方式
+			
+						电子信箱：shijianli@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：李石坚
+		单位：浙江大学计算机系统工程研究所
+		职称：副教授
+		我的主页共被访问了25607次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+	实验室介绍
+	教学工作
+	专利成果
+	学术兼职
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	CCNT
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,220 @@
+
+
+
+
+
+代建华-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0003347";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	代建华
+浙江大学计算机学院
+
+	永久链接:http://mypage.zju.edu.cn/david&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			浙江大学博士生导师。中国人工智能学会粗糙集与软计算专业委员会常务委员，国家自然科学基金评议专家。多种国际期刊以及中国科学、计算机学报等国内学术期刊审稿人。曾任中国第九届粗糙集与软计算学术会议程序委员主席，IEEEGrC,RSKT,中国粗糙集与软计算学术会议、中国数据挖掘学术会议程序委员会委员。近年主持或参与国家自然科学基金项目、国家863项目等。
+
+
+
+
+
+
+
+
+
+&nbsp;&nbsp;欢迎新研究生同学加盟&nbsp;
+&nbsp;
+
+&nbsp;
+			
+				
+			工作研究领域
+			
+			人工智能、数据挖掘、机器学习、粗糙集理论、模糊集、演化计算、生物信息处理、认知科学等
+			
+				
+			联系方式
+			
+						电子信箱：david.joshua@qq.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：代建华
+		单位：计算机科学与技术学院
+		职称：副教授
+		我的主页共被访问了34604次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		部分论文
+	学生
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

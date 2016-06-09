@@ -1,0 +1,377 @@
+
+
+
+
+
+无限空间-博客
+
+
+
+
+
+
+varctxPath="http://mypage.zju.edu.cn";
+varb_handle="luowei1428";
+varcfg_weblog="http://mypage.zju.edu.cn/weblog";
+vard=newDate()
+varselyear=d.getFullYear();
+varselmonth=d.getMonth()+1;
+
+
+
+
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	color:#111;
+	margin-right:10px;	
+}
+#mainlinkullia,.tagsa:hover{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+.tagsa{
+	margin-right:10px;
+}
+img{
+	border:none;
+}
+
+
+
+
+
+
+
+
+
+
+	
+		首页
+		帮助
+		登录
+	
+
+
+
+
+
+
+	无限空间
+罗炜的主页
+
+	永久链接:http://mypage.zju.edu.cn/weblog/luowei1428&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+
+
+	中文主页
+英文主页
+			博客
+
+
+
+
+
+
+
+
+
+
+			
+				
+
+	
+[1/1]
+首页	上一页下一页末页
+
+	
+
+浏览模式:普通|列表
+
+
+
+
+
+
+		2010常微答疑
+
+作者:罗炜日期:2010-03-15Monday
+
+
+
+课上的同学如果有常微分方程有关问题，可以回复来提问，注意写自己姓名。
+查看更多...
+
+Tags:
+faq
+	
+
+
+
+分类:教学工作|			固定链接|评论总数0|
+			阅读次数83
+
+
+
+
+
+
+
+		2010常微的十个关键技术
+
+作者:罗炜日期:2010-03-15Monday
+
+
+
+学生们应该努力练习熟练掌握下面的10个技巧，这些是学完本课程以后应该获得的。1.为一个简单系统建立模型得到常微分方程，用向量场和等斜线近似描绘解，用欧拉方法近似求解。2.用积分因子法或者参数变异法求解1阶线性常微分方程。3.计算复数和指数函数。4.求...
+查看更多...
+
+
+
+
+
+分类:教学工作|			固定链接|评论总数0|
+			阅读次数97
+
+
+
+
+
+
+
+		2010常微作业
+
+作者:罗炜日期:2010-03-15Monday
+
+
+
+习题10.质量为m的飞机以推力T直线飞行，空气阻力和速度平方成正比，根据牛顿第二定律得到方程mdv/dt=T-bv^2。设T/m=9,b/m=1。(a)求一般解。(b)求v(0)=0特解。(c)有没有极限速度？有的话求出来。(d)当v<0时为什么方程物理上是不切实际的？1.用方向场研究y'...
+查看更多...
+
+
+
+
+
+分类:教学工作|			固定链接|评论总数0|
+			阅读次数64
+
+
+
+
+
+
+
+		2010常微教学日历
+
+作者:罗炜日期:2010-03-15Monday
+
+
+
+教学日历1.简单模型，可分方程，自然增长和衰减，方向场，解的存在和唯一性，积分曲线，等斜线，数值方法。2.线性方程模型，数值方法，线性方程的解，常数变异法，复数和复指数函数，单位根，正弦函数，第一次作业。3.线性系统对指数函数和正弦函数的响应，相迟...
+查看更多...
+
+Tags:
+数学常微分方程
+	
+
+
+
+分类:教学工作|			固定链接|评论总数0|
+			阅读次数67
+
+
+			
+			
+		
+		
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+	
+	
+		姓名：罗炜
+		单位：数学系
+		职称：讲师
+		我共发表了4篇文章
+		共收到0条评论
+		我的主页共被访问了5484次
+	
+	
+	
+	
+
+
+我的文章分类
+
+	教学工作
+		
+
+
+
+
+日历
+
+
+
+>>
+年月
+
+
+
+日
+一
+二
+三
+四
+五
+六
+
+
+
+
+
+
+
+
+
+
+
+我的最新文章
+
+
+		2010常微答疑
+2010常微的十个关键技术
+2010常微作业
+2010常微教学日历
+	
+
+
+
+
+我的热点文章
+
+
+				2010常微的十个关键技术
+		2010常微答疑
+		2010常微教学日历
+		2010常微作业
+
+	
+
+
+我收到的评论
+
+	
+	
+
+
+我的文章汇总
+
+		2010年3月[4]
+		
+	
+
+
+链接
+
+
+
+
+
+
+检索
+
+
+
+
+-所有文章-
+教学工作
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+
+
+varflag=newArray();
+flag[0]='2010/03/15';
+
+
+varcale=newCalendar("idCalendar",{
+SelectDay:newDate(),
+onSelectDay:function(o),
+onToday:function(o),
+onFinish:function(){
+$("idCalendarYear").innerHTML=this.Year;$("idCalendarMonth").innerHTML=this.Month;
+for(vari=0,len=flag.length;i<len;i++){
+//alert(flag[i]);
+	vard=newDate(flag[i]);
+	if(this.Year==d.getYear()){
+		if(this.Month==d.getMonth()+1)
+		{
+this.Days[d.getDate()].innerHTML=""+d.getDate()+"";
+			
+		}
+
+	}
+}
+}
+});
+$("idCalendarPre").onclick=function()
+$("idCalendarNext").onclick=function()
+
+
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));

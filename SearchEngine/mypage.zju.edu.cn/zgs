@@ -1,0 +1,223 @@
+
+
+
+
+
+邹广胜的主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0002300";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	邹广胜的主页
+我的思考
+
+	永久链接:http://mypage.zju.edu.cn/zgs&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+
+1967年生于江苏丰县，现浙江大学中文系教授，博士生导师。
+1987年毕业于洛阳工学院社会科学部思想政治教育专业。
+1995年获四川大学中文系世界文学硕士学位，方向为当代西方文学及美学理论。
+2000年获南京大学中文系文艺学博士学位，方向为文学及美学的基础理论。
+2000－2002年在浙江大学中文系博士后流动站从事中西文学及美学理论的比较研究。
+2006－2008在美国哈佛大学及加利福尼亚大学柏克莱分校访学。
+2010.12-2011.3在英国剑桥大学访学
+2012.1-2012.6在德国海德堡大学访学
+			
+				
+			工作研究领域
+			
+			主要研究领域
+
+1、比较诗学
+2、印象派研究
+3，书法美学
+
+
+			
+				
+			联系方式
+			
+			电话：15858133989			电子信箱：zouguangsheng@126.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：邹广胜
+		单位：人文学院中国语言文学系
+		职称：教授博士生导师
+		我的主页共被访问了11571次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		我的著作
+	我的课题
+	我的文章
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,213 @@
+
+
+
+
+
+有趣的空气流动现象和工程应用-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0012153";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	有趣的空气流动现象和工程应用
+欢迎访问黎鑫课题组
+
+	永久链接:http://mypage.zju.edu.cn/vortexdoctor&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			黎鑫（博士生导师）
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2003年本科毕业于浙江大学机械工程机电一体方向，2004年留学日本东京工业大学并于2009年获得博士学位，得到日本文部科学省的国费奖学金和学习奖励以及小林国际奖学财团的奖学资助。此后留任东京工业大学精密工学研究所，先后历任博士后研究员、助理教授和副教授研究员。期间还兼任日本佳能株式会社的自动控制理论的讲师和日本流体传动学会的气动技术理论的讲师。于2013年6月回到浙江大学机械电子控制工程研究所任职特聘研究员至今。
+&nbsp;&nbsp;&nbsp;于2009年取得日本计测与自动控制控制学会认定的&ldquo;计测与控制工程师资格&rdquo;，并于同年获得了日本流体传动学会的SMC论文奖的表彰。2011年在流体传动及机电技术的国际会议上获得了最优秀会议论文奖。2014年入选浙江省&ldquo;千人计划&rdquo;（创新人才长期项目）。
+&nbsp;&nbsp;&nbsp;&nbsp;目前在研的课题有:&quot;非接触式吸附装置的研发&quot;、&quot;伯努利吸附器的特性解析和优化设计&quot;、&ldquo;大型攀爬机器人的研发&rdquo;、&ldquo;新型可变流阻的研制和解析&rdquo;，等。具体的研究课题内容请点击查看右侧栏目中的&ldquo;研究课题/Researches&rdquo;。
+
+
+
+------------------写给正在选导师的学生的几句话------------------
+&nbsp;&nbsp;&nbsp;本课题组在理论的基础上以实验研究为主，我们通过大量的实验来探索流动现象的本质，并基于此来开发新的工程应用。我们欢迎勤奋诚恳、动手制作意愿强烈、有好奇心的同学加入，课题组会为你提供一个相对宽松和自由的研究环境。如果你行事倦怠、实验操作意愿薄弱、甚至对机械技术缺乏基本的兴趣，那么，错误地进入这个课题组将会让你我度过一段不开心的时光，既然如此，不如就此别过，尽早绕行吧。
+			
+				
+			联系方式
+			
+						电子信箱：vortexdoctor(at)zju.edu.cn；课题组QQ群：320620108；浙江大学玉泉校区机电所老楼403；电话：0571-87951271转6403			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：黎鑫
+		单位：机械工程学系
+		职称：正高，博导
+		我的主页共被访问了9488次
+标签：大型液晶玻璃基板RoboticsMechatronicsFlotationGripperNon-contact非接触搬运负压吸附半导体制造机电技术壁面攀爬机器人气动技术Pneumatic气旋流非接触搬运airflow悬浮传送	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		研究课题/Researches
+	研究业绩/Achievement
+	专利/Patents
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	中国机械工程学会
+日本流体传动学会
+流体动力与机电系统国家重点实验室
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

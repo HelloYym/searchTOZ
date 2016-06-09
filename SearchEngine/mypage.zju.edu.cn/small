@@ -1,0 +1,208 @@
+
+
+
+
+
+Symbol,MindandLearningLab-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0001274";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	Symbol,MindandLearningLab
+
+
+	永久链接:http://mypage.zju.edu.cn/small&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			汪运起，博士，副教授。2013年获浙江大学基础心理学专业博士学位，2010年至2011年在CarnegieMellonUniversity心理系访学。
+			
+				
+			工作研究领域
+			
+			能够习得并使用语言和认知能力发达是人类区别于其他动物的两项基本特征。因此，研究语言和认知发展对认识人类自身具有重要意义。围绕这一主题，我目前的研究兴趣主要集中在以下三个相互关联的方面：
+
+1.认知能力（如，数量表征）的发展及其机制；
+2.语言的习得和发展及其机制；
+3.语言与认知之间的关系及其机制。
+我主要从多学科视角、采用多种实验技术手段对上述问题展开研究。也欢迎具有浓厚科研兴趣的同学（专业背景不限）加入，一起探讨这些问题或开辟新的研究领域。上述几方面的研究已经得到教育部人文社会科学研究基金、浙江省自然科学基金、浙江省哲学社会科学基金、浙江省教育厅科研基金、中央高校基本科研业务费专项资金等的支持，在此表示感谢。
+			
+				
+			联系方式
+			
+						电子信箱：longluck@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：汪运起
+		单位：
+		职称：副教授
+		我的主页共被访问了1137次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		发表论文
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

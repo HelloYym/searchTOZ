@@ -1,0 +1,201 @@
+
+
+
+
+
+JunHan-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0011153";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	JunHan
+WelcometoJunHan'shomepage
+
+	永久链接:http://mypage.zju.edu.cn/jhan&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			浙江大学教授、博士生导师，国家&ldquo;千人计划&rdquo;特聘教授。海洋工程与技术所所长，海洋信息科学与技术研究所（筹）所长。研究方向水下信息工程，主要包括：水下信息探测、传送、处理与三维可视化及水产声学。
+1989年获日本文部省奖学金赴东京海洋大学留学，1995年获得博士学位后在日企从事海洋探测系统的研发。2005年被东京大学生产技术所聘为研究员，2009年晋升为大学院博士生导师。2011年入选国家&ldquo;千人计划&rdquo;，2012年加盟浙江大学。
+攻读博士学位期间研发的新型超声波鱼类跟踪系统被日本第34次南极观测队带至昭和基地，用于跟踪南极鱼类等海洋生物。在日企海洋研发部门工作期间，先后研发了高性能遥控海洋探测艇操纵控制系统近十个海洋探测观测系统。在东京大学生产技术研究所主持日本国文部科学省研究项目近距离&ldquo;高速水下超声波网络&rdquo;与&ldquo;基于声摄像的海洋牧场资源量的定量计测&rdquo;，参与&ldquo;水下机器人自动海底地壳变动观测系统&rdquo;等文科省重大科研项目。主持上海市重点研究项目2项，参与国家863计划项目1项。研制高效率大功率水下机器人非接触水中充电系统，在日本首次实现了水下机器人连续3天反复航行和自动充电。研制新型高性能数字三维鱼探仪，获日本水产学会论文奖。
+多次参于基于自律型水下机器人探测印度洋、太平洋海岭等大洋海底调查活动。申请专利4项，多次担任OCEANS、Techno-Ocean、UT等国际海洋学术会议分会场主席，先后在国际国内学术期刊和会议上以发表论文50多篇。获上海浦江人才计划、浙江省&ldquo;千人计划&rdquo;资助。
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+			
+					
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：韩军
+		单位：海洋科学与工程学系
+		职称：教授
+		我的主页共被访问了3379次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

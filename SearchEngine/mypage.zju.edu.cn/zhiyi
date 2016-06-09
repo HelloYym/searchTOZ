@@ -1,0 +1,225 @@
+
+
+
+
+
+叶志毅主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0082125";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	叶志毅主页
+浙大蚕桑人
+
+	永久链接:http://mypage.zju.edu.cn/zhiyi&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;一、简况
+&nbsp;&nbsp;&nbsp;姓名：叶志毅；性别：男；出生年月：1957年4月；学历：研究生；职称：教授；工作单位：浙江大学。
+二、学习经历：
+1972年2月至1973年10月，温岭城北中学高中学习。
+1978年2月至1982年1月，原浙江农业大学蚕桑系本科学习，获学士学位
+1992年10月至1998年4月，日本京都工艺纤维大学应用生物学科学习，获硕士和博士学位
+三、工作简历：
+1973年10月至1976年3月浙江温州东风矿山机电厂工人。
+1976年3月至1978年2月浙江温岭市温中电器厂工人。
+1982年2月至1992年10月，浙江农业大学蚕学系助教、讲师。
+1998年9月至现在，浙江大学动物科学学院副教授、教授。
+四、主要学术成就、创新成果及其学术价值
+主持育成桑树新品种盛东1号，2005年获省科技进步三等奖，推广面积已达50万亩；&ldquo;桑树专用农药产品的开发与安全应用技术研究&rdquo;，2006年获省农业丰收一等奖；&ldquo;桑树病虫害灾变机制与环境控制技术研究&rdquo;，2007年获省科技进步三等奖。主持国家自然科学基金、省自然科学基金、省科技项目等多项课题，发表国内外科技论文50多篇，出版著作教材6本。
+			
+				
+			工作研究领域
+			
+			（1）桑树栽培及育种
+（2）桑树病虫害防治
+（3）分子生物学
+
+			
+				
+			联系方式
+			
+						电子信箱：zhyye@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：叶志毅
+		单位：动物科学学院特种经济动物科学系
+		职称：教授（应用推广）
+		我的主页共被访问了9086次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	研究成果
+	专利成果
+	奖励荣誉
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,246 @@
+
+
+
+
+
+张子张个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0003207";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	张子张个人主页
+理学院化学系教授
+
+	永久链接:http://mypage.zju.edu.cn/zhangzizhang&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			Formerly:Xiaoming(Michael)Zhang
+最后学历及毕业学校：理学博士,马赛二大（现地中海大学,法国马赛）
+麦吉尔(McGill)大学博士后(加拿大蒙特利尔)
+Maxygen等生物科技公司研究员（美国加州）
+&nbsp;
+学会会员及学术兼职：
+中国化学会会员；中英化学联合会会员；美国化学会会员
+国际纯粹与应用化学联合会（IUPAC）会员；http://www.iupac.org/web/per/zhang_zz
+国际纯粹与应用化学联合会有机与生物分子化学委员会&ldquo;基因组化学&mdash;为生命科学设计的化学&rdquo;项目主席；
+http://www.iupac.org/web/ins/2009-021-3-300
+荣誉编委：ReportsinOrganicChemistry，Dovepress，Auckland,NewZealand
+特邀编辑GuestEditor，CurrentOrganicChemistry(BenthamSciencePublishers)&nbsp;http://www.bentham.org/coc/CurrentIssue.htm
+评审情况：
+国家自然科学基金评审专家；教育部新教师基金评审专家；教育部博士点基金评审专家
+			
+				
+			工作研究领域
+			
+			张子张博士的主要研究兴趣在于生物大分子与化学小分子之间相互作用的机制,研究分以下三个方面:
+
+基因组化学，生物转化与催化，不对称合成
+
+基因组化学(genochemistry）
+
+针对基因组时代生命科学与化学科学研究信息与数据的海量涌现以及由此产生的新的挑战，张子张博士提出了“基因组化学”的概念并致力于该领域理论体系与方法学的探讨和研究，试图在更加基础的基因组水平研究物种的基因型及化学表现型之间的关系，期望这种研究能对未来生命科学研究，医药研究，疾病诊断及治疗等提供更多的科学依据，方法与手段。
+
+生物催化与转化(Biocatalysisandbiotransformation)
+张子张博士长期致力于生物催化与转化中理论与方法学的研究。比较重要的工作有：
+(1)用同位素示踪法研究了黑曲霉中单加氧酶(Monooxygenase)催化的非活化双键的不对称双羟基化反应机理并发现了其中环氧化物水解酶(Epoxidehydrolase)的存在及其立体选择性(JOC,1991),该工作经第三方(H.L.Holland)实验验证被收入S.MRoberts编的专著中,同系列文章为多部专著（如：Patel等的专著)整体选用，据报道，该项工作是后来成为生物催化领域热点的环氧化物水解酶研究的开端；(2)揭示了Chromobacteriumviscosum脂肪酶催化的具非线性光学性能的单体的依序动力学解析中的对映体选择性、区域选择性、和化学选择性的定量关系(JOC,1999)，在此工作基础上，产生了一系列美国专利(1999)；(3)用对映体选择性清除战略(enantioselectivescavenging)发现了牧草红酵母中L-氨基酸氧化酶系(TL,2008)，及杭州土样中分离的气单胞细菌中对映体选择性互补的D-氨基酸氧化酶系(BMCL,2009)，二项发现形成了实用性很强的的制备高对映体纯的L-或D-氨基酸衍生物的生物催化制备方法，并铺平了继续发现之路。
+
+不对称合成(Asymmetricsynthesis)
+张子张博士致力于生物催化在不对称合成中的应用研究。以生物催化方法为核心，设计、合成理论上有挑战意义、实际上有经济价值的天然物质、特殊材料、生物活性物质、医药前体、中间体等。
+
+张子张博士疫情期间在北京参与了SARS病毒的研究（GPB2003）。
+
+			
+				
+			联系方式
+			
+			电话：0571-87953086(办公室）；13858196508（手机）			电子信箱：zhangzz@zju.edu.cn；zhangzizhang@gmail.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：张子张
+		单位：化学系
+		职称：教授
+		我的主页共被访问了33742次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	学术交流（讲座报告）
+	专利成果
+	社论
+	媒体消息
+	国际项目
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	IUPAC
+2011化学年
+中国化学会
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

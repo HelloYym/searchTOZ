@@ -1,0 +1,213 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0089059";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0089059&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			应义斌，博士、教授、博士生导师，男，汉族，1964年4月出生，浙江宁海人，中共党员。现任浙江大学生物系统工程与食品科学学院常务副院长和浙江大学现代农业装备与自动化研究所所长，是浙江省重点学科--农业机械化工程学科和浙江大学&quot;985工程&quot;重点建设学科--生物系统工程学科的负责人。曾先后在美国UniversityofArkansas，UniversityofMaryland和美国农业部InstrumentationandSensingLaboratory担任VisitingProfessor或VisitingScientist。1984年毕业于江苏大学，获工学学士学位，留校任教两年。1989年在浙江农业大学农业工程学院获硕士学位后留校任教，1999年获工学博士学位，导师为蒋亦元院士。1991年3月晋升为讲师，先后两次破格分别被晋升为副教授和教授，并增列为博士生导师。曾先后担任教研室主任、所长、副院长、院长和常务副院长等职务。
+
+主要从事生物图像和生物光电工程技术应用、基于计算机视觉、红外成像和红外光谱分析的生物物料品质无损检测技术、农产品品质实时智能化检测和分级机器人技术、生物生产机器人、农产品/食品安全检测生物传感器、农产品/食品的质量与安全溯源技术和装备、车辆的计算机视觉自动导航技术、数字设施农业技术和设施农业精准作业装备等方面的科研和教学工作，先后为国内外研究生和本科生开设了15门课程（其中四门用英语授课），指导博士研究生17名、硕士生18名、日本硕士进修生1人。1990年以来共承担国家高技术（&ldquo;863&rdquo;计划）项目和国家自然科学基金项目等48项，目前主持承担国家和省部级项目19项。获得授权国家发明专利12项、授权国家实用新型专利17项和授权软件登记4项，还有13项国家发明专利正在等待批准，获国家级奖1项，省部级奖6项，在国内外学术刊物上发表论文二百八十余篇，被SCI、EI、ISTP收录110篇（共176篇次，仅统计了含EIControlledTerms的EICompendex收录论文），其中被SCI收录17篇，被EI收录86篇，ISTP收录7篇，出版著作和译著各1部。目前担任的主要学术兼职有中国农业工程学会常务理事、中国农业机械学会常务理事、中国农业工程学会青年科技工作委员会主任、浙江省农业工程学会副理事长兼学术委员会主任、中国农业工程学会国际交流工作委员会副主任、中国农业工程学会教育工作委员会副主任等，是国际农业工程学科最权威期刊《TransactionsoftheASABE》AssociateEditor、《SensingandInstrumentationforFoodQualityandSafety》国际编委、《JournalonPostharvestTechnologyandInnovation》国际编委、《光谱学与光谱分析》编委、《农业工程学报》编委和《浙江农业学报》编委，并是TransactionsoftheASABE、ComputersandElectronicsinAgriculture、JournalofFoodEngineering、AustralianJournalofAgriculturalResearch、InternationalJournalofFoodScienceandTechnology、Journalof&nbsp;AgriculturalandFoodChemistry、Robotica、AnalyticaChimicaActa等国际杂志的审稿人。
+
+曾先后获中国农业工程学会首届科技发展贡献奖、中国农业工程学会第三届青年科技奖、教育部霍英东教育基金会高等学校青年教师奖、高伟梁基金青年优秀教学奖、浙江省农业科技先进工作者、首届浙江大学研究生&ldquo;良师益友&rdquo;和浙江省高校优秀青年教师奖，是浙江省中青年学科带头人，并入选浙江省&quot;跨世纪151人才工程&quot;的第一层次人选、浙江省&ldquo;新世纪151人才工程&rdquo;第一批重点资助人员、2004年教育部&ldquo;新世纪优秀人才支持计划&rdquo;和首批新世纪百千万人才工程国家级人选。
+
+			
+				
+			工作研究领域
+			
+			主要从事生物图像和生物光电工程技术应用、基于计算机视觉、红外成像和红外光谱分析的生物物料品质无损检测技术、农产品品质实时智能化检测和分级机器人技术、生物生产机器人、农产品/食品安全检测生物传感器、农产品/食品的质量与安全溯源技术和装备、车辆的计算机视觉自动导航技术、数字设施农业技术和设施农业精准作业装备等方面的科研和教学工作
+			
+				
+			联系方式
+			
+			电话：86971885			电子信箱：ybying@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：应义斌
+		单位：生物系统工程与食品科学学院生物系统工程系
+		职称：教授
+		我的主页共被访问了22043次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	研究成果
+	专利成果
+	奖励荣誉
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

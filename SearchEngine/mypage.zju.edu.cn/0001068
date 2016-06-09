@@ -1,0 +1,227 @@
+
+
+
+
+
+基本信息-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0001068";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	基本信息
+
+
+	永久链接:http://mypage.zju.edu.cn/0001068&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			动物科学学院教授，博士生导师，研究畜禽生殖生理与繁殖生物技术。
+教育经历：
+1982年9月&mdash;1986年7月北京农业大学生物学院本科生，获农学学士学位
+1986年9月&mdash;1991年7月北京农业大学生物学院研究生，获理学博士学位（硕博连读）
+
+工作经历：
+1991年7月&mdash;1993年12月中国农业大学生物学院讲师
+1990年3月&mdash;1992年3月中国科学院动物研究所访问学者
+1994年1月&mdash;1999年12月中国农业大学生物学院副教授
+1995年4月&mdash;1997年4月日本名古屋大学农学部博士后,日本学术振兴会（JSPS）特别研究员
+2000年1月&mdash;2002年4月中国农业大学生物学院教授，2000年5月，博士生导师
+2002年5月&mdash;浙江大学动物科学学院教授，博士生导师
+主要学术兼职：
+中国畜牧兽医学会动物生理生化分会副理事长
+中国畜牧兽医学会动物解剖学与组织胚胎学分会常务理事
+中国动物学会生殖生物学分会理事&nbsp;
+			
+				
+			工作研究领域
+			
+			研究重点：
+1.生殖细胞发育调控
+2.卵泡发育和闭锁调控
+3.内分泌干扰物生殖毒理
+			
+				
+			联系方式
+			
+			电话：0571-88982976			电子信箱：cqzhang@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：张才乔
+		单位：动物科学学院动物医学系
+		职称：教授
+		我的主页共被访问了11393次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	奖励荣誉
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

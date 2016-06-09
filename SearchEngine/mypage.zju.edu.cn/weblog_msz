@@ -1,0 +1,337 @@
+
+
+
+
+
+浙江大学-博客
+
+
+
+
+
+
+varctxPath="http://mypage.zju.edu.cn";
+varb_handle="msz";
+varcfg_weblog="http://mypage.zju.edu.cn/weblog";
+vard=newDate()
+varselyear=d.getFullYear();
+varselmonth=d.getMonth()+1;
+
+
+
+
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	color:#111;
+	margin-right:10px;	
+}
+#mainlinkullia,.tagsa:hover{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+.tagsa{
+	margin-right:10px;
+}
+img{
+	border:none;
+}
+
+
+
+
+
+
+
+
+
+
+	
+		首页
+		帮助
+		登录
+	
+
+
+
+
+
+
+	浙江大学
+马述忠的国际商务博客
+
+	永久链接:http://mypage.zju.edu.cn/weblog/msz&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+
+
+	中文主页
+英文主页
+			博客
+
+
+
+
+
+
+
+
+
+
+			
+				
+
+	
+[1/1]
+首页	上一页下一页末页
+
+	
+
+浏览模式:普通|列表
+
+
+
+
+
+
+		大批非法洋劳工涌入中国越南步行几分钟可入境
+
+作者:马述忠日期:2010-07-02Friday
+
+
+
+大批非法洋劳工涌入中国越南步行几分钟可入境熊红明经济参考报2010年4月30日非法洋劳工涌入中国工厂&ldquo;寻梦&rdquo;非法洋劳工涌入中国，给中国的社会治安和涉外管理带来了多重考验。去年以来，中国警方在广州、东莞等地的工厂连续查获大量非法洋劳工，地处...
+查看更多...
+
+
+
+
+
+分类:国际商务动态|			固定链接|评论总数0|
+			阅读次数61
+
+
+
+
+
+
+
+		直面贸易保护——经济危机影响下的杭州外贸
+
+作者:马述忠日期:2010-06-26Saturday
+
+
+
+直面贸易保护&mdash;&mdash;经济危机影响下的杭州外贸马述忠段钒全球性经济危机仍然困扰着世界各国，不仅对各国的国内经济带来了负面影响，而且对全球自由贸易的危害也逐步显现。随着经济危机的不断发展，贸易保护主义重新抬头，各类贸易摩擦案件不断增多。...
+查看更多...
+
+
+
+
+
+分类:国际商务论文|			固定链接|评论总数0|
+			阅读次数55
+
+
+			
+			
+		
+		
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+	
+	
+		姓名：马述忠
+		单位：经济学院国际经济学系
+		职称：教授
+		我共发表了2篇文章
+		共收到0条评论
+		我的主页共被访问了4438次
+	
+	
+	
+	
+
+
+我的文章分类
+
+	默认分类
+		
+国际商务案例
+		
+国际商务动态
+		
+国际商务论文
+		
+
+
+
+
+日历
+
+
+
+>>
+年月
+
+
+
+日
+一
+二
+三
+四
+五
+六
+
+
+
+
+
+
+
+
+
+
+
+我的最新文章
+
+
+		大批非法洋劳工涌入中国...
+直面贸易保护——经济危...
+	
+
+
+
+
+我的热点文章
+
+
+				大批非法洋劳工涌入中国...
+		直面贸易保护——经济危...
+
+	
+
+
+我收到的评论
+
+	
+	
+
+
+我的文章汇总
+
+		2010年7月[1]
+		2010年6月[1]
+		
+	
+
+
+链接
+
+GlobalBusinessToday
+
+
+
+
+
+检索
+
+
+
+
+-所有文章-
+默认分类
+国际商务案例
+国际商务动态
+国际商务论文
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+
+
+varflag=newArray();
+flag[0]='2010/06/26';
+flag[1]='2010/07/02';
+
+
+varcale=newCalendar("idCalendar",{
+SelectDay:newDate(),
+onSelectDay:function(o),
+onToday:function(o),
+onFinish:function(){
+$("idCalendarYear").innerHTML=this.Year;$("idCalendarMonth").innerHTML=this.Month;
+for(vari=0,len=flag.length;i<len;i++){
+//alert(flag[i]);
+	vard=newDate(flag[i]);
+	if(this.Year==d.getYear()){
+		if(this.Month==d.getMonth()+1)
+		{
+this.Days[d.getDate()].innerHTML=""+d.getDate()+"";
+			
+		}
+
+	}
+}
+}
+});
+$("idCalendarPre").onclick=function()
+$("idCalendarNext").onclick=function()
+
+
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));

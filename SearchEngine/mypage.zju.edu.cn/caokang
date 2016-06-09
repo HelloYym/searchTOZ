@@ -1,0 +1,227 @@
+
+
+
+
+
+规划空间-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0007433";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	规划空间
+城市规划种种
+
+	永久链接:http://mypage.zju.edu.cn/caokang&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			曹康，副教授，硕士生导师，主要研究方向为当代规划理论、西方城市规划史与城市规划实践。
+迄今已发表国内外期刊论文40篇；出版专著、译著、教材各1部，参加编写专著2部。
+获省部级科研成果奖3项（排名第一），国家级优秀教学论文奖1项，指导学生获国家级教学设计竞赛三等奖1项。
+主持国家自科基金1项，澳中理事会基金1项，教育部人文社科基金及浙江省哲学社会科学规划课题各2项，厅局级和校级科研项目各1项；参与国家自科基金重点项目2项，省部级科研项目2项。
+入选浙江省&ldquo;之江青年&rdquo;社科学者。
+担任国际期刊Planningtheory（SSCI）编委、《国际城市规划》期刊（CSSCI）特约编辑、审稿人；国际期刊《UrbanStudies》（SSCI）、《Computer,EnvironmentandUrbanSystems》（SSCI、EI）、《ScienzeRegionali》（SCI）审稿人。担任城乡规划行业网编委。
+
+			
+				
+			工作研究领域
+			
+			城市与区域规划：
+·当代规划理论
+·西方城市规划史（古代、现代部分）
+·中国城市规划通史
+·当代西方规划实践
+			
+				
+			联系方式
+			
+						电子信箱：k_cao@126.com；caokang@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：曹康
+		单位：建筑工程学院区域与城市规划系
+		职称：副教授
+		我的主页共被访问了16988次
+标签：regioncityurbanplanningtheoryhistory	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	学术交流（讲座报告）
+	奖励荣誉
+	学术任职
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	InternationalPlanningHistorySociety
+中国城市规划学会
+SocietyforAmericanCityandRegionalPlanningHistory
+journalofUniversalRejection
+国际城市规划
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

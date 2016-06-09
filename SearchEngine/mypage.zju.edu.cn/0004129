@@ -1,0 +1,222 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0004129";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0004129&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			代表著作（论文）
+1、《巴别塔之后：雷蒙&middot;潘尼卡回应时代挑战》（著作）
+2、《简论雷蒙&middot;潘尼卡的宗教多元论哲学》（论文）
+3、《&ldquo;存在&rdquo;存在吗？&mdash;&mdash;回应何光沪先生的&ldquo;全球宗教哲学的本体论&rdquo;》（论文）
+4、《雷蒙&middot;潘尼卡宗教对话思想简论》（论文）
+5、《宇宙-神-人共融的直觉：跨文化视域下的新实在观》（论文）
+
+承担课题
+1、006年度浙江省哲学社会科学规划常规性课题：&ldquo;跨文化视域下的宗教研究：以雷蒙&middot;潘尼卡为例&rdquo;
+2、浙江省教育厅2006年度高校科研立项项目：&ldquo;雷蒙&middot;潘尼卡跨文化宗教思想研究&rdquo;&nbsp;
+
+开设课程
+1、宗教学
+2、宗教社会学
+3、当代宗教哲学
+
+
+			
+				
+			工作研究领域
+			
+			1、宗教哲学
+2、跨文化研究
+3、文化间哲学
+
+			
+				
+			联系方式
+			
+			电话：13858126362			电子信箱：growth35@yahoo.com.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：王桂彩
+		单位：人文学院哲学系
+		职称：副教授
+		我的主页共被访问了6100次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

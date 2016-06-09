@@ -1,0 +1,258 @@
+
+
+
+
+
+Fan‘sResearchGroup-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0005184";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	Fan‘sResearchGroup
+范骁辉的个人主页
+
+	永久链接:http://mypage.zju.edu.cn/xiaohuifan&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+
+
+
+
+范骁辉
+男，安徽歙县人，1979年11月出生
+浙江大学药学院&nbsp;教授、博士生导师
+浙江大学药学院院长助理、药物信息学研究所副所长，兼任天津现代中药协同创新中心副主任
+&nbsp;
+浙江省杰出青年基金（2009年）
+省新世纪151人才二层次（2010年）
+浙江大学求是青年学者（2011年）
+教育部新世纪优秀人才（2012年）
+国家科技进步一等奖（2013年，排名第三）
+美国FDAFacultyResearchParticipationProgram（2014年）
+国家科技进步一等奖（2014年，排名第五）
+&nbsp;
+联系电话：0571-88208596
+电子邮箱：fanxh#zju.edu.cn
+办公地址：药学院325室&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+课题组网站：http://tcm.zju.edu.cn/
+
+&nbsp;
+教育科研经历
+
+1996.09-2000.06&nbsp;&nbsp;浙江大学化学与生物工程学系制药工程专业&nbsp;获工学学士学位
+2000.09-2005.06&nbsp;&nbsp;浙江大学药学院&nbsp;获医学博士学位
+2005.11-2007.11&nbsp;美国FoodandDrugAdministration(FDA)&nbsp;博士后
+2007.11-2011.12&nbsp;浙江大学药学院&nbsp;副研究员、硕士生导师（2011年获博士生招生资格）
+2008.05-2008.09&nbsp;&nbsp;美国FDA&nbsp;访问科学家
+2011.12-至今&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江大学药学院&nbsp;教授、博士生导师&nbsp;
+2013.12-至今&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;美国FDA访问教授
+
+学术兼职
+
+编委/客座编委：《中国药典》（英文版）、《FrontierinBioscience》(IF=4.3)、《BioMedResearchInternational》(IF=2.8)、《FrontierinPharmacology》(IF=3.8)、《中国中药杂志》等
+理事/委员：中华中医药学会中药毒理学与安全性研究分会（副主任委员）、中国药理学会网络药理学专委会、世中联中药分析专业委员会、中国医药信息学会药物分析信息学专业委员会、中医药信息数字化专业委员会、浙江省中药现代化产业技术创新战略联盟、浙江省药学会中药与天然药物专业委员会等
+期刊审稿人：PNAS,Diabetes,Bioinformatics,BMCMedicalGenomics,Analyst,MolecularBioSystems,IntegrativeBiology,JournalofBiomedicalInformatics,ChemicalBiologyandDrugDesign,Chromatographia,AnalyticalMethods,分析化学，中国中药杂志等&nbsp;
+
+主要研究成果
+先后主持&ldquo;重大新药创制&rdquo;国家科技重大专项课题、国家自然科学基金、浙江省杰出青年基金等十余项课题。在NatureBiotechnology（IF=39.1）、AdvancedDrugDeliveryReviews（IF=12.7）、ClinicalCancerResearch（IF=8.2）、InternationalJournalofCardiology(IF=6.2)、PharmacogenomicsJournal(IF=5.5)、ScientificReports(IF=5.1)&nbsp;和JournalofChromatographyA等SCI杂志上发表论文60余篇，被他引2500余次（SCI他引1500余次）；授权国家发明专利和软件著作权20余项；获国家科学技术进步一等奖2项（2013年，排名第三；2014年，排名第五）、国家科学技术进步二等奖1项（2004年，排名第七）、中华中医药学会一等奖及省部级科学技术奖7项。
+&nbsp;
+主要研究兴趣
+课题组从整体观出发，将药物信息学、网络药理学等交叉学科与基因芯片等现代仪器相结合，围绕中药的配伍规律及科学内涵开展科学研究。近年的研究重点包括：
+1.&nbsp;网络方剂学
+2.&nbsp;中药系统毒理学
+3.&nbsp;中成药二次开发的转化科学研究
+&nbsp;
+研究生招生
+课题组每年招收药学、中药学、药物分析学、药理学或生物信息学等相关专业的硕士及博士研究生3-4名。欢迎对上述研究方向感兴趣者报考。
+
+&nbsp;
+更多内容，请访问课题组网站http://tcm.zju.edu.cn/。
+
+
+
+
+
+
+&nbsp;
+			
+					
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：范骁辉
+		单位：药学院
+		职称：教授、博士生导师
+		我的主页共被访问了13261次
+标签：中药、网络药理学、系统毒理学、系统生物学、网络方剂学	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	Fan'sLab
+范骁辉课题组
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

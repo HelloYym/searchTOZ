@@ -1,0 +1,210 @@
+
+
+
+
+
+游剑博士-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0005192";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	游剑博士
+浙江大学药学院
+
+	永久链接:http://mypage.zju.edu.cn/jyou&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			游剑，药剂学博士，教授，博士生导师。药学院药学系副主任，中国颗粒学会青年理事，中国颗粒学会生物颗粒专业委员会委员。主要从事药物控制释放和增强药物生物利用度研究，以及抗肿瘤药物控制释放和靶向技术研究。在国内外重要刊物发表论文40余，被SCI收录30余篇。其中以第一作者或通讯作者SCI论文17篇，分别发表在ParticleandFibreToxicology(IF9.18),CancerResearch(IF7.856),ACSnano(IF11.421),Small(IF8.349),Journalofcontrolledrelease(IF6.499),Biomacromolecules(IF5.479),Biomaterials（IF7.404）等，被引用500余次（Google数据），单篇最高引用100余次（Google数据）。获中国发明专利授权15项、申请两项国际发明专利，获教育部自然科学奖二等奖、浙江省科学技术奖三等奖各一项，获2012中国药学会青年药剂学奖，入选浙江省&ldquo;151&rdquo;人才，浙江省首批青年科学家培养计划人选。
+			
+				
+			工作研究领域
+			
+			药物控制释放和聚合物、脂质材料为基础的靶向药物传递系统研究；以金纳米材料为基础的肿瘤显影技术研究，药物传递研究和靶向肿瘤的光热治疗研究。
+			
+				
+			联系方式
+			
+			电话：0571-88208443			电子信箱：youjiandoc@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：游剑
+		单位：药物制剂研究所
+		职称：教授,博士生导师
+		我的主页共被访问了4470次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		专利成果
+	教学工作
+	奖励荣誉
+	发表论文
+	科研生活
+	封面论文
+	业余爱好
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

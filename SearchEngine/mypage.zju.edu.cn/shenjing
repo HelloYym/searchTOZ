@@ -1,0 +1,207 @@
+
+
+
+
+
+沈静-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0007295";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	沈静
+
+
+	永久链接:http://mypage.zju.edu.cn/shenjing&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;沈静，浙江杭州人。2002年毕业于浙江大学医学院临床医学专业，获医学学士学位。2002年免试进入浙江大学医学院生理学专业，2007年毕业获博士学位。2007-2009年在浙江大学医学院病理学与病理生理学研究室从事博士后工作两年，2009年晋升为副教授。曾获浙江大学竺可桢奖学金（2006年），光华奖学金（2005年）和浙江大学优秀博士后（2008年）。获得国家自然科学基金两项，浙江省自然科学基金一项，博士后科学基金特别资助一项，博士后科学基金一项，并作为学术骨干参与973课题及多项国家自然科学基金的研究。研究结果已经发表SCI论文十余篇（包括JournalofProteomeResearch，Proteomics，RapidCommunicationsinMassSpectrometry等）。
+			
+				
+			工作研究领域
+			
+			1）环境化学致癌物诱发人类疾病的分子机理；
+2）表观遗传修饰参与肿瘤发病机制；组蛋白甲基化翻译后修饰的调控机制。
+			
+				
+			联系方式
+			
+						电子信箱：shenjingwzy@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：沈静
+		单位：基础医学系
+		职称：副教授
+		我的主页共被访问了2005次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

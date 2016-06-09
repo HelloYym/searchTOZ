@@ -1,0 +1,215 @@
+
+
+
+
+
+刘晓婷-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0013038";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	刘晓婷
+
+
+	永久链接:http://mypage.zju.edu.cn/xtliu&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2013年毕业于香港中文大学社会工作学系，社会福利哲学博士，2009年浙江大学管理学硕士，2007年文学学士。2012年获得世界大学联盟CNOOC项目资助，在美国加州大学伯克利分校访问。2013年5月至今，任浙江大学公共管理学院社会保障与风险管理学系讲师。
+
+主要从事的研究方向有医疗保障和健康政策、老年照护、老年学和社会工作。研究重点是医疗保障制度改革、老年人健康公平、社会支持和代际关系、失能老人的非正式照护、社区的医养结合问题等。已参与并完成国家自然科学基金1项、国家软科学研究项目1项、香港公共政策研究计划1项，主持并完成香港谭韧就基金项目1项。现主持国家社科基金青年项目&ldquo;老年人群基本医疗保险待遇差距研究&rdquo;（14CSH056）、浙江省哲学社会科学规划后期资助课题&ldquo;健康公平与浙江医疗保障改革&rdquo;（13HQZZ031），浙江省哲学社会科学重点基地研究课题&ldquo;社区老人长期照护服务：需求与整合&rdquo;。作为核心成员参加2014年度国家自然科学基金重大项目&ldquo;应对老龄社会的基础科学问题研究&rdquo;课题三&ldquo;代际均衡与多元共治&mdash;&mdash;老龄社会的社会支持体系研究&rdquo;，2013年度国家社科基金重大项目&ldquo;人口老龄化与长寿风险管理的理论和政策研究&rdquo;（13&amp;ZD163）和国家自然科学基金项目&ldquo;老年护理保障需求、成本与筹资机制研究&rdquo;（71273228）。
+近年来在《社会学研究》、《中国人口科学》、《社会》、《社会保障研究》、《社会保障制度》等期刊发表有关医疗保障改革的论文若干。论文《基本医疗保险纵向平衡费率研究》获得第四届中国社会保障论坛一等奖（与何文炯合作），论文&lt;Socialhealthinsurance,healthcareexpenditure,andoutcome-basedhealthequityfortheelderly:AlongitudinalstudyinChina&gt;获得2014年日本社会学会（JSS）优秀论文奖。
+
+&nbsp;
+&nbsp;
+			
+				
+			工作研究领域
+			
+			主要研究领域：医疗保障和健康政策、长期照护、老年学、社会工作。
+具体研究方向：医疗保障制度改革、老年人健康公平、社会支持和代际关系、失能老人的非正式照护、社区的医养结合问题。
+			
+				
+			联系方式
+			
+						电子信箱：xtliu@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：刘晓婷
+		单位：公共管理学院社会保障与风险管理系
+		职称：讲师
+		我的主页共被访问了1961次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	研究成果
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

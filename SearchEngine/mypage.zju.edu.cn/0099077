@@ -1,0 +1,221 @@
+
+
+
+
+
+蒋宏亮个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0099077";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	蒋宏亮个人主页
+蒋宏亮的个人主页
+
+	永久链接:http://mypage.zju.edu.cn/0099077&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			1989.9-1993.7&nbsp;就读于华东理工大学高分子科学与工程系高分子材料专业;&nbsp;1993.9-1996.3&nbsp;在浙江大学高分子系高分子化学与物理专业攻读硕士学位;1996.3-1999.3&nbsp;在浙江大学高分子化学与物理专业攻读博士学位;&nbsp;博士毕业后留校工作；2001.11-2003.10与2006.2-2007.9分别在纽约州立大学石溪分校生物医学工程系和化学系从事博士后研究；2009年12月晋升为教授。
+
+所在课题组在生物降解高分子与微纳米结构药物控释系统等方面开展了特色性研究工作。以通讯联系人或第一作者身份共发表学术论文40余篇，包括JournalofControlledRelease杂志最热门论文1篇，MacromolecularBioscience杂志封面论文1篇，累计被他引420余次，其中单篇他引超过50次的论文1篇，超过20次的论文6篇；获5项国家发明专利授权。
+
+
+通讯地址：浙江大学玉泉校区高分子科学与工程系，邮编310027
+办公室地址：浙江大学玉泉校区高分子教学楼507室
+电话：0571-87952046
+传真：0571-87951773
+e-mail:&nbsp;hljiang@zju.edu.cn
+&nbsp;
+研究工作
+肿瘤治疗的关键是早期诊断、靶向给药以及多药耐受性（MDR）的克服，所有这些都有赖于高效传递载体的构建。理想的传递载体应能克服体内转运过程中经历的重重生物屏障，选择性地将示踪剂与化疗药物传递至肿瘤细胞内。
+针对上述要求，以具有良好生物相容与生物降解特性的天然高分子-壳聚糖-为母体，通过简便的位置选择性壳聚糖衍生化新策略，发展新型生物降解多功能聚合物材料，进而构建出具有多层次结构多响应功能的纳米载体。以肿瘤特异微环境为靶标，将示踪剂与不同类型化疗药物等高效传递至肿瘤病灶。
+&nbsp;
+研究内容
+
+壳聚糖位置选择性衍生化新策略；
+具有规整结构壳聚糖衍生物的合成；
+壳聚糖基多层次结构多响应功能纳米载体的构建方法；
+纳米晶体与壳聚糖衍生物的高级装配；
+具有不同抗肿瘤效应生物活性物质协同给药载体的构建；
+协同不同抗肿瘤疗法载体的构建
+
+			
+					
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：蒋宏亮
+		单位：高分子科学与工程学系
+		职称：教授
+		我的主页共被访问了16138次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	专利成果
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

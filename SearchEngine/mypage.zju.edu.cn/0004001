@@ -1,0 +1,211 @@
+
+
+
+
+
+凃巨民-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0004001";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	凃巨民
+一生钟爱水稻的人
+
+	永久链接:http://mypage.zju.edu.cn/0004001&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			凃巨民，博士，教授，博士生导师，浙江大学作物所前副所长。1982、1985和1998年先后在华中农业大学农学系，和生命科学学院获农学学士、硕士和理学博士学位。1995-1998和1998-2001年菲律宾国际水稻研究所育种系访问学者、项目科学家，2001-2004年香港中文大学生物系高级研究科学家（SeniorResearchScientist），2004年1月调入浙江大学农业与生物技术学院任教至今。
+			
+				
+			工作研究领域
+			
+			水稻遗传工程与种质创新
+水稻耐高、低温分子机制探索
+水稻花粉发育的转录和翻译水平调控
+			
+				
+			联系方式
+			
+			电话：0571-88982835（O），13857132695（M）			电子信箱：jtu@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：凃巨民
+		单位：农业与生物技术学院农学系/作物所
+		职称：教授
+		我的主页共被访问了5804次
+标签：水稻(rice)，生物技术(biotechnology)，水稻耐高温耐冷(heat-and-cold-tolerance)，花粉育性(pollen-sterility)	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	研究成果
+	专利成果
+	奖励荣誉
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

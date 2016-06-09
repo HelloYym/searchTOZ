@@ -1,0 +1,206 @@
+
+
+
+
+
+卢旭东-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0093445";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	卢旭东
+卢旭东
+
+	永久链接:http://mypage.zju.edu.cn/lxd&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			浙江大学法学院思想政治教育系副教授，系副主任，中共党员。1961年6月出生，浙江省东阳市人。1984年7月毕业于中山大学历史学系。先后在中国人民大学、华东师范大学和中国文化书院等院校进修国际政治、历史和中外比较文化。长期从事马列主义理论教学与研究。任浙江大学企业制度与文化研究所副所长，浙江省当代史学会常务理事等。澳门科技大学兼职副教授。
+&nbsp;&nbsp;&nbsp;&nbsp;率先开设了《创业学》课程,此举当在我国高校此类课程设置之前列，并有数千学生接受了创业学方面的学习与训练。
+
+			
+				
+			工作研究领域
+			
+			从事马克思主义理论与思想政治教育。主讲科学社会主义理论、中国革命史、中国特色社会主义理论、邓小平理论与“三个代表”重要思想概论等课程。1990年代后期开设《创业学》课程。
+
+			
+				
+			联系方式
+			
+						电子信箱：lumao@hzcnc.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：卢旭东
+		单位：思想政治理论教学科研部
+		职称：副教授
+		我的主页共被访问了4247次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

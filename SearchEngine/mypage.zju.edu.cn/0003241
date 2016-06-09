@@ -1,0 +1,231 @@
+
+
+
+
+
+wyj-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0003241";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	wyj
+
+
+	永久链接:http://mypage.zju.edu.cn/0003241&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			2003年-&nbsp;&nbsp;&nbsp;，浙江大学人文学院哲学系任教。
+2000-2003年，中山大学哲学系马克思主义哲学专业博士研究生。
+1997-2000年，哈尔滨师范大学科技哲学专业硕士研究生。
+1993-1997年，哈尔滨师范大学俄语系俄语言文学与教育专业本科生。
+代表著作（论文）
+1、《俄罗斯科学哲学的兴起》，《自然辩证法通讯》2005（6）
+2、《俄罗斯科学哲学的社会文化导向》，《自然辩证法研究》，2005（4）
+3、《俄罗斯科学哲学的开拓者：П.В.科普宁》，《科学技术与辩证法》2006（2）
+4、《自然观的社会文化内涵》，《自然辩证法研究》，2004（10）
+5、《试析苏联的政治文化传统对国家科技政策的影响》，《自然辩证法通讯》2003（1）
+
+承担课题
+1、浙江省规划课题，《民国浙江科技史研究》
+2、浙江大学董氏基金项目，《俄罗斯科学哲学的问题与流派》
+3、国家社科基金，《俄罗斯科学社会学研究》
+
+开设课程
+1、马克思主义哲学原理&nbsp;
+2、马克思主义哲学史及原著选读
+3、自然辩证法
+4、俄罗斯科学与社会
+5、批判性思维与科学研究
+6、俄罗斯哲学导论
+			
+				
+			工作研究领域
+			
+			1、科学认识论。
+2、科学社会学。
+3、俄罗斯科学哲学。
+			
+				
+			联系方式
+			
+			电话：88273350			电子信箱：zjuwyj@163.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：王彦君
+		单位：人文学院哲学系
+		职称：副教授
+		我的主页共被访问了9367次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	发表论文
+	奖励荣誉
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

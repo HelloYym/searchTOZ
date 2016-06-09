@@ -1,0 +1,216 @@
+
+
+
+
+
+海阔天空-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0099073";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	海阔天空
+讨论3S技术和资源环境
+
+	永久链接:http://mypage.zju.edu.cn/shizhou&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			1970年生于浙江舟山。现为浙江省农业遥感与信息技术重点研究实验室副主任，浙江大学环境与资源学院农业遥感与信息技术应用研究所所长。国家自然科学基金委第十四届地学部专家评审组成员（2012-2014），中国土壤学会土壤遥感与信息专业委员会主任（2013-2016，第十二届），中国农学会计算机农业应用分会理事（2001-2014，第三届-第五届），国际信息处理联合会农业先进信息处理专委会委员，国际土壤联合会土壤近地传感工作组成员，中国电子学会青年工作委员会委员，中国农业工程学会情报信息专业委员会委员，浙江省测绘与地理信息标准化技术委员会委员，浙江省土壤肥料学会理事，杭州市信息化专家咨询委员会委员，杭州市气象学会副理事长，卫星海洋环境动力学国家重点实验室兼职研究员，中国热带农业科学院特聘研究员，杭州师范大学&ldquo;钱塘学者&rdquo;讲座教授。《土壤学报》《土壤通报》《生态与农村环境学报》《农业网络信息》编委。先后入选教育部新世纪优秀人才支持计划（2009），浙江省杰出青年科学基金（2010），浙江省151人才工程（2007）。
+1993年在原杭州大学地理系获本科学位。1996年在原浙江农业大学获硕士学位。1998年在浙江大学环境与资源学院获博士学位。读书期间曾获浙江大学首届十佳研究生称号，竺可桢奖学金等。1999年开始在浙江大学农业遥感与信息技术应用研究所工作。期间曾到德国Dresden工业大学（2001）、英国Belfast女皇大学（2001、2003）、德国宇航中心(DLR，2003)、英国剑桥大学（2005-2006）、澳大利亚CSIRO（2013）等进行访问研究。
+现主要从事资源环境遥感与信息技术应用研究。先后主持国家自然科学基金（4项）、国家科技支撑和攻关子课题（3项）、国家&ldquo;863&rdquo;计划子课题1项、国家社会科学基金重大招标项目子课题1项、省科技计划重点项目、省基金项目等。获省部科技进步一等奖1项，二等奖6项，三等奖3项，浙江大学优秀教学成果一等奖2项。获授权国家发明专利8项、软件著作权登记28项。已发表有关学术论文120余篇，SCI收录50余篇，编著8本。主讲《地理空间分析技术与系统开发》博士生课程、《地图学与资源环境专题制图》本科课程等。
+&nbsp;
+			
+				
+			工作研究领域
+			
+			（1）资源环境信息系统研制与应用
+（2）土壤遥感与信息
+（3）遥感与GIS应用平台的设计与开发
+
+			
+				
+			联系方式
+			
+			电话：88982831			电子信箱：shizhou@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：史舟
+		单位：环境与资源学院资源科学系
+		职称：教授
+		我的主页共被访问了16119次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+	出版著作
+	研究成果
+	专利成果
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

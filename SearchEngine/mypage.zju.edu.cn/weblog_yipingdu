@@ -1,0 +1,432 @@
+
+
+
+
+
+杜一平-博客
+
+
+
+
+
+
+varctxPath="http://mypage.zju.edu.cn";
+varb_handle="yipingdu";
+varcfg_weblog="http://mypage.zju.edu.cn/weblog";
+vard=newDate()
+varselyear=d.getFullYear();
+varselmonth=d.getMonth()+1;
+
+
+
+
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	color:#111;
+	margin-right:10px;	
+}
+#mainlinkullia,.tagsa:hover{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+.tagsa{
+	margin-right:10px;
+}
+img{
+	border:none;
+}
+
+
+
+
+
+
+
+
+
+
+	
+		首页
+		帮助
+		登录
+	
+
+
+
+
+
+
+	杜一平
+
+
+	永久链接:http://mypage.zju.edu.cn/weblog/yipingdu&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+
+
+	中文主页
+英文主页
+			博客
+
+
+
+
+
+
+
+
+
+
+			
+				
+
+	
+[1/1]
+首页	上一页下一页末页
+
+	
+
+浏览模式:普通|列表
+
+
+
+
+
+
+		师道之难难于上青天
+
+作者:杜一平日期:2011-08-04Thursday
+
+
+
+做教授,已有十余年；做老师,才刚刚开始。每当有学生招呼我&ldquo;老师&rdquo;，不论是跟我做了几个月研究的学生，还是仅仅听过我一次讲座的学生，我都会感到一丝暖意，一份欣慰，还有一份责任感。教授的称谓来自西语profess，原意是学界的专家。中文译得恰当，是教...
+查看更多...
+
+Tags:
+“师道尊严"
+	
+
+
+
+分类:默认分类|			固定链接|评论总数0|
+			阅读次数234
+
+
+
+
+
+
+
+		机遇的土地在哪里？
+
+作者:杜一平日期:2011-08-04Thursday
+
+
+
+在OverseeeChineseSocietyofMagneticResonanceinMedicine2011年聚会上的演讲（加拿大蒙特利尔，5月3日）一．机遇的土地在哪里？放眼世界，寻找机遇的土地。几年前还有好几个，现在只有一个，就是咱们中国。总书记说：&ldquo;以人为本&rdquo;。当国外的pr...
+查看更多...
+
+
+
+
+
+分类:默认分类|			固定链接|评论总数0|
+			阅读次数257
+
+
+
+
+
+
+
+		胡总书记对高校教师如是说....好深刻啊！
+
+作者:杜一平日期:2011-04-24Sunday
+
+
+
+胡总书记对高校教师如是说："教育大计，教师为本。...广大高校教师要切实肩负起立德树人、教书育人的光荣职责，关爱学生，严谨笃学，淡泊名利，自尊自律，加强师德建设，弘扬优良教风，提高业务水平，以高尚师德、人格魅力、学识风范教育感染学生，做学生健康成长的...
+查看更多...
+
+
+
+
+
+分类:默认分类|			固定链接|评论总数0|
+			阅读次数104
+
+
+
+
+
+
+
+		磁共振是最给力超级传感器
+
+作者:杜一平日期:2011-04-10Sunday
+
+
+
+前几日参加BME的硕士生面试。十有八九的考生声称要进入&ldquo;传感器&rdquo;领域，让我这个搞影像学的老师感到非常挫败。如果你以为不被友人理解是人生一大杯具，设想一下被考生冷落的滋味吧！十分的餐具！真后悔当初没转行搞传感器。痛定思痛多日，终于悟出了个硬...
+查看更多...
+
+Tags:
+一笑了之
+	
+
+
+
+分类:默认分类|			固定链接|评论总数0|
+			阅读次数112
+
+
+
+
+
+
+
+		毕业赠言：“求是”和“奉献”
+
+作者:杜一平日期:2011-03-25Friday
+
+
+
+《在浙江大学信息学部2011年（春）研究生毕业典礼上代表研究生导师的演讲》亲爱的同学们，你们经过几个春夏秋冬的努力，如今完成了学业。首先我代表信息学部的研究生导师们向你们表示衷心的祝贺！你们或将继续另一阶段的学习、或将开始自己的职业生涯。在未来的岁月...
+查看更多...
+
+
+
+
+
+分类:默认分类|			固定链接|评论总数0|
+			阅读次数109
+
+
+
+
+
+
+
+		一个故事,一个数字
+
+作者:杜一平日期:2011-02-25Friday
+
+
+
+&ldquo;一帮农村来的亲友，把一位病重的中年人抬到城里大医院，掏出一把钱，对医生说：&lsquo;这是家里的主劳力，一家三代人的生活全靠他。一定要把他治好！不够的医疗费用，我们一定凑齐送来！&rsquo;一些日子过去，病人没有明显好转，钱用完了。又来几位亲友，悄悄...
+查看更多...
+
+
+
+
+
+分类:默认分类|			固定链接|评论总数0|
+			阅读次数125
+
+
+			
+			
+		
+		
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+	
+	
+		姓名：杜一平
+		单位：生物医学工程与仪器科学学院生物医学工程学系
+		职称：教授
+		我共发表了6篇文章
+		共收到0条评论
+		我的主页共被访问了1946次
+	
+	
+	
+	
+
+
+我的文章分类
+
+	默认分类
+		
+
+
+
+
+日历
+
+
+
+>>
+年月
+
+
+
+日
+一
+二
+三
+四
+五
+六
+
+
+
+
+
+
+
+
+
+
+
+我的最新文章
+
+
+		师道之难难于上青天
+机遇的土地在哪里？
+胡总书记对高校教师如是...
+磁共振是最给力超级传感器
+毕业赠言：“求是”和“...
+一个故事,一个数字
+	
+
+
+
+
+我的热点文章
+
+
+				机遇的土地在哪里？
+		师道之难难于上青天
+		一个故事,一个数字
+		磁共振是最给力超级传感器
+		毕业赠言：“求是”和“...
+		胡总书记对高校教师如是...
+
+	
+
+
+我收到的评论
+
+	
+	
+
+
+我的文章汇总
+
+		2011年8月[2]
+		2011年4月[2]
+		2011年3月[1]
+		2011年2月[1]
+		
+	
+
+
+链接
+
+
+
+
+
+
+检索
+
+
+
+
+-所有文章-
+默认分类
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+
+
+varflag=newArray();
+flag[0]='2011/04/24';
+flag[1]='2011/08/04';
+flag[2]='2011/02/25';
+flag[3]='2011/03/25';
+flag[4]='2011/04/10';
+
+
+varcale=newCalendar("idCalendar",{
+SelectDay:newDate(),
+onSelectDay:function(o),
+onToday:function(o),
+onFinish:function(){
+$("idCalendarYear").innerHTML=this.Year;$("idCalendarMonth").innerHTML=this.Month;
+for(vari=0,len=flag.length;i<len;i++){
+//alert(flag[i]);
+	vard=newDate(flag[i]);
+	if(this.Year==d.getYear()){
+		if(this.Month==d.getMonth()+1)
+		{
+this.Days[d.getDate()].innerHTML=""+d.getDate()+"";
+			
+		}
+
+	}
+}
+}
+});
+$("idCalendarPre").onclick=function()
+$("idCalendarNext").onclick=function()
+
+
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));

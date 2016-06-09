@@ -1,0 +1,211 @@
+
+
+
+
+
+刘淑华的个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0007394";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	刘淑华的个人主页
+
+
+	永久链接:http://mypage.zju.edu.cn/liushuhua&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+刘淑华，教育学博士，副教授，硕士生导师
+山东青岛人，分别于1997年和2000年获得山东大学学士学位和硕士学位，2007年获得浙江大学博士学位，其中博士论文获得中国高等教育学会&ldquo;优秀博士论文&rdquo;提名奖。自2007年7月起先后在浙江大学外国语言文化与国际交流学院和教育学院任教，并担任硕士生导师。2009年获得浙江大学优秀青年教师（紫金计划）资助。2010年至2011年获国家留学基金资助到俄罗斯国立莫斯科大学教育学从事访问研究。
+先后主持和参与教育部人文社科一般项目、国家教育科学规划基金和浙江省教育科学规划等项目近10项；在《高等教育研究》和《比较教育研究》等重要学术期刊发表论文20余篇，其中多篇被《新华文摘》、《人大复印资料》和《高等学校文科学术文摘》等全文转载，2项成果分别获得浙江省社科联第六届和第七届青年社会科学优秀成果奖基础理论研究类三等奖；出版专著2部。
+			
+				
+			工作研究领域
+			
+			比较教育、高等教育学基本理论、俄罗斯教育、俄罗斯文化
+			
+				
+			联系方式
+			
+						电子信箱：hiasic@163.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：刘淑华
+		单位：教育学院教育学系
+		职称：副教授
+		我的主页共被访问了9294次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		发表论文
+	出版著作
+	工作研究项目
+	教学工作
+	奖励荣誉
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

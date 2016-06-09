@@ -1,0 +1,326 @@
+
+
+
+
+
+wanglinxiang-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0011021";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	wanglinxiang
+
+
+	Permanentlink:http://mypage.zju.edu.cn/en/wanglinxiang&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			LinxiangWang
+Professorin&nbsp;MechatronicEngineering
+DepartmentofMechanical&nbsp;Engineering,ZhejiangUniversity
+&nbsp;
+&nbsp;Education(degreewithfield,institution)
+1999Ph.D.,MechatronicEngineeringandControl
+ZhejiangUniversity,China.
+1995M.S.,MechatronicEngineeringandControl
+ZhejiangUniversity,China.
+1992B.S.,FluidPowerTransmission&amp;Control
+EastChinaInstituteofMetallurgy,China.
+
+2ProfessionalExperience
+2011.08&ndash;Present,Professor
+Mechatronic&nbsp;Engineering,ZhejiangUniversity.
+2008.03&ndash;2011.05,ChairProfessor
+InstituteofMechatronicEngineering,HangzhouDianziUniversity.
+2006.03-2008.02,AssociateProfessor
+MadsClausenInstituteforProductInnovation,UniversityofSouthernDenmark,
+Denmark.
+2003.03-2006.02,AssistantProfessor
+MadsClausenInstituteforProductInnovation,UniversityofSouthernDenmark,
+Denmark.
+2002.01-2003.02,PostDoc.
+MadsClausenInstituteforProductInnovation,UniversityofSouthernDenmark,
+Denmark.
+2000.09-2001.12,PostDoc.
+IndustrialLiaisonResearchInstitute,KyungHeeUniversity,SouthKorea.
+1999.09-2000.09,PostDoc.
+ResearchCenterofBaoShanIron&amp;SteelCompany,Shanghai,China.
+(co-fundedbyShanghaiJiaotongUniversity,China)
+&nbsp;
+ResearchInterests
+1Smartmaterials,structures,anddevices.
+2Modelingofhysteresisinferroelastic,ferroelectric,andferromagneticmaterialsand&nbsp;structures.
+3ModelreductionanditsApplications,parameterestimations,optimizations.
+4NumericalanalysisofnonlinearcoupledPDEs.
+&nbsp;Coursestaught
+2003Fall,MathematicalModelingforMechatronicEngineeringII
+ForMasterstudents,togetherwithProf.R.V.N.Melnik(6lectures/week).
+2004Spring,MathematicalModelingforMechatronicEngineeringI
+ForMasterstudents,togetherwithProf.J.Gravesen(3lectures/week).
+2004Fall,MathematicalModelingforMechatronicEngineeringII
+ForMasterstudents,togetherwithProf.J.Gravesen.(6lectures/week).
+2005Spring,MathematicalModelingforMechatronicEngineeringI
+ForMasterstudents,togetherwithProf.M.Deryabin(3lectures/week).
+2005Spring,MathematicsModulusII(LinearAlgebra),
+Forundergraduatestudents(3lectures/week).
+2006Spring,MathematicModelingforMechatronicEngineeringI
+ForMasterstudents,(3lectures/week).
+2006Spring,SemesterProjects(IntegratedMechatronicSystem)
+ForMasterstudents,(1lecture/week)
+2006FallFiniteElementAnalysis,
+ForMasterstudents,(3lectures/week).
+2006FallSemesterProjects(ControlEngineeringandSystemAnalysis)
+ForMasterstudents,(2lectures/week)
+2007Spring,MathematicModelingforMechatronicEngineeringI
+ForMasterstudents,(3lectures/week).
+2007Spring,SemesterProjects(IntegratedMechatronicSystems)
+ForMasterstudents,(1lecture/week).
+2007Fall,FiniteElementAnalysis.
+ForMasterstudents,(3lectures/week).
+2007FallSemesterProjects(VariationalMethodsandOptimalControl).
+ForMasterStudents.(2lectures/week).
+2009SpringMathematicalModelingandAnalysisofEngineeringProblems.
+ForMasterStudents.(2lectures/week).
+2009Fall&nbsp;NumericalAnalysis,&nbsp;FlowPowerTransmissionandControl.
+ForundergraduateStudents.(3lectures/week+3lectures/week).
+2010SpringMathematicalModelingandAnalysisofEngineeringProblems.
+ForMasterStudents.(2lectures/week).
+2010Fall&nbsp;FlowPowerTransmissionandControl.
+ForundergraduateStudents.(3lectures/week+3lectures/week).
+2011SpringMathematicalModelingandAnalysisofEngineeringProblems.
+ForMasterStudents.(2lectures/week).
+Graduatestudentadvised:2-3Masterstudentsperyear(onaverage).
+
+Services
+EditorialBoardMemberfor:
+AmericanJournalofMaterialsScienceandTechnology
+ScientificJournalofMechanicalEngineering（Chinese）
+ASMEmember,IEEEmember.SeniormemberoftheChinesesocietyoftheoreticandappliedmechanics.
+&nbsp;
+ConsultancyforCenterofProductionDevelopmentintheUniversityofSouthernDenmark.
+Reviewpapersfor:JournalofVibrationandControl,CurrentOpinioninSolidStateMaterialsScience,Internationaljournalofnonlinearmechanics,MaterialsScienceandEngineering.A,SolidStateScience,MechanicsResearchCommunications,JournalofMathematicalControlScienceandApplications,JournalofZhejiangUniversity,JournalofPhysicsD:AppliedPhysics,etc.
+&nbsp;Publications&nbsp;
+Journalariticles(From2005）：
+1.&nbsp;L.X.Wang,RVN,Melnik,F.Z.Lv,Stressinducedpolarizationswitchingandcoupledhystereticdynamicsinferroelectricmaterials,FrontiersofMechanicalEngineering,2011.6(3):287-291
+2.&nbsp;L.X.Wang,&nbsp;Numericalsimulationofmicrostructuregrowthcausedbytwinninganddetwinninginshapememoryalloys,，ActaMechanicaSolidaSinica,2010，23(S.Issue):204-209。
+3.&nbsp;L.X.Wang,RVN,Melnik,Lowdimensionalapproximationstoferroelasticdynamicsandhystereticbehaviourduetophasetransformations，ASMETrans,Journalofappliedmechanics,2010，77:031015。
+4.&nbsp;L.X.Wang,M.Willatzen,ExtensionoftheLandautheoryforhystereticelectricdynamicsinferroelectricceramics,JournalofElectroceramics,2010,24(1):51-57
+5.&nbsp;L.X.Wang,RVN,Melnik，ControlofcoupledhystereticdynamicsofferroelectricmaterialswithaLandau-typedifferentialmodelandfeedbacklinearization，SmartMaterials&amp;Structures,2009,18(7):074011.
+6.&nbsp;L.X.Wang,M.Willatzen,Modellingofnonlineardynamicsforreciprocalmulti-layerpiezoceramictransducersystems,AppliedMathematicalModelling,2009,33:2263-2273.&nbsp;
+7.&nbsp;L.X.Wang,R.Liu,R.V.N.Melnik,Modelinglargereversibleelectric-field-inducedstraininferroelectricmaterialsusing90oorientationswitching,SciChinaSerE-TechSci，2009,52(1):141-147.&nbsp;
+8.&nbsp;M.Willatzen,L.X.Wang,andL.C.LewYanVoon,ElectrostrictioninGaN/AlNheterostructures,SuperlatticesandMicrostructures,2008,43(5-6):436-440.
+9.&nbsp;L.X.Wang,R.V.N.Melnik,Modifyingmacroscalevariantcombinationsin2Dstructureusingmechanicalloadingsduringthermallyinducedtransformation,MaterialScienceandEngineeringA,2008,481-482:190-193.
+10.&nbsp;L.X.Wang,R.V.N.Melnik,Simulationofphasecombinationsinshapememoryalloyspatchesbyhybridoptimizationmethods,AppliedNumericalMathematics,2008,58(4):511-524.
+11.&nbsp;M.Willatzen,L.X.Wang,Mathematicalmodellingofone-dimensionalpiezoelectrictransducersbasedonmonocliniccrystals,ActaAcusticaunitedwithAcustica,2007,93(5):716-721
+12.&nbsp;L.X.Wang,R.V.N.Melnik,Thermo-mechanicalwavepropagationinshapememoryalloyrodwithphasetransformations,MechanicsofAdvancedMaterialsandStructures,2007,14(8):665-676.
+13.&nbsp;L.X.Wang,R.V.N.Melnik,Finitevolumeanalysisofnonlinearthermo-mechanicaldynamicsofshapememoryalloys,HeatandMassTransfer,2007,43(6):535-546
+14.&nbsp;L.X.Wang,R.V.N.Melnik,Numericalmodelforvibrationdampingresultingfromthefirstorderphasetransformations,AppliedMathematicalModelling,2007,31:2008-2018.
+15.&nbsp;L.X.Wang,andM.Willatzen,NonlineardynamicalmodelForhysteresisbasedonnon-convexpotentialenergy,ASCE,JournalofEngineeringMechanics,2007,133(5):506-513.
+16.&nbsp;L.X.Wang,R.V.N.Melnik,Modelreductionappliedtothesquaretorectangularmartensitetransformationusingproperorthogonaldecomposition,AppliedNumericalMathematics,2007,57:510-520.
+17.&nbsp;L.X.Wang,&nbsp;M.Willatzen,Modellingofnonlinearresponsesforreciprocaltransducersinvolvingpolarizationswitching,IEEETransactionsonUltrasonics,Ferroelectrics,andFrequencyControl,2007,54(1):177-189.
+18.&nbsp;L.X.Wang,R.V.N.Melnik,MechanicallyinducedphasecombinationbyChebyshevcollocationmethods,MaterialScienceandEngineeringA,2006,438-440:427-430.
+19.&nbsp;L.X.Wang,R.V.N.Melnik,Dfferential-algebraicapproachforcoupledproblemsofdynamicthermoelasticity,AppliedMathematicsandMechanics,2006,27(9):1185-1196.
+20.&nbsp;L.X.Wang,R.V.N.Melnik,Two-dimensionalanalysisofshapememoryalloysundersmallloadings,InternationalJournalofmultiscalecomputationalengineering,&nbsp;2006,4(2):291-304.
+21.&nbsp;L.X.Wang,H.Kamath,Modellinghystereticbehaviorinmagnetorheologicalfluidsanddampersusingphase-transitiontheory,SmartMaterialsandStructures,2006,15(6):1725-1733.
+22.&nbsp;L.X.Wang,R.V.N.Melnik,DynamicsofShapememoryalloypatcheswithmechanicallyinducedtransformations,DiscreteandContinuousDynamicalSystem,2006,15(4):1237-1252.
+&nbsp;Peerreviewedconferencepapers(from2005)：
+1.&nbsp;FangyinJin,RongLiu,LinxiangWang,ComparisonofThreeConstitutiveModelsfortheAnalysisofLaminarMagnetorheologicalFluidFlows,AppliedMechanicsandMaterials,2011,Vol.55-57,P:807-812
+2.&nbsp;RongLiu,LinxiangWang,ResearchesonDifferentialModelofMagnetorheologicalDampersintheDependenceontheLoadingRates,AdvancedScienceLetters,2011,Vol.4,P:814&ndash;818.
+3.&nbsp;ChenZhang,LinxiangWang,ModelingtheLoading-RateDependencyoftheHystereticDynamicsofMagnetorheologicalDampers,AppliedMechanicsandMaterials,2011,Vol.55-57,P:807-812
+4.&nbsp;KeyuZhang,LinxiangWang,ADynamicalApproachtotheComplexCoefficientsofHystereticResponses,theproceedingsofthe3rdIEEEInternationalConferenceonComputerScienceandInformationTechnology,ISBN978-1-4244-5540-9,173-177,2010.
+5.&nbsp;Dhote,R.P.,Melnik,R.V.N.,Zu,J.W.,Wang,L.,Microstructuresofconstrainedshapememoryalloynanowiresunderthermaleffects,ProceedingsoftheASME2010ConferenceonSmartMaterials,AdaptiveStructuresandIntelligentSystems(SMASIS-2010),Philadelphia,USA,2010.
+6.&nbsp;Melnik,R.V.N.,Dhote,R.P.,Zu,J.,Tsviliuk,O.I.,Wang,L.X.,Numericalanalysisofcomplexsystemsevolutionwithphasetransformationsatdifferentspatialscales,ProceedingsoftheTengthInternationalConferenceonComputationalStructuresTechnology,Eds.Topping,B.H.V.etal,Civil-CompPress,Stirlingshire,Scotland,2010..
+7.&nbsp;Melnik.R.,Wang,L.X.,Phase-fieldApproachtoStudyingShapeMemoryEffectsandThermomechanicalPropertiesofLowDimensionalNanostructures,AdvancedResearchinPhysicsandEngineering(inbookseries:MathematicsandComputersinScienceandEngineering),Eds.Martin,O.etal,Proceedingsofthe2ndInternationalConferenceonNanotechnology(UniversityofCambridge,UK,February20-22,2010),pp.125--130,2010.
+8.&nbsp;Melnik,R.V.N.,Wang,L.X.,Tsviliuk,O.I.,Phasetransformationsandshapememoryeffectsinfinitelengthnanostructures,ProceedingsSPIE,BehaviorandMechanicsofMultifunctionalMaterialsandComposites,Eds.Ounaies,Z.andLi,J.,Vol.7644,pp.76440I-76440I-10,SanDiego,USA,&nbsp;2010.
+9.&nbsp;Melnik,R.,Tsviliuk,O.,Wang,L.,Lowdimensionalnonlinearthermomechanicalmodelsdescribingphasetransformationsandtheirapplications,RecentAdvancesinAppliedMathematics(BookSeries:MathematicsAndComputersInScienceAndEngineering),Proceedingsofthe14th&nbsp;InternationalConferenceonAppliedMathematics,Spain,&nbsp;Eds,Bulucea,C.A.etal,ISBN/ISSN:1790-2769,978-960-474-138-0,pp.83-88,2009.
+10.&nbsp;L.X.Wang,C.Q.Zhou,C.S.Feng,Nonlineardifferentialequationapproachforthetwo-wayshapememoryeffectsofone-dimensionalshapememoryalloystructures,OntheSecondInternationalConferenceonSmartMaterialsandNanotechnologyinEngineering,2009,Proc.ofSPIEVol.7493,74931Z
+11.&nbsp;R.Melnik,L.X.Wang,Developingmesoscopicmodelsdescribingphasetransformationsinfinitenanowiresandannoplates,TheIIIinternationalconferenceoncomputationalmethodsfrocoupledproblemsinScienceandEngineering,Italy,June2009,4pages,B.Schrefler,E.OnateandM.Papadrakis(Eds.),CIMNE,Barcelona,ISBN:978-84-96736-65-8.
+12.&nbsp;ChengZhang,LinxiangWang,DynamicModelsforMagnetorheologicalDampersAnditsfeedbacklinearization,AdvancedMaterialResearch,2009,Vol76,1205-1208.
+13.&nbsp;L.X.Wang,Hystereticdynamicsofferroelectricmaterialsunderelectromechanicalloadings.PaperSMASis-333,intheProceedingsofSMASIS08ASMEConferenceonSmartMaterials,AdaptiveStructuresandIntelligentSystems.ISBN:978-0-7918-3839-6,October28-30,2008,EllicottCity,Maryland,USA.
+14.&nbsp;L.X.Wang,M.Willatzen,andR.V.N.Melnik,ModellingNonlinearElectro-MechanicalEffectsinNano-HeterostructuresUsingDomain-DecompositionMethods,proceedingsoftheninthinternationalconferenceoncomputationalstructurestechnology,Greece,Athens,Sep2th-5th.2008,ISBN:978-1-905088-22-5.
+15.&nbsp;L.X.Wang,R.V.N.Melnik,PhaseTransformationsinFiniteLengthNanowires:AnalysiswithMesoscopicModels,proceedingsofthesixthinternationalconferenceonengineeringcomputationaltechnology,Greece,Athens,Sep2th-5th.2008,ISBH:978-1-905088-25-6.
+16.&nbsp;L.X.Wang,R.Liu,R.V.N.Melnik,FeedbackLinearizationofHystereticThermoelasticDynamicsofShapeMemoryAlloyActuatorswithPhaseTransformations,&nbsp;AdvancedMaterialsResearch,2008,(47-50):69-72.
+17.&nbsp;L.X.Wang,Y.Chen,andW.L.Zhao,MacroscopicDifferentialModelforHysteresisandButtery-ShapedBehaviorinFerroelectricMaterials,AdvancedMaterialsResearch,2008,(47-50):65-68.
+18.&nbsp;L.X.Wang,M.Willatzen,R.V.N.Melnik,Modellingofreciprocaltransducersystemaccountingfornonlinearconstitutiverelations,ProceedingsofWorldCongressonEngineering2007,July2-4,London,pp:1242-1246ISBN:978-988-98671-2-6.
+19.&nbsp;L.X.Wang,R.V.N.Melnik,M.Willatzen,Feedbacklinearizationofhystereticdynamicsofsmartmaterialsanddevices,Proceedingsof10thInternationalConferenceandExhibitionoftheEuropeanCeramicSociety,June17-21,Berlin,2007.
+20.&nbsp;M.Willatzen,L.X.Wang,andL.C.LewYanVoon,ElectrostrictioninGaN/AlNheterostructures,intheProceedingsofPLMCN7,Havanna,Cuba(2007).
+21.&nbsp;R.Melnik,D.RoyMahapatra,L.X.Wang,A.Roberts,NumericalMethodsforCoupledNonlinearProblemsofDynamicThermoelasticityandShapeMemoryAlloysModelling,Int.Conf.onComputationalMethodsofCoupledProblemsinScienceandEngineering,2007,E.Onate,M.PapadrakakisandB.Schreer(Eds),CIMNE,Barcelona,2007,ISBN:978-84-96736-18-4.
+22.&nbsp;L.X.Wang,R.V.N.Melnik,ModellingFrequencyAdjustmentEffectsUsingShapeMemoryAlloyOscillators,inProceedingsoftheEighthInternationalConferenceonComputationalStructuresTechnology,B.H.V.Topping,G.MonteroandR.Montenegro,(Editors),Civil-CompPress,Stirlingshire,UnitedKingdom,paper99(13pages),ISBN1-905088-07-8,2006.
+23.&nbsp;L.X.Wang,R.V.N.Melnik,Numericalmodelforthermo-mechanicalwavepropagationwithphasetransformations,inproceedingofthethirdEuropeanconferenceonComputationalMechanics(CD-Rom),Lisbon,Portugal,June5th-9th,paper1438(12pages),2006.
+24.&nbsp;J.Gravesen,B.Lassen,R.Melnik,B.Picasso,R.Piche,N.Tsfulobiv,L.X.Wang,Determinationofdistancefroma2Dpicture,Journalofphysics:conferenceseries,Vol.52.pp46-57,2006.
+25.&nbsp;M.Willatzen,L.X.Wang,Y.Y.Feng,Nonlinearitiesandhysteresisphenomenainreciprocalultrasoundsystems,ProceedingsofIEEEInternationalUltrasonicsSymposium,2005,Rotterdam,Netherland.
+26.&nbsp;R.V.N.Melnik,L.X.Wang,andD.R.Mahapatra,Numericalmodelsforbiocompatibleshapememorymaterialsandtheirbiomedicalapplications,inProceedingsofthe17thWorldCongressonScientificComputation,AppliedMathematicsandSimulation,Eds.P.Borneetal,7pages,CD-ROM,ISBN2-915913-02-1，2005
+&nbsp;
+&nbsp;
+			
+				
+			Researchwork
+			
+			Smartmaterials,structuresanddevices,mechatronicengineering,mathematicalmodeling
+			
+					
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:
+		Units:
+		Title:Professor
+		Myhomepagehasbeenvisited1967times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	
+
+
+Youarevisitor:1967
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

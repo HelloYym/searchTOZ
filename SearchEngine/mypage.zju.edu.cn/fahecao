@@ -1,0 +1,240 @@
+
+
+
+
+
+FaheCao-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0005227";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	FaheCao
+材料电化学、腐蚀与防护
+
+	永久链接:http://mypage.zju.edu.cn/fahecao&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;
+男，1979年生，副教授，博士生导师，美国德州大学奥斯汀分校访问学者（合作教授：AllenJ.Bard）。&nbsp;
+
+浙江大学紫金计划、新星计划、国家留学基金资助人员、浙江大学求是青年学者。&nbsp;
+
+学习工作经历&nbsp;
+
+1996.9-2000.7浙江大学化学系本科学习，获理学学士学位；
+2000.9-2005.6浙江大学化学系博士研究生，获理学博士学位；
+
+2005.8-2007.12浙江大学化学系博士后流动站，博士后，讲师；&nbsp;
+
+2007.12-至今&nbsp;浙江大学化学系，副教授；&nbsp;
+
+2012.11-2013.11美国德州大学奥斯汀分校（TheUniverisityofTexasatAustin）国家留学基金访问学者，浙江大学新星计划；&nbsp;
+
+2012.5-至今&nbsp;浙江大学化学系，副教授，博士生导师；&nbsp;
+&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;目前负责国家自然科学基金面上基金，青年基金，重点基金子课题，浙江省自然科学基金，教育部博士点基金等科研项目，同时作为科研骨干参加了973子课题，支撑计划，科技部平台建设等项目的研究工作。近年来在国内外刊物发表关于材料电化学基础研究和腐蚀与防护方面的学术论文60余篇，50余篇被SCI/EI收录。现为中国腐蚀与防护学会青年工作委员会委员，腐蚀电化学及测试方法专业委员会秘书。
+			
+				
+			工作研究领域
+			
+			材料电化学，腐蚀与防护
+(1)基于扫描微探针的材料微区电化学行为研究，局部反应活性，溶解机制等；
+(2)典型材料模拟大气腐蚀研究，电化学监检测技术在腐蚀失效过程的应用；
+(3)新型环保高耐蚀镁合金阳极/微弧氧化、电沉积等表面处理技术。
+			
+				
+			联系方式
+			
+			电话：+86-571-87952318,+86-13588061502			电子信箱：nelson_caoatzju.edu.cn;fahe.caoatgmail.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：曹发和
+		单位：化学系
+		职称：副教授，博导
+		我的主页共被访问了38151次
+标签：CorrosionElectrochemistrymaterialsProtection	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		发表论文
+	工作研究项目
+	专利成果
+	奖励荣誉
+	实验室介绍
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	Googlescholarcitations
+Google学术搜索
+微博
+electrochemistryindex
+Nature
+Royalsocietyofchemistry
+Sciencedirect
+ACS
+Wiley
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

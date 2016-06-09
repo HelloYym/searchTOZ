@@ -1,0 +1,214 @@
+
+
+
+
+
+zhangwenjun-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0097371";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	zhangwenjun
+foroneflashoflight
+
+	永久链接:http://mypage.zju.edu.cn/zhangwenjun&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			鉴于对中国教育制度的切肤之痛，本人从中学起立志教育事业，希望能为年轻受教育者的幸福尽绵薄之力。报考大学时几乎所有志愿都填报教育专业，本科、硕士、博士期间均学习教育。本科所学专业为学校教育。硕士所学专业为比较教育，师从徐顺松、徐辉教授，并得到王承绪教授的指导。博士时攻读的专业方向为比较课程论与教学论，师从华东师范大学国际与比较教育研究所钟启泉教授。1997年获博士学位并到现在的学校任教。从2000年起，浙江大学教育学院教育系副教授。从2010年起，浙江大学教育学院课程与教学研究所常务副所长。
+从2001年起至今，担任国家文科基地华东师范大学课程与教学研究所兼职研究员。
+
+2002年5月至2003年6月期间获国家留学基金资助在英国伦敦大学教育学院做访问学者。
+2003年至2004年期间被聘为伦敦大学教育学院兼职研究员。
+2008年8月至2009年8月获哈佛燕京学社资助，在哈佛大学燕京学社做访问学者。
+
+&nbsp;
+			
+				
+			工作研究领域
+			
+			研究兴趣广泛，包括当代课程理论与实践、后现代教育思想、教育行动研究、比较教育研究、全球化与教育、教育哲学等。
+
+
+			
+					
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：张文军
+		单位：教育学院课程与教学研究所
+		职称：副教授
+		我的主页共被访问了26913次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	奖励荣誉
+	实验室介绍
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

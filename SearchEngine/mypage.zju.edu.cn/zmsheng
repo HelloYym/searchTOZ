@@ -1,0 +1,204 @@
+
+
+
+
+
+盛正卯的个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0083197";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	盛正卯的个人主页
+聚变理论与模拟
+
+	永久链接:http://mypage.zju.edu.cn/zmsheng&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			1994年在浙江大学获博士学位，导师汪容教授；1995-1996年在英国Durham大学数学系从事博士后研究，合作教授Ed.Corrigan教授；1992年以来多次访问意大利国际理论物理中心,其中1998-2005年为该中心的AssociateMember,2005年曾访问美国加州大学Irvine分校２个月，2008年访问美国普林斯顿大学等离子体物理物理实验室2个月开展合作研究.目前的研究重点有：波与等离子体的非线性相互作用，激光等离子体物理，磁约束聚变理论与模拟以及非对易空间上的场论研究,承担了多项包括国家重大专项,&quot;973&quot;,&quot;863&quot;和自然科学基金在内国家项目,在PhysicalReviewD,PhysicsLettersB,PhysicsofPlasmas等SCI杂志上发表了30余篇学术论文.
+			
+				
+			工作研究领域
+			
+			等离子体物理\\聚变理论与模拟\\场论与数学物理
+			
+				
+			联系方式
+			
+			电话：0571-87953963			电子信箱：zmsheng@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：盛正卯
+		单位：物理学系,浙江大学聚变理论与模拟中心
+		职称：教授
+		我的主页共被访问了5859次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

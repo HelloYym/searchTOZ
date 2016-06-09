@@ -1,0 +1,244 @@
+
+
+
+
+
+神经退行性疾病研究组-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0010074";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	神经退行性疾病研究组
+
+
+	永久链接:http://mypage.zju.edu.cn/sunbg&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			工作经历
+2010-浙江大学医学院神经科学研究所，教授
+2005-2010加州大学旧金山分校Gladstone研究所，博士后
+1997-2002中国农业大学，助教、讲师
+
+教育经历
+2002-2005理学博士，埼玉大学，日本
+1994-1997理学硕士,中国农业大学
+1990-1994学士，河北农业大学
+&nbsp;&nbsp;
+研究方向：
+1、神经退行性疾病，尤其是阿尔茨海默症（Alzheimer&rsquo;sdisease,AD）的发病机理、调控、预防以及早期诊断；
+2、神经干细胞，尤其是成年哺乳动物脑中神经干细胞的发育、功能调控及其与神经系统疾病的关系。
+
+
+发表论文：
+
+
+何晓,孙秉贵.小胶质细胞及免疫相关受体在老年痴呆症中的作用研究进展.药学学报,2014,49(6):774-780.
+刘运进，潘洪玉，孙秉贵.老年痴呆症的突触和神经环路机制.生命科学2014,26(1):35-43.
+MartensLH,ZhangJ,BarmadaSJ,ZhouP,KamiyaS,SunB,MinSW,GanL,FinkbeinerS,HuangEJ,FareseRVJr.Progranulindeficiencypromotesneuroinflammationandneuronlossfollowingtoxin-inducedinjury.JClinInvest2012,122(11):3955-3959.
+WangC*,SunB*,ZhouY,GrubbA,GanL.CathepsinBdegradesamyloid-&beta;inmiceexpressingwildtypehumanamyloidprecursorprotein.JBiolChem2012,287(47):39834-39841.*Equalcontribution
+MinamiSS,SunB,PopatK,KauppinenT,PleissM,ZhouY,WardME,FloreanigP,Muckel,DesaiT,GanL.Selectivetargetingofmicrogliabyquantumdots.JNeuroinflammation2012,9(1):22.
+ChoSH,SunB,ZhouY,KauppinenTM,HalabiskyB,WesP,RansohoffRM,GanL.CX3CR1proteinsignalingmodulatesmicroglialactivationandprotectsagainstplaque-independentcognitivedeficitsinamousemodelofAlzheimerdisease.JBiolChem2011,286:32713-32722.
+CisseM,HalabiskyB,HarrisJ,DevidzeN,DubalD,SunB,OrrA,LotzG,KimD,HamtoT,HoK,YuG,MuckeL.ReversingEphB2depletionrescuescognitivefunctionsinAlzheimermodel.Nature2011,469:47-52(Article).
+SunB*,HalabiskyB*,ZhouY,YuG-Q,MuckeL,GanL.ImbalancebetweenGABAergicandGlutamatergicTransmissionImpairsAdultNeurogenesisinanAnimalModelofAlzheimer'sDisease.CellStemCell2009,5:624-633(coverstory).*Equalcontribution
+SunB*#,MochidukiA*,KimieNakamura,YokoyamaK,AdachiS,FujiwaraK,MatsumotoH,InoueK.BlockadeofPrRPattenuatesMPTP-inducedtoxicityinmice.Peptides2009,30:1267-1275.&nbsp;*Co-firstauthor,#Correspondingauthor
+SunB,ZhouY,HalabiskyB,LoI,ChoS,Mueller-SteinerS,DevidzeN,WangX,GrubbA,GanL.CystatinC-cathepsinBaxisregulatesamyloidbetalevelsandassociatedneuronaldeficitsinananimalmodelofAlzheimer'sdisease.Neuron2008,60:247&ndash;257.
+Mueller-SteinerS,ZhouY,AraiH,RobersonED,SunB,ChenJ,WangX,YuG,EspositoL,MuckeL,GanL.AntiamyloidogenicandneuroprotectivefunctionsofcathepsinB:implicationsforAlzheimer'sdisease.Neuron2006,51:703-714.
+AdachiS,MochidukiA,NemotoH,SunB,FujiwaraK,MatsumotoH,InoueK.Estrogensuppressesthestressresponseofprolactin-releasingpeptide-producingcells.NeuroscienceLetters2005,380:311-315
+SunB,NemotoH,FujiwaraK,AdachiA,InoueK.Nicotinestimulatesprolactin-releasingpeptide(PrRP)cellsandnon-PrRPcellsinthesolitarynucleus.RegulatoryPeptides2005,126:91-96
+SunB,GanL.Manipulationofgeneexpressioninthecentralnervoussystemwithlentiviralvectors.MethodsMolBiol2011,670:155-168
+SunB,FujiwaraK,AdachiA,InoueK.Physiologicalrolesofprolactin-releasingpeptide.RegulatoryPeptides2005,126:27-33
+
+
+
+联系方式：
+孙秉贵
+浙江大学神经科学研究所
+联系电话:0571-88981753
+Email：bsun@zju.edu.cn
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+			
+					
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：孙秉贵
+		单位：医学院
+		职称：教授
+		我的主页共被访问了11102次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	SUNLAB@NEURO
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

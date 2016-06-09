@@ -1,0 +1,199 @@
+
+
+
+
+
+高重阳-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0002432";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	高重阳
+
+
+	永久链接:http://mypage.zju.edu.cn/gaocy&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			高重阳，博士，副教授。2001年获清华大学工程力学系固体力学专业博士学位，同年获法国政府中法科技交流奖学金资助，赴法国矿业大学（EcloedesMines）做博士后研究工作，2003年进入浙江大学应用力学研究所一直从事教学和科研工作，2012年加入现代制造工程研究所团队致力于我国大型飞机航空制造及装配领域关键共性力学问题的基础性研究。期间曾于2006年获澳大利亚政府海外学者奋进（Endeavour）研究奖学金，在悉尼大学航空机械系访问6个月；2010年前往澳大利亚新南威尔士大学（UNSW）与国际知名的多尺度加工塑性领域专家、澳大利亚工程院L.C.Zhang院士开展合作研究取得系统性的学术成果。目前主要研究方向包括多尺度材料加工塑性行为、航空材料先进加工工艺力学建模、3D编织/纤维增强复合材料力学、ABAQUS有限元分析与动态过程仿真等。工作期间主持承担国家基金面上项目、国家部委重点课题、国家重点实验室开放基金、国家留学基金委回国人员启动基金等纵向项目，2013年浙江省杰出青年基金获得者，并主要参加国家基金重大项目、国家科技支撑计划、国防军工等科研项目。发表SCI/EI论文二十多篇，现为国际计算力学学会会员，担任《Int.J.Plasticity》、《Int.J.AdvancedManufacturingTechnology》、《ScienceChina-E》、《航空学报》、《兵工学报》等国内外核心学术期刊审稿人。
+			
+				
+			联系方式
+			
+						电子信箱：lxgao@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：高重阳
+		单位：机械工程学系
+		职称：副教授
+		我的主页共被访问了2564次
+标签：科学研究	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

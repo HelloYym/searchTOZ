@@ -1,0 +1,208 @@
+
+
+
+
+
+吴浩个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0002426";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	吴浩个人主页
+
+
+	永久链接:http://mypage.zju.edu.cn/eewuhao&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			吴浩，男，1973年生，浙江大学副教授，电力系统自动化研究所副所长。1996年7月获上海交通大学电力系统继电保护及自动远动技术专业学士学位及工业外贸第二学士学位；1999年3月和2003年3月分别获浙江大学电力系统自动化专业硕士和博士学位；2002年12月至今，在浙江大学电气工程学院任教；2003年6月至2004年9月公派香港理工大学电机系，从事电力市场中无功和电压稳定问题的研究；2006年12月晋升副教授；2009年6月至2011年3月访问美国威斯康辛大学麦迪逊校区电气及计算机工程系，与IanDobson教授合作，从事连锁故障和大停电、低频振荡抑制等问题的研究。
+先后负责国家自然科学基金2项，参加国家973和863项目子课题各1项，参与省级及各地电力/电网公司科技项目十余项，发表论文二十余篇。从事过的研究方向有电压稳定、DAE系统的奇异性、OPF、潮流追踪和分摊。目前正在进行的工作为感应电动机连锁堵转、连锁故障、风光储水建模和调度、随机潮流、随机优化等。
+			
+				
+			工作研究领域
+			
+			电力系统稳定性、电力系统运行优化、连锁故障、负荷模型、随机分析和优化
+			
+				
+			联系方式
+			
+			电话：0571-87951542			电子信箱：vuhao@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：吴浩
+		单位：电气工程学院
+		职称：副教授
+		我的主页共被访问了13898次
+标签：电力系统自动化	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

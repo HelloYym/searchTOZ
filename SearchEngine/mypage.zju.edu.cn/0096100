@@ -1,0 +1,254 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0096100";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0096100&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;
+江黎明博士教授
+浙江大学高分子科学与工程系高分子科学研究所
+浙江杭州310027&nbsp;
+电话/传真：0571-87953727
+电子邮箱：cejlm@zju.edu.cn
+
+1996年7月毕业于浙江大学高分子科学与工程系，获理学博士学位，高分子化学与物理专业，留校任教至今。1998年晋升副教授，2005年晋升教授，2006年聘为博士生导师。曾赴日本广岛大学工学部（2000.5-7，JSPS项目）和韩国科学技术研究院合作研究（2002.8-2003.8）。
+研究兴趣：
+*稀土催化及可控聚合
+*光学活性聚合物的设计、合成及手性功能材料
+*精细化学品
+近五年承担的主要研究项目：
+*新型N-取代马来酰亚胺旋光高分子及其金属配合物（国家自然科学基金）
+*稀土新型催化剂和可控聚合反应研究（国家自然科学基金）
+*特种涂料及人造革离形纸的研制
+LimingJIANG
+Dr&amp;Professor
+InstituteofPolymerScience,
+DepartmentofPolymerandEngineering,
+ZhejiangUniversity,
+Hangzhou310027&nbsp;China
+E-mail:cejlm@zju.edu.cn
+Tel/Fax:+86-571-87953727
+GraduatedfromDepartmentofChemistry,NormalCollegeofZhejiang(1982);ReceivedMasterdegreeatDepartmentofChemistry,HangzhouUniversity(1992),andPhDatDepartmentofPolymerScience&amp;Engineering,ZhejiangUniversity(1996,PhDDissertation:Polymerizationofstyreneandpolarmonomerswithrare-earthcatalysts).Promotedasanassociateprofessor(1998)andafullprofessor(2005).&nbsp;&nbsp;VisitedHiroshimaUniversity(Japan,2000.5-7)and&nbsp;KoreaInstituteofScienceandTechnology(2002.8-2003.8)asavisitingscholar.
+Researchinterests:
+*Newrare-earthcatalystsforthepolymerizationwithwellcontrollability
+*Opticallyactivepolymer-basedmaterialswithachiralrecognitionfunction;
+*Specialchemicalsforpaper-making
+Recentmainresearchprojects:
+*OpticallyactivepolymersbasedonN-substitutedmaleimidesandtheirmetalcomplexes(NSFC)
+*Newrare-earthcatalystsandtheirapplicationinpolymersynthesis(NSFC)
+*Specialcoatingsforreleasingpaperandtheproductionofartificialleather
+代表性论文：
+1.&nbsp;LouLP,JiangLM,SunWL,ShenZQ
+Anovelopticallyactivediblockcopolymercomposedofpoly(ethyleneglycol)andpoly[N-maleimide]:Synthesis,micellizationbehavior,andchiropticalproperty,
+JOURNALOFPOLYMERSCIENCEPARTA-POLYMERCHEMISTRY46(3):1025-1033.FEB12008
+2.XiXJ,JiangLM,SunWL,etal.
+Metal-inducedsupramolecularchiralityinopticallyactivepolymersofoxazoline-substitutedN-phenylmaleimides,&nbsp;CHIRALITY19(7):521-527JUL2007
+3.FuZ,XiXJ,JiangLM,etal.
+Opticallyactivepolymethacrylamidesbearingabulkyoxazolinependant:Synthesisandcharacterization&nbsp;
+REACTIVE&amp;FUNCTIONALPOLYMERS67(7):636-643JUL2007
+4.LouLP,JiangLM,LiuJZ,SunWL,ShenZQ
+Synthesisandcharacterizationofopticallyactivestar-shapedpoly(N-phenylmaleimide)swithacalixarenecore,POLYMERINTERNATIONAL&nbsp;56(6):796-802&nbsp;JUN&nbsp;2007
+5.XiXJ,JiangLM,LingJ,etal.
+Synthesisofstar-shapedpoly(epsilon-caprolactone)bysamarium-basedtetrafunctionalinitiatoranditsdilute-solutionproperties,JOURNALOFAPPLIEDPOLYMERSCIENCE102(1):175-182OCT52006
+5.XiXJ,JiangLM,SunWL,etal.
+SynthesisandanionicpolymerizationofopticallyactiveN-phenylmaleimidesbearingbulkyoxazolinesubstituents,EUROPEANPOLYMERJOURNAL41(11):2592-2601NOV2005
+			
+				
+			工作研究领域
+			
+			稀土催化及可控聚合；光学活性聚合物的设计、合成及手性功能材料；精细化学品。
+			
+				
+			联系方式
+			
+			电话：0571-87953727			电子信箱：cejlm@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：江黎明
+		单位：高分子科学与工程学系
+		职称：教授
+		我的主页共被访问了8067次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	发表论文
+	研究成果
+	专利成果
+	奖励荣誉
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

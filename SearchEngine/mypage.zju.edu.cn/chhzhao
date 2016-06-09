@@ -1,0 +1,308 @@
+
+
+
+
+
+浙江大学过程监测与控制研究组-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0012001";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	浙江大学过程监测与控制研究组
+若本网站显示异常，建议使用Chrome或搜狗浏览器浏览
+
+	永久链接:http://mypage.zju.edu.cn/chhzhao&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+<spanstyle="font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">赵春晖，女，1979<spanstyle="font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">年生，山东莱州人。
+1999/08-2003/07&nbsp;<spanstyle="font-family:宋体;
+mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
+宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin">东北大学自动化专业<spanstyle="font-family:
+宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
+宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin">学士学位
+2003/09-2006/03&nbsp;<spanstyle="font-family:宋体;
+mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
+宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin">东北大学控制理论与控制工程专业保送硕士<spanstyle="font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+Calibri;mso-hansi-theme-font:minor-latin">（导师：王福利教授）
+2005/03-2009/01&nbsp;<spanstyle="font-family:宋体;
+mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
+宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin">东北大学控制理论与控制工程专业硕博连读<spanstyle="font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+Calibri;mso-hansi-theme-font:minor-latin">（导师：王福利教授）
+2009/01-2010/6&nbsp;&nbsp;&nbsp;<spanstyle="font-family:宋体;
+mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
+宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin">香港科技大学化学及生物分子工程系<spanstyle="font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+Calibri;mso-hansi-theme-font:minor-latin">博士后<spanstyle="font-family:
+宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
+宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin">（导师：高福荣教授）
+2010/06-2012/01&nbsp;<spanstyle="font-family:宋体;
+mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
+宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin">美国加州大学圣巴拉分校化工系<spanstyle="font-family:
+宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
+宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin">博士后、美国圣巴拉Sansum<spanstyle="font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+Calibri;mso-hansi-theme-font:minor-latin">糖尿病研究所<spanstyle="font-family:
+宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
+宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin">助理研究员（合作导师：FrancisJ.DoyleIII<spanstyle="font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">教授、DaleESeborg<spanstyle="font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">教授）
+2012/01-2014/12&nbsp;<spanstyle="font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+Calibri;mso-hansi-theme-font:minor-latin">特聘研究员<spanstyle="font-family:
+宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
+宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin">浙江大学信息学部控制科学与工程学系
+2015/01<spanstyle="font-family:
+宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
+宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin">&mdash;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<spanstyle="font-family:宋体;
+mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
+宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin">教授<spanstyle="font-family:宋体;
+mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
+宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin">浙江大学信息学部控制科学与工程学系
+<spanstyle="font-family:
+宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
+宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin">浙江大学信息学部控制科学与工程学系教授、硕士生导师、博士生导师，IEEE高级会员。2012<spanstyle="font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">年入选教育部新世纪优秀人才计划，曾获教育部自然科学一等奖与二等奖各一次以及全国百篇优博提名；陆续获得各大学术会议的优秀论文奖及提名；2013<spanstyle="font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">年起获国家自然科学基金面上项目、优秀青年基金、重点项目、浙江省杰出青年基金等基金资助。现担任JCSE<spanstyle="font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">国际期刊编委，中国过程控制专业委员会委员、自动化学会青工委委员等，并担任AIChEJ<spanstyle="font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">、JPC<spanstyle="font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">以及IEEE<spanstyle="font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">会刊等国内外控制领域知名期刊的审稿人。
+			
+				
+			工作研究领域
+			
+			基于多元统计分析的数据处理与建模；
+化工过程监测、故障诊断、质量预测；
+糖尿病人工胰脏中的血糖监测与预测。
+
+			
+				
+			联系方式
+			
+						电子信箱：chhzhao@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：赵春晖
+		单位：控制科学与工程学系
+		职称：教授
+		我的主页共被访问了114178次
+标签：报考研究生，化工过程，间歇过程，过程控制，糖尿病，血糖监控报考博士研究生科研	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	教学工作
+	研究成果
+	发表论文
+	专利成果
+	奖励荣誉
+	学术风采
+	其他学术任职
+	SRTP项目信息
+	实验室介绍
+	我的学生
+	学术交流（讲座报告）
+	科研合作关系
+	研究生、博士后招生信息
+	News！！！
+	出版著作
+	相关招聘信息
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	高福荣
+孙优贤
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

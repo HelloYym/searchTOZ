@@ -1,0 +1,254 @@
+
+
+
+
+
+KaiXu-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0011088";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	KaiXu
+CollegeofEconomics,ZhejiangUniversity
+
+	Permanentlink:http://mypage.zju.edu.cn/en/kaixu&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			&nbsp;
+ContactInformation
+&nbsp;&nbsp;&nbsp;&nbsp;Email：kaixu@zju.edu.cn
+&nbsp;&nbsp;&nbsp;&nbsp;Website：http://mypage.zju.edu.cn/en/kaixu
+&nbsp;&nbsp;&nbsp;&nbsp;Fax：0571-87951614
+&nbsp;&nbsp;&nbsp;&nbsp;Address：38ZhedaRoad,CollegeofEconomics,ZhejiangUniversity,Hangzhou,China,310027
+&nbsp;
+ProfessionalExperience
+&nbsp;&nbsp;&nbsp;&nbsp;Lecturer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ZhejiangUniversity&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;October2011to&nbsp;present
+&nbsp;
+Education
+&nbsp;&nbsp;&nbsp;&nbsp;Ph.D.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Economics&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TheUniversityofWesternOntario&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2011
+&nbsp;&nbsp;&nbsp;&nbsp;Master&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Economics&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TheUniversityofWesternOntario&nbsp;&nbsp;&nbsp;&nbsp;2006&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;Bachelor&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Economics&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SimonFraser&nbsp;University&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2005
+&nbsp;
+ResearchFields
+&nbsp;&nbsp;&nbsp;&nbsp;InternationalTrade,InternationalMacroeconomics,Development
+&nbsp;
+TeachingFields
+&nbsp;&nbsp;&nbsp;&nbsp;Graduate：InternationalTrade,InternationalMacroeconomics,Macroeconomics
+&nbsp;&nbsp;&nbsp;&nbsp;Undergraduate：InternationalTrade,InternationalFinance,InternationalBusiness,Macroeconomics,&nbsp;Development,ComputationalEconomics&nbsp;
+&nbsp;
+TeachingExperience
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ZhejiangUniversity&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2012&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AdvancedMacroeconomics,Ph.D.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;QuantitativeAnalysisinEconomics,Ph.D.andMasters
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;InternationalTrade,Undergraduate
+&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;TheUniversityofWesternOntario
+&nbsp;&nbsp;&nbsp;&nbsp;2011&nbsp;&nbsp;&nbsp;&nbsp;Ec2152&nbsp;Instructor-IntermediateMacroeconomics,Undergraduate
+&nbsp;&nbsp;&nbsp;&nbsp;2010&nbsp;&nbsp;&nbsp;&nbsp;Ec2164&nbsp;Instructor-InternationalFinance,Undergraduate
+&nbsp;&nbsp;&nbsp;&nbsp;2009&nbsp;&nbsp;&nbsp;&nbsp;Ec2162&nbsp;Instructor-ComparativeInternationalBusiness,Undergraduate
+&nbsp;
+References
+&nbsp;&nbsp;&nbsp;&nbsp;ProfessorJamesMacGee
+&nbsp;&nbsp;&nbsp;&nbsp;DepartmentofEconomics
+&nbsp;&nbsp;&nbsp;&nbsp;SocialScienceCentre,Room4008
+&nbsp;&nbsp;&nbsp;&nbsp;TheUniversityofWesternOntario
+&nbsp;&nbsp;&nbsp;&nbsp;London,ON,Canada,N6H5C2
+&nbsp;&nbsp;&nbsp;&nbsp;Tel:5196612111&nbsp;ext.85207
+&nbsp;&nbsp;&nbsp;&nbsp;Fax:5196613666
+&nbsp;&nbsp;&nbsp;&nbsp;Email:jmacgee@uwo.ca
+&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;ProfessorHiroyukiKasahara
+&nbsp;&nbsp;&nbsp;&nbsp;UBCDepartmentofEconomics
+&nbsp;&nbsp;&nbsp;&nbsp;997-1873EastMall,Vancouver,BC
+&nbsp;&nbsp;&nbsp;&nbsp;V6T1Z1,Canada
+&nbsp;&nbsp;&nbsp;&nbsp;Tel:6048228624
+&nbsp;&nbsp;&nbsp;&nbsp;Fax:6048225915
+&nbsp;&nbsp;&nbsp;&nbsp;Email:hkasahar@interchange.ubc.ca
+&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;ProfessorDavidRivers
+&nbsp;&nbsp;&nbsp;&nbsp;DepartmentofEconomics
+&nbsp;&nbsp;&nbsp;&nbsp;SocialScienceCentre,Room4024
+&nbsp;&nbsp;&nbsp;&nbsp;TheUniversityofWesternOntario
+&nbsp;&nbsp;&nbsp;&nbsp;London,ON,Canada,N6A5C2
+&nbsp;&nbsp;&nbsp;&nbsp;Tel:5196612111&nbsp;ext.80446
+&nbsp;&nbsp;&nbsp;&nbsp;Fax:5196613666
+&nbsp;&nbsp;&nbsp;&nbsp;Email:drivers2@uwo.ca
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+			
+					
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:KaiXu
+		Units:CollegeofEconomics,ZhejiangUniversity
+		Title:Lecturer
+		Myhomepagehasbeenvisited25956times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+Research
+Teaching
+SeminarsandConferencePresentations
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	EconomicsatZhejiangU.
+IIEatZhejiangUniversity
+EconomicsatUWO
+
+
+
+Youarevisitor:25956
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

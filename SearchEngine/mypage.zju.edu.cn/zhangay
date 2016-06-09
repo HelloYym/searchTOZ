@@ -1,0 +1,252 @@
+
+
+
+
+
+张安运教授-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0006021";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	张安运教授
+欢迎您!
+
+	永久链接:http://mypage.zju.edu.cn/zhangay&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+张安运，博士，教授，博士生导师
+电话/传真：0571-87953919（O）
+电子邮件：zhangay@zju.edu.cn
+&nbsp;
+陕西师范大学化学系学士、西北大学无机化学硕士、中国原子能科学研究院工学博士
+曾任陕西师范大学副教授、无机化学教研室主任、有机化学专业硕士导师
+2000-2001年：日本原子力研究所(JAERI)燃料循环安全研究工学部ResearchFellow
+2001-2005年：日本产业创造研究所(IRI)原子力工学研究中心化学工学部研究员
+2005-2006年：日本产业创造研究所(IRI)原子力工学研究中心化学工学部主任研究员
+2006-2009年：浙江大学材料与化学工程学院教授、博士生导师，分子工程研究室主任
+2009-至今：浙江大学化学工程与生物工程学院教授、博士生导师，分子工程研究室主任
+.
+
+
+
+从事大环超分子Calix[n]areneMono/BisCrown、Pillar[5]arene及含N多环R-BTP、R-BTBP、R-BTPhen软配体试剂合成、先进大孔硅基超分子识别材料、大孔硅基含N软配体功能材料、配合物合成、表征、晶体结构及构-效关系、分子修饰技术、天然产物提取与分离、溶剂萃取、吸附与色谱分离新技术新方法、先进核能与安全技术(乏燃料后处理、高放废物(HLLW)处理处置、核应急管理等)领域国际基础性、前沿性、前瞻性及创新性研究。
+.
+
+
+
+基于先进的固定化真空灌注型Silica-based高分子吸附材料，在国际上首次提出了有效分离长寿命次锕系元素(MA)的先进MAREC(MinorActinidesRecoveryfromHLLWbyExtractionChromatography)色谱技术流程，为安全有效处理HLLW提供了新思路新方法；2004年该流程被选入日本原子力研究开发机构(JAEA)新一代后处理技术流程NEXT(NewExtractionSystemforTRURecovery)流程中，2006年9月该流程被日本政府确定为分离次锕系元素的唯一候补技术流程；2009年提出了有效分离发热元素Cs/Sr的SPEC(Strontium/CssiumPartitioningfromHLLWbyExtractionChromatography)色谱技术流程；2012年提出了同时分离长寿命MA和Pd的MPS(MinorActinidesandPalladiumSeparationfromHLLWbyExtractionChromatography)色谱技术流程。
+.
+
+
+
+先后主持或参加日本文部科学省课题、日本原子力研究开发机构(JAEA)课题、中国国家自然科学基金(重大项目、面上项目)、教育部博士学科点专项科研基金、教育部留学回国人员科研启动基金、&ldquo;钱江人才&rdquo;计划项目、浙江省自然科学基金、核工业科学基金等30余项研究课题，获国防科学技术奖1项，授权英、法、美、日国际发明专利4项，授权中国发明专利7项，翻译出版《兰氏化学手册》(科学出版社)1部，在国内外学术刊物上发表研究论文100余篇，其中以第一作者及通讯作者在国际化学工程领域顶级刊物AIChEJournal、JournalofChromatographyA、Industrial&amp;EngineeringChemistryResearch、JournalofHazardousMaterials等SCI源刊上发表论文80余篇。
+.
+
+
+
+担任AmericanJournalofAnalyticalChemistry、Journal&nbsp;ofBiophysicalChemistry、IonExchangerLetters、DevelopmentinAnalyticalChemistry、AdvancedChemicalEngineering等多份国际刊物编委或顾问编委，《核化学与放射化学》、《化学工程与技术》编委，2011InternationalConferenceonChemicalENgineering(CEN)国际会议&ldquo;CEN2011ConferenceCommittee&rdquo;大会委员会委员。
+.
+担任中国核学会核测试与分析学会常务理事、中国核学会核化学与放射化学学会理事、环境放射化学专业委员会委员、全国材料新技术发展研究会常务理事、浙江省人民政府第二届应急管理专家组成员、中国工程物理研究院研究员评审委员会委员。
+&nbsp;
+近期研究兴趣：
+1.&nbsp;新型超分子Calix[n]areneMono/BisCrown、Pillar[5-6]arene合成与表征
+2.新型含软配体R-BTP、R-BTBP、R-BTphen系列有机试剂合成、表征、单晶结构及构-效关系
+3.大孔硅基超分子识别材料Calix[n]areneMono/BisCrown/SiO2-P、Pillar[5-6]arene/SiO2-P合成、表征、结构与基础吸附特性
+4.大孔硅基软配体识别材料R-BTP(R-BTBP、R-BTphen)/SiO2-P制备、表征、结构与基础吸附特性
+5.Rb、Cs、Sr、Ba、Pd、MA(Am+Cm)、RE等特定元素色谱分离新技术、新方法
+6.&nbsp;溶剂萃取性能和机理
+7.各种吸附过程及氧化还原反应动力学和机理
+8.新型配合物合成、表征、晶体结构及构-效关系
+9.天然产物提取分离技术
+10.先进核能与安全技术(乏燃料后处理、高放废液(HLW)中重要元素分离新材料、新技术和新方法、应急管理)
+&nbsp;
+主持在研项目
+1.国家自然科学基金：基于新颖固定化灌注型硅基超分子识别材料盐湖中铷锶铯分离新技术新方法，2015-2017
+2.国家自然科学基金：基于新颖硅基软配体功能材料次锕系元素色谱分离新方法，2014-2017
+3.国家自然科学基金：基于新型超分子识别材料发热元素锶与铯色谱分离新技术新方法，2012-2014
+4.国家自然科学基金：新颖固定化灌注型大孔硅基反应性与功能性材料次锕系元素分离新技术新方法，2009-2011
+5.国家自然科学基金：基于新型固定化灌注型硅基超分子识别材料发热元素锶铯分离新技术新方法，2006-2009
+			
+				
+			联系方式
+			
+			电话：0571-87953919			电子信箱：zhangay@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：张安运
+		单位：化学工程与生物工程学系
+		职称：教授
+		我的主页共被访问了11017次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

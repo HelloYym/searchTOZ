@@ -1,0 +1,241 @@
+
+
+
+
+
+王伟-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0011861";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	王伟
+浙江大学原子核农业科学研究所
+
+	永久链接:http://mypage.zju.edu.cn/wei_wang&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			个人简介：
+王伟，女，浙江人，浙江大学理学博士，现为浙江大学原子核农业科学研究所副教授/博士生导师，浙江大学求是青年学者。主要的研究方向为核素示踪技术应用、环境污染与监测、环境化学。曾获国家留学基金委资助，于2009至2011年作为国家公派联合培养研究生赴美国加州大学河滨分校环境科学系交流学习。目前，已在&quot;EnvironmentalScience&amp;Technology&rdquo;、&quot;JournalofHazardousMaterials&quot;、&quot;JournalofAgricultureandFoodChemistry&quot;等国内外知名期刊以第一或共同作者发表论文20余篇。担任SCI期刊EnvironmentalPollution和JournalofSoilsandSediments等审稿人。
+&nbsp;
+主要研究方向：
+1、创制农药的残留、降解及其在动、植物中吸收、代谢等环境行为研究。
+2、多溴联苯醚（PBDE）等持久性有机污染物在多介质体系中的分配、吸附、解析等环境行为研究。
+3、农药结合残留安全评价及污染修复技术。
+4、同位素示踪、辐照保鲜与加工等核技术研究及应用。
+5、生物能源开发及利用。
+6、地学统计在环境科学研究中的应用，空间模型和随机模型在环境质量评估中的应用，GIS在数据处理中的应用。
+&nbsp;
+主要发表论文：
+1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;WeiWang,LauraDelgado-Moreno,QingfuYe,JayGan*,2011.Improvedmeasurementsofpartitioncoefficientsforpolybrominateddiphenylethers(PBDEs).EnvironmentalScience&amp;Technology,45:1521-1527.&nbsp;
+2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;WeiWang,LongYue,SufenZhang,WenyuanQi,HaiyanWang,QingfuYe*,ZiyuanChen,2013.FateofPyribambenzPropyl(ZJ0273)inAnaerobicSoilsRevealedbyPosition-specific14CLabeling.JournalofHazardousMaterials,2013,258-259:151-158.
+3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ChengchenWu,WeiWang(共同第一作者),LongYue,ZhenYang,QiuguoFu,QingfuYe*,2013.EnhancementeffectofethanolonlipidandfattyacidaccumulationandcompositionofScenedesmussp.BioresourceTechonology,2013,140:120-125.&nbsp;
+4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;WeiWang,QingfuYe*,WeiDing,AiliangHan,HaiyanWang,LongLu,JayGan,2010.InfluenceofSoilFactorsontheDissipationofaNewPyrimidynyloxybenzoicHerbicideZJ0273.JournalofAgricultureandFoodChemistry58:3062-3067.&nbsp;
+5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;WeiWang,YichenWang,ZhengLi,HaiyanWang,ZhiyangYu,LongLu,QingfuYe,2014.Studiesontheanoxicdissipationandmetabolismofpyribambenzpropyl(ZJ0273)insoilsusingposition-specificradiolabeling.ScienceoftheTotalEnvironment472:582-5892.
+6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;WeiWang,LauraDelgado-Moreno,JeremyConkleL.,MichaelAnderson,ChristopherAmrhein,QingfuYe，JayGan*,2012.Characterizationofsedimentcontaminationpatternsbyhydrophobicpesticidestopreserveecosystemfunctionsofdrainagelakes,California.JournalofSoilsandSediments12:1407-1418.&nbsp;
+7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ZhenYang,WeiWang,HaiyanWang,QingfuYe*,2013.Effectsofthespecificricestarchandpre-incubationtemperaturesonthephysicochemicalpropertiesofsurimigelfromGrassCarp(CtenopharynOdonIdellus).FoodChemistry145:212-219.
+8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SufenZhang,WeiWang,HaiyanWang,LingYue,WenyuanQi,Qingfu,Ye,2013.Synthesisandcharacterisationofstarchgraftedsuperabsorbentvia10Mevelectron-beamirradiation.CarbonhydratePolymers:10.1016/j.carbpol.2013.10.009.
+9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ZhengminYang,WeiWang,AiliangHan,QingfuYe*,LongLu,2008.DeterminationofherbicideZJ0273residueinrapeseedbyradioisotopictracingmethod.FoodChemistry114:300-305.
+10.&nbsp;&nbsp;&nbsp;&nbsp;FangJia,XinyiCui,WeiWang,LauraDelgado-Moreno,JayGan*,2012.Usingdisposablesolid-phasemicroextraction(SPME)todeterminethefreelydissolvedconcentrationofpolybrominateddiphenylethers(PBDEs)insediments.EnvironmentalPollution167:34-40.
+11.&nbsp;&nbsp;&nbsp;&nbsp;ZhenYang,HaiyanWang,WeiWang,WenyuanQi,LingYue,QingfuYe*,2013.Effectof10MeVE-beamirradiationcombinedwithvacuum-packagingontheshelfofAtlanticsalmonfilletsduringstroageat4oC.FoodChemistry145:535-541.
+12.&nbsp;&nbsp;&nbsp;&nbsp;HaiyanWang,LichengWu,WeiWang,QingfuYe*,2006.Cry1AbproteinfromBttransgenicricedoesnotresidueinrhizospheresoil.EnvironmentalPollution,143:449-455.
+13.&nbsp;&nbsp;&nbsp;&nbsp;ZhiqiangCai,HaiyanWang,SaiShi,WeiWang,QiaoliChen,XiyueZhao,QingfuYe*,2013.AerobicbiodegradationkineticsandpathwayofthenovelherbicideZJ0273insoils,EuropeanJournalofSoilSciences64:37-46.
+14.&nbsp;&nbsp;&nbsp;&nbsp;QiuguoFu,JianboZhang,XiaoyongXu,HaiyanWang,WeiWang,QingfuYe,ZhongLi,2013.Diastereoselectivemetabolismofanovelcis-NitromethyleneneonicotinoidPaichongdinginaerobicSoils.EnvironmentalScience&amp;Technology47:10389-10396.
+15.&nbsp;&nbsp;&nbsp;&nbsp;ZhiqiangCai,QiaoliChen,HaiyanWang,YucaiHe,WeiWang,XiyueZhao,QingfuYe*,2012.DegradationofthenovelherbicideZJ0273byamycolatopsissp.M3-1isolatedfromsoil,96:1371-1379.
+16.&nbsp;&nbsp;&nbsp;&nbsp;AiliangHan,QingfuYe*,HaiYanWang,WeiWang,LuLong,2009.Absorption,Translocation,andResidueof14C-ZJ0273inOilseedRape.JournalofAgricultureandFoodChemistry,57:4398-4402.
+17.&nbsp;&nbsp;&nbsp;&nbsp;LingYue,WenyuanQi,QingfuYe*,HaiyanWang,WeiWang,AiliangHan,2012.ThemetabolismofanovelherbicideZJ0273insoilseedrapeandcrickweed.PesticideBiochemistryandPhysiology,inpublication.
+18.&nbsp;&nbsp;&nbsp;&nbsp;ChaoLi,XiaoyongXu,XuanqiLiu,QiuguoFu,WeiWang,QingfuYe*,ZhongLi,2012.Anoverviewofradioorstableisotope-labeledcis-neonicotinoidanalogsJournalofLabelledCompoundsandRadiopharmaceuticals,55：339-345.
+19.&nbsp;&nbsp;&nbsp;&nbsp;JianboZhang,QiuguoFu,HaiyanWang,JuyingLi,WeiWang,ZhenYang,SufenZhang,QingfuYe,ChaoLi,ZhongLi,2013.EnantioselectiveUptakeandTranslocationofaNovelChiralNeonicotinoidInsecticideCycloxapridinYoudonger(Brassicacampestrissubsp.Chinensis).Chirality:chiralityDOI10.1002/chi.
+20.&nbsp;&nbsp;&nbsp;&nbsp;HaiyanWang,QingfuYe*;LinYue,AiliangHan,ZhiyangYu,WeiWang,ZhengminYang,LongLu.FatecharacterizationofanovelherbicideZJ0273inaerobicsoilsusingmulti-position14Clabeling.ScienceoftheTotalEnvironment,407:4134-4139,2009.
+21.&nbsp;&nbsp;&nbsp;&nbsp;QiuguoFu,YichenWang,JianboZhang,HanxueZhang,ChanBai,JuyingLi,WeiWang,HaiyanWang,QingfuYe,ZhongLi,2013.SoilMicrobialEffectsontheStereoselectiveMineralization,ExtractableResidue,BoundResidue,andMetabolismofaNovelChiralCisNeonicotinoid,Paichongding.JournalofAgriculturalandFoodChemistry61:7389-7695.
+22.&nbsp;&nbsp;&nbsp;&nbsp;王伟，岳玲，丁伟，余志扬，汪海燕，叶庆富*，吕龙，2007.[A环-U-14C]-丙酯草醚在土壤中的迁移和淋溶研究，核农学报21(3):1000-8551.
+23.&nbsp;&nbsp;&nbsp;&nbsp;沈佳君，吴刚，王伟，叶庆富*，2012.除草剂丙酯草醚在有机溶剂中的光化学降解，核农学报.
+24.&nbsp;&nbsp;&nbsp;&nbsp;李菊英，韩爱良，汪海燕，王伟，叶庆富*，2009.放射性标记化合物的合成研究进展.核农学报23(4):676-680.
+&nbsp;
+			
+				
+			联系方式
+			
+			电话：0571-86971107			电子信箱：wei_wang@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：王伟
+		单位：原子核农业科学研究所
+		职称：副教授
+		我的主页共被访问了5230次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		发表论文
+	教学工作
+	工作研究项目
+	出版著作
+	学术交流（讲座报告）
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,207 @@
+
+
+
+
+
+卜佳俊的主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0000152";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	卜佳俊的主页
+浙江大学计算机学院卜佳俊
+
+	永久链接:http://mypage.zju.edu.cn/bjj&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			2000年9月博士毕业后留校任教，2002年12月被评为副教授，2007年12月被评为教授，2009年3月被评为博士生导师。浙江大学软件学院副院长、计算机软件研究所副所长，中国残疾人信息和无障碍技术研究中心副主任，教育部计算机辅助产品创新设计工程中心副主任，浙江省服务机器人重点实验室主任。2009年度教育部&ldquo;新世纪优秀人才支持计划&rdquo;入选者，2012年度浙江省&ldquo;新世纪151人才工程&rdquo;第一层次培养人员。中国计算机学会青年计算机科技论坛（CCFYOCSEF）学术委员会2013-2014年度主席，曾任CCFYOCSEF杭州学术委员会学术秘书、副主席、主席等职。
+
+主要研究方向有嵌入式软件与传感网，智能媒体计算，数据挖掘与智能检索，信息无障碍等。作为项目负责人，已经承担国家863软件重大专项项目2项，国家自然科学基金项目1项，国家973子课题1项，国家科技支撑计划项目子项2项，浙江省重大科技攻关项目子项1项，负责企业合作项目10多项；目前在研国家自然科学基金项目1项，国家科技支撑计划项目1项，国家国际科技合作专项项目1项。已发表学术论文100多篇，其中包括IEEETPAMI、TC、TMC、TPDS、TKDE等顶级国际期刊和ACMMultimedia、SIGIR、SIGKDD、AAAI、IJCAI等顶级国际会议论文40多篇，获2010ACMMultimedia最佳论文奖提名，2012AAAI最佳论文奖（OutstandingPaperAward）。申请发明专利50余项，目前已授权30多项。已出版学术著作2部。获得2011年度国家科技进步二等奖，2007年度国家技术发明二等奖，2011、2010、2006年度浙江省科学技术一等奖，2008年度浙江省科学技术二等奖等国家和省部级奖励。
+			
+				
+			工作研究领域
+			
+			嵌入式软件与传感网，智能媒体计算，数据挖掘与智能检索，信息无障碍等。
+			
+				
+			联系方式
+			
+			电话：+86-571-87952600			电子信箱：bjj@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：卜佳俊
+		单位：计算机科学与技术学院
+		职称：教授
+		我的主页共被访问了47858次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		实验室介绍
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

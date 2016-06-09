@@ -1,0 +1,495 @@
+
+
+
+
+
+Prof.LuYU'shomepage-博客
+
+
+
+
+
+
+varctxPath="http://mypage.zju.edu.cn";
+varb_handle="yul";
+varcfg_weblog="http://mypage.zju.edu.cn/weblog";
+vard=newDate()
+varselyear=d.getFullYear();
+varselmonth=d.getMonth()+1;
+
+
+
+
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	color:#111;
+	margin-right:10px;	
+}
+#mainlinkullia,.tagsa:hover{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+.tagsa{
+	margin-right:10px;
+}
+img{
+	border:none;
+}
+
+
+
+
+
+
+
+
+
+
+	
+		首页
+		帮助
+		登录
+	
+
+
+
+
+
+
+	Prof.LuYU'shomepage
+虞露教授主页
+
+	永久链接:http://mypage.zju.edu.cn/weblog/yul&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+
+
+	中文主页
+英文主页
+			博客
+
+
+
+
+
+
+
+
+
+
+			
+				
+
+	
+[1/1]
+首页	上一页下一页末页
+
+	
+
+浏览模式:普通|列表
+
+
+
+
+
+
+		推荐一篇博文--一年三篇IF大于7的牛人告诉你怎么写SCI
+
+作者:虞露日期:2010-12-26Sunday
+
+
+
+这是一篇强烈推荐理工科研究生读的优秀博文！读了一定让你收获多多！博文来源：http://blog.hit.edu.cn/mengfanyi/post/1.html这是一个一年三篇IF大于7的牛人当我问道他怎么这么强的时候，他给我他在网上总结发文章的秘笈。特奉献出来。一、研究生必备四本俗话...
+查看更多...
+
+Tags:
+经验写作SCI
+	
+
+
+
+分类:Research|			固定链接|评论总数0|
+			阅读次数164
+
+
+
+
+
+
+
+		关于2010年信息与通信工程专业研究生招生的情况说明
+
+作者:虞露日期:2010-03-10Wednesday
+
+
+
+目前学校的复试最低分数线、信息与通信工程专业招生的确切名额、复试的具体要求等均未下达。我们将在接到上级通知后，尽快确定复试名单和复试方案，请大家随时关注信息与通信工程研究所网站通知。对于大家十分关心的录取标准与选导师问题，原...
+查看更多...
+
+
+
+
+
+分类:管理|			固定链接|评论总数0|
+			阅读次数161
+
+
+
+
+
+
+
+		YUV转RGB
+
+作者:虞露日期:2013-02-21Thursday
+
+
+
+YUV转RGB没有那么简单，但也没有那么复杂。看看这篇文章就全清楚了：Recommended8-BitYUVFormatsforVideoRendering
+查看更多...
+
+Tags:
+格式转换
+	
+
+
+
+分类:Research|			固定链接|评论总数0|
+			阅读次数73
+
+
+
+
+
+
+
+		芬兰的教育秘笈
+
+作者:虞露日期:2011-01-14Friday
+
+
+
+一项测试表明，芬兰教育体制培养了&ldquo;世界上落差最小的&rdquo;学生，因此引起了世界的注意、兴趣与探密。大家发现，其实芬兰教育的可贵之处是，尽可能地不比较、不评分，相信学生、相信教师。&ldquo;他们相信评比与评分会造成不必要的影响、扭曲与竞争，反而丧...
+查看更多...
+
+Tags:
+芬兰
+	
+
+
+
+分类:Teaching|			固定链接|评论总数0|
+			阅读次数64
+
+
+
+
+
+
+
+		专利全文下载
+
+作者:虞露日期:2011-01-11Tuesday
+
+
+
+1.国家知识产权局http://www.sipo.gov.cn/sipo/zljs/default.htm中国专利整篇下载，pdf格式：http://www.drugfuture.com/cnpat/cn_patent.asp2.美国专利http://www.uspto.gov/patft/index.html美国专利整篇下载，pdf格式：http://www.pat2pdf.org/或ht...
+查看更多...
+
+Tags:
+专利全文下载
+	
+
+
+
+分类:Research|			固定链接|评论总数0|
+			阅读次数55
+
+
+
+
+
+
+
+		AKeynoteSpeachonrecentPCS2010
+
+作者:虞露日期:2010-12-29Wednesday
+
+
+
+AninterestingkeynotespeachfromDr.YukiyasuKamitanionrecentPCS2010.Youmayfindtheslidesfrom:http://storage.katto.comm.waseda.ac.jp/pcs2010/data/101209%20PCS2010s%20kamitani.pdfTitle:　DecodingVisualPerceptionfromHumanBrainA...
+查看更多...
+
+
+
+
+
+分类:Research|			固定链接|评论总数0|
+			阅读次数48
+
+
+
+
+
+
+
+		CitationstoIEEEJournalsContinuetoClimb
+
+作者:虞露日期:2010-12-26Sunday
+
+
+
+Itisreportedthat:CitationstoIEEEJournalsContinuetoClimb.http://www.ieee.org/publications_standards/publications/journmag/journalcitations.html
+查看更多...
+
+
+
+
+
+分类:Research|			固定链接|评论总数0|
+			阅读次数44
+
+
+
+
+
+
+
+		2011年部分国际会议
+
+作者:虞露日期:2010-07-16Friday
+
+
+
+RelatedConferencesin2011ICASSP2011Prague,CzechRepublicMay22-27(http://www.icassp2011.com/)ICIP2011Brussels,BelgiumSeptember2011(http://www.icip2010.org/)MMSPWorkshop2011HangzhouFall2011ICC2011Kyoto,JapanJune5-9Globe...
+查看更多...
+
+Tags:
+2011
+	
+
+
+
+分类:Research|			固定链接|评论总数0|
+			阅读次数149
+
+
+			
+			
+		
+		
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+	
+	
+		姓名：虞露
+		单位：信息与电子工程学系
+		职称：教授
+		我共发表了8篇文章
+		共收到0条评论
+		我的主页共被访问了6541次
+	
+	
+	
+	
+
+
+我的文章分类
+
+	管理
+		
+Research
+		
+Teaching
+		
+
+
+
+
+日历
+
+
+
+>>
+年月
+
+
+
+日
+一
+二
+三
+四
+五
+六
+
+
+
+
+
+
+
+
+
+
+
+我的最新文章
+
+
+		推荐一篇博文--一年三篇...
+关于2010年信息与通信工...
+YUV转RGB
+芬兰的教育秘笈
+专利全文下载
+AKeynoteSpeachonr...
+CitationstoIEEEJou...
+2011年部分国际会议
+	
+
+
+
+
+我的热点文章
+
+
+				推荐一篇博文--一年三篇...
+		关于2010年信息与通信工...
+		2011年部分国际会议
+		YUV转RGB
+		芬兰的教育秘笈
+		专利全文下载
+		AKeynoteSpeachonr...
+		CitationstoIEEEJou...
+
+	
+
+
+我收到的评论
+
+	
+	
+
+
+我的文章汇总
+
+		2013年2月[1]
+		2011年1月[2]
+		2010年12月[3]
+		2010年7月[1]
+		2010年3月[1]
+		
+	
+
+
+链接
+
+
+
+
+
+
+检索
+
+
+
+
+-所有文章-
+管理
+Research
+Teaching
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+
+
+varflag=newArray();
+flag[0]='2010/03/10';
+flag[1]='2010/07/16';
+flag[2]='2011/01/14';
+flag[3]='2011/01/11';
+flag[4]='2010/12/26';
+flag[5]='2010/12/29';
+flag[6]='2013/02/21';
+
+
+varcale=newCalendar("idCalendar",{
+SelectDay:newDate(),
+onSelectDay:function(o),
+onToday:function(o),
+onFinish:function(){
+$("idCalendarYear").innerHTML=this.Year;$("idCalendarMonth").innerHTML=this.Month;
+for(vari=0,len=flag.length;i<len;i++){
+//alert(flag[i]);
+	vard=newDate(flag[i]);
+	if(this.Year==d.getYear()){
+		if(this.Month==d.getMonth()+1)
+		{
+this.Days[d.getDate()].innerHTML=""+d.getDate()+"";
+			
+		}
+
+	}
+}
+}
+});
+$("idCalendarPre").onclick=function()
+$("idCalendarNext").onclick=function()
+
+
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));

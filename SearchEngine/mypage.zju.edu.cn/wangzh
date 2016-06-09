@@ -1,0 +1,242 @@
+
+
+
+
+
+王智化-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0005276";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	王智化
+热能所王智化教授
+
+	永久链接:http://mypage.zju.edu.cn/wangzh&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			王智化&nbsp;&nbsp;教授，博士生导师，浙江大学求是青年学者
+
+教育及工作经历：
+2011.12-至今&nbsp;浙江大学能源学院热能工程研究所教授，博士生导师；
+2007.12-2011.12&nbsp;浙江大学能源系热能工程研究所副教授，硕士生导师；
+2005.12-2007.12&nbsp;浙江大学能源系热能工程研究所讲师，师资博士后；
+2002.09-2005.12&nbsp;浙江大学能源系工程热物理专业，或博士学位；
+2000.09-2002.12&nbsp;浙江大学能源系工程热物理专业，免试攻读研究生，转直接攻博；
+1996.09-2000.06&nbsp;浙江大学能源系热能与动力工程专业，获学士学位。
+学术交流及社会活动：
+2008.11-2010.11&nbsp;浙江大学&ldquo;新星计划&rdquo;资助，瑞典Lund大学访问学者；
+2006.10&nbsp;&nbsp;赴瑞典皇家学院KTH、乌普萨拉大学、丹麦奥尔堡大学交流访问；
+2006.07&nbsp;&nbsp;武汉，华中科技大学，高等学校青年骨干教师热辐射与燃烧高级研修班做邀请报告；
+2005.12&nbsp;&nbsp;韩国大田，韩国高等工业大学KAIST，中日韩学生交流会代表团副团长。
+2003.03-2003.04&nbsp;韩国釜山，国立釜山大学机械系Exchangestudent，为期一个月的合作研究。
+学术研究领域：
+1.低氮燃烧及臭氧氧化多种污染物协同脱除；
+2.激光燃烧诊断；
+3.燃烧及反应流动的直接数值模拟/大规模并行计算；
+4.褐煤部分裂解气化多联产；
+5.硫碘热化学循环水分解制氢。
+
+
+情况概述：
+&nbsp;&nbsp;&nbsp;王智化，河南荥阳人。1996年进入浙江大学能源工程学系学习，2000年本科毕业于热能与动力工程专业，2005年获浙江大学博士学位，博士论文获2008年全国优秀博士学位论文提名，并于2014年成为国家自然科学优秀青年基金项目获得者。主要从事煤和气体燃料的燃烧及污染控制、燃烧及流动的数值模拟、激光燃烧诊断等方面的研究工作。承担了包括国家&ldquo;863&rdquo;计划项目1项、国家自然科学基金项目2项、&ldquo;973&rdquo;计划课题1项、&ldquo;973&rdquo;计划子课题1项、国家支撑计划子课题1项、博士点基金1项、浙江省自然科学基金1项、国家博士后基金及各类人才计划等科研项目十多项。已在国内外能源领域权威期刊《CombustionandFlame》、《Fuel》、《EnergyandFuels》、《FuelProcessingTechnlogy》、《Flow，TurbulenceandCombustion》、《InternationalJournalofHydrogenEnergy》等期刊发表学术论文70余篇，其中第一作者、通讯作者SCI收录论文32篇，EI收录论文49篇，国内外总引用332次（SCI他引127次）。
+&nbsp;&nbsp;&nbsp;&nbsp;2008年11月-2011年1月获浙江大学&ldquo;新星计划&rdquo;和国家留学基金委资助赴瑞典隆德大学进行2年期的访问学者合作研究，师从国际激光燃烧诊断著名专家、国际燃烧学会副主席、瑞典皇家科学院、工程院两院院士MarcusAld&eacute;n教授，2009年成立了ICELDES&ldquo;浙江大学－瑞典隆德大学能源利用激光诊断中心&rdquo;，任中心主任，依托能源清洁利用国家重点实验室，已建成一流水平的平面激光诱导荧光PLIF激光燃烧诊断试验平台。
+&nbsp;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PLIFSetup
+&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HeatFluxBurner&nbsp;&nbsp;一维平面火焰
+
+&nbsp;
+			
+				
+			联系方式
+			
+			电话：0571-87953162			电子信箱：wangzh@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：王智化
+		单位：能源工程学系
+		职称：教授
+		我的主页共被访问了19191次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		发表论文
+	工作研究项目
+	专利成果
+	奖励荣誉
+	教学工作
+	团队风采
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	CECOST
+DivisionofCombustionPhysics
+Berkeley燃烧模拟实验室
+NISTkinetics
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

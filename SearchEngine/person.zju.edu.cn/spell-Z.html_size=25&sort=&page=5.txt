@@ -1,0 +1,1 @@
+{'name': [u'\u5f20\u4e3d\u840d'], 'title': [], 'photo': '', 'pos': './person.zju.edu.cn/spell-Z.html?size=25&sort=&page=5', 'blog': [], 'intro': '', 'department': [u'\u73af\u5883\u4e0e\u8d44\u6e90\u5b66\u9662\u8d44\u6e90\u79d1\u5b66\u7cfb'], 'homepage': u'http://mypage.zju.edu.cn/zhangliping'}

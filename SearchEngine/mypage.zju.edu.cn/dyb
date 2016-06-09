@@ -1,0 +1,214 @@
+
+
+
+
+
+董亚波个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0002333";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	董亚波个人主页
+HomepageofDongYabo
+
+	永久链接:http://mypage.zju.edu.cn/dyb&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+董亚波，浙江大学计算机科学与技术学院副教授，计算机应用专业博士，于2002年8月在浙江大学获计算机应用工学博士学位。目前在浙江大学人工智能研究所任教，主要研究方向为无线传感器网络、VANET与智能交通、网络安全、嵌入式系统等方面的研究开发工作。
+在无线传感器网络方面，重点开展了低功耗低成本无线传感网节点与低功耗无线图像传感器节点的体系结构、低功耗无线自组网技术、无线低功耗宽带数据传输技术等研究开发工作，所开展的研究工作得到了973计划项目&ldquo;无线传感网络节点系统的体系结构研究&rdquo;、国家指南针专项计划&ldquo;物联网在敦煌莫高窟保护和开放利用中的应用研究与示范&rdquo;、唐仲英基金项目等多个基金项目的资助。在上述研究工作基础上，研发出的无线微环境监测系统已经在敦煌莫高窟微气象监测项目、农业温室环境监控项目、室内环境监控系统等多个项目中得到应用。其中，在敦煌莫高窟微气象监测项目部署实施了200多个无线环境传感器，并已连续运行多年，是全国乃至全球较早的大规模长期实际运行的无线传感器网络系统，得到国家文物局的高度重视，并正在向全国重点文化遗址单位推广。
+在VANET与智能交通研究方面，重点开展了车间网络互联、车辆运行状态采集与预警、碰撞预警等车辆主动安全防护技术、道路与停车场交通信息采集与智能处理等研究开发工作，所开展的研究工作得到了863计划项目&ldquo;面向汽车安全的车辆网络体系结构和组网技术研究&rdquo;、浙江省教育厅重大科技攻关项目&ldquo;基于无线传感网的智能交通车流量监测系统研究与应用示范&rdquo;等多个基金项目的资助。已经形成了车辆信息采集与无线交换系统、车辆主动安全防护系统、无线路况信息采集系统、无线停车场与停车泊位监控管理系统等多个车辆网络与智能交通应用系统，并已与多家上市公司合作进行市场推广。
+目前已在国内外期刊会议上发表/录用论文60余篇，其中SCI/EI检索26篇。在传感器网络领域的顶级会议和期刊Mobicom、Sensors等上均有论文发表。拥有国家发明专利5项。
+&nbsp;
+
+&nbsp;
+			
+				
+			工作研究领域
+			
+			无线传感器网络；网络安全；计算机网络
+			
+				
+			联系方式
+			
+			电话：0571-87952724			电子信箱：dongyb@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：董亚波
+		单位：浙江大学人工智能研究所
+		职称：副教授
+		我的主页共被访问了57649次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	zupo
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

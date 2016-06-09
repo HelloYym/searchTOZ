@@ -1,0 +1,235 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0081161";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0081161&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			朱大中教授，1945-01-16出生于上海，1968-07-01毕业于浙江大学。
+&nbsp;
+本科教学（课程名称及所用教材）
+课程名称：半导体物理
+所用教材：半导体物理学，刘恩科等，西安交通大学出版社，ISBN7-5605-1010-8/TN.54
+主要论文著作及被收录获奖情况
+ZhuDazhong，ZhuJIahua,&ldquo;Sibasedquasi-planarself-alignedelectronemissionarray&rdquo;[J],ApplySurfaceScience,2002,vol.202(1-2)：110-113.（SCI、EI收录）
+
+ZhuD,ZhuJ,&ldquo;ACMOSICforRFProgrammableSurfaceAcousticWaveFilter&rdquo;[C]，IEEEAP-SInternationalSymposium,2001,vol.1:354-359.(EI收录）
+
+ZhuD,ZhuJ，&ldquo;ARFMass-SensitiveSAWSensorwithU-GrooveStructure&rdquo;[C]，IEEEAP-SInternationalSymposium,2001,vol.1:350-353.(EI收录）
+
+陈继凯，朱大中，黄浙隆，&ldquo;双声路声表面波质量传感器的研究&rdquo;[J],压电与声光,2003,vol.25(2):91-93.(EI收录）
+
+陈英，朱大中，&ldquo;可编程SAW滤波器CMOS集成电路的研究&rdquo;[J]，电子学报，2002，vol.30(8):1207-1209.(EI收录）
+主要科研项目及获奖情况
+近五年来主持和完成的纵向科研项目：
+1.光敏微像素象限阵列和磁敏线阵列融合型CMOS数模混合传感器集成电路－－国家自然科学基金，项目编号：90307009，2004.1～2006.12
+
+2.硅基射频微机械集成声路传感器研究－－国家自然科学基金，项目编号：60176027，2002.1～2004.12
+
+3.氧化锌/二氧化硅/硅单片集成可编程声表面波滤波器研究－－国家自然科学基金，项目编号：69876031，1999.1～2001.12
+
+4.SiGe/Si等平面化真空微电子雪崩击穿电子发射器件研究－－国家自然科学基金，项目编号：69676037，1997.9～1999.12
+
+5.射频微机械集成传感器研究－－浙江省自然科学基金，项目编号：600026，2001.1～2002.12
+
+6.多芯片组件（MCM）可编程声表面波滤波器研究－－浙江省自然科学基金，项目编号：698048，1999.1～2000.12
+			
+				
+			工作研究领域
+			
+			1.数模混合集成电路设计与研究；多传感量CMOS传感集成电路设计与研究；生物CMOS芯片设计与研究。
+2.微波微机械电子学研究；集成声路基础研究。
+3.微电子器件新结构及其器件物理模型研究。
+			
+				
+			联系方式
+			
+			电话：0571-87951705			电子信箱：zhudz@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：朱大中
+		单位：信息与电子工程学系
+		职称：教授
+		我的主页共被访问了9518次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	研究成果
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

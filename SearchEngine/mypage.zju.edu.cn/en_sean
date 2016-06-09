@@ -1,0 +1,256 @@
+
+
+
+
+
+SeanDong-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0098072";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	SeanDong
+
+
+	Permanentlink:http://mypage.zju.edu.cn/en/sean&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			Blog
+
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			Professorof&nbsp;Dept.ofInformationScienceandElectronicEngineering
+ZhejiangUniversity,Hangzhou,ZhejiangProvince,China,310027
+Tel:86-571-87951705-302;Fax:86-571-87953116;cellphone:86-13858190316;skype：seandong888168;QQ：289158243；Email:dongshurong@zju.edu.cn;
+Recently5yearsjournalpaper
+1)&nbsp;H.Jin,J.Zhou,X.He,W.Wang,H.Guo,S.Dong*,D.Wang,Y.Xu,J.Geng,J.K.Luo*,andW.I.Milne,Flexiblesurfaceacousticwaveresonatorsbuiltondisposableplasticfilmforelectronicsandlab-on-a-chipapplications,ScientificReports,2013(3)2140-2145.
+2)&nbsp;Surfaceacousticwaveresonatorsbasedon(002)AlN/Pt/diamond/siliconlayeredstructure&quot;hasbeenacceptedforpublicationinThinSolidFilms，ChangjianZhou,Dr.;YiYang,Dr.;HaoJin;BinFeng;ShurongDong;JikuiLuo;TianlingRen;MansunChan;CaryY.Yang
+3)&nbsp;X.L.He,D.J.Li,J.Zhou,W.B.Wang,W.P.Xuan,S.R.Dong*,H.JinandJ.K.Luo*，highsensitivityhumiditysensorsusingflexiblesurfaceacousticwavedevicesmadeonnanocrystallineZnO/polyimidesubstrates，JournalofMaterialsChemistryC，2013.DOI:10.1039/c3tc31126k
+4)&nbsp;J.Zhou,X.L.He,H.Jin,W.B.Wang,B.Feng,S.RDong*,D.MWang,G.Y.ZouandJ.K.Luo*,CrystallinestructureeffectontheperformanceofflexibleZnO/polyimidesurfaceacousticwavedevices,JournalofAppliedPhysics,2013(114)044502,doi:10.1063/1.4816002
+5)&nbsp;S.R.Dong*,X.L.Bian,HaoJin,N.N.Hu,JianZhou,HeiWong,M.J.Deen*，ElectricallyTunableFilmBulkAcousticResonator，AppliedPhysicsLetters,&nbsp;2013(103)062904,doi:10.1063/1.4818157
+6)&nbsp;J.Zhou,X.L.He,W.B.Wang,Q.Zhu,W.P.Xuan,H.Jin,S.R.Dong*,D.M.Wang,J.K.Luo*,TransparentsurfaceacousticwavedevicesonZnO/GlassusingAldopedZnOastheelectrode,IEEEElectronDeviceLetters,2013.Doi:10.1109/LED.2013.2276618
+7)&nbsp;Dong,S*.,&nbsp;Zhong,L.&nbsp;Zeng,J.&nbsp;&nbsp;Guo,W.&nbsp;&nbsp;Li,H.&nbsp;&nbsp;Wang,J.&nbsp;&nbsp;Guo,Z.&nbsp;&nbsp;Liou,J.J.，Studyofgraphenefield-effecttransistorsunderelectrostaticdischargestresses，ElectronicsLetters(Interviewhighlight),2013,49(17)doi:10.1049/el.2013.1865
+8)&nbsp;ShurongDong*,MengMiao,JianWu,JieZeng,ZhiweiLiu,Liou,J.J.,Low-CapacitanceSCRStructureforRFI/OApplication,IEEETransactionsonElectromagneticCompatibility,2013V55N2PP:241-247
+9)&nbsp;C.J.Zhou,Y.Yang*,Y.Shu,H.L.Cai,T.L.Ren*,M.Chan,J.Zhou,H.Jin,S.R.Dong,andC.Y.Yang，Visible-lightphotoresponseofAlN-basedfilmbulkacousticwaveresonator,AppliedPhysicsLetters,2013(102)191914
+10)&nbsp;WeifengZhang,ChaoMa,JihongFang,JipengCheng,*&nbsp;XiaobinZhang,ShurongDong，LiZhang*，Asymmetricelectrochemicalcapacitorswithhighenergyandpowerdensitybasedongraphene/CoAl-LDHandactivatedcarbonelectrodes，RSCAdvancesTop10mostaccessedarticlesinMarch，2013,3,2483-2490
+11)&nbsp;J.Zhang,H.Yang,Q.L.Zhang,S.R.DongandJ.K.Luo,&ldquo;Structural,optical,electricalandresistiveswitchingpropertiesofZnOthinfilmsdepositedbythermalandplasma-enhancedatomiclayerdeposition&rdquo;,Appl.Surf.Sci.282(2013)390&ndash;395.http://dx.doi.org/10.1016/j.apsusc.2013.05.141
+12)&nbsp;X.L.He*,L.Garcia-Gancedo,P.C.Jin,J.Zhou,W.B.Wang,S.R.Dong,J.K.Luo*,A.J.FlewittandW.I.Milne,Filmbulkacousticresonatorpressuresensorwithselftemperaturereference,JournalofMicromechanicsandMicroengineering,2012(22)125005.doi:10.1088/0960-1317/22/12/125005
+13)&nbsp;JianZhang,HuiYang*,Qi-longZhang*,ShurongDong,andJ.K.Luo,BipolarresistiveswitchingcharacteristicsoflowtemperaturegrownZnOthinfilmsbyplasma-enhancedatomiclayerdeposition,AppliedPhysicsLetters,2012(102)012113
+14)&nbsp;H.Jin,J.Zhou,S.R.Dong*,B.Feng,J.K.Luo,D.M.Wang,W.I.MilneandC.Y.Yang,Depositionofc-axisorientationaluminumnitridefilmsonflexiblepolymersubstratesbyreactivedirect-currentmagnetronsputtering,ThinSolidFilms,2012(520)4863.doi:10.1016/j.tsf.2012.03.015
+15)&nbsp;JianZhou,ShurongDong*,HaoJin,BingFeng,andDemiaoWang,FlexibleSurfaceAcousticWaveDevicewithAlNFilmonPolymerSubstrate,JournalofControlScienceandEngineering,2012,7,doi:10.1155/2012/610160
+16)&nbsp;PengchengJin,ShurongDong*,HaoJin,andMengjunWu，ProcessingChipforThinFilmBulkAcousticResonatorMassSensor,&nbsp;JournalofControlScienceandEngineering,2012,3,doi:10.1155/2012/923617
+17)&nbsp;CurrentConductionandStabilityofCeO2/La2O3StackedGateDielectric,HeiWong*,B.L.Yang,ShurongDong,&nbsp;AppliedPhysicsLetters,2012(101)233507
+18)&nbsp;X.H.Shen,H.Jin*,S.R.Dong,H.Wong,J.Zhou,Z.D.Guo,andD.M.Wang,Effectsofhigh-temperaturetreatmentonthereactionbetweenSn-3%Ag-0.5%CusolderandsputteredNi-Vfilmonferritesubstrate.JournalofElectronicMaterials,2012V41N11PP:3145-3151
+19)&nbsp;H.Jin*,B.Feng,S.R.Dong,C.J.Zhou,J.Zhou,Y.Yang,T.L.Ren,J.K.Luo,andD.M.Wang,InfluenceofsubstratetemperatureonstructuralpropertiesanddepositionrateofAlNthinfilmdepositedbyreactivemagnetronsputtering.JournalofElectronicMaterials,2012V41N7PP:1948-1954.
+20)&nbsp;MengMiao,ShurongDong*,MingliangLi,JianWu,FeiMa,JianfengZheng,YanHan,Anovelgate-suppressiontechniqueforESDprotection,MicroelectronicsReliability,2012V52N8PP1598&ndash;1601
+21)&nbsp;BinFeng,ShurongDong*,HaoJin,JianZhou,YiYang,TianlingRen,JikuiLuo,DemiaoWang,Ultra-violetlightassistedreactiveRFmagnetronsputteringdepositionofAlNthinfilmsatroomtemperature,MaterialsLetters,2012V79N7PP25&ndash;28
+22)&nbsp;ShurongDong*,HaoJin,MengMiao,JianWu,Liou,J.J.,NovelCapacitanceCouplingComplementaryDual-DirectionSCRforHigh-VoltageESD,IEEEElectronDeviceLetters,&nbsp;2012V33N5PP640-642&nbsp;
+23)&nbsp;ShurongDong*,JianWu,MengMiao,JieZeng,YanHan,Liou,J.J.,High-Holding-VoltageSilicon-ControlledRectifierforESDApplications,IEEEElectronDeviceLetters,2012v33N10PP:1345-1347
+24)&nbsp;JianWu,ShurongDong*,MingliangLi,MengMiao,FeiMa,JianfengZheng,YanHan,Anovelpower-clampassistedcomplementaryMOSFETforrobustESDprotection,MicroelectronicsReliability,2012V52N8PP1593&ndash;1597
+25)&nbsp;MengMiao,ShurongDong*,JianWu,JieZeng,Liou,J.J.,FeiMa,HongweiLi,YanHan,MinimizingMultipleTriggeringEffectinDiode-TriggeredSilicon-ControlledRectifiersforESDProtectionApplications,IEEEElectronDeviceLetters,2012,V33N6pp893-895
+26)&nbsp;HaoJin,ShurongDong*,MengMiao,JuinJeiLiou,CaryY.Yang,Breakdownvoltageofultrathindielectricfilmsubjecttoelectrostaticdischargestress,JournalofAppliedPhysics.2011(110)054516
+27)&nbsp;M.J.Wu,H.Jin*,S.R.Dong*,P.C.Jin,J.K.LuoandW.I.Milne,Extractingintrinsicparametersoffilmbulkacousticresonatorswithdifferentsizesofpads,ElectronicsLetters(highlight),2011V47N16
+28)&nbsp;YanHan,BoSong,ShurongDong*,MingliangLi,FeiMa,MengMiaoandKehanZhu,StudyofcurrentsaturationbehaviorsindualdirectionSCRforESDapplication,MicroelectronicsReliability,2011V51pp.332-336&nbsp;2011
+29)&nbsp;FeiMa,YanHan*,BoSong,ShurongDong,MengMiao,JianfengZheng,JianWu,KehanZhu,Substrate-engineeredGGNMOSforlowtriggervoltageESDin65nmCMOSprocess,MicroelectronicsReliability,2011V51Pp.2124-2128
+30)&nbsp;F.Ma,Y.Han,S.Dong,B.Song,M.MiaoandK.Zhu,Investigationofboundary-MOS-triggeredSCRstructuresforon-chipESDprotection.ELECTRONICSLETTERS17thFebruary2011Vol.47No.4
+31)&nbsp;
+32)&nbsp;Jin,H.,Dong,S.R.*,Luo,J.K.,Milne,W.I.GeneralisedButterworth-VanDykeequivalentcircuitforthin-filmbulkacousticresonator,ElectronicsLetters(Interviewhighlight),2011V47N7pp:424-426
+33)&nbsp;Dong,S.*,Li,M.,Guo,W.,Han,Y.,Huang,D.,Song,B.ComplementationSCRforRFICESDprotection,ElectronicsLetters,2010V46N3pp:213-214
+34)&nbsp;ZhiweiLiu,JuinJ.Liou*,ShurongDong,andYanHan,Silicon-ControlledRectifierStackingStructureforHigh-VoltageESDProtectionApplications,IEEEElectronDeviceLetters,2010V31N8PP845
+35)&nbsp;BoSong,YanHan*,ShurongDong,FeiMa,MingliangLi,MengMiaoandKehanZhuCompactMOS-triggeredSCRwithfasterturn-onspeedforESDprotection&nbsp;,MicroelectronicsReliability,2010V50pp.1393-1397
+36)&nbsp;Song,B.;Han,Y.;Li,M.;Dong,S.;Guo,W.;Huang,D.;Ma,F.;Miao,M.;Substrate-triggeredGGNMOSin65nmCMOSprocessforESDapplication,ElectronicsLetters(highlight),&nbsp;2010V46N7pp:518-520,2010
+37)&nbsp;HuijinZhang,ShurongDong*,WeiweiChen,andYanHan,MIMOmultiplexerbasedonfilmbulkacousticresonator,IEEETransactionsonConsumerElectronics2010pp.805-810
+38)&nbsp;Wei-WeiCheng,Shu-RongDong*,YanHan,Hai-FengZhou,Shi-HengZhao,Hui-JinZhang,andXiao-XiaHan,Alowpower,lowphasenoiseFBARoscillator,IntegratedFerroelectrics,2009V105PP75-86
+39)&nbsp;MingxuHuo,QingGuo,YanHan*,LeiShen,Qiliu,BoSong,QingrongMa,KehanZhu,YehuiShen,XiaoyangDu,andShurongDong,&nbsp;AcasestudyofproblemsinJEDECHBMESDteststandard,IEEETransactionsonDeviceandMaterialsReliability,2009V9N3
+40)&nbsp;Shi-HengZhao,Shu-RongDong*,Hui-JinZhang,Wei-WeiCheng,Xiao-XiaHan,ModelingofRFfiltercomponentbasedonfilmbulkacousticresonator,IEEETransactionsonConsumerelectronics,2009V33N2pp.351-355
+41)&nbsp;Xiao-yangDU,Shu-rongDONG*,YanHAN,Ming-xuHUO,DA-haiHUANG,Low-leakagediode-triggeredsiliconcontrolledrectifierforelectrostaticdischargeprotectionin0.18-umCMOSprocess,JournalofZhejiangUniversitySCIENCEA,200910(7):1060-1066
+42)&nbsp;LifangLou,JuinJ.Liou*,ShurongDong,YanHan,Siliconcontrolledrectifier(SCR)compactmodelingbasedonVBICandGummel-Poonmodels,Solid-StateElectronics,2009V53pp.195-203
+43)&nbsp;H.Jin,S.R.Dong*,D.M.Wang,MeasurementofDielectricConstantofThinFilmMaterialsatMicrowaveFrequencies,JournalofElectromagneticWavesandApplications,2009v23n5-6PP809-817
+44)&nbsp;XiaoyangDu,ShurongDong*,YanHan,JuinJ.Liou,MingxuHuo,YouLi,QiangCui,DahaiHuang,DemiaoWang,&nbsp;EvaluationofRFelectrostaticdischarge(ESD)protectionin0.18-umCMOStechnology,MicroelectronicsReliability,2008V48pp.995-999&nbsp;
+45)&nbsp;S.Dong*,X.Du,Y.Han,M.Huo,Q.CuiandD.Huang,Analysisof65nmtechnologygrounded-gateNMOSforon-chpESDprotectionapplication,ElectronicsLetters,2008V44N19
+46)&nbsp;XuWenbin*,DongShurong*,WangDemiao,RenGaochao,InvestigationofmicrostructureevolutioninPt-dopedTiO2thinfilmsdepositedbyrfmagnetronsputtering,PhysicaB:CondensedMatter.,2008V403N17pp.2698-2701
+47)&nbsp;HaifengZhou;YanHan*;ShurongDong,Anultra-low-voltagehigh-performanceVCOin0.13umCMOS,JournalofElectromagneticWavesandApplications,2008V22N17/18pp.2417-2426
+48)&nbsp;XUWen-Bin*,DONGShu-rong*,WANGDe-Miao,ModelingandOptimizationforDepositionofSiOxNyfilmsbyration-FrequencyReactiveSputtering,ChinesePhysicsLetters,2007V24N9pp.2681-2684
+49)&nbsp;F.YAN,T.J.ZHU*,X.B.ZHAO,S.R.DONG,MicrostructureandthermoelectricpropertiesofGeSbTebasedlayerdcompounds,AppliedPhysicsA2007V88pp.425-428
+50)&nbsp;FengYan,TiejunZhu,XinbingZhao,ShurongDong,AstudyofthecrystallizationkineticsofGe-Teamorphoussystems,JournalofUniversityofScienceandtechnologyBeijing,2007V14S1pp.64-67
+51)&nbsp;CUIQiang,HANYan,DONGShu-rong,LIOUJuin-jie,Arobustpolysilicon-assistedSCRinESDprotectionapplication,JournalofZhejiangUniversitySCIENCEA,2007V8N12PP:1879-1883
+&nbsp;
+&nbsp;
+			
+				
+			Researchwork
+			
+			&#61618;ESD(ElectrostaticDischarge)modeling,designandmeasurement
+&#61618;RFMEMSdevicesanditssensor:modeling,fabricationandapplication
+&#61618;OtherNanometerElectronicdevices
+			
+				
+			Contact
+			
+			Phone:0086-13858190316;skype：seandong888168;QQ:289158243
+			E-mail:dongshurong@zju.edu.cn
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:SeanDong
+		Units:ZhejiangUniversity
+		Title:professor
+		Myhomepagehasbeenvisited2195times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	
+
+
+Youarevisitor:2195
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

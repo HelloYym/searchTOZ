@@ -1,0 +1,214 @@
+
+
+
+
+
+邓茂林的个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0005460";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	邓茂林的个人主页
+求是创新、奋发图强
+
+	永久链接:http://mypage.zju.edu.cn/dengmaolin&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			邓茂林，男，1973年生，江西临川人，博士生导师。
+1995年毕业于南昌大学生物工程学系，获学士学位。
+2002年毕业于浙江大学力学系，获硕士学位。
+2005年毕业于浙江大学生物医学工程系，获博士学位。
+2005年至2007年，浙江大学航空航天学院应用力学研究所博士后。
+2008年起，浙江大学航空航天学院应用力学研究所副教授。
+2011年5月至2012年5月，美国华盛顿大学应用数学系访问学者
+2012年7月起，博士生导师
+主要从事工程和生物系统中的非线性随机动力学研究。曾主持一项中国博士后科学基金一等资助项目、一项国家自然科学基金青年基金项目、一项浙江省自然科学基金，目前主持一项国家自然科学基金面上项目。已在国内外重要学术刊物上发表SCI收录论文二十余篇。
+			
+				
+			工作研究领域
+			
+			工程和生物系统中的非线性随机动力学
+			
+				
+			联系方式
+			
+						电子信箱：mldeng@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：邓茂林
+		单位：航空航天学院工程力学系
+		职称：副教授（自然科学）
+		我的主页共被访问了10892次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	发表论文
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

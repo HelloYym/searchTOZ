@@ -1,0 +1,215 @@
+
+
+
+
+
+欢迎访问祁鸣的主页！-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0005001";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	欢迎访问祁鸣的主页！
+
+
+	永久链接:http://mypage.zju.edu.cn/0005001&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			简历
+1982年广州华南师大生物系，学士；1984年上海复旦大学遗传所，硕士；1991年美国匹兹堡大学分子生物学，博士学位；1991-1994年美国华盛顿大学，博士后；师从Dr.StanleyMcKnight；1994-1998年美国西雅图华盛顿大学医学遗传学高级医师主任专修班，师从美国著名遗传学家PeterByers博士（AmericanJHumanGenetics前主编，美国人类遗传学学会主席）和有&ldquo;医学遗传学之父&rdquo;美誉的美国科学院资深院士ArnoMotulsky博士。
+美国临床分子遗传学执业主任医师，美国病理科学院临床诊断室资格鉴定师。1998年－现在，任美国罗切斯特大学医学院病理系助理教授、副教授（兼职）、教授（兼职）。2006年4&ndash;8月美国哈佛医学院遗传与基因组学中心顾问，分子医学实验室代理主任。2005年－现在浙江大学医学院基础医学系教授。
+主要学术兼职
+美国医学遗传学院院士（Fellow,AmericanCollegeofMedicalGenetics），美国人类遗传学学会会员，美国分子病理学会员，国际人类基因组织会员，北美华人遗传学会终生会员、常委，中华医学会医学遗传学分会全国委员，中华医学会健康管理学分会常委，国际人类基因变异组计划中国区总协调人Coordinator，InternationalHumanVariomeProjectChinaSection
+期刊编委HumanMutation,2010-present;GigaScience,2011,AnnalsofNoninvasiveElectrocadiology,2005-present;JZhejiangUnivSCIENCE,2005-present.
+欢迎访问研究室主页：http://www.genomed.org/
+			
+				
+			工作研究领域
+			
+			主要研究方向是基因突变导致各种遗传性疾病的分子机制以及转基因动物模型的建立。
+研究手段　
+1．遗传病的家系分析和全外显子组测序分析，发现/鉴定遗传病致病基因。
+2．Sanger测序法和NextGeneration高通量测序法发现/鉴定/诊断遗传病致病基因，研究基因突变和表观遗传学变异的功能。
+3．基因芯片研究基因拷贝数变异与疾病的关系。
+4．利用Apache、Php和MySQL软件文献检索，建立LOVD遗传病基因数据库。
+5．采用TALEN定点诱变技术构建Nmnat1突变型小鼠模型，综合运用分子生物学、细胞生物学研究手段，从分子、细胞和组织水平多角度开展对NMNAT1基因突变导致LCA的发病机制研究。同时利用药物补充，从生理病理比较观察小鼠模型的视力功能表型改变和治疗效果。利用腺相关病毒AAV载体对模型小鼠进行视网膜下腔注射，阐明表型逆转的可能性。
+
+			
+				
+			联系方式
+			
+						电子信箱：qiming_14618@yahoo.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：祁鸣
+		单位：基础医学系
+		职称：教授
+		我的主页共被访问了5104次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

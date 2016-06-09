@@ -1,0 +1,196 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0094407";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0094407&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			蔡建庭，男，1962年5月。浙江大学医学院附属第二医院消化内科主任，内科学教授、主任医师、博士生导师，1999年获浙江大学医学博士学位，现为中华医学会消化病学会胰腺学组委员、《胰腺病学》杂志编委，浙江省医学会消化内镜学会副主任委员，浙江省消化病学术中心副秘书长、浙江省医学会病学会和肝病学会委员。擅长消化系统疾病的内镜诊断与治疗，如十二指肠镜、ERCP及其相关技术。开展内镜下胆道内外引流术治疗胆道良恶性肿瘤至今已有10余年，ERCP置入胆管内支架技术已经非常成熟。对各种胆总管结石、胆道蛔虫等胆道疾病的内镜治疗具有丰富的临床经验。主持《ERCP技术行胆石症的非手术疗法》、《胆道疾病微创治疗的研究》两项科研课题，参加《小胃癌及微小胃癌的早期诊断研究》的研究工作并获浙江省科技成果三等奖。主编和参加编写了《胃病门诊》、《江绍基胃肠病学》、《肠道疾病的诊断与防治》、《临床医学最新进展》等书籍，发表文章40余篇。
+			
+					
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：蔡建庭
+		单位：临床医学二系
+		职称：教授
+		我的主页共被访问了10233次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	奖励荣誉
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

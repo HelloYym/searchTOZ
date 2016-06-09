@@ -1,0 +1,213 @@
+
+
+
+
+
+黄志尧-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0095081";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	黄志尧
+黄志尧的个人主页
+
+	永久链接:http://mypage.zju.edu.cn/zyhuang&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;
+1968年10月生于杭州。
+1986～1990年在浙江大学化工系&ldquo;生产过程自动化&rdquo;（化自）专业学习,1990年7月获学士学位；
+1990～1993年在浙江大学化工系&ldquo;自动化仪表与装置&rdquo;专业攻读硕士,1993年3月获硕士学位；
+1993～1995年在浙江大学化工系&ldquo;工业自动化&rdquo;专业攻读博士，1995年6月获博士学位。
+1995年6月博士毕业后留校工作，同年升讲师。1995年7月～1997年9月，在浙江大学化工系自动化仪表教研室工作，1997年升副教授。因学校院系调整，1997年9月至今，在浙江大学控制科学与工程学系工作，从事过程检测和自动化仪表方面的教学和科研工作。
+2001年升教授，2002年批准为博士研究生导师。2001年起任浙江大学自动化仪表研究所副所长。
+			
+				
+			工作研究领域
+			
+			检测技术与自动化装置：
+（1）过程检测技术与自动化仪表；
+（2）多相流检测技术；
+（3）特种检测与控制装置。
+
+			
+				
+			联系方式
+			
+			电话：0571-87952145			电子信箱：zyhuang@iipc.zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：黄志尧
+		单位：控制科学与工程学系
+		职称：教授
+		我的主页共被访问了14328次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

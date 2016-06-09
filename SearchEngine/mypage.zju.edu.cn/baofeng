@@ -1,0 +1,216 @@
+
+
+
+
+
+霍宝锋-中文个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0012042";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	霍宝锋-中文个人主页
+
+
+	永久链接:http://mypage.zju.edu.cn/baofeng&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			霍宝锋博士是浙江大学文科领军人才，浙江大学管理学院运营管理领域的教授，博士生导师，供应链管理研究所联合所长，供应链质量管理研究所所长，教育部&ldquo;新世纪优秀人才计划&rdquo;入选者，浙江省&rdquo;杰出青年基金&rdquo;获得者，浙江省&ldquo;之江青年社科学者&rdquo;，运营管理顶级期刊JournalofOperationsManagement副主编(AssociateEditor)、ProductionandOperationsManagement编委。他拥有香港中文大学运营管理专业博士学位和天津大学管理科学与工程专业硕士、管理信息系统专业学士学位。在加入浙江大学以前，他曾在西安交通大学和香港中文大学工作。
+
+&nbsp;
+霍教授的教学领域包括运营管理、物流与供应链管理、实证研究方法论、结构方程模型(structuralequationmodeling)等。他的研究领域包括物流与供应链管理、企业间关系管理、运营管理、跨文化管理。他的研究曾获得多个最佳论文奖，包括：&ldquo;Top25最多下载研究生论文&rdquo;(ProQuest,2014)、最佳&ldquo;供应链整合与关系管理&rdquo;论文奖(ICOSCM，2012)、中国百篇最具影响国际学术论文(中国科学技术信息研究所,2011)、Li&amp;Fung最佳论文奖(ICOSCM，2011)、最佳应用研究论文奖(DecisionSciencesInstitute,2010)、最佳&ldquo;运营/制造战略与实践&rdquo;论文奖(ICOSCM，2009)、杰出供应链管理论文奖(DecisionSciencesInstitute,2008)和ChanHahnAward(AcademyofManagement,2007,亚太地区首次获此奖)。
+&nbsp;
+他的论文被接受或发表在JournalofOperationsManagement,ProductionandOperationsManagement,InternationalJournalofProductionResearch,IEEETransactionsonEngineeringManagement,InternationalJournalofOperationsandProductionManagement,InternationalJournalofProductionEconomics,Information&amp;Management,SupplyChainManagement,IndustrialManagement&amp;DataSystems,InternationalJournalofPhysicalDistribution&amp;LogisticsManagement,BusinessHorizons,《管理科学学报》、《系统工程理论与实践》、《科研管理》等国际、国内知名学术期刊和AOM，DSI，ICOSCM等国际知名学术会议，其中在运营管理领域最顶级的学术期刊JournalofOperationsManagement(UTD商学院24种期刊,国际A+类期刊,SSCI、SCI、EI检索)发表论文3篇，全部为JOM五年内被引用次数最高的25篇论文(Top25论文)，全部被列为ESI高被引论文。他过去几年发表的几篇论文已被Google.scholar引用1500多次,SCI/SSCI引用500多次。被Elsevier评为商业、管理和会计领域&ldquo;2014年中国高被引学者&rdquo;。
+&nbsp;
+他是JournalofOperationsManagement,DecisionSciences,ProductionandOperationsManagement,JournalofSupplyChainManagement,JournalofBusinessLogistics,EuropeanJournalofOperationalResearch,TransportationResearch，InternationalJournalofProductionEconomics,Omega,Asia-PacificJournalofManagement,DecisionSupportSystems,ManagementandOrganizationReview,SupplyChainManagement:AnInternationalJournal,InternationalJournalofPhysicalDistribution&amp;LogisticsManagement等期刊的审稿人，香港RGC基金项目、中国自然科学基金项目的评审人。他主持了国家自然科学基金、教育部基金、省自然科学基金等多项项目。他也主持或参与了多项重要国际合作项目，包括主持有8个国家和地区参与的跨文化供应链管理的项目和参与有10多个国家合作的高绩效制造业企业管理项目。他在国际学术组织和企业联盟组织中也担任重要职务，如供应链与运营管理协会&ldquo;会员与院士服务委员会&rdquo;主席，决策科学学会&ldquo;国际事务战略规划委员会&rdquo;委员等。
+&nbsp;
+他在社会服务方面，近年来为盾安集团、盐田港集团、辛子精工等十几家公司提供过供应链管理相关的培训和咨询服务，撰写了一系列《北大商业评论》的文章，将学术研究成果与我国具体实践相结合，为企业管理者提出了一些明确的实践指导。在研究过程中，与合作者共调研了我国上百家企业，收集了5000多家我国和国外企业的各类问卷调查数据。研究成果为企业的供应链实践提供了具体的指导，帮助企业理顺经营策略，改善经营流程，改进产品质量，提高客户服务，优化供应链管理等，获得了较大的收益。
+			
+				
+			工作研究领域
+			
+			物流与供应链管理、企业间关系管理、运营管理、跨文化管理
+			
+				
+			联系方式
+			
+						电子信箱：baofeng@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：霍宝锋
+		单位：管理学院
+		职称：教授
+		我的主页共被访问了17498次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		简历
+	招生信息
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

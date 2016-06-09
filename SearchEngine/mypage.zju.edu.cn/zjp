@@ -1,0 +1,223 @@
+
+
+
+
+
+张剑平-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0008090";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	张剑平
+态度决定一切...
+
+	永久链接:http://mypage.zju.edu.cn/zjp&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;
+&nbsp;&nbsp;张剑平博士，浙江衢州人。浙江大学教育学院教授、教育技术学博士生导师。兼任全国教育科学规划领导小组学科专家、教育部职业院校信息化教学指导委员会委员、中国教育技术协会信息技术教育专业委员会常务副主任、浙江省高校教育技术协会理事长、浙江省教育学会中小学计算机教育分会会长。享受国务院政府特殊津贴，是浙江省高等学校教学名师、新疆维吾尔自治区天山学者。
+&nbsp;
+&nbsp;&nbsp;长期从事数字化学习、教育信息化、信息技术教育等领域的科研与教学。获得国家级教学成果奖、全国教育科学研究成果奖各一项，以及省级社会科学研究成果奖、高校科研成果奖、教学成果奖多项。
+&nbsp;
+&nbsp;&nbsp;在科研方面，先后主持国家社会科学基金教育学课题、教育部教育科学规划课题、浙江省哲社和科技规划课题多项。出版有《虚实融合环境下的适应性学习研究》、《人工智能课程研究》、《现代教育技术》、《远程教育技术与管理》等专著与教材近30本；在《教育研究》、《电化教育研究》等专业期刊上发表论文百多篇。
+&nbsp;
+&nbsp;&nbsp;在教学方面，2004年以来先后主持了&ldquo;现代教育技术&rdquo;国家精品课程，以及与教育技术相关的国家级教学团队、国家级实验教学示范中心等项目。
+			
+				
+			工作研究领域
+			
+			数字化学习、教育信息化、信息技术教育、数字化科普。
+			
+				
+			联系方式
+			
+			电话：0571-88276233			电子信箱：21zjp@163.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：张剑平
+		单位：浙江大学教育学院
+		职称：教授
+		我的主页共被访问了69319次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		科研项目
+	学术书著
+	教学工作
+	获奖成果
+	精品教材
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	浙大.课程在线
+浙大研究生院
+浙大教育技术中心
+浙江教育技术协会
+教育技术课程资源库
+MyPhotograph
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,211 @@
+
+
+
+
+
+神经科学-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0005016";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	神经科学
+浙江大学
+
+	永久链接:http://mypage.zju.edu.cn/yshen&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			1989年起就读于浙江大学生命科学院，1993年获理学学士学位，同年考入浙江大学生物医学工程学系就读研究生，1996年起中国科学院上海生理研究所和浙江大学联合培养在生理研究所从事视网膜的神经生物学研究，师从杨雄里研究员（中国科学院院士），于1999年10月获理学博士学位。2000年1月赴美国约翰霍普金斯大学分子神经科学系DavidJ.Linden博士实验室进行博士后训练。于2005年回国后，任浙江大学神经生物学系教授和博士研究生导师。已经取得的工作成绩包括：A，首次详细分析了视网膜中谷氨酸受体的亚型组成和在视网膜光信号转导中的作用。B，证实了小脑中的一个新型突触可塑性模型，并且首次以可靠的实验证明了其表达的位置。C，首次报道了神经元型谷氨酸转运体的可塑性，并且提出可能与PKC、mGluR等胞内代谢途径相关。D，首次提出SRF，而不是以往广泛关注的CREB，可能对海马LTP起关键作用，这些工作作得到了包括美国科学院院士RichardHuganir博士，HHMI成员DavidGinty博士,国际著名科学家DavidLinden博士和国内多名神经生物学界的科学院院士和专家的肯定，已经在包括NatureNeuroscience,Neuron,JournalofNeuroscience,Neuroscience,EuropeanJournalofNeurosicnece在内的国际顶尖杂志上发表研究论文，并且广泛被引用。曾获得1999年&nbsp;中国生理学会张锡均全国优秀青年生理学论文一等奖和1998年贝克曼上海地区生命科学一等奖。
+			
+				
+			工作研究领域
+			
+			神经信号通路的细胞和分子机制研究组
+			
+				
+			联系方式
+			
+			电话：0571-88208240			电子信箱：yshen@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：沈颖
+		单位：基础医学系
+		职称：教授
+		我的主页共被访问了19959次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	实验室介绍
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	约翰霍普金斯大学医学院神经科学系
+中国科学院神经科学研究所
+中国科学院生物物理研究所
+复旦大学神经生物学研究所
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

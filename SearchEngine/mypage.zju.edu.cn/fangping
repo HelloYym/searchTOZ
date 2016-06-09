@@ -1,0 +1,219 @@
+
+
+
+
+
+方萍-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0082071";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	方萍
+环境与资源学院资源科学系教授
+
+	永久链接:http://mypage.zju.edu.cn/fangping&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;方萍，女，浙江诸暨人，1957年11月出生。1982年毕业于原浙江农业大学土化系土壤与农业化学专业，获学士学位。1996年1月原浙江农业大学土化系植物营养学博士研究生毕业，并获博士学位；1996年埃及国家农业研究中心微生物肥料研究室访问学者；2006年美国加洲大学戴维斯分校访问学者；2008年美国康乃尔大学访问学者。大学毕业后留校任教，历任原浙江农业大学土化系助教、讲师、副教授，现任浙江大学环境与资源学院教授、博士生导师。
+长期承担&ldquo;试验设计与统计分析&rdquo;方面的本科生与研究生课程教学工作，主编或独著教材共3本。主要从事禽畜粪、城镇生活垃圾、餐厨垃圾、城市污泥、食品工业糟渣液等有机固、液废弃物的处置与资源化利用技术开发与应用研究。主持国家自然科学基金项目：完成2项、在研1项；主持完成浙江省自然科学基金项目、教育部博士点专项基金项目、国家重点基础研究发展计划资助项目子课题各1项；主持在研浙江省重大科技专项1项；主持完成或在研的地方政府和企业合作项目20余项。获教育部高等学校科学技术奖一等奖1项、农业部科技进步二等奖1项、浙江省人民政府科学技术奖一、二、三等奖各1项；获发明专利授权11项、实用新型专利2项，发表论文60余篇。掌握环境治理与生态建设相关的实用技术如下：
+1、&nbsp;&nbsp;&nbsp;禽畜粪、餐厨垃圾、城市污泥、农业秸秆菇渣等好氧高温堆肥技术及发酵菌剂；
+2、&nbsp;&nbsp;生物有机肥生产技术；
+水&nbsp;&nbsp;&nbsp;&nbsp;水体净化微生物菌剂；
+3、&nbsp;&nbsp;居民家庭餐厨垃圾分类收集及减量技术：餐厨垃圾集聚桶与除臭菌剂；
+4、&nbsp;&nbsp;餐厨垃圾微生物降解源头消除技术：降解菌剂及载体制备与应用技术；
+5、&nbsp;&nbsp;高浓度食品工业有机废水的资源化利用技术。
+			
+				
+			工作研究领域
+			
+			有机废弃物的微生物处置与资源化利用
+
+			
+				
+			联系方式
+			
+			电话：0571-88982480			电子信箱：pfang@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：方萍
+		单位：环境与资源学院资源科学系
+		职称：教授
+		我的主页共被访问了17877次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	研究成果
+	专利成果
+	奖励荣誉
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

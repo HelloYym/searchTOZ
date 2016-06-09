@@ -1,0 +1,205 @@
+
+
+
+
+
+黄力全-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0013027";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	黄力全
+个人主页
+
+	永久链接:http://mypage.zju.edu.cn/tastesmell&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			1984年毕业于浙江大学，获生物学学士学位；1987年从中国科学院遗传发育所毕业，获分子遗传学硕士学位，并留所工作。1991年赴美国Yale大学攻读分子生物学博士学位；于1996年毕业后，去纽约大学西奈山医学院做博士后工作。2002年在宾歹法尼亚大学的一个附属化学感官中心建立自己的实验室，于2008年任副教授。现在浙大生科院主持化学感官研究。
+			
+				
+			工作研究领域
+			
+			味觉和嗅觉的分子生物学研究，特别是通过G蛋白传导的信号通路的研究。用单细胞基因表达分析的方式，分离鉴定在不同细胞间有差异表达的基因，结合分子、生化、细胞、免疫组化、遗传、生理和行为的方法，确定该基因产物对味觉和嗅觉的功能。同时研究化学感觉受体在生殖系统和消化系统的作用，及与有关疾病如不育、肥胖和糖尿病等的关系。
+			
+				
+			联系方式
+			
+						电子信箱：huangliquan@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：黄力全
+		单位：生命科学学院
+		职称：特聘研究员
+		我的主页共被访问了1309次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		发表论文
+	出版著作
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

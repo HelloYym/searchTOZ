@@ -1,0 +1,203 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0000167";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0000167&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			彭方正教授，1963年生于湖北。1983年毕业于武汉水利电力学院电力系电子技术专业，于1984年受国家教育部派遣赴日留学。于1987年3月和1990年3月和毕业于长冈技术科学大学电力电子专业，分别获得工学硕士和工学博士学位。1990年4月－1992年3月以研究员身份就业于东洋电机制造株式会社技术研究所。1992年4月－1994年2月就任东京工业大学助理教授从事教学和科研工作。1994年3月－1997年3月参加美国能源部的&quot;直流输电变换器及FACTS(FlexibleACTransmissionSystems)的研究开发&quot;。1997年5月就职于橡树岭国家研究所任其电力电子及电机研究中心的首席电力电子专家。2000年9月转任美国密西根州大学副教授，2001年起就任浙江大学电力电子及电力传动学科点教育部&ldquo;长江学者奖励计划&rdquo;特聘教授，浙江大学高压、大功率变流技术研究所所长。兼任IEEE电力电子学刊的编委，IEEE电力电子学刊、工业应用学刊及工业电子学学刊特约审稿人，IEEE工业应用学会工业变换器委员会委员，并多次担任电力电子及其应用领域重要国际学术会议的技术委员会委员。
+			
+				
+			工作研究领域
+			
+			电力系统电力电子技术（包括：无功补偿、有源电力滤波、电力调节器，灵活交流输电等）；高性能特大功率变换技术（包括：特大功率高电压交流调速系统等）
+			
+				
+			联系方式
+			
+			电话：0571-87953095			电子信箱：fzpeng@egr.msu.edu			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：彭方正
+		单位：电气工程学院应用电子学系
+		职称：教授
+		我的主页共被访问了15647次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		主要研究成果
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

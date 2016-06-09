@@ -1,0 +1,219 @@
+
+
+
+
+
+陈敏-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0007203";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	陈敏
+电力电子及其先进控制技术研究课题组
+
+	永久链接:http://mypage.zju.edu.cn/minchen&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			博士，副教授。2000年7月毕业于浙江大学应用电子学系，获学士学位；2006年12月取得浙江大学电气工程专业工学博士学位。2007年1月至2009年12月在浙江大学电气工程学院从事博士后科学研究，随后留校任教。2013年获得国家留学基金委与浙江大学新星计划联合资助，在丹麦奥尔堡大学能源技术学院从事为期两年的访问学者项目。
+作为项目负责人承担国家自然科学基金面上项目1项，青年基金项目1项，国防军工项目1项，省部级项目6项，国际横向合作项目5项。目前已发表SCI/EI收录的论文60余篇，获得1项省部级科研成果，授权发明专利12项，另有4项发明专利进入实质审查阶段，其中4项专利权与2项专利申请权转让企业。
+担任IEEETransactionsonPowerElectronics,IEEETransactionsonIndustrialElectronics期刊审稿人；国家自然科学基金同行评议专家。担任中国电源学会青年工作委员会委员，中国电源学会照明电源专委会委员。
+课题组Logo
+
+			
+				
+			工作研究领域
+			
+			主要从事电力电子系统及其先进控制技术的研究工作，包括逆变器及其控制、可再生能源发电与并网、高效照明驱动技术、电动车储能与充电技术、直流微电网与交流微电网的研究。
+			
+				
+			联系方式
+			
+			电话：0571-879539160571-87952511			电子信箱：calim@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：陈敏
+		单位：电气工程学院应用电子学系
+		职称：副教授，博士生导师
+		我的主页共被访问了15767次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		专利成果
+	教学工作
+	工作研究项目
+	奖励荣誉
+	研究成果
+	实验室介绍
+	发表论文
+	学术兼职
+	研究方向1
+	研究方向2
+	研究方向3
+	研究方向4
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,267 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0097320";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0097320&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			张涌泉，男，1956年10月10日出生，浙江省义乌人。1982年1月杭州大学中文系本科毕业。1984年9月考入杭州大学古籍研究所研究生班，师从郭在贻教授研习训诂学，获硕士学位。1986年7月毕业留所任教，并先后任助教、讲师、副教授。1992年9月考入四川大学中文系中国古典文献学专业师从项楚教授攻读博士学位。1994年10月提前通过博士论文答辩，并获博士学位。1995年1月至1996年12月在北京大学中文系作博士后研究，合作教授裘锡圭先生。1997年初回杭州大学古籍研究所任教（1996年12月破格晋升为教授）。1998年被聘为博士生导师。现为浙江大学敦煌学研究中心主任、古籍研究所所长、汉语史研究中心副主任，浙江大学学位委员会委员、文学学科学位委员会主任。在学术界的职务有：中国文字学会副会长，中国敦煌吐鲁番学会常务理事，中国语言学会理事，浙江省语言学会会长，浙江省敦煌学会会长，四川大学兼职教授，敦煌研究院兼职研究员，教育部人文社科重点研究基地浙江大学汉语史研究中心、北京大学中国古文献研究中心、四川大学俗文化研究所、兰州大学敦煌学研究所、华东师范大学文字研究与应用中心学术委员会委员。先后被确定为浙江省高校中青年学术带头人、&ldquo;浙江省新世纪学术和技术带头人&rdquo;第一层次重点培养人选、国家&ldquo;百千万人才工程&rdquo;第一、二层次培养人选、教育部跨世纪优秀人才培养计划入选者；并被评为国家有突出贡献的中青年专家，浙江省特级专家，获中国优秀博士后荣誉称号和高校青年教师奖；曾评获教育部普通高等学校人文社会社会科学研究成果一等奖、二等奖（各一次），中国社科院青年语言学家奖一等奖、二等奖（各两次），胡绳青年学术奖，北京大学王力语言学奖三等奖（两次）、国家图书奖提名奖（三次）、浙江省政府哲学社会科学优秀成果一等奖、二等奖等多种奖励。代表作有《汉语俗字研究》、《敦煌俗字研究》、《敦煌变文校注》（合作）、《汉语俗字丛考》、《旧学新知》等。
+主要学术经历及方向：&nbsp;&nbsp;&nbsp;&nbsp;近代汉语、敦煌学
+主要科研课题：&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;1.近代汉字研究[1/1]
+&nbsp;&nbsp;&nbsp;2.敦煌文献合集[1/1]
+&nbsp;&nbsp;&nbsp;3.敦煌文献合集（[1998]119）[1/1]
+&nbsp;&nbsp;&nbsp;4.敦煌文献语词大典（教社政[2000]13号）[1/1]
+&nbsp;&nbsp;&nbsp;5.敦煌文献校读释例[1/1]
+&nbsp;&nbsp;&nbsp;6.敦煌文献校读释例（编号295105）[1/1]
+&nbsp;&nbsp;&nbsp;7.跨世纪优秀人才培养计划[1/1]
+&nbsp;&nbsp;&nbsp;8.敦煌经部文献整理研究集成[1/1]
+&nbsp;&nbsp;&nbsp;9.ISO10646汉字俗字收集编码[/]
+&nbsp;&nbsp;&nbsp;10.姜亮夫、蒋礼鸿、郭在?学术思想研究[/]
+&nbsp;&nbsp;&nbsp;11.中国古代茶文化研究[1/1]
+&nbsp;&nbsp;&nbsp;12.高中文言文导读[/]
+&nbsp;&nbsp;&nbsp;13.敦煌文献语言大典[/]
+主要成果：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;1.《敦煌变文校注》[2/2]
+&nbsp;&nbsp;&nbsp;2.《敦煌变文、因缘、讲经文辑校》[2/3]
+&nbsp;&nbsp;&nbsp;3.《唐代文选》（杜牧文部分）[1/1]
+&nbsp;&nbsp;&nbsp;4.《汉语俗字丛考》[1/1]
+&nbsp;&nbsp;&nbsp;5.《俗字里的学问》[1/1]
+&nbsp;&nbsp;&nbsp;6.敦煌本《文心雕龙》抄写时间辨考[1/1]
+&nbsp;&nbsp;&nbsp;7.《敦煌歌辞总编》误校二十例[1/1]
+&nbsp;&nbsp;&nbsp;8.大型字典编纂中与俗字相关的几个问题[1/1]
+&nbsp;&nbsp;&nbsp;9.敦煌写本《秦妇吟》汇校[1/1]
+&nbsp;&nbsp;&nbsp;10.敦煌地理文书辑录著作三种校议[1/1]
+&nbsp;&nbsp;&nbsp;11.读《八琼室金石补正》札记[1/1]
+&nbsp;&nbsp;&nbsp;12.敦煌文献校读易误字例释[1/1]
+&nbsp;&nbsp;&nbsp;13.敦煌史话(六)[1/1]
+&nbsp;&nbsp;&nbsp;14.敦煌史话(七)[1/1]
+&nbsp;&nbsp;&nbsp;15.敦煌史话(八)[1/1]
+&nbsp;&nbsp;&nbsp;16.在贻师和&ldquo;敦煌学三书&rdquo;__写在《敦煌变文校注》出版之际[1/1]
+&nbsp;&nbsp;&nbsp;17.师恩难忘__回顾我的求学生涯[1/1]
+&nbsp;&nbsp;&nbsp;18.汉语俗字丛考[1/1]
+&nbsp;&nbsp;&nbsp;19.&ldquo;&rdquo;字发覆[1/1]
+&nbsp;&nbsp;&nbsp;20.俗语词研究与敦煌文献的校理[1/1]
+&nbsp;&nbsp;&nbsp;21.俗字研究在考辨古籍异文中的作用[1/1]
+&nbsp;&nbsp;&nbsp;22.《尔雅诂林》评介[1/1]
+&nbsp;&nbsp;&nbsp;23.论吴任臣的《字汇补》[1/1]
+&nbsp;&nbsp;&nbsp;24.论梅膺祚的《字汇》[1/1]
+&nbsp;&nbsp;&nbsp;25.评《唐五代语言词典》[1/1]
+&nbsp;&nbsp;&nbsp;26.国家富强才有学术的昌盛[1/1]
+&nbsp;&nbsp;&nbsp;27.敦煌变文校读札记[1/1]
+&nbsp;&nbsp;&nbsp;28.敦煌本《父母恩重经研究》[1/1]
+&nbsp;&nbsp;&nbsp;29.论《四声篇海》[1/1]
+&nbsp;&nbsp;&nbsp;30.我和中华书局一起获奖[1/1]
+&nbsp;&nbsp;&nbsp;31.我和中华书局一起获奖[1/1]
+&nbsp;&nbsp;&nbsp;32.师恩难忘－－怀念业师郭在?先生[1/1]
+&nbsp;&nbsp;&nbsp;33.《说文》&ldquo;连篆读&rdquo;发覆[1/1]
+&nbsp;&nbsp;&nbsp;34.《时空雕塑敦煌小史》[1/1]
+&nbsp;&nbsp;&nbsp;35.类书引文异同释例[1/1]
+&nbsp;&nbsp;&nbsp;36.论敦煌写本类书的校勘价值(以《励忠节抄》为例)[1/1]
+&nbsp;&nbsp;&nbsp;37.俗字研究与敦煌文献的校理（1993香港第34届亚洲及北非国）[1/1]
+&nbsp;&nbsp;&nbsp;38.郭在贻文集(主编1/3)[1/1]
+&nbsp;&nbsp;&nbsp;39.敦煌故里对敦煌学的新奉献[1/1]
+&nbsp;&nbsp;&nbsp;40.日、韩汉字探源二题[1/1]
+&nbsp;&nbsp;&nbsp;41.大力加强近代汉字的研究[/]
+&nbsp;&nbsp;&nbsp;42.姜亮夫、蒋礼鸿、郭在?先生纪念文集[主编/]
+&nbsp;&nbsp;&nbsp;43.高中文言文评注直译（5）[1/1]
+&nbsp;&nbsp;&nbsp;44.从语言文字的角度看敦煌文献的价值[1/1]
+&nbsp;&nbsp;&nbsp;45.&ldquo;坏pi&rdquo;和&rdquo;坏huai&rdquo;[1/1]
+&nbsp;&nbsp;&nbsp;46.大力加强近代汉字的研究[/]
+&nbsp;&nbsp;&nbsp;47.试论从事古书校勘工作应具备的基本条件[/]
+&nbsp;&nbsp;&nbsp;48.敦煌卷子辨?研究??基於字形分析角度的考察[1/1]
+			
+				
+			工作研究领域
+			
+			近代汉语、敦煌学
+			
+				
+			联系方式
+			
+			电话：88273448			电子信箱：zdzyq@emb.zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：张涌泉
+		单位：浙江大学古籍研究所
+		职称：教授
+		我的主页共被访问了7344次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

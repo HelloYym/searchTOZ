@@ -1,0 +1,212 @@
+
+
+
+
+
+陈丰农-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0012416";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	陈丰农
+浪舟
+
+	永久链接:http://mypage.zju.edu.cn/zjucfn&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;陈丰农，博士，助理研究员，于2012年3月在浙江大学获得博士学位，并留校至今。祖籍浙江浦江，生于新疆焉耆二十一团六连，先后在21团六连小学、21团九连小学（二中）、21团一中（团部）、焉耆县一中、库尔勒华山中学接受了大学之前的教育。并在中国计量学院、浙江农林大学和浙江大学接受的高等教育。
+&nbsp;&nbsp;&nbsp;目前主要从事基于机器视觉的农产品在线无损检测，主要通过机器视觉技术来获取检测对象的图像信息，并对图像进行处理，特征提取、有效特征选择，最后进行模式识别。
+机械部分包括：检测对象的单粒化，输送装置，卸料装置
+电路部分：主要通过AVR芯片进行下位机控制
+软件部分：在实验阶段用MATLAB进行测试，工程实现阶段用VC++进行软件开发。
+能熟练运用AutoCAD，SolidWorks,MATLAB，VC++等开发工具，能结合OpenCV，MIL，HALCON等视觉软件进行开发。目前发表了多篇论文，其中2篇SCI收录，4篇EI收录。担任国外多个期刊的审稿人。
+			
+				
+			工作研究领域
+			
+			基于机器视觉的农产品在线无损检测
+			
+				
+			联系方式
+			
+						电子信箱：cfnlz2000@163.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：陈丰农
+		单位：生物机电工程研究所
+		职称：
+		我的主页共被访问了4237次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		专利成果
+	实验室介绍
+	发表论文
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

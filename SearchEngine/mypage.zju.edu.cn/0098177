@@ -1,0 +1,208 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0098177";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0098177&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			胡亚元，男，1968年8月生，浙江兰溪人。1986年9月考入南京东南大学土木系工业与民用建筑专业学习。1990年7月毕业并获得工学学士学位。1990年8月至1994年9月在北京东方电子集团公司工作。1994年考入浙江大学土木工程学系岩土工程专业硕士；1995年春，因研究生入学成绩突出，被遴选为硕博士一贯制研究生，直接攻读博士学位，1998年10月毕业。博士学位的论文题目是：《横观各向同性饱和土中波的传播》，获校级优秀毕业论文。毕业后留校，在国家重点学科浙江大学岩土工程研究所工作。2003年6月至2004年6月在香港理工大学访问合作研究。目前职称为讲师。研究方向:&nbsp;软弱地基处理、非饱和土和环境岩土工程。
+			
+				
+			工作研究领域
+			
+			1软弱地基处理，
+2非饱和土的工程性质和本构关系
+3环境岩土的工程性质和本构关系
+4颗粒介质力学
+
+
+			
+				
+			联系方式
+			
+			电话：0571-87952269			电子信箱：huyayuan@ccea.zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：胡亚元
+		单位：建筑工程学院土木工程学系
+		职称：副教授
+		我的主页共被访问了3072次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		发表论文
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

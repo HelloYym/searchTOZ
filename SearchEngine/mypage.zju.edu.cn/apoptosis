@@ -1,0 +1,220 @@
+
+
+
+
+
+基因的转录调控-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0090231";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	基因的转录调控
+真核细胞基因的表达与调控
+
+	永久链接:http://mypage.zju.edu.cn/apoptosis&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			卢建平，主要从事分子细胞生物学和真菌分子生物学等研究工作。
+2000年-2003年，研究转绿色木霉内切几丁质酶基因的毛壳菌对植物病原真菌的拮抗作用；2003年-2004年，构建稻瘟病菌成熟附着胞的cDNA文库、构建稻瘟病菌成熟附着胞的SSH差减文库（附着胞cDNA减去孢子/菌丝cDNA），有70多条非冗余EST序列登录在GenBank上；2004年-2008年，通过基因敲除、基因互补、基因过表达、GFP荧光定位、Real-TimePCR、电镜等方法研究稻瘟病菌致病必需基因的作用机理，如非组蛋白基因（Mnh6等）、自噬基因（Atg1、Atg4、Atg5、Atg9等）和膜结合蛋白基因（Mtp1等）；2008年－2009年，研究转录因子Hes1对前列腺肿瘤细胞delta-catenin基因表达的调控作用、delta-catenin过量表达对前列腺细胞发育的影响。2010年-2012年，稻瘟病菌凋亡机制的研究。2012年-至今，真核细胞转录因子功能的研究。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;现在，主要研究真核细胞转录因子对重要功能基因表达的调控机制，真核细胞（植物病原真菌以及其他真核细胞）凋亡和细胞自噬发生的调控机制。
+&nbsp;
+学历：
+2005年浙江大学植物病理学专业获博士学位
+1990年青岛海洋大学海洋生物学专业获硕士学位
+1987年山东海洋学院海洋植物学专业获学士学位
+&nbsp;
+工作经历：
+2008年2月-2009年9月&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BrodySchoolofMedicineatEastCarolinaUniversity,AssociateResearchinCancerCellBiology
+1998年至今&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江大学生命科学学院副教授
+1993年-1998年&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;杭州大学生物系讲师
+1990年-1993年&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;杭州大学生物系助教
+			
+				
+			工作研究领域
+			
+			分子细胞生物学，真菌分子生物学。
+主要研究方向：真核生物转录因子对重要功能基因的表达调控，细胞自噬(autophagy)和凋亡(apoptosis)的发生的调控机制。
+			
+				
+			联系方式
+			
+						电子信箱：jplu@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：卢建平
+		单位：生命科学学院生物科学系
+		职称：副教授
+		我的主页共被访问了19780次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		发表论文
+	出版著作
+	专利成果
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

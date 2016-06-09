@@ -1,0 +1,206 @@
+
+
+
+
+
+信息简介-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0088281";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	信息简介
+
+
+	永久链接:http://mypage.zju.edu.cn/0088281&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			张小蒂，男，1951年生，1981年赴美加州大学（UC.Riverside）留学，1984年获科学硕士学位（M.S），1987年获博士学位（Ph.D.），后在美做博士后研究，任（美）商务部研究员；1991年起任浙江大学经济学教授；1996年起任浙江大学国际经济系系主任，1999年至2009年任经济学院副院长。现任中国世界经济学会常务理事、浙江省社会科学重点研究基地&ldquo;区域经济开放与发展研究中心&rdquo;主任、浙江省重点学科（国际贸易学）负责人、浙江大学社会科学部教学与科研委员会主任、博士生导师，1993年起为享受国务院政府特殊津贴的专家。浙江省八届、十届政协常委、经济委员会副主任。浙江省国际经济贸易学会首届会长。
+			
+				
+			工作研究领域
+			
+			1、经济发展理论
+2、国际经济理论
+3、国际商务
+
+			
+				
+			联系方式
+			
+			电话：0571－87951468			电子信箱：cec_zhangxd@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：张小蒂
+		单位：经济学院国际经济系
+		职称：教授
+		我的主页共被访问了6124次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

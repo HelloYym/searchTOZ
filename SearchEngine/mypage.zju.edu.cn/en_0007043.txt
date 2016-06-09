@@ -1,0 +1,1 @@
+{'name': u':Jianguo Huang', 'title': u':Professor', 'photo': u'http://mypage.zju.edu.cn/attachments/43/0630011018-1766319087.jpg', 'pos': './mypage.zju.edu.cn/en|0007043', 'intro': [u'\n\t\t                \t\t\t\n\t'], 'department': u':Department of Chemistry', 'homepage': 'http://mypage.zju.edu.cn/en/0007043'}

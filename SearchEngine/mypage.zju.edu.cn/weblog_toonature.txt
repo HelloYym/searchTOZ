@@ -1,0 +1,1 @@
+{'name': u'\uff1a\u738b\u8389\u7ea2', 'title': u'\uff1a\u526f\u6559\u6388', 'photo': u'http://mypage.zju.edu.cn/attachments/15/0824013749-1355022137.jpg', 'pos': './mypage.zju.edu.cn/weblog|toonature', 'intro': [], 'department': u'\uff1a\u73af\u5883\u6c61\u67d3\u63a7\u5236\u6280\u672f\u7814\u7a76\u6240', 'homepage': 'http://mypage.zju.edu.cn/weblog/toonature'}

@@ -1,0 +1,220 @@
+
+
+
+
+
+李浩然课题组-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0095075";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	李浩然课题组
+
+
+	永久链接:http://mypage.zju.edu.cn/0095075&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			现任浙江大学理学部常务副主任、化学学科物理化学专业博士生指导教师、化工学科化学工程专业精细化工方向博士生指导教师、中国化学会理事、中国化工学会离子液体专业委员会副主任委员、中国化学会化学热力学与热分析专业委员会副主任委员、中国化学会计算化学专业委员会委员、《化学学报》、《化工学报》和《物理化学学报》编委、浙江省化学会副理事长，被研究生评为首届浙江大学&ldquo;良师益友&rdquo;，被浙江大学竺可桢学院评为&ldquo;我最喜爱的教师&rdquo;。课题组网页：http://www.chem.zju.edu.cn/~lihaoran/index.htm。
+&nbsp;
+RepresentativePublications
+1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Zhang,P.,Gong,Y.,Lv,Y.,Guo,Y.,Wang,Y.,Wang,C.,Li,H.*,&ldquo;Ionicliquidswithmetalchelateanions&rdquo;,Chem.Commun.,2012,48(17):2334-2336
+2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Zhu,X,Wang,Y.,Li,H.*,&quot;Thestructuralorganizationinaqueoussolutionsofionicliquids&quot;,AIChEJ.,2009,55,198-205
+3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hu,X.,Sun,Y.,Mao,J.,Li,H.*,&quot;Theoreticalstudyonthestructure-reactivityrelationshipsofacetylacetone-FecatalystmodifiedbyioniccompoundinC-Hactivationreaction&quot;,J.Catal.,2010,272,320-332[该文第一作者胡兴邦获2009年全国百篇优秀博士论文提名奖]
+4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wang,Y.*,Yao,J.,Li,H.*,&nbsp;Su,D.,Antonietti,M.,&quot;HighlyselectivehydrogenationofphenoltocyclohexanoneoveraPd@carbonnitridecatalystinaqueousmedia&quot;,J.Am.Chem.Soc.,2011,133,2362-2365[该文第一作者王勇获2010年全国百篇优秀博士论文提名奖]
+5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wang,C.,Luo,H.,Jiang,D.,Li,H.*,Dai,S.*,&quot;Carbondioxidecapturebysuperbase-derivedproticionicliquids&quot;,Angew.Chem.,Int.Ed.,2010,49,:5978-5981
+[以上部分成果应用于&ldquo;维生素及类胡萝卜素的绿色合成新工艺及产业化&rdquo;，获2010年国家发明二等奖]
+
+
+			
+				
+			工作研究领域
+			
+			1、医药化工中的绿色化学
+2、离子液基础及应用研究
+3、空气氧化催化剂及反应器设计
+
+			
+				
+			联系方式
+			
+						电子信箱：lihr@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：李浩然
+		单位：化学系
+		职称：教授
+		我的主页共被访问了45633次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	发表论文
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	group
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

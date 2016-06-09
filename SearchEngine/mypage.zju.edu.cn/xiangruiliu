@@ -1,0 +1,221 @@
+
+
+
+
+
+刘祥瑞-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0013063";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	刘祥瑞
+
+
+	永久链接:http://mypage.zju.edu.cn/xiangruiliu&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			2001-2005年北京大学药学院&nbsp;药学学士
+2005-2007年北京大学药学院&nbsp;药剂学硕士
+2008-2011年英国诺丁汉大学药学院&nbsp;药学博士
+2011-2013年英国医学研究理事会分子生物学实验室（MRCLMB）/剑桥大学博士后
+2013年6月加入浙江大学化学工程与生物工程学系，生物纳米工程中心申有青教授纳米医药课题组
+2013年12月浙江大学化学工程与生物工程学系副教授求是青年学者博士生导师&nbsp;
+DARUJournalofPharmaceuticalSciences&nbsp;编委
+&nbsp;
+			
+				
+			工作研究领域
+			
+			新型纳米载体给药系统,分子药剂学,非病毒载体基因输送，肿瘤微环境,现代中药制剂及应用转化。
+
+			
+				
+			联系方式
+			
+			电话：0571-87951493			电子信箱：xiangrui@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：刘祥瑞
+		单位：浙江大学化学工程与生物工程系
+		职称：副教授
+		我的主页共被访问了27780次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	学术交流（讲座报告）
+	发表论文
+	奖励荣誉
+	实验室介绍
+	研究生招生信息
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	课题组链接
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

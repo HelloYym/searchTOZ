@@ -1,0 +1,237 @@
+
+
+
+
+
+陈欣(生态学Ecology)-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0099018";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	陈欣(生态学Ecology)
+大胆假设，小心求证
+
+	永久链接:http://mypage.zju.edu.cn/0099018&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;
+&nbsp;&nbsp;&nbsp;陈欣，博士，教授，生态学专业博士生导师，生物系副系主任,生态所副所长
+&nbsp;&nbsp;&nbsp;欢迎来到我的实验室！多年来实验室一直致力于生态学领域4个方向的研究:（1）植物生态学（着重研究植物的相互作用及对环境变化的响应）;(2）微生物生态学（着重研究植物-菌根共生体）；（3）农业生态学（着重研究全球重要农业文化遗产系统-GIAHS中生物多样性特点、功能和保持途径）（4）生态系统功能（着重研究生态系统元素循环及对全球变化的响应）。在国家自然科学基金项目、国家科技部973项目、教育部博士点基金项目、省自然基金项目、省科技厅项目等的资助下，实验室取得许多研究结果。
+&nbsp;&nbsp;&nbsp;&nbsp;2005以来，实验室主持和参与的研究,发表在Science,PNAS(美国科学学院院报),FrontiersinEcologyandtheEnvironment,GlobalChangeBiology，BiologyLetters,.AnnalsofBotany,JournalofChemicalEcology，BasicandAppliedEcology,AppliesSoilEcology，Agriculture,EcosystemsandEnvironment，PlantandSoil,Mycorrhiza,ActaOecologica&nbsp;等国际学术期刊上。
+&nbsp;&nbsp;&nbsp;&nbsp;实验室虽然其名不扬，但我们在平凡中追求卓越。实验室师生、同学关系融洽，读书氛围浓郁。实验室与美国北卡罗来纳州立大学ShuijinHu教授、新加坡设计大学（SUTD）杨远方教授和美国宾州大学菌根生态学教授RogerTKoide的实验室、丹麦哥本哈根大学JacobWeiner教授的实验室建立友好联系。若您有志于生态学的研究，真诚欢迎您加入，我们一起灯下读书，共享做学问的乐趣。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+学术兼职：中国生态学会农业生态专业委员会副主任；中国菌根学联合会委员。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;担任国际期刊《Agriculture,&nbsp;Ecosytems&nbsp;&amp;&nbsp;Environment》（2008年影响因子3.130）、《JournalofSustainableAgriculture》（2008年影响因子0.3934）和国内期刊《中国生态农业学报》编委。
+
+
+代表性论文(其余见论文发表栏目)
+Newpaper:
+LehoTedersooetal.(includingChenX)Globaldiversityandgeographyofsoil&nbsp;fungi.Science,2014,346,doi:10.1126/Science/1256688.
+WenzhengRen+,LiangliangHu+,JianZhang+,CuipingSun,JianjunTang,YonggeYuan,XinChen*.Canpositiveinteractionsbetweencultivatedspecieshelptosustainmodernagriculture?FrontiersinEcologyandtheEnvironment,2014,12(9):507&ndash;514,doi:10.1890/130162.(5-Year-IF10.230)
+
+Xie,J,HuLL,TangJJ,WuX,Li&nbsp;NN,YuanYG,YangHS,ZHangJE,LuoSM,ChenX*.Ecologicalmechanismsunderlyingthesustainabilityoftheagriculturalheritagerice-fishco-culturesystem.PNAS(美国科学院院报)，2011，108（50）：E1381-1387(SCIIF10.591).封面论文.&quot;ResearchHighlight&quot;inNature(Nature,2011,479:448-449);CommentaryinPNAS(PNAS,2011,108(50):19841-19842)
+
+LiangliangHu&nbsp;WeizhengRen&nbsp;JianjunTang&nbsp;NannaLiJianZhangXinChen*.Theproductivityoftraditionalrice&ndash;fishco-culturecanbeincreasedwithoutincreasingnitrogenlosstotheenvironment.Agriculture,Ecosystems&amp;Environment,2013,177:28-34
+ZhenxingYu1&sect;,QianZhang1,2&sect;,HaishuiYang1,JianjunTang1,JacobWeiner3,XinChen1*.Theeffectsofsaltstressandarbuscularmycorrhizaonplantneighboureffectsandself-thinning.&nbsp;BasicandAppliedEcology,2012,13:673-680.
+YangHS,ZangYY,YuanYG,&nbsp;TangJJ,LiuY,ChenX.Selectivitybyhostplantsaffectsthedistributionofarbuscularmycorrhizalfungi:evidencefromITSrDNAsequencemetadata.BMCEvolutionaryBiology,2012,12:50(5-Year-IF4.592).
+LingLiu,QianZhang,LiangliangHu,JianjunTang,LigenXu,XiantianYang,JeanW.H.Yong,XinChen.Legumescanincreasecadmiumcontaminationinneighboringcrops.PlosOne,2012,7(8):e42944.(5-Year-IF4.392
+
+
+
+QianZhang,JianjunTang,XinChen.Plantmortalityvarieswitharbuscularmycorrhizalfungalspeciesidentitiesinaself-thinningpopulation.BiologyLetters,2011,&nbsp;7(3):472-474.(SCI，IF3.821)
+QianZhang,LuZhang,JacobWeiner,JianjunTang,XinChen.Arbuscularmycorrhizalfungialterplantallometryandbiomass-densityrelationships.AnnalsofBotany,2011,107(3):407-413.(SCI，IF3.884)
+ZhangQ,YangRY,TangJJ,YangHS,HuS,ChenX.Positivefeedbackbetweenmycorrhizalfungiandplantsinfluencesplantinvasionsuccessandresistancetoinvasion.PLoSONE,2010,&nbsp;5(8):e12380&nbsp;&nbsp;(SCI,IF4.32)
+ZhangQ,XULM,TangJJ,BaiMG,ChenX.Arbuscularmycorrhizalmediationofbiomass-densityrelationshipofMedicagosativaL.undertwowaterconditionsinafieldexperiment.Mycorrhiza,2011,&nbsp;21(4)::269-277(SCI，IF3.089)
+ChenX,TuC.,BurtonM.G.,WatsonD.M.,BurkeyK.O.,HuS.,Plantnitrogenacquisitionandinteractionsunderelevatedcarbondioxide:impactofendophytesandmycorrhizae.GlobalChangeBiology,&nbsp;2007,13:1-12（SCI,IF7.814.）
+TuC.,F.L.Booker,D.M.Watson,X.CHEN,T.W.Rufty,W.Shi,andS.Hu,MycorrhizalmediationofplantNacquisitionandresiduedecomposition:ImpactofmineralNinputs,GlobalChangeBiology,2006,12:793-203(SCI,IF7.814)&lt;spanstyle=&quot;font-family:
+			
+				
+			工作研究领域
+			
+			（1）微生物生态学（着重研究植物-菌根共生体）；（2）植物生态学（着重研究植物的相互作用及对环境变化的响应）（3）生态系统功能（着重研究生态系统元素循环及对全球变化的响应）；（4）农业生态学（着重研究农业系统中生物多样性特点、功能和保持途径）
+
+			
+				
+			联系方式
+			
+			电话：0571-88206373			电子信箱：chen-tang@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：陈欣
+		单位：生命科学学院生物科学系
+		职称：教授
+		我的主页共被访问了52053次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

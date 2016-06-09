@@ -1,0 +1,211 @@
+
+
+
+
+
+严建苗-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0088229";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	严建苗
+
+
+	永久链接:http://mypage.zju.edu.cn/yjmch&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;严建苗，男，1965年2月生，浙江余姚人。1985年杭州大学经济学学士；1988年上海社会科学院经济学硕士，2005年浙江大学经济学博士。1997年3－10月法国勒阿佛商学院访问学者。自1988年8月以来，先后在杭州大学财经系、金融与经贸学院工作，历任国际贸易教研室主任、国际贸易系副主任，现为浙江大学经济学院国际经济学系主任、教授、硕士生导师，任浙江大学民营经济研究中心兼职研究员、杭州市WTO咨询中心学术顾问、中国世界经济学会理事。
+			
+				
+			工作研究领域
+			
+			国际贸易理论与政策，
+WTO与中国开放型经济，
+浙江民营经济及外贸组织。
+			
+				
+			联系方式
+			
+			电话：0571-87952556			电子信箱：yjmch@sohu.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：严建苗
+		单位：经济学院国际经济系
+		职称：教授
+		我的主页共被访问了4188次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		出版著作
+	奖励荣誉
+	研究成果
+	发表论文
+	开设课程
+	承担的课题
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

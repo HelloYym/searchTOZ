@@ -1,0 +1,205 @@
+
+
+
+
+
+程志渊-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0014006";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	程志渊
+“千人计划”教授
+
+	永久链接:http://mypage.zju.edu.cn/zcheng&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			教授，博导，国家&ldquo;千人计划&rdquo;专家
+浙江大学微纳中心，主任
+信息与电子工程系，微电子与光电子研究所
+教育背景与工作经历：清华大学学士（电子工程），新加坡国立大学博士（电子工程），麻省理工学院博士后（半导体材料与器件），并获哈佛大学肯尼迪政府学院硕士学位（公共管理）。2003～2013年在美国多家科技公司从事半导体技术研发工作。发表学术论文60多篇，申请美国发明专利50多项，其中多项第一发明人专利被Intel，台积电等国际大公司采用。权威学术期刊IEEEElectronDeviceLetters2004年BestPaper第一作者而获得以诺贝尔奖获得者命名的一年一度的&nbsp;IEEEGeorgeE.SmithAward奖（2004年度）。2013年入选第9批中组部&ldquo;千人计划&rdquo;创新人才。
+			
+				
+			工作研究领域
+			
+			新型微纳器件，”Post-CMOS”半导体芯片，新能源器件，石墨烯技术
+			
+				
+			联系方式
+			
+			电话：(+86)571-8795.3903			电子信箱：zycheng@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：程志渊
+		单位：信息与电子工程学系
+		职称：教授
+		我的主页共被访问了5837次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

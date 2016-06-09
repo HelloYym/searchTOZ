@@ -1,0 +1,213 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0098013";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0098013&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			1963年1月生。
+&nbsp;&nbsp;&nbsp;&nbsp;1990.1至1996.6在日本名古屋大学理学部学习。在攻读硕士学位期间，主要从事金属及其化合物超微粒子的生成及生成机制的研究。进入博士课程后，主要从事纳米碳管生成及生成机制的研究,并承担了日本文部省有关碳纳米管方面的课题研究，取得了重要成果。在日期间，超微粒子的研究工作是在日本著名超微粒子专家、应用物理学专家、电子显微镜专家、超微粒子的创始人上田良二教授（R.Uyeda）及早期从事超微粒子研究工作的专家和田伸彦博士（N.Wada）的指导下进行的。并同碳纳米管的发现者饭岛（S.Iijima）教授(现任名城大学教授)和安藤（Y.Ando）教授进行了合作研究。
+&nbsp;&nbsp;&nbsp;&nbsp;1998年3&nbsp;月作为引进人才调入浙江大学理学院物理系凝聚态物理所工作。&nbsp;
+			
+				
+			工作研究领域
+			
+			研究方向：纳米碳管的制备、物理性能及应用的研究
+
+研究内容：
+1、利用电弧放电法制备单壁、双壁及多壁纳米碳管、C60、
+各种纳米金属粉；
+2、利用CVD法制备多壁纳米碳管；
+3、真空镀膜技术开发与应用的研究；
+4、纳米碳管等各种纳米材料的物理性质的研究，主要包括：
+*纳米碳管作为FED用电子发射源的场发射材料研究
+*纳米碳管用于锂电池负极材料的研究
+*纳米碳管用于复合材料的研究
+
+			
+					
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：王淼
+		单位：物理学系
+		职称：教授
+		我的主页共被访问了5688次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

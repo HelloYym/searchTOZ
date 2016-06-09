@@ -1,0 +1,1 @@
+{'name': u'\uff1a\u7a0b\u8273\u65d7', 'title': u'\uff1a\u526f\u7814\u7a76\u5458', 'photo': u'http://mypage.zju.edu.cn/teacherimage/0087034.jpg', 'pos': './mypage.zju.edu.cn/weblog|cyq', 'intro': [], 'department': u'\uff1a\u6d59\u6c5f\u5927\u5b66\u4fe1\u606f\u4e2d\u5fc3', 'homepage': 'http://mypage.zju.edu.cn/weblog/cyq'}

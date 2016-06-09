@@ -1,0 +1,215 @@
+
+
+
+
+
+HaiqiangWang-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0008205";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	HaiqiangWang
+chuck
+
+	永久链接:http://mypage.zju.edu.cn/haiqiangwang&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			王海强，男，1977年生，博士，副教授，硕导，浙江大学&ldquo;求是青年学者&rdquo;。2002年考入浙江大学环资学院环境工程专业攻读硕士学位，2005年转为直接攻读博士学位，2007年12月获博士学位、毕业后留校任教。2011年7月-2011年11月，美国加州大学洛杉矶分校，卢云峰教授，
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;多年来一直从事纳米环境材料开发和大气环境污染物治理的研究工作，主要包括环境催化新材料的开发以及二氧化硫、氮氧化物、重金属汞、室内空气污染物等脱除技术的开发等等。任职以来在J.Phys.Chem.C、Catal.Sci.Tech.、Environ.Sci.Tech.、Electrochem.Commun.、Angew.Chem.Int.Edit.等国际著名期刊上发表SCI论文40余篇，其中第一或通讯作者14篇，文章共被他引500多次，其中第一或通讯作者170多次，发明专利授权16项；获全国高校科学技术进步奖一等奖1项，浙江省科学技术奖二等奖1项，中国产学研合作创新成果奖。主持国家青年基金项目1项，&ldquo;863&rdquo;计划主题项目课题1项，参与国家基金项目2项，获第二期博士后基金特别资助。
+			
+				
+			工作研究领域
+			
+			环境催化；大气污染控制工程
+			
+				
+			联系方式
+			
+			电话：0571-87953088			电子信箱：haiqiangwang@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：王海强
+		单位：环境与资源学院环境工程系
+		职称：副教授
+		我的主页共被访问了11028次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+	出版著作
+	专利成果
+	奖励荣誉
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	复旦马臻博士主页
+李灿院士课题组
+科学网
+小木虫
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

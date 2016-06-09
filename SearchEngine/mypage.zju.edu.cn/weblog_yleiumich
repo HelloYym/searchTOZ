@@ -1,0 +1,540 @@
+
+
+
+
+
+鸡同鸭讲-博客
+
+
+
+
+
+
+varctxPath="http://mypage.zju.edu.cn";
+varb_handle="yleiumich";
+varcfg_weblog="http://mypage.zju.edu.cn/weblog";
+vard=newDate()
+varselyear=d.getFullYear();
+varselmonth=d.getMonth()+1;
+
+
+
+
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	color:#111;
+	margin-right:10px;	
+}
+#mainlinkullia,.tagsa:hover{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+.tagsa{
+	margin-right:10px;
+}
+img{
+	border:none;
+}
+
+
+
+
+
+
+
+
+
+
+	
+		首页
+		帮助
+		登录
+	
+
+
+
+
+
+
+	鸡同鸭讲
+
+
+	永久链接:http://mypage.zju.edu.cn/weblog/yleiumich&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+
+
+	中文主页
+英文主页
+			博客
+
+
+
+
+
+
+
+
+
+
+			
+				
+
+	
+[1/2]
+首页	上一页下一页末页
+
+	
+
+浏览模式:普通|列表
+
+
+
+
+
+
+		ZJUWLAN设备登陆顺序很重要
+
+作者:雷勇日期:2013-02-26Tuesday
+
+
+
+办公室终于ZJUWLAN有信号了。。。可是，如果手机先上去了，计算机就vpn就上不去了。只能先计算机vpn登陆，再手机登陆才可。有意思。
+查看更多...
+
+
+
+
+
+分类:默认分类|			固定链接|评论总数1|
+			阅读次数199
+
+
+
+
+
+
+
+		如何在校外使用图书馆电子资源？求帮助
+
+作者:雷勇日期:2013-01-13Sunday
+
+
+
+假设我人不在学校内，没有校园网可以连，如果我此时需要用图书馆浙大的资源去查询EI，SCI，或者下载IEEE的论文，该如何做呢？rvpn只能回到校内，但是如何再出去？再拨vpn?谢谢！
+查看更多...
+
+
+
+
+
+分类:默认分类|			固定链接|评论总数0|
+			阅读次数43
+
+
+
+
+
+
+
+		抢IP如火如荼中
+
+作者:雷勇日期:2012-05-21Monday
+
+
+
+每隔几天，就要抢一次IP。还挺有意思的。
+查看更多...
+
+
+
+
+
+分类:默认分类|			固定链接|评论总数0|
+			阅读次数77
+
+
+
+
+
+
+
+		macOSX使用vpn上校网方法
+
+作者:雷勇日期:2012-01-09Monday
+
+
+
+现在使用苹果产品的人多了起来，但是配置vpn上校网有问题，默认苹果的vpn配置是需要证书的，而校网vpn配置不需要证书。所以需要做如下改动：创建一个文件options填入代码pluginL2TP.pppl2tpnoipsec保存后,移到/etc/ppp目录下然后再配置vpn，用默认配置，证书...
+查看更多...
+
+
+
+
+
+分类:默认分类|			固定链接|评论总数0|
+			阅读次数45
+
+
+
+
+
+
+
+		玩具重金属污染调查
+
+作者:雷勇日期:2011-12-07Wednesday
+
+
+
+http://www.greenpeace.cn/heavymetal/index.php各位有孩的家长们要好好看看。
+查看更多...
+
+
+
+
+
+分类:默认分类|			固定链接|评论总数0|
+			阅读次数38
+
+
+
+
+
+
+
+		转载，为浙大的抗癌女孩祝福
+
+作者:雷勇日期:2011-07-04Monday
+
+
+
+
+查看更多...
+
+
+
+
+
+分类:默认分类|			固定链接|评论总数0|
+			阅读次数51
+
+
+
+
+
+
+
+		真实的民国：1927年女工工资高于公务员科长zz
+
+作者:雷勇日期:2011-06-12Sunday
+
+
+
+现在老百姓的日子跟1927年比呢?发信人:i3721pp(你让世界从此不同),信区:MilitaryJoke标题:真实的民国：1927年女工工资高于公务员科长发信站:水木社区(FriJun319:56:142011),站内（凤凰网历史频道专栏作者王勇供稿，未经许可，请勿转载）在被称为...
+查看更多...
+
+
+
+
+
+分类:默认分类|			固定链接|评论总数0|
+			阅读次数40
+
+
+
+
+
+
+
+		攻陷清华各个大楼
+
+作者:雷勇日期:2011-05-24Tuesday
+
+
+
+
+查看更多...
+
+
+
+
+
+分类:默认分类|			固定链接|评论总数0|
+			阅读次数60
+
+
+
+
+
+
+
+		我国GDP与人均收入改革开放后的变化（转载）
+
+作者:雷勇日期:2011-05-22Sunday
+
+
+
+标题:据不可靠消息称发信站:水木社区(SatMay2118:43:112011),站内中国GDP世界排名：1978年第15名，1990年第10名，1995年第7名，2000年第6名，2007年第4名，2010年第2名。中国人均收入世界排名：1960年第78名，1970年第82名，1980年第94名，19...
+查看更多...
+
+
+
+
+
+分类:默认分类|			固定链接|评论总数0|
+			阅读次数34
+
+
+
+
+
+
+
+		实用机动车与非机动车刮擦事故处理指南(转自19楼）
+
+作者:雷勇日期:2011-05-16Monday
+
+
+
+这段话讲送给所有非机动车的交通参与者：不要闯红灯，不要车辆密集的地方乱穿马路。这个劝告和警察蜀黍没关系，当你打算从一辆车子前方窜过去的时候，你的祈祷内容如下：驾驶员没有喝酒，还反应的过来；驾驶员没有在点烟，找东西，调音乐，手舞足蹈的侃大山，太投入的...
+查看更多...
+
+
+
+
+
+分类:默认分类|			固定链接|评论总数0|
+			阅读次数36
+
+
+			
+			
+		
+		
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+	
+	
+		姓名：雷勇
+		单位：机械工程学系
+		职称：副教授
+		我共发表了12篇文章
+		共收到1条评论
+		我的主页共被访问了6205次
+	
+	
+	
+	
+
+
+我的文章分类
+
+	默认分类
+		
+
+
+
+
+日历
+
+
+
+>>
+年月
+
+
+
+日
+一
+二
+三
+四
+五
+六
+
+
+
+
+
+
+
+
+
+
+
+我的最新文章
+
+
+		ZJUWLAN设备登陆顺序很...
+如何在校外使用图书馆电...
+抢IP如火如荼中
+macOSX使用vpn上校...
+玩具重金属污染调查
+转载，为浙大的抗癌女孩...
+真实的民国：1927年女工...
+攻陷清华各个大楼
+我国GDP与人均收入改革...
+实用机动车与非机动车刮...
+	
+
+
+
+
+我的热点文章
+
+
+				ZJUWLAN设备登陆顺序很...
+		于娟，走好！
+		抢IP如火如荼中
+		攻陷清华各个大楼
+		转载，为浙大的抗癌女孩...
+		学音乐的孩子是不会变坏...
+		macOSX使用vpn上校...
+		如何在校外使用图书馆电...
+		真实的民国：1927年女工...
+		玩具重金属污染调查
+
+	
+
+
+我收到的评论
+
+			
+
+	是吗？有意思~
+
+	
+
+
+我的文章汇总
+
+		2013年2月[1]
+		2013年1月[1]
+		2012年5月[1]
+		2012年1月[1]
+		2011年12月[1]
+		2011年7月[1]
+		2011年6月[1]
+		2011年5月[3]
+		2011年4月[1]
+		2011年3月[1]
+		
+	
+
+
+链接
+
+
+
+
+
+
+检索
+
+
+
+
+-所有文章-
+默认分类
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+
+
+varflag=newArray();
+flag[0]='2012/01/09';
+flag[1]='2011/03/17';
+flag[2]='2011/07/04';
+flag[3]='2011/04/19';
+flag[4]='2011/05/16';
+flag[5]='2011/05/22';
+flag[6]='2011/05/24';
+flag[7]='2011/06/12';
+flag[8]='2011/12/07';
+flag[9]='2012/05/21';
+flag[10]='2013/01/13';
+flag[11]='2013/02/26';
+
+
+varcale=newCalendar("idCalendar",{
+SelectDay:newDate(),
+onSelectDay:function(o),
+onToday:function(o),
+onFinish:function(){
+$("idCalendarYear").innerHTML=this.Year;$("idCalendarMonth").innerHTML=this.Month;
+for(vari=0,len=flag.length;i<len;i++){
+//alert(flag[i]);
+	vard=newDate(flag[i]);
+	if(this.Year==d.getYear()){
+		if(this.Month==d.getMonth()+1)
+		{
+this.Days[d.getDate()].innerHTML=""+d.getDate()+"";
+			
+		}
+
+	}
+}
+}
+});
+$("idCalendarPre").onclick=function()
+$("idCalendarNext").onclick=function()
+
+
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));

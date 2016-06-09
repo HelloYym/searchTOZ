@@ -1,0 +1,215 @@
+
+
+
+
+
+分子设计与天然产物实验室-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0082149";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	分子设计与天然产物实验室
+
+
+	永久链接:http://mypage.zju.edu.cn/0082149&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+
+教授，博士生导师。1982年7月毕业于浙江大学化学系，留校任教至今，期间1987年获物理化学专业硕士学位，1993年获物理化学专业博士学位。1996年~1998年在德国奥尔登堡大学化学系从事博士后研究；2002年5月至8月在美国加州大学伯克利分校化工系做高级访问学者，从事蛋白质折叠动力学研究和蛋白质结构的计算机模拟。2006年9月－11月获德国DAAD资助，在德国奥尔登堡大学工业化学系高级访问学者，从事绿色溶剂&mdash;离子液体相关物性的研究。发表学术论文70余篇（65篇为SCI论文），申请专利6项，已授权3项。两次获包氏中国留学生奖学金；一次获浙江大学汤永谦奖学金；获浙江省教学成果奖（二等）一项和科技进步奖（一等和二等）各一项。担任美国化学会《J.Chem.Eng.Data》编委。
+分子热力学与相平衡：长期从事溶液热力学与相平衡研究，建立的电解质溶液模型（LIFACmodel）已被他人多次引用。完成多种具有生物活性成分在不同溶剂或混合溶剂中的固－液相平衡研究和结晶动力学研究。并将研究成果用于结晶纯化的工业化生产。
+
+天然产物化学：在天然产物提取，分离和纯化方面有着丰富理论与实践经验。作为项目负责人承担或主要参加者承担二十多项与天然产物有关的研究课题和工业化技术项目，包括国家星火计划一项（2008GA700008，9-9）和浙江省重大科技专项农业科技项目一项（2008C02005-5，16-3）。
+			
+				
+			工作研究领域
+			
+			分子热力学与相平衡
+天然产物化学
+			
+				
+			联系方式
+			
+			电话：87951430（O);13957156721			电子信箱：yanweidong@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：阎卫东
+		单位：化学系
+		职称：教授
+		我的主页共被访问了24627次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	专利成果
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	分子设计与天然产物实验室
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

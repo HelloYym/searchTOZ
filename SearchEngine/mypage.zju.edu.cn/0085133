@@ -1,0 +1,203 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0085133";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0085133&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			刘云，副教授。主持过多个省市的旧城改造房产项目全案策划和执行工作，诸如安徽省2002年最大旧城改造项目淮南&ldquo;金太阳广场&rdquo;；河南省上街区08工程等。数十个房产项目整合营销策划和执行工作。主要有：杭州：&ldquo;西湖花园&rdquo;、&ldquo;中光花园&rdquo;、&ldquo;沁雅花园&rdquo;、&ldquo;恒升花园&rdquo;、&ldquo;吴山广场&rdquo;、&ldquo;东方苑&rdquo;、&ldquo;昌地火炬大厦&rdquo;、&ldquo;中闽大厦&rdquo;、&ldquo;胡姬花园&rdquo;、&ldquo;鸿鼎商务馆&rdquo;等。宁波：&ldquo;竹福园&rdquo;、&ldquo;滨江花园&rdquo;等。金华：&ldquo;冠达华庭&rdquo;、&ldquo;江南春城&rdquo;、&ldquo;四季花园&rdquo;、&ldquo;清风苑&rdquo;、&ldquo;李渔湾&rdquo;等。永康：&ldquo;昌明时代广场&rdquo;等。安徽：&ldquo;金太阳广场&rdquo;等。
+
+主要著述：
+《浙江广播电视文化研究及产业化展望》，《电波媒体广告的审美与商机研究》&nbsp;
+&nbsp;
+
+			
+				
+			工作研究领域
+			
+			长期从事跨文化传播学，大众传播媒体研究与策划，房地产营销与传播研究，旅游开发与营销策划。
+中国现代文学史、比较文学、世界文学、西方现代文学思潮、广播电视理论基础、公共关系学等。
+			
+					
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：刘云
+		单位：传媒与国际文化学院影视艺术与新媒体学系
+		职称：副教授
+		我的主页共被访问了4254次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,215 @@
+
+
+
+
+
+章海军个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0095208";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	章海军个人主页
+一粒沙里有一个世界，一朵花里有一个天堂
+
+	永久链接:http://mypage.zju.edu.cn/zhanghj&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;&nbsp;章海军，男，1965年11月出生，浙江新昌人。
+&nbsp;&nbsp;&nbsp;&nbsp;1987年中国科技大学本科毕业，1993年获浙江大学光学工程博士学位；现为浙江大学光电信息工程学系教授、博士生导师；任光电信息及检测技术研究所所长，兼任全国光学与光子学技术专业委员会委员、浙江省光学学会常务理事/信息光学专业委员会主任等职。
+&nbsp;&nbsp;&nbsp;主要从事光学工程、光电信息检测技术、原子力显微术及微纳米技术等领域的应用基础和应用技术研究。近年主持完成国家自然科学基金项目3项、国家863计划课题1项、省部级科学基金项目3项、重大横向项目2项、重点横向项目3项、其他横向项目33项；另外作为主要成员参与国家自然科学基金项目2项、参与重大横向项目1项。发表学术论文110余篇，其中SCI/EI收录论文85篇，ISTP收录论文17篇，出版著作2册。指导博士生和硕士生30余名，本科毕业设计生130余名，开设博士生学位课及其他课程4门次。授权国家发明专利9项、实用新型专利10项、计算机软件著作权登记4项。主持完成省级新技术鉴定项目2项。
+&nbsp;&nbsp;&nbsp;1999年获浙江省自然科学优秀论文奖一等奖，2000年获&ldquo;浙江省151人才&rdquo;称号，2005年获浙江省自然科学优秀论文奖二等奖，2006年获浙江省科技进步奖三等奖，2006年获浙江省高校科研成果奖一等奖，2007年获国家教育部科学技术奖二等奖。
+			
+				
+			工作研究领域
+			
+			光学工程、光电信息检测技术、原子力显微镜与微纳米技术
+			
+				
+			联系方式
+			
+			电话：0571－87953004			电子信箱：zhanghj@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：章海军
+		单位：光电信息工程学系
+		职称：教授、博士生导师
+		我的主页共被访问了24712次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	出版著作
+	研究成果
+	专利成果
+	奖励荣誉
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	杭州亚纳科技有限公司
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,210 @@
+
+
+
+
+
+CHENQI-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0095117";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	CHENQI
+
+
+	Permanentlink:http://mypage.zju.edu.cn/en/chenqi&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			Blog
+
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			Education
+Ph.D.&ndash;ZhejiangUniversity,Refrigeration&amp;CryogenicsEngineering,2006
+M.S&ndash;ZhejiangUniversity,Refrigeration&amp;CryogenicsEngineering,2002
+B.S.&ndash;NanjingNormalUniversity,Heating&amp;Air-conditioning,1995
+
+WorkingExperience
+&nbsp;
+2009-2010,VisitingScholar,&nbsp;UniversityofIllinoisatUrbana-Champaign(UIUC),American
+2007-,AssociateProfessor,DepartmentofEnergyEngineering,ZhejiangUniversity
+2006-2007,Lecture,CollegeofMechanical&amp;EnergyEngineering,ZhejiangUniversity
+2002-2006,Engineer,CollegeofMechanical&amp;EnergyEngineering,ZhejiangUniversity
+&nbsp;
+			
+				
+			Researchwork
+			
+			Refrigerationandair-conditioningengineering,Thermophysicalpropertiesoffluids
+
+			
+				
+			Contact
+			
+			Phone:+8657187951738
+			E-mail:zjuchenqi@zju.edu.cn
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:ChenQi
+		Units:InstituteofRefrigerationandCryogenics,ZhejiangUniversity
+		Title:AssociateProfessor
+		Myhomepagehasbeenvisited362times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	
+
+
+Youarevisitor:362
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

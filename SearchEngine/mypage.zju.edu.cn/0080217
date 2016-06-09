@@ -1,0 +1,220 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0080217";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0080217&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			周慧君，&nbsp;女，浙江大学药学院药理学副研究员，&nbsp;硕士生导师。浙江大学药学院药理与毒理研究室副主任。
+&nbsp;研究简历：
+1995年中国科学院上海药物研究所博士研究生毕生。1981-97年作为主要研究人员从事地非三唑类药物抗早孕药理学与毒理学研究（国家自然科学基金资助项目），并负责整理一类抗早孕新药地非三唑申报临床试验的药理学部分资料。1992-95年在中国科学院上海药物研究所生殖避孕组攻读博士学位（学位论文研究方向为男性抗生育药物研究）。1997-99年承担浙江省计生委课题《青蒿素类药物抗早孕作用临床应用前景评价》以及中国科学院上海药物研究所国家重点开放实验室课题《青蒿素类药物抗早孕作用机理研究》（均为项目负责人）。2000-2001年开始将地非三唑及青蒿素类药物着眼于抗肿瘤血管新生作用研究,并承担浙江省自然科学基金项目《基于VEGF信号转导TPK活力为靶标的TAI体外筛选模型构建》（项目负责人）。
+&nbsp;&nbsp;工作简历：
+1980原浙江医科大学药学系毕业，以专职&ldquo;计划生育科研人员&rdquo;分配在药学系药理教研室，1981-87年任实习研究员，1988-1995任助理研究员，1996-迄今任浙江大学药学院药理学副研究员。
+
+研究方向为生殖药理学和肿瘤药理学。
+
+			
+				
+			工作研究领域
+			
+			生殖药理学、肿瘤药理学、细胞化学信息药理学、药代动力学、临床药物治疗学、中药药理学
+
+
+			
+				
+			联系方式
+			
+			电话：(0571)87217206			电子信箱：zhouhj@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：周慧君
+		单位：浙江大学药理毒理与生化药学研究所
+		职称：副研究员（自然科学）
+		我的主页共被访问了7105次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	学术交流（讲座报告）
+	研究成果
+	专利成果
+	奖励荣誉
+	实验室介绍
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

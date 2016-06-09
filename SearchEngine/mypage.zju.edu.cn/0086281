@@ -1,0 +1,217 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0086281";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0086281&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;&nbsp;王东莉，女，法学硕士，教授。主要研究方向为学校德育、心理健康教育、心理咨询。先后在《教育研究》、《自然辩证法研究》、《上海高教研究》、《高等工程教育研究》、《青年研究》、《当代青年研究》、《社会科学》、《教学与研究》、《思想教育研究》、《浙江社会科学》、《浙江大学学报》、《浙江学刊》等国内核心刊物上发表学术论文50余篇，其中10篇左右被人大报刊复印资料全文转载，20余篇获得各种级别的优秀论文奖。主要著作、教材有：《德育人文关怀论》、《大学生修养》、《大学生心理卫生》、《青春期教育读本》、《大学生成才导论》、《挑战心灵&mdash;&mdash;情商的自测与调适》、《现代广告心理学》、《现代公关心理学》、《文学与人生》等。主持或作为主要成员参加国家级、省级课题研究十余项。
+&nbsp;&nbsp;&nbsp;&nbsp;担任过近10门本科生和研究生课程的主讲教师，指导硕士研究生40名。
+&nbsp;&nbsp;&nbsp;&nbsp;学术兼职主要有：全国大学生心理咨询专业委员会常委、浙江省高校心理咨询专业委员会副主任兼秘书长、浙江省高校心理健康教育研究会常委兼秘书长、浙江省心理卫生协会理事。
+			
+				
+			工作研究领域
+			
+			工作领域：
+1、本科生、研究生教学
+2、指导研究生
+3、科研
+4、心理咨询
+
+研究领域：
+1、学校德育
+2、心理健康教育与心理咨询
+3、生命教育
+4、女性问题
+5、青年问题
+
+			
+					
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：王东莉
+		单位：思想政治理论教学科研部
+		职称：教授
+		我的主页共被访问了7742次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	学术交流（讲座报告）
+	奖励荣誉
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,213 @@
+
+
+
+
+
+王灿星个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0088065";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	王灿星个人主页
+欢迎您光临
+
+	永久链接:http://mypage.zju.edu.cn/mecwangcx&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			1985年获学士学位，1988年获硕士学位，2000年获工学博士学位，现为航空航天学院工程力学系流体工程研究所副教授。历年来承担了浙江省科技厅重大专项、国防科技重点实验室基金、高等学校国家重点实验室访问学者基金以及多项重大横向课题等项目的研究，作为主要骨干参加了国家杰出青年基金、教育部跨世纪人才基金及多项国家自然科学基金等项目的研究，并在国内外专业杂志上累计发表了三十余篇学术论文，1998～1999年度赴日本福井大学进修学习。现任工程力学系副主任，流体工程研究所副所长，中国力学学会流体力学专业委员会工业与环境流体力学专业组成员，浙江省力学学会秘书长，《流体机械》、《风机技术》杂志编委。
+			
+				
+			工作研究领域
+			
+			理论方面:
+1）工业与环境流体力学计算分析；
+2）旋转流场的流动机理分析和三维数值计算；
+3）两相流动的研究。
+工程应用方面：
+1）流体机械内部流动计算及其性能分析；
+2）流体机械优化设计；
+3）流体机械噪声分析；
+4）流体工程管网系统分析与设计；
+5）油烟机和油烟气分离净化设备的流动分析及其设计。
+
+			
+				
+			联系方式
+			
+			电话：0571－87951464			电子信箱：mecwangcx@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：王灿星
+		单位：航空航天学院工程力学系
+		职称：副教授
+		我的主页共被访问了6157次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

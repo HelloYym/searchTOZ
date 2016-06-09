@@ -1,0 +1,212 @@
+
+
+
+
+
+YaochengShi'shomepage/时尧成主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0008777";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	YaochengShi'shomepage/时尧成主页
+
+
+	永久链接:http://mypage.zju.edu.cn/yaocheng&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			时尧成，男，1981年3月出生，博士，副教授，求是青年学者，博士生导师。2003年6月毕业于浙江大学光电系，获学士学位，2008年6月毕业于瑞典皇家工学院微电子与应用物理学系，获博士学位。
+主要从事光通信器件，光互连、光传感用光子集成芯片的研究，近年来共发表SCI收录论文40余篇，并获已授权国家发明专利4项。2008年获第44批中国博士后科学基金一等资助，2009年获第二批中国博士后科学基金特别资助，2011年入选浙江大学首批求是青年学者，获博士生导师资格。作为项目负责人先后承担国家自然科学基金两项、863子课题两项、973子课题、教育部留学回国人员科研启动基金等项目。
+			
+				
+			工作研究领域
+			
+			光通信器件；光互连、光传感用光子集成芯片；高精度的半导体微纳加工技术、包括电子束曝光、干法刻蚀等；
+			
+				
+			联系方式
+			
+			电话：0571-88206516-113			电子信箱：yaocheng@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：时尧成
+		单位：光电信息工程学系
+		职称：副教授
+		我的主页共被访问了54947次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+	专利成果
+	教学工作
+	奖励荣誉
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	浙江大学光电信息工程学系
+浙江大学光及电磁波研究中心
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

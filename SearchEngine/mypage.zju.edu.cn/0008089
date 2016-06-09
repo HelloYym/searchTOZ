@@ -1,0 +1,223 @@
+
+
+
+
+
+尹文言教授-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0008089";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	尹文言教授
+尹文言教授
+
+	永久链接:http://mypage.zju.edu.cn/0008089&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			2009.01&mdash;起：&nbsp;&nbsp;&nbsp;浙江大学求是特聘教授（IEEEFellow）；
+2009.01&mdash;起：&nbsp;&nbsp;&nbsp;上海交通大学兼职教授、兼职博士生导师；
+2005.04&mdash;2008.12上海交通大学:教授（电院责任教授I至2007年底），博士生导师，上海交通大学微波与射频技术研究中心主任；
+1998.12&mdash;2005.10&nbsp;新加坡国立大学研究科学家；
+1996.11&mdash;1998.12&nbsp;德国Duisburg大学(洪堡学者:AvHScholar）:研究员(ResearchFellow)(含在德四个月德语学习）；
+1993.01&mdash;1996.10&nbsp;西北工业大学电子工程系:副教授；
+1992.01&mdash;1994.12&nbsp;西安交通大学攻读博士学位:工学博士(电磁场与微波技术)；
+1991.01&mdash;1992.12&nbsp;西北工业大学电子工程系:讲师；
+1989.01&mdash;1990.12&nbsp;西北工业大学电子工程系:助教；
+1986.08&mdash;1989.01&nbsp;西安电子科技大学硕士生，电磁场与微波技术专业硕士；
+			
+				
+			工作研究领域
+			
+			
+先进三维射频、微波、毫米波集成器件与电路；
+复杂电磁环境中大型平台及无线通信系统的电磁兼容与电磁防护；
+纳米电子学和纳米电磁学及应用；
+大规模、高性能计算电磁学和多物理场计算方法及软件开发与应用。
+
+			
+				
+			联系方式
+			
+			电话：0571-88206526;021-34204339;18668116081			电子信箱：wyyin@zju.edu.cn；wyyin@sjtu.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：尹文言
+		单位：信息与电子工程学院
+		职称：教授
+		我的主页共被访问了23722次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	奖励荣誉
+	国际学术任职
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

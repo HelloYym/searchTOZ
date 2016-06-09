@@ -1,0 +1,210 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0095251";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0095251&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;工作经历：1985年7月原浙江农业大学农业经济管理专业本科毕业。1985年7月到原浙江省农村经济管理干部学院任教。1993年起先后任原浙江省农村经济管理干部学院农经系副主任（正科级）、原浙江农业大学教务处教学科科长和浙江大学教务处教材建设科科长、教学评价中心主任（正科级）共10年。2003年8月起任浙江大学宁波理工学院教务处副处长。
+&nbsp;&nbsp;&nbsp;标志性成果和党政管理工作突出业绩：&nbsp;
+1.&ldquo;浙江农业大学大学教学质量全方位监控的探索和实践&rdquo;成果1997年获国家级教学成果二等奖，共5人，排名第4；
+2.&ldquo;教育督导工作的研究与实践&rdquo;成果1999年获浙江省教委优秀高教研究成果三等奖；
+3.&ldquo;独立学院基础课程教学的探索与实践&rdquo;成果2005年获宁波市教学成果二等奖；
+4.完成了宁波理工学院2004、2006两轮专业培养方案和教学计划制订（修订）的组织及审定、编印工作；
+5.完成了宁波理工学院近900门课程教学大纲的审定、编印工作；
+6.完成了宁波理工学院现代教务管理系统的开发、建设工作。
+&nbsp;&nbsp;&nbsp;
+			
+				
+			工作研究领域
+			
+			先后从事过企业管理和高等教育管理的研究，发表相关论文12篇。
+			
+				
+			联系方式
+			
+			电话：0574-88229081			电子信箱：menglinhua@nit.zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：孟林华
+		单位：浙江大学宁波理工学院
+		职称：副研究员（高教）
+		我的主页共被访问了2323次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,202 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0006041";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0006041&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			从事血小板功能以及血小板(血栓)-白细胞(炎症)信息交流的基础与临床研究近二十年，近年来在Circulation,ATVB,JTH,DIABETOLOGIA,DIABETESCARE等专业顶尖杂志以通讯作者发表论文10余篇，近三年以第一负责人申请的瑞典国家研究项目6项。是美国NIH血栓领域的海外(瑞典)联系人。在国内外权威学术机构中担任的主要职务包括，卡罗林斯卡医学院副教授，美国心脏病学会会员，美国血液学学会会员，国际血栓与止血学会会员，瑞典医学会会员。担任多个国际学术刊物的审稿人，包括：美国心内科学
+			
+				
+			工作研究领域
+			
+			1.	炎症与血栓中的血小板－白细胞相互作用，当前的研究重点在整合素和选择素介导的细胞内、细胞间的信息传导。2.	血小板与白细胞的功能异常及其相互作用在缺血性心脏病和糖尿病血管病变病理发生中的意义。3.	抗血小板药物的作用机理与治疗评估。
+			
+				
+			联系方式
+			
+						电子信箱：nailin.li@ks.se			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：李奈林
+		单位：医学院
+		职称：
+		我的主页共被访问了1741次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

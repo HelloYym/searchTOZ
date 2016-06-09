@@ -1,0 +1,372 @@
+
+
+
+
+
+王金福的个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0097419";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	王金福的个人主页
+做个诚实的浙大人!
+
+	永久链接:http://mypage.zju.edu.cn/wangjinfu&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			Dr.JinfuWang
+Professor
+InstitureofCellularBiology
+CollegeofLifeScience
+ZhejiangUniversity
+Hangzhou,310058,P.R.China
+86-571-88206592(O)
+86-571-85128776(HandFax)
+wjfu@zju.edu.cn&nbsp;
+
+Education
+PH.D.ZhejiangAgriculturalUniversity1991
+M.S.ZhejiangAgriculturalUniversity,1984
+B.S.ZhejiangAgriculturalUniversity,1981
+&nbsp;
+ScientificConcurrentPostion
+
+2014-:ThememberofEditorialBoardfor&quot;JournalofTransplantation&amp;StemCellBiology&quot;
+2013-:SeniorEditorforJournal&ldquo;AmericanJournalofStemCells&rdquo;
+2010-2012:Editor-in-Chieffor&nbsp;Journal&ldquo;AdvancesinBioscienceandBiotechnology&rdquo;
+2011-:ThememberofEditorialBoardfor&ldquo;JournalofTransplantation&nbsp;Technologies&nbsp;&amp;&nbsp;Research&rdquo;
+2011-:ThememberofEditorialBoardfor&ldquo;ChineseJournalofCellandStemCell&rdquo;
+2009-:TheMemberofEditorialBoard&nbsp;forJournal&ldquo;World&nbsp;JournalofStemCells&rdquo;
+2010-:TheChiefExpertforJournal&ldquo;JournalofClinicalRehabilitativeTissueEngineeringResearch&rdquo;
+2006-:TheMemberofEditorialBoardforJournal&ldquo;ActaParasitologicaetMedicaEntomologicaSinica&rdquo;
+
+ProfessionalExperience
+1985-1988:AssistantResearcher,InstituteofPlantProtection,ZhejiangAgriculturalAcademy
+1991-1997:AssociateResearcher,InstituteofParasitology,ZhejiangMedicalAcademy
+1997-1999:AssociateProfessor,CollegeofLifeSciences,HangzhouUniversity
+1999-:Professor,CollegeofLifeSciences,ZhejiangUniversity
+2002:VisitingScholar,BMTLab,UniversityofColoradoHealthScienceCenter
+2005:VisitingScholar,InstitutionofBiochemistryandMolecularBiology,UniversityofSouthernDenmark
+
+
+
+&nbsp;
+ResearchInterests
+Biologiesofhumanbonemarrowmesenchymalstemcells(hMSCs)andhumanhematopoieticstemcells(hHSCs).
+EffectsofgravityandmicrogravityontheinvivodifferentiationandexpensionofhMSCsandhHSCs.
+TissueengineeringbasedonhMSCs.
+
+SelectedPublications
+
+1.HuangZH,WangJF.2000.Anovelestrogen-ERbeta.ChineseBulletinofLifeSciences,12:126-129.
+2.HuangHF,MershonJL,WangJF.2000.Sequencingandcloningofhumanestrogen-betareceptorcDNAinhumangranulosa.NatlMedJChina,80:28-30.
+3.WangJF,WangLJ,HarrintongJ,McNieceIK.2003.Effectsofbonemarrow-derivedmesenchymalstemcelllayeronexpansionanddifferentiationofhematopoieticstemcellsfromcordblood.JZhejiangUniver,30:93-97.
+
+
+
+
+
+
+4.WangJF,QiuLY,HarrintongJ,McNieceIK.2003.Studyofexvivoexpansionofmousehematopoieticstem/progenitorcellsandtheuseofthemforhematopoiesisreconstitution.ChineseJouranlofHematology,24:584-588.
+
+
+
+
+
+
+5.QiuLY,WangJF.2003.Advancesofstudiesonmesenchymalstemcells.ChineseJournalofBiotechnology,19:136-140.
+
+
+
+
+
+
+
+6.ZhangSZ,WangW,ChenGM,WangJF,XiangY.2003.Cryomicroscopeanditsuseintheobservationofintracellularice.CellularBiology,2003:231-234.
+7.WangJF,WuYF,HarrintongJ,McNieceJK.2004.Effectsofexpandedhematopoieticstem/progenitorcellsonmousehematopoieticrecovery--rapidhematopoieticrecovery,longtermengraftmentandendogenousrecovery.JZhejiangUniver,38:368-372.
+
+
+
+
+
+
+8.WangJF,WuYF,HarrintongJ,McNieceJK.2004.Exvivoexpansionsandtransplantationsofmousebonemarrow-derivedhematopoieticstem/progenitorcells.JZhejiangUniver,5:157-163.
+
+
+9.HuangZH,HuaD,LiLH,WangJF.2004.Exvivopansionofcytokine-inducednaturalkillercellsfromtumprpatientsforautologoustherapy.JMicrobiolImmunol,2:205-209.
+
+10.LaiPP,HanCM,JinHH,WangJF.2004.Theisolationandcultureofmesenchymalstemcellsfromhumanbonemarrowandtheirbiologicalproperties.ZhejiangMedicine,26:328-330.
+
+
+11.HuangZH,LiLH,HuaD,WangJF.2004.StudyonexpansionofCD56+cytotoxiclymphocytesfromhumanumbilicalcordblood.ActaUniver.Med.Nanjing(NaturalScience),24:612-614.
+12.WangJF,WangLJ,XiangY,WuYF,XieCG,JiaBB,HuangGP,HarringtonJ,MvNieceIK,2004.Exvivoexpansionandtransplantationofmousebonemarrow-derivedhematopoieticstem/progenitorcellssupportedbyanadherentcellfeederlayerfromhumanumbilicalcordblood.StemCellandCellularTherapy,2:18-26.
+13.QiuLY,WangJF,ShenD,JinJ.2004.Expansionandchondrogenicinductionofhumanbonemarrowmesenchymalstemcells.JZhejiangUniver,31:337-342.
+14.XiangY,WangJF.2004.EffectsofChinesedrugsonproliferationanddifferentiationofhematopoieticstem/progenitorcells.ChineseJ.IntergratedtraditionalWesternMedicine,24:666-669.
+15.WangJF,WangLJ,WuYF,XiangY,XieCG,JiaBB,HarringtonJ,McNiece.2004.MesenchymalstemcellsinhumanumbilicalcordbloodassupportforexvivoexpansionofCD34+hematopoieticstemcellsandforchondrogenicdifferentiation.Haematologica,89:837-843.
+16.ZhangSZ,WangW,ZhouXL,ChenGM,HuJX,WangJF,XiangY,YinHB.2004.Experimentalstudyonosmoticpropertiesofhumancordbloodstemcells.JBiomathematics,19:26-30.
+17.WangLJ,ZhangYP,WangJF,WuYF,XiangY,XieCG,JiaBB,HarringtonJ,McNieceIK.2005.BiologicalcharateristicsofmesenchymalstemcellsinhumanumbilicalcordbloodandtheirsupportingcapacitiesinexvivoexpansionofCD34+hematopoieticstemcells.ChinJHematol,26:65-69.
+18.WangJF,XiangY,XieCG,JiaBB.2005.Experimentalstudyofexvivoexpandedhematopoieticstem/progenitorinthetwostepculturefromhumanumbilicalcordbloodtransplantedintoNOD/SCIDmice.JZhejiangUniver,32:448-451.
+19.WangLJ,WangJF,WuYF,XiangY,XieCG,JiaBB,YanJN,ZhuXF.2005.Adherentcelllayerfromhumanumbilicalcordbloodanditssupporttoexvivoexpansionofhematopoieticstem/progenitorcells.JZhejiangUniver,32:433-437.
+20.XieCG,WangJF,XiangY,QiuLY,JiaBB,WangLJ,WuYF,WangGZ,HuangGP.2005.HumanbonemarrowmesenchymalstemcellstransducedwithTPO/FLgenesassupportforexvivoexpansionofhematopoieticstem/progenitorcellsfromhumancordblood.MolCellLifeSci,62:2495-2507.
+21.XieCG,WangJF,XiangY,QiuLY,JiaBB,WangLJ,WuYF,WangGZ,HuangGP.2006.CocultivationofumbilicalcordbloodCD34+cellswithretro-transducedhMSCsleadstoeffectiveamplificationoflong-termculture-initiatingcells.WorldJGastroenetrol,12:393-402.
+22.XieCG,JiaBB,XiangY,WangJF,etal.2006.SupportofhMSCstransductedwithTPO/FLgenestoexpansionofumbilicalcordCD34+cellsinindirectco-culture.CellandTissueRes,326:101-110.
+23.XiangY,WangJF,ShenD,ZhengQ,XieCG,JiaBB,HuangGP,JinJ.2007.Exvivoexpansionanddifferentiationpluripotentialofcryopreservedhumanbonemarrowmesenchymalstemcells.InternationalJournalofCellularBiology,31:444-450.
+24.ZhengQ,HuangGP,YangJF,WangJF,etal.2007.Couldtheeffectofmodeledmicrogravityonosteogenicdifferentiationofhumanmesenchymalstemcellsbereversedbyregulationofsignalingpathways?BiologicalChemistry,388:755-763.
+25.WangGZ,HuangGP,YinGL,Zhou,G,GuoCJ,XieCG,JiaBB,WangJF.2007.Aspirincanelicittherecurrenceofgastriculcerinducedwithaceticacidinrats.CellularPhysiologyandBiochemistry,20:205-212.
+26.HuangGP,PanZJ,JiaBB,ZhengQ,XieCG,GuJH,McNieceIK,WangJF.2007.Exvivoexpansionandtransplantationofhematopoieticstem/progenitorcellssupportedbymesenchymalstemcellsformhumanumbilicalcordblood.CellTransplantation,16:579-585.
+27.HuangZH,LiLH,WangJF.2007.HypermethylationofSFRP2asapotentialmarkerforstool-baseddetectionofcolorectalcancerandprecancerouslesions.DigDisSci,52:2287-2291.
+28.PanZJ,YangJF,GuoCJ,WangJF.2008.Effectsofhindlimbunloadingonexvivogrowthandosteogenic/adipogenicpotentialsofbonemarrow-derivedmesenchymalstemcellsinrats.StemCellsandDevel,17:795-804.
+29.HuangGP,PanZJ,HUangJP,WangJF,etal.2008.Proteomicanalysisofhumanbonemarrowmesenchymalstemcellstransducedwithhumantelomerasereversetranscriptasegeneduringproliferation.CellProlif,41:625-644.
+30.HuangGP,ZhengQ,SunJ,WangJF.2008.StabilizationofcellularpropertiesanddifferentiationmultipotentialofhumanmesenchymalstemcellstransducedwithhTERTgeneinalong-termculture.JCellBiochem,103:1256-1269.
+31.ZhaoHG,MaL,GaoCY,WangJF.2009.Fabricationandpropertiesofinjectablebeta-tricalciumphosphateparticles/fibringelcompositescaffoldsforbonetissueengineering.MaterSciEngC,29:836-842.
+32.MaD,ChenHW,ShiDY,WangJF.2009.Preparationandcharacterizationofthermo-responsivePDMSsurfacegraftedwithpolyN-isopropylacrylamidebybenzophenone-initiatedphotolymerization.JColloidSci,332:85-90.
+33.ChenR,LuSH,TongQB,LouD,ShiDY,JiaBB,HuangGP,WangJF.2009.ProtectiveeffectofDNA-mediatedimmunizationwithliposome-encapsulatedGRA4againstinfectionofToxoplasmagondii.JZhejiangUnivSciB,10:512-521.
+34.XuYL,YuML,WuFB,SunJG,WoodC,HattoriMA,WangJF,XiYM.2009.Effectsofectopicexpressionofhumantelomerasereversetranscriptaseonimmortalizationoffeatherkeratinocytestemcells.JExpZool,312B:872-884.
+
+35.YangJF,CaoC,WangW,TongXM,ShiDY,WuFB,ZhengQ,GuoCJ,PanZJ,GaoCY,WangJF.2010.Proliferationandosteogenesisofimmortalizedbonemarrow-derivedmesenchymalstemcellsinporouspolylacticglycolicacidscaffoldsunderperfusionculture.JBiomedMaterResA,92A:817-829.
+36.ShiDY,MaD,DongFQ,ZongC,LiuLY,ShenD,YuanWJ,TongXM,ChenHW,WangJF.2010.Proliferationandmulti-differentiationpotentialsofhumanmesenchymalstemcellsonthermo-responsivePDMSsurfacesgraftedwithPNIPAAm.BiosciRep,30:149-158.
+37.LiuLY,YuanWJ,WangJF.2010.Mechanismsforosteogenicdifferentiationofhumanmesenchymalstemcellsinducedbyfluidshearstress.BiomechModelMechanobio,9:&nbsp;659-670.
+38.ZongC,XueDT,YuanWJ,WangW,ShenD,TongXM,ShiDY,LiuLY,ZhengQ,GaoCY,WangJF.2010.Reconstructionofratcalvarialdefectwithhumanmesenchymalstemcellsandosteoblast-likecellsinpoly-lactic-co-glycolicacidscaffolds.EurCellsMater,20:109-120.
+39.ShiDY,MengR,DengWL,DingWC,ZhengQ,YanWJ,LiuLY,ZongC,ShangP,WangJF.2010.Effectsofmicrogravitymodeledbylargegradienthighmagneticfieldontheosteogenicinitationofhumanmesenchymalstemcells.StemcellRevRep,6:567-578.
+40.MengR,XuHY,DiSM,ShiDY,QianAR,WangJF,ShangP.2011.Humanmesenchymalstemcellsaresensitivetoabnormalgravityandexhibitclassicapoptoticfeatures.ActaBiochemBiophysSin,43:133-142.
+41.GuoCJ,GaoY,HouD,ShiDY,TongXM,ShenD,XiYM,WangJF.2011.PreclinicaltransplantationandsafetyofHS/PCsexpandedfromhumanumbilicalcordblood.WorldJStemCells,3:43-52.
+42.LiuLY,ShaoL,LiB,ZongC,LiJH,ZhengQ,TongXM,GaoCY,WangJF.2011.Extracellularsignal-reglatedkinase1/2activatedbyfluidshearstresspromotesosteogenicdifferentiationofhumanbonemarrow-derivedmesenchymalstemcellsthroughnovelsignalingpathways.IntJBiochemCellBiol,43:1591-1601.
+43.&quot;EffectsofHelicobacterPyloriandNon-SteroidalAnti-InflammatoryDrugsonPepticUlcer&quot;in《PeticUlcerDisease》editedbyJianyuanChaiPublishedbyInTechOpen,June2011,pp.29-38.&nbsp;
+
+44.WangJF,ZongC,ShiDY,WangW,ShenD,LiuLY,TongXM,ZhengQ,GaoCY.2012.Hepatogenicengineeringfromhumanbonemarrowmesenchymalstemcellsinporouspolylacticglycolicacid&nbsp;scaffoldsunderperfusion&nbsp;culture.JTissueEngRegenMed,6:29-39.
+45.LiuLY,YuB,ChenJR,TangZH,ZongC,ShenD,ZhengQ,TongXM,GaoCY,WangJF.2012.Differenteffectsofintermittentandcontinousfluidshearstressesonosteogenicdifferentiationofhumanmesenchymalstemcells.BiomechModelMechanobiol,11:391-401.
+46.JiaBB,MadsenL,PetersenRK,TecherN,KopperudR,MaoT,DoskelandSO,AilhaudG,WangJF,AmriEZ,KristiansenK.2012.ActivationofproteinkinaseAandexchangeproteindirectlyactivatedbycAMPpromotesadipocytedifferentiationofhumanmesenchymalstemcells.PlosOne,7:34114-34124.
+
+47.TangZH,ShiDY,JiaBB,ChenJR,ZongC,ShenD,ZhengQ,WangJF,TongXM.2012.Exhangeproteinactivatedbycyclicadenosinemonophosphateregulatestheswitchbetweenadipogenesisandosteogenesisofhumanmesenchymalstemcellsthroughincreasingtheactivationofphosphatidylinositol3-kinase.IntJBiochemCellBiol,44:1106-1120.
+48.YuanWJ,ZongC,HuangYZ,GaoY,ShiDY,ChenCS,LiuLY,WangJF.2012.Biological,immunologicalandregenerativecharacteristicsofplacenta-derivedmesenchymalstemcellsisolatedusingatime-gradientattachmentmethod.StemCellRes,9:110-123.
+49.ZongC,QianXD,TangZH,HuQH,ChenJR,GaoCY,TangRK,TongXM,WangJF.2013.Biocompatibilityandbone-repairingeffects:Comparisonbetweenporouspoly-lactic-co-glycolicacidandnano-hydroxyapatite/poly(lacticacid)scaffolds.JBiomedNanotechnol,9:1-14.
+50.ChenJ,ZhangC,FengYD,ZongC,ChenJR,TangZH,JiaBB,TongXM,ZhengQ,WangJF.2013.StudiesoncultureandosteogenicinductionofhumanmesenchymalstemcellsunderCO2-independentconditions.Astrobiology,13:370-379.
+51.DaiZQ,WuF,ChenJ,XuHJ,WangHH,GuoFM,TanYJ,DingB,WangJF,WanYM,LiYH.2013.ActinmicrofilamentmediatesosteoblastCbfa1responsivenesstoBMP2undersimulatedmicrogravity.PlosOne,8:63661-63670.
+
+52.LiuLY,ZongC,LiB,ShenD,TangZH,ChenJR,ZhengQ,TongXM,GaoCY,WangJF.2014.Theinteractionbetweenbelta1&nbsp;intergrinsandERK1/2osteogenicdifferentiationofhumanmesenchymalstemcellsunderfluidshearstressmodeledbyperfusionsystem.JTissueEngRegenMed,8:85-96.
+53.LiuQW,ChenP,WangJF.2014.Molecularmechanismsandpotentialsfordifferentiatinginnerearstemcellsintoseneoryhaircells.DevelopmentalBiology,390:93-101.
+
+&nbsp;
+
+
+
+
+
+
+
+浙江大学生命科学学院教授、博士生导师，浙江大学细胞与遗传学研究所副所长。教学方面从事本科生《生物化学》、《高级生物化学》、《分子生物学》和《生命科学与技术导论》等课程以及研究生《细胞分子生物学》和《细胞发育生物学》等课程教学；科研方面从事造血干细胞和骨髓间充质干细胞扩增、分化及其相关分子机理研究，并开展基于人骨髓间充质干细胞的组织工程技术以及太空微重力环境影响干细胞分化与发育的分子机制研究。先后发表论文70多篇，其中31篇为SCI收录，2篇为EI收录。获省科技进步奖3项，申请技术发明专利13项，获授权8项。1999年获浙江省&ldquo;151&rdquo;跨世纪人才第一层次入选人员称号。2002年和2005年分别在美国科罗拉多医学科学中心和南丹麦大学从事合作研究，并与其联合培养博士生。
+
+
+现为：1、《AdvancesinBioscienceandBiotechnology》杂志主编（2010-2012）
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2、《WorldJournalofStemCells》杂志编委
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3、《中国组织工程研究与临床康复》杂志干细胞学科首席专家
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4、《寄生虫与医学昆虫学报》杂志编委。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5、美国《JournalofTransplanation&nbsp;Technologies&amp;Research》杂志编委
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6、《中华细胞与干细胞杂志》杂志编委
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7、《AmericanJournalofStemCells》杂志资深编委
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8、《JournalofTransplantation&amp;StemCellBiology》杂志编委
+			
+				
+			工作研究领域
+			
+			1、人骨髓间充质干细胞生物学；
+2、人造血干细胞生物学；
+3、空间医学（细胞生物学）；
+4、组织工程与再生医学。
+
+			
+				
+			联系方式
+			
+			电话：0571-88206592			电子信箱：wjfu@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：王金福
+		单位：生命科学学院生物技术系
+		职称：教授
+		我的主页共被访问了51278次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	学术交流（讲座报告）
+	研究成果
+	专利成果
+	奖励荣誉
+	实验室介绍
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	WJSC杂志（本人为编委）
+JTTR杂志（本人为编委）
+中华细胞与干细胞杂志（本人为编委）
+AJSC杂志（本人为资深编委）
+JTSCB杂志（本人为编委）
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

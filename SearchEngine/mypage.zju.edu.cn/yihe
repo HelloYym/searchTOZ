@@ -1,0 +1,209 @@
+
+
+
+
+
+何奕|浙江大学-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0011150";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	何奕|浙江大学
+
+
+	永久链接:http://mypage.zju.edu.cn/yihe&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			何奕博士分别于2000年和2003年在浙江大学化工系获得化学工程学士和生物化工硕士学位。毕业后即赴美学习，师从美国华盛顿大学化工系江绍毅教授，2008年获得化学工程博士学位。之后作为博士后研发工程师进入美国康宁公司总部研发中心从事环境污染治理等研究工作。2009年，回到华盛顿大学，继续从事生物材料的计算机模拟研究。2012年，正式加入浙江大学，并开始在化工系工业生态与环境研究所开展研究工作。
+他在诸如JournalofPhysicalChemistryB,JournalofPhysicalChemistryC,Phys.Chem.Chem.Phys.,Langmuir等知名国际期刊上发表了二十余篇学术论文。2013年，获得了浙江大学&ldquo;求是青年学者&rdquo;称号，并被选入浙江省&ldquo;青年科学家培养计划&rdquo;。同年，晋升为副教授。
+2016年研究生招收方向为：计算机仿真与分子模拟；空气污染控制；新型储能材料及过程的开发；生物材料及其界面性质的研究。欢迎化学工程、物理、化学、计算机及相关专业的同学报考！
+			
+				
+			工作研究领域
+			
+			分子模拟；界面现象；催化过程；空气污染控制工程
+			
+				
+			联系方式
+			
+						电子信箱：yihezj@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：何奕
+		单位：化学工程与生物工程学系
+		职称：博士，副教授，博士生导师
+		我的主页共被访问了11581次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		发表论文
+	学术交流（讲座报告）
+	主要基金来源
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

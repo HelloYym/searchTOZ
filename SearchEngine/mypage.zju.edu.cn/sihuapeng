@@ -1,0 +1,264 @@
+
+
+
+
+
+彭司华-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0004131";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	彭司华
+LifeScience
+
+	永久链接:http://mypage.zju.edu.cn/sihuapeng&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;
+
+&nbsp;
+&nbsp;SihuaPeng,&nbsp;Ph.D.,Lecturer
+
+DepartmentofPathology,SchoolofMedicine
+ZhejiangUniversity,Hangzhou310058,China
+Office:B307,ResearchBuildingB,SchoolofMedicine
+Phone:+86-571-88208197
+Cell#:+86-13819452400
+Email:pengsihua@zju.edu.cn&nbsp;&nbsp;
+&nbsp;
+
+&nbsp;
+Teaching
+.&nbsp;ControlTheory.
+.&nbsp;ProcesControlinEnergyEngineering.
+&nbsp;
+
+Researchinterest
+
+.&nbsp;Bioinformatics,Datamining,Biostatistics,Epidemiology.&nbsp;&nbsp;
+
+&nbsp;
+
+&nbsp;
+Selectedpublications
+PengSH,ZhuYM,XuFY,RenXB,LiXB,andLaiMD.FTOgenepolymorphismsandobesityrisk:ameta-analysis.BMCMedicine,2011,9:71.&nbsp;DOI:&nbsp;10.1186/1741-7015-9-71.&nbsp;(SCI影响因子：5.8)Link
+
+PengSH,L&uuml;BJ,RuanWJ,ZhuYM,ShengHQ,andLaiMD.Geneticpolymorphismsandbreastcancerrisk:evidencefrommeta-analyses,pooledanalyses,andgenome-wideassociationstudies.BreastCancerResearchandTreatment,2011,127(2):309-324.&nbsp;DOI10.1007/s10549-011-1459-5.&nbsp;(SCI影响因子：4.9）Link
+
+LiXB,ChenJ,LuBJ,PengSH,DesperR,LaiMD.-8p12-23and+20qarepredictorsofsubtypesandmetastaticpathwaysincolorectalcancer:constructionoftreemodelsusingcomparativegenomichybridizationdata.OMICS2011,15(1-2):37-47.(SCI影响因子：1.9）
+
+SH&nbsp;Peng,XMZeng,XBLi,XNPeng,LBChen.Multi-classcancerclassificationthroughgeneexpressionprofiles:microRNAversusmRNA.JournalofGeneticsandGenomics.&nbsp;2009,36:409-416.Weblink&nbsp;(SCI影响因子：1.5）
+
+SihuaPeng,XiaopingLiu,JiyangYu,ZhizhenWan,XiaoningPeng,&quot;ANewImplementationofRecursiveFeatureEliminationAlgorithmforGeneSelectionfromMicroarrayData,&quot;csie,vol.3,pp.665-669,2009WRIWorldCongressonComputerScienceandInformationEngineering,2009.&nbsp;DOI:&nbsp;10.1109/CSIE.2009.75&nbsp;&nbsp;Weblink.
+
+SH&nbsp;Peng,XPLiu,JYYu,etal.AGeneSelectionSoftwarePackageforCancerClassification.&nbsp;2009WorldCongressonSoftwareEngineering,IEEEcomputersociety.Xiamen,China.19-21May2009.Vol2:104-108.&nbsp;DOI:&nbsp;10.1109/WCSE.2009.41&nbsp;Weblink
+
+XNPeng,&nbsp;XMZeng,SH&nbsp;Peng,DFDeng,JZhang.TheAssociationRiskofMaleSubfertilityandTesticularCancer:ASystematicReview.PLoSONE,2009,&nbsp;4(5):e5591.doi:10.1371/journal.pone.0005591.&nbsp;Weblink.(SCI影响因子：4.4）
+
+ZHDai,ZZChen,HYYe,LHZhou,LCCao,YQWang,SHPeng,andLBChen.CharacterizationofmicroRNAsincephalochordatesrevealsacorrelationbetweenmicroRNArepertoirehomologyandmorphologicalsimilarityinchordateevolution.Evolution&nbsp;&amp;development,2009,11:41-49.&nbsp;&nbsp;Weblink.&nbsp;(SCI影响因子：3.2）
+
+HTDong,YDeng,JChen,SWang,SHPeng,CEDai,YQFang,JShao,YCLou,DBLi.Anexplorationof3&prime;-endprocessingsignalsandtheirtissuedistributioninOryzasativa.Gene.2007,389:&nbsp;107-113.&nbsp;Weblink.&nbsp;&nbsp;(SCI影响因子：2.4）
+
+Liu&nbsp;JJ,&nbsp;Cutler&nbsp;G,&nbsp;Li&nbsp;WX,&nbsp;Pan&nbsp;Z,&nbsp;SH&nbsp;&nbsp;Peng,&nbsp;et&nbsp;al.&nbsp;Multiclass&nbsp;Cancer&nbsp;Classification&nbsp;and&nbsp;Biomarker&nbsp;Discovery&nbsp;Using&nbsp;GA-based&nbsp;Algorithms.
+Bioinformatics.&nbsp;&nbsp;&nbsp;2005,&nbsp;21:&nbsp;&nbsp;2691-2697.&nbsp;Weblink.&nbsp;(SCI影响因子：4.9）
+
+HL&nbsp;Zhou,&nbsp;SH&nbsp;Peng.&nbsp;Adaptive&nbsp;Control&nbsp;in&nbsp;Squid&nbsp;Jigging&nbsp;Machines
+SICE&nbsp;Annual&nbsp;Conference.&nbsp;&nbsp;&nbsp;Sapporo.&nbsp;August,&nbsp;2004.&nbsp;Hokkaido&nbsp;Institute&nbsp;of&nbsp;Tecnology,&nbsp;Japan.&nbsp;1540-1543.&nbsp;Weblink.
+
+SH&nbsp;Peng，QH&nbsp;Xu，XF&nbsp;B&nbsp;Ling，XN&nbsp;Peng，W&nbsp;Du,LBChen.&nbsp;Molecular&nbsp;Classification&nbsp;of&nbsp;Cancer&nbsp;Types&nbsp;from&nbsp;Microarray&nbsp;Data&nbsp;Using&nbsp;the&nbsp;Combination&nbsp;of&nbsp;Genetic&nbsp;Algorithms&nbsp;and&nbsp;Support&nbsp;Vector&nbsp;Machines.FEBS&nbsp;Letters.&nbsp;2003,&nbsp;555:&nbsp;358-362.&nbsp;Weblink.(SCI影响因子：3.5）
+
+SHPeng,&nbsp;LJ&nbsp;Fan,&nbsp;XN&nbsp;Peng,&nbsp;SL&nbsp;Zhuang,&nbsp;W&nbsp;Du.&nbsp;LB&nbsp;Chen.Splicing-site&nbsp;Recognition&nbsp;of&nbsp;Rice&nbsp;(Oryza&nbsp;Sativa&nbsp;L.)&nbsp;by&nbsp;Support&nbsp;Vector&nbsp;Machines.
+JournalofZhejiangUniversity.&nbsp;&nbsp;&nbsp;2003，4：573-577.Weblink.
+
+
+&nbsp;
+			
+				
+			联系方式
+			
+						电子信箱：pengsihua@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：彭司华
+		单位：基础医学系
+		职称：讲师
+		我的主页共被访问了21395次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+	期刊链接
+	中国卫生与营养调查数据(北卡大学)
+	期刊链接
+	常用网址
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	gmail
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

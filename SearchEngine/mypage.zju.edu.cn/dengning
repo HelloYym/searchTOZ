@@ -1,0 +1,204 @@
+
+
+
+
+
+邓宁-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0010092";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	邓宁
+浙江大学生物医学工程与仪器科学学院
+
+	永久链接:http://mypage.zju.edu.cn/dengning&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			2007年毕业于浙江大学生物医学工程专业，获博士学位。自2001年起，从事生物医学仪器、蛋白质组学、转化医学信息学等相关内容的研究和实践，参与了国家自然科学基金科学仪器专项课题《双激光共焦生物芯片荧光分析仪》的研究工作，以及与日本光电公司的国际合作项目《心电诊断系统》的研发。2007年至2010年，在美国加利福尼亚州大学洛杉矶分校（UCLA）医学院生理和医学系先后从事博士后及助理研究员工作，参与了美国国家卫生总署资助的专项重点课题《IschemicInjuryandProtection，心肌缺血损伤及保护机制》和《CardiacOrganellePeptideSpectralLibrary，心脏蛋白质组谱图数据库计划》的研究，负责心脏线粒体蛋白质组及磷酸化蛋白质组的标注、定量表达分析及蛋白质组知识库构建等研究和开发。2010年10月回国任教至今，主要从事结直肠癌转化医学信信息学、定量蛋白质组学等的研究。
+			
+				
+			工作研究领域
+			
+			蛋白质组信息学、生物信息学、转化医学信息学、生物医学知识库
+			
+				
+			联系方式
+			
+						电子信箱：DengN@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：邓宁
+		单位：生物医学工程与仪器科学学院
+		职称：副教授、博导
+		我的主页共被访问了9048次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		研究成果
+	实验室介绍
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,390 @@
+
+
+
+
+
+yueming-博客
+
+
+
+
+
+
+varctxPath="http://mypage.zju.edu.cn";
+varb_handle="yueming";
+varcfg_weblog="http://mypage.zju.edu.cn/weblog";
+vard=newDate()
+varselyear=d.getFullYear();
+varselmonth=d.getMonth()+1;
+
+
+
+
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	color:#111;
+	margin-right:10px;	
+}
+#mainlinkullia,.tagsa:hover{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+.tagsa{
+	margin-right:10px;
+}
+img{
+	border:none;
+}
+
+
+
+
+
+
+
+
+
+
+	
+		首页
+		帮助
+		登录
+	
+
+
+
+
+
+
+	yueming
+乐明的浙大工作网页
+
+	永久链接:http://mypage.zju.edu.cn/weblog/yueming&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+
+
+	中文主页
+英文主页
+			博客
+
+
+
+
+
+
+
+
+
+
+			
+				
+
+	
+[1/1]
+首页	上一页下一页末页
+
+	
+
+浏览模式:普通|列表
+
+
+
+
+
+
+		我咋就做起了语言学研究？
+
+作者:乐明日期:2010-07-04Sunday
+
+
+
+大学的时候，凭着兴趣看了CharlesDarwin的TheOriginofSpecies，发现这本伟大的著作居然是从讨论人类语言的家族谱系开始的。那时的我很关心基因理论的发展，于是就花了大半年时间去准备本科毕业论文《语言作为物种：英语和狗的比较》。文章虽然写的又臭又长，至今...
+查看更多...
+
+Tags:
+个人爱好
+	
+
+
+
+分类:生活记录|			固定链接|评论总数0|
+			阅读次数74
+
+
+
+
+
+
+
+		汉藏语系：谱系传承、文化接触以及历史变化
+
+作者:乐明日期:2010-06-23Wednesday
+
+
+
+注：这是别人的论文，我在翻译校对过程中学到很多知识，在此表示对作者的敬仰：）汉藏语系：谱系传承、文化接触以及历史变化*杜冠明（GrahamThurgood）0.0引言：汉藏语系最早的先民起源于新石器时代中国北部黄河流域的仰韶文化。从语言学的角度看，这群人首先分...
+查看更多...
+
+
+
+
+
+分类:推荐阅读|			固定链接|评论总数0|
+			阅读次数32
+
+
+
+
+
+
+
+		（译作）粗话
+
+作者:乐明日期:2010-06-23Wednesday
+
+
+
+ps:这是我很早以前翻译的一篇文章，现在再读，仍挺有意思：）就再复制过来放在这里。粗话沃尔特.默多奇爵士您也许已经听说了，几周之前有位圣公会的教士因为说粗话被判了二年监禁。不过，教士该用什么词汇不是本文的论题──对这一论题我实在知之甚...
+查看更多...
+
+
+
+
+
+分类:推荐阅读|			固定链接|评论总数0|
+			阅读次数34
+
+
+
+
+
+
+
+		学生会！
+
+作者:乐明日期:2008-12-30Tuesday
+
+
+
+同学聚会叫&ldquo;同学会&rdquo;，学生聚会那自然叫&ldquo;学生会&rdquo;了：）昨晚突然接到来电，居然是我执教第一年时班里的一个男生！说是他们要开同学会，邀请我这位当年的老师加班主任参加。天哪，都十五年了哦~亏得他们还记得我，费劲找到了我的联系方式！...
+查看更多...
+
+
+
+
+
+分类:生活记录|			固定链接|评论总数0|
+			阅读次数72
+
+
+			
+			
+		
+		
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+	
+	
+		姓名：乐明
+		单位：浙江大学语言学研究所
+		职称：副教授
+		我共发表了4篇文章
+		共收到0条评论
+		我的主页共被访问了4945次
+	
+	
+	
+	
+
+
+我的文章分类
+
+	默认分类
+		
+生活记录
+		
+我的文章
+		
+推荐阅读
+		
+
+
+
+
+日历
+
+
+
+>>
+年月
+
+
+
+日
+一
+二
+三
+四
+五
+六
+
+
+
+
+
+
+
+
+
+
+
+我的最新文章
+
+
+		我咋就做起了语言学研究？
+汉藏语系：谱系传承、文...
+（译作）粗话
+学生会！
+	
+
+
+
+
+我的热点文章
+
+
+				我咋就做起了语言学研究？
+		学生会！
+		（译作）粗话
+		汉藏语系：谱系传承、文...
+
+	
+
+
+我收到的评论
+
+	
+	
+
+
+我的文章汇总
+
+		2010年7月[1]
+		2010年6月[2]
+		2008年12月[1]
+		
+	
+
+
+链接
+
+LinguisticDataConso...
+ACLanthology
+
+
+
+
+
+检索
+
+
+
+
+-所有文章-
+默认分类
+生活记录
+我的文章
+推荐阅读
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+
+
+varflag=newArray();
+flag[0]='2008/12/30';
+flag[1]='2010/07/04';
+flag[2]='2010/06/23';
+
+
+varcale=newCalendar("idCalendar",{
+SelectDay:newDate(),
+onSelectDay:function(o),
+onToday:function(o),
+onFinish:function(){
+$("idCalendarYear").innerHTML=this.Year;$("idCalendarMonth").innerHTML=this.Month;
+for(vari=0,len=flag.length;i<len;i++){
+//alert(flag[i]);
+	vard=newDate(flag[i]);
+	if(this.Year==d.getYear()){
+		if(this.Month==d.getMonth()+1)
+		{
+this.Days[d.getDate()].innerHTML=""+d.getDate()+"";
+			
+		}
+
+	}
+}
+}
+});
+$("idCalendarPre").onclick=function()
+$("idCalendarNext").onclick=function()
+
+
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));

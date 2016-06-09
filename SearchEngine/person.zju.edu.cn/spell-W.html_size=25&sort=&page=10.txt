@@ -1,0 +1,1 @@
+{'name': [u'\u738b\u52e4'], 'title': [u'\u80fd\u6e90\u5de5\u7a0b\u5b66\u7cfb\u526f\u7cfb\u4e3b\u4efb   '], 'photo': '', 'pos': './person.zju.edu.cn/spell-W.html?size=25&sort=&page=10', 'blog': [], 'intro': '', 'department': [u'\u80fd\u6e90\u5de5\u7a0b\u5b66\u9662'], 'homepage': u'http://mypage.zju.edu.cn/zjuwq'}

@@ -1,0 +1,212 @@
+
+
+
+
+
+王首锋-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0086383";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	王首锋
+
+
+	永久链接:http://mypage.zju.edu.cn/0086383&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			王首锋，遗传学博士，浙江大学生命科学学院,副教授,硕士生导师。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1986年毕业于原杭州大学化学系化学专业，毕业后留校在生物系从事重组人&beta;－肿瘤坏死因子（&gamma;TNF－&beta;）的分离纯化的研究。1992－1995年:在原杭州大学生物系植生专业攻读读硕士学位，1995年6月获理学硕士学位。毕业后继续留校任教。在此期间主要从事转基因受体生理状态对外源基因导入及其表达影响的研究。2000年12月：聘任为浙江大学生命科学学院副教授。2001-2005年:在浙江大学植物生理和生物化学国家重点实验室在职攻读遗传学博士学位,博士论文题目：&ldquo;水稻不定根发育关键基因ARL1的表达及激素调控&rdquo;（发表在国际TOP杂志上，PlantJournal,SCI,IF:7.1）。2005年5月获遗传学博士学位。
+2006年---现在：浙江大学生命科学学院，生物化学研究所，目前研究主要集中以下两方面：1)溶菌酶和短肽的抑菌机制及产业化技术研究；2)特殊功能基因的克隆、筛选及调控的分子机制研究。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;先后在ThePlantJournal、PlantPhysiology、NewPhytologist、ActaBotanicaSinica等国内外重要杂志上发表了20余篇文章，已授权的国家发明专利3项。主持过国家973和863的子项目各一项，国家自然科学基金项目1项和浙江省自然科学基金项目2项。另外作为技术总负责人与企业合作申请到国家发改委高技术产业化项目1项和国家中小企业创新基金项目1项。主持校企合作项目3项。
+&nbsp;
+			
+				
+			工作研究领域
+			
+			1)溶菌酶和短肽的抑菌机制及产业化技术研究；
+2)特殊功能基因的克隆、筛选及调控的分子机制研究
+3)植物根系发育的分子机制
+			
+				
+			联系方式
+			
+			电话：0571-88206593			电子信箱：sfwang@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：王首锋
+		单位：生命科学学院生物化学研究所
+		职称：副教授
+		我的主页共被访问了4773次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

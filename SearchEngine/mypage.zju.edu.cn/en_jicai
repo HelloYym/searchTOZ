@@ -1,0 +1,199 @@
+
+
+
+
+
+JicaiZhang-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0013099";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	JicaiZhang
+
+
+	Permanentlink:http://mypage.zju.edu.cn/en/jicai&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			Blog
+
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			Myresearchinterestsincludeoceandynamics,oceanmodelinganddataassimilation.Specifically,myworksweredescribedasfollows.(1)Idevelopedtwo-dimensionalandthree-dimensionalnonlineartidalassimilatedmodelsbyusingadjointbased4DVARmethod.Themodelscanassimilatevarioussourcesofdataincludingsatellitealtimetry,high-frequencyradar,tidalgaugesandship-basedmeasurements.(2)Idevelopedamethodtorealizethespatiallyvaryingbottomfrictioncoefficients.Thismethodassumedthevaluesofbottomfrictioncoefficientsinthewholestudyareacanbeobtainedbylinearlyinterpolatingthevaluesatselectedindependentpoints.Thevaluesofbottomfrictioncoefficientsatindependentpointsweretakenascontrolvariablesforoptimizationwithadjointmethod.Therefore,thismethodcanreducethenumberofcontrolvariablestoavoid/reduceill-posednessofinverseproblem.(3)Thedifferencesbetweenlinearandnonlinearbottomfrictionparameterizationswerestudied.WefoundthatthenonlinearQuadraticparameterizationwasmoreaccuratethanthelinearEkmanparameterizationifthebottomfrictioncoefficientwassupposedtobeuniforminthewholestudyarea.However,whenthespatiallyvaryingbottomfrictioncoefficientswereemployed,thedifferencesbetweentheEkmanandtheQuadraticapproachesdiminished.Thereasonwasanalyzedfromtheviewpointofdissipationratecausedbybottomfriction.(4)Theassimilatedtidalmodelwasappliedtoinvertthethree-dimensionaltidalcurrentsinthemarginalseasbyassimilatingthewaterlevelelevationsfromsatellitealtimetryandtidalgauges.Inthiswork,althoughthecurrentobservationswerenotassimilated,thedatamisfitbetweenmodel-producedandobservedcurrentswasstillsignificantlydecreased,whichdemonstratedtheeffectivenessofinvertingtidalcurrentsfromsatellitealtimetryorothersurfaceelevationmeasurements.&nbsp;
+From2008,Iwasfundedbymorethan10grants/projectsincludingtheNationalNaturalScienceFoundationofChina,theMajorStateBasicResearchDevelopmentProgramofChina,andtheNaturalScienceFoundationofJiangsuProvince.Inaddition,asapostdoctoralresearchfellow,Iparticipatedandplayedaleadingroleinthefollowingproject:&ldquo;ResponseoftheFrogCreekSystemtoConstructedOfflineIntertidalLagoons&rdquo;fundedbyU.S.GeologicalSurvey&amp;SouthwestFloridaWaterManagementDistrict(2009.09-2010.09,Budget$40,000USD).&nbsp;Inthepastfiveyears,Ipublishedmorethan10peer-reviewedpapersinsomefamousjournalsincluding&ldquo;ComputerMethodsinAppliedMechanicsandEngineering&rdquo;,&ldquo;ContinentalShelfResearch&rdquo;,&ldquo;AbstractandAppliedAnalysis&rdquo;and&ldquo;InternationalJournalforNumericalMethodsinFluids&rdquo;.Ialsoreviewedmanuscriptsforsomeinternationaljournals,suchas&ldquo;JournalofOceanography&rdquo;,&ldquo;JournalofCoastalResearch&rdquo;and&ldquo;InternationalJournalforNumericalMethodsinFluids&rdquo;etc.
+			
+				
+			Researchwork
+			
+			DataAssimilation,OceanDynamics,NumericalModelling
+			
+				
+			Contact
+			
+			Phone:
+			E-mail:jicai_zhang@163.com
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:JicaiZhang
+		Units:InstituteofPhysicalOceanography,OceanCollege,ZhejiangUniversity
+		Title:AssociateProfessor
+		Myhomepagehasbeenvisited744times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	
+
+
+Youarevisitor:744
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,213 @@
+
+
+
+
+
+浙江大学张雪-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0008360";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	浙江大学张雪
+不忘初心，方得始终
+
+	永久链接:http://mypage.zju.edu.cn/zhangxue&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			张雪,&nbsp;博士、副教授、博士生导师。
+2002年于武汉大学药学院获得学士学位；2007年获得武汉大学生命科学学院病毒学国家重点实验室博士学位。2008年起进入浙江大学医学部基础医学院病理与病理生理学系工作，先后担任讲师、副教授。2012年作为访问学者前往美国加州大学洛杉矶分校（UCLA）进行学术交流。2012年底至2015年初在哈佛大学医学院病理学系从事研究工作。
+研究方向主要为中性粒细胞在呼吸系统疾病中的作用及其分子机制、炎症因子的蛋白修饰在呼吸系统中的功能等。近年来共发表SCI研究论文20多篇，其中第一作者四篇。主要包括TheFASEBJournal,Virology等。2011年浙江大学医学部先进工作者;2012年3月中国遗传学会第二届&ldquo;模式生物与人类健康&rdquo;研讨会青年优秀论文奖;2015年初被评为&ldquo;浙江大学求是青年学者&rdquo;；2015年6月&ldquo;亚洲生物医学领袖大赛&rdquo;导师。
+			
+				
+			工作研究领域
+			
+			呼吸系统疾病的分子病理学机制研究；
+炎症与损伤在呼吸系统疾病中的作用及其分子机制；
+炎症因子及趋化因子的谷胱甘肽化修饰后的功能及其在肺部炎症中的作用。
+			
+				
+			联系方式
+			
+			电话：0571-88208583			电子信箱：zhangxue@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：张雪
+		单位：浙江大学医学部基础医学院
+		职称：副教授
+		我的主页共被访问了316次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		发表论文
+	工作研究项目
+	教学工作
+	学术交流（讲座报告）
+	奖励荣誉
+	通讯地址
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

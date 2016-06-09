@@ -1,0 +1,206 @@
+
+
+
+
+
+LiZhongxue-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0099060";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	LiZhongxue
+
+
+	Permanentlink:http://mypage.zju.edu.cn/en/lizhongxue&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			Blog
+
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			&nbsp;
+
+Biography
+&nbsp;
+LiZhongxueReceivedhisPh.D.degreeinStructuralEngineeringatTongjiUniversityin1999,thenhejoinedtheDepartmentofCivilEngineering,ZhejiangUniversity,andiscurrentlyanassociateprofessorofStructuralEngineering.HehastheexperiencesofvisitingatImperialCollegeLondon(Feb.5,2003toJan.25,2004,collaboratingwithProf.BassamA.Izzuddin),UniversityofFlorida(Jun.11,2006toFeb.1,2007,collaboratingwithProf.LocVu-Quoc)andNorthwesternUniversity(May28,2007toJan.16,2008,collaboratingwithProf.WingKamLiu).
+
+			
+				
+			Researchwork
+			
+			Finiteelementmethods,Bionics,stabilitytheories,steelstructures.
+			
+				
+			Contact
+			
+			Phone:86-571-88208729
+			E-mail:lizx19993@zju.edu.cn
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:LiZhongxue
+		Units:DepartmentofCivilEngineering,ZhejiangUniversity
+		Title:Assoiateprofessor
+		Myhomepagehasbeenvisited7595times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+Publications
+Monographs
+Teaching
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	
+
+
+Youarevisitor:7595
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

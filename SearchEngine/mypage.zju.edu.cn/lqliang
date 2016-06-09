@@ -1,0 +1,213 @@
+
+
+
+
+
+想象的历史-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0007230";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	想象的历史
+历史的想象
+
+	永久链接:http://mypage.zju.edu.cn/lqliang&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			乐启良，男，1979年生于浙江省开化县，汉族。史学博士。2001年毕业于浙江大学历史系，获史学学士学位。2006年12月毕业于北京大学历史系，获世界史专业博士学位。2007年4月进入浙江大学历史系，做博士后研究。2009年4月正式留校任教。2009年12月，晋升副教授。主要从事法国史研究，专攻近现代法国政治思想史。
+出版专著《近代法国结社观念》（上海社会科学院出版社2009年），译著《论暴力》（法国政治思想家乔治&middot;索雷尔著，上海新世纪出版集团2005年）。在《社会学研究》、《世界历史》、《史学理论研究》、《浙江大学学报》、《北大史学》、《浙江学刊》等刊物发表学术论文多篇。主持省哲学社会科学项目1项，参与国家哲学社会科学项目1项。
+曾经访学法国巴黎政治科学院（2004年9月&mdash;2005年3月）和美国伊利诺伊大学（UIUC）（2010年7月-2011年6月）。
+			
+				
+			工作研究领域
+			
+			1、世界史
+2、法国史
+3、西欧政治思想史
+			
+				
+			联系方式
+			
+						电子信箱：qiliangle@gmail.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：乐启良
+		单位：人文学院历史学系
+		职称：副教授
+		我的主页共被访问了12329次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

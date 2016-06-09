@@ -1,0 +1,208 @@
+
+
+
+
+
+DongxiaoLI-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0004112";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	DongxiaoLI
+
+
+	Permanentlink:http://mypage.zju.edu.cn/en/lidx&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			Blog
+
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			DongxiaoLIwasborninZhejiangprovince,P.R.China,in1976.HereceivedtheB.S.degreeinelectronicengineering,theM.S.degreeincommunicationandelectronicsystems,andthePh.D.degreeininformationandcommunicationengineering,allfromZhejiangUniversity,Hangzhou,P.R.China,in1997,2000,and2004,respectively.
+&nbsp;
+HeiscurrentlyanAssociateProfessorwiththeDepartmentofInformationScienceandElectronicEngineering,ZhejiangUniversity,andZhejiangProvincialKeyLaboratoryofInformationNetworkTechnology.HeisaseniormemberofChinaInstituteofCommunications,amemberofIEEESignalProcessingSocietyandComputerSociety.
+&nbsp;
+HeteachescoursesonDigitalImageProcessing,DataAnalysisandAlgorithmDesign,andRadioFrequencyCommunicationCircuits.HisresearchinterestsspantheareasofImageProcessing,ComputerVision,andMixedReality.HisresearchworkisdevotedtoThree-DimensionalTelevisioninrecentyears.HehasbeentheprincipalinvestigatorofseveralprojectsfundedbytheZhejiangProvincialNaturalScienceFoundationofChina,ScienceTechnologyDepartmentofZhejiangProvince,theNationalNaturalScienceFoundationofChina,andtheNationalScienceandTechnologyMajorProjectoftheMinistryofScienceandTechnologyofChina.Theresearchresultshavebeenpublishedinanumberofinternationaljournalsandconferenceproceedings,andgranted21inventionpatentsbytheStateIntellectualPropertyOfficeofP.R.China.
+&nbsp;
+&nbsp;
+			
+				
+			Researchwork
+			
+			ImageProcessing,ComputerVision,MixedReality
+			
+				
+			Contact
+			
+			Phone:+86-571-87952017
+			E-mail:lidx@zju.edu.cn
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:DongxiaoLI
+		Units:DepartmentofInformationScienceandElectronicEngineering
+		Title:AssociateProfessor
+		Myhomepagehasbeenvisited3648times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+Teaching
+ResearchProjects
+Publications
+Lab
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	
+
+
+Youarevisitor:3648
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

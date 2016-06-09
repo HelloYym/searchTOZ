@@ -1,0 +1,220 @@
+
+
+
+
+
+宋小文-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0096042";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	宋小文
+
+
+	永久链接:http://mypage.zju.edu.cn/songxiaowen&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			宋小文，女，博士，副教授，硕士生导师(机械设计及理论专业、车辆工程专业)。
+1989年7月毕业于复旦大学数学系计算数学专业，获理学学士学位。
+1992年7月毕业于浙江大学应用数学系计算几何与图形学专业，获理学硕士学位。
+1996年3月毕业于浙江大学机械系机械制造专业，获工学博士学位。
+1996年留校在浙江大学任讲师。1999年晋升副教授。
+2001.11~2003.2美国BrighamYangUniversity计算机系，高级访问学者。
+主讲课程：&ldquo;计算机辅助设计&rdquo;、&ldquo;工程图学&rdquo;、&ldquo;计算机辅助设计与制造技术（双语）&rdquo;、&ldquo;机械产品数字化建模&rdquo;。
+作为项目负责人或主要参加者承担和完成国家、省部级项目、市级项目、企业横向合作项目40余项，获得省部级科技进步二等奖2项，获得国家发明专利13项，国家实用新型专利30余项，发表学术论文近百篇，其中SCI收录论文8篇，EI收录论文10余篇，培养硕士研究生20余名，协助培养博士研究生2名。曾荣获浙江大学奖教金、工会工作积极分子等荣誉，担任教育部留学回国人员科研启动基金评审专家（2010-2012）、中国机械工程学会设计分会全国模具设计专业委员会常务副秘书长、浙江省机械工程学会塑性工程与模具分会副秘书长。浙江省重点科技创新团队核心成员。
+&nbsp;
+			
+				
+			工作研究领域
+			
+			*设计理论与方法：--产品建模及设计规划；--创新设计理论；--基于模拟的分析及优化设计技术；--图形图像信息处理与分析。
+
+
+*车辆工程：--车身数字化设计与空气动力学分析优化；--底盘系统数字化设计与性能分析优化。
+
+
+*模具设计与制造技术：--模具现代设计方法；--模具性能仿真及分析优化。
+			
+				
+			联系方式
+			
+			电话：0571-87951149			电子信箱：songxw@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：宋小文
+		单位：机械工程学系
+		职称：副教授
+		我的主页共被访问了6702次
+标签：车辆工程机械工程	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		发表论文
+	专利成果
+	工作研究项目
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

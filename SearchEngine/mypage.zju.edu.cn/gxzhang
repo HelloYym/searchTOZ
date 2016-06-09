@@ -1,0 +1,222 @@
+
+
+
+
+
+张光新控制科学与工程学系-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0094044";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	张光新控制科学与工程学系
+Prof.GuangxinZhang
+
+	永久链接:http://mypage.zju.edu.cn/gxzhang&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+
+
+教授、博导，浙江大学控制系系主任
+1991年毕业于浙江大学化工系；1994年获浙江大学工业自动化专业硕士学位并留校任教，2003年获浙江大学工业自动化专业博士学位。2000年晋升副教授；2006年晋升教授。
+
+&nbsp;
+&nbsp;
+目前主要开展间歇生产过程计算机控制、THz检测、无损检测、图像检测等先进检测、控制的理论和应用、网络化监控和预警技术研究，近5年已发表国际、国内被SCI、EI收录的期刊论文近30篇，承担各类科研项目20余项，主持国家自然科学基金1项，国家科技支撑项目（子课题）1项，重大横向课题2项。先后完成省级科技成果鉴定3项，浙江省科学技术二等奖1项，浙江省科学技术三等奖1项，获得教学成果奖3项，发明专利6项，主讲《计算机控制装置》为浙江省精品课程。现兼任浙江省仪器仪表学会常务理事、副秘书长。
+			
+				
+			工作研究领域
+			
+			①计算机控制技术(●间歇生产过程优化控制技术●啤酒生产过程综合自动化系统)；
+
+②现代检测技术(●THz检测技术●无损检测技术)；
+
+③网络化监控和预警技术(●水质安全评价及预警●污水处理自动控制和工业监控)
+
+			
+				
+			联系方式
+			
+			电话：0571-87952241			电子信箱：gxzhang@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：张光新
+		单位：控制科学与工程学系
+		职称：教授
+		我的主页共被访问了36302次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	研究成果
+	奖励荣誉
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

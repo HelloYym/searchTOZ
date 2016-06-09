@@ -1,0 +1,222 @@
+
+
+
+
+
+zhuyucheng-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0087351";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	zhuyucheng
+zhuyucheng
+
+	永久链接:http://mypage.zju.edu.cn/zhuyucheng&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+									1980.9至1984.7毕业于上海复旦大学电子工程系获本科学士学位
+1984.9至1987.7毕业于杭州大学计算机系获硕士学位
+1987.8留校任&nbsp;助教讲师
+
+开设的课程有&lt;&lt;算法语言&gt;&gt;,&lt;&lt;Basic程序设计&gt;&gt;,&lt;&lt;计算机图形学&gt;&gt;,&lt;&lt;智能仪器&gt;&gt;
+&lt;&lt;计算机动画学&gt;&gt;,&lt;&lt;程序设计与算法&gt;&gt;,&lt;&lt;人机交互设计&gt;&gt;,&lt;&lt;多媒体技术&gt;&gt;,
+&lt;&lt;计算机辅助设计&gt;&gt;,&lt;&lt;VB程序设计&gt;&gt;,&lt;&lt;WindowsC++语言编程&gt;&gt;
+&lt;&lt;计算机网络&gt;&gt;,&lt;&lt;多媒体技术&gt;&gt;,&lt;&lt;WindowsVB程序设计&gt;&gt;,&lt;&lt;信号与系统&gt;&gt;等
+
+研究的内容主要包括三值数字逻辑理论和三值数字逻辑系统的计算机辅助分析,三值数字逻辑系统的计算机辅助设计及三值数字逻辑系统计算机辅助制造方法。
+
+三值数字逻辑可以应用在控制领域，通信领域和计算领域，即3C领域。例如正负双向控制领域，三值控制，保密通信领域，三值数字通信，三值计算领域等等。
+三值数字逻辑系统的计算机辅助分析、设计及制造方法的研究对三值数字电路，三值数字集成电路，三值数字系统和三值数字电子学的发展将具有重大的意义。
+有多篇论文发表,并著有&lt;&lt;多值数字逻辑理论&gt;&gt;一书,由浙江大学出版社2006年11月出版。
+
+&nbsp;
+					
+			
+				
+			工作研究领域
+			
+			多值数字逻辑理论与应用
+			
+				
+			联系方式
+			
+			电话：13185091123			电子信箱：zhuyucheng5T@hz.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：朱玉成
+		单位：计算机科学与技术学院计算机科学与工程学系
+		职称：讲师
+		我的主页共被访问了5985次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		发表论文
+	出版著作
+	研究成果
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

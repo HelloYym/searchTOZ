@@ -1,0 +1,261 @@
+
+
+
+
+
+李聪的网页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0009165";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	李聪的网页
+副教授
+
+	永久链接:http://mypage.zju.edu.cn/licong&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+授权专利
+
+[1]&nbsp;&nbsp;&nbsp;一种给水管道生物膜采样器,ZL201110130702
+
+[2]&nbsp;&nbsp;&nbsp;一种带静止水管段的循环管网水质综合模拟试验系统,ZL201110130947.0
+[3]&nbsp;&nbsp;&nbsp;一种去除水中三价锑的廉价吸附剂及其制备方法与应用,ZL201110150251.4
+[4]&nbsp;&nbsp;&nbsp;一种高铁酸钾固体的制备方法,ZL201110097716.4
+发表论文
+1.&nbsp;&nbsp;
+1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LiC.,LiX.Z.,GrahamN.,2005.Astudyofthepreparationandreactivityofpotassiumferrate.Chemosphere61,537-543.（SCI，47indexed）
+2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LiC.,LiX.Z.,2007.DegradationofEndocrineDisruptingChemicalsinAqueousSolutionbyInteractionofPhotocatalyticOxidationandFerrate(VI)Oxidation.WaterSci.Technol.WastewaterReclamationandReuseforSustainability.55(1-2),217-223.(EI,Engineeringvillage,compendex)
+3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LiCong,LiX.Z.,N.Graham,GaoN.Y.,2008.TheAqueousDegradationofBisphenolAandSteroidEstrogensbyFerrate.WaterResearch.42(1-2),109-120.(SCI,32indexed).
+4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;XuF.F.,GaoN.Y.,LiC.,etal.theresearchofnewdisinfectantusedindrinkingwater,Water&amp;WastewaterEngineering,2008.34-39(CNKI).
+5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;YaoJ.J.,GaoN.Y.,LiCong,etc.2010.Mechanismandkineticsofparathiondegradationunderultrasonicirradiation.JournalofHazardousMaterials,175(1-3),138-145.(SCI,6indexed)
+6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Li.C.,GaoNaiyun,Zhangkejia,theresearchofdegradationofBPAbyFe(VI)andphtotocatalyticoxidation.Environment&amp;Science,2009,30(3):771-774.(CNKI)
+7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LiCong,GaoNai-yun,2009.Modelingtheaqueousreactionkineticsofestriolwithferrate.FrontiersofChemicalEngineeringinChina,Volume3,Number1/March,2009，p.39-45(SpringerLink)
+8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ChuWenhai,GaoNaiyun,LiCong,CuiJing,2009.Photochemicaldegradationoftypicalhalogenatedherbicide2，4-DindrinkingwaterwithUV/H2O2/micro-aeration,ScienceinChinaseriesB:chemistry,52(12):2351-2357(SCI,1timesindexed)
+9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MaYan,GaoNaiyun,LiCong,2010.RemovalofTetracyclineHydrochloridefromdrinkingwatersourcebypotassiumferrate,Journalofcivil,architecturalandenvironmentalengineering,32(4),108-112.(EI,Engineeringvillage,compendex)
+10.&nbsp;CongLi,NaiyunGao,2010.BisphenolAremovalbynanofiltrationprocess.AdvancedMaterialsResearchVol.113-114,1648-1652.(EI,Engineeringvillage,compendex)
+11.&nbsp;M.M.Ye,Y.L.Yang,T.Q.Zhang,Y.Shao,CongLi*,Template-freehydrothermalsynthesisofmacroporousTiO2micropheresonalargescale,MaterialsLetters,2011,65(15-16),2384-2387.(SCI)
+12.&nbsp;CongLi,NaiyunGao,WangLi,PhotochemicaldegradationoftypicalherbicidessimazinebyUV/H2O2inaqueoussolution,DesalinationandWaterTreatment,2011,36,203-209.(SCI).
+13.&nbsp;CongLi,XiaohongGuan,Competitiveadsorptionofthreedifferentphosphatespeciesonaluminumhydroxide,FreseniusEnvironmentalBulletin,2011,20(8),1936-1941(SCI)
+14.&nbsp;MaYan,GaoNaiyun,LiCong*,Thedegradationoftetracyclinehydrochlorideinaqueoussolutionbypotassiumferrate,EnvironmentEngineeringScience,May2012,29(5):357-362(SCI).
+15.&nbsp;LiCong,Y.JeffreyYang,YuJieze,ZhangYuqiao,MiaoXinwei,ShaoWeiyun,Secondchlorinedecayandtrihalomethanesformationinapilot-scalewaterdistributionsystem,WaterEnvironmentResearch,2012,84(8),656-661(SCI).
+16.&nbsp;CongLi*,NaiyunGao,LiWang,YonggangShen,Hydrogenperoxide-assistedlowpressureUVphotodegradationofatrazineinaqueoussolution,InternationalJournalofEnvironmentalStudies,2012,69(4),625-634.(EI,Engineeringvillage,compendex)DOI:10.1080/00207233.2012.674780
+17.&nbsp;CongLi,YipingZhang,NaiyunGao,LiWang,Hydrogenperoxide-assistedlowpressureUVphotodegradationofprometryninaqueoussolution,FreseniusEnvironmentalBulletin,2012,21(5),1060-1065(SCI).
+18.&nbsp;LiCong,GaoNaiyun,LiWang,S-triazineherbicidesremovalbygranularactivatedcarbon,FreseniusEnvironmentalBulletin,2012,21(6B),1613-1618.(SCI).
+19.&nbsp;KejiaZhang,NaiyunGao,YangDeng,TuqiaoZhang,CongLi,Aqueouschlorinationofalgalodorants:Reactionkineticsandformationofdisinfectionby-products,SeparationandPurificationTechnology,May2012,92,93-99.(SCI)
+20.&nbsp;LiCong,GaoNaiyun,GuanXiao-Hong,Removalofendocrinedisruptingcompoundsbynanofiltrationmembranes,HarbinGongyeDaxueXuebao/JournalofHarbinInstituteofTechnology,March2012,vol.44,p.71-75.(EI,Engineeringvillage,compendex)
+21.&nbsp;ShaoYanqiu,ZuoChunsheng,LiCong,FreeChlorineDecayModelinBulkWaterofWaterDistributionNetworkBasedonMain-affectingFactorAnalysis,EnvironmentalScienceandTechnology,2012,&nbsp;35(1),50-54.(CNKI)
+22.&nbsp;GuoShiwen,LiCong,WangZilong,ZhangTuqiao,Effectofwatersupplypipecorrosiononchlorinedecay,Water&amp;WastewaterEngineering，38(5),2012,148-150.(CNKI)
+23.&nbsp;JiezeYu,LiCong*,ZhangTuqiao,YangDejun,2013.Multi-objectiveoptimizationofwaterqualityperformanceconsideringTHMinwaterdistributionsystems.JournalofCivil,Architectural&amp;EnvironmentalEngineering,accepted(EI).
+24.&nbsp;KejiaZhang,&nbsp;TsairFuhLin2,TuqiaoZhang1,CongLi1,*,NaiyunGao3,2013.CharacterizationoftypicaltasteandodorcompoundsformedbyMicrocystisaeruginosa.JournalofEnvironmentScience,accepted(SCI).
+25.&nbsp;ZilongWang,CongLi*,QingliangRen,QingXu,JiahanLiu,XinweiMao,2013.EffectofdifferentfactorsonthedegradationofBPAinwaterdistributionsystems.JournalofZhejianguniversity(EngineeringScience),accepted.(EI)
+26.&nbsp;JiezeYu,CongLi*,TuqiaoZhang,XingweiMao,2013.Optimalanalysisofimprovedwaterqualityperformanceandrechlorinatedcost.JournalofZhejianguniversity(EngineeringScience),accepted.(EI)
+27.&nbsp;CongLi,LiWang,YonggangShen*,2013.Theremovalofatrazine,simazineandprometrynbygranularactivatedcarboninaqueoussolution.Desalinationandwatertreatment,accepted(SCI).
+28.&nbsp;Ma,Y;Gao,NY;Chu,WH&nbsp;;Li,C(Li,Cong),2013.Removalofphenolbypowderedactivatedcarbonadsorption.Frontiersofenvironmentalscience&amp;engineering,7(2),158-165.&nbsp;
+29.&nbsp;Wang,X.H.,Yu,T.C.,Li,C.2012.TheadsorptionofSb(III)inaqueousbyKMnO4-modifiedactivatedcarbon.JournalofZhejiangUniversity-EngineeringScience,46(11),2028-2034.
+30.&nbsp;Tan,C.Q.,Gao,N.Y.,Chu,W.H.,Li,C.,TempletonM.R.,2012.Degradationofdiuronbypersulfateactivatedwithferrousion.Separationandpurificationtechnology,95,44-48.
+31.&nbsp;Bayiermingda,LiCong*,ZhangYan,2013.ThereviewofNDMAremovalinaqueoussolution.AppliedMechanicsMaterials,316-317,614-617.(EI)
+32.&nbsp;Wang,Zilong,LiCong,32013.ThedevelopmentofbisphenolAremovalmethods.AppliedMechanicsMaterials,316-317,610-613.(EI)
+33.&nbsp;Zhao,Taotao,LiCong,YuHongliang,WangZilong,Bayiermingda,MaoXinwei,2013.Theeffectofmembranetreatmentonchlorinedecayandtrihalomethanesformationinwaterdistributionsystems.AppliedMechanicsMaterials,316-317,703-706.(EI)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;34.Zhangkejia,GaoNaiyun,ShaoYu,LiCong,ZhangTuqiao,Yang&nbsp;&nbsp;&nbsp;&nbsp;Yulong,&nbsp;&nbsp;2013.Lysisofmicrocystisaeruginosawithtasteandodorcompounds.JournalofCentralSouthUniversity(ScienceandTechnology),44(4),1714-1718.(EI)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;发表SCI/EI文章30多篇。申请发明专利9项，4项已经授权。
+
+工作项目
+
+1.国家自然科学基金(51208455)
+
+
+2.浙江省自然科学基金(LY12E08017)
+3.高等学校博士学科点专项科研基金（20110101120033）
+4.负责英国公司在深圳分厂的染料废水2500m3/d处理
+5.&nbsp;世界500强北京食品工厂污水站改造项目350万元
+
+
+
+			
+				
+			工作研究领域
+			
+			给水管网水质研究,水处理(湖水、河水、工业废水及饮用水处理），烟气检测及处理，环境评价等方面
+			
+				
+			联系方式
+			
+						电子信箱：congil@aliyun.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：李聪
+		单位：建筑工程学院
+		职称：副教授
+		我的主页共被访问了3525次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

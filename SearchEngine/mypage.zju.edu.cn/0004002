@@ -1,0 +1,225 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0004002";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0004002&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			一、学历
+1986年9月&mdash;1990年7月&nbsp;&nbsp;&nbsp;&nbsp;南京师范大学数学系&nbsp;&nbsp;&nbsp;&nbsp;(本科)&nbsp;&nbsp;&nbsp;&nbsp;
+1990年9月&mdash;1993年7月&nbsp;&nbsp;&nbsp;&nbsp;苏州大学数学系&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(硕士)
+1993年9月&mdash;1996年7月&nbsp;&nbsp;&nbsp;&nbsp;苏州大学数学系&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(博士)
+
+二、工作经历
+1996年8月&mdash;2000年6月&nbsp;&nbsp;苏州大学数学系&nbsp;讲师
+2000年7月&mdash;2001年8月&nbsp;&nbsp;苏州大学数学系&nbsp;副教授
+2001年9月&mdash;2002年8月&nbsp;&nbsp;加拿大CONCORDIA大学计算机系&nbsp;博士后
+2002年9月&mdash;2004年2月&nbsp;&nbsp;美国VERMONT大学计算机系&nbsp;博士后
+2004年3月&mdash;至今&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江大学数学系&nbsp;教授
+
+三、出访情况
+1999.8.1-1999.9.30:&nbsp;&nbsp;加拿大Mount&nbsp;Saint&nbsp;Vincent&nbsp;大学
+2001.2.1-2001.6.30:&nbsp;&nbsp;香港浸会大学
+2002.7.14-2002.7.29:&nbsp;&nbsp;加拿大Mount&nbsp;Saint&nbsp;Vincent&nbsp;大学
+2002.8.5-2002.8.18:&nbsp;&nbsp;加拿大Memorial&nbsp;大学
+2004.6.30-2004.8.1:&nbsp;&nbsp;日本筑波大学
+2005.1.8-2005.2.28:&nbsp;&nbsp;香港浸会大学
+			
+				
+			工作研究领域
+			
+			近年来，主要研究工作集中于可分组设计、平衡不完全区组设计、惠斯特比赛设计、常重码、认证码、光正交码、均匀设计、超饱和设计等方面。内容涉及组合设计理论、编码学、密码学和统计学等多个领域。迄今为止，已在《JournalofCombinatorialTheory,SeriesA》、《IEEETransactionsonInformationTheory》、《SIAMJournalonDiscreteMathematics》、《MathematicsofComputation》、《Designs,CodesandCryptography》、《JournalofCombinatorialDesigns》、《DiscreteMathematics》、《DiscreteAppliedMathematics》、《JournalofStatisticalPlanningandInference》、《中国科学》等国内外重要期刊上发表学术论文65篇，其中SCI收录51篇（33篇同时被EI收录）。这些论文已被SCI他人引用100余次。
+
+
+			
+				
+			联系方式
+			
+			电话：0571-87953674			电子信箱：gnge@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：葛根年
+		单位：数学系
+		职称：教授
+		我的主页共被访问了8034次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+	奖励荣誉
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

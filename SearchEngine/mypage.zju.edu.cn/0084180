@@ -1,0 +1,231 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0084180";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0084180&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;
+教育背景与工作简历
+
+1999.07--现在浙江大学动物科学学院党委书记，副教授
+1998.09--1999.07浙江大学蚕学系党总支书记，副教授
+1996.04--1998.09浙江农业大学蚕学系党总支书记
+1994.01--1996.04浙江农业大学蚕学系党总支副书记
+1989.07--1994.01先后在浙江农业大学学生处、宣传部、经贸学院任讲师
+1987.07--1989.07浙江大学哲学社会学系学习（获法学士学位）
+1984.08--1987.07浙江农业大学蚕学系政治辅导员、团总支副书记、书记
+1980.10--1984.07浙江农业大学蚕学系学习（获农学士学位）
+
+其中：
+1998.07--2000.06浙江大学高等农业教育管理专业研究生班结业
+1998.09--1999.01浙江省委党校中青年干部培训一班
+2004.11--2005.4美国Valparaiso大学访问学者
+&nbsp;
+主要学术兼职&nbsp;
+
+农业部中国蚕业信息网常务副主任（主持工作）
+《蚕业信息》内部刊物主编
+&ldquo;蚕丝在线&rdquo;专业网站总负责人
+浙江省蚕学会理事、《蚕桑通报》副主编
+
+
+
+
+			
+				
+			工作研究领域
+			
+			1、蚕丝业经济与管理
+
+2、蚕丝文化
+
+3、蚕业信息技术
+
+4、高等教育学
+
+
+			
+					
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：金佩华
+		单位：农业生命环境学部办公室
+		职称：研究员（高教）
+		我的主页共被访问了2122次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

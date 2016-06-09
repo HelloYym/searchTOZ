@@ -1,0 +1,230 @@
+
+
+
+
+
+求同存异-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0096450";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	求同存异
+慎独
+
+	永久链接:http://mypage.zju.edu.cn/wzg&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			1992-1996&nbsp;&nbsp;&nbsp;杭州大学计算机学院计算机科学与应用&nbsp;&nbsp;本科&nbsp;学士
+1998-1999&nbsp;浙江大学法学院行政管理研究生课程进修干部班&nbsp;结业
+2000-2003&nbsp;&nbsp;浙江大学法学院经济法研究生毕业&nbsp;硕士&nbsp;知识产权法
+2004-2005&nbsp;&nbsp;浙江大学组织部培训mpa课程
+&nbsp;&nbsp;
+1996-1998&nbsp;&nbsp;&nbsp;杭州大学计算机学院团委书记、党总支秘书
+1998-2001&nbsp;&nbsp;&nbsp;浙江大学信息学院团委副书记&nbsp;&nbsp;
+2001-2004&nbsp;&nbsp;&nbsp;浙江大学计算机学院团委副书记、研究生党总支&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;副书记
+2004-2005&nbsp;&nbsp;&nbsp;浙江大学紫金港校区团工委副书记、共青团浙江大
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;学委员会科技部部长、网络资源部部长、青年志愿
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;者指导中心主任、紫金港校区学生会秘书长
+2005,11--2009，7&nbsp;&nbsp;&nbsp;浙江大学党委组织部党校办公室副主任
+&nbsp;
+2009，7－2010，7浙江大学求是学院蓝田学园主任助理
+2010，7&mdash;&mdash;&nbsp;&nbsp;&nbsp;&nbsp;浙江大学药学院党委副书记
+&nbsp;
+			
+				
+			工作研究领域
+			
+			教育管理、经济法、信息安全法本科生、研究生教育
+经济法
+网络法、计算机犯罪、电子商务法、信息安全法
+知识产权法
+
+			
+				
+			联系方式
+			
+			电话：88208421			电子信箱：wuzg@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：吴子贵
+		单位：浙江大学药学院
+		职称：副研究员（高教）
+		我的主页共被访问了7927次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	实验室介绍
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	新浪网
+浙大党校
+浙大党校博客
+浙大办公网
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

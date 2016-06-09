@@ -1,0 +1,447 @@
+
+
+
+
+
+QZM-博客
+
+
+
+
+
+
+varctxPath="http://mypage.zju.edu.cn";
+varb_handle="qzm";
+varcfg_weblog="http://mypage.zju.edu.cn/weblog";
+vard=newDate()
+varselyear=d.getFullYear();
+varselmonth=d.getMonth()+1;
+
+
+
+
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	color:#111;
+	margin-right:10px;	
+}
+#mainlinkullia,.tagsa:hover{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+.tagsa{
+	margin-right:10px;
+}
+img{
+	border:none;
+}
+
+
+
+
+
+
+
+
+
+
+	
+		首页
+		帮助
+		登录
+	
+
+
+
+
+
+
+	QZM
+MainActivities&Achievements
+
+	永久链接:http://mypage.zju.edu.cn/weblog/qzm&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+
+
+	中文主页
+			博客
+
+
+
+
+
+
+
+
+
+
+			
+				
+
+	
+[1/1]
+首页	上一页下一页末页
+
+	
+
+浏览模式:普通|列表
+
+
+
+
+
+
+		浙大学报英文版参考文献标准标注法
+
+作者:钱照明日期:2008-01-31Thursday
+
+
+
+浙大学报英文版参考文献标准标注法1.会议论文REFERENCE中表达法（论文标题每个词首字母大写）：文中标注法：Schauder,C.;Gernhardt,M.;Stacey,E.;Lemak,T.;Gyugyi,L.;Cease,T.W.andEdris,A.1994.Developmentofa100MVARStaticCondenser...
+查看更多...
+
+
+
+
+
+分类:参考文献标注|			固定链接|评论总数0|
+			阅读次数167
+
+
+
+
+
+
+
+		撰写论文参考
+
+作者:钱照明日期:2008-01-31Thursday
+
+
+
+撰写论文指南1）摘中英文摘要应按照研究目的、方法、结果、结论四要素来撰写。摘要应少写背景，多写研究思路、方法和研究的具体工作、结论、作者观点，以便包含与正文同等信息的内容，并能够突出创新性；关键词3&mdash;8个，首词宜紧扣主题。英文文摘长度一般在1...
+查看更多...
+
+
+
+
+
+分类:个人见解|			固定链接|评论总数0|
+			阅读次数167
+
+
+
+
+
+
+
+		对报考我的博士考生的要求
+
+作者:钱照明日期:2008-01-31Thursday
+
+
+
+1.电力电子及电力传动博士生考生需考的专业课是：现代控制理论（甲）；现代电力电子电路。2.要求考生具有较高的英文水平，具有较强的独立科学研究能力和创新精神。具体的说要求考生具有坚实的电工技术，电力电子和控制技术方面的基础；具有较为熟练的英语能力，至...
+查看更多...
+
+
+
+
+
+分类:个人见解|			固定链接|评论总数0|
+			阅读次数212
+
+
+
+
+
+
+
+		中文一级学报中参考资料标准标注法
+
+作者:钱照明日期:2008-01-31Thursday
+
+
+
+中文一级学报中参考资料标准标注法FromTransactionsorotherJournals:3.RahimAHandAlamgirD.AClosed-loopQuasioptical&hellip;&hellip;&hellip;..Stability.IEEETrans.onPowerSystems.1988,30(3):879~8864.RahimAH,XuZ,a...
+查看更多...
+
+
+
+
+
+分类:参考文献标注|			固定链接|评论总数0|
+			阅读次数149
+
+
+
+
+
+
+
+		文后参考文献著录规则GB7714—87
+
+作者:钱照明日期:2008-01-31Thursday
+
+
+
+中华人民共和国国家标准UDC025.32文后参考文献著录规则GB7714&mdash;87Descriptiverulesforbibliographicreferences1引言1.1本标准规定了各类型出版物中的文后参考文献的...
+查看更多...
+
+
+
+
+
+分类:参考文献标注|			固定链接|评论总数0|
+			阅读次数157
+
+
+
+
+
+
+
+		IEEETransactionReference标准标注法
+
+作者:钱照明日期:2008-01-31Thursday
+
+
+
+IEEETransactionReference标准标注法FromTransactionsorotherJournals:1.A.H.RahimandD.Alamgir,&ldquo;Aclosed-loopquasioptical&hellip;&hellip;&hellip;..stability,&rdquo;IEEETrans.PowerSyst.,vol.3,pp.879-886,Aug.1988....
+查看更多...
+
+
+
+
+
+分类:参考文献标注|			固定链接|评论总数0|
+			阅读次数158
+
+
+
+
+
+
+
+		个人对考博、攻博的几点看法和希望
+
+作者:钱照明日期:2008-01-31Thursday
+
+
+
+个人对考博、攻博的几点看法和希望对于每一位报考博士生的同学来说，必须首先明确这一点：一旦考博成功，攻博将是你人生道路上的一个重要的转折或新的起点。因为攻博既是一种机遇，更重要的是一种挑战。无论是抓住机遇，还是应对挑战，都必须要有明确的目标和...
+查看更多...
+
+
+
+
+
+分类:个人见解|			固定链接|评论总数0|
+			阅读次数210
+
+
+			
+			
+		
+		
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+	
+	
+		姓名：钱照明
+		单位：电气工程学院应用电子学系
+		职称：教授
+		我共发表了7篇文章
+		共收到0条评论
+		我的主页共被访问了3566次
+	
+	
+	
+	
+
+
+我的文章分类
+
+	个人见解
+		
+参考文献标注
+		
+
+
+
+
+日历
+
+
+
+>>
+年月
+
+
+
+日
+一
+二
+三
+四
+五
+六
+
+
+
+
+
+
+
+
+
+
+
+我的最新文章
+
+
+		对报考我的博士考生的要求
+个人对考博、攻博的几点...
+文后参考文献著录规则...
+浙大学报英文版参考文献...
+IEEETransactionRefe...
+中文一级学报中参考资料...
+撰写论文参考
+	
+
+
+
+
+我的热点文章
+
+
+				对报考我的博士考生的要求
+		个人对考博、攻博的几点...
+		撰写论文参考
+		浙大学报英文版参考文献...
+		IEEETransactionRefe...
+		文后参考文献著录规则...
+		中文一级学报中参考资料...
+
+	
+
+
+我收到的评论
+
+	
+	
+
+
+我的文章汇总
+
+		2008年1月[7]
+		
+	
+
+
+链接
+
+
+
+
+
+
+检索
+
+
+
+
+-所有文章-
+个人见解
+参考文献标注
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+
+
+varflag=newArray();
+flag[0]='2008/01/31';
+
+
+varcale=newCalendar("idCalendar",{
+SelectDay:newDate(),
+onSelectDay:function(o),
+onToday:function(o),
+onFinish:function(){
+$("idCalendarYear").innerHTML=this.Year;$("idCalendarMonth").innerHTML=this.Month;
+for(vari=0,len=flag.length;i<len;i++){
+//alert(flag[i]);
+	vard=newDate(flag[i]);
+	if(this.Year==d.getYear()){
+		if(this.Month==d.getMonth()+1)
+		{
+this.Days[d.getDate()].innerHTML=""+d.getDate()+"";
+			
+		}
+
+	}
+}
+}
+});
+$("idCalendarPre").onclick=function()
+$("idCalendarNext").onclick=function()
+
+
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));

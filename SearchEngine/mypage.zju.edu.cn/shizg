@@ -1,0 +1,319 @@
+
+
+
+
+
+史治国（ZhiguoShi）-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0006017";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	史治国（ZhiguoShi）
+InformationProcessingandCommunication(IPC)Group
+
+	永久链接:http://mypage.zju.edu.cn/shizg&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			史治国，浙江大学信息与电子工程学院教授、博士生导师，IEEESeniorMember，中国电子学会高级会员。于浙江大学竺可桢学院/信息与电子工程学系获工学学士学位，于浙江大学电子科学与技术专业获工学博士学位，2009年12月晋升副教授，2014年12月晋升教授。2011年9月至2013年11月在加拿大滑铁卢大学宽带通信研究组（BBCR）进行合作访问研究。已授权发明专利12项，发表学术论文60余篇，论文已被引用600余次，作为项目负责人承担了国家自然科学基金、863计划子课题、国家科技支撑计划子课题等多项课题。现为信息处理与通信研究组负责人，研究组主要研究方向包括无线通信与无线网络、目标跟踪算法与硬件设计、高速数据采集与控制等。
+欢迎电子、通信、信息处理及数学等相关专业同学报考本课题组博士、硕士研究生。
+
+
+ZhiguoSHI，FullProfessoratDepartmentofInformationScienceandElectronicEngineering,ZhejiangUniversity.&nbsp;DrSHIreceivedtheB.S.andPh.D.degreesinelectronicengineeringfromZhejiangUniversity,Hangzhou,China.From2011to2013,hewasvisitingtheBroadbandCommunicationsResearchGroup,UniversityofWaterloo,Waterloo,ON,Canada.Hiscurrentresearchinterestsincludewirelesscommunicationandnetworking,targettrackingandpositioning,andhighspeeddataaquisitionandcontrol.HeisPIofNSFCproject,863subprojectandseveralotherprojects.Hehas12issuedpatents.&nbsp;
+Welcomestudentswithbackgroundof&nbsp;Electronic,&nbsp;Communications,InformationProcessingandmathrelatedmajorjoinourgroup.Post-DoctorFellowpositionisalsoavailable.Forforeignstudents,pleasecontactmeformoredetailson&nbsp;howto&nbsp;preparetheapplication.&nbsp;&nbsp;
+&nbsp;
+
+&nbsp;&nbsp;教学工作/Teaching
+
+2015-:DigitalSystemDesignI(数字系统设计I英文班)
+2014-：English&nbsp;forPHDstudents
+2014:DigitalLogicandMicroprocessorDesign
+2009-2010：FundamentalsofFPGADesign&nbsp;
+2008-2010：OFDMCommunicationSystem:ExperimentalStudy
+2007-2008：PIofZhejiangUniversityLab&nbsp;Equipment&nbsp;DesignProjectforOFDMCommunicationSystems
+2006-2008：PrincipleandApplicationsofWirelessCommunication&nbsp;
+
+研究项目/ResearchProjects
+
+201501-201812NSFC-广东联合基金重点项目子课题（U1401253）：网络化系统的攻击建模与优化（Attackmodelingandoptimization&nbsp;innetworkedsystems）
+201401-201512浙江省公益计划研究项目（2014C33103）：&ldquo;隔墙有眼：基于Wifi信号的移动目标隔墙探测与跟踪&rdquo;(Seethroughwalls:DetectingandTrackingofmovingobjectswithWifisignal)
+201404-201512国家科技支撑计划子课题
+201406-201506飞行器海上测量与控制技术联合实验室开放基金
+201401-201506工业界研究课题：基于CompactPCI接口的多功能采集控制装置设计
+201210-201506&ldquo;863&rdquo;计划子课题
+201201-201512国家自然科学基金（面上61171149）：实时多模粒子PDH滤波器算法与硬件实现研究(Real-timeMultipleModesParticlePHDfilter:AlgorithmandHardwareDesign)
+201110-201212工业界研究课题：轻量化SSI信号PCI采集卡设计
+201105-201204国家重点实验室开放课题：面向海上风电系统状态监测的50公里长距离通信的传感网节点设计
+201104-201203工业界研究课题：SSI信号PCI采集卡设计
+201001-201212浙江省公益性技术应用研究计划项目（2010C31069）：60GHz小型化双模汽车防撞雷达(60GHzCompactAnti-CollisionAutoRadarwithCommunicationCapacity)
+200901-201112国家自然科学基金（青年60801004）：基于硅技术的太赫兹源芯片级功率合成新方案
+200801-200912浙江省自然科学基金（面上Y107285）：基于硅技术的60GHzTM010-&lambda;/4谐振系统
+200701-200812中国博士后科学基金（一等）：全混沌体制雷达的频谱整形和回波检测方法研究
+200701-200812浙江省博士后科学基金：基于0.18umCMOS工艺的微波混沌振荡器研究
+
+学术论文/ResearchPapers
+
+Z.Shi,R.Sun,R.Lu,L.Chen,J.ChenandX.Shen,&quot;DiverseGroupingbasedAggregationProtocolwithErrorDetectionforSmartGridCommunications&quot;,IEEETransactionsonSmartGrid,toappear.
+Z.Yang,L.Sun,M.Ke,Z.Shi,andJ.Chen,&quot;OptimalChargingStrategyforPlug-inElectricTaxiwthTime-VaryingProfits&quot;,IEEETransactionsonSmartGrid,5(6):2787-2797,2014.
+Z.Shi,Y.Liu,S.Hong,J.Chen,andX.Shen,&quot;POSE:DesignofHardwareFriendlyParticle-BasedObservationSelectionPHDFilter&quot;,IEEETrans.onIndustrialElectronics,61(4):1944-1956,2014.
+Z.Shi,R.Sun,R.Lu,J.Qiao,J.Chen,andX.Shen,&quot;AWormholeAttackResistantNeighborDiscoverySchemewithRDMAProtocolfor60GHzDirectionalNetwork&quot;,IEEETrans.on&nbsp;EmergingTopicsinComputing,1(2):341-352,2013.
+Y.Zheng,Z.Shi,R.Lu,S.Hong,andX.Shen,&quot;AnEfficientData-DrivenParticlePHDFilterforMulti-TargetTracking&quot;,IEEETrans.onIndustrialInformatics,9(4):2318-2326,2013.
+R.Lu,X.Lin,Z.Shi,andX.Shen,&quot;LCPP:LightweightConditionalPrivacy-PreservationProtocolforVehicularTrafficMonitoringSystems&quot;,IEEEIntellgientSystems,28(3):62-65,2013.
+X.Wei,&nbsp;Z.Shi,E.Li,&quot;Anovelcombinedequivalentnetworksanalysisforpowerandgroundplaneswithnarrowslots&quot;,IEEETrans.on&nbsp;Electromagn.Compat.,2010,52(4):994-1000.
+More...
+
+授权专利/IssuedPatents
+
+一种概率假设密度粒子滤波器的设计方法及滤波器&nbsp;专利号：ZL20101053381.6
+外设部件互连标准接口的多功能采集控制装置专利号：ZL201010555916.5
+基于CMOS反相器对的高速混沌振荡器设计方法和电路专利号：ZL201010275767.7&nbsp;
+同步串行接口信号的外设组件互连标准采集装置专利号：ZL201010281587.X
+三维结构TE011-&lambda;/4-&pi;模谐振器专利号：ZL200910102296.7
+More...
+
+编著教材/EditedTextbook
+
+
+&nbsp;ZhiguoShi,ShaohuaHong,KangshengChen,BasebandDesignofOFDMCommunicationSystem(OFDM通信系统基带设计)，ZhejiangUniversityPress,2009
+
+学术兼职/Services
+
+Editorship:IETCommunications,2014--&nbsp;
+Editorship:&nbsp;KSIITransactio&#8203;nsonInternetandInformatio&#8203;nSystems（IndexedbySCIE）,2013--&nbsp;
+2013TPCMember:MSN2013,VTC2013Fall,ICCC2013,EUSPN2013,ANT2013,ICCVE213&nbsp;
+2014TPCMember:Infocom2014,ICC2014,ICCCN2014,ICNC2014,ANT&nbsp;2014,ICACCI2014,ICCVE2014...&nbsp;
+2015TPCMember:Infocom2015,WCNC2015,ICC2015,GlobeCom2015,ICCC2015...&nbsp;
+
+荣誉和奖励/HonorsandAwards
+
+2015年IEEESeniorMember
+2014年教育部科技进步一等奖（7/17）
+2014年IEEEIESStudentBestPaperAward(Paperwaspublishedin2013)
+2013年浙江大学信电系先进工作者
+2013年IEEE/CICICCC(InternationalConferenceonCommunicationsinChina)BestPaperAward
+2013年IEEEWCNC(WirelessCommunicationsandNetworkingConference)&nbsp;BestPaperAward
+2013年浙江大学求是青年学者
+2012年浙江省科学技术二等奖（2/7）
+2012年IEEEWCSP(WirelessCommunicationsandSignalProcessing)BestPaperAward
+2011年浙江大学&ldquo;新星计划&rdquo;入选者
+2011年浙江大学信电系先进工作者
+2007年浙江大学&ldquo;紫金计划&rdquo;入选者
+2007年浙江大学优秀班主任
+
+&nbsp;最新消息/News
+
+201505:Ourpaper&quot;DiverseGroupingbasedAggregationProtocolwithErrorDetectionforSmartGridCommunications&quot;wasacceptedbyIEEETransactionsonSmartGrid.
+201504:ChengweiwenttoAustraliatoattendIEEEICASSP2015.
+201502:ChengweireceivedthetravelgranttoattendIEEEICASSP2015.
+201501:Ourpaper&quot;DOAEstimationbyCovarianceMatrixSparseReconstructionofCoprimeArray&quot;wasacceptedbyIEEEICASSP2015.
+201501:Ourpaper&quot;Energy-EfficientBarrierCoverageinBistaticRadarSensorNetworks&quot;wasacceptedbyIEEEICC2015.
+201411:Ourpaper&quot;Energy-efficientPowerAllocationinCognitiveSensorNetworks:ACoupled-ConstraintGameApproach&quot;wasacceptedbyWirelessNetworks.
+201409:Ourpaper&quot;OptimalUser-CentricRelayAssistedDevice-to-DeviceCommunications:AnAuctionApproach&quot;wasacceptedbyIETCommunications.
+201409:Ourpaper&quot;OptimalChargingStrategyforPlug-inElectricTaxiwithTime-VaryingProfits&quot;wasacceptedbyIEEETransactionsonSmartGrid.
+201409:Yunmei(Masterstudentinourgroup)receivedthe2014IEEEIESStudentBestPaperAward(Paperwaspublishedin2013).Congratulations.
+201408:ZhiguovisitedKoreaUniversity，SangmyungUniversityandKoreaCopyrightCommission.
+201406:ZhiguowasinvitedasIEEEWCNC(WirelessCommunicationsandNetworkingConference)2015TechniqueProgramCommitteeMember.
+201405:Ourpaper&quot;CSMA/CA-basedMediumAccessControlforIndoorMillimeterWaveNetworks&quot;wasacceptedbyWirelessCommunicationsandMobileComputing(Wiley)wasaccepted.
+More...
+
+
+&nbsp;
+			
+				
+			工作研究领域
+			
+			1.Informationandsignalprocessing
+
+2.Wirelresscommunicatoinsandnetworking
+
+			
+				
+			联系方式
+			
+						电子信箱：shizg@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：史治国（SHIZhiguo）
+		单位：DeptInfo.Electron.Engineering
+		职称：Professor
+		我的主页共被访问了50342次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		发表论文
+	出版著作
+	研究成果
+	专利成果
+	数字系统设计I(英文班)
+	News!
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	浙江大学
+浙江大学信电系
+网络传感与控制研究组
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

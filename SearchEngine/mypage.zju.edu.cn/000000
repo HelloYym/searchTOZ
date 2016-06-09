@@ -1,0 +1,204 @@
+
+
+
+
+
+白白白马-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0084202";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	白白白马
+北回归线
+
+	永久链接:http://mypage.zju.edu.cn/000000&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;
+刘翔简历：原籍江苏无锡，1966年生于杭州。现任教于浙江大学国际文化系。1987年年底开始现代诗创作，1993年涉足诗歌评论与理论。同时，也有一些外国文学、艺术学和美学的理论文章。诗歌入选《自由诗篇》等十余种重要的诗选，其中的代表作有《三滴水》、《在落日的祭坛上》、《他》等。诗歌理论与评论多篇发表于《诗探索》并入选《中国最新先锋诗论》等，其中的代表作有《歌唱者的精神素描》、《乌托邦、理想主义与诗歌》、《重建当代诗歌精神》、《当代抒情诗与诗歌精神》、《尴尬时代的抒情诗歌》等。著有诗论专著《那些日子的颜色――中国当代抒情诗歌》（学林出版社，2003），与朋友合编《中国当代先锋诗歌档案》。这些作品在诗坛产生了一定的影响。1988年与梁晓明等合编《北回归线》，迄今这本刊物已经出到第七期。2002年与朋友创办《北回归线》文化网站。在诗学上倡导一种建立在当代历史语境中的新理想主义创作，以综合、理性和人性深度为旨归，以积极的社会批判来承担作为一个当代诗人的使命。近年来从事电影研究，出版《德国新电影》《世界青春电影》《世界成长电影》《世界女性声学》等著作。
+			
+				
+			工作研究领域
+			
+			文学、美学、电影、艺术史等
+			
+				
+			联系方式
+			
+			电话：85125290,13738072452			电子信箱：xiangliu666@126.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：刘翔
+		单位：传媒与国际文化学院国际文化学系
+		职称：副教授
+		我的主页共被访问了8601次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

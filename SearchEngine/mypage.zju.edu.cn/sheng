@@ -1,0 +1,236 @@
+
+
+
+
+
+盛弘强-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0006099";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	盛弘强
+
+
+	永久链接:http://mypage.zju.edu.cn/sheng&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1999年毕业于浙江大学医学院临床医学专业，并保送为基础医学部病理学与病理生理学硕士研究生，师从著名肿瘤病理学专家、德国科学院院士浙江大学副校长来茂德教授。2001年获日本文部省国费奖学金留学于国立日本岐阜大学，师从日本癌予防研究会主席、高松宮妃癌研究基金学术奖获得者，日本岐阜大学校长HidekiMori教授；于2006年获得博士（Ph.D.）学位。博士学位论文成果芝麻素抑制大肠癌前病变的研究被日本主要媒体《中日新闻》头版报道（2006年5月13日）。2006年4月至今在浙江大学医学院从事教学、科研工作。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;回国后主要从事结直肠肿瘤实验动物学和分子病理学的研究，并有了深入的进展。近年来先后主持5项国家级科研项目：国家自然科学基金（30640009，30700353，81172313）、中国博士后科学基金（20060401054）和教育部回国人员科研启动基金等。主持浙江省自然科学基金（Y2080030）、省科技厅钱江人才项目（No.2010R10056）各1项，作为核心成员参与国家科技支撑计划项目、国家自然科学基金重大项目、省科技厅重大项目、国际图书馆合作项目以及微软亚洲研究院国际合作项目等多项。以第一作者和/或通讯作者在国际和国内肿瘤病理学领域有影响刊物包括&nbsp;CancerLetters、遗传、中华病理学杂志等发表文章30余篇。在国内首次成功诱导了结直肠快速成瘤Min基因突变小鼠模型，目前该小鼠已经和国内6家研究机构开展合作研究。曾兼任浙江大学06级医学八年制巴德年班班主任，并指导浙江大学学生SRTP科研项目7项。近两年来，同时着重于研究数字化病理标本、切片的应用技术研究，获得专利20多项（专利号200820083808.0；200910153861.2等）。联合翻译并出版医学科普读物《予防とつきあい方シリーズ》三册（浙江大学出版社）计80多万字。&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;曾获中国驻日本大使馆教育处荣誉奖励（2006.03），日本文部省国费留学生奖学金(日本政府最高奖学金)（2001.10-2006.03）以及浙江(医科)大学学生最高荣誉竺可桢奖学金（1998）；曾担任日本岐阜县中国留学生学友会会长(2004)，日本岐阜县『在住外国人と共生社会検討委員会』委员&nbsp;(2004)，共同策划探讨关于留学生在内的外国人在日本社会的教育等问题，并有在日本媒体的专题采访（Report2006第1-2期）。曾任浙江医科大学校学生会主席（1997）。2009年8月始，在科学网建立了个人学术博客（http://blog.sciencenet.cn/?293721），重点探讨教育、医学等问题，目前原创性发表博文150余篇，有30万次的浏览记录。在科学网内有较高的影响力，并多次受《科技导报》、《科学新闻》编辑部的约稿。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;现为日本癌学会、中华医学会病理学分会、中国遗传学会和中国实验动物学会等专业学会会员，2004年以来合作发表了研究论文30余篇，部分被SCI收录，如在CancerLetters，Carcinogenesis，CancerScience,InternationalJournalofOncology，JProteomeRes,BreastCancerResTreat,CellDeathDiffer.等国际刊物以及中华病理学杂志、遗传和中国比较医学杂志等国内核心专业刊物。多次参加日本癌学会、发癌病理研究会、日本癌予防研究会和日本癌疫学研究会等国际学会。
+-----------------------------------
+代表性论文*
+1．&nbsp;PengSH,L&uuml;BJ,RuanWJ,ZhuYM,ShengHQ,LaiMD.Geneticpolymorphismsandbreastcancerrisk:evidencefrommeta-analyses,pooledanalyses,andgenome-wideassociationstudies.BreastCancerResTreat.2011Jun;127(2):309-24.Epub2011Mar29.
+2．&nbsp;ZhangHH,LiYZ,HuangQ,RenXB,HuH,ShengHQ,LaiMD.MiR-148apromotesapoptosisthroughtargetingBcl-2inhumancolorectalcancer.CellDeathDiffer.2011Nov;18(11):1702-10.doi:10.1038/cdd.2011.28.Epub2011Apr1.
+3．&nbsp;XueH,LuBJ,ZhangJ,WuML,HuangQ,WuQ,ShengHQ,WuDD,HuJW,LaiMD.Identificationoftrefoilfactor3andgrowth/differentiationfactor15aspotentialbiomarkersforcolorectalcancerusingadifferentialsecretomeapproach.JProteomeRes.2010;9:545-555.
+4．&nbsp;ShengHQ*,ChenJ,LaiMD.[Novelprecancerouslesionsinrodentmodelofcolorectalneoplasia].ChineseJournalofPathology.2008;37(7):483-486.Chinese.
+5．&nbsp;OyamaT,YamadaY,HataK,TomitaH,HirataA,ShengHQ,HaraA,AokiH,KunisadaT,YamashitaS,MoriH.Furtherupregulationof&beta;-catenin/TcftranscriptionisinvolvedinthedevelopmentofmacroscopictumorsinthecolonofApcMin/+mice.Carcinogenesis,2008;29(3):666-72.
+6．&nbsp;ShengHQ*,ChenJ,LaiMD.[UseofApc(Min/+)mousemodelinthestudiesofintestinaltumors.].YiChuan.2008;30(3):277-82.Chinese.
+7．&nbsp;ShengHQ,HiroseY,HataK,ZhengQ,KunoT,AsanoN,YamadaY,HaraA,OsawaT,MoriH.Modifyingeffectofdietarysesaminolglucosidesontheformationofazoxymethane-inducedpremalignantlesionsofratcolon.CancerLett.2007;246(1-2):63-8.
+8．&nbsp;ZhiH,YamadaY,HiroseY,KatoK,ShengHQ,ZhengQ,OyamaT,AsanoN,KunoT,HaraA,MoriH.Effectof2-(carboxyphenyl)RetinamideandGenisteinontheFormationofEarlyLesionsin1,2-dimethylhydrazine-inducedColonCarcinogenesisinRats.AsianPac.J.CancerPrev.2007;8(1):33-8
+9．&nbsp;KunoT,HiroseY,YamadaY,HataK,ShengHQ,AsanoN,OyamaT,ZhiH,IwasakiT,KobayashiH,MoriH.Chemopreventionofmouseurinarybladdercarcinogenesisbyfermentedbrownriceandricebran.OncolRep.2006;15(3):533-8.
+10．&nbsp;HataK,TanakaT,KohnoH,SuzukiR,ShengHQYamadaY,OyamaT,KunoT,HiroseY,HaraA,MoriH.beta-Catenin-accumulatedcryptsinthecolonicmucosaofjuvenileApc(Min/+)mice.CancerLett.2006;239(1):123-8.
+11．&nbsp;HataK,TanakaT,KohnoH,SuzukiR,ShengHQ,KunoT,HiroseY,HaraA,MoriH.Lackofenhancingeffectsofdegradedlambda-carrageenanonthedevelopmentofbeta-catenin-accumulatedcryptsinmaleDBA/2Jmiceinitiatedwithazoxymethane.CancerLett.2006;238(1):69-75.
+12．&nbsp;ShengHQ,HiroseY,HataK,KunoT,NamiAsano,OyamaT,HuilanZhi,HaraA,YamadaY,MoriH.MetaplasticPanethcellasanewevidencetosupportthestatementonprecancerouslesionsinrodentcolon.CancerSci.2005.96(supplement):281-282.
+13．&nbsp;LuBJ,LaiMD,HuangQ,ShengHQ.[GermlinepolymorphismsofBat26anditssignificanceingastriccancermicrosatelliteinstability].ZhejiangDaXueXueBaoYiXueBan.2005;34(4):353-7.Chinese.
+14．&nbsp;KunoT,HiroseY,HataK,KatoK,ShengHQ,KitaoriN,HaraA,IwasakiT,YoshimuraT,WadaK,KobayashiH,MoriH.PreventiveeffectoffermentedbrownriceandricebranonN-nitrosomethylbenzylamine-inducedesophagealtumorigenesisinrats.IntJOncol.2004;25(6):1809-15.
+15．&nbsp;HataK,YamadaY,KunoT,HiroseY,HaraA,ShengHQ,MoriH.Tumorformationiscorrelatedwithexpressionofbeta-catenin-accumulatedcryptsinazoxymethane-inducedcoloncarcinogenesisinmice.CancerSci.2004;95(4):316-20.
+16．&nbsp;ShengHQ,LaiMD.[Beta-catenin-accumulatedcrypt--anovelpre-cancerousconditioninratcolorectalneoplasmmodel].ChineseJournalofPathology,2004;33(3):280-2.Chinese.
+			
+				
+			工作研究领域
+			
+			肿瘤病理；分子病理；数字病理
+			
+				
+			联系方式
+			
+			电话：0571-88208199			电子信箱：shenghongq@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：盛弘强
+		单位：基础医学系
+		职称：
+		我的主页共被访问了20974次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	教学工作
+	国内外实验室
+	常用网站
+	推荐文献
+	Labmeeting
+	学术报告
+	会议信息
+	科普宣传
+	其它工作
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

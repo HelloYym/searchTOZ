@@ -1,0 +1,215 @@
+
+
+
+
+
+浙江大学医学院刘冲实验室-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0015027";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	浙江大学医学院刘冲实验室
+癌症发生机制与疾病遗传学模型
+
+	永久链接:http://mypage.zju.edu.cn/liu_lab&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;刘冲博士，现任浙江大学医学部基础医学院病理学与病理生理学系研究员，博士生导师。肿瘤研究中心PI，浙江省疾病蛋白质组学重点实验PI。入选国家青年千人计划和浙江大学百人计划。2008年毕业于清华大学生物科学与技术系，并获博士学位。2008至2012年在美国俄勒冈大学（UniversityofOregon)分子生物学研究所担任博士后研究员。2013至2015年在美国弗吉尼亚大学医学院（UniversityofVirginiaSchoolofMedicine)任ResearchScientist。国际期刊JournalofTranslationalMedicine和GeneticMedicine编委(EditorialBoard)。受邀担任国际学术刊物《PLoSOne》,《JournalofTranslationalMedicine》,《JournalofNeuro-oncology》,《InternationalImmunopharmacology》,《Anti-CancerDrug》《Apoptosis》等期刊特约审稿人。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;刘冲博士在利用小鼠遗传学模型研究癌症发生机制方面做出原创性贡献。首次提供明确的遗传学证据证明少突前体细胞可以作为恶性脑胶质瘤细胞起源。相关的研究工作发表在Cell,CurrentOpinioninNeurobiology,Oncogene,J.ofBiol.Chem.等国际重要学术刊物发表。Cell,NatureCancerReview,CancerResearch,CancerDiscovery,Faculty1,000等权威学术期刊对其研究工作进行专栏评论。
+&nbsp;
+			
+				
+			工作研究领域
+			
+			肿瘤生物学
+胶质细胞瘤生物学
+小鼠遗传学
+胶质细胞生物学
+			
+				
+			联系方式
+			
+						电子信箱：chongliu77@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：刘冲
+		单位：医学院
+		职称：百人计划研究员
+		我的主页共被访问了976次
+标签：肿瘤微环境胶质细胞生物学，小鼠遗传学，转基因小鼠，癌症干细胞，恶性脑胶质瘤，基因敲入，基因敲除，病理学，癌症生物学神经生物学遗传学	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		实验室介绍
+	研究成果
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	JacksonLaboratory
+BrainGeneExpressionMap
+MouseGenomeInformatics
+LeeSilver'sMousegenetics
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

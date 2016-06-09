@@ -1,0 +1,203 @@
+
+
+
+
+
+hepm-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0096220";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	hepm
+hepm
+
+	Permanentlink:http://mypage.zju.edu.cn/en/hpm&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			Blog
+
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			B.S.(1982)LanzhouUniversity,M.S.(1987)ZhejiangUniversity,Ph.D.(1994)ZhejiangUniversity,PostDoc.(1994-1996)Fritz-Haber-InstitutderMPG(Germany)
+			
+				
+			Researchwork
+			
+			ResearchInterests:
+(1):Growthmechanismsoflow-dimensional(nano)systemsatatomiclevel:worksrelatedtoheterogeneousgrowth,self-organizationprocessonquantumsystems,suchasquantumwires,andquantumdotarrays.
+(2):Electronicstructuresandinteractionofadsorbatesonmetalsurfaces:worksrelatedtoatomicandmolecularadsorptionsonmetalsurfaces,andthefundamental(interaction,physicalandchemical)behaviorsinvolved.
+(3):Hetero-structuresoforganicsemiconductors:worksrelatedtopreparationofhetero-structuresoforganicsemiconductors,electronicproperties,interactionatinterfaces,andbehavioroforganiclight-emittingdevices(OLEDs).
+
+			
+				
+			Contact
+			
+			Phone:(86)57187953256
+			E-mail:phypmhe@zju.edu.cn
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:HEPimo
+		Units:DepartmentofPhysics
+		Title:Professor
+		Myhomepagehasbeenvisited2182times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+SelectedPublications
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	
+
+
+Youarevisitor:2182
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,221 @@
+
+
+
+
+
+马梁-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0012867";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	马梁
+细胞3D打印的奇妙世界
+
+	永久链接:http://mypage.zju.edu.cn/liangma&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;&nbsp;马梁，公派留学赴美博士，浙江大学浙江加州国际纳米技术研究院系统生物学平台助理研究员。本科毕业于浙江大学，获得材料科学与工程以及生物信息学双学士学位，研究生就读于浙江加州国际纳米技术研究院，从事特异性DNA富集的课题，2008年9月获得国家留学基金委公派奖学金的支持赴美国西雅图华盛顿大学机械工程系留学，于2012年3月获得博士学位，从2012年3月至9月在美国德克萨斯大学奥斯汀分校从事博士后研究工作。2012年9月公派期满回国，回到浙江大学浙江加州国际纳米技术研究院继续从事博士后研究工作，于2014年10月出站留校工作，任助理研究员。
+&nbsp;&nbsp;&nbsp;马梁博士的研究领域包括利用三维打印和三维细胞技术培养构建体外组织器官系统来开展一系列的生理病理学机制研究。从2010年起，马梁博士在生物材料与生物制造领域国际知名期刊Biomaterials、Biofabriation、BiomedicalMicrodevices等期刊发表过重要论文，至今以第一和共同作者的身份发表10余篇SCI论文，被引用30余次。目前在研方向包含以下几个：1.胶质母细胞瘤三维侵袭模型的构建及其侵袭机制的探究；2.卵泡体外三维模型的构建及其体外诱导成熟的研究；3.乙肝病毒侵染人工肝模型的构建及其机制的研究。
+&nbsp;&nbsp;&nbsp;&nbsp;马梁博士的研究思路为：开闸交叉学科研究，综合发挥各个专业的学科优势和创新能力，从生物学医学中提出问题，利用材料学机械学来寻求解决方案，最终再回到生物医学中。综合3D打印、微流体、肿瘤学、妇产科学、生物材料学知识开展生物医学机制的研究。
+目前在研项目主要分为以下几个方向：
+1.神经胶质瘤体外三维培养模型的构建及其侵袭机制的研究
+2.人工肝以及HBV感染模型的构建
+3.卵巢颗粒细胞三维培养模型的构建及卵巢衰老的机制研究
+4.3D打印人造卵泡及卵母细胞体外成熟的机理研究
+
+			
+				
+			工作研究领域
+			
+			
+
+			
+				
+			联系方式
+			
+			电话：0571-88208348			电子信箱：liangma@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：马梁
+		单位：浙江加州国际纳米技术研究院
+		职称：中级
+		我的主页共被访问了1922次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+	专利成果
+	出版著作
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	DrWeiLiGroup
+浙江加州国际纳米技术研究院
+系统生物学平台
+浙江大学3D打印实验室
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

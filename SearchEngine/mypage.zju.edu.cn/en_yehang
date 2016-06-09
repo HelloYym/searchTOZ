@@ -1,0 +1,263 @@
+
+
+
+
+
+HangYe'sHomepage-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0095442";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	HangYe'sHomepage
+Usingsciencetodiscoverhumanity.
+
+	Permanentlink:http://mypage.zju.edu.cn/en/yehang&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			Blog
+
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			&nbsp;
+varwidths=305;
+varheights=210;
+varcounts=14;
+img1=newImage();img1.src='http://person.zju.edu.cn/attachments/2010-12/07-1291191850-629997.jpg';
+img2=newImage();img2.src='http://person.zju.edu.cn/attachments/2010-11/07-1290928896-629795.jpg';
+img3=newImage();img3.src='http://person.zju.edu.cn/attachments/2010-12/07-1291191868-630000.jpg';
+img4=newImage();img4.src='http://person.zju.edu.cn/attachments/2010-12/07-1291191875-630001.jpg';
+img5=newImage();img5.src='http://person.zju.edu.cn/attachments/2010-12/07-1291139538-629976.jpg';
+img6=newImage();img6.src='http://person.zju.edu.cn/attachments/2010-12/07-1291143186-629980.jpg';
+img7=newImage();img7.src='http://person.zju.edu.cn/attachments/2010-12/07-1291191883-630002.jpg';
+img8=newImage();img8.src='http://person.zju.edu.cn/attachments/2010-12/07-1291191892-630003.jpg';
+img9=newImage();img9.src='http://person.zju.edu.cn/attachments/2010-12/07-1291191914-630006.jpg';
+img10=newImage();img10.src='http://person.zju.edu.cn/attachments/2010-12/07-1291191905-630005.jpg';
+img11=newImage();img11.src='http://person.zju.edu.cn/attachments/2010-12/07-1291381245-630166.jpg';
+img12=newImage();img12.src='http://person.zju.edu.cn/attachments/2010-12/07-1291139552-629979.jpg';
+img13=newImage();img13.src='http://person.zju.edu.cn/attachments/2010-12/07-1291191857-629998.jpg';
+img14=newImage();img14.src='http://person.zju.edu.cn/attachments/2010-12/07-1291139533-629975.jpg';
+url1=newImage();url1.src='http://person.zju.edu.cn/attachments/2010-12/07-1291191850-629997.jpg';
+url2=newImage();url2.src='http://person.zju.edu.cn/attachments/2010-11/07-1290928896-629795.jpg';
+url3=newImage();url3.src='http://person.zju.edu.cn/attachments/2010-12/07-1291191868-630000.jpg';
+url4=newImage();url4.src='http://person.zju.edu.cn/attachments/2010-12/07-1291191875-630001.jpg';
+url5=newImage();url5.src='http://person.zju.edu.cn/attachments/2010-12/07-1291139538-629976.jpg';
+url6=newImage();url6.src='http://person.zju.edu.cn/attachments/2010-12/07-1291143186-629980.jpg';
+url7=newImage();url7.src='http://person.zju.edu.cn/attachments/2010-12/07-1291191883-630002.jpg';
+url8=newImage();url8.src='http://person.zju.edu.cn/attachments/2010-12/07-1291191892-630003.jpg';
+url9=newImage();url9.src='http://person.zju.edu.cn/attachments/2010-12/07-1291191914-630006.jpg';
+url10=newImage();url10.src='http://person.zju.edu.cn/attachments/2010-12/07-1291191905-630005.jpg';
+url11=newImage();url11.src='http://person.zju.edu.cn/attachments/2010-12/07-1291381245-630166.jpg';
+url12=newImage();url12.src='http://person.zju.edu.cn/attachments/2010-12/07-1291139552-629979.jpg';
+url13=newImage();url13.src='http://person.zju.edu.cn/attachments/2010-12/07-1291191857-629998.jpg';
+url14=newImage();url14.src='http://person.zju.edu.cn/attachments/2010-12/07-1291139533-629975.jpg';
+varnn=1;
+varkey=0;
+functionchange_img()
+
+elseif(document.all)
+
+eval('document.getElementById("pic").src=img'+nn+'.src');
+eval('document.getElementById("url").href=url'+nn+'.src');
+for(vari=1;i<=counts;i++)
+document.getElementById("xxjdjj"+nn).className='bxx';
+nn++;if(nn>counts)
+tt=setTimeout('change_img()',4000);}
+functionchangeimg(n)
+document.write('');
+document.write('.axx');
+document.write('a.axx:link,a.axx:visited');
+document.write('a.axx:active,a.axx:hover');
+document.write('.bxx');
+document.write('a.bxx:link,a.bxx:visited');
+document.write('a.bxx:active,a.bxx:hover');
+document.write('');
+document.write('');
+document.write('');
+document.write('');
+for(vari=1;i'+i+'');}
+document.write('');
+change_img();
+ZHEJIANGUNIVERSITY&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Prof.HangYe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ph.D.AdvisorofEconomics&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DeanofDepartmentofEconomics,&nbsp;CollegeofEconomics&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DirectorofInterdiciplinaryCenter&nbsp;forSocialSciences(ICSS)Interests&nbsp;&nbsp;&nbsp;&nbsp;BehavioralEconomics,ExperimentalEconomics,EvolutionaryGame&nbsp;&nbsp;&nbsp;&nbsp;Theory,EvolutionaryDynamicsandSocialSimulation.&nbsp;UsingSciencetoDiscoverHumanity&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sympathy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Trust&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Prosocial&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Altruism&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Morality&nbsp;&nbsp;&nbsp;
+			
+				
+			Contact
+			
+			Phone:86-571-88273468
+			E-mail:hangye@zju.edu.cn
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:&nbsp;HangYe
+		Units:&nbsp;CollegeofEconomics
+		Title:&nbsp;Professor
+		Myhomepagehasbeenvisited132430times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+Research
+Articles
+Books
+Teaching
+Speech
+Photos
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	ZhejiangUniversity
+SantaFeInstitute
+Science
+Nature
+HangYe'sWebsite
+
+
+
+Youarevisitor:132430
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

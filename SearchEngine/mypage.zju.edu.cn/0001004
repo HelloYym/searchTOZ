@@ -1,0 +1,206 @@
+
+
+
+
+
+工作研究领域-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0001004";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	工作研究领域
+
+
+	永久链接:http://mypage.zju.edu.cn/0001004&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+				
+			工作研究领域
+			
+			近几年研究简历：
+1、质子交换膜燃料电池微型电网系统中的电力电子变换与控制，国家自然科学基金面上项目，项目编号：50877072；2009年1月～2011年12月，本人排名3/10
+2、质子交换膜燃料电池微型电网系统，863项目，项目编号2007AA05Z243，2007年12月1日～2010年11月30号，本人排名6/13
+3、燃料电池不停电电源（FC-UPS）,I20080082,台达基金重大项目，2008年5月～2011年4月，本人排名2/11。
+4、2006.1～2008.12，第二参加者,参加国家自然科学基金面上项目“基于三次谐波注入法的谐波抑制技术”，负责内容：电力有源滤波器的控制方法和有源方案。
+5、2004～2005年，项目负责人,承担两项横向课题，课题内容主要为解决彩灯控制器的谐波电流和传导噪声发射问题；
+6、2004年～2006年，项目负责人,承担浙江省教育厅项目，该项目主要为探索电力电子装置中变压器的传导噪声模型和EMC优化设计；
+
+			
+				
+			联系方式
+			
+			电话：0571-87952247			电子信箱：zhhcpp@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：谌平平
+		单位：电气工程学院应用电子学系
+		职称：讲师
+		我的主页共被访问了6533次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

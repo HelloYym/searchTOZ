@@ -1,0 +1,208 @@
+
+
+
+
+
+刘正伟的个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0004148";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	刘正伟的个人主页
+
+
+	永久链接:http://mypage.zju.edu.cn/lzw&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;&nbsp;刘正伟，江苏省淮阴人，1996年考入杭州大学教育史专业，后获得浙江大学教育学博士学位。2001年9月起在南京师范大学从事博士后研究，2004年调入浙江大学工作，曾任淮阴师范学院中文系副主任，学校课程与教学论重点学科负责人，浙江大学教育学系主任，现任浙江大学教育学院副院长，教育部浙江大学基础教育课程研究中心副主任，课程与教学论专业硕士、博士生导师，学校课程与教学专业教育博士导师。主要兴趣在学校课程改革与发展、语文教育、教师教育、教育史等领域，曾被江苏省教委遴选为江苏省普通高校第二届跨世纪学术带头人培养人选，入选浙江省151人才第二层次培养对象。先后主持江苏省教育厅人文社会科学研究重点课题《江苏教育近代化研究》，全国教育科学&ldquo;十五&rdquo;规划教育部青年专项《西方道德教育理论在近代中国的传播》、全国教育科学&ldquo;十一五&rdquo;教育部重点课题《现代性：语文教育的百年价值诉求》、浙江省哲学社会科学规划重点课题《20世纪中国课程史研究》、浙江省哲学社会科学规划重点课题《夏丏尊全集》（省文化工程）等项目研究。在《教育研究》、《高等教育研究》、《教育发展研究》、《教育理论与实践》、《上海教育科研》、《上海师范大学学报》、《中学语文教学》等专业期刊发表学术论文50余篇，其中被人大复印报刊资料《教育学》、《中学语文教学》专题全文复印10余篇；出版学术专著《督抚与士绅：江苏教育近代化研究》、《马相伯》（与薛玉琴合作）、《世纪之理想：中国近代义务教育研究》（与田正平先生合作）、《语文教育展望》（与倪文锦等先生合作）、《国际语文课程与教学比较》等多种，其中《督抚与士绅：江苏教育近代化研究》获得江苏省第八届哲学社会科学优秀成果三等奖。
+			
+				
+			工作研究领域
+			
+			学校课程改革与发展，语文教育，教育史
+			
+				
+			联系方式
+			
+			电话：0571—88273473			电子信箱：nsliuzhengwei@sohu.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：刘正伟
+		单位：浙江大学教育学院
+		职称：教授
+		我的主页共被访问了8135次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	出版著作
+	研究成果
+	发表论文
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

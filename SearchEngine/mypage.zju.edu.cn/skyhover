@@ -1,0 +1,277 @@
+
+
+
+
+
+王进的个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0008403";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	王进的个人主页
+老河山人
+
+	永久链接:http://mypage.zju.edu.cn/skyhover&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+
+<spanstyle="font-size:12.0pt;font-family:楷体_GB2312;mso-ascii-font-family:
+&quot;TimesNewRoman&quot;;mso-font-kerning:0pt">王进，男，汉族，1980年生，现为浙江大学副教授，作为项目负责人承担过国家青年自然科学基金、浙江省自然科学基金，浙江省公益性技术研究工业项目和中国博士后科学基金等项目。作为子课题和专题负责人承担过863课题、国家科技支撑计划课题、博士点基金（优先发展领域）项目、浙江省科技攻关优先主题项目等二十多项科研项目。
+
+&nbsp;
+
+&nbsp;研究方向
+
+1.柔性产品快速创意设计方法及三维CAD研发
+&nbsp;&nbsp;（1）特征基因驱动的柔性产品风格化设计方法研究；
+&nbsp;&nbsp;（2）基于文化元素传承与演化的三维柔性产品创意设计技术及应用研究；
+&nbsp;&nbsp;（3）意象驱动的柔性产品多元进化设计方法及在动漫玩具定制中的应用研究
+&nbsp;
+
+2.产品智能制造单元（工业机械手）
+&nbsp;&nbsp;（1）工业机器人本体零部件集成、优化与测试
+&nbsp;&nbsp;（2）工业机器人项目规划、设计与调试
+&nbsp;&nbsp;（3）ROS开源机器人操作系统应用开发
+&nbsp;&nbsp;（4）多机器人协调力位控制模块研发
+
+&nbsp;
+3.产品旋压成形机理及装备
+
+
+&nbsp;（1）复杂薄壁曲面件复合型精密旋压关键技术研究
+&nbsp;（2）复杂曲面件精密旋压成形关键技术及系列专机研发
+&nbsp;
+
+
+
+
+
+
+
+
+
+
+4.IC封测技术及装备
+
+&nbsp;（1）多工位测试及编带一体机
+&nbsp;（2）四工位自动分选系统
+
+&nbsp;
+经历：
+&aelig;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1995.09-1998.07，&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江省东阳中学就读高中
+&aelig;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1998.09-2003.07，&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江大学机械电子工程专业攻读学士学位
+&aelig;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2003.09-2008.09，&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江大学机械设计及理论专业攻读博士学位
+&aelig;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;200810-2010.09&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江大学&nbsp;计算机科学与技术博士后流动站&nbsp;博士后
+&aelig;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;201010-2012.12&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江大学&nbsp;机械工程学系讲师
+&nbsp;
+所在科研团队
+&aelig;&nbsp;陆国栋教授/博士生导师，浙江大学本科生院常务副院长，浙江大学机械工程学系工程及计算机图学所副所长
+&nbsp;&nbsp;研究方向&nbsp;1、CAD/CG，主要为自由形态曲线曲面造型、模拟，包括三维服装CAD，三维动漫玩具CAD，三维鞋楦CAD，针织CAD等。2、数控专机，包括注塑机、天然气瓶加工数控专机、电火花成型机、电脑横机、电脑无缝内衣机、电脑高速丝袜机等针织装备、面向大批量复杂零件的复合数控机床等。3、数字样机、虚拟现实、web3D等。4、企业信息化、电子政务。
+&nbsp;其他详见http://me.zju.edu.cn/chinese/teacher_show.php?id=31
+&aelig;费少梅副教授
+&nbsp;&nbsp;研究方向：科学计算可视化，产品数字化设计，计算机图形学。承担国家自然科学基金项目、浙江省科技厅项目和企业合作项目11项。在国内外重要期刊发表学术论文30余篇。作为主要执笔者出版教材1本。
+&nbsp;其他详见http://me.zju.edu.cn/chinese/teacher_show.php?id=117
+
+&aelig;李基拓副教授
+&nbsp;&nbsp;研究方向：CAD/CG
+
+&nbsp;
+			
+				
+			工作研究领域
+			
+			主要从事CAD/CG技术研究及三维产品数字化设计软件系统开发、机械结构及优化设计、机电一体化等，具体包括
+
+			
+				
+			联系方式
+			
+			电话：0571-87951273			电子信箱：dwjcom@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：王进
+		单位：机械工程学系
+		职称：副教授
+		我的主页共被访问了3705次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	出版著作
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	杭州思锐网络有限公司
+杭州力孚信息科技有限公司
+可乐坊
+机械工程学系
+杭州新松机器人自动化有限公司
+杭州长川科技有限公司
+兰溪市海德机床制造有限公司
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

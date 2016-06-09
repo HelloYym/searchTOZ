@@ -1,0 +1,214 @@
+
+
+
+
+
+HeFang-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0015136";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	HeFang
+
+
+	Permanentlink:http://mypage.zju.edu.cn/en/hefang&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			&nbsp;
+ProfessionalExperience
+2015.7-present,Lecturer,OceanCollege,ZhejiangUniversity,China
+2015.4-2015.7，ResearchFellow,DHI-NTUCentre,NEWRI,NanyangTechnologicalUniversity,Singapore
+2014.9-2015.3，Researcher,TianjinResearchInstituteforWaterTransportEngineering,MinistryofTransport,China
+2013.6-2014.9，ResearchAssociate/ResearchFellow,SchoolofCivilandEnvironmentalEngineering,NanyangTechnologicalUniversity,Singapore
+&nbsp;
+EducationalBackground
+2009.8-2014.2，Ph.D.,NanyangTechnologicalUniversity,Singapore
+2007.9-2009.6，M.E.,TianjinUniversity,China
+2003.9-2007.6，B.E.,HuazhongUniversityofScienceandTechnology,China
+
+&nbsp;
+ResearchInterests
+Marinehydrodynamics
+Waveenergyextraction
+Wave-bodyinteraction
+Floatingstructure
+Coastalandoceanengineering
+Submarinepipelinescouring
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Createdon16-07-2015
+			
+				
+			Contact
+			
+			Phone:
+			E-mail:hefang@zju.edu.cn
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:HeFang
+		Units:OceanCollege
+		Title:Lecturer
+		Myhomepagehasbeenvisited103times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+Publications
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	
+
+
+Youarevisitor:103
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

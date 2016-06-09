@@ -1,0 +1,211 @@
+
+
+
+
+
+童若锋教授-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0096114";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	童若锋教授
+
+
+	永久链接:http://mypage.zju.edu.cn/0096114&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;童若锋，男，1969年4月出生，浙江大学计算机学院教授，博士生导师。浙江大学计算机学院计算机科学与工程系主任，浙江大学计算机学院CAD&amp;CG国家重点实验室副主任，中国计算机学会学术工作委员会委员，中国应用数学学会几何设计专委会副主任，中国图像图形学会计算机动画与数字娱乐专委会员。1996年浙江大学应用数学专业博士毕业，1999年10月至2001年9月日本广岛大学智能系统与造型实验室访问学者。承担了&ldquo;基于视频素材分析与融合的虚拟场景生成技术与系统&rdquo;、&ldquo;几何形状的修复和重建方法研究&rdquo;等863、973和国家自然科学基金的研究，并正在与Intel、Qualcomm等国际知名公司开展项目合作。研究兴趣包括：计算机图形学与辅助设计，医学图像重建，虚拟现实。
+&nbsp;
+更详细介绍见实验室网站:http://give.zju.edu.cn
+&nbsp;
+			
+				
+			工作研究领域
+			
+			计算机图形学与辅助设计，医学图像重建，虚拟现实
+			
+				
+			联系方式
+			
+						电子信箱：trf@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：童若锋
+		单位：计算机科学与技术学院计算机科学与工程学系
+		职称：教授
+		我的主页共被访问了14157次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	研究成果
+	奖励荣誉
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,209 @@
+
+
+
+
+
+段治文-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0090015";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	段治文
+
+
+	永久链接:http://mypage.zju.edu.cn/0090015&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;段治文，男，历史学博士，浙江大学思想政治理论教学科研部（马克思主义学院）教授、博士生导师，当代中国政治研究所所长。
+&nbsp;&nbsp;&nbsp;兼任国务院发展研究中心《中国经济时报》特邀撰稿人、浙江省中国特色社会主义理论研究中心特约研究员、浙江省中国近现代史纲要教学研究会会长、浙江省科学社会主义学会副会长、浙江省中共党史学会副会长、浙江省马克思主义理论学会常务理事、全国国际共运史学会理事、中国统一战线理论研究会理事等。
+&nbsp;&nbsp;&nbsp;主要从事马克思主义中国化研究、中国近现代史基本问题研究。
+&nbsp;&nbsp;&nbsp;已在《历史研究》、《马克思主义研究》、《中共党史研究》、《天津社会科学》、《学术月刊》、《浙江大学学报》等刊物发表学术论文100余篇，出版了学术专著和教材20余部。【代表性专著有：《中国近代科技文化史论》（浙江大学出版社1996）、《中国现代科学文化的兴起》（上海人民出版社2001）、《当代中国的科技文化变革》（浙江大学出版社2006）、《科学与近代中国》（高等教育出版社2004）、《中国现代化进程》（浙江大学出版社2007）、《中国近现代史基本问题研究》（浙江大学出版社2010）、《中国近现代科技思潮的兴起与变迁（1840-2000）（浙江大学出版社2012）；主编的代表性教材有：《科学社会主义理论与实践》（上海人民出版社2001）、《中国化的马克思主义理论概论》（浙江大学出版社2006）、《浙江精神与浙江发展》（浙江大学出版社2013）等】
+&nbsp;&nbsp;&nbsp;曾获浙江省教学优秀成果一等奖和二等奖、浙江省哲学社会科学优秀成果三等奖、教育部思政理论课&ldquo;精彩一课&rdquo;奖；还获得全国宝钢优秀教师奖、浙江省第五届&ldquo;青年英才&rdquo;奖、浙江省&ldquo;教书育人&rdquo;先进个人、浙江大学&ldquo;教书育人&rdquo;十大标兵、浙江大学首届教学名师等荣誉奖项，多次获浙江大学优秀青年教师称号。
+			
+				
+			工作研究领域
+			
+			中国近现代思想文化史研究
+中国现代化问题研究
+			
+				
+			联系方式
+			
+			电话：0571-88273730			电子信箱：duanzhw888@126.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：段治文
+		单位：思想政治理论教学科研部
+		职称：教授/博士生导师
+		我的主页共被访问了10803次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		发表论文
+	出版著作
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

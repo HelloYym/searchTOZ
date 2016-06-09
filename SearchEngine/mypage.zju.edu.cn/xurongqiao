@@ -1,0 +1,212 @@
+
+
+
+
+
+阿桥的主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0099176";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	阿桥的主页
+浙江大学建筑工程学院徐荣桥
+
+	永久链接:http://mypage.zju.edu.cn/xurongqiao&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			徐荣桥，男，1972年1月出生，浙江慈溪人，教授，博导。1989年进入浙江大学工程力学系学习，1993年获工程力学学士学位，1996年获固体力学硕士学位。1996年在浙江大学土木系攻读博士学位，1999年毕业获固体力学博士学位，同年留校任教至今。2003年1月～2004年12月在日本长冈技术科学大学访问，2005年1月回国。2005年11月～2006年2月以及2007年7、8月在香港城市大学建设系访问。曾讲授浙江大学土木工程本科选修课《有限元导论》和桥隧专业硕士学位课《桥梁设计原理》，现主讲桥隧专业硕士学位课《结构分析的有限元法》。主讲土木工程创新班双语课程《弹性力学》和土木工程博士生学位课《弹性力学变分原理及其应用》。主持国家自然基金面上项目3项，教育部留学回国启动基金1项，参加国家自然科学基金项目5项，国家自然科学基金重大项目1项，参与编写《VisualC++4.0程序设计》和《Three-DimensionalProblemsinPiezoelasticity》，独立编著《结构分析的有限元法和MATLAB程序设计》。完成SCI论文40篇，EI论文2篇，H指数为13，他引400多次。现为国际计算力学学会(IACM)会员，中国力学学会注册会员，主要从事组合桥梁结构分析、智能材料与结构、FRP加固混凝土结构、桥梁施工控制与优化、桥梁信息管理软件开发等方面的研究工作。
+&nbsp;
+			
+				
+			工作研究领域
+			
+			智能结构分析与优化；组合桥梁结构分析；桥梁信息管理系统开发；自供能桥梁结构健康检测系统；
+			
+				
+			联系方式
+			
+			电话：88206843			电子信箱：xurongqiao@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：徐荣桥
+		单位：建筑工程学院土木工程学系
+		职称：教授
+		我的主页共被访问了13322次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	学术交流（讲座报告）
+	奖励荣誉
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

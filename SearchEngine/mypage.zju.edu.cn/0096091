@@ -1,0 +1,214 @@
+
+
+
+
+
+个人简介-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0096091";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	个人简介
+
+
+	永久链接:http://mypage.zju.edu.cn/0096091&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			现为浙江大学教授、博导。1998年4月浙江大学电气工程一级学科博士后出站。1998年3月晋升为副教授、2001年12月晋升为教授、2002年10月晋升为博导。长期从事电磁场分析和综合的计算理论和方法研究。近五年来先后承担包括3项国家自然科学基金、2项863国家高科技发展基金、3项省部级科研课题和4项国际合作课题在内的15余项科研课题的研究工作。先后8次受境外科学研究基金资助，应邀赴香港、巴西美国等进行合作研究；已经发表学术论文150余篇，其中发表在国际著名学术刊物包括IEEE磁学会刊上的学术论文80余篇并被SCI收录，EI收录学术论文70余篇；作为第一完成人的&ldquo;电磁场逆问题分析、计算的数值计算理论和方法研究&rdquo;研究成果获得教育部2007年度高等学校科学技术奖（自然科学奖）一等奖。
+主要学术兼职：
+1.&nbsp;&nbsp;国际电磁场计算学会执行委员会委员（BoardMemberofCOMPUMAG）
+2.&nbsp;&nbsp;国际应用电磁学与力学计算会议国际指导委员会委员（InternationalSteeringCommitteeofISEM）
+3.&nbsp;&nbsp;中国电工技术学会理论电工专业委员会委员
+4.&nbsp;&nbsp;中国电工技术学会超导应用技术专业委员会委员
+5.&nbsp;&nbsp;中国电工技术学会第六届COMPUMAG联络办公室成员
+6.&nbsp;&nbsp;高等学校电磁场教学与教材研究会理事会副理事长
+			
+				
+			工作研究领域
+			
+			1、电磁场分析与综合
+2、电气设备耦合物理场的数值分析和计算
+3、电磁兼容数值分析和预测
+
+			
+				
+			联系方式
+			
+						电子信箱：shiyouyang@yahoo.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：杨仕友
+		单位：电气工程学院电工电子基础教学中心
+		职称：教授
+		我的主页共被访问了12752次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		发表论文
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

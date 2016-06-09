@@ -1,0 +1,207 @@
+
+
+
+
+
+浙江大学赵航芳教授-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0012062";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	浙江大学赵航芳教授
+宁静淡泊
+
+	永久链接:http://mypage.zju.edu.cn/zhf_zju&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1991年7月毕业于西安电子科技大学电子工程系，获学士学位；1997年7月毕业于哈尔滨工程大学水声工程系，获硕士学位；2010年9月毕业于浙江大学信电系，获博士学位。自1991年8月起在中国船舶重工集团公司第七一五研究所工作，主要从事水声工程和声信号处理工作。2012年9月进入浙江大学从事教学和科研工作。
+&nbsp;&nbsp;&nbsp;&nbsp;2007年入选浙江省新世纪151人才工程第三层次培养人员。
+&nbsp;&nbsp;&nbsp;&nbsp;承担本科生&ldquo;信号谱分析&rdquo;课程教学工作。
+&nbsp;&nbsp;&nbsp;&nbsp;主要研究领域为统计与阵信号处理，声信号处理和水声工程。主持或参与国家973项目、科技部530项目、科技部863项目等多个项目。
+			
+				
+			工作研究领域
+			
+			统计与阵信号处理、声信号处理、水声工程
+			
+				
+			联系方式
+			
+			电话：87952117			电子信箱：hfzhao@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：赵航芳
+		单位：信息与电子工程学系
+		职称：教授
+		我的主页共被访问了654次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

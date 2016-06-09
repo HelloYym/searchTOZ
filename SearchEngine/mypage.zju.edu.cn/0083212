@@ -1,0 +1,204 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0083212";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0083212&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			汉族，浙江省杭州人，1961年3月出生，副教授。1983年9月参加工作，1984年7月加入中国共产党，原杭州大学历史系毕业。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1979年9月至1983年7月，原杭州大学历史系学习；1983年月至1987年5月在原杭州大学历史系工作，任系团总支书记；1987年5月至1992年10月，在原杭州大学团委工作，任校团委副书记；1992年10月至1996年1月，任原杭州大学团委书记，兼校党委学工部副部长；1996年1月至1998年1月，在温州市苍南县政府挂职锻炼；1998年1月至1998年9月，任原杭州大学政治理论教育部党总支书记；1998年9月并校以后，1999年12月至2001年6月，任浙江大学西溪校区党工委副书记、管委会副主任；2001年6月至今，任浙江大学人文学院党委副书记。
+LvGuohua
+ViceSecretaryofthebranchoftheCPCoftheSchoolofHumanities
+&nbsp;LvHuaguo,male,wasborninHangzhou,ZhejianginMarch,1961.Heisnowanassociateprofessor.HebegantoworkinSeptember1983andjoinedtheCommunistPartyofChinainJuly1984.HegraduatedfromtheHistoryDepartmentofformerHangzhouUniversity.
+&nbsp;FromSeptember1979toJuly1983,hewasstudyingintheHistoryDepartmentofformerHanghzouUniversityandthenstayedon.
+From1983to1987,heheldtheofficeofthesecretaryoftheYouthLeagueBranchoftheDepartment.
+From1987to1992,heheldtheofficeofthevicesecretaryoftheYouthLeagueBranchoftheformerHangzhouUniversity.
+From1992to996,heheldtheofficeofthesecretaryoftheYouthLeagueBranchoftheformerHangzhouUniversity.
+FromJanuary1996toJanuary1998,hewasdispatchedtoCangnanGovernmentofWenzhou.
+FromJanuary1998toSeptember1998,hewasthesecretaryofthePoliticalandTheoreticalDepartmentofHangzhouUniversity.
+FromJune2001on,heisholdingtheofficeofthevicesecretaryoftheSchoolofHumanites.
+			
+					
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：吕国华
+		单位：传媒与国际文化学院
+		职称：高级政工师
+		我的主页共被访问了5779次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

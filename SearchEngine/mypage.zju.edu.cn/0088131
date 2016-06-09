@@ -1,0 +1,209 @@
+
+
+
+
+
+盛德仁-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0088131";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	盛德仁
+
+
+	永久链接:http://mypage.zju.edu.cn/0088131&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			浙江大学热工与动力系统研究所副所长、教授，浙江省电机动力学会理事、汽轮机分会副主任，浙江省电力学会汽轮机专委会副主任委员。
+从事汽轮机、燃气轮机动力循环特性研究，汽轮发电机组故障诊断与预测、汽轮机组状态监测、汽轮机优化运行、两相流光学测量技术研究，工业流程伴生能源梯级利用研究等。已在国内外学术期刊上发表论文100余篇，授权6项发明专利。
+
+1979-1982年：浙江工业大学学习；
+1982-1985年：杭州汽轮机股份有限公司工业汽轮机研究所工作，参与工业汽轮机设计和新产品研发工作；
+1985-1988年：西安交通大学能源与动力工程系，硕士研究生，从事汽轮机湿蒸汽两相流的理论分析与激光测量技术研究；&nbsp;
+1988年至今：浙江大学能源工程学院任教。
+
+
+			
+				
+			联系方式
+			
+			电话：87951492			电子信箱：ShengDR@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：盛德仁
+		单位：能源工程学院
+		职称：教授
+		我的主页共被访问了13596次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

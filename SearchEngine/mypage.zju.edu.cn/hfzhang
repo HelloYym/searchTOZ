@@ -1,0 +1,213 @@
+
+
+
+
+
+张海峰-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0011090";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	张海峰
+
+
+	永久链接:http://mypage.zju.edu.cn/hfzhang&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;&nbsp;张海峰博士现为浙江大学公共管理学院副教授，求是青年学者（2012）、浙江省之江青年社科行动计划学者（2013），兼任浙江大学劳动保障与社会政策研究中心（LEPP）秘书长。近年来主持国家自然科学基金、教育部人文社科基金、浙江省自然科学基金、浙江省社科规划项目、浙江省软科学等课题多项，研究成果发表于《经济研究》、《管理世界》、《教育研究》等国内权威期刊以及JournalofComparativeEconomics、ChinaEconomicReview、AppliedEconomicsLetters等国际SSCI期刊，研究成果获教育部高等学校科学研究（人文社会科学）优秀成果奖二等奖等奖励多项。
+&nbsp;&nbsp;&nbsp;研究领域：劳动经济与公共政策、发展经济学、教育经济。
+&nbsp;&nbsp;&nbsp;主讲课程：《公共政策分析》（本科生）和《劳动经济学》（研究生）。
+
+联系方式:
+
+地址：杭州市西湖区余杭塘路866号浙江大学公共管理学院，310058
+电话：0571-56662087
+邮箱：hfzhang@zju.edu.cn,hfzhangzju@163.com
+
+&nbsp;
+			
+					
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：张海峰
+		单位：公共管理学院
+		职称：
+		我的主页共被访问了11859次
+标签：应用经济，中国经济，政策分析	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	研究成果
+	研究进展
+	研究项目
+	奖励荣誉
+	资源链接
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	浙江大学
+浙江大学公共管理学院
+浙江大学LEPP中心
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

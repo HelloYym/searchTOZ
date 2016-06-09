@@ -1,0 +1,209 @@
+
+
+
+
+
+夏莹杰个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0014172";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	夏莹杰个人主页
+YingjieXia'shomepage
+
+	永久链接:http://mypage.zju.edu.cn/xiayingjie&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			主持国家自然科学基金面上项目、国家自然科学基金青年项目、国家物联网专项、国家科技部创新基金、浙江省杰出青年基金项目、浙江省重大科技计划项目、浙江省重大科技平台项目，浙江省国际合作项目，浙江省科技计划面上项目、地方重大招标项目等，总经费超过3000万，形成多款应用系统和产品。
+在TKDE、TIE、TIP、TMM、InformationSciences、Neurocomputing等国内外知名期刊和会议上发表论文近80篇，其中SCI论文近30篇，作为第一作者或通讯作者发表SCI论文20多篇；授权发明专利5项，获得软件著作权5项。
+主持研发的&ldquo;基于可信计算的无线网络边界安全接入技术研究&rdquo;，在公安、交警和车联网系统中得到应用，转化产值近3000万，获浙江省科技进步三等奖和杭州市科技进步三等奖。在数据质量保障和抗差处理方面的研究获得浙江省中青年学科带头人，浙江省杰出青年基金获得者（最年轻的获得者），杭州市&ldquo;131&rdquo;人才第二层次等荣誉。
+			
+				
+			工作研究领域
+			
+			信息安全，高性能计算，车联网安全
+			
+				
+			联系方式
+			
+						电子信箱：xiayingjie@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：夏莹杰
+		单位：计算机科学与技术学院
+		职称：
+		我的主页共被访问了2138次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		发表论文
+	专利成果
+	工作研究项目
+	奖励荣誉
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

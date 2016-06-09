@@ -1,0 +1,228 @@
+
+
+
+
+
+项志宇(zhiyuxiang)-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0004280";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	项志宇(zhiyuxiang)
+机器视觉和智能机器人的神奇世界
+
+	永久链接:http://mypage.zju.edu.cn/xiangzy&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2002于浙江大学信电系获通信与信息系统专业博士学位。2002-2003：葡萄牙阿威罗大学机械工程与自动化研究中心机器人实验室博士后；2003-2004：美国俄亥俄州立大学电子与计算机工程系博士后；2004.10-&nbsp;&nbsp;现在&nbsp;：浙江大学引进人才，副教授。2014.1起任信息与通信工程研究所副所长。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;近年来主持国家自然科学基金面上项目2项，国防973专题及浙江省自然科学基金等其他省部项目多项。在国际国内学术杂志和相关国际会议上发表SCI，EI收录论文四十余篇。兼任国际学术期刊《Sensors》，《IETcomputervision》及国内《光学学报》《上海交通大学学报》等多家一级杂志在内的审稿人。中国计算机学会会员。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+&nbsp;研究方向：
+1）计算机视觉，包括相机模型与标定、三维重建、目标跟踪与分类等；
+2）多传感器信息融合的智能机器人环境感知技术，2D和3D信息处理在机器人导航中的创新应用。
+3）智能交通系统。多传感器融合在智能交通中的应用。
+
+
+&nbsp;
+========新闻更新=============
+2015.04一篇论文被MeasurementScienceandTechnology正式录用！
+2015.01一篇论文被IEEETRANSONINTELLIGENTTRANSPORTATIONSYSTEM正式录用为REGULARPAPER！祝贺曹腾同学！
+2014.06实验室研发的双目视觉里程计TLBBA算法成功进入KITTI评估数据库视觉算法排名第2，总体第5（前3为基于激光雷达的里程计）！详见http://www.cvlibs.net/datasets/kitti/eval_odometry.php
+2014.05团队共同完成的《基于机器视觉的月面巡视器环境感知与导航》项目成功入选浙江大学2013年度十大学术进展！详见科研成果栏目
+2014.01团队有两篇论文被机器人领域顶级会议ICRA2014录用！
+&nbsp;
+			
+				
+			联系方式
+			
+						电子信箱：xiangzy@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：项志宇
+		单位：信息与电子工程学系
+		职称：副教授
+		我的主页共被访问了35733次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	学术交流（讲座报告）
+	研究成果
+	专利成果
+	奖励荣誉
+	实验室介绍
+	实验室成员
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

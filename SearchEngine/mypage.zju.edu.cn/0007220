@@ -1,0 +1,202 @@
+
+
+
+
+
+刘永锋-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0007220";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	刘永锋
+
+
+	永久链接:http://mypage.zju.edu.cn/0007220&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			刘永锋，1977年10月生。博士，教授，博士生导师。1999年和2005年先后在浙江大学材料系获工学学士学位和博士学位(硕博连读)，博士毕业后赴新加坡国立大学物理系从事博士后研究工作，2007年进入浙江大学材料系工作，主要从事储氢材料的基础理论及其应用研究。在高容量储氢电极合金体系创制、合金电极循环容量衰退机制研究以及金属配位氢化物储氢材料的脱/加氢机理探索等方面取得了一系列重要的研究成果。先后负责/参加了来自于国家自然科学基金委员会、科技部、国家留学基金委、浙江省科技厅等科研项目12项，获授权发明专利9项，受理发明专利12项；在J.Am.Chem.Soc.、Angew.Chem.Int.Ed.、EnergyEnviron.Sci.、Chem.Mater.、Chem.Eur.J.、Chem.Commun.、J.Mater.Chem.、J.Phys.Chem.、J.AlloysCompd.等国内外核心期刊上发表学术论文100余篇，其中90余篇被SCI收录，所发表论文被《SCI-Expanded》收录的110多种期刊的390多位作者引用总计1800余次，其中他人引用1400次，H因子为25。2009年，全国优秀博士学位论文提名奖；2010年，浙江省自然科学学术奖二等奖；2011年，浙江省高校优秀科研成果奖一等奖；杭州市青年科技奖；入选浙江省151人才工程和&ldquo;钱江人才&rdquo;计划；2012年获国家优秀青年科学基金资助。
+			
+				
+			工作研究领域
+			
+			储氢电极合金；储氢材料；Ni/MH二次电池；Li-ion电池电极材料
+			
+				
+			联系方式
+			
+			电话：87952615			电子信箱：mselyf@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：刘永锋
+		单位：材料科学与工程学系
+		职称：教授
+		我的主页共被访问了15705次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

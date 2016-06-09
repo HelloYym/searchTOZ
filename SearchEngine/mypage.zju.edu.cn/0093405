@@ -1,0 +1,212 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0093405";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0093405&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			1984年起从事血液学、造血干细胞移植的临床和基础研究。于1998年11月主持开展浙江省首例非亲缘异基因骨髓移植术，针对中国国情和人群特点，建立了非亲缘异基因骨髓移植的整体方案；至今共开展非亲缘异基因骨髓移植术120例，移植病人并发症的发病率低于国际上报道的平均水平，研究成果在全国范围内推广，具有一定的国际影响。同时承担了国家重点基础研究项目（973项目）、国家863计划合作项目、国家自然科学基金项目、省科技厅95攻关项目、省自然科学基金项目、省科技厅重点科研项目等10余项科研项目，在国内外发表论文80余篇，获国家科技进步二等奖一项、省科技进步一等奖一项、二等奖三项、三等奖四项。2002年浙江省&ldquo;五四青年&rdquo;奖章、2004年浙江省劳动模范荣誉称号获得者，浙江省151人才工程重点培养人员。
+			
+				
+			工作研究领域
+			
+			1.端粒酶逆转录酶和端粒调控蛋白的研究；
+2.造血干细胞移植的临床和基础研究；
+3.恶性血液病生物学特性和治疗机理的研究；
+4.间充质干细胞的基础及临床应用的研究。
+			
+				
+			联系方式
+			
+			电话：0571-87236706			电子信箱：hehuangyu@126.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：黄河
+		单位：临床医学一系
+		职称：教授
+		我的主页共被访问了11298次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	研究成果
+	专利成果
+	奖励荣誉
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

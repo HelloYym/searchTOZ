@@ -1,0 +1,202 @@
+
+
+
+
+
+杜健-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0006018";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	杜健
+浙江大学
+
+	永久链接:http://mypage.zju.edu.cn/dujian&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			专注于创新管理、外商直接投资与全球化制造战略领域并作了大量深入细致的前沿探索和实践调研。曾赴新加坡国立大学、英国剑桥大学、日本早稻田大学、丹麦哥本哈根商学院和奥尔堡大学参与相关领域的国际研讨会。在《AsianJournalofTechnologyInnovation》《InternationalJournalofInnovationandTechnologyManagement》、《InternationalJournalofBusinessResearch》、《中国工业经济》、《浙江大学学报》、《科研管理》、《财贸经济》、《国际贸易问题》等核心期刊及国际会议上发表论文近30篇，其中两篇被SSCI收录，两篇被EI收录，三篇被ISTP收录，并撰写著作4部，编著2部，参编书籍4部。主持国家自然科学基金青年基金一项，中国博士后基金一项，浙江省哲学社会科学规划项目一项，浙江省软科学计划项目一项，浙江省教育厅项目一项；参与国家自然基金面上课题及国际合作课题、教育部重点课题、浙江省哲学社会科学基金重大项目、浙江省科技厅重大招标项目等十余项省部级科研课题研究，获得省部级奖励3项。曾多次赴中兴集团、力帆集团、西子集团、吉利公司、波导集团、杭氧集团等企业以及浙江多个产业集群、苏州经济技术开发区、南京经济技术开发区、昆山经济技术开发区等国内几个典型经济园区的调研或咨询，在实践方面也积累了一定的基础。
+			
+				
+			工作研究领域
+			
+			技术创新管理，海外投资战略，全球制造网络
+			
+				
+			联系方式
+			
+						电子信箱：dujian@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：杜健
+		单位：管理学院管理科学与工程学系
+		职称：副教授
+		我的主页共被访问了358次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

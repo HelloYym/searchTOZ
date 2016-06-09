@@ -1,0 +1,217 @@
+
+
+
+
+
+刘润-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0004285";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	刘润
+材料光电化学
+
+	永久链接:http://mypage.zju.edu.cn/runliu&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			教育背景：
+&nbsp;华东理工大学化学系获学士学位(1988-1992),
+&nbsp;华东理工大学物理系获硕士学位(1992-1995),
+&nbsp;密苏里-罗拉大学(UniversityofMissouri-Rolla)化学系获博士学位并作博士后研究工作（1998-2004）
+工作经历：
+华东理工大学助教，讲师（1995-1998）
+2004.11-现在&nbsp;浙江大学化学系物理化学研究所,&nbsp;副教授，硕导。&nbsp;
+研究简介：
+主要从事材料电化学，半导体光电化学和功能材料薄膜与器件的研究。电沉积，外延生长，界面和表面光电化学，电化学法制备结构可控的薄膜,组装有序纳米结构并将其应用于光电器件,太阳能电池及光电催化等方面。已在J.&nbsp;Phys.Chem.B，Chem.&nbsp;Mater.,Appl.&nbsp;Phys.&nbsp;Lett.,CrystalGrowth&amp;Design&nbsp;等期刊上&nbsp;发表论文40余篇,论文他引达800余次。研究工作得到国家973重大科学研究计划，国家自然科学基金，浙江省自然科学基金，教育部博士点新教师基金及留学回国人员基金等资助，在此深表感谢。
+			
+				
+			工作研究领域
+			
+			1.材料电化学
+2.半导体光电化学
+3.功能材料薄膜与器件
+
+			
+				
+			联系方式
+			
+			电话：0571-87953390			电子信箱：runliu@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：刘润
+		单位：化学系
+		职称：副教授
+		我的主页共被访问了19557次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	发表论文
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	Prof.JayASwitzer
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

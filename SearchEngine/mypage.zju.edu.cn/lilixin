@@ -1,0 +1,220 @@
+
+
+
+
+
+从容过客-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0094045";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	从容过客
+
+
+	永久链接:http://mypage.zju.edu.cn/lilixin&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			李立新，男，1967年1月生，山西定襄人，工学博士，副教授。
+1985.9－1989.7，哈尔滨工业大学机械设计及制造专业就读本科。
+1989.7－1991.9，太原矿山机器厂工作。
+1991.9－1994.3，浙江大学机械设计及理论专业攻读硕士学位。
+1994.3－至今，浙江大学机械系任教。
+1996.9－2001.8，浙江大学机械设计及理论专业攻读博士学位。
+2006.9－2007.3，美国加州大学圣地亚哥分校访问。
+主要研究成果：研制两代真三维体积显示器；出版证伪狭义相对论专著一本；发表学术论文廿余篇。
+欢迎对机械设计、有限元分析、真三维显示等领域感兴趣的同学前来攻读硕士研究生!
+欢迎对真三维显示器产业化有兴趣的业界朋友前来实验室参观和恰谈!
+欢迎对思考时空真相有兴趣的同仁前来讨论！
+			
+				
+			工作研究领域
+			
+			
+
+			
+				
+			联系方式
+			
+			电话：13588753312			电子信箱：lilixin@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：李立新
+		单位：机械工程学系
+		职称：副教授
+		我的主页共被访问了2059次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	出版著作
+	专利成果
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	三维显示器简介
+证伪狭义相对论
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

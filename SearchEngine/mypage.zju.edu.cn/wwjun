@@ -1,0 +1,215 @@
+
+
+
+
+
+LandUsePolicy-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0095306";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	LandUsePolicy
+黑夜给了我黑色的眼睛，我却用它寻找光明...
+
+	永久链接:http://mypage.zju.edu.cn/wwjun&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			汪晖，1968年出生，博士，浙江大学公共管理学院土地管理系教授，浙江大学区域与城市发展研究中心副主任，北京大学-林肯研究院城市发展与土地政策研究中心研究员。长期从事土地政策、城市经济以及不动产经济方面的教学与研究，在《经济研究》、《管理世界》、《经济学季刊》、《中国农村经济》、《城市规划》、《China&amp;WorldEconomy》、《HabitatInternational》、《LandUsePolicy》、《HousingStudies》等学术杂志上发表论文三十多篇，著作多部，曾获首届中国农村发展研究一等奖、国土资源部土地规划成果一等奖，以及教育部、浙江省哲学社会科学规划办等机构多项奖励。
+联系方式：wanghuidn@zju.edu.cn
+			
+				
+			工作研究领域
+			
+			地区竞争、经济增长与土地政策；土地发展权转移与交易；中国征地制度；中国农地制度;农村建设用地制度
+			
+				
+			联系方式
+			
+						电子信箱：wanghuidn@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：汪晖
+		单位：公共管理学院土地管理系
+		职称：教授
+		我的主页共被访问了21683次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	土地政策评论
+	出版著作
+	学术交流（讲座报告）
+	奖励荣誉
+	研究动向
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	我的儿子汪致远
+北京大学-林肯研究院
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

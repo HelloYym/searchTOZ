@@ -1,0 +1,256 @@
+
+
+
+
+
+黄敬峰-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0000031";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	黄敬峰
+浙江大学环境与资源学院
+
+	永久链接:http://mypage.zju.edu.cn/hjf&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			浙江大学教授，博士生导师，现任浙江省农业遥感与信息技术重点研究实验室主任，浙江大学农业遥感与信息技术应用研究所所长。兼任中国自然资源学会理事，中国地理学会环境遥感分会理事，中国农学会农业气象分会理事。
+主持和参加国家自然科学基金、国家&ldquo;863&rdquo;、国家支撑等科研课题五十余项。获国家科技进步二等奖1项，省部级科技进步二等奖3项、三等奖4项、四等奖1项等。已在国内外权威学术刊物发表论文中，被SCI和EI收录53篇。编著出版《水稻遥感估产》、《冬小麦气象卫星综合遥感》、《草地遥感》等科技著作。
+已经毕业的博士研究生15名、硕士研究生4名，目前指导博士研究生12名、硕士研究生5名；主讲博士研究生课程《遥感信息模型》。
+
+			
+				
+			工作研究领域
+			
+			高光谱遥感、环境资源遥感、遥感信息模型、环境资源信息模型
+
+			
+				
+			联系方式
+			
+			电话：0571-88982830			电子信箱：hjf@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：黄敬峰
+		单位：环境与资源学院
+		职称：教授
+		我的主页共被访问了40412次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	奖励荣誉
+	实验室介绍
+	硕士
+	博士
+	遥感信息模型
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	FAO全球农业信息及其预警系统
+中国资源卫星应用中心
+国家遥感中心
+MODISdatapool
+北京气象数据共享
+山西气象数据共享
+内蒙古气象数据共享
+辽宁气象数据共享
+SusanL.Ustin
+LoriBruce
+Xin-ZhongLiang
+JohnJ.Qu
+HanqinTian
+ArmandoA.
+A.R.Huete
+AlanBlackburn
+GaoWei
+JingMingChen
+LiangShunlin
+QiJiaguo
+ZHANQINGLI
+中国自然资源学会
+饶毅博客
+华罗庚科普
+国家自然科学基金委
+科技部
+武汉大学测绘遥感国家重点实验室
+中国科学院遥感应用研究所
+天气在线
+国家卫星地面站
+国家农业信息化工程技术中心
+纪小龙博客
+对地观测中心
+jacquemoud
+mapprojection
+mapprojection1
+EarleR.Hunt
+中国气象数据共享网
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

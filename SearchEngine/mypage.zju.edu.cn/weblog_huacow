@@ -1,0 +1,334 @@
+
+
+
+
+
+黄运操-博客
+
+
+
+
+
+
+varctxPath="http://mypage.zju.edu.cn";
+varb_handle="huacow";
+varcfg_weblog="http://mypage.zju.edu.cn/weblog";
+vard=newDate()
+varselyear=d.getFullYear();
+varselmonth=d.getMonth()+1;
+
+
+
+
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	color:#111;
+	margin-right:10px;	
+}
+#mainlinkullia,.tagsa:hover{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+.tagsa{
+	margin-right:10px;
+}
+img{
+	border:none;
+}
+
+
+
+
+
+
+
+
+
+
+	
+		首页
+		帮助
+		登录
+	
+
+
+
+
+
+
+	黄运操
+海纳百川有容乃大壁立千仞无欲则刚
+
+	永久链接:http://mypage.zju.edu.cn/weblog/huacow&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+
+
+	中文主页
+			博客
+
+
+
+
+
+
+
+
+
+
+			
+				
+
+	
+[1/1]
+首页	上一页下一页末页
+
+	
+
+浏览模式:普通|列表
+
+
+
+
+
+
+		分享好文《32年高考状元未出顶尖人才》
+
+作者:黄运操日期:2011-05-03Tuesday
+
+
+
+来源：中国国际战略研究网　　2006年军队总政围绕&ldquo;影响军队自主创新能力的人因分析&rdquo;，对我军两院院士进行了一次问卷调查，有关智商因素列出了9项，院士们将&ldquo;想象力&rdquo;排在了诸要素之首。　　蔡言厚曾是中南大学教授，退休后任中国校友会...
+查看更多...
+
+Tags:
+借鉴分享
+	
+
+
+
+分类:分享|			固定链接|评论总数0|
+			阅读次数38
+
+
+
+
+
+
+
+		开博寄语
+
+作者:黄运操日期:2010-09-29Wednesday
+
+
+
+&ldquo;海纳百川，有容乃大；壁立千仞，无欲则刚&rdquo;这是出自民族英雄林则徐题于书室的一副自勉联，他要告诫自己，广泛听取各种不同意见，才能把事情办好，立于不败之地；同时砥砺自己，当官必须坚决杜绝私欲，才能象大山那样刚正不阿，挺立世间。这种精神应该发扬...
+查看更多...
+
+
+
+
+
+分类:分享|			固定链接|评论总数0|
+			阅读次数9
+
+
+			
+			
+		
+		
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+	
+	
+		姓名：黄运操
+		单位：生物医学工程与仪器科学学院团委
+		职称：政工师
+		我共发表了2篇文章
+		共收到0条评论
+		我的主页共被访问了198次
+	
+	
+	
+	
+
+
+我的文章分类
+
+	分享
+		
+忆海拾贝
+		
+时事
+		
+
+
+
+
+日历
+
+
+
+>>
+年月
+
+
+
+日
+一
+二
+三
+四
+五
+六
+
+
+
+
+
+
+
+
+
+
+
+我的最新文章
+
+
+		分享好文《32年高考状元...
+开博寄语
+	
+
+
+
+
+我的热点文章
+
+
+				分享好文《32年高考状元...
+		开博寄语
+
+	
+
+
+我收到的评论
+
+	
+	
+
+
+我的文章汇总
+
+		2011年5月[1]
+		2010年9月[1]
+		
+	
+
+
+链接
+
+
+
+
+
+
+检索
+
+
+
+
+-所有文章-
+分享
+忆海拾贝
+时事
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+
+
+varflag=newArray();
+flag[0]='2010/09/29';
+flag[1]='2011/05/03';
+
+
+varcale=newCalendar("idCalendar",{
+SelectDay:newDate(),
+onSelectDay:function(o),
+onToday:function(o),
+onFinish:function(){
+$("idCalendarYear").innerHTML=this.Year;$("idCalendarMonth").innerHTML=this.Month;
+for(vari=0,len=flag.length;i<len;i++){
+//alert(flag[i]);
+	vard=newDate(flag[i]);
+	if(this.Year==d.getYear()){
+		if(this.Month==d.getMonth()+1)
+		{
+this.Days[d.getDate()].innerHTML=""+d.getDate()+"";
+			
+		}
+
+	}
+}
+}
+});
+$("idCalendarPre").onclick=function()
+$("idCalendarNext").onclick=function()
+
+
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));

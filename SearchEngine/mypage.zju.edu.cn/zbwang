@@ -1,0 +1,261 @@
+
+
+
+
+
+王正宝教授主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0006050";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	王正宝教授主页
+ZhengbaoWang'sHomepage
+
+	永久链接:http://mypage.zju.edu.cn/zbwang&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			王正宝教授简介：
+王正宝博士，化学工程与生物工程学系教授，博导
+
+
+办公室电话：0571-87952391
+E-mail:zbwang@zju.edu.cn
+办公地点：联合化学反应工程研究所213房间
+
+
+常年招聘博士后研究人员，欢迎有志到浙大来从事分子筛催化及无机膜分离的博士到我们的研究组来！也欢迎年轻有为的优秀人才来我课题组工作！欢迎学生报考本课题组的博士生和硕士生，从事催化与分离膜的研究！研究生也有出国参加国际会议进行交流的机会！
+研究方向：
+无机膜（沸石分子筛膜）及催化新材料；渗透汽化膜分离，催化剂与催化反应研究
+&nbsp;&nbsp;&nbsp;新型沸石分子筛膜的研究与开发，沸石分子筛膜制备的新方法及新应用的研究；沸石分子筛及介孔材料在催化上的新应用及新催化材料的研究，研究并解决分子筛催化剂在工业化应用时所遇到的问题。加氢催化剂及其他催化剂的研究与开发。
+
+
+学习经历：
+84年9月-88年7月&nbsp;&nbsp;浙江大学化学系理学学士，连续三年获浙江大学一等奖学金，88年获&ldquo;浙江大学竺可桢奖学金&rdquo;
+88年9月-93年11月&nbsp;&nbsp;&nbsp;中国科学院大连化学物理研究所催化专业博士(直接攻博)&nbsp;&nbsp;导师:林励吾院士
+工作经历：
+93年12月-96年11月&nbsp;日本东京工业大学理学部化学科，博士后&nbsp;导师:Prof.Yashima
+96年12月-99年2月&nbsp;&nbsp;&nbsp;日本北陆先端科学技術大学院大学材料科学研究科，文部省教官
+99年3月-01年11月&nbsp;&nbsp;&nbsp;美国UniversityofCalifornia,Riverside(UCR)化学与环境工程系，访问学者
+01年12月-06年12月&nbsp;&nbsp;日本旭化成株式会社中央技术研究所，主任研究员
+06年12月&mdash;现在&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江大学化学工程与生物工程学系联合化学反应工程研究所，教授，博导
+
+主要学术成就：
+在做博士论文期间，研究了ZSM-5沸石分子筛催化剂上的低碳烃芳构化反应及机理。在东京工业大学做博士后期间，从事了Pt担载H-beta分子筛催化剂上正己烷和正庚烷的异构化研究。日本北陆先端科学技術大学院大学任助手时，进行了分子筛合成、修饰及表征方面的研究工作，还从事了分子筛膜的合成和评价研究，共发表论文20篇。
+在UCR期间，主要进行了分子筛薄膜（绝缘膜和防腐膜等）的合成和应用研究，发表学术论文20多篇，获美国专利3项。主要成就包括：成功地合成了有取向性MFI薄膜(国际领先)，发表在Chem.Mater.和Micropor.&amp;Mesopor.Mater.，共被引150次以上，并探讨了其在绝缘薄膜（Low-kfilm）方面的应用(国际首例)；用Spin-on法制备了分子筛薄膜,并考察了其在绝缘膜方面的应用(国际首创)，成果两次发表在AdvancedMaterials上，共被引300次以上；在铝片上合成的MFI分子筛膜可用作铝防腐膜(Electrochem.&amp;SolidStateLett.，被他引11次)；探讨了MFI分子筛微粒子的应用，成果发表在J.Am.Chem.Soc上，被引170次以上。
+在旭化成期间，先研究了分子筛绝缘薄膜，然后又研究开发了分子筛脱水分离膜，共申请了日本专利15项，还从事了沸石分子筛催化剂的研究开发。
+
+迄今共发表SCI收录论文60多篇、EI收录论文2篇，累计被引2000多次，SCI收录论文影响因子总和超过180。2009年发表了两篇JAmChemSoc（影响因子&gt;10.0）论文，在中空纤维分子筛脱水膜方面取得了重要进展，乙醇脱水的膜通量可达6-8kg/m2h，是日本三井造船公司的3-4倍；开发了氧化铝中空纤维上新的涂晶方法，并设计了聚合物与分子筛形成的复合中空纤维支撑体。最近，研究开发了具有高通量的氧化铝管分子筛膜的制备，有望用于工业应用。通过简单地控制模板剂TPAOH的用量，能很好地抑制b取向MFI晶种二次生长时a取向晶体的生长，从而获得高度b取向的MFI分子筛连续膜（2015年论文发表在德国应用化学会誌（AngewChemie，影响因子&gt;10.0和ChemCommun上）。在苯选择加氢催化剂研究上也取得了突出研究成果。
+&nbsp;
+
+科研项目
+&nbsp;
+1.沸石分子筛渗透汽化膜制备与应用研究,浙江省钱江人才项目,2008-2009
+2.变压吸附法及膜法回收氯甲烷技术研究,企事业单位委托科技项目,&nbsp;2008
+3.高水热稳定性沸石分子筛催化剂的研究,企事业单位委托科技项目,&nbsp;2008-2010
+4.复合支撑体法制备沸石分子筛膜,国家自然科学基金面上项目,&nbsp;2009-2011
+5.王正宝研究团队，浙江省杰出青年基金项目，2010-2012
+6.先进催化技术重点创新团队，浙江省科技厅，2010-2012
+7.丙烯直接氧化制丙烯酸的研究，企业委托科技项目，2011-2012
+8.高稳定性苯选择加氢负载型钌催化剂的设计与制备，国家自然科学基金面上项目，2012-2014
+9.低成本高性能沸石分子筛膜的构建与分离系统优化，国家自然科学基金重点项目，2013-2017
+
+&nbsp;
+			
+				
+			工作研究领域
+			
+			无机膜（沸石分子筛膜）及催化新材料；渗透汽化膜分离
+
+在化学工程与工业催化两个二级学科招收硕士和博士研究生，主要从事分离膜与催化材料及其反应性能研究
+
+			
+				
+			联系方式
+			
+			电话：0571-87952391			电子信箱：zbwang@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：王正宝
+		单位：化学工程与生物工程学系
+		职称：教授
+		我的主页共被访问了50094次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		发表论文
+	专利成果
+	实验室介绍
+	国际合作
+	NEWS
+	人员介绍
+	学术活动
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	YanYushan
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

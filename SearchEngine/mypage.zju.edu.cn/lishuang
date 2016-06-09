@@ -1,0 +1,222 @@
+
+
+
+
+
+小爽老师-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0012081";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	小爽老师
+
+
+	永久链接:http://mypage.zju.edu.cn/lishuang&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			学习工作
+2014.01-浙江大学，海洋学院，教学科研岗，副教授
+2012.08-2013.12浙江大学，海洋学院，教学科研岗，讲师
+2010.06-2012.08中国科学院海洋研究所，助理研究员
+2004.09-2012.05中国科学院海洋研究所，物理海洋，理学博士
+1999.09-2003.07内蒙古大学，应用数学，理学学士
+访问经历&nbsp;
+2013.07-2013.08英国伦敦大学学院，访问学者
+2013.03-2013.07美国伍兹霍尔海洋研究所，访问学者
+2008.10-2012.05美国马里兰大学，访问学者&nbsp;
+教学&nbsp;&nbsp;1.物理海洋学（本&amp;研）2.海洋动力学（研）
+科研&nbsp;1.海洋上层混合&nbsp;2.海气相互作用3.湍流大涡模拟
+
+			
+				
+			工作研究领域
+			
+			物理海洋
+
+			
+				
+			联系方式
+			
+						电子信箱：lshuang@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：李爽
+		单位：浙江大学海洋学院
+		职称：副教授
+		我的主页共被访问了7534次
+标签：海洋动力物理海洋	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		发表论文
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	信息技术与教学
+教学理论与设计
+DLESE
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,243 @@
+
+
+
+
+
+龚小谨-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0009113";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	龚小谨
+
+
+	永久链接:http://mypage.zju.edu.cn/gongxj&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			龚小谨
+副教授，博士生导师，求是青年学者
+计算机视觉实验室
+浙江大学信电系,杭州市浙大路38号,310027
+办公室：信电楼315室
+Email:gongxj@zju.edu.cn
+教育经历
+博士电子与计算机工程美国弗吉尼亚理工
+本科、硕士计算语言学清华大学
+=================================
+最新消息
+2015.05&nbsp;&nbsp;一篇合作的论文被IEEESignalProcessingLetters期刊录用&nbsp;
+2015.05&nbsp;&nbsp;一篇合作的论文被MeasurementScienceandTechnology期刊录用&nbsp;
+2015.04&nbsp;一篇RGBD显著性检测的论文被CVPRMSF2015录用.
+2015.02&nbsp;担任CVPRMSF2015的TPCmember
+2014.09&nbsp;论文&quot;联合目标分割和深度升采样&quot;的代码已发布,请到'发表论文&lsquo;页下载.
+2014.09&nbsp;发布了一篇基于融合的道路场景理解技术报告
+2014.08&nbsp;一篇联合目标分割和深度升采样的论文被IEEESignalProcessingLetters录用,代码将在近期发布
+2014.06&nbsp;一篇合作的论文被MeasurementScienceandTechnology期刊录用
+2014.05&nbsp;荣获浙江大学信息学部第四届青年教师奖一等奖
+2014.04&nbsp;&nbsp;一篇颜色指导的深度图像升采样论文被CVPRWorkshopMSF2014录用
+2014.02&nbsp;一篇图像反卷积的论文被OpticsExpress录用
+2014.01&nbsp;荣获浙江大学2013年度优质教学奖二等奖
+2014.01&nbsp;论文&quot;GuidedDepthEnhancementviaAnisotropicDiffusion&quot;(PCM2013)的代码已发布,请到'发表论文&lsquo;页下载.
+2014.01&nbsp;论文&quot;GuidedDepthEnhancementviaAFastMarchingMethod&quot;为期刊ImageandVisionComputing近90天下载量Top10
+2014.01&nbsp;一篇道路场景分割的论文被ICRA2014录用.
+2013.08&nbsp;一篇论文被PCM2013录用.
+2013.08&nbsp;&nbsp;我们已发布guidedinpainting的代码.请到'发表论文&lsquo;页下载.
+2013.07&nbsp;&#65279;&nbsp;一篇论文被ImageandVisionComputing(IVC)录用.&#65279;代码将在近期内公布.
+2013.05&nbsp;一篇论文被ICIP2013录用.
+2013.03&nbsp;&nbsp;一篇合作的论文被OpticsLetters录用.&nbsp;
+2013.01&nbsp;&nbsp;一篇论文被Sensors录用.
+2012.11&nbsp;我们的一篇论文被OpticsandLasersinEngineering录用.
+2012.11&nbsp;我们的一篇论文被Int.ConferenceonComputerScienceandNetworkTechnology2012录用.
+2012.11&nbsp;王宁波和刘俊毅同学将参加ICPR2012，日本&nbsp;
+2012.09&nbsp;我将参加ICIP2012，美国，弗罗里达
+2012.07&nbsp;我们的一篇论文被InternationalJournalofAdvancedRoboticSystems:VisualServoing录用，祝贺王延长同学！
+2012.06&nbsp;我们的十四期校级SRTP&ldquo;基于视觉的森林火灾检测系统研究与设计&rdquo;成绩优异，并荣获系一等奖，祝贺徐睿杰和束佳明同学！
+2012.06&nbsp;&nbsp;我们的一篇论文被&nbsp;OpticalEngineering&nbsp;录用，祝贺林颖同学！&nbsp;
+2012.06&nbsp;&nbsp;我们的两篇论文被ICPR2012录用，祝贺王宁波和刘俊毅同学！&nbsp;
+2012.04&nbsp;我们的一篇论文被ICIP2012录用
+2011.12&nbsp;我们的一篇论文被WACV2012录用
+2011.10&nbsp;我将参加中国宇航学会深空探测技术专业委员会第八届学术年会，上海
+2011.09&nbsp;我将参加ICIP2011，比利时
+&nbsp;
+			
+					
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：龚小谨
+		单位：信息与电子工程学系
+		职称：副教授
+		我的主页共被访问了35228次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	发表论文
+	指导学生
+	奖励荣誉
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	CVConferences
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,224 @@
+
+
+
+
+
+简单、和谐、完美、统一-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0008272";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	简单、和谐、完美、统一
+EnlightentheSustainableFuture!
+
+	永久链接:http://mypage.zju.edu.cn/001&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+
+
+
+
+
+
+
+
+
+
+李武华：博士、教授、博士生导师
+&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;2002年于浙江大学电气工程学院获学士学位；2008年获浙江大学电气工程学科博士学位,导师为IEEEFellow、IEE(IET)Fellow何湘宁教授；2008年至2010年在浙江大学电子科学与技术博士后流动站从事博士后科学研究，合作导师为中国工程院院士汪槱生教授，随后留校任教；2010年晋升为副教授；2012年批准为博士生导师；2013年晋升为教授。2010年至2011年受加拿大政府资助赴RyersonUniversity从事博士后访问研究，合作导师为加拿大科学院/工程院两院院士、IEEEFellowBinWu教授。曾于2004年至2005年在通用电气全球研发中心(GEGlobalResearchCenter)实习和培训，从事大功率特种医疗供电系统的研究与开发工作；2007年至2008年在通用电气全球研发中心(GEGlobalResearchCenter)做助理研究员，从事射频功率放大器的研究工作。主要研究方向为柔性直流输配电技术，包括大容量电力电子器件的动态测试与健康管理、高性能变流器的拓扑理论与调制策略、可再生能源的灵活接入与柔性并网、直流配电网的系统架构与运行控制等。
+&nbsp;&nbsp;&nbsp;&nbsp;负责建立(完成)国际合作研究项目5项。主持(在研和完成)国家、省部级、企(事)业合作研发项目20余项，包括科技部&ldquo;973青年科学家专题&rdquo;1项、国家自然科学基金项目(课题)4项。至今已发表(含录用)SCI/EI论文100余篇，其中第一/通信作者SCI期刊论文40余篇，电力电子学科国际顶级期刊(IEEETrans.PowerElectron.)论文30余篇。已获授权美国发明专利2项，中国发明专利20余项。获省部级科学技术成果一等奖3项、中国电源学会科技进步一等奖1项。其博士学位论文获全国优秀博士学位论文提名奖。
+&nbsp;&nbsp;&nbsp;&nbsp;入选科技部&ldquo;中青年科技创新领军人才计划&rdquo;(2013年)、国家自然科学基金委员会首批&ldquo;优秀青年科学基金&rdquo;获得者(2012年)。获第十五届浙江省青少年英才一等奖(2012年)、台达环境与教育基金会&ldquo;中达青年学者奖&rdquo;(2012年)和浙江大学&ldquo;十佳青年岗位能手&rdquo;(2011年)。入选浙江省财政资助的省151人才工程第二层次培养计划(2014年)。
+&nbsp;
+			
+				
+			联系方式
+			
+			电话：0571-87952416			电子信箱：woohualee@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：李武华
+		单位：浙江大学电气工程学院电力电子技术研究所
+		职称：教授
+		我的主页共被访问了43874次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	专利成果
+	奖励荣誉
+	学术兼职
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	何湘宁教授
+浙大电气学院
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,214 @@
+
+
+
+
+
+姜晓红-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0091130";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	姜晓红
+快乐地享受生活！
+
+	永久链接:http://mypage.zju.edu.cn/jiangxh&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+姜晓红，博士，浙江大学计算机学院副教授。研究方向为分布式系统、云计算、大数据处理、中医药数据挖掘。教学上从事本科生专业核心课程《计算机组成》《计算机体系结构》和研究生学位课的《高级计算机体系结构》的教学工作。
+ACM/IEEE会员，中国计算机学会高级会员，计算机学会体系结构专委会委员。曾参加&ldquo;分布式虚拟环境关键技术及应用研究&rdquo;、&ldquo;数字奥运博物馆&rdquo;等多项国家自然科学基金项目。作为负责人承担并完成了二项国防科工委的预研基金项目；主持二项浙江省重点专项&ldquo;基于HLA的大规模分布式仿真系统&rdquo;&ldquo;支持屏幕拼接的大规模集群渲染系统研究开发&rdquo;。作为项目骨干参与了国家973项目&ldquo;虚拟计算系统评测理论与方法研究&rdquo;。目前作为负责人承担国家863重大专项&ldquo;云计算一期&rdquo;的课题&ldquo;互联网语言翻译系统研制&rdquo;(2011AA01A207）的子课题&ldquo;基于海量语言资源的语言翻译分布并行处理技术&rdquo;,以及国家自然科学基金项目&ldquo;虚拟计算系统的能耗管理方法研究&rdquo;。在国内一级刊物、国际会议论文集上发表论文五十余篇。2001年12月&ldquo;虚拟现实中声像建模和实时绘制技术的研究&rdquo;获国家教育部高校科学技术二等奖。获授权专利6项，软件著作权5项。
+			
+				
+			工作研究领域
+			
+			分布式系统、云计算、大数据处理、中医药数据挖掘
+			
+				
+			联系方式
+			
+						电子信箱：jiangxh@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：姜晓红
+		单位：计算机科学与技术学院
+		职称：副教授
+		我的主页共被访问了14964次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	实验室介绍
+	最新消息
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	计算机学院
+CCNT实验室
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

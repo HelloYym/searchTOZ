@@ -1,0 +1,207 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0086218";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0086218&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			邢以群，管理学博士，浙江大学管理学院教授，浙江众成企业管理咨询公司首席咨询顾问。１９６４年生，1979年考入浙江大学电机系学习，1983年考入浙江大学管理系，1986年获硕士学位并留浙江大学参加工作。1994年破格晋升为副教授，1997年获管理学博士并晋升为教授。主要从事企业管理研究与教学，并担任了多家企业管理顾问和公司董事，曾先后主持和参与十多项国家级基金项目和政府咨询项目研究，发表了近7０篇论文，著有《管理学》、《高技术企业经营管理论》、《存亡之道&mdash;&mdash;管理创新论》等著作。并出版发行了《如何进行有效的管理》、《如何打造百年企业》等音像制品。所著《管理学》教材被列入国家教育部工商管理类推荐教材，已累计发行十多万册。具体研究方向为组织变革、组织演化和企业可持续发展研究。在研究过程中，会同有关人员提出了&ldquo;企业内部管理整体解决方案&rdquo;、职权责利相平衡的&ldquo;岗位描述方法&rdquo;、具有中国特色的&ldquo;众成考评法&rdquo;、&ldquo;可拓展性组织结构模式&rdquo;和与实施ERP相适应的企业整体制度建设框架、企业文化体系等，是浙江省著名的企业管理咨询顾问。曾获得校优秀共产党、三育人先进个人、优秀青年教师、研究生良师益友等光荣称号，是浙江大学MBA中心最受学生欢迎的教师之一和&ldquo;国内最受浙江省企业家欢迎的十大培训师&rdquo;之一。2000年进入浙江省&ldquo;151人才工程&rdquo;。
+			
+				
+			工作研究领域
+			
+			组织演化理论：动态地研究企业的发展和变化，特别是民营企业行业领先企业的发展历程、发展途径和演化路径。包括企业“二次创业”的理论与方法研究。
+中国企业持续发展问题研究：包括中国民营企业在发展过程中遇到的特殊问题研究、中国企业低成本规范方法和中国特色的管理问题探讨。
+管理学课程教学整体解决方案研究：教材建设、课件开发、案例整理撰写、教学方法探讨、教辅材料收集整理。
+			
+				
+			联系方式
+			
+						电子信箱：xyq@sba.zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：邢以群
+		单位：管理学院企业管理系
+		职称：教授
+		我的主页共被访问了5203次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	发表论文
+	出版著作
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

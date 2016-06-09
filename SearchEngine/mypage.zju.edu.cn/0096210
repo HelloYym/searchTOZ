@@ -1,0 +1,213 @@
+
+
+
+
+
+基本信息-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0096210";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	基本信息
+
+
+	永久链接:http://mypage.zju.edu.cn/0096210&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+
+1986年天津大学电化学专业获学士学位)，1993年和1996年天津大学应用化学系分别获硕士和博士学位，1996.10~1998.10浙江大学材料科学与工程系博士后，2001.7~2003.2新加坡国立大学SMA博士后研究员。主要从事电化学、化学电源及其电极材料、碳纳米材料和过渡金属硫化物等新型功能纳米材料的合成及其在电化学、化学电源和高性能复合材料中的应用研究。作为负责人先后承担完成国家自然科学基金、浙江省自然科学基金和教育部博士点基金等多个项目，具有多年从事跨学科的研究基础和工作积累，发表SCI论文100余篇，论文被他人引用500多次，单篇引用100多次的论文有2篇，授权国家发明专利20多项，获教育部科技进步二等奖1次。&nbsp;
+
+
+			
+				
+			工作研究领域
+			
+			（1）新型化学电源：锂离子电池、镍氢电池、燃料电池及其高性能催化剂、先进的铅酸电池等；
+（2）新型功能纳米结构材料的合成及其新能源材料和高性能复合材料中的应用；
+（3）超级电容器；
+（4）新型的电化学贮能与转换体系的研究；
+（6）材料表面处理新技术：新的电镀，化学镀和复合镀等技术
+			
+				
+			联系方式
+			
+			电话：0571-87952477			电子信箱：weixiangchen@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：陈卫祥
+		单位：化学系
+		职称：教授
+		我的主页共被访问了32613次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	专利成果
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,204 @@
+
+
+
+
+
+ZHUHUI欢迎您！-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0089324";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	ZHUHUI欢迎您！
+计算机学院与软件学院
+
+	永久链接:http://mypage.zju.edu.cn/zhuhui2002&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;1989年7月毕业于上海华东师范大学法政系思想政治教育专业；1991年9月－1994年3月在华东师范大学政法学院读研究生，获法学硕士学位。本人先后担任原浙江医科大学团委委员、临床医学系辅导员，兼职担任《大学生思想品德修养》、《形势政策》两课教师。98年四校合并后在招生就业部工作；2001年晋升高教管理副研究员职称。2002至今在计算机学院工作，现为学院党委副书记，兼任《形势政策》课教师，2007年通过培训、考试获全球职业规划师（GCDF）认证。
+&nbsp;&nbsp;&nbsp;近年来发表相关理论文章21篇，参编教材4本，参与或主持教育部、省级、校级课题7项；曾在就业处担任过浙大就业报主编，曾向钱江晚报、浙江大学报等累计投稿20余篇；
+			
+				
+			工作研究领域
+			
+			思想政治教育；高教管理；全球职业规划师（GCDF)
+			
+				
+			联系方式
+			
+			电话：0571-88206005;879532			电子信箱：zhuhui2002@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：朱慧
+		单位：就业指导与服务中心
+		职称：副研究员（高教）
+		我的主页共被访问了7228次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

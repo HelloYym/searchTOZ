@@ -1,0 +1,208 @@
+
+
+
+
+
+欢迎来到朱笑丛的个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0007416";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	欢迎来到朱笑丛的个人主页
+
+
+	永久链接:http://mypage.zju.edu.cn/xiaocongzhu&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			朱笑丛，女，工学博士，浙江大学机械电子控制工程研究所讲师，硕士生导师。2007年9月毕业于浙江大学机械系，2007年11月至2010年6月在浙江大学机械与能源学院从事博士后研究，2010年8月至2012年9月在香港理工大学机械工程学系从事研究工作，2012年11月起回浙江大学机械工程学系任教。主要研究方向为非线性控制理论及应用、机电控制、气动伺服控制、智能材料与结构。已在《Automatica》、《IEEE/ASMETransactionsonMechatronics》、《IEEETransactionsonControlSystemsTechnology》、《SmartMaterialsandStructures》、《JournalofIntelligentMaterialSystemsandStructures》等国际著名期刊及IFAC、ACC、AIM、IFK等国际会议上以第一或通讯作者发表论文20余篇，其中SCI收录10篇，EI收录7篇。授权发明专利1项。主持国家自然科学基金1项，参与国家自然科学基金项目2项、国际企业合作项目1项和香港研资局资助项目1项。担任《JournalofDynamicSystems,MeasurementandControl》、《Mechatronics》等期刊的审稿人。
+			
+				
+			工作研究领域
+			
+			非线性控制理论及其应用，
+机电控制，
+气动伺服控制，
+智能材料与结构
+			
+				
+			联系方式
+			
+			电话：13588708469			电子信箱：zhuxiaoc@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：朱笑丛
+		单位：机械工程学系
+		职称：讲师
+		我的主页共被访问了4092次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		奖励荣誉
+	发表论文
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

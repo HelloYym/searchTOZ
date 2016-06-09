@@ -1,0 +1,233 @@
+
+
+
+
+
+浙江大学张传溪个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0085077";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	浙江大学张传溪个人主页
+ZhejiangUniv-Chuan-XiZhang
+
+	永久链接:http://mypage.zju.edu.cn/chxzhang&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			理学博士,教授。男，1960.1出生。1982年毕业于浙江农业大学植保系，1985年在同校获昆虫学专业硕士学位，并留校任教。1994-1997年在中国科学院生物化学研究所在职从事博士学位论文工作。博士学位论文被评为全国优秀博士学位论文。1998年晋升浙江大学教授。2001-2003年任日本学术振兴会和爱媛大学CMES特别研究员。本校昆虫专业、生物化学与分子生物学专业博士生导师,兼任浙江加州纳米研究院博导,&nbsp;昆虫所教授委员会主任。长期从事昆虫和病毒分子生物学研究，先后主持&ldquo;973&rdquo;课题1项、国家自然科学基金8项和国家自然科学基金国际合作1项，合作主持&ldquo;863&rdquo;重大和&ldquo;863&rdquo;探索项目各1项,负责国际合作项目和省部项目多项。已在Nature,GenomeBiology、JournalofVirology、JournalofGeneralVirology、Virology、InsectBiochemistryandMolecularBiology，InsectMolecularBiology,JournalofProteomeResearch等学术刊物上发表SCI收录论文110余篇。书著有《昆虫杆状病毒ph、pk基因分析和人EPO基因在杆状病毒-昆虫系统中的表达》（高等教育出版社）等2本，参编4本。
+学术兼职：
+Nature出版集团的《ScientificReports》杂志和Wiley-Liss集团的《EntomologicalResearch》杂志编委或subjecteditor（均为SCI杂志），《微生物学报》、《病毒学报》和《茶叶科学》等杂志编委。中国昆虫学会资源昆虫专业委员会副主任。
+
+地址：
+310058，杭州市西湖区余杭塘路886号
+浙江大学紫金港校区农生组团C座1033
+--------------
+Chuan-XiZhang
+ProfessorandPhD
+InstituteofInsectScience
+ZijingangCampus,ZhejiangUniversity
+YuhangtangRoad388,Hangzhou,310058,China
+Tel&amp;Fax:+86-571-88982991
+Web1:http://mypage.zju.edu.cn/chxzhang
+Web2:http://10.49.41.11/instkcs/eng/staff/Zhang%20Chuan-xi.html
+			
+				
+			工作研究领域
+			
+			昆虫功能基因组学、病毒分子生物学和基因工程
+			
+				
+			联系方式
+			
+						电子信箱：chxzhang@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：张传溪
+		单位：农业与生物技术学院植物保护系
+		职称：教授
+		我的主页共被访问了72140次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	发表论文
+	出版著作
+	研究成果
+	专利成果
+	实验室介绍
+	实验室人员
+	实验室教师
+	实验室博生
+	实验室硕生
+	本科生
+	开放合作
+	实验室毕业博士
+	出站博士后和毕业硕士、毕设、客座
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

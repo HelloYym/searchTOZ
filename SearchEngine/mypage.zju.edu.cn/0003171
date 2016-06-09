@@ -1,0 +1,206 @@
+
+
+
+
+
+赵民建-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0003171";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	赵民建
+求是为本、创新为先
+
+	永久链接:http://mypage.zju.edu.cn/0003171&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			教授、博士生导师，IEEE通信学会会员，通信与信息系统专业博士（2003年），杭州人。1997年9月~2000年2月在浙江大学信息与电子工程学系通信与电子系统专业攻读硕士学位；2000年3月~2003年2月在浙江大学信息与电子工程学系通信与电子系统专业攻读博士学位；2003年3月留校任教。主要从事宽带无线传输、通信抗干扰、软件无线电和认知无线电、高性能GNSS接收等理论和技术研究。到2010年已发表期刊、IEEE国际会议等论文80余篇，受理国家发明专利30项、授权7项。担任多个IEEE知名通信会议、《电路与系统学报》、《电子与信息学报》、《电子学报》、《宇航学报》、《西安电子科技大学学报》、《上海交通大学学报》、《西安交通大学学报》等学术刊物审稿人。承担了国家自然科学基金、&ldquo;863&rdquo;无线通信专项、国防通信预研、通信装备关键技术攻关等十几项重要课题研究工作。2007年入选&ldquo;浙江省新世纪151人才工程&rdquo;，2007年&ldquo;浙江大学十佳青年岗位能手&rdquo;。
+			
+				
+			工作研究领域
+			
+			主要从事数字无线传输技术研究，包括通信信号自适应处理、数字调制编码、软件无线电和认知无线电、抗干扰通信、高性能GNSS卫星接收机、多模式通信芯片设计等。
+			
+				
+			联系方式
+			
+			电话：87952304			电子信箱：mjzhao@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：赵民建
+		单位：信息与电子工程学系
+		职称：教授
+		我的主页共被访问了31338次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	实验室介绍
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,223 @@
+
+
+
+
+
+刘涌的主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0006463";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	刘涌的主页
+
+
+	永久链接:http://mypage.zju.edu.cn/yong_homepage&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+2010．01~至今&nbsp;浙江大学无机非金属材料研究所
+2009．01~2010.01瑞典皇家工学院材料系博士后
+2006.7~2008.11浙江大学计算机科学与工程博士后流动站博士后&nbsp;
+
+
+2001.9~2006.6浙江大学无机非金属材料研究所工学博士&nbsp;
+&nbsp;
+
+&nbsp;&nbsp;主要研究方向为无机功能薄膜材料与制备技术、材料加工工程的过程控制与数值仿真、锂电池管理系统及应用。先后主持国家自然科学基金、教育部博士点基金、国防军工课题、国家科技支撑计划子课题等研究工作，作为科研骨干参加了国家863计划、国家&ldquo;十二五&rdquo;科技支撑计划、国家自然科学基金重点项目的研究工作，已发表学术论文40余篇，授权发明专利6项，获国家科技进步二等奖一项（10/10），浙江省科学技术一等奖一项（2/12）。
+
+&nbsp;&nbsp;目前研究兴趣为：1.基于电致变色的新型节能镀膜玻璃及其节能原理；2.基于无机氧化物材料的太阳能转换及建筑节能用光谱选择性功能薄膜的膜系设计和规模化制备；3.锂电池组电池管理系统。
+
+
+&nbsp;
+			
+				
+			工作研究领域
+			
+			◆第一性原理方法与应用材料物理
+
+
+◆光谱选择性功能薄膜的规模化制备与应用
+
+
+◆锂电池应用技术开发
+
+			
+				
+			联系方式
+			
+			电话：0571-87951842			电子信箱：liuyong.mse@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：刘涌
+		单位：材料科学与工程学系
+		职称：副教授（自然科学）
+		我的主页共被访问了2995次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

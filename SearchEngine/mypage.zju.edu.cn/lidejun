@@ -1,0 +1,213 @@
+
+
+
+
+
+李德骏的主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0007242";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	李德骏的主页
+个人情况
+
+	永久链接:http://mypage.zju.edu.cn/lidejun&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			1988/09-1993/07:清华大学机械工程系本科，工学学士
+1993/09-1996/07:清华大学机械工程系研究生，工学硕士
+1996/07-1999/09:中国长城计算机集团深圳公司，历任工程师、项目经理、部门副经理
+1999/10-2003/03:日本广岛大学机械工程系研究生，工学博士（日本政府国费奖学金）
+2003/04-2004/06:日本广岛大学机械工程系,&nbsp;教师
+2004/07-2007/03:奥地利格拉茨技术大学，博士后，高级研究员
+2007/05-至今&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:浙江大学机械能源学院机械电子控制工程研究所，副教授，硕士生导师
+2009/05-2013/07&nbsp;:机械电子本科教学主任
+2010/11-2013/07&nbsp;:流体动力与机电系统国家重点实验室副主任
+2011/05-2012/05:浙江宁波奉化市市长助理(挂职)
+2013/09-至今：&nbsp;&nbsp;&nbsp;浙江大学机械电子控制工程研究所副所长,机械工程系系主任助理
+			
+				
+			工作研究领域
+			
+			机械电子工程、深海机电装备及自动化、海底观测网络、水下非接触电能传输
+			
+				
+			联系方式
+			
+			电话：15867115126			电子信箱：li_dejun@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：李德骏
+		单位：机械工程学系
+		职称：副教授
+		我的主页共被访问了4935次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

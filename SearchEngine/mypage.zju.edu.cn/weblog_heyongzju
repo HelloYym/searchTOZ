@@ -1,0 +1,448 @@
+
+
+
+
+
+打印一个新世界-博客
+
+
+
+
+
+
+varctxPath="http://mypage.zju.edu.cn";
+varb_handle="heyongzju";
+varcfg_weblog="http://mypage.zju.edu.cn/weblog";
+vard=newDate()
+varselyear=d.getFullYear();
+varselmonth=d.getMonth()+1;
+
+
+
+
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	color:#111;
+	margin-right:10px;	
+}
+#mainlinkullia,.tagsa:hover{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+.tagsa{
+	margin-right:10px;
+}
+img{
+	border:none;
+}
+
+
+
+
+
+
+
+
+
+
+	
+		首页
+		帮助
+		登录
+	
+
+
+
+
+
+
+	打印一个新世界
+3D打印增材制造
+
+	永久链接:http://mypage.zju.edu.cn/weblog/heyongzju&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+
+
+	中文主页
+英文主页
+			博客
+
+
+
+
+
+
+
+
+
+
+			
+				
+
+	
+[1/1]
+首页	上一页下一页末页
+
+	
+
+浏览模式:普通|列表
+
+
+
+
+
+
+		能够直接打印内部血管网络的新型细胞打印工艺
+
+作者:贺永日期:2015-05-26Tuesday
+
+
+
+能够直接打印内部血管网络的新型细胞打印工艺摘要：活性组织内遍布的各类血管是器官保持活性的根本，只有有效的加工出相似的血管网络才有可能实现营养的有效输送，确保3D打印后形成一个真正的活性器官。浙江大学浙江省三维打印工艺与装备重点实验室傅建中教授团队经...
+查看更多...
+
+Tags:
+微流控微流道血管网络组织工程器官打印细胞打印
+	
+
+
+
+分类:默认分类|			固定链接|评论总数0|
+			阅读次数52
+
+
+
+
+
+
+
+		基于3D打印的个性化定制假体
+
+作者:贺永日期:2015-05-15Friday
+
+
+
+基于3D打印的个性化定制假体摘要：个性化定制假体由于高昂的成本严重限制了其临床应用，浙江大学三维打印课题组基于桌面式3D打印技术开发了超低成本的假体制造技术，为定制假体的大规模临床应用提供了可能。目前，假体已经广泛应用于人体颌面部损伤的修复中，...
+查看更多...
+
+
+
+
+
+分类:默认分类|			固定链接|评论总数0|
+			阅读次数25
+
+
+
+
+
+
+
+		纸基微流控芯片的3D打印制造
+
+作者:贺永日期:2015-05-15Friday
+
+
+
+摘要：纸基微流控纸芯片（paper-basedmicrofluidicanalyticaldevices，&mu;PADs）是一种新兴的微流控分析技术平台，具有成本低、加工简易、使用和携带方便等优点，在临床诊断、食品质量控制和环境监测等应用领域具有很大的应用前景。浙江大学浙江省三维打印工艺与...
+查看更多...
+
+
+
+
+
+分类:默认分类|			固定链接|评论总数0|
+			阅读次数39
+
+
+
+
+
+
+
+		3D打印路径优化
+
+作者:贺永日期:2015-05-15Friday
+
+
+
+3D打印路径优化摘要：3D打印（增材制造）过程的一个特点就是加工时间长，打印效率低，普通件都需要打印8-12小时。针对3D打印中加工效率低下，产品质量不高的问题，本项研究从打印路径优化的角度，提出了一种路径优化生成算法。该算法首先根据加工环境选择以填充效率...
+查看更多...
+
+
+
+
+
+分类:默认分类|			固定链接|评论总数0|
+			阅读次数15
+
+
+
+
+
+
+
+		基于微滴喷射的打印过程误差建模与补偿
+
+作者:贺永日期:2015-05-15Friday
+
+
+
+基于微滴喷射的打印过程误差建模与补偿摘要：基于微滴喷射的3D打印（增材制造）技术是增材制造发展的重要方向之一，成型精度与效率是微滴喷射控制技术的主要目标，基于喷墨打印技术的3D打印目前在细胞打印等器官制造中有着极其广泛的应用。目前大部分的研究都集中在...
+查看更多...
+
+
+
+
+
+分类:默认分类|			固定链接|评论总数0|
+			阅读次数12
+
+
+
+
+
+
+
+		数控加工中的新型参数曲线插补算法
+
+作者:贺永日期:2015-05-15Friday
+
+
+
+数控加工中的新型参数曲线插补算法参数曲线插补不仅在传统数控加工中使用广泛，在三维打印中也有较高的加工效率以及精度控制需求，包括诸如生物组织等由曲线曲面构成的三维实体的打印都是由参数曲线的插补完成加工。参数曲线的插补一般由两个步骤逐步实现：粗插补和...
+查看更多...
+
+
+
+
+
+分类:默认分类|			固定链接|评论总数0|
+			阅读次数11
+
+
+
+
+
+
+
+		甜蜜的芯片打印-用于三维微流控芯片制造的3D打印机
+
+作者:贺永日期:2015-05-15Friday
+
+
+
+甜蜜的芯片打印-用于三维微流控芯片制造的3D打印机（Printing3Dmicrofluidicchipswitha3Dsugarprinter,Email:yongqin@zju.edu.cn）摘要：三维微流控芯片具有集成度高、流道结构复杂，在流体操控、生物化学分析检测、药物筛选、片上器官等领域有着广泛的应用...
+查看更多...
+
+
+
+
+
+分类:默认分类|			固定链接|评论总数0|
+			阅读次数15
+
+
+			
+			
+		
+		
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+	
+	
+		姓名：贺永
+		单位：机械工程学系
+		职称：副教授
+		我共发表了7篇文章
+		共收到0条评论
+		我的主页共被访问了346次
+	
+	
+	
+	
+
+
+我的文章分类
+
+	默认分类
+		
+
+
+
+
+日历
+
+
+
+>>
+年月
+
+
+
+日
+一
+二
+三
+四
+五
+六
+
+
+
+
+
+
+
+
+
+
+
+我的最新文章
+
+
+		能够直接打印内部血管网...
+基于3D打印的个性化定制...
+纸基微流控芯片的3D打印...
+3D打印路径优化
+基于微滴喷射的打印过程...
+数控加工中的新型参数曲...
+甜蜜的芯片打印-用于三...
+	
+
+
+
+
+我的热点文章
+
+
+				能够直接打印内部血管网...
+		纸基微流控芯片的3D打印...
+		基于3D打印的个性化定制...
+		甜蜜的芯片打印-用于三...
+		3D打印路径优化
+		基于微滴喷射的打印过程...
+		数控加工中的新型参数曲...
+
+	
+
+
+我收到的评论
+
+	
+	
+
+
+我的文章汇总
+
+		2015年5月[7]
+		
+	
+
+
+链接
+
+
+
+
+
+
+检索
+
+
+
+
+-所有文章-
+默认分类
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+
+
+varflag=newArray();
+flag[0]='2015/05/15';
+flag[1]='2015/05/26';
+
+
+varcale=newCalendar("idCalendar",{
+SelectDay:newDate(),
+onSelectDay:function(o),
+onToday:function(o),
+onFinish:function(){
+$("idCalendarYear").innerHTML=this.Year;$("idCalendarMonth").innerHTML=this.Month;
+for(vari=0,len=flag.length;i<len;i++){
+//alert(flag[i]);
+	vard=newDate(flag[i]);
+	if(this.Year==d.getYear()){
+		if(this.Month==d.getMonth()+1)
+		{
+this.Days[d.getDate()].innerHTML=""+d.getDate()+"";
+			
+		}
+
+	}
+}
+}
+});
+$("idCalendarPre").onclick=function()
+$("idCalendarNext").onclick=function()
+
+
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));

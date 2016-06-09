@@ -1,0 +1,216 @@
+
+
+
+
+
+朱金文-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0091281";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	朱金文
+
+
+	永久链接:http://mypage.zju.edu.cn/weeds&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			学习经历
+&nbsp;2003-2008：浙江大学农业与生物技术学院植物保护系学习（杂草方向），
+获博士学位
+&nbsp;1995-2000：浙江大学农药与环境毒理研究所学习，获硕士学位
+&nbsp;1986-1991：浙江农业大学植物保护系学习，获学士学位
+工作经历
+&nbsp;&nbsp;1991-1998：浙江农业大学植物保护系
+&nbsp;&nbsp;1998-至今：浙江大学农业与生物技术学院植物保护系，农药与环境毒理研究所，浙江大学农业技术推广中心，浙江大学新农村发展研究院
+			
+				
+			工作研究领域
+			
+			杂草与外来入侵植物的抗药性等环境适应机制；除草剂药理、生物活性以及新产品开发；杂草等有害生物防治与农药高效安全使用技术。
+			
+				
+			联系方式
+			
+			电话：0571-86971210			电子信箱：zhjw@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：朱金文
+		单位：农业技术推广中心
+		职称：副研究员
+		我的主页共被访问了415次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	出版著作
+	奖励荣誉
+	实验室介绍
+	发表论文
+	学术兼职
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

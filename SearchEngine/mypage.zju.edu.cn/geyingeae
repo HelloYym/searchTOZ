@@ -1,0 +1,219 @@
+
+
+
+
+
+简介-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0091321";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	简介
+科研
+
+	永久链接:http://mypage.zju.edu.cn/geyingeae&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			教授
+浙江大学生命科学学院
+生物科学系
+中国杭州&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;310058
+86-571-88206465
+
+geying@hzcnc.com
+
+　　葛滢，女，1984年吉林大学化学系学士，1990年东北师范大学生物系生态学专业硕士。1994年副教授，2000年浙江大学教授。
+&nbsp;&nbsp;&nbsp;自84年开始从事植物生态化学计量学和生理生态学研究。1984年开始从事生态学研究。主持完成国家自然科学基金项目&ldquo;石荠宁属三种植物进化生态学研究&rdquo;（2000-2002）、&ldquo;亚热带人工湿地植物功能群多样性配置与净化效果研究&rdquo;（30370146）、浙江省自然科学基金项目&ldquo;杭州石荠宁濒危的生理生态机制研究&rdquo;和国家重点基础研究发展规划课题（973项目）子专题等等课题多项。正在主持国家自然科学基金项目&ldquo;亚热带人工湿地植物功能群多样性的脱氮效能研究&rdquo;（30870235）等项目。
+在国内外学术刊物上已发表论文100余篇（其中SCI论文30余篇）。主持译著1部，合作、参与著作9部,2007年获中国农业科学院科学技术成果二等奖（第6完成人），2006年获浙江省科学技术二等奖（0602101-3，第6），2005年获浙江省林业厅第六界科技兴林一等奖（第6），2000年以前：国家教委科技进步二等奖1项（参加者），并有1项应用研究成果通过省级鉴定（主要参加者）。
+1999年在德国和奥地利访问研究3个多月，05年在加拿大访问3个月，与香港理工大学有长期合作关系。
+　　在教学方面，1993年开始讲授生物科学专业主干课程&ldquo;生态学&rdquo;（含理论课、实验课和野外实习），至今。与其他教授一起,已经将该课程建设成校&lsquo;百课工程&rsquo;、&lsquo;重点课程&rsquo;、&lsquo;理科基地平台课程&rsquo;等，目前与生命科学相关的多个专业每年有300余学生修读。2001年出版的《生态学》教材（第2著者）已经第三次印刷，得到国内外同行的肯定，国内多个院校有关专业本科生和研究生使用。获2003年浙江大学优秀教学奖。
+　　在学科建设方面，十几年来一直建设生态学实验课的教学体系，在国家生物学理科基地《生态学》的实验室建设方面，为浙江大学的科研和教学建设做了一些贡献。
+			
+				
+			工作研究领域
+			
+			生物多样性-生态系统功能；人工湿地治理污水的生态技术；城市化-区域生物地球化学循环；理论生物学研究
+
+			
+				
+			联系方式
+			
+			电话：057188206466			电子信箱：geying@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：葛滢
+		单位：生命科学学院生物科学系
+		职称：教授
+		我的主页共被访问了20626次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		发表论文
+	出版著作
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

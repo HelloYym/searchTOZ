@@ -1,0 +1,212 @@
+
+
+
+
+
+王建明-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0096133";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	王建明
+Electrochemistry
+
+	永久链接:http://mypage.zju.edu.cn/0096133&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;
+&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;哈尔滨工业大学，学士，硕士；1996年中国科学院金属腐蚀与防护研究所（现为金属研究所），博士；1996年7月起在浙江大学化学系工作；2001年起任浙江大学化学系教授；2002年入选&ldquo;浙江省新世纪151人才工程&rdquo;；2006年以访问学者身份在美国加州大学Irvine分校化学系研究交流；中国化学会电化学专业委员会委员；国际电化学学会会员。发表SCI论文100余篇。
+			
+				
+			工作研究领域
+			
+			（1）新型高能绿色电池：包括锂离子电池、燃料电池、镍氢电池、铅酸电池、金属-空气电池、全钒液流电池等体系，主要致力于高性能电极活性材料的制备与表征，深入认识材料组成、结构和性能之间的内在联系，进而开发高能电池体系。
+（2）光致能量储存与转换系统。
+（3）电化学（超级）电容器。
+（4）新型电化学能量储存与转换体系的探索。
+（5）材料表面处理与防护新技术。
+
+			
+				
+			联系方式
+			
+			电话：0571-87951513;13625716421			电子信箱：wjm@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：王建明
+		单位：化学系
+		职称：教授
+		我的主页共被访问了35978次
+标签：Electrochemistry	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		发表论文
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,209 @@
+
+
+
+
+
+张中庆的个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0005024";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	张中庆的个人主页
+张中庆的个人主页
+
+	永久链接:http://mypage.zju.edu.cn/zzq&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			张中庆，项目负责人，研究员，IEEE高级会员，研究领域包括电磁测量、微波设计、计算电磁学、层析成像方法以及无线传感器网络。1997年6月毕业于石油大学资源系，获博士学位。1997.7-1998.12，在石油大学（华东）资源系从事科研和教学工作，任讲师；1999.1-1999.5，在新墨西哥州立大学电子工程学院从事博士后研究；1999.6-2002.10在杜克大学电子工程系，从事ResearchAssistant研究工作。2002.10-2005.3，在美国Optimal公司任高级工程师，从事EDA软件研发。2005.3-2005.12，任美国Samstech公司的VP。申请人曾任多种国际期刊的审稿人和国际会议的分会主席。在国际期刊和国际会议上发表学术论文50多篇。2005.12加入浙讲大学，任研究员。在浙江大学工作期间,取得了很多研究成果，2006-2007年度完成了a.&ldquo;水平井和斜井环境下双侧向测井数值模拟方法研究&rdquo;。2006-2008年度完成了a.&ldquo;DFIT仪器设计中方法、刻度与井眼校正研究&rdquo;，b.&ldquo;张中庆GFJG重点预研课题(涉密课题)&rdquo;,c.浙江大学预研基金&ldquo;微波成像方法研究（交叉预研基金）&rdquo;,d.教育部回国留学人员资助&ldquo;新型电磁感应层析成像方法研究&rdquo;。目前正在承担的课题包括：&ldquo;海上低阻低孔渗油气藏电阻率反演技术研究&rdquo;。
+			
+				
+			工作研究领域
+			
+			计算电磁学及其应用、集成电路仿真、电磁逆散射理论及应用、微波成像、无线传感器网络
+			
+				
+			联系方式
+			
+			电话：87951796			电子信箱：zhangzq@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：张中庆
+		单位：信息与电子工程学系
+		职称：研究员（自然科学）
+		我的主页共被访问了10162次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+	实验室介绍
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	浙江大学
+中国石油大学
+cosl
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

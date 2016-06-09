@@ -1,0 +1,204 @@
+
+
+
+
+
+浙大张建国-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0088161";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	浙大张建国
+
+
+	永久链接:http://mypage.zju.edu.cn/zjubioking&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			张建国，男，副教授、硕士生导师，杭州市政府特殊津贴、杭州市先进科技工作者称号和余杭区杰出人才奖获得者，为国内最早开展L(+)-酒石酸生物转化技术研究并成功实现商业化应用的学者，目前主要从事有机酸的生物合成和生物炼制技术的研究开发。主持多项浙江省重大科技专项、浙江省科技计划项目和重大横向合作项目等；授权国家发明专利9项，获省部级科技进步奖一等奖2项（排名第一和第二）和三等奖1项（排名第一），市级奖励3项（排名第一），发表10余篇学术论文。
+			
+				
+			工作研究领域
+			
+			生物化学，生物催化，生物转化，生物炼制
+			
+				
+			联系方式
+			
+			电话：0571-88206983			电子信箱：zhang-jianguo@biokingco.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：张建国
+		单位：生命科学学院生物技术系
+		职称：副教授
+		我的主页共被访问了12739次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	杭州宝晶生物化工有限公司
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

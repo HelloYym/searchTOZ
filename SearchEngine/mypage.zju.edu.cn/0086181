@@ -1,0 +1,213 @@
+
+
+
+
+
+华跃进-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0086181";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	华跃进
+
+
+	永久链接:http://mypage.zju.edu.cn/0086181&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+浙江大学生物物理学国家重点学科带头人，教育部&ldquo;长江学者&rdquo;特聘教授，国家杰出青年基金获得者。现任浙江大学农业与生物技术学院副院长、原子核农业科学研究所所长、浙江省&ldquo;核农学&rdquo;重点研究实验室、农业部&ldquo;核农学&rdquo;重点开放实验室主任。兼任中国原子核农学会常务副理事长、中国空间科学学会生命起源与进化专业委员会副主任委员、浙江省原子核农学会理事长、浙江省核学会副理事长、浙江省辐射防护协会理事长等职。担任Food&nbsp;ChemToxicol和FrontEvolutGenomicsMicrobiol编委、《核农学报》主编、Science、PLoSOne、MolMicrobiol、MolCellProteomics等国际高影响力科学杂志的特邀论文评审专家。近年来主持国家自然科学基金重点项目、国家杰出青年基金、科技部国际合作重点项目、农业部公益性行业科研专项、科技部863重点课题、科技部973课题、转基因重大专项、国家新药创制重大科技专项等课题10余项。在Nature、PNatlAcadUSA、Mol.CellProteomics、J.Biol.Chem.、Mol.Microbiol.、Oncogene等重要国际期刊发表论文60余篇。申请发明专利7项，已授权发明专利3项。获省部级科学技术二等奖3项。研究成果&ldquo;DNA修复开关基因的发现与鉴定&rdquo;入选&ldquo;2003年度中国高校十大科技进展&rdquo;。
+
+			
+				
+			工作研究领域
+			
+			（1）DNA损伤和修复相关的基因组学、转录组学和蛋白组学研究；
+
+（2）耐辐射球菌的极端环境适应机理研究；
+
+（3）抗逆性相关功能基因的挖掘和开发利用；
+
+（4）肿瘤细胞耐受性和DNA损伤修复机制研究。
+
+（5）生物大分子结构和功能。　　
+
+			
+					
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：华跃进
+		单位：农业与生物技术学院原子核农业科学研究所
+		职称：教授
+		我的主页共被访问了25344次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	发表论文
+	研究成果
+	专利成果
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

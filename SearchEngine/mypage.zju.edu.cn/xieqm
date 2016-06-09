@@ -1,0 +1,277 @@
+
+
+
+
+
+个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0079333";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	个人主页
+平平安安
+
+	永久链接:http://mypage.zju.edu.cn/xieqm&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			姓名：谢强敏
+性别：男
+出生地：杭州
+所属学科：药理学
+现任职务：国家食品药品监督管理局浙江呼吸药物研究实验室副主任
+联系方式：
+电话：88208231，13067966736
+E-mail：xieqm@zju.edu.cn
+学术团体、专业杂志编委和审稿：
+中国药理学会抗炎免疫药理专业委员会理事
+中国药理学会制药工业药理专业委员会理事
+浙江省生理科学专业委员会常务理事
+浙江省药理学专业委员会理事
+世界临床药物杂志编委
+ActaPharmacolSin.审稿
+EurJPharmacol审稿
+JPharmPharmacol审稿
+TrendsinPharmacol审稿
+学科专长和研究方向:呼吸药理学，免疫药理学，新药研究
+主持和参与的课题：
+1.国家自然科学基金项目（2008.01&mdash;2010.12）：RhoGTPaseRac作为治疗COPD新靶点的研究
+2.国家自然科学基金项目（2007.01&mdash;2009.12）：5-酯氧酶代谢物对哮喘的神经内分泌免疫调节作用
+3.浙江省科技计划重点项目（2006.03&mdash;2008.12）：甘草黄酮的开发与研究
+4.浙江省科技计划重点项目（2007.05&mdash;2009.12）：虫草头孢菌粉抗心律失常的有效成分及其作用机制研究
+5.浙江省自然科学基金重点项目(2005.01&mdash;2007.12)：磷酸二酯酶-4在肺部炎症疾病的作用
+一、著作（主编1部，副主编1部，参编7部）
+1.主编《药理学前沿－哮喘和COPD的新概念及新药》,专著,2003.8,科学出版社
+2.第二副主编《生理科学实验教程》,精品课程教材,2004.8,浙江大学出版社
+3.参编《免疫药理学新论》,专著,2004.5,人民卫生出版社
+4.参编《抗衰老药理学新论》,专著,2004.5,人民卫生出版社
+5.参编《呼吸药理学新论》,专著,2004.5,人民卫生出版社
+6.参编《药理实验方法学》第三版，专著,2004.5,人民卫生出版社
+7.参编《药理学和药物治疗学全书》，编著，2000，人民卫生出版社
+8.参编《中药药理与临床》，编著，2000，人民卫生出版社
+9.参编《呼吸药理学与治疗学》，专著,1999,人民卫生出版社
+10.参编《临床药理学》，2007，人民卫生出版社
+二、主要论文
+1.WuX,ZengLH,TaniguchiT,XieQM（通讯作者）.ActivationofPKAandphosphorylationofsodium-dependentvitaminCtransporter2byprostaglandinE2promoteosteoblast-likedifferentiationinMC3T3-E1cells.CellDeathDiffer.2007;14(10):1792-1801.(IF=7.463)
+2.DengYM,XieQM（通讯作者）,ZhangSJetal.Anti-astnmaticeeffectsofPerillaSeedoilintheguineapiginvitroandinvivo.PlantaMed2007;73(1):53-58.IF=1.746
+3.DengYM,XieQM（通讯作者）,TangHF,SunJG,DengJF,ChenJQ,YangSY.Effectsofciclamilast,anewPDE4inhibitor,onairwayhyperresponsiveness,PDE4Dexpressionandairwayinflammationinamurinemodelofasthma.EurJPharmacol.2006Oct10;547(1-3):125-35.IF=2,522
+4.SunJG,DengYM,WuX,TangHF,DengJF,ChenJQ,YangSY,XieQM（通讯作者）.&nbsp;Inhibitionofphosphodiesteraseactivity,airwayinflammationandhyperresponsivenessbyPDE4inhibitorandglucocorticoidinamurinemodelofallergicasthma.LifeSci.2006Oct26;79(22):2077-2085.IF=2.389
+5.XieQM（通讯作者）,DengJF,DengYM,ShaoCS,ZhangH,KeCK.EffectsofcryptoporuspolysaccharideonratallergicrhinitisassociatedwithinhibitingeotaxinmRNAexpression.JEthnopharmacol.2006Oct11;107(3):424-30.IF=1.625
+6.TangHF,ChenJQ,XieQM,ZhengXY,ZhuYL,AdcockI,WangX.&nbsp;TheroleofPDE4inpulmonaryinflammationandgobletcellhyperplasiainallergicrats.BiochimBiophysActa.2006May;1762(5):525-32.IF=3.297
+7.ZhouHL,DengYM,XieQM（通讯作者）.Themodulatoryeffectsofthevolatileoilofgingeronthecellularimmuneresponseinvitroandinvivoinmice.JEthnopharmacol.2006Apr21;105(1-2):301-5..IF=1.625
+8.XuXL,ZhouJY,YangQH,FangLB,XieQM,ShenYL.Aninvitroratdiaphragmaticfatiguemodelinducedbycombinedhypoxicandhypercapnicacidosisandtheeffectofsalmeterol.PharmacolRes2006Feb53(2):171-176IF=2.421
+9.DengYM,XieQM（通讯作者）,ZhangSJ,ChenJQ,YangQH,BianRL.Changesof5-lipoxygenasepathwayandproinflammatorymediatorsincerebralcortexandlungtissueofsensitizedrats.ActaPharmacolSin.2005Mar;26(3):353-8.IF=1.397
+10.ChenJC,ChenJQ,XieQM,ZhuYL.Selectiveinhibitionofpurifiedhumanphosphodiesterase4AexpressedinyeastcellGL62byciclamilast,piclamilast,androlipram.ActaPharmacolSin.2004Sep;25(9):1171-5.IF=1.397
+11.ZhaoXY,XieQM（通讯作者）,ChenJQ,KeCK.&nbsp;Inhibitoryeffectsofcryptoporuspolysaccharideonairwayconstriction,eosinophilrelease,andchemotaxisinguineapigs.ActaPharmacolSin.2004Apr;25(4):503-7.IF=1.397
+12.DengYM,XieQM（通讯作者）,ChenJQ,BianRL.&nbsp;CoincidentalincreaseofleukotrieneB4betweencerebralcortexandlungtissueofsensitizedrats.ActaPharmacolSin.2003Oct;24(10):1039-44.IF=1.397
+13.ZhouJ,KangZM,XieQM,LiuC,LouSJ,ChenYZ,JiangCL.Rapidnongenomiceffectsofglucocorticoidsonallergicasthmareactionintheguineapig.JEndocrinol.2003Apr;177(1):R1-4.IF=3.072
+14.XieQM（通讯作者）,ChenJQ,ShenWH,YangQH,BianRL.&nbsp;Comparisonofbronchodilatingandantiinflammatoryactivitiesoforalformoterolandits(R,R)-enantiomers.ActaPharmacolSin.2003Mar;24(3):277-82.IF=1.397
+15.XieQM,ChenYing,WuXi-mei,ChenJi-qiang,BianRu-lian.MechanismoftheEffectofSantengdingtongRecipeonMonosodiumUrateCrystal-InducedRabbitArthritis.ChineseJournalofIntegratedMedicine，2003；9（2）：128-131
+16.XieQM（通讯作者）,TangHF,ChenJQ,BianRL.&nbsp;Pharmacologicalactionsoftetrandrineininflammatorypulmonarydiseases.ActaPharmacolSin.2002Dec;23(12):1107-13.Review.IF=1.397
+17.XieQM（通讯作者）,ChenJQ,ShenWH,BianRL.&nbsp;Correlativechangesofinterferon-gammaandinterleukin-4betweencorticallayerandpulmonaryairwayofsensitizedrats.ActaPharmacolSin.2002Mar;23(3):248-52.IF=1.397
+18.XieQM（通讯作者）,ChenJQ,ShenWH,YangQH,BianRL.EffectsofcyclosporinAbyaerosolonairwayhyperresponsivenessandinflammationinguineapigs.ActaPharmacolSin.2002Mar;23(3):243-7.IF=1.397
+19.XieQM（通讯作者）,ZengLH,ZhengYX,LuYB,YangQH.Bronchodilatingeffectsofbambuterolonbronchoconstrictioninguineapigs.ActaPharmacolSin.1999Jul;20(7):651-4.IF=1.397
+近2年参加重要国际学术会议大会发言和论文摘要
+1.XieQM,DengYM,ChenJQ.Theneuro-endocrine-immumoregulationof5-lipoxygenaseintheasthmaticmodelofrats.XVthWorldCongressofPharmacology:MeetingAbstractP340059,July2-7,2006
+2.TangHF,ChenJQ,XieQM.UpregulationofPDE4activityandexpressioninlungofasthmaticrats.XVthWorldCongressofPharmacology:MeetingAbstractP340053
+3.DengYM,XieQM,ChenJQ,ZhangSJ,YaoHY,ZhangH.Anti-asthmaeffectsofperillaseedoilintheguineapiginvivoandvitro.XVthWorldCongressofPharmacology:MeetingAbstractP340065,July2-7,2006
+4.LiZG,XieQM,YinZQ,TangHF,ChenJQ.Inhibitoryeffectsoflocalanesthetisoncontractionsofpregnantratmyometrium.XVthWorldCongressofPharmacology:MeetingAbstractP340076,July2-7,2006
+5.ChenJQ,XiaQ,XieQM,WeiEQ,FuLQ.Pharmacologyintheintegratedcourse&ldquo;BasicMedicalSciences&rdquo;inZhejiangUniversityofSchoolofMedicine.XVthWorldCongressofPharmacology:MeetingAbstractP410007,July2-7,2006
+6.XieQM,HuHM,ZhuYL,ZhangSJ,ChenJQ.Desensitizationeffectofsublingulimmunotherapyonthedustmitesensitizedrats.Abstractspresentedatconcurrentaessions.AnnualScientificMeetingoftheAmericanCollegeofAllergy,Asthma&amp;Immunology2005,november4-9,AbstractBookp50.
+7.XieQM,DengYM,SunJG,TangHF,DengJF,ChenJQ.EffectsofCiclamilast,anewPDE4inhibitor,onupregulationofPDE4,airwaymucushypersecretionandairwayhyperresponsivenessinmouseasthmatismodel.AnnualScientificMeetingoftheAmericanCollegeofAllergy,Asthma&amp;Immunology2005,november4-9,AbstractBookp84
+8.DongXW,ZhangSJ,DuXG,FanX,XieQM.EffectsofXCT,asmallmoleculeantagonistofALPHA4integrinsonbronchoconstrictionandairwayinflammatorycells.AnnualScientificMeetingoftheAmericanCollegeofAllergy,Asthma&amp;Immunology2005,november4-9,AbstractBookp84-85
+9.DuXG,FanX,ZhangSJ,DongXW,XieQM.EffectsoftheprotienextractfromBortlatellapertussisonairwayhyperresponsivenessandinflammationinsensitizedmice.AnnualScientificMeetingoftheAmericanCollegeofAllergy,Asthma&amp;Immunology2005,november4-9,AbstractBookp116
+三、成果奖励：
+1.《卡介苗和微卡对哮喘预防和治疗作用的系列实验研究》,浙江省科技进步二等奖,2005,2/7(本人排名/总人数)2.《药源性疾病基础与临床》，浙江省教育厅科技进步三等奖，2000，5/5(本人排名/总人数)
+
+
+			
+				
+			工作研究领域
+			
+			呼吸药理学，抗炎免疫药理学
+			
+				
+			联系方式
+			
+			电话：88208231			电子信箱：xieqm@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：谢强敏
+		单位：基础医学系
+		职称：主任技师
+		我的主页共被访问了13872次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	奖励荣誉
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

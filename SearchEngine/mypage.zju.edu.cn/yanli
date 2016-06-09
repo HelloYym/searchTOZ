@@ -1,0 +1,228 @@
+
+
+
+
+
+李艳的主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0004269";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	李艳的主页
+爱智慧，爱生活！
+
+	永久链接:http://mypage.zju.edu.cn/yanli&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+&nbsp;教育技术学专业教授、博士生导师。2004年在美国德克萨斯A&amp;M大学农业教育系获得博士学位，专业为远程教育。2004年9月至今，任教于浙江大学教育学院，研究领域包括远程教育、信息技术教育、媒体教育、教育创新传播等。
+
+
+
+
+近十年来出版的著作包括《现代远程教育学》（英文）（2007）、《以教育信息化促进教育均衡发展&mdash;宁波江东区的实践与思考》（2010）、《小学媒介教育实验教程》（2012）和《基于网络学习平台的青少年媒介教育实践研究》（2013）。
+
+
+
+
+
+近十年来曾在《开放教育研究》、《中国电化教育》、《远程教育杂志》、《现代远程教育研究》《高等工程教育研究》、《科研管理》、Computers&amp;Education(CAE)、BritishJournalofEducationalTechnology(BJET)、EducationalTechnologyResearch&amp;Development(ETR&amp;D)、AsiaPacificJournalofEducation(APJE)、SocialBehaviorandPersonality(SBP)、InternationalJournalonEmergingTechnologiesinLearning(iJET)、JournalofInternationalAgriculturalandExtensionEducation(JIAEE)等国内外知名学术期刊上发表论文三十余篇。
+近十年来主持的课题包括国家社会科学基金项目&ldquo;世界开放教育资源运动背景下中国高校的应对策略研究&rdquo;、教育部留学回国人员专项课题&ldquo;大学生利用网络资源现状研究&rdquo;、浙江省人事厅&ldquo;钱江人才计划&rdquo;项目&ldquo;大学生利用网络资源中的机遇与障碍因素研究&rdquo;、浙江省哲学社会科学规划课题&ldquo;浙江省中学生媒体素养水平评估及其国际比较研究&rdquo;、全国教育科学&ldquo;十一五&rdquo;规划课题&ldquo;经济发达地区城乡中学生媒体素养水平比较与提高策略研究&rdquo;等。
+
+
+
+
+
+2009年4-7月，在意大利佛罗伦萨大学教育学院做短期访问。2011年，荣获浙江大学&ldquo;求是青年学者&rdquo;称号。2013年，荣获浙江省&ldquo;之江青年社科学者&rdquo;称号。2014年6月－2015年6月，在美国印第安纳大学访学一年。2014年，入选浙江省151人才工程&ldquo;第二层次&rdquo;培养人员。
+			
+				
+			工作研究领域
+			
+			远程教育、信息技术教育、媒体教育、教育创新传播等
+			
+				
+			联系方式
+			
+						电子信箱：yanli@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：李艳
+		单位：浙江大学教育学院教育技术研究所
+		职称：教授
+		我的主页共被访问了31805次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+	出版著作
+	学术交流（讲座报告）
+	教学工作
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

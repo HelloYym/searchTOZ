@@ -1,0 +1,211 @@
+
+
+
+
+
+胡亮-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0011013";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	胡亮
+
+
+	永久链接:http://mypage.zju.edu.cn/huliang&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;
+&nbsp;
+&nbsp;胡亮，男，2008年于美国伊利诺伊大学香槟分校&nbsp;(UIUC)&nbsp;获得健康与锻炼心理学博士学位。目前任浙江大学教育学院副教授，博士生导师。研究方向为健康与锻炼心理学、积极心理学。研究兴趣集中于健康行为促进与幸福感提升的关系及机制，以及从社会心理学视角进行锻炼等健康行为干预和健康促进的原则和方法。目前已在国际学术刊物上发表论文十余篇，主持和参与多项省部级以上课题研究，先后入选浙江省钱江人才，浙江省之江青年学者行动计划，浙江大学求是青年学者资助计划。
+
+			
+				
+			工作研究领域
+			
+			健康与锻炼心理学、积极心理学。研究兴趣集中于健康行为促进与幸福感提升的关系及机制，以及从社会心理学视角进行锻炼等健康行为干预和健康促进的原则和方法。
+			
+				
+			联系方式
+			
+						电子信箱：lianghu@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：胡亮
+		单位：教育学院
+		职称：副教授
+		我的主页共被访问了12911次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		发表论文
+	工作研究项目
+	学术交流（讲座报告）
+	奖励荣誉
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

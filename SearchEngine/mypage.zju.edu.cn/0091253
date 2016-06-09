@@ -1,0 +1,217 @@
+
+
+
+
+
+陆伸-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0091253";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	陆伸
+我爱的职业与语言
+
+	永久链接:http://mypage.zju.edu.cn/0091253&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			1982.8&nbsp;&nbsp;毕业于原杭州大学外语系德语专业
+1982.8-1991.12&nbsp;&nbsp;浙江省机电设计研究院翻译
+1991.12-&nbsp;&nbsp;浙大外国语言文化与国际交流学院德国学研究所任教
+1995.2&nbsp;&nbsp;歌德学院北京分院德语教学法进修&nbsp;
+1996.10-1997.3&nbsp;柏林工业大学德语教学法进修
+2000.7-2000.8&nbsp;&nbsp;歌德学院多塞尔多夫分院经济德语教学法进修
+2003.7-2003.8&nbsp;&nbsp;浙大本科生首批赴德暑期实习项目实施者
+2000.4&nbsp;全国统编教材《大学德语阅读教程》参编
+2002.9&nbsp;&ldquo;新世纪高等学校教育教学改革工程&rdquo;项目、国家级&ldquo;十五规划&rdquo;教材《新编大学德语》第一册副主编&nbsp;
+2004.10&nbsp;普通高等教育&ldquo;十五&rdquo;国家级规划教材《新编大学德语》第一册教师手册主编&nbsp;
+2001-2005&nbsp;教育部高等学校外语教学指导委员会委员
+2006-2010&nbsp;继续任教育部高等学校外语教学指导委员会委员
+			
+				
+			工作研究领域
+			
+			德语语言学与应用语言学
+			
+				
+			联系方式
+			
+			电话：88206031			电子信箱：0091253@fa.zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：陆伸
+		单位：浙江大学德国学研究所
+		职称：副教授
+		我的主页共被访问了5061次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	出版著作
+	实验室介绍
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

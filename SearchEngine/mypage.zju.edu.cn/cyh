@@ -1,0 +1,244 @@
+
+
+
+
+
+陈燕虎-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0012468";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	陈燕虎
+
+
+	永久链接:http://mypage.zju.edu.cn/cyh&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			陈燕虎，博士、副研究员
+&nbsp;
+教育工作经历：
+2014.12-至今&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江大学机械电子控制工程研究所,副研究员
+2013.2-2014.9&nbsp;&nbsp;&nbsp;&nbsp;DepartmentofOcean&amp;ResourcesEngineering,&nbsp;UniversityofHawaii(Manoa),&nbsp;&nbsp;博士后
+2012.10-2013.2&nbsp;&nbsp;&nbsp;浙江大学机械电子控制工程研究所，助理研究员
+2011.9-2011.10&nbsp;&nbsp;&nbsp;美国MBRARI海洋研究所，访问学者
+2011.4-2011.5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;美国MBRARI海洋研究所，访问学者
+2007.9-2012.9&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江大学机械电子控制工程，博士
+2002.9-2007.6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江大学机械电子控制工程，本科
+
+
+
+
+
+&nbsp;
+个人简介：
+2007年于浙江大学获学士学位，2012年于浙江大学获博士学位。2011年先后两次以访问学者身份前往美国MBARI海洋研究所开展中美首次在海底观测网络领域的合作研究，2012年留校从事科研活动，2013年1月前往美国UniversityofHawaii(Manoa)开展博士后研究工作，参与夏威夷的海底观测网研究和建设工作,期间首次提出了输电网络的电流数字化式远程控制理论，解决水下树型网络的输电故障隔离问题，2014年9月结束夏威夷大学工作回国继续开展海洋工程技术研究，同年底晋升副研究员。
+
+
+
+
+
+&nbsp;
+主要研究领域：
+海底观测网、海洋机电装备、直流电能变换。在海底观测网领域，主要开展海底网络输变电技术、海底网络故障诊断与隔离技术研究；在海洋机电装备领域，主要开展深海探测装备技术、海洋机电应用装备技术研究；在直流电能变换领域，主要开展超高压DC/DC电能变换技术、组合式开关电源技术研究。
+&nbsp;
+研究经历和成果：
+作为项目负责人承担国家自然科学基金1项、浙江省自然科学基金1项、国家863计划项目子课题1项，作为技术骨干参与多项国家级、省部级各类研究项目，目前已发表SCI/EI收录的学术论文16篇,包括IEEEJournalofOceanicEngineering,MarineTechnologySocietyJournal等海洋工程领域高水平期刊，已获授权专利16项。
+
+
+
+
+
+&nbsp;
+学术兼职：
+联合国电信联合会绿色海底观测网(ITU-WMO-UNESCOIOCJointTaskForce)专家工作组成员
+国家自然科学基金同行评议专家
+&nbsp;
+&nbsp;
+			
+				
+			工作研究领域
+			
+			海底观测网技术，深海机电装备，水下高压直流微网，DC/DC电能变换，故障诊断隔离
+			
+				
+			联系方式
+			
+						电子信箱：yanhuchen@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：陈燕虎
+		单位：机械工程学院
+		职称：
+		我的主页共被访问了1290次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		学术交流（讲座报告）
+	发表论文
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

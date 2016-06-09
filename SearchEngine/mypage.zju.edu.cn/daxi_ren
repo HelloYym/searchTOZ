@@ -1,0 +1,216 @@
+
+
+
+
+
+任大喜-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0009823";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	任大喜
+民以食为天，食以乳为先！
+
+	永久链接:http://mypage.zju.edu.cn/daxi_ren&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			男，1983年出生，浙江大学动物科学学院，博士，副教授，求是青年学者。主要从事营养与乳制品加工方面的研究工作。主持及参与国家自然基金、国家863项目、中国博士后基金等多项国家及省级科研项目。在《Internationaldairyjournal》、《Journalofdairyscience》、《中国食品学报》、《中国畜牧杂志》等国内外刊物上发表论文30多篇。申请国家专利三项，主参编教材二部。参与国内外学术会议多次，在美国农业部东部研究中心访学一年。
+&nbsp;
+			
+				
+			工作研究领域
+			
+			1.功能性成分的生物转化及营养研究：将各种功能性成分，通过动物模型转化，生产安全优质的功能性乳及乳制品，研究经生物转化后产品品质及功能因子活性变化，并结合各种加工方式，分离鉴定与乳成分结合的功能因子，研究其对人体营养与健康的功效。
+
+2.功能性乳制品及配料开发：重点研究和开发符合中国人口味的乳制品，将地区性生物资源中的功能性成分应用于乳制品中，开发具有中国特色的干酪和婴幼儿食品。
+
+3.特色品种乳制品研究及开发：研究中国特色品种如水牛和山羊等品种乳中营养成分及功能因子，分离和鉴定并研究其营养和医学价值，开发各种特色乳制品。
+			
+				
+			联系方式
+			
+			电话：0571-88982067			电子信箱：dxren@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：任大喜
+		单位：动物科学学院动物科技系奶业科学研究所
+		职称：副教授（自然科学）
+		我的主页共被访问了1271次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		专利成果
+	教学工作
+	出版著作
+	工作研究项目
+	学术交流（讲座报告）
+	实验室介绍
+	发表论文
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

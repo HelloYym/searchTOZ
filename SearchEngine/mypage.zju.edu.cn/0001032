@@ -1,0 +1,218 @@
+
+
+
+
+
+欢迎来到张昱的个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0001032";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	欢迎来到张昱的个人主页
+这里是张昱(Zangwill)的个人主页
+
+	永久链接:http://mypage.zju.edu.cn/0001032&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			张昱，男，高级工程师，山西省沁水县人，1974年3月15日出生。1991年9月至1995年6月在浙江大学信息与电子工程学系信息电子技术专业进行大学本科的学习并获得工学学士学位，1995年9月至1998年2月免试推荐进入浙江大学信息与电子工程学系物理电子学专业进行硕士研究生的学习并获得工学硕士学位，1998年2月至2001年7月在浙江大学信息科学与工程学院信息与电子工程学系物理电子学与光电子学专业进行博士研究生的学习并获得工学博士学位，2001年8月起在浙江大学信息科学与工程学院信息与电子工程学系留校工作至今。
+
+承担了7门课程的教学工作，包括：电子系统与课程设计（现改名为电子系统设计，其中含电子系统与课程设计实验，现改名为电子系统设计实验）、信号与系统实验、现代逻辑设计实验、电子系统设计及调试实验（安装调试2）、无线网络应用和无线网络应用实验、竺可桢学院的网络设计与检测技术基础以及硕士研究生的网络系统设计与测试，考核结果一般均为良好以上。
+指导大学生电子设计竞赛获奖40余次（含全国一、二等奖7次），并且荣获2005年及2009年全国大学生电子设计竞赛浙江赛区优秀指导教师。指导SRTP项目7项，为信息学院SRTP专家组成员。指导本科毕业论文36人，协助指导硕士/博士研究生23人。
+
+共参加科研项目6项，共计科研经费197万元，其中本人完成58.5万元。共发表论文40余篇，其中包括SCI论文3篇，EI论文8篇，ISTP论文1篇。出版著作及教材3本，共177.4万字，本人为44.2万字。编写讲义2本，共约52万字，本人为49万字。发表教改研究论文4篇。
+
+荣获浙江大学校级教学成果奖二等奖两次，参与省精品课程一门、校精品课程一门、校双语课程一门。
+荣获浙江大学信息学院2003-2004年度院级先进工作者、浙江大学信电系2009年度系先进工作者、浙江大学2003-2004学年优秀本科生导师、浙江大学2004-2005学年优秀班主任、浙江大学2005-2006学年优秀班主任。
+			
+				
+			工作研究领域
+			
+			主要从事计算机网络测试及安全性、无线网络应用、可编程逻辑器件应用、EDA技术应用等研究。主要研究方向为网络通信与智能测量处理系统。
+			
+				
+			联系方式
+			
+						电子信箱：zangwill@263.net			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：张昱
+		单位：信息与电子工程学系
+		职称：高级工程师
+		我的主页共被访问了12415次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	奖励荣誉
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,220 @@
+
+
+
+
+
+王新宇个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0007317";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	王新宇个人主页
+超大规模信息系统研究中心
+
+	永久链接:http://mypage.zju.edu.cn/wangxinyu&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			2011.12至今&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江大学计算机学院软件与理论研究所、副教授；
+2009.10-2011.12&nbsp;浙江大学计算机学院软件与理论研究所、讲师；
+2007.7-2009.10&nbsp;&nbsp;&nbsp;浙江大学计算机学院软件与理论研究所、博士后；
+2002.9-2007.7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江大学计算机学院，博士研究生，从事软件再工程的研究；
+1998.9-2002.7&nbsp;&nbsp;&nbsp;&nbsp;浙江大学计算机学院，获学士学位，被保送为硕博连读研究生。
+&nbsp;
+
+主要从事分布式软件架构、软件工程、金融信息工程等方向的研究。发表SCI/EI论文近40篇；主持国家自然科学基金、国家科技支撑计划项目、973项目等多项；主要成果包括：1)分布式系统安全冲突检测方法；2)提出基于数据划分的软件分布式设计方法；3)提出了可信驱动的遗留系统再造方法论及关键技术；4）实时数据流监控平台等。通过产学研合作模式，与工程界展开紧密的项目合作，技术成果应用于多家合作机构或企业中，解决了多项业界的技术难题。项目合作单位包括美国道富银行、中国外汇交易中心、Cisco、IBM、浙大网新等。
+
+
+&nbsp;
+&nbsp;
+			
+				
+			工作研究领域
+			
+			超大规模信息系统/软件工程/金融信息系统
+
+			
+				
+			联系方式
+			
+			电话：0571-87952420			电子信箱：wangxinyu@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：王新宇
+		单位：计算机软件研究所
+		职称：副教授
+		我的主页共被访问了10718次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	实验室介绍
+	发表论文
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

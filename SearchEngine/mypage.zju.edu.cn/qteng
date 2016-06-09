@@ -1,0 +1,214 @@
+
+
+
+
+
+路漫漫-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0096452";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	路漫漫
+教学科研业绩及研究方向
+
+	永久链接:http://mypage.zju.edu.cn/qteng&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			滕启文,&nbsp;女,&nbsp;辽宁鞍山人,&nbsp;1963年生,&nbsp;汉族.&nbsp;1997年加入中国民主同盟,&nbsp;现任民盟浙江大学委员会西溪校区总支委员会副主委,&nbsp;民盟浙江大学委员会委员,&nbsp;民盟浙江省联络委员会副主任,&nbsp;浙江省政协委员,&nbsp;浙江省人民检察院特约检察员.&nbsp;1983年辽宁师范大学化学系本科毕业,&nbsp;1986年吉林大学化学系硕士毕业,&nbsp;同年到长春师范学院工作.&nbsp;1988年晋升为讲师,&nbsp;1993年晋升为副教授,&nbsp;1994年吉林大学理论化学研究所博士毕业,&nbsp;1996年南开大学博士后出站,&nbsp;到原杭州大学化学系工作.&nbsp;2000年晋升为教授,&nbsp;2002年9月到上海外国语大学培训英语,&nbsp;2003年1月赴美国伊利诺州立大学作访问学者,&nbsp;同年6月回国.&nbsp;
+联系电话:&nbsp;057188078954(h),&nbsp;057188206529(o),&nbsp;057185684025,&nbsp;13858186574
+传真:&nbsp;057188078954,057188206529&nbsp;
+EMAIL:&nbsp;wuteng@mail.hz.zj.cn;&nbsp;wushi@zju.edu.cn
+			
+				
+			工作研究领域
+			
+			现在分子设计与分子热力学研究所,从事物理化学教学和科研工作.担任物理化学课程负责人,曾主讲物理化学(中,英文)及结构化学,授课思路清晰,重点突出,难点分散,通俗易懂,逻辑性强,教学内容先进,富有启发性,以学生为主体注重互动式教学,教学效果优秀.同时指导中级化学实验(2)及大学化学实验(P),很受学生欢迎.科研方面主要研究方向有:富勒烯及其衍生物的结构和光谱性质研究,仿生体系对具有生物活性的客体分子的分子识别和分子开关研究,有机杂环化合物的环堆积作用和氢键组装研究,有机发光材料及导电高聚物导电性能与结构关联研究等.用半经验及密度泛函和从头计算法等量子化学计算方法优化体系的结构和性质,在已知物计算结果与实验数据相吻合的前提下,预测未知物的结构和光谱性质.同时承担一些横向科研课题.在《中国科学》，《化学学报》，《高等学校化学学报》，《结构化学》，《有机化学》，《化学物理学报》，《化学进展》，《浙江大学学报》(英文版)，《中国化学》，《Int.J.QuantumChem.》,《CentralEuropeanJournalofChemistry》和《J.Mol.Struc.：Theochem》等国内外著名刊物上,共发表SCI论文52篇,EI论文1篇,其中第一和第二作者的论文有49篇.
+
+			
+				
+			联系方式
+			
+			电话：88206529(o),85684025			电子信箱：wushi@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：滕启文
+		单位：化学系
+		职称：教授
+		我的主页共被访问了30200次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	研究成果
+	奖励荣誉
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

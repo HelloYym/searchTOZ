@@ -1,0 +1,203 @@
+
+
+
+
+
+孙志林-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0077147";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	孙志林
+浙江大学水利与海洋工程学系
+
+	永久链接:http://mypage.zju.edu.cn/szl&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			求学于浙江大学、四川大学和武汉大学，师从谢鉴衡院士获博士学位，并获第一届湖北省优秀博士学位论文奖。1997.8至1999.8在美国Montana大学作研究访问学者。现任浙江大学海洋研究中心副主任，港口海岸与近海工程研究所所长，水利与海洋工程系主任，博士生导师。主讲河流动力学本科课程，计算流体力学、河口学、高等河流动力学和固液二相流理论等研究生课程，主持完成国家自然科学基金和地方合作项目20余项。采用随机过程与力学结合的理论途径和试验手段，对河流力学学科前沿问题进行探索，建立了非均匀沙起动概率公式、非均匀沙推移质公式、床面平衡浓度公式、非均匀沙近底交换模式和冲刷粗化层预报模式等，成果获浙江省科学技术奖（基础类）二等奖。针对杭州市地铁过江方案决策问题，开展钱塘江河口最大冲刷深度研究，为地铁1号线最终选择隧道过江提供了关键性技术依据，成果获浙江省科学技术奖二等奖。围绕浙东引水工程、杭州市引水入城工程，对复杂河网和引水道淤积及输水能力开展研究以解决涉水工程遇到的技术难题。任浙江省海洋学会常务理事，浙江省水利学会常务理事，中国土木工程学会港口航道分会理事。
+			
+				
+			工作研究领域
+			
+			河口海岸数值模拟、港口航道、水沙动力学、水环境与水资源
+			
+				
+			联系方式
+			
+						电子信箱：oceansun@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：孙志林
+		单位：海洋科学与工程学系
+		职称：教授
+		我的主页共被访问了9551次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,215 @@
+
+
+
+
+
+赵荣祥-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0091001";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	赵荣祥
+
+
+	永久链接:http://mypage.zju.edu.cn/0091001&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+
+&nbsp;电力电子应用国家工程研究中心主任，浙江大学工业技术研究院院长，教授，博士生导师。1984年毕业于浙江大学电机系，获学士学位；1984年起从师于许大中教授，1987年和1991年于浙江大学分别获工学硕士学位和工学博士学位，博士论文题目是&ldquo;无位置传感器无换向器电机控制系统的研究&rdquo;，为机械部工业基金项目。1991年留校任教，历任浙江大学讲师、副教授（94.12）、教授(97.10)。2000年4月被批准为博士生导师。现任中国电机工程学会大电机专业委员会副主任、教育部高等学校电气工程及其自动化专业教学指导分委员会委员、全国电力电子学标准化技术委员会委员。
+负责国家自然科学基金项目&ldquo;交流励磁同步电机运行稳定性研究&rdquo;、国家教育部重点项目&ldquo;基于自由度组合的多电平变换器PWM控制技术的研究&rdquo;、国家教委项目&ldquo;便携式高频感应加热电源&rdquo;、机械部工业基金项目&ldquo;380kW交流励磁工业试验平台&rdquo;子项目、浙江省重大科技专项&ldquo;大功率变频技术与装置研发和应用&rdquo;等，参与国家自然科学基金重点项目&ldquo;电力电子系统集成理论与若干关键技术的研究&rdquo;、国家自然科学基金项目&ldquo;应用人工神经网络提高交流传动系统特性和可靠性的研究&rdquo;、教育部博士点基金项目&ldquo;同步电机交流励磁调速的研究&rdquo;、浙江省科委重点项目&ldquo;智能型直线电机冲压机研究&rdquo;及横向项目&ldquo;永磁同步电机变频器的研究&rdquo;、&ldquo;感应加热电源成套控制和监控系统&rdquo;等。积极参与产学研工作，主持开发了PC钢棒热处理生产线、轨枕钢丝热处理线、弹簧钢丝热处理生产线和锻件智能分选系统等，实现了工控技术、热处理技术与感应加热电源技术的技术集成在国内实际推广的生产线已达近100条。约40余篇文章被SCI、EI检索，获浙江省科技进步一等奖、二等奖一项。
+目前主要从事电机及其控制、储能技术和可再生能源技术的研究。
+			
+				
+			工作研究领域
+			
+			电机智能控制器、永磁同步电机驱动系统、变频调速系统、同步电机交流励磁
+感应加热成套系统
+储能系统、照明节电
+			
+				
+			联系方式
+			
+			电话：0571-87951891			电子信箱：rongxiang@cee.zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：赵荣祥
+		单位：浙江大学工业技术研究院
+		职称：教授
+		我的主页共被访问了37421次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	研究成果
+	专利成果
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

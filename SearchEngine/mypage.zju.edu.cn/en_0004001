@@ -1,0 +1,367 @@
+
+
+
+
+
+TuJumin-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0004001";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	TuJumin
+RiceBiotechnology
+
+	Permanentlink:http://mypage.zju.edu.cn/en/0004001&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			
+
+
+TUJumin&nbsp;&nbsp;&nbsp;
+ProfessorofPlantGeneticsandBreeding&nbsp;&nbsp;&nbsp;
+DepartmentofAgronomy/InstituteofCropScience&nbsp;&nbsp;&nbsp;
+CollegeofAgriculttureandBiotechnology&nbsp;&nbsp;&nbsp;
+ZhejiangUniversity&nbsp;&nbsp;&nbsp;
+N0866,Yu-Hang-TangRoad,Hangzhou,310058,&nbsp;&nbsp;&nbsp;
+China&nbsp;&nbsp;&nbsp;
+Tel:0086-571-88982835&nbsp;&nbsp;&nbsp;
+Fax:0086-571-88982835&nbsp;&nbsp;&nbsp;
+e-mail:jtu@zju.edu.cn&nbsp;
+
+Normal.dotm
+0
+0
+1
+164
+937
+ty
+7
+1
+1150
+12.0
+
+
+
+
+
+
+0
+false
+
+
+18pt
+18pt
+0
+0
+
+false
+false
+false
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*StyleDefinitions*/
+table.MsoNormalTable
+	{mso-style-name:"TableNormal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0cm5.4pt0cm5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"TimesNewRoman";
+	mso-ascii-font-family:Cambria;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:"ＭＳ明朝";
+	mso-hansi-font-family:Cambria;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"TimesNewRoman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-fareast-language:EN-US;}
+
+
+Education:
+<spanlang="EN-US"style="font-size:14.0pt;mso-bidi-font-size:
+12.0pt">1978.10-1982.07BSinAgronomy,DepartmentofAgronomy,HuazhongAgriculturalUniversity&nbsp;&nbsp;&nbsp;
+1982.09-1985.07MSinAgronomy,DepartmentofAgronomy,HuazhongAgriculturalUniversity&nbsp;&nbsp;&nbsp;
+1994.09-1998.07Ph.DinMolecularBiology,CollegeofLifeScience,inAgronomy,HuazhongAgriculturalUniversity
+WorkingExperience:
+
+1985.07-1987.09Teachingassistant,DepartmentofAgronomy,HuazhongAgriculturalUniversity&nbsp;&nbsp;&nbsp;
+1987.09-1996.10LecturerDepartmentofAgronomy,HuazhongAgriculturalUniversity&nbsp;&nbsp;&nbsp;
+1996.10-2003.09,AssociateProfessor,DepartmentofAgronomy,HuazhongAgriculturalUniversity&nbsp;&nbsp;&nbsp;
+2003.09-2003.12,Professor,DepartmentofAgronomy,HuazhongAgricultureUniversity&nbsp;&nbsp;&nbsp;
+1995.11-1998.03ResearchScholar,PlantBreeding,GeneticsandBiochemistryDivision,InternationalRiceResearchInstitute,LosBa&ntilde;os,Philippines&nbsp;&nbsp;&nbsp;
+1998.11-2001.07ProjectScientist,PlantBreeding,GeneticsandBiochemistryDivision,InternationalRiceResearchInstitute,LosBa&ntilde;os,Philippines&nbsp;&nbsp;
+2001.07-2004.01SeniorResearchScientist,DepartmentofBiology,TheChineseUniversityofHongKong,NewTerritories,HongKong.&nbsp;&nbsp;&nbsp;&nbsp;
+2004.01-presentProfessor,DepartmentofAgricultureandBiotechnology,ZhejiangUniversity,Hangzhou,Zhejiang&nbsp;&nbsp;&nbsp;
+
+
+
+
+Normal.dotm
+0
+0
+1
+19
+109
+ty
+1
+1
+133
+12.0
+
+
+
+
+
+
+0
+false
+
+
+18pt
+18pt
+0
+0
+
+false
+false
+false
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*StyleDefinitions*/
+table.MsoNormalTable
+	{mso-style-name:"TableNormal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0cm5.4pt0cm5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"TimesNewRoman";
+	mso-ascii-font-family:Cambria;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:"ＭＳ明朝";
+	mso-hansi-font-family:Cambria;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"TimesNewRoman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-fareast-language:EN-US;}
+
+
+			
+				
+			Researchwork
+			
+			Biotechnology,
+
+Mechanismofheat&coldtolerance,
+
+Transcriptional&translationalregulationofpollensterility
+
+
+
+			
+				
+			Contact
+			
+			Phone:0086-571-88982835
+			E-mail:jtu@zju.edu.cn
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:凃巨民
+		Units:DepartmentofAgronomy/InstituteofCropScience,ZhejiangUniversity
+		Title:Professor
+		Myhomepagehasbeenvisited388times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+Selectedpublications
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	
+
+
+Youarevisitor:388
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

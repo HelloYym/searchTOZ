@@ -1,0 +1,236 @@
+
+
+
+
+
+Hao-CheHo(Howard)-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0012080";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	Hao-CheHo(Howard)
+WELCOMETOHOWARD'SHOME
+
+	永久链接:http://mypage.zju.edu.cn/howard&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			学历
+
+2005-2010:美国,爱荷华大学,博士,土木与环境工程学系
+2000-2002:台北,台湾大学,&nbsp;硕士,土木工程学系
+1996-2000:台南,成功大学,&nbsp;&nbsp;学士,水利及海洋工程学系
+&nbsp;&nbsp;
+
+经历
+
+2012-至今:杭州,浙江大学,讲师
+2010-2012:美国,IIHR-Hydroscience&amp;Engineering,博士后研究
+2004-2005:台北,国际水利环境学院,研究助理
+
+&nbsp;&nbsp;
+
+研究领域
+
+&#9658;&nbsp;Sediment-FlowInteraction;Sedimentationprocesses,
+
+&#9658;HydraulicModeling,
+
+&#9658;NumericalModeling,
+
+&#9658;Non-IntrusiveMeeasurementTechniquesinHydraulics&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;andFluidMechanics(LSPIV,PIV,ADCP),
+
+&#9658;GISApplicationsinHydraulics
+			
+				
+			联系方式
+			
+			电话：+86-18858111784			电子信箱：howard-ho@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：何昊哲
+		单位：海洋学院
+		职称：讲师
+		我的主页共被访问了5368次
+标签：PIV
+LSPIV
+ADCP
+Culvert
+Sediment	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		发表论文
+	大尺度粒子影像流速计
+	涵洞设计
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	浙江大学海洋系
+爱荷华资讯系统平台
+IIHR-HydroscienceandEngineering
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,224 @@
+
+
+
+
+
+为科研的自由而思考-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0007419";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	为科研的自由而思考
+
+
+	永久链接:http://mypage.zju.edu.cn/jinyi&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			金毅博士，副教授
+&nbsp;
+求学与工作：
+
+
+1999年获合肥工业大学物理系应用物理专业学士学位；
+2003年获浙江大学物理系光学专业硕士学位；
+2006年获浙江大学光电系光学工程专业博士学位；
+2006年9要－2007年9月到瑞典皇家工学院从事博后工作；
+2007年11月－2009年11月在浙江大学光电系光及电磁波研究中心从事师资博士后工作；
+2009年11月开始在浙江大学光电系光及电磁波研究中心从事教师工作。
+&nbsp;
+访问研究：
+
+
+在2008年和2010年分别去香港中文大学和丹麦科技大学进行短期访问研究；
+在2012年6月－2014年7月去美国加州大学伯克利分校进行为期两年的访问研究。
+&nbsp;
+			
+				
+			工作研究领域
+			
+			微纳光子学，新型人工特异介质，表面等离子体波，光子晶体。
+			
+				
+			联系方式
+			
+			电话：88206523-113			电子信箱：jinyi_2008@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：金毅
+		单位：光电信息工程学系
+		职称：副教授
+		我的主页共被访问了6100次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+	科研动态
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

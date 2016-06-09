@@ -1,0 +1,223 @@
+
+
+
+
+
+YuehaiWang-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0099184";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	YuehaiWang
+ISEE
+
+	Permanentlink:http://mypage.zju.edu.cn/en/yuehaiwang&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			<spanlang="EN-US"style="mso-bidi-font-size:10.5pt;font-family:&quot;TimesNewRoman&quot;,&quot;serif&quot;;
+mso-fareast-font-family:宋体">Publications
+1.YuehaiWang,WeidongWang,ShiyingCao,ShijuLi,LiXie,BaocangDing,Self-SimilaritySuperresolutionforResource-ConstrainedImageSensorNodeinWirelessSensorNetworks,MathematicalProblemsinEngineering,vol.2014,ArticleID719408,10pages,2014.doi:10.1155/2014/719408
+2.WeidongWang,TaoNie,ZhipaoTu,XiaohongChen,YuehaiWang,Athreshold-adaptivefilmmodedetectionmethodinvideode-interlacing,MULTIMEDIATOOLSANDAPPLICATIONS,2013.8.
+3.MiaoYu,YuehaiWang,GuofuWang,BSSbasedanti-jammingmethodforfrequencyhoppingcommunicationagainstpartialbandnoisejamming,SystemsEngineeringandElectronics,2013.35(5)pp:1079-1084.
+4.MiaoYu,YuehaiWang,GuofuWang,AnovelICA-basedfrequencyhoppingreceiverwithcorrelatedjammingsuppression,2012InternationalConferenceonWirelessCommunicationsandSignalProcessing,HuangshanChina.
+5.MiaoYu,YuehaiWang,GuofuWang,IGAbasedanti-jammingmethodoffrequencyhoppingcommunicationagainstcombjamming,JournalofPLAUniversityofScienceandTechnology(NaturalScienceEdition),2012.12,13(6)pp:593-598.
+6.MiaoYu,JunGuo,YuehaiWang,ABlindAdaptiveStochasticResonanceMethod,ComputerEngineering&amp;Science,2012,34(4)pp:114-118.
+7.ZHANGShen,WANGWei-dong,ZHAOYa-fei,WUZu-cheng,&nbsp;WANGYue-hai,ZHANGMing,3D-DCTbasedvolumetricthree-dimensionalvideodatacompressionmethod,JournalofZhejiangUniversity(EngineeringScience),2012,46(1)pp:112-117.
+8.YafeiZhao,WeidongWang,YuehaiWang,AReal-timeHandGestureRecognitionMethod,Proceedingsof2011InternationalConferenceonElectronics,CommunicationsandControl(ICECC2011)Sept.9,2011,Vol(5),2475-2478.
+9.YuyeJin,ShijuLi,YanboWang,YuehaiWang,IndependentcomponentanalysisbasedblindadaptivemultiuserdetectorforCDMA,JournalofZhejiangUniversity(EngineeringScience),2008,42(10)pp:1745-1750.
+10.TIANYushuang,WANGYue-hai,LIShiju,SONGChengsen,ModulationClassificationforTiming-ErrorMQAMSignal,JournalofJiangnanUniversity(NaturalScienceEdition),2008,7(2)pp179-182.
+11.ZhuxiangLin,ZhaoyangZhang,YuehaiWang,WenzhengChen,TheImplementationofLANVODSystemwithIPMulticast,Computerapplicationresearch,2002,vol6pp:138-143.
+&nbsp;
+<spanlang="EN-US"style="mso-bidi-font-size:10.5pt;font-family:宋体;mso-hansi-font-family:
+&quot;TimesNewRoman&quot;;mso-bidi-font-family:宋体">&nbsp;
+Patents<spanlang="EN-US"style="mso-bidi-font-size:
+10.5pt;font-family:宋体;mso-hansi-font-family:&quot;TimesNewRoman&quot;;mso-bidi-font-family:
+宋体">
+1.YuehaiWang,Asoundwavescommunicationmethodfordrillpipe,China,20101018798.0.
+2.JieYang,ShijuLi,YuehaiWang,Auniversaldemodulationmethodformodulatedsignals,China,201010504516.1.
+3.ZhihuaXu,WeiguoWang,XiangdongJin,YuehaiWang,AcontrolboxforLow-voltageelectricaldevices,China,03210540.
+4.XiangdongJin,YuehaiWang,LipingXi,AIRrepeater,China,200420037243.
+5.XiangdongJin,YuehaiWang,WeiguoWang,ZhihuaXu,APCAdapter,China,200420037244.
+6.XiangdongJin,YuehaiWang,WeiguoWang,ZhihuaXu,Adigitalvoiceintelligentcontroller,China,03210440.
+7.WeiguoWang,XiangdongJin,YuehaiWang,ZhaoyangZhang,ZhihuaXu,Anintelligentsecurityalarmdevice,China,03210439.
+8.YuehaiWang,XiangdongJin,WenzhengChen,WeiguoWang,ZhihuaXu,Anintelligentappliancecontrolinterfacedevice,China,03210438.&nbsp;
+			
+				
+			Researchwork
+			
+			ImageandVideoSignalProcessing,WirelessnetworkCommunication,Embeddedsystem
+			
+				
+			Contact
+			
+			Phone:86-571-87951687
+			E-mail:wyuehai@zju.edu.cn
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:YuehaiWang
+		Units:ISEE
+		Title:
+		Myhomepagehasbeenvisited838times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	
+
+
+Youarevisitor:838
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

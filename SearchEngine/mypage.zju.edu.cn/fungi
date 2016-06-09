@@ -1,0 +1,222 @@
+
+
+
+
+
+章初龙-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0097297";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	章初龙
+我的真菌世界
+
+	永久链接:http://mypage.zju.edu.cn/fungi&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;受教育经历
+1999/09至2003/06，浙江大学植物病理学，博士研究生
+1994/09至1997/07，浙江农业大学植物保护系，硕士研究生
+1990/09至1994/07，浙江农业大学植物保护系，本科
+研究工作经历
+2014/12至今，&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江大学农业与生物技术学院生物技术研究所，教授
+2007/12至2014/12，浙江大学农业与生物技术学院生物技术研究所，副教授
+2012/03至2013/02，奥地利维也纳技术大学，访问学者
+2002/09至2012/12，比利时鲁汶大学，访问学者
+1999/12至2007/11，浙江大学农业与生物技术学院，讲师
+1997/08至1999/11，浙江大学植保系，助教
+			
+				
+			工作研究领域
+			
+			从事植物内生真菌资源与多样性、木霉菌资源与多样性、内生真菌与植物互作、生物农药（肥料）研究开发，取得的主要研究成果：（1）阐明野生稻内生真菌多样性，发现一种典型的暗色有隔内生真菌新种稻镰状瓶霉Harpophoraoryzae，证明内生真菌稻镰状瓶霉与近缘病原真菌（包括稻瘟病菌Magnaportheoryzae、小麦全蚀病菌Gaeumannomycesgraminis、早熟禾夏季斑枯病菌Magnaporthiopsispoae）拥有共同的致病性真菌祖先，发现稻镰状瓶霉与稻瘟病菌在水稻侵染过程和基因表达调控上的异同，提出内生真菌、病原真菌与同一植物互作的新模型，对阐明共生互作与病原互作的异同、内生真菌与病原真菌的进化关系具有重要的科学意义；（2）阐明麝香霉属Muscodor内生真菌的系统发育地位，提出了麝香霉属真菌分类鉴定新标准，发现内生真菌新种凤阳麝香霉Muscodorfengyangensis；研发了凤阳麝香霉小试发酵工艺，初步研制了麝香霉生物熏蒸剂制剂；（3）阐明木霉种在东亚自北向南的梯度分布规律，发现内生真菌新种紫杉木霉Trichodermataxi；研发了木霉菌素原药和制剂，并获得农业部农药田间试验证书，建成1套木霉菌素1吨中试发酵系统。
+			
+				
+			联系方式
+			
+			电话：0571-88982291			电子信箱：clzhang@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：章初龙
+		单位：农业与生物技术学院应用生物科学系
+		职称：教授
+		我的主页共被访问了17547次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+	专利成果
+	奖励荣誉
+	出版著作
+	教学工作
+	学术交流（讲座报告）
+	实验室介绍
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

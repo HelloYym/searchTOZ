@@ -1,0 +1,326 @@
+
+
+
+
+
+浙江大学王英杰-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0009039";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	浙江大学王英杰
+
+
+	永久链接:http://mypage.zju.edu.cn/yingjiewang&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+
+
+
+
+教育工作经历
+
+
+
+
+
+1988/09-1992/06杭州大学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;学士
+1992/09-1995/06杭州大学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;硕士
+1995/07-1997/04杭州高乐生化制品有限公司&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;技术员
+1997/06-2001/08澳大利亚弗林德斯大学(FlindersUniversity)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;博士
+2001/10-2004/10美国德州大学西南医学中心(UTSouthwestern)&nbsp;博士后
+2004/11-2009/05美国默克制药公司&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SeniorResearchBiochemist
+2009/06&ndash;现在&nbsp;&nbsp;浙江大学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;研究员
+&nbsp;
+&nbsp;
+个人简介
+&nbsp;
+王英杰，男，1970年5月出生于浙江省杭州市。现任浙江大学医学院研究员、博士生导师，浙医一院传染病诊治国家重点实验室和感染性疾病诊治协同创新中心PI（课题组长）。长期致力于肿瘤细胞生物学和病毒学研究，兼具学术界和制药企业的学习工作经历，在肿瘤干细胞等研究领域取得了一系列原创性成果。
+&nbsp;
+&nbsp;
+研究方向
+&nbsp;
+肿瘤干细胞基础研究与新药研发
+
+细胞命运转化分子机理与临床应用
+
+艾滋病宿主因子作用机理与新药研发
+&nbsp;
+&nbsp;
+学术成果
+&nbsp;
+迄今已在Cell、MolecularCell、NatureCommunications、JournalofCellBiology等SCI期刊发表研究论文三十余篇，主要取得下列成果：
+&nbsp;
+1）揭示了核心干性转录因子Oct4的系列翻译后修饰在多能干细胞和肿瘤干细胞增殖与分化中的作用：发现蛋白激酶Akt可磷酸化最关键的干性转录因子Oct4，Oct4又能以正反馈方式激活AKT基因转录，从而在干细胞自我更新和凋亡之间建立起全新的联系，提出和阐述了多能干细胞中&ldquo;Akt-Oct4调控通路&rdquo;的新概念，证明肝癌、脑胶质瘤等肿瘤干细胞中&ldquo;Akt-Oct4调控通路&rdquo;被过度激活，是潜在的药物靶标；建立了Oct4重组蛋白的体外翻译后修饰体系，提出了&ldquo;特定胞内外信号对应蛋白质上特异性翻译后修饰条形码&rdquo;的假说，证明系列翻译后修饰调控Oct4-Sox2蛋白互作，并协调多能干细胞向中内胚层分化和上皮&ndash;间质转化。
+&nbsp;
+2）揭示了氨基酸代谢物和微环境通过Oct4转录水平调节肿瘤干细胞的增殖分化：证实Oct4基因在脑胶质瘤等一系列分化的肿瘤细胞系中低量转录，且其转录水平可被系列小分子化合物显著上调或下调，为Oct4在分化细胞中表达的可塑性提供了明确证据；进一步证明，在脑胶质瘤、肝癌等肿瘤细胞中，内源的色氨酸代谢产物ITE可作为配体激活芳香烃受体AhR，促使AhR结合在Oct4基因的启动子区，抑制Oct4转录。当肿瘤微环境中色氨酸等氨基酸耗竭或高度缺氧等条件导致ITE浓度显著下降时，原先结合的AhR会脱离Oct4启动子，使Oct4表达上调，启动肿瘤干细胞形成。外源ITE可诱导肿瘤干细胞发生分化，显著降低其致瘤能力。
+&nbsp;
+3）发现了磷酸肌醇信号分子在细胞囊泡运输和细胞增殖中的新功能：首次揭示磷酸肌醇PtdIns(4)P主要分布在人体细胞内的反面高尔基网(TGN)区域，通过直接招募AP1等调控囊泡运输的关键蛋白，促进TGN区囊泡的形成和转运。据此提出了&ldquo;不同磷酸肌醇可能作为不同细胞器表面特异性标志分子和协同受体&rdquo;的假说，得到后续实验证据的广泛支持，为抗肿瘤、抗病毒治疗等提供了新型的药物靶标；阐明真核细胞中PIP5KI三种亚型(alpha,beta,gamma)所合成的PtdIns(4,5)P2分别具有调节actin细胞骨架系统、调节受体介导的细胞内吞和调节细胞内钙信号转导的特异性功能。
+&nbsp;
+&nbsp;
+代表论文
+&nbsp;
+
+
+Normal
+0
+
+7.8磅
+0
+2
+
+false
+false
+false
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MicrosoftInternetExplorer4
+
+
+ChengJ,LiW,KangB,ZhouY,SongJ,DanS,YangY,ZhangX,LiJ,YinS,YaoH,ZhuC,YiW,ZhaoQ,XuX,ZhengM,ZhengS,LiL,ShenB,WangYJ.(2015)TryptophanderivativesregulatethetranscriptionofOct4instem-likecancercells.NatureCommunications,6:7209.&nbsp;
+&nbsp;
+ZhaoQW,ZhouYW,LiWX,YangY,ChengJ,ZhangXQ,YinSY,TongY,HeJQ,KangB,YaoHP,ZhengM,WangYJ.(2015)Akt-mediatedphosphorylationofOct4isassociatedwiththeproliferationofstem-likecancercells.OncologyReports,33(4):1621-1629.
+&nbsp;
+LinY,YangY,LiW,ChenQ,LiJ,PanX,ZhouL,LiuC,ChenC,HeJ,CaoH,YaoH,ZhengL,XuX,XiaZ,RenJ,XiaoL,LiL,ShenB,ZhouH,<bstyle="mso-bidi-font-weight:
+normal">WangYJ.(2012)ReciprocalregulationofAktandOct4promotestheself-renewalandsurvivalofembryonalcarcinomacells.<bstyle="mso-bidi-font-weight:
+normal">MolecularCell,48(4):627-640.
+&nbsp;
+<bstyle="mso-bidi-font-weight:
+normal">WangYJ,LiWH,WangJ,XuK,DongP,LuoX,YinHL(2004)CriticalroleofPIP5KIg87inInsP3-mediatedCa2+signaling.<bstyle="mso-bidi-font-weight:
+normal">JournalofCellBiology,167(6):1005-1010.
+&nbsp;
+<bstyle="mso-bidi-font-weight:
+normal">WangYJ,WangJ,SunHQ,MartinezM,SunYX,MaciaE,KirchhausenT,AlbanesiJP,RothMG,YinHL(2003)Phosphatidylinositol4phosphateregulatestargetingofclathrinadaptorAP-1complexestotheGolgi.Cell,114(3):299-310.
+
+
+
+
+
+/*StyleDefinitions*/
+table.MsoNormalTable
+{mso-style-name:普通表格;
+mso-tstyle-rowband-size:0;
+mso-tstyle-colband-size:0;
+mso-style-noshow:yes;
+mso-style-parent:"";
+mso-padding-alt:0cm5.4pt0cm5.4pt;
+mso-para-margin:0cm;
+mso-para-margin-bottom:.0001pt;
+mso-pagination:widow-orphan;
+font-size:10.0pt;
+font-family:"TimesNewRoman";
+mso-fareast-font-family:"TimesNewRoman";
+mso-ansi-language:#0400;
+mso-fareast-language:#0400;
+mso-bidi-language:#0400;}
+
+
+
+&nbsp;
+
+
+
+			
+				
+			工作研究领域
+			
+			肿瘤分子与细胞病理学；抗病毒机理和新药研发
+			
+				
+			联系方式
+			
+						电子信箱：yingjiewang@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：王英杰
+		单位：医学院
+		职称：研究员（自然科学）
+		我的主页共被访问了1227次
+标签：病理生理学，肿瘤病理学，肿瘤细胞生物学，肿瘤干细胞，抗肿瘤药物，肿瘤诊断与检测，细胞增殖与分化，细胞命运转化，细胞信号转导，多能干细胞，干性转录因子，Oct4，病毒生物学，抗病毒机理，宿主因子	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	奖励荣誉
+	研究成果
+	实验室介绍
+	发表论文
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

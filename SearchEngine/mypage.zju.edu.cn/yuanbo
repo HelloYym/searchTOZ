@@ -1,0 +1,218 @@
+
+
+
+
+
+袁波-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0005254";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	袁波
+
+
+	永久链接:http://mypage.zju.edu.cn/yuanbo&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			1978年4月出生，1999年上海交通大学本科毕业，2005年获上海交通大学光学工程博士学位，2005年至2007年在浙江大学从事博士后研究工作，2008年晋升为浙江大学光电系副教授、硕士生导师。
+&nbsp;
+主要从事光电编码技术/微纳米技术、图像传感技术、光谱分析与检测等领域的应用基础和应用技术研究。近年主持和完成国家自然科学基金项目1项、省部级科学基金项目1项、重点横向项目1项、其它横向项目2项；另外作为主要成员参与国家自然科学基金项目1项、国家863计划课题1项、国家973计划课题1项、国家科技支撑计划1项、其它军工横向项目4项。发表学术论文30余篇，其中SCI收录论文10余篇，EI与ISTP收录论文10余篇，授权国家发明专利3项、实用新型专利2项、计算机软件著作权登记1项。
+&nbsp;
+主要的学习和研究工作经历如下：
+2008.01-&nbsp;现在&nbsp;&nbsp;&nbsp;&nbsp;浙江大学光电系任教，副教授，硕士生导师，主要从事光电编码技术方面的研究工作
+2005.09-2007.12&nbsp;浙江大学国家光学仪器工程技术研究中心，博士后，主要从事图像传感和光谱分析方面的研究工作
+2002.03-2005.03&nbsp;上海交通大学物理系光学工程专业，博士研究生，主要从事蛋白分子的红外/近红外光谱特性研究
+1999.09-2002.02&nbsp;上海交通大学物理系光学专业，硕士研究生，主要从事平板波导的理论和应用研究
+1995.09-1999.07&nbsp;上海交通大学应用物理系，本科
+			
+				
+			工作研究领域
+			
+			微纳测量技术，数字传感技术，光谱测量与分析
+			
+				
+			联系方式
+			
+			电话：0571-87952315,13735494230			电子信箱：yuanbo@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：袁波
+		单位：光电信息工程学系
+		职称：副研究员（自然科学）
+		我的主页共被访问了8449次
+标签：光学测量光学工程	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		专利成果
+	教学工作
+	工作研究项目
+	发表论文
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

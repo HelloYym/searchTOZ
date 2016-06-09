@@ -1,0 +1,208 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0065053";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0065053&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			王明华，男，1942-08-20出生于山东省诸城，浙江大学教授，中国共产党党员，中国光学学会纤维光学与集成光学专业委员会委员,杭州市电子学会理事长。
+			
+				
+			工作研究领域
+			
+			(1)光波导理论及三维光波导设计：一方面光波导理论是每一位本领域研究生必须掌握的基础知识，另一方面，随着集成光波导结构及材料的不断发展，特别是量子阱及超晶格材料，聚合物、SiO2及玻璃(面向应用)等材料的实用化，为了获得更加优化的光波导设计，理论研究是必不可少的。例如，硕士论文：(40GHzGaAs行波量子阱电光调制器的研究)，博士论文：(高速量子阱行波光调制器研究)等，着重研究的是非对称耦合量子阱的特性，通过理论研究设计出用于超高速光调制器的材料结构並用于器件研制。此外，多模干涉理论在集成光学中是一个新的研究领域，多模干涉器在集成光学中有多方面的应用，博士论文(多模干涉型集成光学器件研究)是国内進行该方面基础研究的成果;
+(2)高速光调制器与光开关研究：侧重点在化合物半导体材料，包括GaAs、InP等，器件结构包括脊型平面波导与量子阱波导器件。博士论文：(液相外迟延生长与截止型强度调制器研究)、(III-V族半导体行波调制器的研究)。3dB带宽達到30GHz。目前该领域仍具有良好的研发前景;
+(3)集成光开关及光开关阵列研究：光开关与光开关阵列是光纤通信系统中必不可少的关键性器件，它的研究工作一直受到国内外广泛的重视。博士论文(GaAsMach-Zehnder干涉型光开关研究)；(GaAs光波导开关阵列研究)；(全内反射光开关列阵与多模干涉器的集成化研究)等反映了在本领域的研究成果。现在正集中精力在化合物半导体量子阱与超晶格材料全内反射型光开关阵列的研究，並在半导体材料中带内与子带间的光吸收机理方面進行理论探讨，以期在髙速光开关方面得到应用;
+(4)多种光波导材料及集成光学器件研究：LiNbO3材料、玻璃、硅基SOI、聚合物等都是优良的光波导材料，由这些材料研发的集成光波导器件在光纤通信及光传感等方面有广泛的应用。博士论文(光纤陀螺用GaAs集成光学芯片的研制)；硕士论文(光纤陀螺系统中的铌酸锂调制器的分析与设计)等属于这方面的研究。集成化玻璃基光功分器己進入产品化研发，并与产业届开始了有意义的合作;
+			
+				
+			联系方式
+			
+			电话：0571-87951706			电子信箱：wangmh@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：王明华
+		单位：信息与电子工程学系
+		职称：教授
+		我的主页共被访问了8133次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		主要论文著作及被收录获奖情况
+	主要科研项目及获奖情况
+	其他
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

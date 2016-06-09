@@ -1,0 +1,204 @@
+
+
+
+
+
+齐宏妍-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0009647";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	齐宏妍
+
+
+	永久链接:http://mypage.zju.edu.cn/qihongyan&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			齐宏妍，河北唐山人。2004年毕业于意大利卡拉布利亚大学药学系，获药学硕士学位。2008年毕业于意大利卡拉布利亚大学分子生物学与肿瘤学专业，并获博士学位。2009-至今在浙江大学医学院病理学与病理生理学研究室从事博士后工作。曾获国家级奖学金，公派赴意留学。在意留学期间，参与并承担了多项意大利国家科学基金和健康基金(MURST)资助项目以及意大利肿瘤研究协会(AIRC)资助项目。2009年获得博士后科学基金一项。研究成果已发表SCI论文多篇（包括Endocrine-RelatedCancer,MolEndocrinol,BreastCancerResTreat,ASPJournal)。
+			
+				
+			工作研究领域
+			
+			信号通路分子STAT3蛋白翻译后修饰在其信号通路转导中的作用机制的研究
+			
+				
+			联系方式
+			
+			电话：88208208			电子信箱：qi_hongyan555@yahoo.it			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：齐宏妍
+		单位：基础医学系
+		职称：助理研究员（自然科学）
+		我的主页共被访问了979次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

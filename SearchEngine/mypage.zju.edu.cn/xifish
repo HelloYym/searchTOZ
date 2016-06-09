@@ -1,0 +1,287 @@
+
+
+
+
+
+席秀娟-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0010710";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	席秀娟
+老和山的粉丝
+
+	永久链接:http://mypage.zju.edu.cn/xifish&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;
+席秀娟，博士，讲师
+2000年本科毕业于河南大学化学化工学院，获工学学士学位。2002年9月进入浙江大学高分子科学与工程系攻读博士学位，2007年3月获理学博士学位。2007年4月至2010年6月在河南工业大学从事教学工作，2007年7月初定讲师。2010年6月至今在浙江大学化工系生物纳米工程中心申有青教授课题组从事博士后研究工作。
+&nbsp;
+学习经历
+<spanlang="EN-US"style="mso-bidi-font-size:10.5pt;
+font-family:宋体">1996.09-2000.07&nbsp;<spanstyle="mso-bidi-font-size:10.5pt;
+font-family:宋体">河南大学，高分子化工，工学学士
+<spanlang="EN-US"style="mso-bidi-font-size:10.5pt;
+font-family:宋体">2002.09-2007.03&nbsp;<spanstyle="mso-bidi-font-size:10.5pt;
+font-family:宋体">浙江大学，高分子化学与物理，理学博士
+<spanlang="EN-US"style="mso-bidi-font-size:10.5pt;
+font-family:宋体">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;论文：N-噁唑啉苯基马来酰亚胺光学活性聚合物及其手性聚集
+<spanlang="EN-US"style="mso-bidi-font-size:10.5pt;
+font-family:宋体">&nbsp;
+工作经历
+<spanlang="EN-US"style="mso-bidi-font-size:10.5pt;
+font-family:宋体">2007.4-2010.5&nbsp;&nbsp;&nbsp;河南工业大学，材料学院，教师
+<spanlang="EN-US"style="mso-bidi-font-size:10.5pt;
+font-family:宋体">2010.6-2013.6&nbsp;&nbsp;&nbsp;浙江大学，化学工程与生物工程学系，博士后
+<spanlang="EN-US"style="mso-bidi-font-size:10.5pt;
+font-family:宋体">2013.7-<spanstyle="mso-bidi-font-size:10.5pt;
+font-family:宋体">至今&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江大学，化学工程与生物工程学系，二站博士后
+&nbsp;
+教学课程
+《有机化学》（2008年，2009年第一学期）（河南工业大学）（大二本科生）
+《聚合过程及设备》（2008年，2009年，2010年第二学期）（河南工业大学）（大四本科生）
+&nbsp;
+<spanstyle="mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;
+mso-hansi-font-family:&quot;TimesNewRoman&quot;">主持和参加的科研项目
+<pclass="MsoNormal"style="margin-left:18.0pt;text-indent:-18.0pt;mso-list:l1level1lfo2;
+tab-stops:list18.0pt"><spanlang="EN-US"style="font-size:
+12.0pt;mso-bidi-font-size:10.5pt;font-family:宋体;mso-bidi-font-family:宋体">&nbsp;&nbsp;1.&nbsp;&nbsp;&nbsp;<spanstyle="mso-bidi-font-size:10.5pt;font-family:宋体;mso-bidi-font-family:黑体;
+mso-font-kerning:0pt">国家科学基金青年科学基金项目<spanstyle="mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:
+&quot;TimesNewRoman&quot;;mso-font-kerning:0pt">：<spanstyle="mso-bidi-font-size:
+10.5pt;font-family:宋体;mso-bidi-font-family:黑体;mso-font-kerning:0pt">以天然药物--没食子酸为基元构筑可降解树枝状大分子多功能载体的研究，2013.1-2015.12<spanstyle="mso-bidi-font-size:
+10.5pt;font-family:宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;mso-hansi-font-family:
+&quot;TimesNewRoman&quot;">，主持人；
+<pclass="MsoNormal"style="margin-left:18.0pt;text-indent:-18.0pt;mso-list:l1level1lfo2;
+tab-stops:list18.0pt"><spanlang="EN-US"style="font-size:
+12.0pt;mso-bidi-font-size:10.5pt;font-family:宋体;mso-bidi-font-family:宋体">&nbsp;&nbsp;2.&nbsp;&nbsp;&nbsp;<spanstyle="mso-bidi-font-size:10.5pt;font-family:宋体;mso-bidi-font-family:黑体;
+mso-font-kerning:0pt">第六批博士后特别资助项目：<spanstyle="mso-bidi-font-size:
+10.5pt;font-family:宋体">新型谷胱甘肽敏感壳层可脱落纳米粒子的载药性能研究,2013.1-2015.1<spanstyle="mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;
+mso-hansi-font-family:&quot;TimesNewRoman&quot;">，主持人；
+<pclass="MsoNormal"style="margin-left:18.0pt;text-indent:-18.0pt;mso-list:l1level1lfo2;
+tab-stops:list18.0pt">&nbsp;&nbsp;3.&nbsp;&nbsp;<spanstyle="mso-bidi-font-size:10.5pt;
+font-family:宋体">国家自然科学基金面上项目：<spanstyle="mso-bidi-font-size:10.5pt;
+font-family:宋体">单变量纳米药物的制备及其理化特征对抗肿瘤生物学特性影响的研究，2013.1-2016.12<spanstyle="mso-bidi-font-size:
+10.5pt;font-family:宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;mso-hansi-font-family:
+&quot;TimesNewRoman&quot;">，第三参与人；
+<pclass="MsoNormal"style="margin-left:18.0pt;text-indent:-18.0pt;mso-list:l1level1lfo2;
+tab-stops:list18.0pt">&nbsp;&nbsp;4.&nbsp;国家重大项目：新型拓扑高分子的高效合成，2011.1-2014.12，第五参与人；<spanlang="EN-US"style="font-size:12.0pt;
+font-family:宋体">
+&nbsp;
+<spanstyle="mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;
+mso-hansi-font-family:&quot;TimesNewRoman&quot;">代表性论文
+<pclass="MsoNormal"style="margin-left:18.0pt;text-indent:-18.0pt;mso-list:l0level2lfo1;
+tab-stops:list18.0pt;mso-layout-grid-align:none;text-autospace:none">&nbsp;&nbsp;&nbsp;1.&nbsp;&nbsp;&nbsp;XiujuanXi,GuangxuanLiu,WeiLu,LimingJiang,WeilinSun,ZhiquanShen,OpticallyactivecopolymersofN-(oxazolinyl)phenylmaleimideswithmethylmethacrylate:SynthesisandchiralrecognitionabilityPolymer,2009,50,404-409.
+<pclass="MsoNormal"style="margin-left:18.0pt;text-indent:-18.0pt;mso-list:l0level2lfo1;
+tab-stops:list18.0pt;mso-layout-grid-align:none;text-autospace:none">&nbsp;&nbsp;&nbsp;2.&nbsp;&nbsp;&nbsp;XiujuanXi,LipingLou,LimingJiang,WeilinSun,ZhiquanShen,Poly(N-phenylmaleimides)bearingchiraloxazolinylpendant:Supramolecularaggregationandenantioselectivityinfluorescenceresponse&nbsp;Polymer,2008,49,2065-2070.
+<pclass="MsoNormal"style="margin-left:18.0pt;text-indent:-18.0pt;mso-list:l0level2lfo1;
+tab-stops:list18.0pt;mso-layout-grid-align:none;text-autospace:none">&nbsp;&nbsp;&nbsp;3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;XiujuanXi,LimingJiang,WeilinSun,ZhiquanShen,Metal-InducedSupramolecularChiralityinOpticallyActivePolymersofOxazoline-SubstitutedN-Phenylmaleimides&nbsp;Chirality,2007,19,521-527.
+<pclass="MsoNormal"style="margin-left:18.0pt;text-indent:-18.0pt;mso-list:l0level2lfo1;
+tab-stops:list18.0pt;mso-layout-grid-align:none;text-autospace:none">&nbsp;&nbsp;&nbsp;4.&nbsp;&nbsp;&nbsp;ZhengFu,XiujuanXi,LimingJiang,ZhiquanShen,Opticallyactivepolymethacrylamidesbearingabulkyoxazolinependant:synthesisandcharacterizationReactive&amp;FunctionalPolymers,2007,67636-643.
+<pclass="MsoNormal"style="margin-left:18.0pt;text-indent:-18.0pt;mso-list:l0level2lfo1;
+tab-stops:list18.0pt;mso-layout-grid-align:none;text-autospace:none">&nbsp;&nbsp;&nbsp;5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;XiujuanXi,LimingJiang,JunLing,WeilinSun,ZhiquanShen,SynthesisofStar-ShapedPoly(&epsilon;-caprolactone)bySamarium-BasedTetrafunctionalInitiatorandItsDilute-SolutionProperties,JournalofAppliedPolymerScienceJournalofAppliedPolymerScience,2006,102,175&ndash;182.
+<pclass="MsoNormal"style="margin-left:18.0pt;text-indent:-18.0pt;mso-list:l0level2lfo1;
+tab-stops:list18.0pt;mso-layout-grid-align:none;text-autospace:none">&nbsp;&nbsp;&nbsp;6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;XiujuanXi,LimingJiang,WeilinSun,ZhiquanShen,SynthesisandAnionicPolymerizationofOpticallyActiveN-PhenylmaleimidesBearingBulkyOxazolineSubstituents&nbsp;EuropeanPolymerJournal,2005,41,2592<spanstyle="mso-bidi-font-size:10.5pt;
+font-family:AdvEPSTIM;mso-ascii-font-family:&quot;TimesNewRoman&quot;;mso-font-kerning:
+0pt;mso-ansi-language:EN-GB">&ndash;2601.
+<pclass="MsoNormal"style="margin-left:18.0pt;text-indent:-18.0pt;mso-list:l0level2lfo1;
+tab-stops:list18.0pt;mso-layout-grid-align:none;text-autospace:none">&nbsp;&nbsp;&nbsp;7.&nbsp;&nbsp;&nbsp;席秀娟，张猛，张琳琪，邹文俊，江黎明，N-<spanstyle="mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;
+mso-hansi-font-family:&quot;TimesNewRoman&quot;">取代马来酰亚胺光学活性聚合物研究进展<spanstyle="mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;
+mso-hansi-font-family:&quot;TimesNewRoman&quot;">，<spanstyle="mso-bidi-font-size:
+10.5pt;font-family:宋体">高分子通报，2009<spanlang="EN-US"style="mso-bidi-font-size:10.5pt;font-family:宋体;mso-bidi-font-weight:
+bold">.8<spanstyle="mso-bidi-font-size:10.5pt;font-family:宋体;
+mso-bidi-font-weight:bold">，66-73.
+<pclass="MsoNormal"style="margin-left:18.0pt;text-indent:-18.0pt;mso-list:l0level2lfo1;
+tab-stops:list18.0pt;mso-layout-grid-align:none;text-autospace:none">&nbsp;&nbsp;8.&nbsp;&nbsp;<spanstyle="mso-bidi-font-size:10.5pt;
+font-family:宋体">张猛，席秀娟，王改民，聚乙二醇辅助水热法组装锑纳米片为三维纳米超结构的研究，河南师范大学学报(自然科学版)，2009,3（37）165-167.
+<spanstyle="font-size:10.5pt;font-family:宋体;mso-bidi-font-family:&quot;TimesNewRoman&quot;;
+mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;
+mso-bidi-language:AR-SA">&nbsp;&nbsp;9.&nbsp;倪华钢，江黎明，席秀娟，孙维林，N-噁唑&nbsp;&nbsp;啉苯基马来酰亚胺的合成，石油化工，2004,33(10),960-963.
+&nbsp;
+			
+				
+			工作研究领域
+			
+			功能高分子生物医用高分子载体与缓释树枝状大分子合成
+			
+				
+			联系方式
+			
+						电子信箱：xiujuanxi@163.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：席秀娟
+		单位：化学工程与生物工程学系
+		职称：讲师
+		我的主页共被访问了377次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

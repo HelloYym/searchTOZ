@@ -1,0 +1,270 @@
+
+
+
+
+
+林志猛-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0012711";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	林志猛
+浙江大学哲学系
+
+	永久链接:http://mypage.zju.edu.cn/linzhimeng&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			林志猛，1980年11月出生，福建厦门人。浙江大学哲学系教师，硕士导师，求是青年学者。中国人民大学文学博士（导师：刘小枫教授），中山大学哲学硕士，浙江大学哲学博士后，伦敦大学学院（UniversityCollegeLondon）希腊语与拉丁语系访问学者（2013.6-2014.6，欧盟EMEA奖学金资助）。修习过古希腊语、拉丁语、德语、英语，能熟练翻译相关学术著作。
+&nbsp;
+研究领域：古希腊哲学、宗教、政治哲学、法哲学、自然法、伦理学、古典诗学&nbsp;
+&nbsp;
+学术成果
+（一）著作：1、《立法哲人的虔敬：柏拉图&lt;法义&gt;卷十义疏》（30万字，另附《法义》卷十希腊文中译，及相关英德法笺注中译文），中国社会科学出版社，2015即出。
+&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;2、《柏拉图&lt;米诺斯&gt;译/疏》（21万字），华夏出版社，2010。
+&nbsp;
+（二）编著：1、《立法者的神学：柏拉图&lt;法义&gt;卷十绎读》（译文集），华夏出版社，2013。
+&nbsp;
+2、《立法的目的》（译文集）；3、《柏拉图与自然法》（译文集），将由华夏出版社出版。
+&nbsp;
+（三）论文（均为独撰）：
+1、&ldquo;柏拉图《法义》中的灵魂学与神学&rdquo;，载《哲学与文化》（台湾，AHCI）2013年第11期，页19-36。
+&nbsp;
+2、&ldquo;如何正确作诗：柏拉图的诗人与立法者之争&rdquo;，人大复印资料《外国文学研究》2013年第4期全文转载，页35-40（原刊于《思想战线》2013年第1期）。&nbsp;
+&nbsp;
+3、&ldquo;自然与技艺：试析柏拉图《法义》对自然哲学的批判&rdquo;，载《自然辩证法研究》2012年第10期，页88-93。
+&nbsp;
+4、&ldquo;诗人的&lsquo;神学&rsquo;：柏拉图《法义》的诗学批评&rdquo;，人大复印资料《文艺理论》2013年第1期全文转载，页40-45（原刊于《海南大学学报》2012年第5期）&nbsp;
+&nbsp;
+5、&ldquo;柏拉图的运动论与灵魂学&rdquo;，载《自然辩证法通讯》2014年第2期，页14-18。
+&nbsp;
+6、&ldquo;TheTheologyinPlato&rsquo;sLaws,&rdquo;inTheChineseJournalofClassicalStudies(Hongkong),Vol.3,No.4(Win.,2012):1-18.
+&nbsp;
+7、&ldquo;智术师的勇敢：柏拉图《普罗塔戈拉》349d-351b绎读&rdquo;，载《兰州大学学报》2012第2期，页27-32。&nbsp;
+&nbsp;
+8、&ldquo;柏拉图《法义》的对话者&rdquo;，载《求是学刊》2012第2期，页16-19。
+&nbsp;
+9、&ldquo;IgnoranceandImpiety:AReadingofPlato&rsquo;sLawsX885e7-886e2,&rdquo;inTheChineseJournalofClassicalStudies(Hongkong),Vol.2,No.4(Win.,2011):23-40.
+&nbsp;
+10、&ldquo;哈姆雷特王子与鬼魂&rdquo;，载《古典研究》（香港）2010年第3期，页67-79。
+&nbsp;
+11、&ldquo;教育立法者：柏拉图《米诺斯》中的神话&rdquo;，载《古典研究》2010年第1期，页79-89。
+&nbsp;
+（四）译文：20万字，分别收于《古典诗文绎读》，华夏出版社，2009；施特劳斯《苏格拉底问题与现代性》，华夏出版社，2008；《维柯与古今之争》，华夏出版社，2008。
+&nbsp;
+（五）主编译丛：
+1、&ldquo;柏拉图《法义》注疏集&rdquo;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2、&ldquo;自然法与法哲学丛编&rdquo;
+&nbsp;
+主持课题
+&nbsp;&nbsp;&nbsp;1、2014年，主持浙江省教育厅一般科研项目&ldquo;柏拉图法哲学思想研究&rdquo;；
+&nbsp;&nbsp;&nbsp;2、2013年，主持中国博士后科学基金特别资助项目&ldquo;柏拉图《法义》的翻译与研究&rdquo;；
+&nbsp;&nbsp;&nbsp;3、2012年，主持中国博士后科学基金面上资助项目&ldquo;柏拉图的哲学与神学之争研究&rdquo;。
+&nbsp;
+获奖情况
+1、《柏拉图&lt;米诺斯&gt;译/疏》一书获&ldquo;蒲衣子古典学术奖&rdquo;（2010年）
+2、中国人民大学优秀博士学位论文奖（中国人民大学，2013年）
+3、广东省优秀硕士学位论文奖（广东省教育厅，2010年）
+&nbsp;
+&nbsp;
+开设课程
+&nbsp;&nbsp;&nbsp;古希腊语初级（研究生）
+&nbsp;&nbsp;&nbsp;古希腊语中高级（研究生）
+&nbsp;&nbsp;&nbsp;古典哲学著作精读（研究生）
+&nbsp;&nbsp;&nbsp;哲学问题（本科生）
+&nbsp;&nbsp;&nbsp;希腊伦理思想（本科生）
+&nbsp;&nbsp;&nbsp;法哲学（本科生）
+&nbsp;&nbsp;&nbsp;
+组织活动
+组织&ldquo;古典学论坛&rdquo;，旨在耕读中西方传世经典，每月举行一次，已举办14讲。
+&nbsp;
+学术兼职
+&nbsp;&nbsp;&nbsp;担任国际期刊TheChineseJournalofClassicalStudies（《古典研究》，香港）责任编辑
+			
+				
+			工作研究领域
+			
+			古希腊哲学、宗教、政治哲学、法哲学、自然法、伦理学
+、古典诗学
+			
+				
+			联系方式
+			
+						电子信箱：lingyuzm@163.com;zhimenglin@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：林志猛
+		单位：外国哲学研究所
+		职称：讲师
+		我的主页共被访问了1420次
+标签：林志猛-浙江大学哲学系	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	林志猛-浙江大学
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

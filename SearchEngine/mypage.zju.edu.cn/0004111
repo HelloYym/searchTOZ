@@ -1,0 +1,226 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0004111";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0004111&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			韩洪云，教授，博士（博士后）。
+			
+				
+			工作研究领域
+			
+			工作经历
+2001.11——2002.11国家公派到澳大利亚国立大学发展研究中心进行为期一年的访问学者研究。
+2000.12——2003.4入南京农业大学公共管理学院博士后站做博士后研究，合作导师：曲福田。
+1988.6——1997.7沈阳农业大学基础部工作。1994年7月晋升讲师。
+1997.7——2004.2沈阳农业大学经贸学院工作，1999年6月晋升副教授。
+2004.2——浙江大学管理学院，浙江大学农业现代化与农村发展研究中心工作。2004年12月晋升教授.
+
+
+
+主讲课程
+《资源与环境经济学》（英语教学），《计量经济学基础》，《管理沟通》
+
+研究领域(方向1)
+农业与农村经济发展,
+
+研究领域(方向2)
+资源利用与环境管理
+
+研究领域(方向3)
+企业经营与管理
+			
+				
+			联系方式
+			
+			电话：86971756			电子信箱：hhyzlg@yahoo.com.cn,hhyzlg@163.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：韩洪云
+		单位：管理学院农业经济与管理系
+		职称：教授
+		我的主页共被访问了9682次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	奖励荣誉
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

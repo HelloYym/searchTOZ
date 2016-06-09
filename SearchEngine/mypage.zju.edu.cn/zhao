@@ -1,0 +1,206 @@
+
+
+
+
+
+赵沛的个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0013186";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	赵沛的个人主页
+纳米的神奇世界
+
+	永久链接:http://mypage.zju.edu.cn/zhao&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			赵沛，工学博士，2002-2006年浙江大学物理系本科，2006-2008年浙江大学物理系硕士（导师王淼教授）。2008-2013年在日本东京大学工学部机械工程专业获工学博士学位并随后进行博士后研究，导师及合作者为碳纳米管著名研究专家丸山茂夫教授。2013年10月份进入浙江大学应用力学研究所工作。
+&nbsp;
+&nbsp;主要研究方向为低维碳纳米材料的制备、纯化和光谱学研究，迄今发表SCI引用论文18篇（其中以第一作者发表于AppliedPhysicsLetters,NanoResearch,Nanoscale,JournalofPhysicalChemistryC等共7篇），期刊总影响因子约70，篇均影响因子3.9，获引用40余次。另有中国国家发明专利两项，主持或参与日本国内科学研究基金四项。
+&nbsp;
+			
+				
+			工作研究领域
+			
+			低维碳纳米材料的制备、表征、纯化及力学性能；碳纳米管与石墨烯研究；高性能力学材料的开发。
+			
+				
+			联系方式
+			
+						电子信箱：peizhao@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：赵沛
+		单位：航空航天学院
+		职称：
+		我的主页共被访问了642次
+标签：纳米材料及应用碳纳米管，石墨烯	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

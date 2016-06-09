@@ -1,0 +1,1 @@
+{'name': u':Xiangnian-Fang', 'title': u':Instructor', 'photo': u'http://mypage.zju.edu.cn/teacherimage/0098098.jpg', 'pos': './mypage.zju.edu.cn/en|Natscicell', 'intro': [u'\n\t\t                \t\t\t\n\t'], 'department': u':Institute of Biochemistry,College of Life Sciences,Zhejiang University,Hangzhou,310058,P.R.China', 'homepage': 'http://mypage.zju.edu.cn/en/Natscicell'}

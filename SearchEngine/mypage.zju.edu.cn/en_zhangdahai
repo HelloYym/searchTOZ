@@ -1,0 +1,240 @@
+
+
+
+
+
+0011612-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0011612";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	0011612
+
+
+	Permanentlink:http://mypage.zju.edu.cn/en/zhangdahai&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Educations:
+&nbsp;&nbsp;&nbsp;&nbsp;Jul.2007-Dec.2010&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ZhejiangUniversity&nbsp;&nbsp;&nbsp;Ph.D.&nbsp;&nbsp;MechatronicControlEngineering&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PostdoctoralTraining:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jan.2011-Feb.2012&nbsp;PostdoctoralResearchFellowinDepartmentofMechanicalEngineering,ZhejiangUniversity,China
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Feb.2012-Mar.2013PostdoctoralResearchFellowinEngineeringDepartment,LancasterUniversity,UK
+
+
+&nbsp;
+
+
+&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FacultyAcademicAppointments:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lecturer,InstituteofUnderwaterTechnology,DepartmentofOceanEngineering,&nbsp;&nbsp;OceanCollege,ZhejiangUniversity,China
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dec.2013-Present,AssociateProfessor,Ph.D.Director,InstituteofUnderwaterTechnology,DepartmentofOceanEngineering,OceanCollege,ZhejiangUniversity,China
+
+&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CurrentResearchProjects:
+&nbsp;&nbsp;&nbsp;&nbsp;1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NationalNaturalScienceFoundationofChina(GrantNo.51205346):ResearchontheKeyTechnologiesofWaveEnergyConverterofInversePendulum.InCharge,2013-2015.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NationalHighTechnologyResearchandDevelopmentProgramofChina(863Program,GrantNo.2011AA050201):StudyontheKeyTechnologiesofHorizontalAxisMarineCurrentTurbine&rsquo;sMechanics.InCharge,2012-2016.
+&nbsp;&nbsp;&nbsp;&nbsp;3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ZhejiangProvincialPublicTechnologyAppliedResearchProject(GrantNo.2014C31001):ResearchandExperimentationontheMulti-axisWaveEnergyConverterbasedonHydraulicTransmission.InCharge,2014-2016.
+&nbsp;&nbsp;&nbsp;&nbsp;4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NationalNaturalScienceFoundationofChina(GrantNo.51120195001):Studyontheartificialupwellingtechnologyanditseffectsonthemarineenvironment.Co-investigator,2012-2016.
+<spanlang="EN-US"style="mso-fareast-font-family:
+&quot;TimesNewRoman&quot;;color:#222222">&nbsp;&nbsp;&nbsp;&nbsp;5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IntelligentandIntegratedConditionMonitoringofDistributedGenerationSystems,EngineeringandPhysicalSciencesResearchCouncil(EPSRC).Co-investigator,2012-2014.
+<spanlang="EN-US"style="mso-fareast-font-family:
+&quot;TimesNewRoman&quot;;color:#222222">&nbsp;&nbsp;&nbsp;&nbsp;6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SuperGenMarine;UKCentreforMarineEnergyResearch(UKCMER)，Co-investigator,2012-2014.
+&nbsp;&nbsp;&nbsp;&nbsp;Publications:
+&nbsp;&nbsp;&nbsp;&nbsp;1.&nbsp;DahaiZhang*,WeiLi,HaitaoZhao,JingweiBao,YonggangLin.&nbsp;DesignofAHydraulicPowerTake-offSystemfortheWaveEnergyDevice&nbsp;withAnInversePendulum.ChinaOceanEngineering.2014.28(2).1-10.&nbsp;（SCI,IF:0.468）
+&nbsp;&nbsp;&nbsp;&nbsp;2.DahaiZhang,&nbsp;GeorgeAggidis*,YifeiWang,AndyMccabe,WeiLi.Experimentalresultsfromwavetanktrialsofamulti-axiswaveenergyconverter.AppliedPhysicsLetters,&nbsp;2013.103(10):103901-4.（TOP&nbsp;SCI,IF:3.79）
+&nbsp;&nbsp;&nbsp;3.DahaiZhang*,&nbsp;PhilipCross,XiandongMa,WeiLi.Improvedcontrolofindividualbladepitchforwindturbines.SensorandActuatorsA:Physical.2013.198:8&ndash;14.&nbsp;（SCI,&nbsp;IF:1.802）
+&nbsp;&nbsp;&nbsp;&nbsp;4.DahaiZhang*,WeiLi,YonggangLin,JingweiBao.AnoverviewofhydraulicsystemsinwaveenergyapplicationinChina.RenewableandSustainableEnergyReviews,2012.16:4522&ndash;4526.&nbsp;(TOP&nbsp;SCI,IF:6.02）
+&nbsp;&nbsp;&nbsp;&nbsp;5.DahaiZhang*,&nbsp;WeiLi,YouYing,HaitaoZhao,YonggangLin,JingweiBao.&nbsp;Waveenergydeviceofinversependulumwithdoubleactionpowertakeoff.JournalofMechanicalEngineeringScience.2013.227(11):2416-2427.&nbsp;（SCI,IF:0.633）
+&nbsp;&nbsp;&nbsp;&nbsp;6.YonggangLin,LeTu,&nbsp;DahaiZhang*,HongweiLiu,WeiLi.AStudyonDual-StrokePendulumWaveEnergyConversionTechnologyBasedonaWater/OilIntegratedTransmissionSystem.OceanEngineering.67:27-34（SCI,IF:1.18）
+&nbsp;&nbsp;&nbsp;&nbsp;7.&nbsp;&nbsp;DahaiZhang*,WeiLi,YonggangLin.WaveenergyinChina：currentstatusandperspectives.RenewableEnergy,34:2089&ndash;2092.（SCI,IF:2.29）
+&nbsp;&nbsp;&nbsp;&nbsp;8.DahaiZhang,WeiLi,YonggangLin.ModelingandsimulationofMarineCurrentTurbinewithhydraulictransmissionsystembasedonAMESim.HydraulicTransmission.2010,31(2):222-227.EI.
+&nbsp;
+
+			
+				
+			Researchwork
+			
+			1.OceanEnergyEquipmenttechnology(includingwaveenergyconverter,tidalcurrentturbine,offshorewindturbineandwaveglider)
+
+
+2.Artificialupwelling
+
+
+3.HydraulictransmissionandAutomaticControl
+
+			
+				
+			Contact
+			
+			Phone:+86-0571-88208488
+			E-mail:zhangdahai@zju.edu.cn
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:DahaiZhang
+		Units:InstituteofUnderwaterTechnology
+		Title:AssociateProfessor,Ph.D.Director
+		Myhomepagehasbeenvisited531times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	
+
+
+Youarevisitor:531
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

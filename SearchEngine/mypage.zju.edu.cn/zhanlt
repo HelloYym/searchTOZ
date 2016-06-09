@@ -1,0 +1,219 @@
+
+
+
+
+
+詹良通-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0003330";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	詹良通
+做人，做教师，做工程师，做土木工程师，做岩土工程师！
+
+	永久链接:http://mypage.zju.edu.cn/zhanlt&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			1995年毕业于河海大学；2003年在香港科技大学土木工程系获得岩土工程专业博士学位。目前在浙江大学主要从事非饱和土力学，环境岩土工程及边坡工程的教学、科研工作。现负责国家自然科学基金重点项目子课题1项、国家自然科学基金面上项目2项和浙江省自然科学基金各1项，负责&ldquo;十一五&rdquo;国家科技支撑计划项目子课题1项，并参与深圳下坪固体废弃物填埋场应急抗滑工程、苏州七子山垃圾填埋场扩建工程、宁波东部新城共同沟等重要横向科研项目。已发表学术论文40余篇，其中被SCI检索的11篇，被SCI检索期刊他引10次，获加拿大岩土工程学会颁发的2007年度最优秀论文奖1项，获省部级科技进步一等奖2项。目前主要学术兼职包括：国际土力学及岩土工程学会非饱和土专业委员会(TC6)委员；中国土木工程学会土力学及岩土工程分会土工测试专业委员会常务委员等。
+			
+				
+			工作研究领域
+			
+			教学：
+
+《非饱和土力学》、《环境岩土工程》和《地基处理》
+
+科研：
+
+非饱和土力学、边坡工程、环境岩土工程和土工测试技术
+
+工程咨询：
+
+环境岩土工程、边坡工程及基础工程
+
+
+			
+				
+			联系方式
+			
+			电话：0571-88208638			电子信箱：zhanlt@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：詹良通
+		单位：建筑工程学院土木工程学系
+		职称：教授
+		我的主页共被访问了12867次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	发表论文
+	奖励荣誉
+	实验室介绍
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

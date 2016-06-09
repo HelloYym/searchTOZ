@@ -1,0 +1,210 @@
+
+
+
+
+
+武慧春-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0012128";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	武慧春
+Hui-ChunWu
+
+	永久链接:http://mypage.zju.edu.cn/hcwu&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			1980年出生于山西省交城县石侯村.2001年在山西大学物理学国家基地班获得物理学学士学位.2006年在中科院物理所获得光学博士学位.博士论文获得了该年度全国蔡诗东等离子体奖.接着到德国马普量子光学所做洪堡访问学者两年.后在美国洛斯阿拉莫斯国家实验室做博士后.2012年入选第三批国家青年千人计划.2013年1月起在浙江大学物理系任教授.在强场物理/相对论光学领域有十余年的理论及模拟研究经验.在包括NaturePhoton.,NaturePhys.,Phys.Rev.Lett.,NewJ.Phys.,Phys.Rev.E,Phys.Plasmas等专业权威杂志上发表50余篇论文.现为NaturePhoton.,Phys.Rev.Lett.等杂志的审稿人.在基于激光等离子体中的新型辐射源和等离子体光学器件等方向做出了出色的理论工作.特别的,在NaturePhoton.上的一文(首作兼通讯)中提出了首个可产生半周期X射线的理论方案(已得到初步实验验证).除此之外,提出或解释了若干激光等离子体系统中太赫兹辐射机制;早期也提出了等离子体光栅控制强光的设想.
+			
+				
+			工作研究领域
+			
+			强场物理,相对论光学,激光等离子体物理,高能量密度物理,激光核聚变,超快光学
+			
+				
+			联系方式
+			
+			电话：0571-87951381			电子信箱：huichunwu(a)zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：武慧春
+		单位：物理学系
+		职称：教授
+		我的主页共被访问了21505次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	发表论文
+	小组成员
+	来访报告
+	奖励荣誉
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

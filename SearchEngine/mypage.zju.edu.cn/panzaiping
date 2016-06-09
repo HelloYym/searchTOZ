@@ -1,0 +1,221 @@
+
+
+
+
+
+潘再平个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0082024";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	潘再平个人主页
+浙江大学电机工程学系
+
+	永久链接:http://mypage.zju.edu.cn/panzaiping&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;潘再平教授，1982年毕业于浙江大学电机系后一直在浙江大学任教，期间先后去加拿大新不伦瑞克大学和澳大利亚西悉尼大学进修、高访。现为浙江大学教授，浙江大学能源评估中心副主任、全国高等教育研究会电气工程及其自动化专业委员会副主任委员、全国大学生电子设计竞赛专家组责任专家、浙江大学首届教学名师，浙江省教学名师，浙江大学心平教学贡献奖获得者。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;长期从事《电力电子技术》、《自动控制原理与系统》、《电气控制技术》、《交流电机调速理论》等本科、研究生课程的教学工作，是《电力电子技术》国家级精品课程与国家精品资源共享课、《电力电子技术》网络教育国家级精品课程与国家精品资源共享课负责人，已培养研究生40余名，发表教学研究论文40余篇。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;科研方向为电机系统及其控制、电力电子技术应用、新能源发电技术等。主持、参与变速恒频风力发电技术的研究、可再生能源利用关键新技术研究等国家自然科学基金、863高科技项目、浙江省自然科学基金等科研项目30余项。&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;先后获浙江省科技进步奖3项、国家级教学成果二等奖1项、浙江省优秀教学成果一等奖1项，多次获浙江大学科技奖、教学成果奖。在科学出版社等出版社出版《电力电子技术》、《电机学》、《电气控制技术基础》等教材、著作10部；发表学术论文100余篇。
+			
+				
+			工作研究领域
+			
+			电机系统及其控制，电力电子技术应用，新能源发电技术
+			
+				
+			联系方式
+			
+			电话：0571-87951784			电子信箱：panzaiping@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：潘再平
+		单位：电气工程学院
+		职称：教授
+		我的主页共被访问了39969次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	教研项目
+	精品课程
+	科研项目
+	发表论文
+	出版著作
+	奖励荣誉
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	“电力电子技术”国家级精品课程
+“电力电子技术”网络教育国家级精品课程
+“电机学(系列课程)”浙江省精品课程
+“电力电子技术”国家精品资源共享课程
+“电力电子技术”网络教育国家精品资源共享课程
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,225 @@
+
+
+
+
+
+KaiHuang'sHomepage-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0008825";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	KaiHuang'sHomepage
+FromChiptoall
+
+	Permanentlink:http://mypage.zju.edu.cn/en/kai_huang&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			KaiHuang
+Ph.D,AssociateProfessor&nbsp;
+DepartmentofInformationScienceandElectronicEngineering
+ZhejiangUniversity
+No.38ZhedaRoad,Hangzhou310027,China
+Email:huangk@vlsi.zju.edu.cn
+&nbsp;
+&nbsp;
+2003-2008
+PhDinElectronicsEngineering
+ZhejiangUniversity,Hangzhou,ZhejiangProvince,China
+(Supervisor:Prof.XiaolangYan)
+(Dissertation:ResearchonApplicationSpecificMPSoCDesignFlowandMethodology)
+&nbsp;
+2006:TIMALaboratory,France
+JointheprojectofSimulink-BasedMPSoCDesignFlow.ItisaprojectcooperatingwithTIMALaboratory(France),NationalSeoulUniversity(Korea)andFederalUniversityofRioGrandedoSul(Brazil).
+
+2010:VERIMAGLaboratory,France
+JoinBIPteamandworkingforEuropeanProjectSMECYandPRO3D,researchingonmodelingMPSoChardwareandsoftware.
+&nbsp;
+Honors&amp;&nbsp;Awards:
+SecondGradeAwardforProgressinScienceandTechnology,China(2009)
+FirstGradeAward&nbsp;forScienceandTechnologyofTheChineseInstituteof&nbsp;Electronics(2008)
+BestPaperNominationofDAC07(2007)
+&nbsp;
+			
+				
+			Researchwork
+			
+			(A)	ComputerArchitecture.StudyandresearchonthearchitectureofGeneralpurposeCPU,DSPorASIP.ResearchonSoCarchitecturefromsystematicviewandspecificapplicationrequirement.
+(B)	MPSoCDesignFlowandTool.StudyandresearchonMPSoCdesignfromalgorithmleveltoRTLimplementation.Itinvolvessomehotpoints:HW/SWCodesign,ParallelArchitectureexploration,Taskpartitionstrategies,performanceestimation,andsoon.
+(C)	ICDesignandVerificationmethodology.StudyandresearchonfastandaccurateICdesign.Italsoincludesthewholeandeffectiveverificationontargeteddesign.
+
+			
+				
+			Contact
+			
+			Phone:
+			E-mail:huangk@vlsi.zju.edu.cn
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:KaiHuang
+		Units:ZhejiangUniversity
+		Title:AssociateProfessor
+		Myhomepagehasbeenvisited1559times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+Publication
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	
+
+
+Youarevisitor:1559
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

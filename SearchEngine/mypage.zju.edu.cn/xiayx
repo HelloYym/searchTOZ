@@ -1,0 +1,208 @@
+
+
+
+
+
+欢迎进入夏永祥的主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0010015";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	欢迎进入夏永祥的主页
+
+
+	永久链接:http://mypage.zju.edu.cn/xiayx&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;夏永祥，浙江大学信息与电子工程学院副教授，博士生导师，电子电路与信息系统研究所副所长。1998年于清华大学电子工程系获得工学学士学位，2004年于清华大学电子工程系获得工学博士学位，博士论文获得2004年清华大学优秀博士论文二等奖。2004-2006在香港理工大学进行博士后研究工作，2006-2010在澳大利亚国立大学任ResearchFellow，2010年加入浙江大学信息与电子工程学系(现更名为信息与电子工程学院)。目前从事网络科学与信息科学的交叉研究方向，已发表英文学术论文40余篇，受邀承担多个国际期刊和会议的审稿工作。IEEE会员，IEEE非线性电路与系统技术委员会成员。
+&nbsp;&nbsp;&nbsp;欢迎具有电子信息、数学、物理等学科背景的学生报考研究生。如有兴趣请email联系。
+
+&nbsp;
+			
+				
+			联系方式
+			
+			电话：+86-571-87953815			电子信箱：xiayx@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：夏永祥
+		单位：信息与电子工程学院
+		职称：副教授
+		我的主页共被访问了20879次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	研究工作
+	发表论文
+	工作研究项目
+	指导研究生
+	学术服务
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

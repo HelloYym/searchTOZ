@@ -1,0 +1,1 @@
+{'name': [u'\u6c6a\u97ec'], 'title': [], 'photo': '', 'pos': './person.zju.edu.cn/spell-W.html?size=25&sort=&page=8', 'blog': [], 'intro': '', 'department': [u'\u7ecf\u6d4e\u5b66\u9662\u7ecf\u6d4e\u5b66\u7cfb'], 'homepage': u'http://mypage.zju.edu.cn/taowang'}

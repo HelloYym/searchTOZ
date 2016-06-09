@@ -1,0 +1,227 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0099038";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0099038&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			最后学位（2005）年（浙江大学）学校（博士）学位&nbsp;
+&nbsp;
+代表著作（论文）
+1、朱首献：《文艺人学本体论》，载《浙江大学学报》，2003年3月。
+2、朱首献：《文艺人学论》，载《浙江大学学报》，2006年1月，
+3、朱首献：《知识与真理：认识论人学与文学观念批判》，载《上海交通大学学报》，2005年10月，
+4、朱首献：《当代大众文化的人文批判》，载《河南师范大学学报》，1999年5月。
+5、朱首献：《阅读者的&ldquo;在场&rdquo;与&ldquo;不在场&rdquo;&mdash;&mdash;文学阅读行为的人学辩证法研究》，载《山东师范大学学报》，2003年11月。
+
+承担课题
+1、当代文化大众主体心理研究，浙江大学青年曙光项目，项目负责人；
+2、文艺审美活动的人学辩证法研究，浙江省社联项目，项目负责人；
+3、知识与真理：认识论人学与文学观念批判，浙江大学青年曙光项目，项目负责人；
+
+开设课程
+1、文学理论
+2、文艺学概论
+3、当代中国文艺理论思潮研究
+
+			
+				
+			工作研究领域
+			
+			1、文学基础理论
+2、美学
+3、人学
+
+			
+				
+			联系方式
+			
+			电话：0571-88273356			电子信箱：zhushouxian@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：朱首献
+		单位：人文学院中国语言文学系
+		职称：副教授
+		我的主页共被访问了9919次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,208 @@
+
+
+
+
+
+王岩-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0007012";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	王岩
+浙江大学动物科学学院王岩
+
+	永久链接:http://mypage.zju.edu.cn/ywang&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;王岩，教授，博士生导师。1987年和1993年分别在大连水产学院养殖系获得学士和硕士学位，1997年在青岛海洋大学水产学院获得博士学位，1999年在中国科学院水生生物研究所完成博士后研究。迄今主持完成多项国家自然科学基金、科技部、农业部、教育部、浙江省和上海市科研项目以及FatsandProteinResearchFoundation等国际基金，在盐水枝角类生态学及其在海水中的大量培养利用、温水性鱼类补偿生长和投喂策略、海水肉食性鱼类饲料鱼粉替代技术、水产养殖模式优化等方面做过较为系统的、创新性的工作。
+			
+				
+			工作研究领域
+			
+			1.水域生态学：水域生态系统异质性与稳定性；水生食物网结构与功能；水域生态系统功能规划和生态修复；海洋沿岸带生态系统管理。
+
+2.水产养殖：水产养殖模式优化；水产动物营养与应激（肉食性鱼类低鱼粉饲料配方）；益生菌作为水产饲料添加剂和水质改良剂的应用；水生动物活饵料大量培养。
+
+			
+				
+			联系方式
+			
+			电话：0571-86971891			电子信箱：ywang@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：王岩
+		单位：海洋学院海洋生物研究所
+		职称：教授
+		我的主页共被访问了12539次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		发表论文
+	研究成果
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

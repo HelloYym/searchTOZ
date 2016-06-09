@@ -1,0 +1,211 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0083067";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0083067&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;教授，博士生导师。1963年生，福建莆田人。1979～1983年就读于浙江大学土木工程学系水工结构本科专业，获学士学位，之后留校任教至今。1985～1988年在职攻读浙江大学水工结构专业硕士研究生，获硕士学位。1998年晋升为教授，2000年起担任博士生导师。现任浙江大学水工结构与水环境研究所所长。主要从事水工结构分析与优化、水利工程系统分析与优化的研究及工程应用。
+曾先后开设&ldquo;有限元法与程序设计&rdquo;、&ldquo;弹性力学&rdquo;、&ldquo;优化原理与方法&rdquo;、&ldquo;水工建筑物&rdquo;等课程。已培养毕业硕士30多人、博士8人。已发表论文近100篇，编写著作教材3部。2001年获第七届中国青年科技奖，负责完成的&ldquo;拱坝新型体型优化和全过程分析的研究与应用&rdquo;1998年获国家科技进步三等奖。获其他省部级奖励8项。
+			
+				
+			工作研究领域
+			
+			1．基于粘性离散裂隙模型的高拱坝开裂全过程模拟及安全评估，国家自然科学基金面上项目（50579081），2006～2008，项目负责人；
+2．混凝土结构灾害演化的非线性动力学理论与仿真研究，国家自然科学基金面上项目（50279046），2003～2005，项目负责人；
+3．拱坝新体型的研究和应用，国家重点科技攻关项目（96-221-04-02-03），1996～2000，项目负责人；
+4．拱坝多目标优化研究与应用，国家重点科技攻关项目（96-221-04-02-02），1996～2000，项目负责人。
+			
+				
+			联系方式
+			
+			电话：13306515890			电子信箱：zjuliu@163.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：刘国华
+		单位：建筑工程学院水利与海洋工程学系
+		职称：教授
+		我的主页共被访问了6912次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	研究成果
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

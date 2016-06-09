@@ -1,0 +1,219 @@
+
+
+
+
+
+宋春跃(C.Song)-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0003119";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	宋春跃(C.Song)
+Control&Optimization
+
+	永久链接:http://mypage.zju.edu.cn/ChunyueSong&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2003.3获浙江大学控制系控制理论与控制工程专业博士学位;
+2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1994.7获浙江大学化工系生产过程自动化专业学士学位;
+3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2003.3~2005.2浙江大学计算机科学与技术博士后流动站;
+4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2006.8~2008.5,在美国马里兰大学(Univ.ofMaryland,CollegePark)系统研究所(ISR),随MichaelFu及StevenI.Marcus从事优化控制方面的学习与研究;
+5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2012.12晋升教授,2005.7晋升副教授;2011.3评为博士生导师,2006.3评为硕士生导师.
+&nbsp;
+Personalhomepage
+&nbsp;
+			
+				
+			工作研究领域
+			
+			理论研究方面:最优控制、混杂系统、非线性系统控制、随机控制、生产调度等;应用研究方面:新能源汽车的优化控制、化工及钢铁过程的优化控制、调度、智能机械臂、智能交通等.
+
+针对以上强非线性系统或混杂系统最优控制所得出的创新性成果,在控制领域的TOP期刊AUTOMATICA、JOURNALOFPROCESSCONTROL、INDUSTRIAL&ENGINEERINGCHEMISTRYRESEARCH等,及国内外重要期刊(会议)上已发表被SCI/EI收录的论文70多篇,并由此授权了多个发明专利,出版专著1部;已主持多项国家级及省部级科研项目,其中包括国家自然科学基金3项、973子项目1项、教育部留学回国基金1项、浙江省钱江人才计划项目1项、国家博士后基金1项等.作为主要项目参与人参与国家973、863项目若干项.所得结果已应用于化工、新能源汽车、冶金等行业,取得了显著成效.
+			
+				
+			联系方式
+			
+			电话：+8657187951442			电子信箱：cysongATiipc.zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：宋春跃
+		单位：控制科学与工程学系
+		职称：教授、博导
+		我的主页共被访问了31078次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		C.SongHomepage
+	AutomaticControl(I)
+	AutomaticControl(II)
+	HybridSystems
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

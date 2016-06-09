@@ -1,0 +1,210 @@
+
+
+
+
+
+LinhuiYu'shomepageatZJU-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0013204";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	LinhuiYu'shomepageatZJU
+SchoolofEconomics,ZhejiangUniversity,Hangzhou,China
+
+	Permanentlink:http://mypage.zju.edu.cn/en/lhyu&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			Blog
+
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			Workexperience
+AssociateProfessor,SchoolofEconomics,ZhejiangUniversity,2014&mdash;Present
+AssistantProfessor,SchoolofEconomics,ZhejiangUniversity,2013&mdash;2014
+ResearchAssistantProfessor,SchoolofBusiness,UniversityofHongKong,2010&mdash;2013
+Educationbackground
+PhD,EconomicsandStrategy,UniversityofHongKong
+Master,ManagementScience,FudanUniversity
+Bachelor,ManagementScience,FudanUniversity
+&nbsp;
+			
+				
+			Researchwork
+			
+			InternationalTrade,EmpiricalIO,UrbanEconomics,ChineseEconomy
+			
+				
+			Contact
+			
+			Phone:
+			E-mail:yulh@zju.edu.cn
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:LinhuiYu
+		Units:SchoolofEconomics
+		Title:AssociateProfessor
+		Myhomepagehasbeenvisited5542times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+Research
+Teaching
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	中文主页
+Personalwebsite
+
+
+
+Youarevisitor:5542
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

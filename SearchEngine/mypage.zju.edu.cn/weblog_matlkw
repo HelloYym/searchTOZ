@@ -1,0 +1,376 @@
+
+
+
+
+
+Liang,Kewei'sHomePage-博客
+
+
+
+
+
+
+varctxPath="http://mypage.zju.edu.cn";
+varb_handle="matlkw";
+varcfg_weblog="http://mypage.zju.edu.cn/weblog";
+vard=newDate()
+varselyear=d.getFullYear();
+varselmonth=d.getMonth()+1;
+
+
+
+
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	color:#111;
+	margin-right:10px;	
+}
+#mainlinkullia,.tagsa:hover{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+.tagsa{
+	margin-right:10px;
+}
+img{
+	border:none;
+}
+
+
+
+
+
+
+
+
+
+
+	
+		首页
+		帮助
+		登录
+	
+
+
+
+
+
+
+	Liang,Kewei'sHomePage
+Welcome
+
+	永久链接:http://mypage.zju.edu.cn/weblog/matlkw&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+
+
+	中文主页
+英文主页
+			博客
+
+
+
+
+
+
+
+
+
+
+			
+				
+
+	
+[1/1]
+首页	上一页下一页末页
+
+	
+
+浏览模式:普通|列表
+
+
+
+
+
+
+		谈谈计算数学（zz）
+
+作者:梁克维日期:2009-06-08Monday
+
+
+
+谈谈计算数学（zz）*冲击波*于2005年04月17日发表转载自88从计算数学的字面来看，应该与计算机有密切的联系，也强调了实践对于计算数学的重要性。也许Parlett教授的一段话能最好地说明这个问题：HowcouldsomeoneasbrilliantasvonNeumannthinkhar...
+查看更多...
+
+
+
+
+
+分类:默认分类|			固定链接|评论总数0|
+			阅读次数65
+
+
+
+
+
+
+
+		第一次活动:游记1
+
+作者:梁克维日期:2009-06-09Tuesday
+
+
+
+2月22日第一次活动:游记1常言道:山不在高,有仙则灵.但我们爬的山却再熟悉不过了,位于玉泉的老和山,戏称"老和尚".老和山的七百级台阶别具特色,光溜溜的石板整整齐齐从山脚下盘旋而上,而且每100级都会在石阶上标出,令爬山的人颇有成就感.经过七百级台阶...
+查看更多...
+
+
+
+
+
+分类:默认分类|			固定链接|评论总数0|
+			阅读次数49
+
+
+
+
+
+
+
+		声音（包括二胡声）的数学表述
+
+作者:梁克维日期:2009-06-04Thursday
+
+
+
+今天在网上看到四维向量的文章，特收录到这里声音（包括二胡声）的数学表述（一）简单地说，声音分为纯音和非纯音。这里所说的纯音是科学意义上的纯音，它的波形可以由y＝sinx或y＝cosx来表示。即，纯音的波是正弦波。人声、乐器声是纯音之外的非纯...
+查看更多...
+
+
+
+
+
+分类:默认分类|			固定链接|评论总数0|
+			阅读次数44
+
+
+
+
+
+
+
+		从在科大的切身感受谈计算数学的普及、教育和发展[转帖]
+
+作者:梁克维日期:2009-06-08Monday
+
+
+
+从在科大的切身感受谈计算数学的普及、教育和发展作者：刘儒勋（中国科学技术大学数学系，安徽合肥230026；liurx@ustc.edu.cn）2001.8让我在诸位教授专家学者面前，谈及自己对《计算数学的教学和普及》的一些感受，既荣幸又惶恐。因为这里不乏计算数学界的"前辈...
+查看更多...
+
+
+
+
+
+分类:默认分类|			固定链接|评论总数0|
+			阅读次数58
+
+
+			
+			
+		
+		
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+	
+	
+		姓名：梁克维
+		单位：数学系
+		职称：副教授
+		我共发表了4篇文章
+		共收到0条评论
+		我的主页共被访问了3859次
+	
+	
+	
+	
+
+
+我的文章分类
+
+	默认分类
+		
+
+
+
+
+日历
+
+
+
+>>
+年月
+
+
+
+日
+一
+二
+三
+四
+五
+六
+
+
+
+
+
+
+
+
+
+
+
+我的最新文章
+
+
+		第一次活动:游记1
+谈谈计算数学（zz）
+从在科大的切身感受谈计...
+声音（包括二胡声）的数...
+	
+
+
+
+
+我的热点文章
+
+
+				谈谈计算数学（zz）
+		从在科大的切身感受谈计...
+		第一次活动:游记1
+		声音（包括二胡声）的数...
+
+	
+
+
+我收到的评论
+
+	
+	
+
+
+我的文章汇总
+
+		2009年6月[4]
+		
+	
+
+
+链接
+
+个人主页
+
+
+
+
+
+检索
+
+
+
+
+-所有文章-
+默认分类
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+
+
+varflag=newArray();
+flag[0]='2009/06/08';
+flag[1]='2009/06/04';
+flag[2]='2009/06/09';
+
+
+varcale=newCalendar("idCalendar",{
+SelectDay:newDate(),
+onSelectDay:function(o),
+onToday:function(o),
+onFinish:function(){
+$("idCalendarYear").innerHTML=this.Year;$("idCalendarMonth").innerHTML=this.Month;
+for(vari=0,len=flag.length;i<len;i++){
+//alert(flag[i]);
+	vard=newDate(flag[i]);
+	if(this.Year==d.getYear()){
+		if(this.Month==d.getMonth()+1)
+		{
+this.Days[d.getDate()].innerHTML=""+d.getDate()+"";
+			
+		}
+
+	}
+}
+}
+});
+$("idCalendarPre").onclick=function()
+$("idCalendarNext").onclick=function()
+
+
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));

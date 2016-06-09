@@ -1,0 +1,206 @@
+
+
+
+
+
+杨冬晓-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0094190";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	杨冬晓
+
+
+	永久链接:http://mypage.zju.edu.cn/0094190&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			973项目专家组专家，中国电子学会太赫兹分会委员会委员，中国电子教育学会高等教育分会第六届学术委员会副主任，我国首个学生&ldquo;反哺&rdquo;教师的浙江大学信电系平安基金理事会理事长；曾任中国电子学会真空电子学分会第八届委员会副主任委员、第九届委员会副主任委员，2006年-2010年教育部电子科学与技术专业分教指委委员。目前主要的研究在太赫兹（1THz=1000GHz）科学与技术领域，科研工作包括太赫兹波功能器件的研究；作为项目负责人，完成国家自然科学基金5项（含一年期、交流项目各1项）、国家863项目8项；与他人合作，发表国内外学术期刊论文70余篇、发表国际会议论文20余篇、出版教材3本、出版国际学术专著1本、授权美国发明专利1项、获国家级教学成果二等奖1项、获浙江省高等教育教学成果一等奖1项。
+			
+				
+			工作研究领域
+			
+			1、太赫兹科学与技术
+2、光纤传感与通信
+
+			
+				
+			联系方式
+			
+						电子信箱：yangdx@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：杨冬晓
+		单位：信息与电子工程学系
+		职称：教授
+		我的主页共被访问了14700次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

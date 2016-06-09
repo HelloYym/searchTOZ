@@ -1,0 +1,208 @@
+
+
+
+
+
+周煜东-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0010107";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	周煜东
+浙江大学神经科学研究所神经疾病环路机制课题组
+
+	永久链接:http://mypage.zju.edu.cn/zhoulab&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			周煜东博士现任浙江大学医学部基础医学系教授和博士生导师，卫生部医学神经生物学重点实验室PI。入选国家青年千人计划和浙江省千人计划。2003年毕业于美国塔夫茨大学（TuftsUniversity）并获博士学位。2003至2006年在美国波士顿大学（BostonUniversity）担任助理研究员；2006至2010年在美国哈佛大学医学院进行博士后研究；2010至2011年任美国哈佛大学医学院病理系讲师。受邀担任HumanMolecularGenetics、TrendsinNeuroscience等著名学术期刊的论文评委。在神经和代谢疾病的病理研究领域做出了大量具有原创性的工作，尤其在遗传性癫痫、自闭症以及肥胖症的病理和修复的研究方面处于国际前列，得到了同行的广泛认可。在Science、NatureMedicine、PNAS、ScienceTranslationalMedicine等具有重大影响力的杂志上发表系列研究论文，研究成果被NatureMedicine、LancetNeurology、CurrentOpinioninNeurobiology、Facultyof1000等著名期刊媒体推荐评论。
+
+本实验室正在招收博士硕士研究生、博士后、技术员，欢迎加盟！
+			
+				
+			工作研究领域
+			
+			神经与代谢疾病的神经环路机制，神经修复
+			
+				
+			联系方式
+			
+			电话：0571-88208547			电子信箱：yudongzhou@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：周煜东
+		单位：基础医学系
+		职称：教授
+		我的主页共被访问了14661次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+	课题组成员
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

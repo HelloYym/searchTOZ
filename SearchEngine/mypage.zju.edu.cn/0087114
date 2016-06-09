@@ -1,0 +1,206 @@
+
+
+
+
+
+个人简介-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0087114";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	个人简介
+
+
+	永久链接:http://mypage.zju.edu.cn/0087114&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			许庆明现为浙江大学公共管理学院教授，曾任浙江大学经济系副系主任（1999&mdash;2002年），浙江大学产业经济研究所副所长（1999-2005年），现任浙江大学区域与城市发展研究中心副主任，兼任中国区域科学协会区域经济专业委员会副主任，全国经济地理研究会常务理事，浙江省生产力学会副会长。
+许庆明现致力于理论与实际的结合，用相关的理论去分析、解决现实世界中各类经济、社会问题。出版《发展经济学》、《现代经济学》、《区域经济发展》等多本专著、教材；发表《论经济增长的结构因素》、《产业集群发展的可持续性研究》、《城市化进程的动力机制研究》、《论城市化与产业调整》、《东部沿海发达地区城市化与工业化进程研究》等代表性论文；研究成果两次获浙江省社会科学成果奖；参与多项国家、教育部社科基金的研究课题，并承担了数十项浙江省政府、杭州市以及省内外各级政府委托的有关区域（城市）经济发展、产业发展战略等方面的研究课题。
+&nbsp;
+			
+				
+			工作研究领域
+			
+			1.区域（城市）经济，主要包括：城市化、区域与城市定位、城市（镇）发展战略、劳动力区域流动
+2.产业经济，主要包括：产业结构、产业布局、产业发展战略与产业政策
+
+			
+				
+			联系方式
+			
+						电子信箱：jjxqm@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：许庆明
+		单位：城市发展和管理系
+		职称：教授
+		我的主页共被访问了3704次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,219 @@
+
+
+
+
+
+陈启瑾--浙江大学物理系-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0008078";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	陈启瑾--浙江大学物理系
+欢迎访问浙江大学理论凝聚态和冷原子物理研究组
+
+	永久链接:http://mypage.zju.edu.cn/qchen&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			（a.k.a陈启谨）浙江大学物理系教授，博士生导师，教育部长江学者特聘教授。1992年中国科学技术大学近代物理系本科毕业，1995年中科院物理研究所获凝聚态物理专业理学硕士，2000年获得美国芝加哥大学物理学哲学博士。2000/09-2002/08在美国国家强磁场实验室(NHMFL-NationalHighMagneticFieldLaboratory,Tallahassee,Florida)以及2002/09-2004/05年在美国约翰&middot;霍普金斯大学(JohnsHopkinsUniversity)均从事高温超导理论方面的博士后研究。其中在NHMFL期间的合作导师为BCS超导理论的创立者、诺贝尔奖获得者J.R.Schrieffer博士。2004年夏季为美国阿贡国家实验室及鹿特丹大学联合理论科学研究所的访问学者(VisitingFellow)。2004/06-2008/08年于芝加哥大学物理系及杰姆斯&middot;富兰克研究所（JamesFranckInstitute）从事高温超导和冷原子物理理论研究，先后任副研究员（ResearchAssociate）和研究副教授（ResearchScientist）。2008年9月受聘浙江大学物理系教授，并入选2008年教育部&ldquo;长江学者奖励计划&rdquo;特聘教授。
+
+
+			
+				
+			工作研究领域
+			
+			理论凝聚态物理和冷原子物理。具体地讲，目前我的研究工作主要是关于势阱中的超冷费米原子气体的超流性及其它物理性质、冷原子光学晶格及其量子模拟、高温超导理论、量子临界现象、以及更广泛的强关联电子系统等。
+			
+				
+			联系方式
+			
+			电话：0571-87951822			电子信箱：qchen@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：陈启瑾
+		单位：物理学系
+		职称：长江学者特聘教授
+		我的主页共被访问了53322次
+标签：Superconductors强关联电子体系冷原子物理理论凝聚态物理Superfluids"ColdAtoms"，"stronglycorrelatedelectronsystems"	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	发表论文
+	学术交流（讲座报告）
+	研究成果
+	奖励荣誉
+	实验室介绍
+	招聘信息
+	通信地址
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	我在浙江近代物理中心的主页
+我在芝加哥大学的主页
+我的ResearcherID主页
+ScientificCommons对我的文章的收藏
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,333 @@
+
+
+
+
+
+MindandHand-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0006204";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	MindandHand
+Doingresearchandmakingadifference
+
+	永久链接:http://mypage.zju.edu.cn/mq&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			<spanlang="EN-US"style="font-size:10.0pt;font-family:微软雅黑;mso-bidi-font-family:Arial;
+mso-font-kerning:0pt">&nbsp;&nbsp;&nbsp;
+<spanlang="EN-US"style="font-size:10.0pt;font-family:微软雅黑;mso-bidi-font-family:Arial;
+mso-font-kerning:0pt">&nbsp;&nbsp;&nbsp;&nbsp;苗青<spanstyle="font-size:10.0pt;font-family:微软雅黑;mso-bidi-font-family:
+Arial;mso-font-kerning:0pt">博士2006年从浙大管理学院获得优秀博士毕业生,赴公管学院从事师资博士后研究.两年后考核优秀,留校任教.2009年晋升副教授.2011年获得浙江大学优秀班主任;2011年入选浙江大学首批求是青年学者计划,博士生导师;2012年被评委浙江省十佳优秀博士后.2015年初晋升教授.
+<spanlang="EN-US"style="font-size:10.0pt;font-family:微软雅黑;mso-bidi-font-family:Arial;
+mso-font-kerning:0pt">&nbsp;&nbsp;&nbsp;&nbsp;<spanstyle="font-size:10.0pt;font-family:微软雅黑;mso-bidi-font-family:Arial;mso-font-kerning:
+0pt">现为浙江大学公共管理学院社会保障系副主任,支部书记.浙江省人才发展研究院(我省首批通过5A认证的社会组织)秘书长
+<spanlang="EN-US"style="font-size:10.0pt;font-family:微软雅黑;mso-bidi-font-family:Arial;
+mso-font-kerning:0pt">&nbsp;
+<spanstyle="font-size:10.0pt;font-family:微软雅黑;mso-bidi-font-family:Arial;mso-font-kerning:
+0pt">●主要国际经历<spanlang="EN-US"style="font-size:10.0pt;font-family:
+Arial;mso-font-kerning:0pt">
+<spanstyle="font-size:10.0pt;font-family:微软雅黑;mso-bidi-font-family:Arial;mso-font-kerning:
+0pt">&radic;2009年,受国家自然科学基金和苏格兰皇家学会资助,赴UniversityofEdinburgh,BusinessSchool从事国际合作研究
+<spanstyle="font-size:10.0pt;font-family:微软雅黑;mso-bidi-font-family:Arial;mso-font-kerning:
+0pt">&radic;2010年,受欧盟Erasmus基金会资助,赴Ljubljanauniversity从事为期六个月的博士后研究,师从TeaPetrin教授.
+<spanstyle="font-size:10.0pt;font-family:微软雅黑;mso-bidi-font-family:Arial;mso-font-kerning:
+0pt">&radic;2012年,受浙江大学和新加坡科技设计大学校际合作项目资助,赴MIT进修一年,接受高强度师资培训,全面掌握actionlearning的教学模式.师从ScottStern教授.
+<spanstyle="font-size:10.0pt;font-family:微软雅黑;mso-bidi-font-family:Arial;mso-font-kerning:
+0pt">&radic;2013年9-12月,新加坡科技设计大学任教一学期,主讲businesscultureandentrepreneurshipinChina,课程深受校方领导和师生欢迎.<spanlang="EN-US"style="font-size:10.0pt;font-family:
+Arial;mso-font-kerning:0pt">
+<spanlang="EN-US"style="font-size:10.0pt;font-family:微软雅黑;mso-bidi-font-family:Arial;
+mso-font-kerning:0pt">&nbsp;
+<spanstyle="font-size:10.0pt;font-family:微软雅黑;mso-bidi-font-family:Arial;mso-font-kerning:
+0pt">●发表学术论文四十余篇,主要议题围绕
+<spanstyle="font-size:10.0pt;font-family:微软雅黑;mso-bidi-font-family:Arial;mso-font-kerning:
+0pt">&radic;劳动密集型企业人力资源管理特征与模式<spanlang="EN-US"style="font-size:10.0pt;
+font-family:Arial;mso-font-kerning:0pt">
+<spanstyle="font-size:10.0pt;font-family:微软雅黑;mso-bidi-font-family:Arial;mso-font-kerning:
+0pt">&radic;领导力在公共部门和私立部门的影响力与国际比较<spanlang="EN-US"style="font-size:10.0pt;
+font-family:Arial;mso-font-kerning:0pt">
+<spanstyle="font-size:10.0pt;font-family:微软雅黑;mso-bidi-font-family:Arial;mso-font-kerning:
+0pt">&radic;社会互助背景下的社会组织发展模式与社会企业在中国实践<spanlang="EN-US"style="font-size:10.0pt;
+font-family:Arial;mso-font-kerning:0pt">
+<spanstyle="font-size:10.0pt;font-family:微软雅黑;mso-bidi-font-family:Arial;mso-font-kerning:
+0pt">&radic;全球化格局中人才流动(braincirculation)与海归人才发展模式
+<spanlang="EN-US"style="font-size:10.0pt;font-family:微软雅黑;mso-bidi-font-family:Arial;
+mso-font-kerning:0pt">&nbsp;
+<spanstyle="font-size:10.0pt;font-family:微软雅黑;mso-bidi-font-family:Arial;mso-font-kerning:
+0pt">●受资助课题<spanlang="EN-US"style="font-size:10.0pt;font-family:
+Arial;mso-font-kerning:0pt">
+<spanstyle="font-size:10.0pt;font-family:微软雅黑;mso-bidi-font-family:Arial;mso-font-kerning:
+0pt">近五年来主持课题:国家自然科学基金面上项目2项,国际合作项目1项,国家社科基金1项,浙江省社科规划2项.<spanlang="EN-US"style="font-size:10.0pt;font-family:
+Arial;mso-font-kerning:0pt">
+<spanlang="EN-US"style="font-size:10.0pt;font-family:微软雅黑;mso-bidi-font-family:Arial;
+mso-font-kerning:0pt">&nbsp;
+<spanstyle="font-size:10.0pt;font-family:微软雅黑;mso-bidi-font-family:Arial;mso-font-kerning:
+0pt">●主要英文作品<spanlang="EN-US"style="font-size:10.0pt;font-family:
+Arial;mso-font-kerning:0pt">
+<spanlang="EN-US"style="font-size:10.0pt;font-family:微软雅黑;mso-bidi-font-family:Arial;
+mso-font-kerning:0pt">1.Miao,Q.,Newman,A.,&amp;Lamb,P.(2012).TransformationalleadershipandtheworkoutcomesofChinesemigrantworkers:Themediatingeffectsofidentificationwithleader.Leadership,8(4),377-395.<spanlang="EN-US"style="font-size:10.0pt;font-family:Arial;mso-font-kerning:
+0pt">
+<spanlang="EN-US"style="font-size:10.0pt;font-family:微软雅黑;mso-bidi-font-family:Arial;
+mso-font-kerning:0pt">2.Zhu,W.,Newman,A.,Miao,Q.*,&amp;Hooke,A.(2012).Revisitingthemediatingroleoftrustontransformationalleadershipeffects:Dodifferenttypesoftrustmakeadifference?.TheLeadershipQuarterly.<spanlang="EN-US"style="font-size:10.0pt;font-family:Arial;
+mso-font-kerning:0pt">
+<spanlang="EN-US"style="font-size:10.0pt;font-family:微软雅黑;mso-bidi-font-family:Arial;
+mso-font-kerning:0pt">3.Miao,Q.,Newman,A.,Yu,J.,&amp;Xu,L.(2012).TheRelationshipBetweenEthicalLeadershipandUnethicalPro-OrganizationalBehavior:LinearorCurvilinearEffects?.JournalofBusinessEthics,1-13.<spanlang="EN-US"style="font-size:10.0pt;
+font-family:Arial;mso-font-kerning:0pt">
+<spanlang="EN-US"style="font-size:10.0pt;font-family:微软雅黑;mso-bidi-font-family:Arial;
+mso-font-kerning:0pt">4.Miao,Q.,Newman,A.,Sun,Y.,&amp;Xu,L.(2013).WhatfactorsinfluencetheorganizationalcommitmentofpublicsectoremployeesinChina?Theroleofextrinsic,intrinsicandsocialrewards.TheInternationalJournalofHumanResourceManagement,24(17),3262-3280.
+<spanlang="EN-US"style="font-size:10.0pt;font-family:微软雅黑;mso-bidi-font-family:Arial;
+mso-font-kerning:0pt">5.Miao,Q.,Newman,A.,Schwarz,G.,&amp;Xu,L.(2013).ParticipativeleadershipandtheorganizationalcommitmentofcivilservantsinChina:themediatingeffectsoftrustinsupervisor.BritishJournalofManagement,24(1),76-92.<spanlang="EN-US"style="font-size:10.0pt;font-family:Arial;
+mso-font-kerning:0pt">
+<spanlang="EN-US"style="font-size:10.0pt;font-family:微软雅黑;mso-bidi-font-family:Arial;
+mso-font-kerning:0pt">6.MIAO,Q.,NEWMAN,A.,SCHWARZ,G.andXU,L.(2014),SERVANTLEADERSHIP,TRUST,ANDTHEORGANIZATIONALCOMMITMENTOFPUBLICSECTOREMPLOYEESINCHINA.PublicAdministration.doi:10.1111/padm.12091
+<spanlang="EN-US"style="font-size:10.0pt;font-family:微软雅黑;mso-bidi-font-family:Arial;
+mso-font-kerning:0pt">&nbsp;
+&nbsp;
+<spanstyle="font-size:10.0pt;font-family:微软雅黑;mso-bidi-font-family:Arial;mso-font-kerning:
+0pt">●主要中文作品
+&nbsp;<spanlang="KO"style="font-size:10.0pt;font-family:&quot;MSGothic&quot;;mso-bidi-font-family:
+&quot;MSGothic&quot;;mso-font-kerning:0pt;mso-fareast-language:KO">&#9654;<spanstyle="font-size:10.0pt;font-family:微软雅黑;mso-bidi-font-family:Arial;mso-font-kerning:
+0pt">《团队管理:成就卓越的基石》2014年&nbsp;浙江大学出版社<spanlang="EN-US"style="font-size:10.0pt;
+font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:0pt">
+<spanlang="EN-US"style="font-size:10.0pt;font-family:微软雅黑;mso-bidi-font-family:Arial;
+mso-font-kerning:0pt">&nbsp;&nbsp;http://product.dangdang.com/23588979.html<spanlang="EN-US"style="font-size:10.0pt;font-family:宋体;mso-bidi-font-family:宋体;
+mso-font-kerning:0pt">
+<spanlang="KO"style="font-size:10.0pt;font-family:&quot;MSGothic&quot;;mso-bidi-font-family:
+&quot;MSGothic&quot;;mso-font-kerning:0pt;mso-fareast-language:KO">&#9654;<spanstyle="font-size:10.0pt;font-family:微软雅黑;mso-bidi-font-family:Arial;mso-font-kerning:
+0pt">《社会企业链接商业与公益》2014年&nbsp;浙江大学出版社<spanlang="EN-US"style="font-size:10.0pt;font-family:宋体;mso-bidi-font-family:宋体;
+mso-font-kerning:0pt">
+<spanlang="EN-US"style="font-size:10.0pt;font-family:微软雅黑;mso-bidi-font-family:Arial;
+mso-font-kerning:0pt">&nbsp;&nbsp;http://product.dangdang.com/23577949.html<spanlang="EN-US"style="font-size:10.0pt;font-family:宋体;mso-bidi-font-family:宋体;
+mso-font-kerning:0pt">
+<spanlang="KO"style="font-size:10.0pt;font-family:&quot;MSGothic&quot;;mso-bidi-font-family:
+&quot;MSGothic&quot;;mso-font-kerning:0pt;mso-fareast-language:KO">&#9654;<spanstyle="font-size:10.0pt;font-family:微软雅黑;mso-bidi-font-family:Arial;mso-font-kerning:
+0pt">《人力资源管理研究与实践:前沿量表》2015年浙江大学出版社<spanlang="EN-US"style="font-size:10.0pt;
+font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:0pt">
+<spanlang="EN-US"style="font-size:10.0pt;font-family:微软雅黑;mso-bidi-font-family:Arial;
+mso-font-kerning:0pt">&nbsp;&nbsp;http://product.dangdang.com/23670954.html
+<spanlang="EN-US"style="font-size:10.0pt;font-family:微软雅黑;mso-bidi-font-family:Arial;
+mso-font-kerning:0pt">&nbsp;
+&nbsp;
+<spanstyle="font-size:10.0pt;font-family:微软雅黑;mso-bidi-font-family:Arial;mso-font-kerning:
+0pt">●招收学生要求<spanlang="EN-US"style="font-size:10.0pt;font-family:
+Arial;mso-font-kerning:0pt">
+<spanstyle="font-size:10.0pt;font-family:微软雅黑;mso-bidi-font-family:Arial;mso-font-kerning:
+0pt">&radic;全日制学生:扎实的社会科学研究方法基础,擅长对外交流，定量分析
+<spanstyle="font-size:10.0pt;font-family:微软雅黑;mso-bidi-font-family:Arial;mso-font-kerning:
+0pt">&radic;MPA学生:人事（培训）部门负责人,致力于开展公共人力资源管理研究；民政部门管理者,NGO管理者,致力于开展社会组织与创新研究<spanlang="EN-US"style="font-size:
+10.0pt;font-family:Arial;mso-font-kerning:0pt">
+<spanlang="EN-US"style="font-size:10.0pt;font-family:微软雅黑;mso-bidi-font-family:Arial;
+mso-font-kerning:0pt">&nbsp;
+<spanstyle="font-size:10.0pt;font-family:微软雅黑;mso-bidi-font-family:Arial;mso-font-kerning:
+0pt">●主要联系方法<spanlang="EN-US"style="font-size:10.0pt;font-family:
+Arial;mso-font-kerning:0pt">
+mqok@163.com
+<spanlang="EN-US"style="font-size:10.0pt;font-family:微软雅黑;mso-bidi-font-family:Arial;
+mso-font-kerning:0pt">&nbsp;
+<spanstyle="font-size:10.0pt;font-family:微软雅黑;mso-bidi-font-family:Arial;mso-font-kerning:
+0pt">●媒体报道<spanlang="EN-US"style="font-size:10.0pt;font-family:Arial;
+mso-font-kerning:0pt">
+<spanstyle="font-size:10.0pt;
+font-family:微软雅黑;mso-bidi-font-family:Arial;mso-font-kerning:0pt">求是新闻网:<spanlang="EN-US"style="font-size:10.0pt;font-family:
+Arial;mso-font-kerning:0pt">
+<spanlang="EN-US"style="font-size:10.0pt;font-family:微软雅黑;mso-bidi-font-family:Arial;
+color:blue;mso-font-kerning:0pt">http://www.news.zju.edu.cn/news.php?id=37648
+<spanstyle="font-size:10.0pt;font-family:微软雅黑;mso-bidi-font-family:Arial;mso-font-kerning:
+0pt">中国高校报道<spanlang="EN-US"style="font-size:10.0pt;font-family:Arial;
+mso-font-kerning:0pt">
+<spanlang="EN-US"style="font-size:10.0pt;font-family:微软雅黑;mso-bidi-font-family:Arial;
+color:blue;mso-font-kerning:0pt">http://www.cunews.edu.cn/Article/huadong/xuezhe/201111/52143.html
+<spanstyle="font-size:10.0pt;font-family:微软雅黑;mso-bidi-font-family:Arial;mso-font-kerning:
+0pt">都市快报<spanlang="EN-US"style="font-size:10.0pt;font-family:Arial;
+mso-font-kerning:0pt">
+<spanlang="EN-US"style="font-size:10.0pt;font-family:微软雅黑;mso-bidi-font-family:Arial;
+color:blue;mso-font-kerning:0pt">http://hwyst.hangzhou.com.cn/xwfb/content/2015-03/25/content_5704043_2.htm
+<spanstyle="font-size:10.0pt;font-family:微软雅黑;mso-bidi-font-family:Arial;mso-font-kerning:
+0pt">浙江日报<spanlang="EN-US"style="font-size:10.0pt;font-family:Arial;
+mso-font-kerning:0pt">
+<spanlang="EN-US"style="font-size:10.0pt;font-family:微软雅黑;mso-bidi-font-family:Arial;
+color:blue;mso-font-kerning:0pt">http://zjrb.zjol.com.cn/html/2013-10/14/content_2363349.htm?div=-1
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+			
+					
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：苗青
+		单位：公共管理学院
+		职称：教授
+		我的主页共被访问了8178次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	《人力资源管理研究与实践：前沿量表手册》HRFrontierScales
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

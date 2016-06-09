@@ -1,0 +1,218 @@
+
+
+
+
+
+陈宁华-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0095108";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	陈宁华
+
+
+	永久链接:http://mypage.zju.edu.cn/0095108&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;陈宁华，1973年生，籍贯浙江，博士学位。现为浙江大学地球科学系副教授，硕士研究生导师。先后担任理学院团委书记，地球科学系总支委员，总支副书记，系主任助理，研究生德育导师。主要从事遥感、构造地质及计算机地学仿真研究。主讲《遥感地学分析》、《地球信息探测技术》和《野外专业实习》3门本科生课程以及《遥感地物波谱》研究生课程。主持国家自然科学基金1项，国家&ldquo;973&rdquo;计划子课题1项，浙江省自然科学基金1项。作为研究骨干多次参加国家自然科学基金，国家重大专项、&ldquo;863&rdquo;、&ldquo;973&rdquo;计划和省部级项目。发表论文20余篇，其中SCI/EI论文8篇，一级学报论文6篇。曾获浙江大学教学成果一等奖、浙江省多媒体课件设计一等奖，多次获浙江大学优秀德育导师荣誉称号。
+
+&nbsp;&nbsp;&nbsp;致力于地壳变形、地表过程及与地球深部动力学响应研究。曾经长期研究南天山的构造变形特征，利用遥感技术定量提取地表变形参数，约束地震资料解释。近年来，利用无人机数据、激光雷达数据构建高分辨率DEM，提取柴达木盆地西缘地表构造信息，辅助三维地震解释及油气勘探；利用多源高分辨率遥感影像研究基性岩墙群的几何学特征及其地质意义。此外还结合多波束水深和遥感数据进行台湾浅滩的沙波形态研究。招生方向：&nbsp;构造地质学、地球探测与信息技术、地质工程
+&nbsp;指导研究生：
+&nbsp;董津津2012级硕士生遥感地质方向；何谢凯2012级硕士生遥感和GIS方向；
+&nbsp;倪妮娜2013级博士生构造地质方向；胡程青2014级硕士生遥感地质方向
+
+欢迎具有地质学、遥感和GIS基础的学生免试攻读或报考研究生。
+Email：geo316@zju.edu.cn；ninghuachen@163.com；手机：13116751588；
+
+
+
+			
+				
+			工作研究领域
+			
+			遥感地学分析、活动构造、火山构造、地学数值模拟及仿真
+			
+				
+			联系方式
+			
+						电子信箱：geo316@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：陈宁华
+		单位：地球科学系
+		职称：副教授
+		我的主页共被访问了13271次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

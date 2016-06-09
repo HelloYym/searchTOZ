@@ -1,0 +1,352 @@
+
+
+
+
+
+Interesting有机化学-博客
+
+
+
+
+
+
+varctxPath="http://mypage.zju.edu.cn";
+varb_handle="0078420";
+varcfg_weblog="http://mypage.zju.edu.cn/weblog";
+vard=newDate()
+varselyear=d.getFullYear();
+varselmonth=d.getMonth()+1;
+
+
+
+
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	color:#111;
+	margin-right:10px;	
+}
+#mainlinkullia,.tagsa:hover{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+.tagsa{
+	margin-right:10px;
+}
+img{
+	border:none;
+}
+
+
+
+
+
+
+
+
+
+
+	
+		首页
+		帮助
+		登录
+	
+
+
+
+
+
+
+	Interesting有机化学
+
+
+	永久链接:http://mypage.zju.edu.cn/weblog/0078420&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+
+
+	中文主页
+			博客
+
+
+
+
+
+
+
+
+
+
+			
+				
+
+	
+[1/1]
+首页	上一页下一页末页
+
+	
+
+浏览模式:普通|列表
+
+
+
+
+
+
+		美国国家公园游览有感
+
+作者:包伟良日期:2013-12-06Friday
+
+
+
+美国国家公园游览有感女儿在美国念书，借去美国探望女儿的机会，我们去美国游玩过2次。今年暑假我们去美国游玩的时间比较长，去的地方也比较多一些。美国吸引全世界游客的著名景点有很多，其中很大一部分就是美国的国家公园。美国共有58个国家公园。这次我们去了...
+查看更多...
+
+
+
+
+
+分类:默认分类|			固定链接|评论总数0|
+			阅读次数68
+
+
+
+
+
+
+
+		关于物价
+
+作者:包伟良日期:2010-12-02Thursday
+
+
+
+相比于美国，我们这里的物价是太高了。物价是与收入有关的。实际上，如果在美国以美元为单位，在中国以人民币为单位，中国人和美国人的收入在数值上是大致上差不多的。当然各类人的收入在中国和在美国是不尽相同的。美国的普通工人、中小学教师、一般的服务人员，在...
+查看更多...
+
+
+
+
+
+分类:默认分类|			固定链接|评论总数0|
+			阅读次数105
+
+
+
+
+
+
+
+		我在美国开长途
+
+作者:包伟良日期:2010-11-01Monday
+
+
+
+因女儿在美国读研究生，今年是她获得硕士学位的时间，她要写论文，还要搬到新的学校去念博士学位，没法回来，所以我们就去美国看她。其实美国我去过两次，共待了两年多，美国生活说陌生也并不陌生。但以前在美国没有开过车。虽然也知道美国汽油便宜，上高速基本不要...
+查看更多...
+
+
+
+
+
+分类:默认分类|			固定链接|评论总数0|
+			阅读次数154
+
+
+			
+			
+		
+		
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+	
+	
+		姓名：包伟良
+		单位：化学系
+		职称：教授
+		我共发表了3篇文章
+		共收到0条评论
+		我的主页共被访问了1002次
+	
+	
+	
+	
+
+
+我的文章分类
+
+	默认分类
+		
+
+
+
+
+日历
+
+
+
+>>
+年月
+
+
+
+日
+一
+二
+三
+四
+五
+六
+
+
+
+
+
+
+
+
+
+
+
+我的最新文章
+
+
+		美国国家公园游览有感
+关于物价
+我在美国开长途
+	
+
+
+
+
+我的热点文章
+
+
+				美国国家公园游览有感
+		我在美国开长途
+		关于物价
+
+	
+
+
+我收到的评论
+
+	
+	
+
+
+我的文章汇总
+
+		2013年12月[1]
+		2010年12月[1]
+		2010年11月[1]
+		
+	
+
+
+链接
+
+
+
+
+
+
+检索
+
+
+
+
+-所有文章-
+默认分类
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+
+
+varflag=newArray();
+flag[0]='2010/11/01';
+flag[1]='2010/12/02';
+flag[2]='2013/12/06';
+
+
+varcale=newCalendar("idCalendar",{
+SelectDay:newDate(),
+onSelectDay:function(o),
+onToday:function(o),
+onFinish:function(){
+$("idCalendarYear").innerHTML=this.Year;$("idCalendarMonth").innerHTML=this.Month;
+for(vari=0,len=flag.length;i<len;i++){
+//alert(flag[i]);
+	vard=newDate(flag[i]);
+	if(this.Year==d.getYear()){
+		if(this.Month==d.getMonth()+1)
+		{
+this.Days[d.getDate()].innerHTML=""+d.getDate()+"";
+			
+		}
+
+	}
+}
+}
+});
+$("idCalendarPre").onclick=function()
+$("idCalendarNext").onclick=function()
+
+
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));

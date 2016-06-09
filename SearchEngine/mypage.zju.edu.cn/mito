@@ -1,0 +1,271 @@
+
+
+
+
+
+严庆丰实验室-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0095214";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	严庆丰实验室
+线粒体生物医学
+
+	永久链接:http://mypage.zju.edu.cn/mito&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			严庆丰博士
+教授、博士生导师
+浙江大学生命科学学院
+杭州310058
+0086-571-88206646
+qfyan@zju.edu.cn
+&nbsp;
+学&nbsp;&nbsp;&nbsp;历&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+1992.09&mdash;1995.12，浙江大学生物医学工程学系博士研究生，获博士学位
+1989.09&mdash;1992.07，浙江大学（原杭州大学）生物系硕士研究生，获硕士学位
+1985.09&mdash;1989.07，浙江大学（原杭州大学）生物系本科生，获学士学位
+&nbsp;
+国外经历
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2010.08&mdash;2010.11，美国希望城国家医学中心基因调控和药物发现系，高级访问学者
+2001.10&mdash;2005.04，美国辛辛那提儿童医学中心人类遗传学系，博士后
+&nbsp;
+工作经历
+2005.12&mdash;今，浙江大学生命科学学院，教授
+1997.10&mdash;2005.12，浙江大学生命科学学院，副教授
+1995.12&mdash;1997.10，浙江大学生物科学与技术系，讲师
+&nbsp;
+研究兴趣
+肥厚型心肌病和聋病等的分子致病机理、疾病特异性诱导多能干细胞（iPSCs）及功能研究等。
+&nbsp;
+主要科研项目
+1、干细胞分裂模式和干细胞干性维持的机制研究（课题四：利用模式生物果蝇和线虫研究调控干细胞分裂模式新机制），国家重大科学研究计划课题，主持。
+2、听觉微环路障碍形成的遗传和分子机制（课题一：听觉微环路障碍形成相关基因的鉴定），国家重大科学研究计划课题，学术骨干。
+3、线粒体耳聋相关的核修饰基因TRMU新功能及其机理研究，国家自然科学基金，主持。
+4、教育部新世纪优秀人才支持计划，主持。
+5、浙江省新世纪151人才工程，主持。
+&nbsp;
+主要论文
+1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;XiaoyuZhu,XiangyuHe,WeiWang,QiyinZhou,ZheYu,YuDai,XufenZhu,QingfengYan*(2015)MTO1workedasamodifierintheaminoglycosidessensitivityofyeastcarryingamitochondrial15SrRNAC1477Gmutation,PLoSONE,10(4):e0124200.doi:10.1371/journal.pone.0124200
+2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;XuanZhang,ShishiLi,WeiYang,HuayePan,DajiangQin,XufenZhu,QingfengYan*(2015)Mitochondrialdisease-specificinducedpluripotentstemcellmodels:GenerationandCharacterization,MethodsinMolecularBiology,DOI10.1007/7651_2014_195
+3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FanM,WangX,XuG,YanQ,HuangW(2015)Bileacidsignalingandliverregeneration.BiochimBiophysActa.1849(2):196-200.
+4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ZhongLiu,YanruiSong,DanLi,XiangyuHe,ShishiLi,BifengWu,WeiWang,ShulianGu,XiaoyuZhu,XuexiangWang,QiyinZhou,YuDai,QingfengYan*(2014)Thenovelmitochondrial16SrRNA2336T&gt;Cmutationisassociatedwithhypertrophiccardiomyopathy,JournalofMedicalGenetics,51:176&ndash;184.
+5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;XuanZhang,ShishiLi,WeiYang,DajiangQin,LuyangYu,QingfengYan*(2014)Patient-specificinducedpluripotentstemcellmodelsinmitochondrialdiseases,CurrentStemCellResearchandTherapy,9(2):134-140.
+6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;QiyinZhou,WeiWang,XiangyuHe,XiaoyuZhu,YaoyaoShen,ZheYu,XuexiangWang,XuchenQi,XuanZhang,MingjieFan,YuDai,ShuxuYangandQingfengYan*(2014)MechanisticstudyonthenuclearmodifiergeneMSS1mutationsuppressingneomycinsensitivityofthemitochondrial15SrRNAC1477GmutationinSaccharomycescerevisiae,PLoSONE,9(3):e90336.doi:10.1371/journal.pone.0090336.
+7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;XiangyuHe,XiaoyuZhu,XuexiangWang,WeiWang,YuDai,QingfengYan*(2013)NuclearmodifierMTO2modulatestheaminoglycoside-sensitivityofmitochondrial15SrRNAC1477GmutationinSaccharomycescerevisiae,PLoSONE8(12):e81490.doi:10.1371/journal.pone.0081490.
+8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JingShu,LiliXing,GuolianDing,QiongLuo,XinmeiLiu,QingfengYan,JianzhongSheng,HefengHuang*(2013）TheEffectofPeritonealFluidfromPatientswithEndometriosisonMitochondrialFunctionandDevelopmentofEarlyMouseEmbryos,PLoSONE8(12):e82334.doi:10.1371/journal.pone.0082334
+9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Xu-chenQi,Da-jiangXie,Qing-fengYan,Yi-rongWang,Yin-xinZhu,CongQian,Shu-xuYang*(2013)LRIG1dictatesthechemo-sensitivityoftemozolomide(TMZ)inU251glioblastomacellsviadown-regulationofEGFR/topoisomerase-2/Bcl-2,BiochemBiophysResCommun.437(2013)565&ndash;572.
+10.&nbsp;ZhongLiu,YanruiSong,ShulianGu,XiangyuHe,XiaoyuZhu,YaoyaoShen,BifengWu,WeiWang,ShishiLi,PingpingJiang,JianhuaLu,WendongHuang,QingfengYan*(2012)MitochondrialND512338T&gt;CvariantisassociatedwithmaternallyinheritedhypertrophiccardiomyopathyinaChinesepedigree,Gene,506:339-343.
+11.&nbsp;YanXK，WangXJ,WangZM,SunS,ChenGL,HeYZ,MoJQ,LiRH,JiangPP,LinQ,SunMZ,LiW,BaiY,ZhanJN,ZhuY,LuJX,YanQF,LiHW,GuanMX*(2011)Maternallytransmittedlate-onsetnon-syndromicdeafnessisassociatedwiththenovelheteroplasmicT12201CmutationinthemitochondrialtRNAHisgene,JMedGenet,48:682-690.
+12.&nbsp;WangX,YanQ,GuanMX*(2010)Combinationofthelossofcmnm5U34withthelackofs2U34,modificationsoftRNALys,tRNAGlu,andtRNAGlnalteredmitochondrialbiogenesisandrespiration,JMolBiol,395:1038-1048.
+13.&nbsp;WangX,YanQ,GuanMX*(2009)MutationinMTO1involvedintRNAmodificationimpairsmitochondrialRNAmetabolismintheyeastSaccharomycescerevisiae,Mitochondrion,9:180-185.
+14.&nbsp;XiaoyuZhu,XueruiPeng,Min-xinGuan,QingfengYan*(2009)Pathogenicexpressionofnucleargenesinmitochondrialdisorders,ActaBiochimicaetBiophysicaSinica,41(3):179-187.
+15.&nbsp;QiuChen,ChenqiYan,QingfengYan,LifengFeng,JianpingChen,KaixianQian*(2008)ThenovelMGC13096proteiniscorrelatedwithproliferation,CellBiochemistryandFunction,26:141-145.
+16.&nbsp;WangX,YanQ,GuanMX*(2007)DeletionoftheMTO2generelatedtotRNAmodificationcausesafailureinmitochondrialRNAmetabolismintheyeastSaccharomycescervisiae.FEBSLetters,581:4228-4234.
+17.&nbsp;GuanMX*,YanQ,LiX,BykhovskayaY,Gallo-TeranJ,HajekP,UmedaN,ZhaoH,GarridoG,MengeshaE,SuzukiT,delCastilloI,PetersJ,LiR,QianY,WangX,ShohatM,&nbsp;EstivillX,WatanabeK,Fischel-GhodsianN(2006)MutationinTRMUrelatedtomitochondrialtRNAmodificationmodulatesthephenotypicexpressionofthedeafness-associatedmitochondrial12SrRNAmutations.AmJHumGenet,79:291-302.
+18.&nbsp;YanQ.,BykhovskayaY.,LiR.,MengeshaE.,ShohatM.,EstivillX.,Fischel-GhodsianN.,andGuanMX*(2006)HumanTRMUencodingthemitochondrial5-methylaminomethyl-2-thiouridylate-methyltransferaseisaputativenuclearmodifiergenefactorforthephenotypicexpressionof&nbsp;thedeafness-associated12SrRNAmutations.BiochemBiophysResCommun,342:1130-1136.
+19.&nbsp;YanQ,LiX,FayeG,GuanMX*(2005)MutationsintheMTO2relatedtotRNAmodificationimpairmitochondrialgeneexpressionandproteinsynthesisinthepresenceofaparomomycin-resistancemutationinmitochondrial15SrRNA,&nbsp;JBiolChem,280(32):29151-29157.
+20.&nbsp;YanQ,GuanMX*(2004)IdentificationandcharacterizationofmouseTRMUgeneencodingthemitochondrial5-methylaminomethyl-2-thiouridylate-methyltransferase.BiochimBiophysActa,1676(2):119-126.
+21.&nbsp;ZhaoH,YoungWY,YanQ,LiR,CaoJ,WangQ,LiX,PetersJL.,HanD,andGuanMX*(2005)Functionalcharacterizationofthemitochondrial12SrRNAC1494Tmutationassociatedwithaminoglycoside-inducedandnon-syndromichearingloss.NucleicAcidsRes,33:1132-1139.
+22.&nbsp;ZhaoH,LiR,WangQ,YanQ,DengJH,HanD,BaiY,YoungWY,GuanMX*(2004)Maternallyinheritedaminoglycoside-inducedandnonsyndromicdeafnessisassociatedwiththenovelC1494Tmutationinthemitochondrial12SrRNAgeneinalargeChinesefamily.AmJHumGenet,74(1):139-152.
+23.&nbsp;LiX,Fischel-GhodsianN,SchwartzF,YanQ,FriedmanRA,GuanMX*(2004)BiochemicalcharacterizationofthemitochondrialtRNASer(UCN)T7511Cmutationassociatedwithnonsyndromicdeafness.NucleicAcidsRes,32(3):867-877.
+24.&nbsp;GibbonsWJJr,YanQ,LiR,LiX,GuanMX*(2004)Genomicorganization,expression,andsubcellularlocalizationofmousemitochondrialseryl-tRNAsynthetase.BiochemBiophysResCommun,317(3):774-778.
+25.&nbsp;LiR,LiX,YanQ,QinMoJ,GuanMX*(2003)IdentificationandcharacterizationofmouseMTO1generelatedtomitochondrialtRNAmodification.BiochimBiophysActa,1629(1-3):53-59.
+26.&nbsp;杨伟，李施施，张瑄，潘华晔，严庆丰*（2015）基于诱导多能干细胞的基因编辑和细胞治疗，中国细胞生物学学报，37(1):90-99
+27.&nbsp;沈瑶瑶，严庆丰*（2013）蛋白质相互作用研究进展，生命科学，25(2):269-274。
+28.&nbsp;王学翔、宋艳瑞、李施施、范明杰、严庆丰*（2013）MicroRNA:线粒体功能调控的新机制，中国细胞生物学学报，35(1):92-97。
+29.&nbsp;李施施、刘忠、严庆丰*(2011)外周血细胞重编程诱导性多潜能干细胞的研究进展，中国细胞生物学报，33(8):930-935。
+30.&nbsp;宋艳瑞、刘忠、顾淑莲、钱丽娟、严庆丰*(2011)肥厚型心肌病的致病分子机制研究进展，遗传，33(6):549-557。
+31.&nbsp;何向宇、金利平、刘忠、严庆丰*（2011）线粒体拟核结构及相关疾病研究进展，中国细胞生物学学报，33(2):173-181。
+32.&nbsp;严庆丰*，管敏鑫（2008），线粒体疾病与核基因-线粒体基因的表达调控，生命科学，20（4）：497-505。
+&nbsp;
+
+&nbsp;
+			
+				
+			工作研究领域
+			
+			线粒体功能和疾病的分子遗传学和细胞生物学
+			
+				
+			联系方式
+			
+			电话：057188206646			电子信箱：qfyan@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：严庆丰
+		单位：生命科学学院生物技术系
+		职称：教授
+		我的主页共被访问了32252次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

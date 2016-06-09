@@ -1,0 +1,203 @@
+
+
+
+
+
+陈焰-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0812011";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	陈焰
+浙江大学互联网安全实验室主任
+
+	永久链接:http://mypage.zju.edu.cn/ychen&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+				
+			工作研究领域
+			
+			主要研究方向有：计算机网络，大型分布式系统，网络安全、测量与诊断；智能手机安全，高速数据中心网络入侵检测系统，Web安全，在线社交网络安全。2005年获得美国能源部青年成就奖（EarlyCAREERAward)，2007年获得美国国防部青年学者奖（YoungInvestigatorAward)。2004和2005年分别获得Microsoft可信计算奖（TrustworthyComputingAwards）。曾获SIGCOMM2010最佳论文候选，应邀直接在ACM/IEEEToN上出版。在ACM/IEEETransactiononNetworking(ToN)等顶级期刊和SIGCOMM，IEEESymposiumonSecurityandPrivacy（Oakland）等顶级会议上共发表80余篇论文。截止2013年9月，据GoogleScholar显示，论文总引用超过5600次，H-index指数为29。目前拥有2项美国专利，另有3项美国专利和2项中国专利已申请。所从事的研究受美国国家科学基金会（NationalScienceFoundation）、Motorola、NEC和华为资助。
+
+2012年3月至今入选浙江省短期千人(海鸥计划)加盟浙大任特聘教授，负责浙江大学计算机学院的信息安全方向建设。2013年被邀请为中国互联网企业安全工作组学术委员会成员。
+			
+				
+			联系方式
+			
+						电子信箱：ychen@northwestern.edu			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：陈焰
+		单位：计算机科学与技术学院
+		职称：特聘教授
+		我的主页共被访问了6006次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		浙江大学互联网安全实验室
+	项目小组
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	英文主页
+其他中文主页
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

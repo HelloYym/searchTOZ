@@ -1,0 +1,252 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0096313";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0096313&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			教育背景与工作简历
+2007.12~至今浙江大学动物科学学院研究员
+
+2007.04~2007.12农业部畜牧司行业发展处副调研员
+
+2002.12~2007.12浙江大学动物科学学院副研究员
+
+2001.03~2005.03浙江大学动物科学学院博士研究生
+
+1998.09~2002.12浙江大学动物科学学院讲师
+
+1996.08~1998.09浙江农业大学饲料科学研究所助教
+
+1993.09~1996.07浙江农业大学饲料科学研究所硕士研究生
+
+1990.08~1993.08杭州市农业科学研究院技术员
+
+1985.09~1990.07浙江农业大学畜牧兽医系本科生
+&nbsp;
+学术兼职
+生物饲料安全与污染防控国家工程实验室，副主任
+
+浙江省饲料科技创新服务平台，副主任
+
+浙江省动物营养与保健品协会，理事
+&nbsp;
+所获荣誉与主要奖励
+2008年国家现代农业（肉鸡）产业技术体系岗位科学家
+
+2007年教育部新世纪优秀人才
+
+2006年浙江省151人才第二层次
+
+2005年浙江省151人才第三层次
+
+2001年杭州市131人才第一层次
+
+2007年浙江省科技进步三等奖（第二）
+
+2004年浙江省科技进步二等奖（第二）
+
+2003年浙江省教委科技进步一等奖（第二）
+
+2001年国家科技进步二等奖（第八）
+
+2001年浙江省科技进步二等奖（第二）
+
+2000年浙江省农业科技进步一等奖（第二）
+
+2000年浙江省科技进步二等奖（第七）
+
+1998年浙江省科技进步二等奖（第七）
+
+
+
+			
+				
+			工作研究领域
+			
+			动物营养与（肉质，减排）调控；新型饲料添加剂开发
+
+			
+					
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：占秀安
+		单位：浙江大学饲料科学研究所
+		职称：研究员（自然科学）
+		我的主页共被访问了2280次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,217 @@
+
+
+
+
+
+吴昊姝-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0099247";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	吴昊姝
+
+
+	永久链接:http://mypage.zju.edu.cn/0099247&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			1、学历背景：
+1989.9至1993.7&nbsp;&nbsp;&nbsp;浙江大学药学院&nbsp;理学学士
+1996.9至1999.7&nbsp;&nbsp;&nbsp;浙江大学药学院&nbsp;理学硕士
+2002.2至2006.12&nbsp;浙江大学药学院&nbsp;医学博士
+2、国外学习研究经历：
+2007年1月至2008年1月&nbsp;日本歧阜药科大学&nbsp;访问学者
+3、工作经历：
+1993.8至1996.8&nbsp;&nbsp;&nbsp;&nbsp;浙江省丽水市中心医院药剂科，药师
+1999.8至2009.12&nbsp;&nbsp;浙江大学药学院，讲师
+2010~&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江大学药学院，副教授
+			
+				
+			工作研究领域
+			
+			主要学术研究方向为抗糖尿病药理学，对新化合物和植物提取部位或有效成分进行体内外抗糖尿病活性筛选和评价以及潜在的分子机制研究，并根据抗糖尿病药的药理毒理及作用机制对临床联合用药进行探索和评价。
+
+
+			
+				
+			联系方式
+			
+			电话：0571－88208406			电子信箱：fwhs@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：吴昊姝
+		单位：浙江大学药理毒理与生化药学研究所
+		职称：副教授
+		我的主页共被访问了5813次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

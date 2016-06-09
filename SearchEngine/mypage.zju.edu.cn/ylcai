@@ -1,0 +1,212 @@
+
+
+
+
+
+浙江大学蔡云龙-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0011003";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	浙江大学蔡云龙
+
+
+	永久链接:http://mypage.zju.edu.cn/ylcai&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;蔡云龙博士，副教授，博士生导师，浙江大学求是青年学者。&nbsp;
+&nbsp;2004年获得北京交通大学计算机科学与技术专业本科学位，分别于2006年和2010年获得英国萨里大学通信工程专业硕士学位和英国约克大学电子工程专业博士学位。2010年2月至2011年1月在法国国立工艺学院（CNAM）信号与系统实验室从事博士后工作。2011年2月加入浙江大学信息与电子工程系，担任讲师。2013年12月晋升为副教授。2012年受英国皇家工程院资助，到英国约克大学电子工程系进行合作交流。
+&nbsp;主要研究领域为下一代无线通信系统中信号处理关键技术，自适应滤波理论和阵列信号处理，包括大规模天线系统中的低复杂度干扰消除技术，MIMO干扰信道和MIMO中继信道下高效的收发机设计算法，天线阵列自适应波束成形和DOA估计算法。在自适应信号处理和通信信号处理领域取得一系列重要进展，已发表国际权威期刊、国际会议等论文60余篇。担任一个国际期刊编委和多个IEEE权威期刊和会议的审稿人。目前承担国家自然科学基金，浙江省自然科学基金，华为公司创新研究计划和中央高校基本科研业务费。
+具有数学，通信，信号处理等相关专业背景和较强的英文阅读和写作能力，有意申请本人的硕士生和博士生的学生，请准备一份简历和成绩单，发到&nbsp;ylcai@zju.edu.cn。
+欢迎保送硕士生和直博生联系。
+			
+				
+			工作研究领域
+			
+			Adaptivesignalprocessing,sensorarrayprocessing,cooperativeandcognitivecommunications,mathematicaloptimizationforcommunications,massiveMIMO,multiuserMIMOprecoding,physicallayersecurity,full-duplexradios,wirelessenergytransfer,millimeterwave.
+			
+				
+			联系方式
+			
+						电子信箱：ylcai@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：蔡云龙
+		单位：信息与电子工程学系
+		职称：副教授
+		我的主页共被访问了13468次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		发表论文
+	工作研究项目
+	教学工作
+	奖励荣誉
+	学术活动
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

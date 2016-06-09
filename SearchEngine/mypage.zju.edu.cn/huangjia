@@ -1,0 +1,218 @@
+
+
+
+
+
+黄乔烧饼-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0008404";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	黄乔烧饼
+HJ&XM的浙大空间
+
+	永久链接:http://mypage.zju.edu.cn/huangjia&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			学历
+2000.09-2004.06：中国农业大学理学院应用化学系,理学学士&nbsp;
+
+2004.10-2006.09：日本岛根大学生命和环境科学研究生院,硕士&nbsp;
+
+2006.10-2008.09：日本鸟取大学农学联合研究生院,博士&nbsp;
+
+
+工作经历
+2008.10&ndash;2011.12浙江大学昆虫科学研究所，讲师
+2012.1&ndash;至今浙江大学昆虫科学研究所，副教授&nbsp;&nbsp;
+			
+				
+			工作研究领域
+			
+			从事昆虫毒理学和昆虫神经生物学的研究。近年来的研究重点为昆虫神经受体在昆虫生理活动中的功能，其在杀虫剂开发和筛选上的应用，以及神经靶标对昆虫抗性发展的影响等。目前的研究工作主要包括以下几个方面：1）鳞翅目农业害虫和对应寄生蜂的杀虫剂靶标的分子药理学研究，明确特异性杀虫剂的作用机理，研发可用于高通量筛选的受体表达细胞系；2）以生物胺受体为代表的昆虫G蛋白偶联受体的生理学，信号传导和药理学研究，通过多种技术手段研究其在昆虫各种行为中的作用；3）昆虫神经和免疫系统的相互作用，重点关注生物胺和多肽等神经小分子物质及其对应受体和下游信号途径在调控中的作用。
+			
+				
+			联系方式
+			
+			电话：88982669			电子信箱：huangj@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：黄佳
+		单位：农业与生物技术学院
+		职称：
+		我的主页共被访问了7530次
+标签：昆虫	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	学术交流（讲座报告）
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

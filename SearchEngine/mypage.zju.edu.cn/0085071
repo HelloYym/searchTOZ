@@ -1,0 +1,209 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0085071";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0085071&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;
+&nbsp;&nbsp;&nbsp;娄永根，男，博士。浙江大学教授，博士生导师。1985、1993和1999年分别毕业于浙江农业大学植物保护系植物保护专业、昆虫学专业和浙江大学植物保护系昆虫学专业，获学士、硕士和博士学位。2001年12月-2003年11月在德国Max-Planck化学生态学研究所从事博士后研究。多次赴瑞士、德国、菲律宾等进行访问或合作研究。现任中国生态学学会化学生态学专业委员会副主任委员。入选浙江省&ldquo;新世纪151人才工程&rdquo;第一层次、教育部&ldquo;新世纪优秀人才支持计划&rdquo;和教育部&ldquo;创新团队发展计划&rdquo;。获2003-2004年浙江省优秀科技工作者称号。主要从事昆虫化学与分子生态学、功能基因组、生物防治以及有害生物综合治理等方面的研究工作。先后主持国家自然科学基金、973项目专题、教育部新世纪优秀人才支持计划、浙江省科技厅重点项目、国际科学基金、浙江省自然科学基金等10多项。在国内外重要学术刊物上发表论文70余篇，其中SCI收录论文17篇，包括发表在ProcNatlAcadSciUSA和PlantPhysiology等国际一流学术刊物上的论文3篇。先后招收和培养硕士和博士研究生、博士后10多名。主讲的本科生课程有有害生物综合治理和有害生物预测预报。
+&nbsp;
+			
+				
+			工作研究领域
+			
+			昆虫化学与分子生态学；功能基因组；生物防治；有害生物综合治理
+			
+				
+			联系方式
+			
+			电话：0571-86971622			电子信箱：yglou@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：娄永根
+		单位：农业与生物技术学院植物保护系
+		职称：教授
+		我的主页共被访问了9561次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	奖励荣誉
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

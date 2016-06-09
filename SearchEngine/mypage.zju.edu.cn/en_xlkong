@@ -1,0 +1,231 @@
+
+
+
+
+
+Kong-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0011036";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	Kong
+
+
+	Permanentlink:http://mypage.zju.edu.cn/en/xlkong&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			ProfessionalExperiences:
+2011－Now&nbsp;&nbsp;Teacher,&nbsp;&nbsp;ZhejiangUniversity
+2010－2011&nbsp;&nbsp;&nbsp;PostdoctoralFellow,&nbsp;KansasStateUniversity
+2009－2010&nbsp;&nbsp;&nbsp;ResearchAssistant,&nbsp;TheUniversityofHongKong
+Education:
+2005－2009PhD,&nbsp;TheUniversityofHongKong
+&nbsp;&nbsp;VisitingResearch:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2008&nbsp;VisitingGraduateScholar,NationalUniversityofSingapore&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2007&nbsp;VisitingPhDStudent,&Aring;boAkademiUniversity
+2002－2005&nbsp;MSc,&nbsp;ZhejiangUniversity
+1998－2002&nbsp;BSc,&nbsp;ShandongAgriculturalUniversity
+
+Selectedpublications：
+
+
+1)KongXL,ChenYL,ZhuP,SuiZQ,CorkeH,BaoJS(2015)Relationshipsamonggenetic,structuralandfunctionalpropertiesofricestarch.J.Agric.FoodChem.63,6241-6248.
+2)KongXL,ZhuP,SuiZQ,BaoJS(2015)Physicochemicalpropertiesofstarchesfromdiversericecultivarsvaryinginapparentamylosecontentandgelatinizationtemperaturecombinations.FoodChem.172,433-440.
+
+3)KongXL,KasapisS,BaoJS(2015)Viscoelasticpropertiesofstarchesandfloursfromtwonovelricemutantsinducedbygammairradiation.LWT-FoodSci.Technol.60,578-582.
+4)KongXL,QiuD,YeXT,BaoJS,SuiZQ,FanJW,XiangWZ(2015)Physicochemicalandcrystallinepropertiesofheat-moisturetreatedricestarch:Combinedeffectsofmoistureanddurationofheating.J.Sci.FoodAgric.(DOI:&nbsp;10.1002/jsfa.7028)
+5)SuiZQ,YaoTM,ZhaoY,YeXT,KongXL*,AiLZ*(2015)Effectsofheat-moisturetreatmentreactionconditionsonthephysicochemicalandstructuralpropertiesofmaizestarch:Moistureandlengthofheating.FoodChem.173,1125-1132.
+6)KongXL,SunX,XuFF,UmemotoT,ChenH,BaoJS(2014)Morphologicalandphysicochemicalpropertiesoftwostarchmutantsinducedfromahighamyloseindicaricebygammairradiation.Starch-Starke66,157-165.
+7)LuoZG,LuXX,KongXL*,FuX,LiFL,LuoFX(2013)Physicochemicalpropertiesofstarchdispersedin1-allyl-3-methylimidazoliumchloride.Ind.Crop.Prod.46,197-204.
+8)KongXL,KasapisS,BaoJS,CorkeH(2012)&nbsp;Influenceofacidhydrolysisonthermalandrheologicalpropertiesofamaranthstarchesvaryinginamylosecontent.J.Sci.FoodAgric.92,1800-1807.
+(BeforeJoiningZJUat2011)：
+9)KongXL,KasapisS,BertoftE,CorkeH(2010)Rheologicalpropertiesofstarchesfromgrainamaranthandtheirrelationshiptostarchstructure.Starch-Starke62,302-308.
+10)KongXL,CorkeH,BertoftE(2009)&nbsp;Finestructurecharacterizationofamylopectinsfromgrainamaranthstarch.Carbohydr.Res.344,1701-1708.
+11)KongXL,BaoJS,CorkeH(2009)PhysicalpropertiesofAmaranthusstarch.FoodChem.113,371-376.
+12)KongXL,KasapisS,BaoJS,CorkeH(2009)Effectofgammairradiationonthethermalandrheologicalpropertiesofgrainamaranthstarch.Radiat.Phys.Chem.78,954-960.
+13)KongXL,BertoftE,BaoJS,CorkeH(2008)Molecularstructureofamylopectinfromamaranthstarchanditseffectonphysicochemicalproperties.&nbsp;Int.J.Biol.Macromol.43,377-382.&nbsp;
+14)KongXL,XieJK,Wu&nbsp;XL,HuangYJ,&nbsp;BaoJS(2005)&nbsp;Rapidpredictionofaciddetergentfiber,neutraldetergentfiber,andaciddetergentligninofricematerialsbynear-infraredspectroscopy.&nbsp;J.Agric.FoodChem.53,2843-2848.&nbsp;
+
+FullPublicationList:
+GoogleScholar,http://scholar.google.com
+ResearchID,&nbsp;http://www.researcherid.com
+			
+				
+			Researchwork
+			
+			FoodBiophysics;FoodScience;CerealScience;StarchChemistry
+			
+				
+			Contact
+			
+			Phone:
+			E-mail:xlkongatzjudotedudotcn
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:XiangliKong
+		Units:AppliedBiologicalSciences
+		Title:
+		Myhomepagehasbeenvisited5172times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	
+
+
+Youarevisitor:5172
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

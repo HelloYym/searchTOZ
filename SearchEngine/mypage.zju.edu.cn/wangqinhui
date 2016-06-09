@@ -1,0 +1,206 @@
+
+
+
+
+
+王勤辉-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0097082";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	王勤辉
+能源清洁利用领域的科研教学工作者
+
+	永久链接:http://mypage.zju.edu.cn/wangqinhui&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+浙江大学热能工程研究所暨能源清洁利用国家重点实验室教授、博导生导师，国家能源煤炭清洁转换利用技术研发（实验）中心副主任，中国颗粒学会理事,流态化专业委员会副主任，中国电机工程学会热电专业委员会委员，浙江省电力学会锅炉专业委员会委员。入选教育部新世纪人才计划，浙江省&ldquo;新世纪151人才计划&rdquo;第一层次。作为负责人承担国家&ldquo;863&rdquo;高科技项目或子课题4项、国家&ldquo;973&rdquo;项目骨干课题2项、科技支撑计划项目子课题2项、科技部国际合作课题2项，国家自然科学基金1项以及30多项与国内外企业的合作科研项目。作为主要完成者获浙江省科技进步一等奖2项、教育部科学技术奖二等奖1项、浙江省科技进步二等奖2项以及教育部科技进步三等奖1项。到目前为止，获省级以上成果鉴定6项，已发表论文110余篇，其中第一、二作者60多篇，著作2本，国家发明专利10余项。
+			
+				
+			工作研究领域
+			
+			从事煤及生物质的循环流化床燃烧和气化技术、煤的热解气化燃烧分级转化热电气多联产技术、污染物控制技术、热化学制氢技术以及气固多相流等方向的研究及技术开发工作。
+			
+				
+			联系方式
+			
+			电话：057187952802			电子信箱：qhwang@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：王勤辉
+		单位：能源工程学系
+		职称：教授
+		我的主页共被访问了8625次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		专利成果
+	实验室介绍
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

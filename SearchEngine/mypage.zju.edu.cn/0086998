@@ -1,0 +1,206 @@
+
+
+
+
+
+简介-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0086998";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	简介
+
+
+	永久链接:http://mypage.zju.edu.cn/0086998&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;1982年7月毕业于浙江大学力学系，1986年7月获浙江大学流体力学专业硕士学位，1991年7月获北京大学流体力学专业博士学位。
+&nbsp;1992年晋升副教授，1994年晋升为教授，1995年任博士生导师。现任中国计量学院院长、中国计量测试学会副理事长、全国质量监管重点产品检验方法标准化技术委员会副主任委员、中国力学学会理事、中国空气动力学学会理事、中国力学学会流体力学专业委员会副主任委员、浙江省科学技术协会常务委员、浙江省力学学会理事长、北京大学湍流与复杂系统国家重点实验室学术委员会委员。InternationalJournalofMultiphaseflow副主编以及国内外十余个学术刊物的编委。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江省特级专家；国家杰出青年基金获得者；入选&ldquo;全国百千万人才工程&rdquo;第一、二层次；教育部&ldquo;跨世纪优秀人才&rdquo;；浙江省高校首批中青年学科带头人；首批入选&ldquo;浙江省自然科学基金青年科技人才专项培养计划&rdquo;；首批入选浙江省151人才工程第一层次；浙江省&ldquo;新世纪151人才工程&rdquo;重点资助培养对象；获国务院政府特殊津贴；浙江省有突出贡献中青年专家；浙江省优秀科技工作者；获陆增祺高科技奖励基金一等奖。
+&nbsp;&nbsp;（以上材料截止日期为20010年7月9日）
+&nbsp;
+			
+				
+			工作研究领域
+			
+			多相流、纤维悬浮流、微流体力学、湍流及拟序结构、叶轮流体机械
+			
+					
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：林建忠
+		单位：航空航天学院工程力学系
+		职称：教授
+		我的主页共被访问了16191次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	研究成果
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

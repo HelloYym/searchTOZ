@@ -1,0 +1,228 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0085397";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0085397&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+
+
+代表著作（论文）
+1、《法国通史》（独著，上海社会科学院出版社2002年）
+2、《20世纪法国知识分子的历程》（独著，浙江大学出版社2001年）
+3、《法兰西的兴衰》（独著，三秦出版社2005年）
+4、《公民的加冕礼：法国普选史》（独译，上海人民出版社2005年）
+5、《知识分子的鸦片》（主译，译林出版社2005年）
+
+承担课题
+1、战后法国知识分子社会地位与作用的历史考察（国家社科基金项目）
+2、20世纪法国知识分子史研究（教育部社科规划项目）
+3、法国政治制度史研究（浙江省社科规划办重点项目）
+
+开设课程
+1、20世纪世界史研究（本科生）
+2、外国史学史（本科生）
+3、西方史学流派与名著选读(研究生)
+
+			
+				
+			工作研究领域
+			
+			
+1、法国近现代史
+2、西方知识分子史（以法国为主）
+3、当代西方史学（以法国为主）
+4、西方政治思想与制度史
+5、中法关系史
+
+			
+				
+			联系方式
+			
+			电话：88273301			电子信箱：luym2005@yahoo.com.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：吕一民
+		单位：人文学院历史学系
+		职称：教授
+		我的主页共被访问了9024次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

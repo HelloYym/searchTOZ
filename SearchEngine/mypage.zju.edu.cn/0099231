@@ -1,0 +1,217 @@
+
+
+
+
+
+陈玮琳-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0099231";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	陈玮琳
+浙江大学免疫学研究所
+
+	永久链接:http://mypage.zju.edu.cn/0099231&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+现为浙江大学免疫学研究所教授，博士生导师。1991-1996年浙江医科大学预防医学系获学士学位，1996-1999年免试攻读浙江大学公共卫生系研究生获硕士学位，2001-2004年师从曹雪涛院士在职攻读浙江大学医学院博士研究生，获肿瘤学博士学位。2007.7-2009.4美国新泽西医科大学访问学者。作为项目负责人承担了国家优秀青年基金等4项国家自然科学基金和多个省厅级科研项目，参与了&ldquo;863&rdquo;计划、&ldquo;973&rdquo;项目子课题项目。近年来以第一作者或通讯作者在Cell、EurJImmunol、Immunollett、NutrCancer等学术期刊发表SCI论文多篇，获省科技进步三等奖1项（第二完成人），并申报了1项国家发明专利（获授权，第二发明人）。
+&nbsp;
+			
+				
+			工作研究领域
+			
+			1.感染免疫；2.肿瘤免疫
+			
+				
+			联系方式
+			
+			电话：0571-88981575			电子信箱：cwl@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：陈玮琳
+		单位：基础医学系
+		职称：教授
+		我的主页共被访问了14851次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	奖励荣誉
+	实验室介绍
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	医学免疫学-概论
+医学免疫学-抗原
+医学免疫学-固有免疫及NK细胞
+医学免疫学-超敏反应
+医学免疫学-免疫学检测技术
+医学免疫-免疫防治
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

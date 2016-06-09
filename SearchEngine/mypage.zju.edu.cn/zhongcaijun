@@ -1,0 +1,223 @@
+
+
+
+
+
+钟财军的主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0011051";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	钟财军的主页
+
+
+	永久链接:http://mypage.zju.edu.cn/zhongcaijun&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;钟财军博士，副教授，博士生导师，浙江大学求是青年学者。
+&nbsp;&nbsp;&nbsp;2004年获得西安交通大学信息与通信工程专业本科学位，分别于2006年和2010年获得英国伦敦大学学院（UCL）计算机系信息安全专业硕士学位以及电子工程系无线通信专业博士学位。2009年9月至2011年9月在北爱尔兰女王大学（QUB）从事博士后工作。2011年10月加入浙江大学信息与电子工程学系，担任讲师。2012年12月晋升为副教授。
+&nbsp;&nbsp;&nbsp;主要研究领域为下一代无线通信系统关键技术的基础理论研究，包括多天线（MIMO）技术，协作通信技术，认知无线电技术，MassiveMIMO技术，通信系统中的干扰问题，随机矩阵理论。在国际通信，信息论及信号处理领域权威期刊如IEEEJournalofSelectedAreasinCommunications，IEEETransactionsonInformationTheory，IEEETransactionsonSignalProcessing，IEEETransactionsonWirelessCommunications和IEEETransactionsonCommunications上发表论文40余篇，相关成果被国内外多个课题组广泛引用。目前承担国家863项目子课题，国家青年自然科学基金，浙江省自然科学基金，浙江省科技厅公益项目和中央高校基本科研业务费，并作为学术骨干参与科技部973项目。
+&nbsp;&nbsp;&nbsp;自2014年7月起担任国际知名期刊IEEECommunicationsLetters,IEEE/KICSJournalonCommunicationsandNetworks编委，并长期担任IEEE期刊JSAC，TSP，TCOM，TWC，TVT，SPL，CL和WCL等审稿人，获2012年度IEEE&nbsp;CommunicationsLettersExemplaryReviewer和IEEEWirelessCommunicationsLettersExemplaryReviewer。2014年度IEEETransactionsonCommunicationsExemplaryReviewer.
+&nbsp;&nbsp;&nbsp;具有数学，通信，信号处理等相关专业背景和较强的英文阅读和写作能力，有意申请本人的硕士生和博士生的学生，请准备一份简历，发到caijunzhong@zju.edu.cn
+&nbsp;
+&nbsp;
+
+
+
+
+
+
+
+
+最新消息：
+2015.6&nbsp;&nbsp;&nbsp;&nbsp;一篇共同作者论文被IEEEWirelessCommunicationsLetters接收
+2015.6&nbsp;&nbsp;&nbsp;&nbsp;博士生孔垂丽参加ISIT2015并宣读论文
+2015.6&nbsp;&nbsp;&nbsp;&nbsp;钟财军副教授和博士生孔垂丽参加ICC2015并宣读论文
+2015.4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;受邀担任IEEETransactionsonWirelessCommunications编委
+2015.4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一篇论文被IEEESignalProcessingLetters接收
+2015.4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;获浙江省杰出青年基金资助
+2015.4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一篇共同作者论文被IEEECommunicationsMagazine接收
+2015.3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一篇共同作者论文被IEEETransactionsonVehicularTechnology接收
+
+			
+					
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：钟财军
+		单位：信息与通信工程研究所
+		职称：副教授
+		我的主页共被访问了47237次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	发表论文
+	奖励荣誉
+	研究项目
+	学术活动和社会服务
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

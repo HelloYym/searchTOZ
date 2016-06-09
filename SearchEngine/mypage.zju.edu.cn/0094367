@@ -1,0 +1,227 @@
+
+
+
+
+
+王国英的主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0094367";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	王国英的主页
+
+
+	永久链接:http://mypage.zju.edu.cn/0094367&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			最后学位（2008）年（浙江大学）学校（博士）学位
+&nbsp;
+代表著作（论文）
+1、探幽发微摄魂点睛&mdash;&mdash;论摄影文学的审美创造
+2、显影彰旨：夏衍电影编剧的特色分析
+3、在宣传中构筑电影艺术空间
+4、政治文化视野中的历史救赎&mdash;&mdash;论抗日战争时期太平天国历史剧
+5、《大学写作》教材
+
+承担课题
+1、中国政治文化与夏衍三四十年代文学创作
+2、浙江大学大学写作教学改革实践
+3、浙江大学重点课程建设&mdash;&mdash;应用写作
+
+开设课程
+1、大学写作
+2、影视艺术学
+&nbsp;
+			
+				
+			工作研究领域
+			
+			中国现代文学与文化
+
+中国当代影视文化
+
+
+			
+				
+			联系方式
+			
+			电话：88273103			电子信箱：gywzbs@126.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：王国英
+		单位：人文学院中国语言文学系
+		职称：讲师
+		我的主页共被访问了7034次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	发表论文
+	出版著作
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

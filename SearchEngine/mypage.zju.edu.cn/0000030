@@ -1,0 +1,217 @@
+
+
+
+
+
+DrJZHAO的主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0000030";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	DrJZHAO的主页
+
+
+	永久链接:http://mypage.zju.edu.cn/0000030&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			1993年获得浙江大学化工系学士学位，1996年获得浙江大学化工系硕士学位，2000年获得浙江大学控制科学与控制理论博士学位。主要从事流程工业先进控制和优化方面的理论与应用研究工作。从工业应用需求出发，对智能化预测控制方法进行了研究和开拓。提出了基于优先级和权重的胖瘦系统自动转换算法、基于满意性能的缓冲区软约束算法、基于模糊偏差分析的动态性能指标调整策略等多项技术，并已在应用中验证。出版&ldquo;预测控制&rdquo;教材一本，已获得预测控制方面软件著作权登记三项、授权发明专利二项，在国内外重要期刊、会议上发表学术论文30余篇。
+
+主持完成一项国家自然科学基金项目&ldquo;复杂多时标过程的预测控制算法&rdquo;(2006)。作为骨干成员参与并完成了国家863计划项目&ldquo;复杂工业过程先进控制技术与软件&rdquo;(2002-2003)、&ldquo;炼油石化生产装置先进控制技术与软件研究开发&rdquo;(2004-2005)和973课题&ldquo;复杂生产制造过程实时智能操作优化理论与方法研究&rdquo;(No.2002CB312203)的研发。
+在&ldquo;大型精对苯二甲酸生产过程智能建模、控制与优化技术&rdquo;中，负责实施了加氢反应过程浆料浓度、溶剂脱水塔等多项先进控制系统，获2005年国家科技进步二等奖和2004年国家教育部科技进步一等奖。&ldquo;PTA装置结晶过程优化操作技术研究开发&rdquo;，获2004年中国石油化工集团公司科学技术进步三等奖。&ldquo;生产过程监控系统&rdquo;获2002年浙江省科技进步三等奖。
+
+&nbsp;
+			
+				
+			工作研究领域
+			
+			主要研究领域和研究方向包括复杂生产过程的先进控制、化工过程建模与操作优化、智能优化算法及应用等。
+			
+				
+			联系方式
+			
+			电话：0571-8795328313003693119			电子信箱：jzhao@iipc.zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：赵均
+		单位：控制科学与工程学系
+		职称：副教授
+		我的主页共被访问了9770次
+标签：预测控制	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	研究成果
+	奖励荣誉
+	研究方向与课题
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	浙江大学过程系统工程实验室
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

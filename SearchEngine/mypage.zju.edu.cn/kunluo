@@ -1,0 +1,237 @@
+
+
+
+
+
+能源－环境-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0005113";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	能源－环境
+计算多相燃烧
+
+	永久链接:http://mypage.zju.edu.cn/kunluo&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			入选中组部&ldquo;青年拔尖人才&rdquo;和浙江省&ldquo;钱江人才&rdquo;计划，是国家自然科学优秀青年基金项目获得者、全国百篇优秀博士学位论文获得者、浙江省自然科学杰出青年基金获得者以及国际燃烧学会会员和美国宇航学会会员。师从能源清洁利用国家重点实验室中国工程院院士岑可法和长江特聘教授樊建人，近十多年来一直从事计算流体动力学、复杂多相流和燃烧反应、环境流体力学以及可再生能源的计算机高级数值模拟研究。作为研究骨干和项目负责人，承担了10多项国家级和省部级科研项目，包括973项目、国家自然科学基金重点项目以及浙江省自然科学重大项目等。在国内外学术期刊上发表论文80余篇，其中被《SCI》收录40余篇，被《EI》收录40余篇。研究成果曾荣获第三十三届国际燃烧学大会杰出论文奖、吴仲华优秀青年学者奖、浙江省科学技术一等奖、浙江省高校优秀科研成果二等奖、中国工程热物理学会陈学俊青年学者优秀论文奖及中国工程热物理学会燃烧分会优秀论文奖等，取得国家版权局计算机软件著作权9项，所在课题组还获得2005年度国家自然科学二等奖一项。同时还应邀与美国NovaSciencePublishers合作出版英文专著1部，担任4个国际学术期刊的编委，应邀做过4次学术会议的邀请报告，是20多个国内外学术期刊的审稿专家和多个学术会议的分会场主席。
+			
+				
+			工作研究领域
+			
+			计算机辅助数值优化实验；多相反应流体力学；计算能源学；空气污染及空气质量模型；风能模拟等。具体包括以下几个方面：
+
+
+1.湍流和气固、气液两相流动和燃烧的直接数值模拟研究(DirectNumerialSimulation-DNS)：发展高精度、双向耦合、大规模并行计算的直接数值模拟方法和平台，研究复杂多相反应流动中颗粒－湍流、燃烧－湍流、颗粒－燃烧间等多物理场、多尺度耦合的作用和机理，并基于DNS数据库对工业应用中的模型进行改进和优化。
+
+
+2.复杂多相流动和燃烧的工业应用及计算机辅助优化数值试验：发展改进的大涡模拟(LargeEddySimulation-LES)和雷诺平均模拟(ReynoldsAveragedNavier-Stokes-RANS)方法对能源与动力工程领域的工业设备，如电厂冷却塔、锅炉燃烧器、脱硝反应器等进行计算机辅助优化数值试验，以达到节能减排和优化设计的目的。
+
+
+3.空气污染及空气质量模型：基于CFD和CMAQ－WRF等区域多尺度空气质量模型，研究PM2.5、SO2、NOx等污染物的生成及其在人体呼吸道、居民小区、城市以及区域间的迁移和扩散，并考虑其对人体健康的影响以及成效分析，为空气污染的治理提供决策依据。
+
+
+4.可再生能源风能的模拟：发展多尺度的数学模型，研究风力机的空气动力特性及噪声特性、预测风电场的输出功率波动、模拟风资源的分布等。
+			
+				
+			联系方式
+			
+			电话：0571-87951764			电子信箱：zjulk@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：罗坤
+		单位：能源工程学系
+		职称：教授
+		我的主页共被访问了9241次
+标签：energy	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教育背景
+	工作经历
+	教学工作
+	发表论文
+	奖励荣誉
+	国际交流
+	实验室介绍
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	StanfordUniversity,CTR
+CornellUniversity,TCG
+RWTHAachenUniversity,ITV
+PrincetonUniversity,LCG
+MIT,MechE
+SandiaNationalLab,CRF
+France,Cerfacs,
+KyotoUniversity,KuroseGroup
+能源清洁利用国家重点实验室
+内燃机国家重点实验室
+动力工程多相流国家重点实验室
+煤燃烧国家重点实验室
+火灾科学国家重点实验室
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

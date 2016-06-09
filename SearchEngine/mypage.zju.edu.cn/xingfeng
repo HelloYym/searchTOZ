@@ -1,0 +1,206 @@
+
+
+
+
+
+斯幸峰的个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0014635";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	斯幸峰的个人主页
+
+
+	永久链接:http://mypage.zju.edu.cn/xingfeng&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+
+您好，欢迎访问斯幸峰的个人网站。鄙人上得了山，下得了湖，爬得了树，游得了水。出身乡野，寒窗二十余载，历经小学、初中、高中、本科和研究生五个阶段。很惭愧，没有正式上过幼儿园，传闻入园不久由于不遵守相关法律法规而被老师遣送回家(此处因年代久远已不可考)，故上小学后读了两回一年级。二十年后，毕业于三墩职校，食性稍变，从专蛀书本到啃噬文献(xi&aacute;n)。目前，鄙人乃一介博士后，全职在千岛湖搞鸟，兼职在古田山搞兽，正所谓禽兽通吃。预知内情，详见我的个人简历或个人网站:&nbsp;http://sixf.org
+			
+				
+			工作研究领域
+			
+			保护生物学、岛屿生物地理学、动物生态学、红外相机、鸟类学、生境片段化、生物多样性、滩涂围垦、野生动物管理
+			
+				
+			联系方式
+			
+			电话：0579-88206467			电子信箱：xingfengsi[at]gmail.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：斯幸峰
+		单位：生命科学学院生物科学系
+		职称：博士后
+		我的主页共被访问了546次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

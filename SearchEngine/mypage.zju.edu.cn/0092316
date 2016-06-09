@@ -1,0 +1,260 @@
+
+
+
+
+
+张蔚文-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0092316";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	张蔚文
+欢迎有经济学和数学背景的跨专业学生报考研究生
+
+	永久链接:http://mypage.zju.edu.cn/0092316&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			教育经历
+<pclass="MsoPlainText"style="line-height:20.0pt;mso-line-height-rule:exactly;
+mso-outline-level:1">
+<pclass="MsoPlainText"style="margin-left:21.0pt;text-indent:-21.0pt;line-height:
+20.0pt;mso-line-height-rule:exactly;mso-outline-level:1;mso-list:l0level1lfo1;
+tab-stops:list21.0pt;mso-layout-grid-align:none;text-autospace:none"><spanlang="EN-US"style="mso-bidi-font-size:10.5pt;font-family:Symbol;mso-fareast-font-family:
+Symbol;mso-bidi-font-family:Symbol">&uml;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2006年浙江大学&nbsp;经济学博士
+<pclass="MsoPlainText"style="margin-left:21.0pt;text-indent:-21.0pt;line-height:
+20.0pt;mso-line-height-rule:exactly;mso-outline-level:1;mso-list:l0level1lfo1;
+tab-stops:list21.0pt;mso-layout-grid-align:none;text-autospace:none"><spanlang="EN-US"style="mso-bidi-font-size:10.5pt;font-family:Symbol;mso-fareast-font-family:
+Symbol;mso-bidi-font-family:Symbol">&uml;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2000年浙江大学&nbsp;经济学硕士
+<pclass="MsoPlainText"style="margin-left:21.0pt;text-indent:-21.0pt;line-height:
+20.0pt;mso-line-height-rule:exactly;mso-outline-level:1;mso-list:l0level1lfo1;
+tab-stops:list21.0pt;mso-layout-grid-align:none;text-autospace:none"><spanlang="EN-US"style="mso-bidi-font-size:10.5pt;font-family:Symbol;mso-fareast-font-family:
+Symbol;mso-bidi-font-family:Symbol">&uml;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1992年原浙江农业大学经济学学士
+<pclass="MsoPlainText"style="line-height:20.0pt;mso-line-height-rule:exactly;
+mso-outline-level:1">&nbsp;
+<pclass="MsoNormal"style="line-height:20.0pt;mso-line-height-rule:exactly;
+mso-outline-level:1">工作经历
+<pclass="MsoPlainText"style="margin-left:21.0pt;text-indent:-21.0pt;line-height:
+20.0pt;mso-line-height-rule:exactly;mso-outline-level:1;mso-list:l0level1lfo1;
+tab-stops:list21.0pt;mso-layout-grid-align:none;text-autospace:none"><spanlang="EN-US"style="mso-bidi-font-size:10.5pt;font-family:Symbol;mso-fareast-font-family:
+Symbol;mso-bidi-font-family:Symbol">&uml;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2011年12月至今，浙江大学公共管理学院教授
+<pclass="MsoPlainText"style="margin-left:21.0pt;text-indent:-21.0pt;line-height:
+20.0pt;mso-line-height-rule:exactly;mso-outline-level:1;mso-list:l0level1lfo1;
+tab-stops:list21.0pt;mso-layout-grid-align:none;text-autospace:none"><spanlang="EN-US"style="mso-bidi-font-size:10.5pt;font-family:Symbol;mso-fareast-font-family:
+Symbol;mso-bidi-font-family:Symbol">&uml;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2003-2011年，浙江大学土地管理系副教授
+<pclass="MsoPlainText"style="margin-left:21.0pt;text-indent:-21.0pt;line-height:
+20.0pt;mso-line-height-rule:exactly;mso-outline-level:1;mso-list:l0level1lfo1;
+tab-stops:list21.0pt;mso-layout-grid-align:none;text-autospace:none"><spanlang="EN-US"style="mso-bidi-font-size:10.5pt;font-family:Symbol;mso-fareast-font-family:
+Symbol;mso-bidi-font-family:Symbol">&uml;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1998-2003年，浙江大学土地管理系讲师
+<pclass="MsoPlainText"style="margin-left:21.0pt;text-indent:-21.0pt;line-height:
+20.0pt;mso-line-height-rule:exactly;mso-outline-level:1;mso-list:l0level1lfo1;
+tab-stops:list21.0pt;mso-layout-grid-align:none;text-autospace:none"><spanlang="EN-US"style="mso-bidi-font-size:10.5pt;font-family:Symbol;mso-fareast-font-family:
+Symbol;mso-bidi-font-family:Symbol">&uml;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1992-1997年，原江农业大学土地管理系助教
+<pclass="MsoPlainText"style="margin-left:21.0pt;line-height:20.0pt;mso-line-height-rule:
+exactly;mso-outline-level:1;mso-layout-grid-align:none;text-autospace:none">&nbsp;
+<pclass="MsoNormal"style="line-height:20.0pt;mso-line-height-rule:exactly;
+mso-outline-level:1">国外访学经历
+<pclass="MsoPlainText"style="margin-left:21.0pt;text-indent:-21.0pt;line-height:
+20.0pt;mso-line-height-rule:exactly;mso-outline-level:1;mso-list:l0level1lfo1;
+tab-stops:list21.0pt;mso-layout-grid-align:none;text-autospace:none"><spanlang="EN-US"style="mso-bidi-font-size:10.5pt;font-family:Symbol;mso-fareast-font-family:
+Symbol;mso-bidi-font-family:Symbol">&uml;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2001年7月-11月，美国艾奥瓦州立大学经济系访问学者
+<pclass="MsoPlainText"style="margin-left:21.0pt;text-indent:-21.0pt;line-height:
+20.0pt;mso-line-height-rule:exactly;mso-outline-level:1;mso-list:l0level1lfo1;
+tab-stops:list21.0pt;mso-layout-grid-align:none;text-autospace:none"><spanlang="EN-US"style="mso-bidi-font-size:10.5pt;font-family:Symbol;mso-fareast-font-family:
+Symbol;mso-bidi-font-family:Symbol">&uml;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2007年8月-2008年8月，美国康奈尔大学应用经济与管理系访问学者
+<pclass="MsoPlainText"style="margin-left:21.0pt;text-indent:-21.0pt;line-height:
+20.0pt;mso-line-height-rule:exactly;mso-outline-level:1;mso-list:l0level1lfo1;
+tab-stops:list21.0pt;mso-layout-grid-align:none;text-autospace:none"><spanlang="EN-US"style="mso-bidi-font-size:10.5pt;font-family:Symbol;mso-fareast-font-family:
+Symbol;mso-bidi-font-family:Symbol">&uml;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2011年8月-2014年7月，美国哥伦比亚大学地球研究院客座研究学者
+&nbsp;
+			
+				
+			工作研究领域
+			
+			有两个主要研究领域：土地经济与政策；环境经济与政策。在土地领域，近年来的研究聚焦于土地发展权交易、土地财政和地方土地制度创新；在环境领域，近年来聚焦于用实验经济学方法研究激励机制、农户行为与农业点源污染控制与管理政策选择之间的作用机理。
+
+			
+				
+			联系方式
+			
+			电话：86-571-5666-2158			电子信箱：wwzh@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：张蔚文
+		单位：公共管理学院
+		职称：教授
+		我的主页共被访问了9235次
+标签：土地财政土地制度改革	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	学术交流（讲座报告）
+	奖励荣誉
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

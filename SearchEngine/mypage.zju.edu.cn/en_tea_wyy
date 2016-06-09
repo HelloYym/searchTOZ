@@ -1,0 +1,205 @@
+
+
+
+
+
+Tea_WYY-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0007281";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	Tea_WYY
+Tea_WYY
+
+	Permanentlink:http://mypage.zju.edu.cn/en/tea_wyy&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			Education
+1998.9-2002.6:DepartmentofTeaScience,ZhejiangUniversity,asaundergraduatestudent
+2002.9-2007.6:InstituteofNuclear-AgricultureScience,ZhejiangUniversity,asadoctoralstudent
+VisitingExperiences
+2010.3-2010.6:DepartmentofAppliedBiochemistry,ShizuokaUniversity,asasciencevisitor
+WorkingExperiences
+2007-2009,Post-doctor,TeaResearchInstitute,ZhejiangUniversity
+2009-date,Teacherstaff,TeaResearchInstitute,ZhejiangUniversity
+			
+				
+			Researchwork
+			
+			1.BiosynthesisofNaturalProducts;2.TeaandHumanHealth.
+
+			
+				
+			Contact
+			
+			Phone:
+			E-mail:yywu@zju.edu.cn
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:Yuan-YuanWu
+		Units:TeaReseaarchInstitute
+		Title:AssociateProfessor
+		Myhomepagehasbeenvisited488times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	
+
+
+Youarevisitor:488
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

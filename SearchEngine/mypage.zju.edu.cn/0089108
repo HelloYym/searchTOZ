@@ -1,0 +1,207 @@
+
+
+
+
+
+之海大龙-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0089108";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	之海大龙
+
+
+	永久链接:http://mypage.zju.edu.cn/0089108&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;专业方向：光学工程，光学遥感与图像处理。是国家973项目课题负责人，作为项目负责人承担国家自然科学基金项目1项、其他国家级项目2项、浙江省重大科技项目1项。是国家探月工程三期地面应用系统论证组专家，国家重大科技专项&ldquo;高分辨率对地观测系统&rdquo;的专题论证组专家。曾经作为项目负责人或技术负责人，完成了与韩国三星航空、美国柯达、美国康和电子等公司的国际合作项目。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;获浙江省科学技术二等奖1项，出版学术专著2部，发表学术论文100余篇，其中SCI收录10余篇，Ei收录60余篇，获得国家专利19项，其中发明专利8项。学术兼职：中国宇航学会光学遥感专业委员会副主任委员、光电专业委员会常务委员，浙江省光学学会常务理事。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;业余爱好：书法，网球。
+			
+				
+			工作研究领域
+			
+			1、光学遥感
+2、成像技术
+3、图像处理
+
+			
+				
+			联系方式
+			
+			电话：0571-87951182			电子信箱：xuzh@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：徐之海
+		单位：光电信息工程学系
+		职称：教授
+		我的主页共被访问了8342次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

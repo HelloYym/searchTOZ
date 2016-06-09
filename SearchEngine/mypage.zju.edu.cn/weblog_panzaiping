@@ -1,0 +1,356 @@
+
+
+
+
+
+潘再平个人主页-博客
+
+
+
+
+
+
+varctxPath="http://mypage.zju.edu.cn";
+varb_handle="panzaiping";
+varcfg_weblog="http://mypage.zju.edu.cn/weblog";
+vard=newDate()
+varselyear=d.getFullYear();
+varselmonth=d.getMonth()+1;
+
+
+
+
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	color:#111;
+	margin-right:10px;	
+}
+#mainlinkullia,.tagsa:hover{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+.tagsa{
+	margin-right:10px;
+}
+img{
+	border:none;
+}
+
+
+
+
+
+
+
+
+
+
+	
+		首页
+		帮助
+		登录
+	
+
+
+
+
+
+
+	潘再平个人主页
+浙江大学电机工程学系
+
+	永久链接:http://mypage.zju.edu.cn/weblog/panzaiping&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+
+
+	中文主页
+英文主页
+			博客
+
+
+
+
+
+
+
+
+
+
+			
+				
+
+	
+[1/1]
+首页	上一页下一页末页
+
+	
+
+浏览模式:普通|列表
+
+
+
+
+
+
+		研究型大学电气工程及其自动化特色专业建设研究与实践
+
+作者:潘再平日期:2013-12-01Sunday
+
+
+
+研究型大学电气工程及其自动化特色专业建设研究与实践一、项目背景电力工业是国民经济非常重要的基础工业。2011年我国发电装机容量超过11亿千瓦，目前正在加快建设智能电网；而以风力发电为代表的新能源发电更是发展迅猛，2011年我国风电机组总装机容量...
+查看更多...
+
+
+
+
+
+分类:默认分类|			固定链接|评论总数0|
+			阅读次数118
+
+
+
+
+
+
+
+		电气工程实验教学中心的建设与实践
+
+作者:潘再平日期:2010-10-05Tuesday
+
+
+
+电气工程实验教学中心的建设与实践潘再平马皓卢慧芬杨莉陈欣（浙江大学电气工程学院杭州：310027panzaiping@zju.edu.cn）摘要：浙江大学电气工程实验教学中心承担了电气类专业基础、专业课的实践教学工作，本着浙江大学&ldquo;以人为本、整合培养、...
+查看更多...
+
+
+
+
+
+分类:默认分类|			固定链接|评论总数0|
+			阅读次数89
+
+
+
+
+
+
+
+		电气工程及其自动化专业的教学改革
+
+作者:潘再平日期:2009-01-15Thursday
+
+
+
+全面优化本科教学平台培养电气工程创新人才潘再平浙江大学电机工程学系浙江大学电气学科创建于1920年，历史悠久，在学科发展过程中，非常注重人才培养，适时根据社会需求进行教学改革，取得许多创新成果。如原电器方向根据电力电子技术的发展创建了国内第一...
+查看更多...
+
+
+
+
+
+分类:默认分类|			固定链接|评论总数0|
+			阅读次数176
+
+
+			
+			
+		
+		
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+	
+	
+		姓名：潘再平
+		单位：电气工程学院
+		职称：教授
+		我共发表了3篇文章
+		共收到0条评论
+		我的主页共被访问了2302次
+	
+	
+	
+	
+
+
+我的文章分类
+
+	默认分类
+		
+
+
+
+
+日历
+
+
+
+>>
+年月
+
+
+
+日
+一
+二
+三
+四
+五
+六
+
+
+
+
+
+
+
+
+
+
+
+我的最新文章
+
+
+		研究型大学电气工程及其...
+电气工程实验教学中心的...
+电气工程及其自动化专业...
+	
+
+
+
+
+我的热点文章
+
+
+				电气工程及其自动化专业...
+		研究型大学电气工程及其...
+		电气工程实验教学中心的...
+
+	
+
+
+我收到的评论
+
+	
+	
+
+
+我的文章汇总
+
+		2013年12月[1]
+		2010年10月[1]
+		2009年1月[1]
+		
+	
+
+
+链接
+
+“电力电子技术”国家级...
+“电力电子技术”网络教...
+“电机学系列课程”精品...
+
+
+
+
+
+检索
+
+
+
+
+-所有文章-
+默认分类
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+
+
+varflag=newArray();
+flag[0]='2009/01/15';
+flag[1]='2010/10/05';
+flag[2]='2013/12/01';
+
+
+varcale=newCalendar("idCalendar",{
+SelectDay:newDate(),
+onSelectDay:function(o),
+onToday:function(o),
+onFinish:function(){
+$("idCalendarYear").innerHTML=this.Year;$("idCalendarMonth").innerHTML=this.Month;
+for(vari=0,len=flag.length;i<len;i++){
+//alert(flag[i]);
+	vard=newDate(flag[i]);
+	if(this.Year==d.getYear()){
+		if(this.Month==d.getMonth()+1)
+		{
+this.Days[d.getDate()].innerHTML=""+d.getDate()+"";
+			
+		}
+
+	}
+}
+}
+});
+$("idCalendarPre").onclick=function()
+$("idCalendarNext").onclick=function()
+
+
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));

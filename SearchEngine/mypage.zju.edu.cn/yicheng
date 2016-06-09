@@ -1,0 +1,296 @@
+
+
+
+
+
+0010139-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0010139";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	0010139
+
+
+	永久链接:http://mypage.zju.edu.cn/yicheng&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+
+吴义诚（1966.7-），河南周口人，浙江大学普通语言学教授，爱丁堡大学语言学博士，语言学专业博士生导师，国际语言学权威期刊Linguistics专刊编辑、Ampersand:AnInternationalJournalofGeneralandAppliedLinguistics编委等，在语言学专业期刊LinguisticInquiry、Linguistics、Lingua等发表学术论文数十篇，此外参加了CollinsChineseDictionary(编委，哈珀-科林斯出版公司2005年出版）、OxfordChineseDictionary（牛津大学出版社2010年出版）等双语词典的编写工作；曾获&ldquo;2014年浙江大学十大学术进展&rdquo;奖、浙江省哲学社会科学优秀成果奖、浙江省高等学校科研成果奖和广东省&ldquo;南粤优秀教师（教坛新秀）&rdquo;称号等。
+主要兴趣
+(1)采用高度形式化的逻辑语言（见Wu2011a,b），对句子结构与语义语用的接口现象进行刻画，这需要采用建模的方法对语句的语义内容进行动态解析，解析的最终结果显示为语句的命题逻辑式即大家通常所说的&ldquo;语义表征&rdquo;;(2)同时进行基于语料统计或心理实验的语言学实证研究，以验证一些理论分析能否经得起实践检验（见Wu2013,Shuai,GongandWu2013）。这种理论与实证相结合的方法，也是目前国际语言学界的主流范式;(3)采用历时与共时相结合的方法，对一些语法结构及其语义内容在使用过程中的变化进行描写和刻画（LiandWu2013,&nbsp;ShiandWu2014)，并在此基础上对相关演化过程进行计算机模拟(参见Gong,ShuaiandWu&nbsp;2013)，这无疑有助于认识人类语言这头&ldquo;大象&rdquo;的全貌。
+
+
+
+
+开设课程
+语言学理论
+语言学基础
+语用学研究
+大脑.语言.演化（ProfTomSchoenemann主讲）
+
+在研项目
+浙江大学语言学与应用语言学研究生英文课程建设项目（2012.4~2015.4）
+浙江大学海外教师主导的研究生全英文课程建设项目
+（2013.10~2016.10)
+教育部人文社科基金项目：汉语动词标示不足现象的动态研究（2012.7~2015.6）
+国家社会科学基金规划项目：句法与语义及语用的互动研究（2012.7~2015.6）
+近期成果&nbsp;
+
+句法语义
+2016.NumeralclassifiersinSiniticlanguages:Referentiality,contextualityandsemi-lexicality.Linguistics.&nbsp;
+2016.ObjectexpletivesinChineseandthetheoryofpredication.LanguageandLinguistics.
+
+
+
+2015(Li,X.andY.Wu).DitransitivesinGanChinese:Valencyincreasingandprepositionincorporation.LanguageSciences50:66-77.
+2015(Li,Y.andY.Wu).ThegradienceoftransitivityinSiniticlanguages:Atypologicalperspective.PaperpresentedattheInternationalWorkshoponTypologicalStudiesofSiniticLanguagesheldatZhejiangUniversity,Hangzhou,9May2015.
+2015(Wu,Y.andY.Yu).Ellipticalconstructionsatthesemantics-pragmaticsinterface(省略结构：语义与语用的界面研究).ModernForeignLanguages(《现代外语》).
+2015(Yang,X.andY.Wu).Onthelinearnatureoftheproductionprocessoftopic-commentstructure&nbsp;(论话题结构生成的线性机制).JournalofForeignLanguages(《外国语》第1期).
+2015(Wu.Y.andX.Yang).ThreedecadesofGenerativeStudiesontheChineselanguage&nbsp;(生成语法与汉语研究三十年).ContemporaryLinguistics(《当代语言学》第2期).
+2015.MultipleoccurrencesoftheChinesereflexive&nbsp;inaclause:Atthesyntax-pragmaticsinterface.PaperpresentedattheThirdInternationalSymposiumonProminenceandLocalityinNaturalLanguage,Beijing,20-21March2015,andpreviouslyatthe&nbsp;TheoreticalLinguisticsWorkshop,Hanzhou,8March2014andthedepartmentalseminaroftheDepartmentofLinguistics,UniversityofHongKong,14February2014.&nbsp;&nbsp;
+2014&nbsp;(Y.LiandY.Wu).Constructionalobjects:Across-linguisticperspective.PaperpresentedatUsage-basedApproachestoLanguage,LanguageLearning,andMultilingualism,GURT&nbsp;(GeorgetownUniversityRoundTableonLanguagesandLinguistics),GeorgetownUniversity,Washington,D.C.,14-16March.
+
+2014(Wu,Y.and&nbsp;Y.Li).Transitivityintheconstructionalperspective(语言及物性的构式研究).JournalofForeignLanguages(《外国语》第3期).[pdf]
+2013(Shuai,L.,T.GongandY.Wu).&nbsp;Whoiswho?InterpretationofmultipleoccurrencesoftheChinesereflexive:Evidencefromreal-timesentenceprocessing.PLoSONE,&nbsp;8(9):e73226(SCI).[pdf，见中文简介pdf]
+2013.Ontheso-calledunboundedpassives.JournalofChineseLinguistics41(1):65-90.[pdf]
+2012.ReviewofSemanticProsody:ACriticalEvaluation(Routledge,2010).DiscourseStudies14(3):366-368.
+2012.&nbsp;Fromstatictodynamic:Thelinguisticperspective&nbsp;ofDynamicSyntax(从静到动：动态句法学的语言观),《中国社会科学报》http://ling.cssn.cn/yyx/yyx_jsyyx/201310/t20131029_746604.shtml).
+
+2011.TheinterpretationofcopularconstructionsinChinese:Semanticunderspecificationandpragmaticenrichment.Lingua121(4):851-870.[pdf，该文获得浙江省第十七届哲学社会科学优秀成果二等奖，见中文简介pdf]
+2011.Towardsadynamictypology&nbsp;ofpassives.InTheDynamicsofLexicalInterfaces,eds.byR.Kempson,E.GregoromichelakiandC.Howes,pp.129-159.Stanford:CSLIpublications/UniversityofChicagoPress.&nbsp;[pdf]
+
+2011(Cann,R.andY.Wu).The&nbsp;beiconstructioninChinese:Adynamicapproach.InTheDynamicsofLexicalInterfaces,eds.byR.Kempson,E.GregoromichelakiandC.Howes,pp.339-379.Stanford:CSLIpublications/UniversityofChicagoPress.&nbsp;
+
+2010&nbsp;(Wu,Y.andS.Matthews).Howdifferentareexpletiveandreferentialpronouns?Aparsingperspective.Lingua120(7):1805-1820.[pdf]
+
+2009(Wu,Y.andA.Bodomo).Classifiers&nbsp;&ne;Determiners.LinguisticInquiry40(3):487-503.&nbsp;[pdf]
+
+
+语言演化
+(Li,Y.andY.Wu,toappear)Contact-inducedchange:CompoundverbsinSiniticlanguages.JournalofPidginandCreoleLanguages.
+2014(Shi,W.&nbsp;andY.Wu).Whichwaytomove:TheevolutionofmotionexpressionsinChinese.Linguistics52(5):1237-1292.[pdf](Ashortversionwaspresentedatthe12thInternationalCognitiveLinguisticsConference(ICLC-12),AlbertaUniversity,Canada,23-28Jun2013).&nbsp;
+2014(Yang,X.andY.Wu).Thelinearprocessofthe&nbsp;evolutionofverb-copyingconstructionsinChinese.PaperpresentedattheSixthInternationalConferenceinEvolutionaryLinguistics(CIEL-6),XiamenUniversity,21-23November.
+2014.Newsreport:Interdisciplinarystudiespromotearesurgenceinevolutionarylinguistics(跨学科研究推动演化语言学勃兴,《中国社会科学报》http://www.cssn.cn/zx/bwyc/201407/t20140708_1243775.shtml)
+2014(Gong,T.,L.ShuaiandY.Wu).Extendingnetworkapproachtolanguagedynamicsandhumancognition.PhysicsofLifeReviews11(4):639-640.
+2014.&nbsp;Understandingtheoriginsoflanguage:Aninteractivestance.PhysicsofLifeReviews11(2):305-306(pdf,seethelinktotheissuehttp://www.sciencedirect.com/science/journal/15710645).
+
+2014(Shi,W.&nbsp;andY.Wu).TheevolutionofmotionrepresentationsinChinese:Languagestructure,languageuseandlanguagetypology.Berlin:MoutondeGruyter.
+2013(Li,Y.&nbsp;andY.Wu).Ontheevolutionarymechanism&nbsp;ofdisyllabictransitiveverbsinChinese.JournalofChineseLinguistics(Ashort&nbsp;versionwas&nbsp;presentedatthe5thInternationalConferenceinEvolutionaryLinguistics(CIEL-5),ChineseUniversityofHongKong,17-19August).&nbsp;
+2013(Gong,T.,L.ShuaiandY.&nbsp;Wu).Multidisciplinaryapproachesinevolutonarylinguistics.LanguageSciences37:1-13.[pdf]
+
+语用认知
+2015(Yang,X.andY.Wu).WhethermultipleoccurrencesoftheChinesereflexiveinasingleclausecantakedistinctantecedents:Adeicticperspective.JournalofPragmatics(resubmitted).
+2014(Ye,Y.&nbsp;andY.Wu).Developmentofpragmaticcompetence:Astatisticalstudybasedonprimaryandsecondaryschoolstudents'interpretationofanon-canonicalconstructioninChinese.Paperpresentedatthe3rdInternationalConferenceonChineseasaSecondLanguageResearch,UniversityofParma,Italy,28-30August.
+2014(Li,Y.&nbsp;andY.Wu).Thesemanticsandpragmaticsofthe[CHI'eat'+Non-foodNP]construction.InterculturalPragmatics11(2):279-300.[pdf]
+2014(Xu,C.&nbsp;andY.Wu).Metaphorsintheperspectiveofargumentation.JournalofPragmatics62(2):68-76.[pdf]
+2012.ReviewofCognitivePragmatics&mdash;TheMentalProcessesofCommunication(MITPress,2010).CognitiveLinguistics23(3):637-642.
+2012(Huang,H.andY.Wu).Communicativeacts:Intentionality,contextualityandreciprocity.JournalofPragmatics44(1):116-122.[pdf]
+2011.ReviewofSemanticsandPragmatics:FromExperimenttoTheory(Macmillan,2009).DiscourseStudies&nbsp;13(5):657-659.&nbsp;
+2011(Chen,J.andY.Wu).Lesswell-behavedpronouns:&nbsp;SingulartheyinEnglishandpluralta'it/he/she'inChinese.JournalofPragmatics43(1):407-410.&nbsp;[pdf]
+2010(Chen,J.,&nbsp;H.HuangandY.Wu).Aspectsofpragmaticreferentiality.JournalofPragmatics42(3):870-874.[该文获得2011年浙江省高等学校科研成果三等奖]
+
+2009.&nbsp;Deferredreferenceatthegrammar-pragmaticsinterface.PaperpresentedattheAnnualConferenceoftheInternationalPragmaticsAssociation,Melbourne,Australia,7-12July.
+
+2009(Chen,J.,&nbsp;H.HuangandY.Wu).Topicexpression,informationsaliencyandanaphoraresolution.JournalofPragmatics41(9):1103-1107.&nbsp;[pdf;该文获得浙江省第十六届哲学社会科学优秀成果三等奖，见中文简介pdf]
+编著/词典
+
+2016(Co-editors:Bisang,W.&nbsp;&amp;&nbsp;Y.Wu).NumeralclassifiersinEastAsia.Linguistics(SpecialIssue).
+2011.TheChineseYouNeedtoKnow.Oklahoma:TatePublishing(America'sTopPublisher).
+2011(principaleditor:Chinese-Englishsection).CollinsChineseDictionary(newedition,abestsellingbilingualdictionary).Glasgow,LondonandNewYork:HarperCollinsPublishers(seetheCollinslinkhttp://www.collins.co.uk/product/9780007382361/Collins+Chinese+Dictionary+%5BThird+edition%5D).
+2010(contributor:90Chinese-EnglishandEnglish-Chineselanguagenotes).OxfordChineseDictionary.Oxford:OxfordUniversityPress(国内版《牛津&bull;外研社英汉汉英词典》，北京：外语教学与研究出版社)(seetheOUPlinkherehttp://ukcatalogue.oup.com/product/9780199207619.do，ortheDoubanlinkhttp://book.douban.com/subject/5271214/).
+2007(contributor:appendices).Oxford&nbsp;Beginner'sChineseDictionary.Oxford:OxfordUniversityPress.&nbsp;
+
+			
+				
+			工作研究领域
+			
+			语言学理论；语言演化；语言类型学
+
+			
+				
+			联系方式
+			
+						电子信箱：wuyicheng@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：吴义诚
+		单位：语言与认知中心/语言学研究所
+		职称：
+		我的主页共被访问了21958次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		语言学研究所
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	Ampersand
+LanguageLog
+TheLinguistList
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

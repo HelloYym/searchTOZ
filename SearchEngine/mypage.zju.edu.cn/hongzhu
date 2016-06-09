@@ -1,0 +1,210 @@
+
+
+
+
+
+朱虹的主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0008238";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	朱虹的主页
+
+
+	永久链接:http://mypage.zju.edu.cn/hongzhu&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			朱虹，药理学博士，浙江杭州人。
+2002年毕业于南京大学生命科学院生物系生物制药专业，获南京大学优秀毕业生称号。
+2002-2007年就读于中国科学院上海药物研究所，期间获中国科学院研究生院三好学生和优秀毕业生等荣誉，并获博士学位。毕业后前往美国加州大学尔湾分校从事博士后研究工作。
+2008年进入浙江大学药学院肿瘤药理课题组工作。
+近年来以第一作者身份发表SCI论文多篇；主持和参与多个国家级和省级科学基金项目的工作，其中包括国家自然科学基金、国家重大新药创制科技重大专项抗肿瘤、心脑血管病和神经精神性疾病新药临床前药效学评价技术平台项目，以及国家重大新药创制科技重大专项药物研究开发项目；获得浙江省科学技术进步奖二等奖一项（排名第七）。
+			
+				
+			工作研究领域
+			
+			从事抗肿瘤新药研发和肿瘤药理学研究。近年来关注的领域包括：肿瘤靶向性药物治疗，基于作用机制的抗恶性肿瘤药物合用，II型程序性细胞死亡自噬在肿瘤发生发展和药物治疗中的作用。
+			
+				
+			联系方式
+			
+						电子信箱：hongzhu@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：朱虹
+		单位：浙江大学药理毒理与生化药学研究所
+		职称：副教授（自然科学）
+		我的主页共被访问了1289次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		专利成果
+	研究成果
+	发表SCI论文（第一作者）
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

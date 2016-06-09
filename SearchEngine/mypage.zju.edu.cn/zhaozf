@@ -1,0 +1,206 @@
+
+
+
+
+
+赵志峰（Jeffzhao）-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0006320";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	赵志峰（Jeffzhao）
+无线、通信、网络；宽带、移动、多媒体；
+
+	永久链接:http://mypage.zju.edu.cn/zhaozf&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;赵志峰，1975年3月生于河南洛阳，副教授，硕士生导师。2002年6月获解放军理工大学通信与信息系统博士学位。
+&nbsp;&nbsp;&nbsp;在国内较早从事无线自组织网络技术（AdHoc网络）的研究，目前的研究方向为宽带无线接入、无线Mesh网络、移动多媒体通信和应用、下一代广播电视网等。曾先后参与或主持了CDMA移动交换子系统、宽带无线路由器、宽带无线数据电台、家庭数字多媒体终端、多接口无线Mesh路由器等项目和产品的研究开发。近年来在国内外学术刊物上发表论文30余篇。
+&nbsp;&nbsp;&nbsp;浙江省通信学会副秘书长，钱江特聘专家。
+			
+				
+			工作研究领域
+			
+			无线网络、移动多媒体、新一代宽带无线接入、下一代广播电视网
+			
+				
+			联系方式
+			
+			电话：+8657187952022			电子信箱：zhaozf@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：赵志峰
+		单位：信息与电子工程学系
+		职称：副研究员（自然科学）
+		我的主页共被访问了12584次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

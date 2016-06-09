@@ -1,0 +1,212 @@
+
+
+
+
+
+热电材料研究室-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0004152";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	热电材料研究室
+-浙江大学材料系能源材料课题组
+
+	永久链接:http://mypage.zju.edu.cn/msezhutj&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			博士，现为浙江大学材料系教授。主要从事热电能源转换材料与器件等方面的研究。1992年考入浙江大学材料系，2001年获浙江大学博士学位后赴新加坡－麻省理工联盟（Singapore-MIT&nbsp;Alliance）做博士后研究。2004年5月回国，聘为浙江大学材料系副教授，2010年12月聘为浙江大学教授，2012年入选教育部&ldquo;新世纪优秀人才&rdquo;。2009年获英国皇家工程院（REA）资助赴Cardiff大学进行短期交流访问，2011.9-2012.3美国加州理工学院访问学者。2014年入选浙江省151人才第二层次。曾主持国家&ldquo;863&rdquo;高科技计划、国家自然科学基金、教育部博士点基金、浙江省钱江人才计划等科研项目10余项；迄今在Adv.Funct.Mater,Adv.EnergyMater.,&nbsp;Energ.Environm.Sci.等国际刊物上发表学术论文180余篇，他引2000余次。获授权发明专利15项。在专业国际学术会议上做特邀报告9次。担任2013年PacRim10(SanDiego,USA)热电分会共同主席，ISFM2007国际功能材料会议共同主席。多次担任国际学术会议国际顾问，目前是SCI期刊FunctionalMaterialsLetter的EditorialAdvisoryBoardMember。与美国、英国、丹麦、新加坡等国家的多所著名大学建立了长期合作关系。
+&nbsp;
+			
+				
+			工作研究领域
+			
+			热电材料及器件，热电传输机制，传感材料等。
+			
+				
+			联系方式
+			
+			电话：0571-87952181			电子信箱：zhutj@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：朱铁军
+		单位：材料科学与工程学系
+		职称：教授
+		我的主页共被访问了43419次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	发表论文
+	出版著作
+	学术交流（讲座报告）
+	社会兼职
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	ITS
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

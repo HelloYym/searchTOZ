@@ -1,0 +1,226 @@
+
+
+
+
+
+Myacademichomepage-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0009789";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	Myacademichomepage
+BioelectromagnetisminBME
+
+	永久链接:http://mypage.zju.edu.cn/sgf&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			1982年生于浙江省诸暨市；
+2000年至2004年，&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;西北工业大学生物医学工程专业，获学士学位；
+2004年至2009年，&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江大学生物医学工程专业，获博士学位；
+2007年11月至2008年4月，澳大利亚昆士兰大学信息技术和电子工程学院公派联合培养；
+2008年7月至2009年1月，飞利浦亚洲研究院（上海）从事磁感应断层成像方面的研究工作；
+2009年7月至今，&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江大学生仪学院博士后。
+			
+				
+			工作研究领域
+			
+			1.心脏建模：多尺度的虚拟心脏模型，包括基因、离子通道、细胞和器官的电生理学和力学模型，采用计算机通过数学建模的方法描述心脏的电生理学和力学特性，系统揭示心脏内部运行的机制。
+2.ECG/MCG正反问题（功能成像）：由虚拟心脏模型出发，结合躯干容积导体建模计算心脏源在体表产生的电磁场；由体表测得的心电磁信号和个体的躯干容积导体数据，通过反问题求解方法，反演心脏的电生理特性。
+3.磁共振线圈优化设计：采用数值计算方法研究MRI线圈，并通过反问题设计方法设计MRI磁体系统。
+4.磁感应断层成像：通过磁场激励和对象产生的涡流效应，基于接受到的磁场变化，重建对象的电磁特性（电导率和磁导率等）。
+5.生物电磁场：电磁场的生物效应，包括涡流和SAR等计算。
+
+
+
+
+
+IEEE会员;
+IEEETBME,JournalofElectrocardiography,Medical&BiologicalEngineering&Computing等期刊审稿人
+
+			
+				
+			联系方式
+			
+			电话：13588848644			电子信箱：shoufinder@zju.edu.cn;			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：寿国法
+		单位：生物医学工程与仪器科学学院生物医学工程学系
+		职称：博士后
+		我的主页共被访问了9556次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+	专利成果
+	实验室介绍
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

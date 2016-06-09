@@ -1,0 +1,210 @@
+
+
+
+
+
+李强-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0011106";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	李强
+
+
+	永久链接:http://mypage.zju.edu.cn/qiangli&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;浙江大学副教授，博士生导师。先后就读于哈尔滨工业大学、上海交通大学和瑞典皇家理工学院。主要研究方向是纳米光子器件及其在光通信、光互连及能源利用领域的应用，集中在硅基光子器件和表面等离激元器件两个方面。已在国际杂志上发表SCI论文共计30篇，SCI引用超过250次，获得中国发明专利7项。
+
+
+&nbsp;&nbsp;&nbsp;现每年招收硕士/博士研究生2名，欢迎对纳米光子学物理、材料、器件、工艺及应用感兴趣的优秀学生保送或报考硕士/博士研究生，如想对实验室及研究方向进行进一步了解，请直接联系李强。
+
+地址：浙江省杭州市浙江大学玉泉校区教三432室
+电话：0571-87951628
+电邮：qiangli@zju.edu.cn
+网址：http://www.nanophotonics.zju.edu.cn/Web_Qiu/index.html
+
+			
+				
+			联系方式
+			
+			电话：0571-87951628			电子信箱：qiangli@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：李强
+		单位：光电信息工程学系
+		职称：副教授，博士生导师
+		我的主页共被访问了5113次
+标签：纳米光子学，光互联，绿色光子学，先进纳米光子学研究所，博士生导师	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		论文论著
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

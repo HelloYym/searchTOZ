@@ -1,0 +1,202 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0095467";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0095467&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			科研工作：1.腹腔镜技术在胰腺外科的应用：将腹腔镜技术用于胰腺疾病诊治，积累其在急性胆源性胰腺炎的一期和二期腹腔镜手术治疗、急性重症胰腺炎的腹腔镜灌洗引流、胰腺癌腹腔镜检查分期、腹腔镜胰体尾联合脾脏切除与保留脾脏胰体尾切除术治疗胰体尾肿瘤、腹腔镜胰体尾联合脾脏切除治疗左侧门脉高压等腹腔镜治疗胰腺疾病经验，逐步扩大腹腔镜在胰腺疾病治疗范围。举办了两届国家级“腹腔镜技术在胰腺外科的应用学习班”，推广技术经验，提高胰腺外科诊治技术水平；2.腹腔镜腹股沟疝、切口修补术：运用腹腔镜技术进行腹股沟疝、切口疝修补，
+			
+				
+			工作研究领域
+			
+			1、腹腔镜外科：腹腔镜手术治疗胰腺疾病、胃肠肿瘤、切口疝2、胰腺肿瘤治疗的微创化3、肝胆肿瘤的外科治疗与综合治疗
+			
+				
+			联系方式
+			
+						电子信箱：mouyp2002@yahoo.com.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：牟一平
+		单位：临床医学三系（含护理系）
+		职称：教授
+		我的主页共被访问了2376次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,249 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0089043";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0089043&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			现主持国家自然科学基金委面上项目（Nosema和Endoreticulatu侵染特异性相关因子的功能与分子特性研究）、农业部公益专项（蚕桑安全生产保障体系的建立，nyhyzx07-02）、教育部博士点基金（家蚕微粒子虫孢子发芽机理相关蛋白因子的研究，20050335009）和其它省部级科研项目5项，地方合作项目1项。参与科技部&ldquo;973&rdquo;（家蚕主要经济性状功能基因组与分子改良研究）和&ldquo;863&rdquo;（家蚕重要经济性状功能基因的克隆、分子调控与应用研究，2006AA10A119）项目科研工作。在国内外学术刊物发表论
+&bull;教育背景和工作简历
+
+2000.12～浙江大学动物科学学院教授、副院长等
+
+1998.9～浙江大学动物科学学院副教授、教授
+
+1995.5～1998.9浙江农业大学蚕学系讲师、副教授、系主任
+
+1992.4～1995.3日本国立京都工艺纤维大学生物机能科学博士
+
+1991.10～1992.3日本国立京都工艺纤维大学微生物与病理学研究室进修
+
+1989.8～1991.10浙江农业大学蚕学系病理学研究室助教、讲师
+
+1986.9～1989.7浙江农业大学蚕学系家蚕生理与病理学方向硕士
+
+1984.8～1986.8中国农业科学学院蚕业研究所生理与病理学研究室研究员助理
+
+1980.9～1984.7浙江农业大学蚕桑系学士
+
+&bull;主要学术兼职
+
+中国兽药典第三届委员会委员（2004～）
+
+中国蚕学会理事、生理与病理学专业委员会主任（2003～）
+
+教育部留学回国人员科研启动基金评审专家（2003～）
+
+山东农业大学客座教授（2002～）
+
+浙江省农学会理事（2002～）
+
+浙江省科协委员（2001～）
+
+浙江省蚕桑学会副理事长、学术委员会副主任（1999～）
+
+农业部兽药评审委员会委员（1999～）
+主要奖励
+
+蚕学专业农工贸复合型人才培养模式的研究和实践，国务院教学改革二等奖，2001，4/5
+
+新型蚕室蚕具消毒剂&mdash;&mdash;消特灵的研究，浙江省科技进步二等奖，1992，3/5
+
+桑蚕细菌性肠道病的研究，浙江农业大学优秀科技成果奖，1998，1/4
+
+浙江省&ldquo;151人才工程&rdquo;第二层次（2000～）
+
+			
+				
+			工作研究领域
+			
+			1、家蚕病理学与病害控制2、病原微生物的基因功能3、微生物资源利用
+			
+				
+			联系方式
+			
+						电子信箱：xmlu@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：鲁兴萌
+		单位：动物科学学院特种经济动物科学系
+		职称：教授
+		我的主页共被访问了2715次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

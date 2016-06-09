@@ -1,0 +1,204 @@
+
+
+
+
+
+吴丰军的个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0009020";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	吴丰军的个人主页
+
+
+	永久链接:http://mypage.zju.edu.cn/wufengjun&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			吴丰军,毕业于清华大学，获新闻传播学博士学位。2007年受国家公派至加拿大SimonFraserUniversityCommunicationSchool留学一年。曾长期在中央电视台从事研发工作。在《中国广播电视学刊》、《现代传播》、《电视研究》等核心期刊发表论文30多篇，出版专著两部，参与撰写专著多部，曾主持国家社科基金课题两项，浙江省哲学社科规划课题两项，&ldquo;钱江人才计划&rdquo;C类项目一项，上海市政府决策咨询重点课题一项，省教育厅课题一项。2011年入选浙江省首批&ldquo;之江青年社科学者&rdquo;，2012年获浙江省社科联优秀社科成果奖&ldquo;一等奖&rdquo;一项。曾导演制作优秀影视作品十余部，具有较为丰富的编导制作经验。兼任中国高校影视学会青年研究会理事,浙江省青年网络协会理事。2010年赴宁波挂职区长助理一年。
+			
+				
+			工作研究领域
+			
+			影视传播研究，网络舆情研究、文化产业研究
+			
+				
+			联系方式
+			
+						电子信箱：artra@163.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：吴丰军
+		单位：传媒与国际文化学院
+		职称：副教授
+		我的主页共被访问了11451次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

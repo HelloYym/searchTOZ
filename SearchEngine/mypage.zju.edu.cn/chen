@@ -1,0 +1,248 @@
+
+
+
+
+
+大功率电力电子系统集成及电磁兼容研究-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0008203";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	大功率电力电子系统集成及电磁兼容研究
+ElectromagneticCompatibilityLaboratory
+
+	永久链接:http://mypage.zju.edu.cn/chen&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			陈恒林，男，博士学位，现任浙江大学电气工程学院副教授，浙江大学求是青年学者，博士生指导教师。
+2000年和2003年毕业于天津大学，分别获学士和硕士学位；2007年毕业于浙江大学，获博士学位。2008年1月至2009年9月
+在浙江大学电气学院任师资博士后，2009年10月加入浙江大学电力电子技术研究所任讲师，2011年12月晋升副教授。
+2011年5月至2012年5月期间受邀在美国ClemsonUniversity作访问学者，在IEEEEMCSociety前任主席ToddH.Hubing教授指导下
+从事高频电磁兼容研究。
+
+
+
+
+
+
+
+
+学术兼职：2014年4月至今任中国电源学会电磁兼容专业委员会副主任；2009.11至今任浙江省电源学会副秘书长；担任了2012年
+新加坡亚太电磁兼容国际会议电力电子电磁兼容特别会议的分会主席；担任了2012年国家自然科学基金委电工学科电力电子学科项目交流会
+分会召集人；担任了2013年美国IEEEECCE会议电力电子电磁兼容分会主席；是IEEETransactionsonPowerElectronics
+与IEEETransactionsonElectromagneticCompatibility审稿人，也是国家自然科学基金项目的评议人。
+
+&nbsp;
+主讲课程：本科生课程《电磁兼容设计概论》以及研究生课程《电力电子系统电磁兼容设计基础》。
+研究方向为电力电子系统、智能电网及电磁兼容，已发表论文三十余篇。
+获得2010年台达访问学者奖励以及2010年院级先进工作者奖励。
+&nbsp;
+&nbsp;
+
+
+负责的科研项目包括：
+1、国家自然科学基金项目&mdash;功率变流器近场干扰产生机制及抑制技术研究（2009.1至2011.12）；
+2、浙江省自然科学基金项目&mdash;功率变流器电磁干扰噪声近场耦合机理研究（2011.1至2012.12）；&nbsp;
+3、浙江省公益技术研究计划项目&mdash;太阳能逆变器电磁干扰抑制技术研究（2011.1至2012.12）；
+4、博士后基金项目&mdash;功率变流器电磁干扰噪声近场发射机制（2008.1至2009.12）；
+5、中央高校青年科研创新专项资金项目&mdash;电力电子系统电磁干扰噪声近场发射机制（2009.11至2011.10）；
+6、Grundfos公司资助项目&mdash;共模扼流圈饱和效应研究（2008.10至2009.2）；
+7、杭州茂力半导体公司（MPS）合作项目&mdash;开关电源电磁干扰滤波器设计仿真软件研发（2010.9至2011.6）；
+8、台达基金项目&mdash;功率变流器电磁干扰交叉耦合模型研究（2013.6至2014.12）；
+9、Danfoss公司项目&mdash;变频驱动系统电磁干扰的测试、建模、及仿真研究（2014.10至2015.6）；&nbsp;
+10、中国南车株洲电力机车研究所资助项目&mdash;传动系统过电压仿真及抑制技术研究（2014.11至2015.10）；
+11、浙江大学电气学院青年（海洋）科技基金项目&mdash;海底高压电缆输电特性及绝缘问题研究（2015.01至2017.12）；
+12、中国电力科学研究院资助项目&mdash;智能化条件下超特高压变电站电磁兼容防护及瞬态电磁环境计算（2015.03至2015.12）；
+13、光宝电力电子技术科研基金项目&mdash;开关电源电磁干扰噪声耦合机理研究（2015.06至2018.05）。
+
+
+&nbsp;
+			
+				
+			工作研究领域
+			
+			电力电子的系统集成与电磁兼容技术，面向新能源与智能电网的电力电子应用技术，
+大功率电力电子装置的数字控制及可靠性设计，智能电网中的电磁环境及电磁兼容技术，
+电磁辐射及安全防护技术，海洋电力输送及海洋电磁环境。
+			
+				
+			联系方式
+			
+						电子信箱：henglin@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：陈恒林
+		单位：电气工程学院应用电子学系
+		职称：副教授
+		我的主页共被访问了16450次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		发表论文
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,234 @@
+
+
+
+
+
+孙丹@浙江大学-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0004138";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	孙丹@浙江大学
+DanSun@ZJU
+
+	永久链接:http://mypage.zju.edu.cn/dansun&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;
+&nbsp;
+【学习工作经历】
+1997年沈阳建筑工程大学工业自动化专业获学士学位；
+2000年河海大学控制理论与控制工程专业获硕士学位；
+2004年浙江大学电气工程专业获博士学位；
+2002-2004年澳大利亚悉尼科技大学联合培养博士；
+2009-2011年美国威斯康星大学麦迪逊分校WEMPEC&nbsp;访问学者；
+2004年开始任浙江大学电气工程学院讲师，2007年开始任副教授至今。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+
+
+【工作研究领域】
+交流电机高性能控制及容错策略的研究，主要包括：
+1.永磁同步电机直接转矩/磁链控制及故障诊断和容错策略；
+2.开绕组永磁电机双变换器协调控制；
+3.双馈异步风力发电机直接转矩/功率控制和低电压穿越运行研究；
+5.交流电机参数自检测技术；
+6.现代及智能控制算法在交流电机驱动中的应用。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+
+
+【联系方式】
+电话：&nbsp;&nbsp;&nbsp;0571-87951784
+手机：&nbsp;&nbsp;&nbsp;13685788025
+Email：&nbsp;&nbsp;sundan@zju.edu.cn
+MSM：sundan_cn@hotmail.com
+Skype：danzju
+			
+					
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：孙丹
+		单位：电气工程学院电机工程学系
+		职称：副教授
+		我的主页共被访问了26133次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	发表论文
+	专利成果
+	学生培养
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	浙江大学电气工程学院
+威斯康星大学WEMPEC
+悉尼科技大学（UTS）工学院
+我的论文和引文
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

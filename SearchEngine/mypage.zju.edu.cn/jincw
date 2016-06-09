@@ -1,0 +1,212 @@
+
+
+
+
+
+金崇伟-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0008764";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	金崇伟
+风中鹅毛
+
+	永久链接:http://mypage.zju.edu.cn/jincw&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;
+&nbsp;浙江三门人，浙江大学环境与资源学院植物营养学科副教授、浙江大学农生环学部杰出青年学者、浙江大学求是青年学者。2003年6月本科毕业于浙江大学应用化学专业；2008年6月获浙江大学植物营养学博士学位，导师郑绍建教授，毕业后留校。&nbsp;曾获浙江省杰出青年基金、浙江省优秀博士学位论文、全国优秀博士学位论文提名奖。主要从事植物耐缺铁机理；激素在养分吸收利用中的信号调控作用；温室气体影响植物养分吸收利用机制；重金属元素在食物链中的迁移。主持中国博士后基金一等资助、中国博士后基金特别资助和国家自然科学基金多项，并参与国家自然科学基金项目多项。迄今以第一作者或通讯作者身份在PlantPhysiology、PlantCell&nbsp;and&nbsp;Environment、JournalofExperimentalBotany、AnnalsofBotany、Chemosphere、AnnalsofAppliedBiology、JournalofHazardousMaterials等国内外权威刊物上已发表论文数十篇。
+
+&nbsp;欢迎有志于开展相关方面研究的学生报考植物营养学的研究生
+			
+				
+			工作研究领域
+			
+			植物营养生理与分子生物学、植物营养环境生态学
+			
+				
+			联系方式
+			
+			电话：86-571-88982478			电子信箱：jincw@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：金崇伟
+		单位：环境与资源学院
+		职称：副教授
+		我的主页共被访问了18966次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	奖励荣誉
+	实验室成员
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

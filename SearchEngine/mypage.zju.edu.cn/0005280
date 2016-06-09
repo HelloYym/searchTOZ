@@ -1,0 +1,207 @@
+
+
+
+
+
+胡虎-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0005280";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	胡虎
+
+
+	永久链接:http://mypage.zju.edu.cn/0005280&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+&nbsp;目前为浙江大学医药学部基础医学院病理学与病理生理学系教授，博士生导师，PI，系副主任，大学法医学研究所副所长，国际血栓与凝血协会会员（ISTH），浙江省&ldquo;151人才工程&rdquo;培养人员，教育部新世纪人才。2003年获瑞典卡罗琳斯卡研究院临床药理学博士学位，2004-2005年在比利时鲁汶大学分子与血管生物学中心接受博士后训练。2005年底回国后至今一直从事医学院一线科研教学和实验室管理工作。长期致力于血栓和血小板信号转导研究。对血栓和炎症过程中由细胞间黏附分子介导的细胞间相互作用，血栓细胞的分子信号转导，流式细胞术检测，已及抗血栓先导药物的功能和分子靶点鉴定方面做了大量的工作。共发表SCI收录论文26篇，包括ArteriosclerosisThrombosisandVascularBiology（影响因子6.86），JournalofThrombosisandHaemostasis（影响因子6.07），Diabetologia（影响因子6.42）等杂志。目前主持国家自然基金2项，作为骨干参与国家支撑项目和重大基础研究项目各1项。已完成国家自然基金2项，完成共同主持的瑞典国家自然科学基金项目1项，完成主持的教育部，人事部，以及浙江省自然科学基金课题各一项。
+			
+				
+			工作研究领域
+			
+			1.血小板活化的信号转导通路对血栓形成的影响和意义。
+2.血小板和白细胞以及内皮细胞的相互作用机制及在临床疾病（比如缺血性心脏病，糖尿病血管病变，原发性肺动脉高压等）的病理发生发展中的改变和意义。
+3.血小板和干细胞相互作用对干细胞自我更新和分化的意义。
+			
+				
+			联系方式
+			
+						电子信箱：huhu@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：胡虎
+		单位：基础医学系
+		职称：教授
+		我的主页共被访问了8722次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		发表论文
+	工作研究项目
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

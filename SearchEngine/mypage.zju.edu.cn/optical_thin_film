@@ -1,0 +1,213 @@
+
+
+
+
+
+光电系章岳光-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0098111";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	光电系章岳光
+光学薄膜
+
+	永久链接:http://mypage.zju.edu.cn/optical_thin_film&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			光电系副教授，
+1986-1990浙江大学光电系本科
+1990-1993，北京电子部第十一研究所
+1993-1998，浙江大学光电信息工程系硕士、博士
+1998-至今，浙江大学光电系任教，主要从事光学与光电子薄膜技术的研究与教学。
+2000.10-2001.12月曾在美国AOS公司合作研究光通讯波分复用薄膜滤光片，先后研制成功200GHz，100GHz，50GHz，CWDM，Interleaver和可调谐滤光片等。获得国家科技进步二等奖一项，&nbsp;教育部和浙江省科技进步二等奖各1项。
+目前主要从事原子层沉积光学薄膜，超快激光用光学薄膜和用于航天星载光谱仪的光学薄膜研究。
+			
+				
+			工作研究领域
+			
+			光学薄膜
+			
+				
+			联系方式
+			
+			电话：87951190			电子信箱：zhangyueguang@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：章岳光
+		单位：光电信息工程学系
+		职称：副教授
+		我的主页共被访问了4710次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		专利成果
+	工作研究项目
+	发表论文
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

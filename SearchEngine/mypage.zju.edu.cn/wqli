@@ -1,0 +1,241 @@
+
+
+
+
+
+紫金港湾-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0096188";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	紫金港湾
+浙江大学
+
+	永久链接:http://mypage.zju.edu.cn/wqli&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			一.&nbsp;学习经历
+&nbsp;&nbsp;1)&nbsp;1983年&nbsp;-&nbsp;1987年,&nbsp;本科,&nbsp;浙江大学计算机系软件专业,&nbsp;班主任曾抗生;
+&nbsp;&nbsp;2)&nbsp;1987年&nbsp;-&nbsp;1990年,&nbsp;硕士研究生,&nbsp;浙江大学应用数学系计算几何与图形学专业,&nbsp;导师梁友栋教授,&nbsp;彭群生教授;
+&nbsp;&nbsp;3)&nbsp;1992年&nbsp;-&nbsp;1996年,&nbsp;博士研究生,&nbsp;浙江大学计算机辅助设计与图形学&nbsp;(CAD&amp;CG)&nbsp;国家重点实验室,&nbsp;导师彭群生教授.
+
+二.&nbsp;工作经历
+&nbsp;&nbsp;1)&nbsp;1990年&nbsp;-&nbsp;1994年,&nbsp;杭州市计算机软件研究所,&nbsp;工程师,&nbsp;从事计算机软件项目的开发;
+&nbsp;&nbsp;2)&nbsp;1994年&nbsp;-&nbsp;1996年,&nbsp;浙江大学艺海电脑图形公司,&nbsp;工程师,&nbsp;从事科研和软件开发;
+&nbsp;&nbsp;3)&nbsp;1996年&nbsp;-&nbsp;1998年,&nbsp;浙江大学机械系计算机图学研究所,&nbsp;讲师,&nbsp;从事科研和教学;
+&nbsp;&nbsp;4)&nbsp;1998年&nbsp;-&nbsp;2000年,&nbsp;日本广岛工业大学,&nbsp;访问学者;
+&nbsp;&nbsp;5)&nbsp;2000年&nbsp;-&nbsp;至今,&nbsp;浙江大学CAD&amp;CG国家重点实验室,&nbsp;副研究员,&nbsp;专职从事科研工作.
+
+
+
+			
+				
+			工作研究领域
+			
+			计算机图形，计算机辅助设计一.计算机图形学的基本算法研究
+1)离散点集的快速三角化方法;
+2)高效的直线和多边形裁剪方法.
+
+二.视频图像处理研究
+1)基于结构信息的纹理合成技术;
+2)视频图像序列的全景图拼接;
+3)视频目标的提取;
+4)视频片段融合技术.
+
+三.图纸矢量化方法研究
+1)扫描图纸的矢量化;
+2)字符提取与识别;
+3)图纸整体识别方法.
+
+四.CAD应用系统的开发
+1)基于DEM的道路辅助设计系统;
+2)工程图纸扫描转换系统;
+3)建筑施工图构件识别与工程量计算系统;
+4)地形图矢量化及要素(等高线,建筑物,道路等)提取系统;
+5)计算机印章真伪辅助识别系统;
+6)扫描图纸的拼接和几何校正.
+
+			
+				
+			联系方式
+			
+			电话：13858111567			电子信箱：wqli@cad.zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：李伟青
+		单位：计算机科学与技术学院
+		职称：副研究员（自然科学）
+		我的主页共被访问了9782次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+	出版著作
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

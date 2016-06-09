@@ -1,0 +1,216 @@
+
+
+
+
+
+表面材料与分子设计研究室-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0090096";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	表面材料与分子设计研究室
+
+
+	永久链接:http://mypage.zju.edu.cn/0090096&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			王琦，博士，教授、博士生导师，浙江大学分子设计与应用研究所所长。1983年毕业于浙江大学化学系，同年于本校攻读硕士，1986年转为直接攻读博士，1988年初赴美国Purdue大学联合培养，1989年底学成回国，1990年获博士学位，留校化学系任教，1992年破格晋升为副教授。1996年赴日本大阪大学从事博士后研究，1998年回国，1999年破格晋升为教授，2000年评定为博士生导师。2000年为台湾科技大学访问教授，2007年为日本大阪大学访问教授。主要从事分子模拟与分子设计、分子热力学、低温微量热学、薄膜成长与电子材料等方面的研究工作。主持过多项国家自然科学基金及省部级自然科学基金等研究项目，在国际著名学术刊物Biomaterials,Chem.Eur.J.,Biophys.J.,J.Phys.Chem.B,Langmuir,J.Chem.Phys.,Phys.Rew.B,ChemPhysChem及国内核心刊物（SCI、EI源期刊）上发表论文110多篇，大部分被国际权威检索机构SCI和EI收录，其中30多篇SCI影响因子在3以上，另有8篇获浙江省自然科学优秀论文奖。2项科研成果通过部级鉴定。1991年被评为&ldquo;业绩显著的博士学位获得者&rdquo;，1993年获&ldquo;亿利达优秀教师奖&rdquo;，多次被评为&ldquo;浙江大学优秀青年教师&rdquo;。
+更多信息请访问我们课题组网页
+http://www.chem.zju.edu.cn/~imdt/wang/
+			
+				
+			工作研究领域
+			
+			1.薄膜与表面材料（及其在电子器件、半导体、太阳能等领域的应用）
+2.分子模拟与分子设计（微孔、表面、纳米等微结构材料、生物材料、生物大分子体系）
+3.计算化学与计算生物物理学、生物信息学（生物分子间相互作用及其在重大疾病诊断、制药领域的应用）
+4.气体储存与分离（储氢材料、分子筛分材料、扩散与反应等）
+			
+				
+			联系方式
+			
+			电话：0571-87952424			电子信箱：qiwang@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：王琦
+		单位：化学系
+		职称：教授
+		我的主页共被访问了28991次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	专利成果
+	奖励荣誉
+	实验室介绍
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	王琦课题组
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

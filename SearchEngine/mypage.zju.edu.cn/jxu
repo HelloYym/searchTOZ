@@ -1,0 +1,234 @@
+
+
+
+
+
+浙江大学海洋学院-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0012046";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	浙江大学海洋学院
+海洋工程与技术研究所
+
+	永久链接:http://mypage.zju.edu.cn/jxu&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			研究工作经历&nbsp;&nbsp;
+
+2013/02至今，浙江大学，海洋学院，副教授，2014年1月入选求是青年学者并晋升博士生导师
+2011/08&ndash;2012/10，德国基尔大学，电子与信息工程研究所，博士后研究员
+
+受教育经历
+
+<spanstyle="font-size:14.0pt;mso-bidi-font-size:12.0pt;line-height:
+150%;font-family:宋体">2007/08&ndash;2011/07，香港中文大学，工程学院信息工程系，博士
+2003/09&ndash;2007/07，暨南大学，理工学院光电工程系，学士
+
+
+学术兼职&nbsp;
+
+ReviewerofIEEEPhotonicsTechnologyLetters
+ReviewerofOSAOpticsExpress
+ReviewerofIETCommunications
+ReviewerofJournalofOpticalCommunicationsandNetworking
+ReviewerofOpticalSwitchingandNetworking
+ReviewerofOpticalEngineering
+ReviewerofChineseOpticsLetters
+InvitedauthorofSciTopicswebpages
+
+&nbsp;
+			
+				
+			工作研究领域
+			
+			在来浙大海洋学院工作之前，我的研究方向主要是信息工程领域中的光通信和光子技术。我现在的研究领域是浙大海洋学院正在大力发展的海洋信息工程，这是一个海洋工程与信息工程交叉的新兴领域，蕴含着丰富的科研机遇。我目前的研究方向主要包括（但不局限于）：水下无线光通信与组网技术；光学传感器与传感网络；应用于海底观测网络的光接入技术；基于海底通信光缆的海洋监测技术。
+
+2014年度招收硕士、博士若干名，欢迎信电、光电、EE、IE、物理、数学等专业的学生与我联系（附成绩单和简历），对于特别优秀的理工科本科生可不限专业。
+			
+				
+			联系方式
+			
+						电子信箱：jxu-optics@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：徐敬
+		单位：海洋学院
+		职称：副教授
+		我的主页共被访问了16351次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	期刊论文
+	会议论文
+	专利成果
+	科研项目
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	浙大海洋学院
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

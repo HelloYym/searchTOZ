@@ -1,0 +1,209 @@
+
+
+
+
+
+汪久根-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0087059";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	汪久根
+我的团队介绍
+
+	永久链接:http://mypage.zju.edu.cn/JiugenWANG&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			汪久根：工学博士、教授，博士生导师。曾负责的科研项目有：国家自然科学基金项目&ldquo;整合涂层的仿生设计、知识关联与应用研究&rdquo;，国家自然科学基金&ldquo;模糊域摩擦润滑耦合自组织原理、方法与应用研究&rdquo;，国家自然科学基金&ldquo;仿生光驱动传动的原理与技术研究&rdquo;，中国－波兰政府合作项目&ldquo;主动控制渗流润滑的理论及其技术基础研究&rdquo;、&ldquo;滚动摩擦副的声特性及其应用&rdquo;；博士点基金&ldquo;人工肝的仿生整合表面织构与界面动力学研究&rdquo;。浙江省科技攻关项目&ldquo;静音滚动轴承的关键技术研究&rdquo;；浙江省自然科学基金&ldquo;发动机电子润滑技术与摩擦学集成设计研究&rdquo;，浙江富春江水电设备股份有限公司，浙江省自然科学基金重点项目&ldquo;高速列车仿生降噪设计与摩擦界面动力学研究&rdquo;，企业项目&ldquo;滑动轴承热弹流润滑分析软件开发&rdquo;曹光彪基金&ldquo;利用电流主动控制选择性转移技术与应用研究&rdquo;，中国船舶工业总公司&ldquo;高弹性橡胶块联轴节合作研究&rdquo;等10余项。曾参加的科研项目有：国家杰出青年基金&ldquo;基于生物型与自组织的产品信息建模理论与方法研究&rdquo;，浙江省自然科学基金&ldquo;新型润滑材料巴基管巴基葱的润滑行能研究&rdquo;，浙江省自然科学基金&ldquo;滚动轴承的声特性及其应用&rdquo;，机械部资助&ldquo;部分膜弹流金属摩擦副的摩擦磨损状态&rdquo;课题研究，高等科学技术基金&ldquo;滚滑接触弹流牵引力和摩阻力的研究和应用&rdquo;等10项。近年来，已在国内外刊物发表研究论文150余篇，申报技术专利30项、已批准23项、其中8项发明专利。
+			
+				
+			工作研究领域
+			
+			机械设计信息学，摩擦学，仿生机械学
+			
+				
+			联系方式
+			
+			电话：0571-87951323			电子信箱：me_jg@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：汪久根
+		单位：机械工程学系
+		职称：教授
+		我的主页共被访问了13995次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	学术交流（讲座报告）
+	专利成果
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

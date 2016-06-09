@@ -1,0 +1,213 @@
+
+
+
+
+
+雷群芳-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0095077";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	雷群芳
+
+
+	永久链接:http://mypage.zju.edu.cn/0095077&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			1984.09-1988.07浙江大学化学系本科生
+1988.09-1991.07浙江大学化学系物理化学专业硕士研究生
+1991.09-1995.07浙江大学化工系化学工程专业博士研究生
+1995.07-2008.07浙江大学化学系讲师、副教授、研究员
+2008.07&ndash;2013.07浙江大学本科生院教务处副处长，研究员
+2013.07至今&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江大学实验室与设备处副处长，研究员
+			
+				
+			工作研究领域
+			
+			1.生物物理化学：结合量热技术和光谱实验等开展生物热力学和热化学研究，如药物分子、表面活性物质与生物大分子及其模型化合物（氨基酸，蛋白质，DNA等）的相互作用等。
+2.界面化学：功能表面活性剂的合成与性能研究等。
+3.石油开采和加工用精细化学品设计、合成及性能。
+
+
+			
+				
+			联系方式
+			
+			电话：+86-571-87951943			电子信箱：qflei@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：雷群芳
+		单位：实验室与设备管理处
+		职称：研究员（实验）
+		我的主页共被访问了20970次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

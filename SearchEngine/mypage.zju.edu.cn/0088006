@@ -1,0 +1,211 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0088006";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0088006&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			1956年2月出生,浙江建德人。浙江大学建筑工程学院土木系岩土工程研究所教授、博士生导师、副所长,《岩土工程学报》编委。长期从事岩土工程专业的教学和科研工作,研究方向为软土固结与变形控制理论、软粘土力学与地基处理、地下工程、土工解析与数值方法等。
+已主讲本科生课程：土力学(2005年评为浙江省精品课程,网址:http://jpkc.zju.edu.cn/kj/k/191);土力学与基础工程(2002年评为浙江大学首批精品课程建设项目),研究生课程：非线性固结理论;高等土力学;计算土力学;基础工程。指导硕士研究生29名(毕业26名),博士研究生37名(毕业27名)。获浙江大学亿利达优秀教师奖(1996),浙江大学建工学院十佳教工奖(1997,2001,2003,2004),浙江大学先进工作者(2003),浙江大学优秀教师奖(2003),浙江大学研究生优秀教学成果二等奖(1994),浙江大学第三届本科教学优秀多媒体课件一等奖(2004),浙江大学教学成果一等奖(2005)。
+对软土固结理论和应用等开展了持续不断的研究,系统研究和发展了砂井地基固结理论、成层地基固结理论、软土非线性固结理论、软土大应变固结理论。发表论文320余篇,其中70余篇被SCI、EI、ISTP收录。编著《岩土工程有限元分析理论与应用》和参编译其他著作、教材共6部。主持国家自然科学基金项目4项,国家教育部高校博士点专项基金项目2项,浙江省自然科学基金项目1项,参加国家自然科学基金重大和重点项目各1项。在软土固结理论及应用等的研究中获国家科技进步三等奖一项,国家教育部科技进步一、二等奖各一项,浙江省科技进步一、三等奖各一项、二等奖二项,专利3项。1998年入选浙江省跨世纪学术和技术带头人(151人才工程第一层次)。2000年获国务院政府特殊津贴
+			
+				
+			工作研究领域
+			
+			软土固结与变形控制理论、软土力学与地基处理、地下工程、土工解析与数值方法、土工监测技术、岩土工程计算软件
+
+			
+				
+			联系方式
+			
+			电话：87984556（H）；87952162			电子信箱：zdkhxie@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：谢康和
+		单位：建筑工程学院土木工程学系
+		职称：教授
+		我的主页共被访问了8639次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	研究成果
+	专利成果
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

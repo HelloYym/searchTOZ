@@ -1,0 +1,230 @@
+
+
+
+
+
+蔡友治-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="1513001";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	蔡友治
+骨科与运动损伤
+
+	永久链接:http://mypage.zju.edu.cn/caiyouzhi&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			学习经历：
+2000年-2003年，浙江省温岭中学毕业，中共党员。
+2003年-2010年，浙江大学医学院临床医学本硕七年制
+
+
+工作经历：
+2010年8月-2013年1月，浙江大学医学院附属第二医院骨科中心
+2013年3月-至今，浙江大学附属第一医院骨科运动医学中心
+
+
+学术社会兼职：
+中国肩肘外科协会会员；
+国际权威InternationalSocietyofArthroscopy,KneeSurgeryandOrthopaedicSportsMedicine(ISAKO)会员；
+浙江省老年运动医学委员会委员；
+中国骨科医师协会再生医学分会委员；
+
+
+临床特色专长：
+长期致力于软骨损伤再生修复，半月板/韧带损伤的生物细胞学诊治。已独立完整组织工程化软骨细胞移植数十例，在国内外大会上多次汇报。
+
+
+运动医学微信号：caiyouzhi2011
+			
+				
+			工作研究领域
+			
+			长期专注于骨科运动损伤的镜下微创治疗；长期致力于研究运动医学损伤韧带/肌腱的再生修复和重建，软骨损伤骨软骨细胞移植以及骨关节炎重建和矫形；
+			
+				
+			联系方式
+			
+			电话：13588270341			电子信箱：caiyouzhi2010@yahoo.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：蔡友治
+		单位：附属第一医院
+		职称：主治医师
+		我的主页共被访问了4948次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		专利成果
+	工作研究项目
+	出版著作
+	奖励荣誉
+	学术交流（讲座报告）
+	发表论文
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

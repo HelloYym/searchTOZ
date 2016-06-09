@@ -1,0 +1,242 @@
+
+
+
+
+
+刘力-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0087329";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	刘力
+
+
+	永久链接:http://mypage.zju.edu.cn/0087329&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;
+刘力，浙江大学教授。
+主要学术论文
+《基于专业学习共同体的研究生科研能力培养研究》学位与研究生教育2009
+《面向每一个：小班化教育的核心理念》江苏教育研究2009
+《小班一定比大班好吗&mdash;&mdash;关于小班教学实验的若干争论》教育科学研究2007
+《新课程实施中教师的改革与抗拒》教育发展研究2007
+《教师的专业发展应致力于治学与教学的结合》浙江教育学院学报，2007
+《美国产学研合作模式及成功经验》&nbsp;&nbsp;&nbsp;&nbsp;论文&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;教育发展研究2006
+《为何教教什么怎么教&mdash;&mdash;小学&lt;品德与社会&gt;实验教材的结构说明与教学建议》论文
+中国人民大学报刊复印资料(全文复印)2005
+《让知识方便实用无处不在&mdash;&mdash;学校知识管理系统开发的成功经验》论文&nbsp;&nbsp;教育发展研究&nbsp;&nbsp;2005
+《现代信息技术融入教学的理论构想与实施策略》&nbsp;论文教育研究&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2004
+《新思路新举措新模式--浙江大学城市学院的改革与探索》论文教育发展研究2003
+《如何建立规范有序的教科书选用机制__日美法等国经验》&nbsp;论文教育发展研究2003
+《学术价值与商业价值的冲突》&nbsp;&nbsp;&nbsp;&nbsp;论文&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;教育研究2002
+《产学研合作的历史考察及本质探讨》论文人大复印资料（高等教育）2002
+《政府在产学研合作中的作用透视--发达国家成功的经验（上）》&nbsp;论文&nbsp;&nbsp;&nbsp;教育发展研究2002
+《政府在产学研合作中的作用透视--发达国家成功的经验（下）》&nbsp;论文&nbsp;&nbsp;&nbsp;教育发展研究2002
+《对中小学整体改革的几点反思》&nbsp;&nbsp;&nbsp;论文&nbsp;&nbsp;&nbsp;&nbsp;人大复印资料（中小学教育）&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2001
+《现代信息化教学的原则及评估&mdash;《美国高等教育协会公报》介绍》&nbsp;&nbsp;&nbsp;论文&nbsp;&nbsp;比较教育研究&nbsp;2001&nbsp;
+&nbsp;
+主要著作
+《学会创新&mdash;&mdash;&ldquo;科幻设计制作&rdquo;科技教育改革实践》（第二作者）编著&nbsp;&nbsp;&nbsp;贵州人民出版社&nbsp;2005
+《教育实验学》专著人民教育出版社2004
+《中国教育实验与改革-中国教育学会教育实验研究论文集（第五卷）》编著或教材&nbsp;新疆人民出版社&nbsp;2001
+《中国教育实验与改革(第四卷)》&nbsp;&nbsp;&nbsp;编著&nbsp;&nbsp;&nbsp;新疆人民出版社&nbsp;&nbsp;&nbsp;2000&nbsp;
+主要科研项目
+《新班集体教育的理论与实验研究》国家社会科学规划基金项目（2008-2010）
+《高中新课改试点研究企事业单位委托研究项目》&nbsp;（2006-2008）
+《活动教学的设计研究教育部人文社会科学研究项目》&nbsp;（2006-2008）
+《产学研合作的理事考察及比较研究》教育科学与技术研究所2006
+《活动教学的设计研究》教育科学与技术研究所2006
+《产学研合作的理事考察及比较研究》浙江省规划办&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2005
+《我国江浙沪地区教改实验模式个案研究》中央教科所(全国教育科学规划办)2000&nbsp;&nbsp;
+主要学术成果获奖
+《依托浙派名师青年讲坛构建专业学习共同体》获2008浙江大学教学成果奖二等奖
+《浙教版〈品德与社会〉新课标实验教材的开发与实验》获2006年浙江省第三届基础教育教学成果奖二等奖
+《产学研合作的历史考察及本质探讨》&nbsp;论文第三届全国教育科学研究优秀成果奖三等奖2006&nbsp;
+
+			
+				
+			工作研究领域
+			
+			教育实验、课程理论
+			
+					
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：刘力
+		单位：教育学院教育学系
+		职称：教授
+		我的主页共被访问了28981次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	研究成果
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

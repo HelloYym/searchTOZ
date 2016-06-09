@@ -1,0 +1,244 @@
+
+
+
+
+
+LongjiangFan-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0089128";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	LongjiangFan
+
+
+	Permanentlink:http://mypage.zju.edu.cn/en/0089128&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			Blog
+
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			
+LongjiangFan
+ProfessorofCropGeneticsandBreeding
+Director,DepartmentofAgronomy,ZhejiangUniversity
+
+Vice-Director,Sino-US&nbsp;CropMolecularBreedingJointLaboratory,ZhejiangUniversity
+
+ProfessorofBioinformatics
+JamesD.WatsonInstituteofGenomeSciences&amp;InstituteofBioinformatics,ZhejiangUniversity
+Hangzhou310058,China
+
+
+Vice-President,AssociationofBioinformatics,ZhejiangProvince
+
+Labwebsite:http://ibi.zju.edu.cn/bioinplant/
+
+Teaching
+
+Bioinformatics,PlantGenomicsandProgressinBiology
+
+
+Mycurrentresearchinterestsfocuson:
+(1)Evolutionarygenomicsofcereals;
+(2)Moleculardiversityanalysisofdomesticationorphenotype-candidategenes;
+(3)Approachestobridgethegapbetweengenomicsandappliedcropimprovement.
+Awards
+
+S&amp;TProgressAward(secondclass),DepartmentofEducation,China,1991
+S&amp;TProgressAward(thirdclass),DepartmentofAgriculture,China,1999
+S&amp;TProgressAward(thirdclass),ZhejiangProvince,China,2001
+&ldquo;151&rdquo;ScientistAward,ZhejiangProvince,China,2004
+ProgramforNewCenturyExcellentTalentsinUniversity,DepartmentofEducation,China,2005
+DAADFellowship,2005,2010
+PaoYu-KongandPaoZhao-longScholarship,2006
+
+ProfessionalServices
+
+AdhocreviewerforBioinformatics,BMCGenomics,BMCEvolutionaryBiology,DNAResearch,PlantJournal,Gene,BreedingScience,JournalofIntegratedPlantBiology,etc.
+
+Tenpresentativepublications(*correspondenceauthor)
+
+1.&nbsp;&nbsp;&nbsp;&nbsp;WangYu,Xuefiebai,ChenghaiYan,YiejieGui,XinghuaWei,QianhaoZhu,LongbiaoGuo*,LongjiangFan*.2012.GenomicdissectionofsmallRNAsinwildrice(O.rufipogon):lessonsforricedomestication.NewPhytologist196:9142.&nbsp;&nbsp;&nbsp;&nbsp;HungChiu-Yueh,LongjiangFan,FarooqahmedSKittur,BronwynMHolliday,BingguangXiao,SheTang,JieQiu,LowellPBush,MarkAConklingandJiahuaXie.2012.AlterationofthealkaloidprofileingeneticallymodifiedtobaccorevealsaroleofmethylenetetrahydrofolatereductaseinnicotineN-demethylation.PlantPhysiology161(2):1049-10603.&nbsp;&nbsp;&nbsp;&nbsp;BaoJiandong,JianqiangYao,JinqingZhu,WeimingHu,DaguangCai,YuLi,QingyaoShu,LongjiangFan*.2012.Identification&nbsp;of&nbsp;glutinous&nbsp;maize&nbsp;landraces&nbsp;and&nbsp;inbred&nbsp;lines&nbsp;with&nbsp;altered&nbsp;transcription&nbsp;of&nbsp;waxy&nbsp;gene.MolecularBreeding30:1707-17144.&nbsp;&nbsp;&nbsp;&nbsp;LiZefeng,SanlingWu,XuefeiBai,YunLiu,JianfeiLu,YongLiu,BingguangXiao,XiupingLu,LongjiangFan*.2011.GenomesequenceofthetobaccobacterialwiltpathogenRalstoniasolanacearum.JournalofBacteriology193(21):6088-95.&nbsp;&nbsp;&nbsp;TangShe,YuWang,ZefengLi,YijieGui,BingguangXiao,JiahuaXie,Qian-HaoZhu,LongjiangFan*.2012.IdentificationofwoundingandtoppingresponsivesmallRNAsintobacco(Nicotianatabacum).BMCPlantBiology12:286.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;WangYu,DanShen,ShipingBo,JianZheng,DaguangCai,Qian-HaoZhu,ChrisHelliwellandLongjiangFan*.2010.SequencevariationandselectionofsmallRNAsindomesticatedrice.BMCEvolutionaryBiology10:1197.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FanLongjiang*,JiandongBao,YuWang,JianqiangYao,JinqingZhu,WeimingHu,MengqianZeng,YuLi,YunbiXu.2009.Post-domesticationselectioninthemaizestarchpathway.PLoSONE4(10):e76128.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;XingyiGuo,YijieGui,YuWang,Qian-HaoZhu,ChrisHelliwell,LongjiangFan*.2008.SelectionandmutationonmicroRNAtargetsequencesduringriceevolution.BMCGenomics9:4549.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GuoXingyi,YuWang,PeterD.Keightley,LongjiangFan*.&nbsp;2007.PatternsofselectiveconstraintsinnoncodingDNAofrice.BMCEvolutionaryBiology7:20810.&nbsp;&nbsp;&nbsp;&nbsp;WangSheng,QianhaoZhu,XingyiGuo,YijieGui,JiandongBao,ChrisHelliwell,LongjiangFan*.2007.MolecularevolutionandselectionofageneencodingtwotandemmicroRNAsinrice.FEBSLetters581:4789-4793.
+&nbsp;
+			
+				
+			Researchwork
+			
+			(1)Evolutionarygenomicsofcereals;
+
+(2)Moleculardiversityanalysisofdomesticationorphenotype-candidategenes;
+
+(3)Approachestobridgethegapbetweengenomicsandappliedcropimprovement.
+			
+				
+			Contact
+			
+			Phone:0086-571-88982730
+			E-mail:fanlj@zju.edu.cn
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:LongjiangFan
+		Units:DepartmentofAgronomy,InstituteofBioinformatics,JamesD.WatsonInstituteofGenomeSciences
+		Title:Prof.
+		Myhomepagehasbeenvisited5807times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	
+
+
+Youarevisitor:5807
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

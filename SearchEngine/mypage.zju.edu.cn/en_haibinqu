@@ -1,0 +1,340 @@
+
+
+
+
+
+ProfHaibinQufromZhejiangUniversity-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0097104";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	ProfHaibinQufromZhejiangUniversity
+
+
+	Permanentlink:http://mypage.zju.edu.cn/en/haibinqu&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			
+HaibinQu
+HeadatDepartmentofChineseMedicineScience&amp;Engineering,ZhejiangUniversity,China
+CurrentprofessoratZhejiangUniversity&nbsp;
+DoctorofPhilosophy(Ph.D.),processcontrolatZhejiangUniversity
+WorkExperience
+DepartmentofChineseMedicineScience&amp;Engineering,CollegeofPharmaceuticalSciences,ZhejiangUniversity
+DepartmentHead,2007-present
+Professor,2004-present.
+AssociateProfessor,2003-2004
+PharmaceuticalInformaticsInstitute,ZhejiangUniversity
+Director,2011-present
+ViceDirector,2003-2010
+InstituteofPharmaceuticalEngineering,ZhejiangUniversity
+AssociateProfessor,2000-2003
+DepartmentofInformationScienceandElectronicEngineering,ZhejiangUniversity
+AssistantProfessor,1997-2000
+BaoshanIron&amp;SteelCo.,Ltd,Shanghai
+AssistantEngineer,1990-1992
+
+Education
+
+1992&ndash;1997&nbsp;&nbsp;DepartmentofControlScienceandEngineering,ZhejiangUniversityDoctorofPhilosophy(Ph.D.),processcontrol,
+1986&ndash;1990,DepartmentofChemicalEngineering,ZhejiangUniversityBachelor'sdegree,processcontrol
+&nbsp;
+Dr.QuinvestigatesintheimplementationPAT(ProcessAnalyticalTechnology)systemsinproductionprocessesofChineseherbalmedicine,andisperformedinclosecollaborationwithpharmaceuticalindustry.Themanufacturingprocessescurrentlyconsideredare:extraction,alcoholprecipitation,preparativechromatography,liquid-liquidextraction.Theresearchareasinclude:
+&#61692;Thedevelopmentimplementationofprocessanalyzers(e.g.,NIR,UV)intheprocessstreamallowingreal-timecollectionofcriticalprocessand(intermediate)productinformation;
+&#61692;Theapplicationofdesignofexperiments(DoE)andmultivariatedataanalysis(MVDA)toincreaseprocessunderstandingandprocessknowledge;
+&#61692;Multivariatestatisticalprocesscontrolandvisualization;
+Processmonitoring,plantwideinformationtechnologysystems,processcontrol,modeling,andoptimizationmethodologies.
+&nbsp;
+SelectedPublications
+&nbsp;
+
+1.&nbsp;W.Li,H.Han,L.Zhang,Y.Zhang,H.Qu,Afeasibilitystudyonthenon-invasiveanalysisofbottledCompoundEJiaooralliquidusingnearinfraredspectroscopy,SensorsandActuatorsB-Chemical,211(2015)131-137.
+2.&nbsp;C.Jiang,H.Qu,Acomparativestudyofusingin-linenear-infraredspectra,ultravioletspectraandfusedspectratomonitorPanaxnotoginsengadsorptionprocess,JournalofPharmaceuticalandBiomedicalAnalysis,102(2015)78-84.
+3.&nbsp;X.Gong,H.Chen,J.Pan,H.Qu,OptimizationofPanaxnotoginsengextractionprocessusingadesignspaceapproach,Sep.Purif.Technol.,141(2015)197-206.
+4.&nbsp;T.Chen,X.Gong,H.Chen,H.Qu,ProcessdevelopmentforthedecolorationofPanaxnotoginsengextracts:Adesignspaceapproach,JournalofSeparationScience,38(2015)346-355.
+5.&nbsp;S.Zeng,L.Wang,T.Chen,H.Qu,On-linecouplingofmacroporousresincolumnchromatographywithdirectanalysisinrealtimemassspectrometryutilizingasurfaceflowingmodesampleholder,Analyticachimicaacta,811(2014)43-50.
+6.&nbsp;B.Yan,Y.Li,Z.Guo,H.Qu,QualitybyDesignforHerbalDrugs:aFeedforwardControlStrategyandanApproachtoDefinetheAcceptableRangesofCriticalQualityAttributes,PhytochemicalAnalysis,25(2014)59-65.
+7.&nbsp;B.Yan,T.Chen,Z.Xu,H.Qu,Rapidprocessdevelopmentofchromatographicprocessusingdirectanalysisinrealtimemassspectrometryasaprocessanalyticaltechnologytool,JournalofPharmaceuticalandBiomedicalAnalysis,94(2014)106-110.
+8.&nbsp;H.Xiong,L.X.Yu,H.Qu,Aweightingapproachforchromatographicfingerprintingtoensurethequalityconsistencyofbotanicaldrugproducts,AnalyticalMethods,6(2014)476-481.
+9.&nbsp;L.Wang,S.Zeng,T.Chen,H.Qu,Directanalysisinrealtimemassspectrometry,aprocessanalyticaltechnologytoolforreal-timeprocessmonitoringinbotanicaldrugmanufacturing,JournalofPharmaceuticalandBiomedicalAnalysis,91(2014)202-209.
+10.&nbsp;L.Wang,T.Chen,S.Zeng,H.Qu,QualitybyDesignStudyoftheDirectAnalysisinRealTimeMassSpectrometryResponse,JournaloftheAmericanSocietyforMassSpectrometry,25(2014)278-285.
+11.&nbsp;S.-Y.Liu,D.-S.Xue,J.-C.Pan,W.-M.Zhang,W.-L.Li,H.-B.Qu,ScreeningandidentificationofmultiplecomponentsinTanreqinginjectionusingRP-HPLCcombinedwithDADandESI-TOF/MS,ChineseJournalofNaturalMedicines,12(2014)535-541.
+12.&nbsp;W.Li,H.Qu,Wavelet-basedclassificationandinfluencematrixanalysismethodforthefastdiscriminationofChineseherbalmedicinesaccordingtothegeographicaloriginswithnearinfraredspectroscopy,JournalofInnovativeOpticalHealthSciences,7(2014).
+13.&nbsp;W.Li,H.Qu,Characterizationofherbalpowderblendshomogeneityusingnear-infraredspectroscopy,JournalofInnovativeOpticalHealthSciences,7(2014).
+14.&nbsp;X.Gong,Y.Zhang,J.Pan,H.Qu,OptimizationoftheEthanolRecyclingRefluxExtractionProcessforSaponinsUsingaDesignSpaceApproach,PlosOne,9(2014).
+15.&nbsp;X.Gong,A.Yan,H.Qu,OptimizationfortheEthanolPrecipitationProcessofBotanicalInjection:IndicatorSelectionandFactorInfluences,SeparationScienceandTechnology,49(2014)619-626.
+16.&nbsp;X.Gong,Y.Li,H.Qu,RemovingTanninsfromMedicinalPlantExtractsUsinganAlkalineEthanolPrecipitationProcess:ACaseStudyofDanshenInjection,Molecules,19(2014)18705-18720.
+17.&nbsp;X.Gong,Y.Li,Z.Guo,H.Qu,Controltheeffectscausedbynoiseparameterfluctuationstoimprovepharmaceuticalprocessrobustness:Acasestudyofdesignspacedevelopmentforanethanolprecipitationprocess,Sep.Purif.Technol.,132(2014)126-137.
+18.&nbsp;X.Gong,H.Chen,T.Chen,H.Qu,UnitOperationOptimizationfortheManufacturingofBotanicalInjectionsUsingaDesignSpaceApproach:ACaseStudyofWaterPrecipitation,PlosOne,9(2014).
+19.&nbsp;Q.F.Zhu,Y.Y.Wang,W.Jiang,H.B.Qu,ThreenewnorlignansfromGlechomalongituba,J.AsianNat.Prod.Res.,15(2013)258-264.
+20.&nbsp;L.Zhang,B.J.Yan,X.C.Gong,L.X.Yu,H.B.Qu,ApplicationofQualitybyDesigntotheProcessDevelopmentofBotanicalDrugProducts:ACaseStudy,AAPSPharmSciTech,14(2013)277-286.
+21.&nbsp;L.Zhang,X.C.Gong,H.B.Qu,OptimizingtheAlcoholPrecipitationofDanshenbyResponseSurfaceMethodology,SeparationScienceandTechnology,48(2013)977-983.
+22.&nbsp;S.S.Zeng,L.Wang,L.Zhang,H.B.Qu,X.C.Gong,Multi-criteriaoptimizationforultrasonic-assistedextractionofantioxidantsfromPericarpiumCitriReticulataeusingresponsesurfacemethodology,anactivity-basedapproach,JournalofSeparationScience,36(2013)1861-1868.
+23.&nbsp;S.S.Zeng,T.Chen,L.Wang,H.B.Qu,Monitoringbatch-to-batchreproducibilityusingdirectanalysisinrealtimemassspectrometryandmultivariateanalysis:Acasestudyonprecipitation,JournalofPharmaceuticalandBiomedicalAnalysis,76(2013)87-95.
+24.&nbsp;B.J.Yan,H.B.Qu,MultivariatedataanalysisofUVspectrainmonitoringelutionanddeterminingendpointofchromatographyusingpolyamidecolumn,JournalofSeparationScience,36(2013)1231-1237.
+25.&nbsp;B.J.Yan,H.B.Qu,AnapproachtooptimizethebatchmixingprocessforimprovingthequalityconsistencyoftheproductsmadefromtraditionalChinesemedicines,JournalofZhejiangUniversity-ScienceB,14(2013)1041-1048.
+26.&nbsp;H.S.Xiong,L.X.Yu,H.B.Qu,Batch-to-BatchQualityConsistencyEvaluationofBotanicalDrugProductsUsingMultivariateStatisticalAnalysisoftheChromatographicFingerprint,AAPSPharmSciTech,14(2013)802-810.
+27.&nbsp;H.S.Xiong,X.Y.Qi,H.B.Qu,Multivariateanalysisbasedonchromatographicfingerprintingfortheevaluationofbatch-to-batchreproducibilityintraditionalChinesemedicinalproduction,AnalyticalMethods,5(2013)465-473.
+28.&nbsp;Y.Y.Wang,J.Z.Xu,H.B.Qu,DeterminationofthreesteroidalsaponinsfromOphiopogonjaponicus(Liliaceae)viahigh-performanceliquidchromatographywithmassspectrometry,Nat.Prod.Res.,27(2013)72-75.
+29.&nbsp;J.Y.Pan,X.C.Gong,H.B.Qu,QuantitativeH-1NMRmethodforhydrolytickineticinvestigationofsalvianolicacidB,JournalofPharmaceuticalandBiomedicalAnalysis,85(2013)28-32.
+30.&nbsp;W.L.Li,Z.W.Cheng,Y.F.Wang,H.B.Qu,Astudyontheuseofnear-infraredspectroscopyfortherapidquantificationofmajorcompoundsinTanreqinginjection,Spectroc.ActaPt.A-Molec.Biomolec.Spectr.,101(2013)1-7.
+31.&nbsp;W.L.Li,Z.W.Cheng,Y.F.Wang,H.B.Qu,QualitycontrolofLoniceraeJaponicaeFlosusingnearinfraredspectroscopyandchemometrics,JournalofPharmaceuticalandBiomedicalAnalysis,72(2013)33-39.
+32.&nbsp;R.Kona,H.B.Qu,R.Mattes,B.Jancsik,R.M.Fahmy,S.W.Hoag,Applicationofin-linenearinfraredspectroscopyandmultivariatebatchmodelingforprocessmonitoringinfluidbedgranulation,InternationalJournalofPharmaceutics,452(2013)63-72.
+33.&nbsp;C.Jiang,Y.Liu,H.B.Qu,DatafusionstrategybasedonnearinfraredspectraandultravioletspectraforsimultaneousdeterminationofginsenosidesandsaccharidesinChineseherbalinjection,AnalyticalMethods,5(2013)4467-4475.
+34.&nbsp;C.Jiang,X.C.Gong,H.B.Qu,Astrategyforadjustingmacroporousresincolumnchromatographicprocessparametersbasedonrawmaterialvariation,Sep.Purif.Technol.,116(2013)287-293.
+35.&nbsp;H.X.Huang,H.B.Qu,Acomparativefingerprintstudyusinghigh-performanceliquidchromatography,ultraviolet,andnear-infraredspectroscopytoevaluatethequalityconsistencyofDansheninjectionsproducedbydifferentmanufacturers,AnalyticalMethods,5(2013)474-482.
+36.&nbsp;H.F.Han,L.Zhang,Y.Zhang,W.L.Li,H.B.Qu,Rapidanalysisofthein-processextractsolutionsofcompoundEJiaooralliquidusingnearinfraredspectroscopyandpartialleast-squaresregression,AnalyticalMethods,5(2013)5272-5278.
+37.&nbsp;X.C.Gong,S.S.Wang,Y.Li,H.B.Qu,Separationcharacteristicsofethanolprecipitationforthepurificationofthewaterextractofmedicinalplants,Sep.Purif.Technol.,107(2013)273-280.
+38.&nbsp;X.T.Zheng,H.B.Qu,CharacterisationoftheDegradationofSalvianolicAcidBUsinganOn-lineSpectroscopicAnalysisSystemandMultivariateCurveResolution,PhytochemicalAnalysis,23(2012)103-109.
+39.&nbsp;X.T.Zheng,H.B.Qu,CharacterizationofTransformationPatternofBaicalinUsingUVSpectrometricAnalysisandMultivariateCurveResolution,Chem.J.Chin.Univ.-Chin.,33(2012)1450-1455.
+40.&nbsp;X.T.Zheng,X.C.Gong,Q.Li,H.B.Qu,ApplicationofMultivariateCurveResolutionMethodintheQuantitativeMonitoringTransformationofSalvianolicAcidAUsingOnlineUVSpectroscopyandMassSpectroscopy,Industrial&amp;EngineeringChemistryResearch,51(2012)3238-3245.
+41.&nbsp;S.S.Zeng,L.Wang,T.Chen,Y.F.Wang,H.B.Mo,H.B.Qu,Directanalysisinrealtimemassspectrometryandmultivariatedataanalysis:AnovelapproachtorapididentificationofanalyticalmarkersforqualitycontroloftraditionalChinesemedicinepreparation,Analyticachimicaacta,733(2012)38-47.
+42.&nbsp;H.S.Xiong,X.C.Gong,H.B.Qu,Monitoringbatch-to-batchreproducibilityofliquid-liquidextractionprocessusingin-linenear-infraredspectroscopycombinedwithmultivariateanalysis,JournalofPharmaceuticalandBiomedicalAnalysis,70(2012)178-187.
+43.&nbsp;Y.Wang,X.H.Fan,H.B.Qu,X.M.Gao,Y.Y.Cheng,StrategiesandTechniquesforMulti-ComponentDrugDesignfromMedicinalHerbsandTraditionalChineseMedicine,Curr.Top.Med.Chem.,12(2012)1356-1362.
+44.&nbsp;W.L.Li,Y.F.Wang,H.B.Qu,NearinfraredspectroscopyasatoolfortherapidanalysisoftheHoneysuckleextracts,VibrationalSpectroscopy,62(2012)159-164.
+45.&nbsp;W.L.Li,Z.W.Cheng,Y.F.Wang,H.B.Qu,Feasibilityresearchonnon-invasiveanalysisofTanreqinginjectionwithnearinfraredspectroscopy,JournalofNearInfraredSpectroscopy,20(2012)667-674.
+46.&nbsp;Q.Li,H.B.Qu,StudyonthehypoglycemicactivitiesandmetabolismofalcoholextractofAlismatisRhizoma,Fitoterapia,83(2012)1046-1053.
+47.&nbsp;X.C.Gong,C.Wang,L.Zhang,H.B.Qu,SolubilityofXylose,Mannose,MaltoseMonohydrate,andTrehaloseDihydrateinEthanol-WaterSolutions,J.Chem.Eng.Data,57(2012)3264-3269.
+48.&nbsp;Y.F.Zhang,X.H.Fan,H.B.Qu,NovelApproachforQualityEvaluationofTraditionalChineseMedicineBasedonIntegratedSelected-ionChromatograms,Chem.J.Chin.Univ.-Chin.,32(2011)2515-2518.
+49.&nbsp;J.Z.Xu,S.S.Zeng,X.Y.Chen,H.B.Qu,IsolationandidentificationofdegradationproductsofsalvianolicacidAbyNMRandLC-MS,Fitoterapia,82(2011)260-266.
+50.&nbsp;Y.Y.Wang,J.Z.Xu,L.Zhang,H.B.Qu,AnewsteroidalglycosidefromtheOphiopogonjaponicusKer-Gawler(Liliaceae),Nat.Prod.Res.,25(2011)31-35.
+51.&nbsp;Y.Y.Wang,J.Z.Xu,H.B.Qu,StructureCharacterizationandIdentificationSteroidalSaponinsfromOphiopogonJaponicusKer-Gawler(Liliaceae)byHigh-PerformanceLiquidChromatographywithIonTrapMassSpectrometry,PhytochemicalAnalysis,22(2011)166-171.
+52.&nbsp;Y.Wang,C.T.Hong,C.G.Zhou,D.M.Xu,H.B.Qu,ScreeningAntitumorCompoundsPsoralenandIsopsoralenfromPsoraleacorylifoliaL.Seeds,Evid.-basedComplementAltern.Med.,(2011)1-7.
+53.&nbsp;S.F.Wang,H.Y.Fang,H.B.Qu,OptimizationofmicellarelectrokineticcapillarychromatographymethodusingcentralcompositedesignfortheanalysisofcomponentsinYangweigranule,JournalofZhejiangUniversity-ScienceB,12(2011)193-200.
+54.&nbsp;P.Y.Shi,Y.F.Zhang,H.B.Qu,X.H.Fan,SystematicCharacterisationofSecondaryMetabolitesfromIxerissonchifoliabytheCombinedUseofHPLC-TOFMSandHPLC-ITMS,PhytochemicalAnalysis,22(2011)66-73.
+55.&nbsp;W.L.Li,L.H.Xing,D.S.Xue,H.B.Qu,AnAuthenticationMethodofBearBilePowderBasedontheNearInfraredSpectroscopy,Spectrosc.Spectr.Anal.,31(2011)673-676.
+56.&nbsp;W.L.Li,L.H.Xing,Y.Cai,H.B.Qu,ClassificationandquantificationanalysisofRadixscutellariaefromdifferentoriginswithnearinfrareddiffusereflectionspectroscopy,VibrationalSpectroscopy,55(2011)58-64.
+57.&nbsp;Q.Li,Y.F.Zhang,B.Wu,H.B.Qu,IdentificationofindolealkaloidsinNaucleaofficinalisusinghigh-performanceliquidchromatographycoupledwithiontrapandtime-of-flightmassspectrometry,Eur.J.MassSpectrom.,17(2011)277-286.
+58.&nbsp;H.X.Huang,H.B.Qu,In-linemonitoringofalcoholprecipitationbynear-infraredspectroscopyinconjunctionwithmultivariatebatchmodeling,Analyticachimicaacta,707(2011)47-56.
+59.&nbsp;X.C.Gong,S.S.Wang,H.B.Qu,Solid-LiquidEquilibriaofD-Glucose,D-FructoseandSucroseintheMixtureofEthanolandWaterfrom273.2Kto293.2K,ChineseJournalofChemicalEngineering,19(2011)217-222.
+60.&nbsp;X.C.Gong,S.S.Wang,H.B.Qu,ComparisonofTwoSeparationTechnologiesAppliedintheManufactureofBotanicalInjections:SecondEthanolPrecipitationandSolventExtraction,Industrial&amp;EngineeringChemistryResearch,50(2011)7542-7548.
+61.&nbsp;B.Wu,L.S.Gan,H.B.Qu,AnUnusualStressMetaboliteInducedbyCuCl2andOtherConstituentsfromtheLeavesofChloranthusanhuiensis,J.Nat.Prod.,73(2010)1069-1074.
+62.&nbsp;Y.Y.Wang,J.Z.Xu,L.Zhang,H.B.Qu,ThreeNewHomoisoflavanonesfromtheOphiopogonjaponicusKER-GAWLER(Liliaceae),Helv.Chim.Acta,93(2010)980-984.
+63.&nbsp;Y.Wang,L.Y.Yu,L.Zhang,H.B.Qu,Y.Y.Cheng,ANovelMethodologyforMulticomponentDrugDesignandItsApplicationinOptimizingtheCombinationofActiveComponentsfromChineseMedicinalFormulaShenmai,Chem.Biol.DrugDes.,75(2010)318-324.
+64.&nbsp;W.L.Li,L.H.Xing,L.M.Fang,J.Wang,H.B.Qu,ApplicationofnearinfraredspectroscopyforrapidanalysisofintermediatesofTanreqinginjection,JournalofPharmaceuticalandBiomedicalAnalysis,53(2010)350-358.
+65.&nbsp;W.L.Li,H.B.Qu,RapidquantificationofphenolicacidsinRadixSalviaMiltrorrhizaextractsolutionsbyFT-NIRspectroscopyintransflectivemode,JournalofPharmaceuticalandBiomedicalAnalysis,52(2010)425-431.
+66.&nbsp;X.T.Zheng,J.Shen,Q.Liu,S.F.Wang,Y.Y.Cheng,H.B.Qu,PlasmafattyacidsmetabolicprofilinganalysisofcoronaryheartdiseasebasedonGC-MSandpatternrecognition,JournalofPharmaceuticalandBiomedicalAnalysis,49(2009)481-486.
+67.&nbsp;H.Yao,B.Wu,H.B.Qu,Y.Y.Cheng,Ahighthroughputchemiluminescencemethodfordeterminationofchemicaloxygendemandinwaters,Analyticachimicaacta,633(2009)76-80.
+68.&nbsp;H.Yao,B.Wu,Y.Y.Cheng,H.B.Qu,Highthroughputchemiluminescenceplatformforevaluatingantioxidativeactivityoftotalflavonoidglycosidesfromplantextracts,FoodChem.,115(2009)380-386.
+69.&nbsp;J.Z.Xu,J.Shen,Y.Y.Cheng,H.B.Qu,GC-MSAnalysisofAminoAcidsinExtractofCornusCapraeHircus,Chem.Res.Chin.Univ.,25(2009)812-816.
+70.&nbsp;Y.Wang,L.Y.Yu,X.H.Fan,H.B.Qu,AnApproachtoPredictingAntioxidativeActivitiesofNaturalProductsBasedonNearInfraredSpectroscopy,Spectrosc.Spectr.Anal.,29(2009)2401-2404.
+71.&nbsp;Y.Wang,Y.Tao,Y.J.Lin,L.Liang,Y.Wu,H.B.Qu,T.B.Liang,Y.Y.Cheng,Integratedanalysisofserumandlivermetabonomeinlivertransplantedratsbygaschromatographycoupledwithmassspectrometry,Analyticachimicaacta,633(2009)65-70.
+72.&nbsp;S.F.Wang,X.L.Luo,Q.Shao,Y.Y.Cheng,H.B.Qu,SimpleMethodforSimultaneousQuantitationandFingerprintAnalysisofGinkgobilobaTabletsbyHighPerformanceLiquidChromatography-UV-EvaporativeLightScatteringDetector,Chem.Res.Chin.Univ.,25(2009)25-30.
+73.&nbsp;X.Y.Qi,B.Wu,Y.Y.Cheng,H.B.Qu,SimultaneouscharacterizationofpyrrolizidinealkaloidsandN-oxidesinGynurasegetumbyliquidchromatography/iontrapmassspectrometry,RapidCommun.MassSpectrom.,23(2009)291-302.
+74.&nbsp;X.Y.Qi,S.F.Wang,B.Wu,H.B.Qu,DeterminationofHepatotoxicPyrrolizidineAlkaloidsinGynurasegetumbyMEKC,Chromatographia,70(2009)281-285.
+75.&nbsp;J.Y.Pan,Q.Wang,Q.Shao,Y.Y.Cheng,H.B.Qu,DevelopmentandValidationofaColumn-SwitchingLC-ESI-MSAssayforDeterminationofHuperzineAinRatPlasmaandCerebrospinalFluid,Chromatographia,69(2009)445-451.
+76.&nbsp;L.Cheng,X.Y.Zhang,M.Zhang,P.Zhang,Z.H.Song,Z.J.Ma,Y.Y.Cheng,H.B.Qu,CharacterizationofchemopreventiveagentsfromthedichloromethaneextractofEurycorymbuscavalerieibyliquidchromatography-iontrapmassspectrometry,JournalofChromatographyA,1216(2009)4859-4867.
+77.&nbsp;X.T.Zheng,P.Y.Shi,Y.Y.Cheng,H.B.Qu,RapidanalysisofaChineseherbalprescriptionbyliquidchromatography-time-of-flighttandemmassspectrometry,JournalofChromatographyA,1206(2008)140-146.
+78.&nbsp;J.Z.Xu,J.Shen,Y.Y.Cheng,H.B.Qu,SimultaneousdetectionofsevenphenolicacidsinDansheninjectionusingHPLCwithultravioletdetector,JournalofZhejiangUniversity-ScienceB,9(2008)728-733.
+79.&nbsp;Y.Wang,Y.C.Jin,C.G.Zhou,H.B.Qu,Y.Y.Cheng,Discoveringactivecompoundsfrommixtureofnaturalproductsbydataminingapproach,Med.Biol.Eng.Comput.,46(2008)605-611.
+80.&nbsp;Q.Shi,J.H.Feng,H.B.Qu,Y.Y.Cheng,AproteomicstudyofS-nitrosylationintheratcardiacproteinsinvitro,Biol.Pharm.Bull.,31(2008)1536-1540.
+81.&nbsp;X.F.Luo,X.Yu,X.M.Wu,Y.Y.Cheng,H.B.Qu,RapiddeterminationofPaeoniaeRadixusingnearinfraredspectroscopy,MicrochemicalJournal,90(2008)8-12.
+82.&nbsp;L.Liu,X.P.Zhao,D.F.Zhu,Y.Y.Cheng,H.B.Qu,SimultaneousLC-MS/MSdeterminationofdanshensuandpaeoniflorinforpermeabilitystudiesinCaco-2intestinalabsorptionmodel,Chem.Res.Chin.Univ.,24(2008)420-426.
+83.&nbsp;Y.F.Li,Y.Wang,H.B.Qu,Y.Y.Cheng,SimultaneousdeterminationofsevenbioactivecompoundsinChinesemedicine&quot;QI-SHEN-YI-QI&quot;droppingpillbyLC-UVandLC-ELSD,Chromatographia,67(2008)293-297.
+84.&nbsp;Y.F.Li,H.B.Qu,Y.Y.Cheng,Anentropy-basedmethodfornoisereductionofliquidchromatography-massspectrometrydata,Analyticachimicaacta,612(2008)19-22.
+85.&nbsp;Y.F.Li,H.B.Qu,Y.Y.Cheng,IdentificationofmajorconstituentsinthetraditionalChinesemedicine&quot;QI-SHEN-YI-QI&quot;droppingpillbyhigh-performanceliquidchromatographycoupledwithdiodearraydetection-electrosprayionizationtandemmassspectrometry,JournalofPharmaceuticalandBiomedicalAnalysis,47(2008)407-412.
+86.&nbsp;Y.Li,Y.Wang,H.B.Qu,Y.Y.Cheng,Proteomestudyofdifferentialproteinexpressioninacuteinfractedratheartafterverapamiltreatment,Chem.J.Chin.Univ.-Chin.,29(2008)515-518.
+87.&nbsp;W.R.Jin,Q.Shi,C.T.Hong,Y.Y.Cheng,Z.J.Ma,H.B.Qu,CytotoxicpropertiesofthiophenesfromEchinopsgrijissiHance,Phytomedicine,15(2008)768-774.
+88.&nbsp;W.Huang,P.Zhang,Y.C.Jin,Q.Shi,Y.Y.Cheng,H.B.Qu,Z.J.Ma,CytotoxicditerpenesfromtheroottuberofCurcumawenyujin,Helv.Chim.Acta,91(2008)944-950.
+89.&nbsp;L.Cheng,M.Zhang,P.Zhang,Z.H.Song,Z.J.Ma,H.B.Qu,SilvercomplexationandtandemmassspectrometryfordifferentiationoftriterpenoidsaponinsfromtherootsofPulsatillachinensis(Bunge)Regel,RapidCommun.MassSpectrom.,22(2008)3783-3790.
+90.&nbsp;L.Cheng,Z.H.Song,P.Zhang,M.Zhang,H.B.Qu,Z.J.Ma,AnovelmeroterpenefromEurycorymbuscavaleriei,Helv.Chim.Acta,91(2008)1659-1661.
+91.&nbsp;Y.F.Zhang,P.Y.Shi,H.B.Qu,Y.Y.Cheng,CharacterizationofphenoliccompoundsinErigeronbreviscapusbyliquidchromatographycoupledtoelectrosprayionizationmassspectrometry,RapidCommun.MassSpectrom.,21(2007)2971-2984.
+92.&nbsp;X.J.Zhai,H.B.Qu,Q.Shao,Y.Y.Cheng,Simultaneousquantificationofpuerarinanddaidzeininratplasmabyhigh-performanceliquidchromatographywithpost-columnmodificationandfluorescencedetection,Chromatographia,66(2007)43-47.
+93.&nbsp;K.Yu,G.P.Sheng,J.F.Sheng,Y.M.Chen,W.Xu,X.L.Liu,H.C.Cao,H.B.Qu,Y.Y.Cheng,L.J.Li,Ametabonomicinvestigationonthebiochemicalperturbationinliverfailurepatientscausedbyhepatitisbvirus,Journalofproteomeresearch,6(2007)2413-2419.
+94.&nbsp;K.Yu,Y.H.Ma,Q.Shao,H.B.Qu,Y.Y.Cheng,Simultaneouslydeterminationoffiveginsenosidesinrabbitplasmausingsolid-phaseextractionandHPLC/MStechniqueafterintravenousadministrationof'SHENMAI'injection,JournalofPharmaceuticalandBiomedicalAnalysis,44(2007)532-539.
+95.&nbsp;L.Xin,Q.Shao,Q.Wang,Y.Y.Cheng,H.B.Qu,Performanceevaluationofself-mademicrodialysisprobes,Chin.J.Anal.Chem.,35(2007)1083-1086.
+96.&nbsp;S.F.Wang,H.B.Qu,Y.Y.Cheng,NACE-ESI-MScombinedwithon-lineconcentrationforhigh-sensitivityanalysisofquinolizidinealkaloids,Electrophoresis,28(2007)1399-1406.
+97.&nbsp;H.B.Qu,X.J.Zhai,Q.Shao,Y.Y.Cheng,Simultaneousdeterminationofsevenactivecompoundsinradixsalviaemiltiorrhizaebytemperature-controlledultrasound-assistedextractionandHPLC,Chromatographia,66(2007)21-27.
+98.&nbsp;H.B.Qu,Y.H.Ma,K.Yu,Y.Y.Cheng,SimultaneousdeterminationofeightactivecomponentsinChinesemedicine'YIQING'capsuleusinghigh-performanceliquidchromatography,JournalofPharmaceuticalandBiomedicalAnalysis,43(2007)66-72.
+99.&nbsp;H.B.Qu,Y.H.Ma,K.Yu,Y.Y.Cheng,DevelopmentofanHPLCmethodforthequalityevaluationof'Ge-Gen-Qin-Lian'tabletsderivedfromtraditionalChinesemedicine,Chromatographia,65(2007)713-718.
+100.&nbsp;X.L.Luo,Q.Shao,H.B.Qu,Y.Y.Cheng,SimplemethodfordeterminationoffiveterpenoidsfromdifferentpartsofTripterygiumwilfordiianditspreparationsbyHPLCcoupledwithevaporativelightscatteringdetection,JournalofSeparationScience,30(2007)1284-1291.
+101.&nbsp;Y.Lu,K.Yu,H.B.Qu,Y.Y.Cheng,DevelopmentofanHPLC-UV-ELSDmethodforquantificationofmultiplecomponentsofaChinesemedicinemadefromRadixsalviamiltiorrhizaandPanaxnotoginseng,Chromatographia,65(2007)19-24.
+102.&nbsp;L.Liu,Y.Lu,Q.Shao,Y.Y.Cheng,H.B.Qu,BinarychromatographicfingerprintingforqualityevaluationofRadixOphiopogonisbyhigh-performanceliquidchromatographycoupledwithultravioletandevaporativelight-scatteringdetectors,JournalofSeparationScience,30(2007)2628-2637.
+103.&nbsp;H.B.Qu,H.L.Yang,Y.Y.Cheng,Fastandnondestructivediscriminationofdonkeyhidegluebynear-infraredspectroscopy,Spectrosc.Spectr.Anal.,26(2006)60-62.
+104.&nbsp;Y.Chen,W.X.Dai,X.S.Liu,Y.Y.Cheng,H.B.Qu,Kineticmodelingforchromatographicseparationofcytosmemonophosphateanduracilmonophosphate,KoreanJ.Chem.Eng.,23(2006)784-788.
+105.&nbsp;C.Zhao,H.B.Qu,Y.Y.Cheng,AnewapproachtothefastmeasurementofcontentofaminoacidsincordycepssinensisbyANN-NIR,Spectrosc.Spectr.Anal.,24(2004)50-53.
+106.&nbsp;X.W.Wang,H.B.Qu,P.Liu,Y.Y.Cheng,Aself-learningexpertsystemfordiagnosisintraditionalChinesemedicine,ExpertSyst.Appl.,26(2004)557-566.
+107.&nbsp;H.B.Qu,X.X.Liu,Y.Y.Cheng,Amethodforanalysisofextractingsolutionofpanaxnotoginsengusingnear-infraredspectroscopyandsupportvectorregression,Chem.J.Chin.Univ.-Chin.,25(2004)39-43.
+108.&nbsp;H.B.Qu,Q.Liu,Y.Y.Cheng,DeterminationoftheCoptisextractalkaloidsusingnear-infrareddiffusereflectancespectroscopy,Chin.J.Anal.Chem.,32(2004)477-480.
+109.&nbsp;N.L.Yang,Y.Y.Cheng,H.B.Qu,AnapproachtopurifyingprocessanalysisofChineseherbalextractsusingNIRS,ActaChim.Sin.,61(2003)742-747.
+110.&nbsp;N.L.Yang,Y.Y.Cheng,H.B.Qu,QuantitativedeterminationofmannitolinCordycepssinensisusingnearinfraredspectroscopyandartificialneuralnetworks,Chin.J.Anal.Chem.,31(2003)664-668.
+111.&nbsp;G.F.Shen,H.B.Qu,X.S.Liu,Y.Y.Cheng,AnewdenoisingmethodforHPLCfilteringalgorithmbasedoncomputinganalysisofspectra,Chem.J.Chin.Univ.-Chin.,24(2003)1972-1975.
+112.&nbsp;M.J.Chen,H.B.Qu,Y.Y.Cheng,IdentifyingtheauthenticityofChineseMedicinalMaterialwithchemicalfingerprintfeatures,Chem.J.Chin.Univ.-Chin.,24(2003)2181-2185.
+&nbsp;
+&nbsp;
+
+			
+				
+			Contact
+			
+			Phone:+865718820-8428
+			E-mail:quhb@zju.edu.cn
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:Qu,Haibin
+		Units:CollegeofPharmaceuticalSciences
+		Title:Professor
+		Myhomepagehasbeenvisited1338times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	
+
+
+Youarevisitor:1338
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

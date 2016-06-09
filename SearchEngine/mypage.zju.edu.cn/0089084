@@ -1,0 +1,225 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0089084";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0089084&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			申屠宝卿，教授，博士
+单位:材料与化学工程学院化学工程与生物工程学系
+电子邮件：shentu@zju.edu.cn
+手机：13968071926
+&nbsp;
+1986年本科毕业于四川大学高分子材料系，1989年获四川大学高分子材料系工学硕士学位。1989年8月进入浙江大学任教，1991年讲师，1997年副教授，2006年教授。2000年获日本文部省资助，到早稻田大学留学，师从日本高分子学会会长、著名高分子学家西出宏之教授，2002年度获日本早稻田大学工学博士学位。2003年3月回浙江大学工作，一直从事高分子材料科学与工程领域的研究，主持各类科研项目近20项，包括多项国家自然科学基金、国家自然科学基金重大项目子课题、浙江省科委项目以及中石化项目，在高分子材料成型加工、高分子材料的高性能化和功能化、高分子的结构和性能等方面取得了许多重要的研究成果。先后在J.Mater.Chem.,Ind.Eng.Chem.Res.，Chem.Lett.,PolymerJ.,高校化学学报，高分子学报等国内外学术刊物上发表研究论文60余篇，其中被SCI论文28篇、EI收录论文15篇。获1项日本发明专利，多项中国发明专利。
+&nbsp;
+研究兴趣和专业特长：
+1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;水介质中合成工程塑料PPO及其合金的绿色新方法
+2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;高分子材料的高性能化和功能化
+3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;高分子的结构和性能及高分子材料成型加工
+&nbsp;
+在研主要项目：
+1．国家自然科学基金项目&quot;全水介质中2,6-二甲基苯酚氧化偶合聚合及反应器内制备PPO/PS合金的新方法&quot;
+2.浙江省皮塑重大专项&ldquo;符合RoHS指令的电子电器专用阻燃耐漏电尼龙66系列工程塑料研发&quot;
+3.浙江省重点科技计划项目&quot;低熔点金属合金浇注用高导热有机硅橡胶模具&quot;
+
+			
+				
+			工作研究领域
+			
+			1.水介质中合成工程塑料PPO及其合金的绿色新方法
+2.高分子材料的高性能化和功能化
+3.高分子的结构和性能及高分子材料成型加工
+			
+				
+			联系方式
+			
+			电话：13968071926			电子信箱：shentu@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：申屠宝卿
+		单位：化学工程与生物工程学系
+		职称：教授
+		我的主页共被访问了7166次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	研究成果
+	专利成果
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

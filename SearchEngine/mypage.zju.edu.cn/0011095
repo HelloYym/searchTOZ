@@ -1,0 +1,225 @@
+
+
+
+
+
+罗明的个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0011095";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	罗明的个人主页
+
+
+	永久链接:http://mypage.zju.edu.cn/0011095&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			千人计划教授&nbsp;&nbsp;
+学习经历：
+&nbsp;本科(Diploma)，&nbsp;1973.9-1978.6，中国台北，明志工业专科学校(Ming-ChiInstituteofTechnology)，纤维工程科(FibreEngineering)
+学士(BSc)，&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1979.9-1981.6，中国台北，台湾科技大学，纤维技术系(FibreTechnology)
+硕士&amp;博士(Ph.D)，1982.10-1986.4，英国，布莱佛德大学(UniversityofBradford)，颜色化学与颜色技术系(ColourChemistryandColorTechnology)
+工作经历：
+&bull;&nbsp;英国，利兹大学(UniversityofLeeds)颜色科学系(DepartmentofColourScience)
+&nbsp;-颜色与影像科学教授(ProfessorofColourandImagingScience)，2004.3-今
+&nbsp;-颜色与影像科学实验室主任(HeadofColourandImagingScienceLaboratory)，2004.3-今
+&bull;&nbsp;英国，德比大学(UniversityofDerby)
+&nbsp;-颜色与影像研究院院长(DirectoroftheColourandImagingInstitute),2000.1-2004.2
+&nbsp;-颜色科学教授(ProfessorofColourScience)，1996.7-2004.2
+&nbsp;-颜色科学副教授(ReaderofColourScience)，1993.2-1996.7
+&bull;&nbsp;英国，CrosfieldElectronicsLtd.(now:FujiFilmElectronicImaging)(富士电子影像)
+&nbsp;-资深颜色物理师，1986.10-1993.1
+&bull;&nbsp;英国，布莱佛德大学(UniversityofBradford)-博士研究生，1982.10-1986.4
+&bull;&nbsp;中国台湾，增益资讯(GainAssociatedINC)-应用技术部经理，1981.6-1982.10
+兼任：
+&bull;&nbsp;国际照明委员会第一分部:视觉与颜色主任(DirectorofCIEDivision1:VisionandColour)，2007.8-2011.8
+&bull;&nbsp;CIETC1-75完整型色貌模型技术委员会主席(ChairmanofCIETC1-75AComprehensiveModelofColourAppearance)，2009.6至今
+&bull;&nbsp;CIETC8-02图像色差技术委员会主席(ChairmanofCIETC8-02ColourDifferenceforImages)
+&bull;&nbsp;英国颜色测量委员会委员(MemberofColourMeasurementCommitteeofUK)，1995.10-今
+
+			
+				
+			工作研究领域
+			
+			颜色影像设备及品质（ImageDeviceandImageQuality）、外观测量（AppearanceMeasurement）、实用LED光源（AppliedLEDLighting）、文物数码典藏及维护（DigitalArchivingandRestoration）
+			
+				
+			联系方式
+			
+						电子信箱：m.r.luo@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：罗明
+		单位：光电信息工程学系
+		职称：教授
+		我的主页共被访问了2020次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

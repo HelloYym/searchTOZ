@@ -1,0 +1,217 @@
+
+
+
+
+
+EneryandEnvironment-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0005113";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	EneryandEnvironment
+CMC-ComputationalMultiphaseCombution
+
+	Permanentlink:http://mypage.zju.edu.cn/en/kunluo&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			Blog
+
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			LuoKun&nbsp;
+Ph.D&amp;Professor
+StateKeyLaboratoryofCleanEnergyUtilization
+DepartmentofEnergyEngineering
+ZhejiangUniversity,Hangzhou310027
+P.R.China
+Phone:+8657187951764
+Fax:&nbsp;&nbsp;+8657187951764
+Email:zjulk@zju.edu.cn
+Office:Room409,theFirstTeachingBuilding
+ZhejiangUniversity,YuquanCampus&nbsp;
+
+38ZhedaRoad
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hangzhou,China310027
+			
+				
+			Researchwork
+			
+			ComputationalMultiphaseCombustion(DNS/LES);AirQualityModeling;RenewableEnergy
+			
+				
+			Contact
+			
+			Phone:0571-87951764
+			E-mail:zjulk@zjuedu.cn
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:KunLuo
+		Units:StateKeyLaboratoryofCleanEnergyUtilization,ZhejiangUniversity
+		Title:Professor
+		Myhomepagehasbeenvisited3234times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+EducationBackground
+WorkExperience
+Awards
+RecentPublications
+InvitedSpeech
+Teching
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	
+
+
+Youarevisitor:3234
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

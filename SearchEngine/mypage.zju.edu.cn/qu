@@ -1,0 +1,204 @@
+
+
+
+
+
+曲绍兴-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0006282";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	曲绍兴
+浙江大学曲绍兴的个人主页
+
+	永久链接:http://mypage.zju.edu.cn/qu&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			曲绍兴，1974年1月出生，山东莱州人，博士，教授，浙江大学工学部主任外事助理、航空航天学院应用力学所副所长。1992-1997年在中国科学技术大学攻读理论与应用力学学士学位，1997-2000年在清华大学攻读固体力学硕士学位，2000-2004年在美国伊利诺依大学香槟分校（UIUC）攻读机械工程博士学位，2004-2006年在美国布朗大学（BrownUniversity）进行博士后研究，2006年9月份回国到浙江大学工作，为浙江大学杨卫院士研究团队主要骨干，2008年9月至2009年6月在美国哈佛大学（HarvardUniversity）访问研究。入选教育部新世纪优秀人才支持计划（2008），获浙江省杰出青年科学基金（2010）。任国务院学位委员会力学学科评议组秘书、中国力学学会对外交流与合作工作委员会副主任委员、中国力学学会微纳米力学工作组青年委员。主要研究方向为固体材料强度与破坏、高性能材料力学等，在材料力学本构、微纳米力学、软物质力学、多尺度材料建模与模拟等方面做出了重要成果。在NatureMaterials,InternationalJournalofPlasticity,ActaMaterialia,AppliedPhysicsLetters,CompositesScience&amp;Technology,JournalofMaterialsResearch,ScriptaMaterialia,Nanotechnology等国际期刊上发表SCI论文40多篇，论文引用700多次。
+&nbsp;
+			
+				
+			工作研究领域
+			
+			固体力学，多尺度材料计算与模拟，软物质力学，多物理场耦合力学，复合材料力学，断裂力学，有限元
+			
+				
+			联系方式
+			
+			电话：0571-87952024			电子信箱：squ@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：曲绍兴
+		单位：航空航天学院工程力学系
+		职称：教授
+		我的主页共被访问了15533次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,204 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0082194";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0082194&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;１９６２年５月生，１９８２年毕业于浙江大学热物理工程系。１９９０年在浙江能源工程系获博士学位，现为浙江大学热能工程研究所副所长、副教授，中国动力工程学会理事。他作为主要参加者完成了科研项目四项，其中&ldquo;油煤混合物在电站锅炉上的燃烧&rdquo;获中科院科研成果一等奖，&ldquo;洗煤泥流化床燃烧技术&rdquo;获国家教委科技进步二等奖，并已在电厂推广应用；作为项目负责人事技术负责人完成了八项科研项目，其中国家自然科学基金项目&ldquo;循环流化床锅炉炉内流体动力过程及燃料运动和燃烧过程&rdquo;项目，浙江省重点项目&ldquo;燃用长广煤的循环流化床锅炉&rdquo;项目，鉴定意见均认为&ldquo;在我国这一领域处于领先地位，并达到国际水平&rdquo;，获得国家教委科技进步二等奖，此项研究成果目前在６ＭＷ，１２ＭＷ电站锅炉中已得到推广应用，目前作为项目负责人或技术负责人承担了十二项科研项目，共获各类科技成果奖九项，优秀论文奖十四项，他共发表论文８７篇，拥有专利三项，合作出版译著一本，&ldquo;循环流化床燃烧的理论与技术&rdquo;讲座教材一本，他曾获浙江省优秀博士毕业生，浙江省优秀青年教师称号，１９９３年起享受政府特殊津贴。骆仲泱在学术上勇于大胆创新、突破，能开拓新领域，具有扎实的理论基础，严谨的科学作风，工作认真负责，以身作则，团结同志，尊敬师长，是动力工程学科中一位突出的后起之秀。
+			
+				
+			工作研究领域
+			
+			能源清洁利用技术、新能源技术及节能环保技术。
+			
+					
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：骆仲泱
+		单位：能源工程学系
+		职称：教授
+		我的主页共被访问了24819次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	研究成果
+	专利成果
+	奖励荣誉
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

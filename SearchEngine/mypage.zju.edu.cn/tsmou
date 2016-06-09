@@ -1,0 +1,228 @@
+
+
+
+
+
+牟同升个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0086125";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	牟同升个人主页
+浙江大学光电工程系
+
+	永久链接:http://mypage.zju.edu.cn/tsmou&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			1986年毕业于浙江大学光电工程系，获硕士学位，毕业后至今一直在浙江大学光电系从事教学和科研工作，曾任浙江大学光电子所副所长。受国家标准化管理委员会委派，代表中国参与LED、LCD、OLED等领域的国际标准制订，目前担任多项IEC国际标准项目组长（IEC62341-6-3、IEC62471-4），国际标准专家组IECTC76/WG9&ldquo;非激光光源(LED)光辐射安全&rdquo;成员，以及国际标准专家组IECTC110/PT62593&ldquo;LED背光源&rdquo;成员等等。主要负责光学与光电测量方法的国际标准的制订。
+从事照明和显示光电检测技术研究二十余年，尤其是在半导体照明LED的光学与色度测量、寿命加速试验、光安全评价等方面，已开展了卓有成就的研究。获得国家发明专利8项，实用新型专利16项；编写著作两本，发表专业论文四十余篇。&ldquo;旋转反光镜式灯具分布光度测量系统&rdquo;等研究成果获得浙江省科技二等奖、安中科技奖等。
+目前还担任中国照明电器标准化委员会光源标委会、灯具标委会、光辐射安全标准化委员会、半导体照明LED标准工作组、平板显示标准工作组等五个领域的标准化委员。负责完成了&ldquo;灯和灯系统的光生物安全性&rdquo;&ldquo;光度测量CIE物理光度系统&rdquo;等六项标准，参与制定和审定国家标准三十多项。目前，正承担&ldquo;LED辐射安全&rdquo;等五项新标准，并担任组长。此外，还担任国际照明委员会CIE与国际电工委员会IEC的协调专员、中国照明学会理事、中国照明电器协会理事、半导体发光器件LED协会专家组委员等职务。
+
+目前担任职务有：
+国际标准（IEC62341-6-3）&ldquo;OLED图像质量测试方法&rdquo;项目组长
+国际标准（IEC62471-4）&ldquo;灯和灯系统的光生物安全测试方法&rdquo;项目组长
+国际照明委员会CIETC2-73&ldquo;照明产品光生物安全量值测量&rdquo;技术委员会主席
+国际照明委员会CIER2-33&ldquo;激光投影显示测量&rdquo;项目负责人
+国际电工委员会IECTC110/WG2LCD液晶显示国际标准工作组中国专家
+国际电工委员会IECTC110/WG5OLED有机发光显示国际标准工作组中国专家
+国际电工委员会IECTC110/PT62595LED背光源国际标准工作组中国专家
+国际电工委员会IECTC76/WG9光辐射安全国际标准工作组中国专家
+国际照明委员会CIE与国际电工委员会IECOLED国际标准协调官
+国际显示计量委员会ICDM委员
+全国照明电器标准化技术委员会委员
+全国光辐射安全和激光设备标准化委员会委员
+全国能源基础与管理标准化技术委员会节能检测分技术委员会委员
+工信部半导体照明技术标准工作组委员
+工信部平板显示技术标准工作组委员
+国际照明委员会CIE第二分部&ldquo;光与辐射测量&rdquo;委员、第六分部&ldquo;光生物与光化学&rdquo;委员
+美国光生物学学会ASP会员
+国际信息显示学会SID会员
+中国照明学会计量测试专业委员会委员
+&nbsp;
+			
+				
+			联系方式
+			
+						电子信箱：tsmou@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：牟同升
+		单位：光电信息工程学系
+		职称：研究员
+		我的主页共被访问了19259次
+标签：光电系光电信息工程学系，光测量LED	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		学术交流（讲座报告）
+	研究成果
+	专利成果
+	实验室介绍
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,258 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0004011";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0004011&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			1962年9月出生，上海人。1984年毕业于上海大学文学院，获学士学位；1987年和1995年毕业于复旦大学中文系和美国伊阿华大学东亚系，获硕士学位；2000年毕业于美国加州大学伯克莱校区，获博士学位。2004年任教于浙江大学，同年晋升为教授。留美期间，受教于国际著名的语言学家丁邦新（Pang-hsinTing）,W.SouthCoblin,JamesA.Matisoff,JohnJ.Ohala、张洪年（Hung-ninSamuelCheung）等教授。学习和研究领域涉及历史语言学、汉语音韵学、方言学和实验语音学等。是历史语言学领域里最早提出历史层次法研究的学者之一。发表语言学著作七部（包括个人或与人合作），在大陆、台湾、香港、美国、德国等地发表学术论文50多篇。教学方面，1987年任教于复旦大学，也曾在美国加州大学伯克莱校区、美国加州州立大学东湾校区、新加坡国立大学任教。现为浙江大学人文学院汉语言所教授，上海大学&ldquo;自强&rdquo;兼职教授，上海高校语言比较E研究院特聘研究员。
+&nbsp;主要学术经历及方向：&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;上古汉语研究、方言.
+主要科研课题：&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;教育部重大课题《吴、闽、赣、徽语音历史层次比较研究》&nbsp;
+主要成果：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;1.方言间的层次对应?以吴闽语虞韵读音为例[1/1]
+&nbsp;&nbsp;&nbsp;2.南汇方言的三种缩气音[1/1]
+&nbsp;&nbsp;&nbsp;3.汉语、侗台语、东南亚相关语言先喉塞音的比较研究[1/1]
+&nbsp;&nbsp;&nbsp;4.鄞县方音同音字汇[1/1]
+&nbsp;&nbsp;&nbsp;5.南汇方言阳上声调的变异[1/1]
+&nbsp;&nbsp;&nbsp;6.论广州话小称变调的来源[1/1]
+&nbsp;&nbsp;&nbsp;7.从语言学角度来看&ldquo;通用拼音&rdquo;的问题[1/1]
+&nbsp;&nbsp;&nbsp;8.吴语及其邻近方言鱼韵的读音层次?兼论《切韵》鱼韵的音值[1/1]
+&nbsp;&nbsp;&nbsp;9.重论文白异读与语音层次[1/1]
+&nbsp;&nbsp;&nbsp;10.从语言学角度来看腭裂手术后的语音问题[1/1]
+&nbsp;&nbsp;&nbsp;11.宁波方言单字调和连续变调[1/1]
+&nbsp;&nbsp;&nbsp;12.声调在汉语南方方言侗台语里的共同表现形式[1/1]
+&nbsp;&nbsp;&nbsp;13.腭裂病人术后语音评定标准问题[1/1]
+&nbsp;&nbsp;&nbsp;14.论吴语、闽语两种小称形式的来源及其演变[1/1]
+&nbsp;&nbsp;&nbsp;15.作为百越语底层形式的先喉塞音在今汉语南方方言里的表现和分布[1/1]
+&nbsp;&nbsp;&nbsp;16.宁波方言&ldquo;猪、鸡、虾&rdquo;类字声调的变异及其原因[1/1]
+&nbsp;&nbsp;&nbsp;17.宁波方言的声调变异[1/1]
+&nbsp;&nbsp;&nbsp;18.语言渗透与渗透理论[1/1]
+&nbsp;&nbsp;&nbsp;19.上海市区方言一百五十年来的演变[1/1]
+&nbsp;&nbsp;&nbsp;20.&ldquo;OnNong&rdquo;（说侬）[1/1]
+&nbsp;&nbsp;&nbsp;21.论北部吴语一种代词词头&lsquo;是&rsquo;[1/1]
+&nbsp;&nbsp;&nbsp;22.文白异读与方言层次[1/1]
+&nbsp;&nbsp;&nbsp;23.论苏州话人称代词的语源[1/1]
+&nbsp;&nbsp;&nbsp;24.TheCommonOriginofDiminutivesinSouthernChineseDialectsan[1/1]
+&nbsp;&nbsp;&nbsp;25.论广州方言一种小称的来源[1/1]
+&nbsp;&nbsp;&nbsp;26.《南汇县志方言卷》[1/3]
+&nbsp;&nbsp;&nbsp;27.《宁波方言词典》[1/3]
+&nbsp;&nbsp;&nbsp;28.汉越语gi-声母[1/1]
+&nbsp;&nbsp;&nbsp;29.&ldquo;侗台语&rdquo;先喉塞音?b-,?d的演变[1/1]
+&nbsp;&nbsp;&nbsp;30.语言底层残迹与百越民族文化[1/1]
+&nbsp;&nbsp;&nbsp;31.汉语方言侗台语连续变调比较研究[1/1]
+&nbsp;&nbsp;&nbsp;32.上海地区方言的分区及其历史人文背景[1/1]
+&nbsp;&nbsp;&nbsp;33.方言渗透的特点及其研究方法[1/1]
+&nbsp;&nbsp;&nbsp;34.汉语方言连续变调研究综述（一）[1/1]
+&nbsp;&nbsp;&nbsp;35.汉语方言连续变调研究综述（二）[1/1]
+&nbsp;&nbsp;&nbsp;36.上海地区方言的分区[1/1]
+&nbsp;&nbsp;&nbsp;37.论邵武方言入声化字的实质[1/1]
+&nbsp;&nbsp;&nbsp;38.作为百越语底层形式的先喉塞音在今汉语南方方言里的表现和分布[1/1]
+&nbsp;&nbsp;&nbsp;39.今汉语南方方言里的表现和分布[1/1]
+&nbsp;&nbsp;&nbsp;40.《宁波方言词典》引论[1/1]
+&nbsp;&nbsp;&nbsp;41.OntheDiminutivesinMinDialects（论闽语的小称）[1/1]
+&nbsp;&nbsp;&nbsp;42.论吴语人称代词[1/1]
+&nbsp;&nbsp;&nbsp;43.《嘉定方言研究》[1/1]
+&nbsp;&nbsp;&nbsp;44.《汉语语言学》[1/4]
+&nbsp;&nbsp;&nbsp;45.《鄞县县志方言卷》[1/6]
+&nbsp;&nbsp;&nbsp;46.《汉语方言大词典》[1/40]
+			
+				
+			工作研究领域
+			
+			1、历史语言学
+2、汉语方言学
+3、实验语音学
+4、汉藏语研究
+
+			
+				
+			联系方式
+			
+			电话：88273589			电子信箱：zhongminchen7@hotmail.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：陈忠敏
+		单位：人文学院中国语言文学系
+		职称：教授
+		我的主页共被访问了3948次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

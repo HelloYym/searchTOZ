@@ -1,0 +1,285 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0003018";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0003018&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			姓名：蒋建中
+性别：男
+出生年月：1964年11月
+现任职务：教授，博导
+所属工作单位：浙江大学材料系通讯地址：杭州浙大路38号浙江大学材料系新结构材料实验室，
+邮编:310027
+电话：0571-87952107
+传真:0571-87952107
+电子邮件：
+<!--
+varprefix=’&#109;a’+’i&#108;’+’&#116;o’;
+varpath=’hr’+’ef’+’=’;
+varaddy76890=’j&#105;&#97;ngjz’+’&#64;’+’zj&#117;’+’&#46;’+’&#101;d&#117;’+’&#46;’+’cn’;
+varaddy_text76890=’j&#105;&#97;ngjz’+’&#64;’+’zj&#117;’+’&#46;’+’&#101;d&#117;’+’&#46;’+’cn’;
+document.write(’’);
+document.write(addy_text76890);
+document.write(’’);
+//-->
+jiangjz@zju.edu.cn
+主要学历：
+1980年9月-1984年8月浙江师范大学物理系，本科
+1984年9月-1987年8月北京科技大学金属物理系，硕士
+1987年9月-1991年7月德国Saarland大学材料系，博士
+主要工作经历：
+1991年8月-1992年12月德国Saarland大学材料系，Postdoc
+1993年1月-1994年9月英国Liverpool大学物理系，ResearchFellow
+1994年10月-1996年9月丹麦技术大学物理系，AssistantProfessor
+1996年10月-2003年11月丹麦技术大学物理系，AssociateProfessor
+2003年11月-浙江大学材料系教授
+研究领域：大块金属玻璃功能材料和纳米功能材料的制备、表征和性能；同步辐射技术
+&nbsp;获奖：
+&nbsp;2006年获得教育部长江特聘教授。
+2004年获得国家自然科学基金委杰出青年基金。
+1999年在&ldquo;InternationalSymposiumonMetastableMechanicallyAlloyedandNanocrystallineMaterials&rdquo;上荣获&ldquo;青年科学家&rdquo;金奖，1999年获得丹麦技术部颁发的杰出青年基金。
+1996年入选中国科学院&ldquo;百人计划&rdquo;。
+科研成果：
+在美国科学出版社出版的纳米科学与技术百科全书中撰写了一章。1996年获中国科学院&ldquo;百人计划&rdquo;，1999年在国际亚稳机械合金纳米材料大会上荣获&ldquo;青年科学家&rdquo;金奖，1999年获得丹麦技术部颁发的杰出青年基金，2004获得国家自然科学杰出青年基金，2006年获得教育部长江特聘教授。在国际一流期刊上总发表论文170篇左右，包括Phys.Rev.Lett.1篇,Appl.Phys.Lett.28篇，Phys.Rev.B.14篇，Europhys.Lett.5篇，Chem.Commun.1篇,Chem.Mater.2篇，ActaMater.1篇和J.Appl.Phys.7篇。近5年来，73篇被SCI检索，第一作者27篇，通讯作者42篇；44篇被EI检索，第一作者16篇；被他引843次。首次制备了新结构纯立方体ZnO功能材料。成功地制备了大块立方体新结构Si3N4先进功能材料，确定立方体Si3N4的原子结构、硬度为39.3GPa，成为世界第三超硬材料。发现立方体Si3N4在空气中热稳定性非常好，一直到1400℃（最硬的金刚石材料在空气中从700℃就开始不稳定了）。首次从原子尺度上揭示了这种新材料的热膨胀行为。这些科研成果将促进立方体Si3N4新功能材料的开发应用。提出体积改变的比值、表面能和内能的变化这三个因素决定纳米功能材料结构的稳定性。玻璃温度的认识是一个长期的、还未解决的基本关键问题，其中玻璃温度的压力效应是一个关键课题，开创了原位测量玻璃温度压力效应的方法，揭示了晶化的压力效应和时间关联形核。揭示了新结构Fe-Cu合金是在原子尺度上发生，原子结构，合金的动力来源以及合金的磁学性能和热稳定性。
+在近5年内，蒋建中教授在科研方面所取得的科研成果主要概况为以下四个方面：
+1.研究了多种纳米功能材料（包括陶瓷，半导体，金属纳米材料）的晶粒尺寸对结构稳定性的影响。首次揭示体积改变的比值、表面能的改变和内能的变化，这三个因素决定着纳米功能材料结构的稳定性。这些科研究成果对纳米功能材料的开发和应用具有重要的指导意义。在国际权威学术期刊上已发表数篇论文，其中Europhys.Lett.2篇，Phys.Rev.B.1篇和Chem.Commun.1篇。申请者在两元准晶Cd-Ca体系内，发现并确定了稳定两元准晶合金的存在，这一科研成果将在很大程度上简化准晶合金中原子位置的确定。在国际权威学术期刊Appl.Phys.Lett.上发表论文2篇。
+2.首次在常压下制备了纯新结构立方体ZnO功能材料。申请者成功地制备了大块立方体新结构的Si3N4先进功能材料，首次确定立方体Si3N4的原子结构、硬度为39.3GPa，成为世界第三超硬材料。申请者还发现立方体Si3N4在空气中热稳定性非常好，一直到1400℃（最硬的金刚石材料在空气中从700℃就开始不稳定了）。申请者首次从原子尺度上揭示了这种新材料的热膨胀行为。这些科研成果将促进立方体Si3N4这种新功能材料的开发应用。国际权威学术期刊上已发表数篇论文，其中Appl.Phys.Lett.1篇，Phys.Rev.B.2篇和Europhys.Lett.1篇。
+3.对多种金属玻璃功能材料进行了系统地研究，主要阐明了四个基本问题。它们是1)开创了一种新的方法，即原位测量压力对玻璃温度的影响，并且在该领域首次报道了大于1GPa的玻璃转变温度和压力的关系；2）密度、原子扩散和热力学晶化势垒对晶化的影响；3）在超过冷液态中，结构是否发生变化；4）结构对磁性能的影响。发现了外加压力对晶化过程有着很大的影响，其影响与材料本身有关,并由原子扩散和热力学晶化势垒两因素所决定。密度的改变对晶化动力学起着甚微的作用。同时在申请者所研究的合金体系内，未发现在超过冷液态中的结构相变。发现结构对磁性能有很大影响。这些科研成果对大块非晶合金材料的工业应用提供重要数据。在国际权威学术期刊上已发表论文九十几篇，包括Phys.Rev.Lett.1篇Appl.Phys.Lett.18篇，Phys.Rev.B.3篇，Europhys.Lett.1篇。申请者在对两种非晶态合金的晶化动力学的研究过程中发现，时间关联形核能很好地描述转变相的相对体积分数与退火时间的关系，而时间不关联形核却不能，从而证明了时间关联形核存在于非晶态合金的晶化过程中。所获得的初步结果是非常令人鼓舞的，因为它证明了:在非晶合金体系，时间关联形核对于晶化动力学是非常重要的。这项研究为新型多元合金系中长期存在的有关高玻璃形成能力的起源的争论提供新的数据。在国际权威学术期刊上已发表数篇论文，其中Appl.Phys.Lett.1篇和Phys.Rev.B.1篇。
+4.采用机械合金方法，对不相溶的Fe-Cu体系进行了系统的科学研究，阐明了通常不可溶体系中存在的若干基本问题。例如合金是否在原子尺度上发生，合金中的原子结构是什么，合金的动力来源以及合金的热稳定性及磁学性能等。这不仅深化了对通常不可溶体系中合金机制的理解，而且对这类合金材料的制备和开发应用也具有重要的指导意义。国际权威学术期刊上已发表数篇论文，其中在美国科学出版社出版的纳米科学与技术百科全书中撰写了一章节（intheEncyclopediaofNanoscienceandNanotechnology:Fe-CuNano-alloying）和Appl.Phys.Lett.2篇。
+申请了10项国家发明专利
+1．超声液相还原制备单分散锗纳米晶的方法（申请号:200510049684.5），已授权
+2.压力诱导通过高温高压制备大块金属玻璃的方法（申请号:200510049355.0），已授权
+3．反向微乳液法制备单分散氧化锗纳米材料的方法（申请号:200510050550.5）
+4．两步法制备氧化锡纳米材料的方法（申请号:200510060454.9）
+5．热分解制备单分散锗纳米晶的方法（申请号:200510061750.0）
+6．Ni-Nb系大块非晶合金及其制备方法（申请号:200510061749.8）
+7．热分解制备不同形貌纳米氧化锌的方法（申请号:200610049176.1）
+8．厘米级塑性Zr-Cu-Al-Ag系大块非晶合金（申请号:200610049885.X）
+9．厘米级La0.5Ce0.5基大块非晶合金（申请号:200610051664.6）
+10．La基大块非晶合金（申请号:200610051665.0）
+主要学术及社会兼职：
+国际机械化学学术委员会理事，中国物理学会同步辐射专业委员会理事，中国材料研究学会金属间化合物与非晶合金分会理事，丹麦晶体学会理事，国家科技部&rdquo;十一五&rdquo;863材料领域专家组成员，国家科技部国际合作计划评价专家组成员，美国材料研究学会会员,丹麦冶金学会会员，丹麦物理学会会员，德国物理学会会员。
+近五年国内和国际外学术报告
+1大会报告：The8thEuropeanPowderDiffractionConference,23-26May2002,Uppsala,Sweden，并担任分会主席；
+2大会报告：InternationalConferenceonMechanochemistryandMechanicalAlloying,7-11September,2003,Braunschweig,Germany，并担任分会主席；
+3大会报告：全国第三届同步辐射学术年会，2003年11月23－27日，上海嘉定，并担任分会主席。
+4大会报告：北京同步辐射装置用户学术年会，2004年7月2－6日，内蒙古呼和浩特。
+5大会报告：第一届同步辐射结构分析高级研讨会，2005年6月15-18日，杭州，担任大会主席。
+6特邀报告：InternationalSymposiumonMetastableamdNanocrystallineMaterials,4-8July2005,Paris,France；
+7特邀报告：InternationalSymposiumonMetastable,MechanicallyAlloyedandNanocrystallineMaterials,22－26August2004,Sendai,Japan,并担任分会主席；
+8特邀报告：InternationalSymposiumontheStructure&amp;PropertiesofAdvancedNitrides&amp;ElectronicNitrides,April28-may1,2002St.Louis，USA；
+9特邀报告：InternationalSymposiumonMetastable,MechanicallyAlloyedandNanocrytallineMaterials,8-12September,2002Seoul,Korea；
+10特邀报告：The22ndRis&oslash;InternationalSymposiumonMaterialsScience,Ris&oslash;,Denmark,3-7September,2001；
+11特邀报告：TheWorkshoponScienceatHighPressure:LatestTrendsfrom3rdGenerationSources,Grenoble,France,16-17February,2001
+12.特邀报告：第四届全国液体和软物质物理学术大会，2004年5月15－18日，山东济南，并担任分会主席。
+13．特邀报告：第十二届全国高压学术讨论会，2004年9月12－17日，安徽黄山,并担任分会主席。
+14．特邀报告：第三届全国非晶材料大会，2004年9月25－28日，山东济南，并担任分会主席。
+15．特邀报告：中国科学院爱因斯坦讲席教授学术研讨会（2005年9月6-8日），并担任分会主席。
+16．特邀报告：香山科学会议第261次学术研讨会（2005年9月13-15日）。
+17．特邀报告：北京同步辐射装置用户学术年会（2005年7月15-19日）。
+18．特邀报告：合肥国家同步辐射实验室用户年会（2005年8月5-7日）。
+19．特邀报告：德国汉堡国家同步辐射实验室学术研讨会（2005年8月18日）。
+20．特邀报告：6thInternationalSymposiumonMetallicandIntermetallicMaterials,（2005年10月9-14日）。
+21．特邀报告：南京举办全国第二届ZnO材料大会（2005年12月20-24日）。
+22．2个特邀报告：北京国际材料周，北京（2006年6月25-30日）。
+23．Co-Chairman,fortheSymposiumC&quot;Dopednanopowders:synthesis,characterization,applications&quot;ofEuropeanMaterialsResearchSociatyFallMeeting,heldatWarsawUniversityofTechnology,Warsaw,Poland,4-8September,2006。
+24．特邀报告：TheSecondInternationalConferenceontheCharacterizationandControlofInterfacesforHighQualityAdvancedMaterials,andJoiningTechnologyfornewMetallicglassesandInorganicMaterials[ICCCI2006]，September6-9,2006inKurashiki,Okayama,Japan,
+			
+				
+			工作研究领域
+			
+			大块金属玻璃功能材料和纳米功能材料的制备、表征和性能；同步辐射技术
+			
+				
+			联系方式
+			
+			电话：0571-87952107			电子信箱：jiangjz@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：蒋建中
+		单位：材料科学与工程学系
+		职称：教授
+		我的主页共被访问了42451次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	研究成果
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

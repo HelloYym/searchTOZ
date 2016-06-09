@@ -1,0 +1,273 @@
+
+
+
+
+
+风清云淡-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0098339";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	风清云淡
+就让一切都那么淡淡的
+
+	永久链接:http://mypage.zju.edu.cn/never&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+				
+			工作研究领域
+			
+			大学校史研究
+			
+				
+			联系方式
+			
+						电子信箱：asvillagers@gmail.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：张淑锵
+		单位：档案馆（博物馆、校史馆）
+		职称：助理研究员（高教）
+		我的主页共被访问了12281次
+标签：校史研究室校史馆求是精神庄子论剑	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		发表论文
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	⊙昔言求是实启尔求真!
+浙江大学档案馆
+求是潮
+高等教育学会校史研究分会
+浙江大学报
+求是新闻网
+中国高教学会校史研究分会
+国立浙江大学论坛
+悠悠浙大
+cc98
+zju88
+杭州浙江大学校友会
+浙大1897校友论坛
+《浙大校友》（浙江大学）
+《校史通讯》（复旦大学）
+校史穿梭
+《校友通讯》（东南大学）
+共和国脚步:1949年档案
+《浙大学报》（人文社科版）
+《杭州市志》
+《杭州年鉴》
+《教育史研究》杂志
+杭州党史
+⊙————熊出没地100
+人民网
+环球网
+光明网
+zuas
+党人纪馆
+老照片
+鹤放南山【强国论坛】
+⊙————搜肠刮肚200
+人民检索
+谷歌搜索
+百马匹山
+谷词在线
+中华在线词典
+⊙————评论世界300
+人民日报重要言论库
+教育评论——中国教育科研网
+⊙————学者专栏500
+林来梵
+⊙————报刊印社600
+《人民日报》报刊杂志系列
+《文史精华》650
+《参考消息》
+《炎黄春秋》
+《环球视野》
+⊙————门户网站700
+国家文化部
+国家教育部
+浙江省教育厅750
+⊙————专题网站800
+中国人大网
+中国宪政网
+中国公法网
+中国公法网
+中国私法网
+中国普法网
+中国人权网
+中国法院网
+中国新闻网
+中共新闻网
+⊙————理论学习900
+人民理论
+领导言行
+光明理论
+新华理论
+南方理论
+求是理论
+南京大学博物馆
+浙江大学门户网站
+傅国涌
+古往今来
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

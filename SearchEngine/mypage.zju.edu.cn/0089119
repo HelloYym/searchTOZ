@@ -1,0 +1,216 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0089119";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0089119&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			浙江大学化学系有机化学研究所教师，一直从事有机化学教学和有机化学科研工作。主编和参编了多本《有机化学实验〉和《有机化学》教材。主持浙江省基金和国际合作重大项目《金属催化的化学键形成和断裂的调节和控制》子项目等科研项目。在国际著名杂志&nbsp;Org.Lett,&nbsp;Chem.&nbsp;Comm,&nbsp;Tetrahedron,&nbsp;Tetrahedron.&nbsp;Lett等发表多篇研究论文。曾获浙江大学东方通信优秀教学奖、高伟梁基金青年优秀教学奖、2004年浙江大学优秀教师等荣誉。
+			
+				
+			工作研究领域
+			
+			主要从事联烯化学，多中心反应及选择性(区域和立体)偶联反应及方法学在目标分子有机合成中的应用的研究。重点集中在联烯的亲电加成反应和金属催化下官能团化联烯与芳基卤化物的反应。近几年在世界著名化学期刊上发表研究论文十余篇。申请了中国发明专利3项。其中较典型的工作有：
+我们利用联烯醇与亲电试剂的加成反应，在反应过程中发生芳基或氢迁移，实现了很有合成价值的β-卤代-β,γ-不饱和醛和酮的选择性合成。这类化合物由于极易发生双键从β,γ-位向α,β-位的移动，传统方法较难合成。
+通过在联烯中引入亲核性官能团成功地解决了联烯在亲电试剂存在下反应活性及选择性调控，为一系列环状化合物的合成提供了高效合成方法学。
+首次观测到联烯与芳基卤化物发生Heck型反应，同时也是首例钯催化下联烯双键对分子间碳-钯物种插入生成Csp2-Pd键，而不是形成烯丙基钯中间体的反应。
+
+
+			
+				
+			联系方式
+			
+			电话：87953160			电子信箱：masm@css.zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：傅春玲
+		单位：化学系
+		职称：教授
+		我的主页共被访问了36965次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	学术交流（讲座报告）
+	研究成果
+	专利成果
+	奖励荣誉
+	实验室介绍
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

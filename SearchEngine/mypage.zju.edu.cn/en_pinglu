@@ -1,0 +1,213 @@
+
+
+
+
+
+PingLu-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0090229";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	PingLu
+
+
+	Permanentlink:http://mypage.zju.edu.cn/en/pinglu&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			&nbsp;Education
+1980-1990HangzhouUniv.,B.S.(1984),M.S.(1987),Ph.D.(1990)
+&nbsp;WorkingExperience
+1990-1998HangzhouUniv.,Dept.ofChemistry,AssociateProfessor(1993)Professor(1998)
+1998-presentZhejiangUniv.,Dept.ofChemistry,Professor
+1995-2000Univ.ofSouthernCalifornia,Dept.ofChemistry,VisitingScholar(threeyears)
+&nbsp;ProfessionalAffiliations
+
+MemberofChineseChemicalSociety,GeneralSecretaryofZhejiangChemicalSociety
+			
+				
+			Researchwork
+			
+			1.	Methodologyoforganicsynthesis
+2.	Fluorescentstructure-propertyrelationship
+3.	Fluorescentchemosensors
+4.	Organicoptoelectronics
+
+			
+				
+			Contact
+			
+			Phone:86-571-87952543,13777847196
+			E-mail:pinglu@zju.edu.cn
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:PingLu
+		Units:DepartmentofChemistry
+		Title:Professor
+		Myhomepagehasbeenvisited2130times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+Representativepublications
+ResearchInterests
+Teaching
+Editedtextbooks
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	
+
+
+Youarevisitor:2130
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

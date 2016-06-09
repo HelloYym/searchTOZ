@@ -1,0 +1,214 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0087438";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0087438&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			　　　1979年9月－1982年4月：&nbsp;北京协和医科大学协和医院放射科研究生学习，获硕士学位
+　　　1992年5月－1992年12月：美国加州罗玛琳达大学医学中心学习放射科管理和MIR诊断学
+　　　1988年3月－1988年12月：美国波士顿哈佛医学院附属教学医院BrighamandWomen`s医院进修学习血管造影和介入性放射学
+　　　1983年10月-1984年4月：德国西门子公司和纽伦堡大学医院进修学习CT诊断
+　　　1960年8月－1963年10月：浙江省卫生学校学习工作：&nbsp;
+　　　1995年10月至今：浙江大学医学院邵逸夫医院放射科主任,教授浙江省医学会放射学会主任委员中华医学会放射学会全国委员中华放射学杂志编委北美放射学会会员
+　　　2001年1月16日浙大（2001）11号批准为博士生导师
+　　　1993年1月－1995年10月:浙江医科大学邵逸夫医院放射科主任&nbsp;付教授
+　　　1990年7月－1993年1月：浙江医科大学附属第二医院放射科付教授
+　　　1985年11月－1990年7月：浙江医科大学附属第二医院放射科主治医生,讲师
+　　　1982年4月－1985年11月：北京协和医科大学协和医院放射科主治医生&nbsp;讲师
+　　　1963年10月－1979年9月：浙江青田县医院放射科医师，1977年10月任副院长
+			
+				
+			工作研究领域
+			
+			腹部影像学；神经介入治疗；肿瘤诊断及介入治疗；脑功能研究；磁共振成像研究
+			
+					
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：章士正
+		单位：附属邵逸夫医院
+		职称：教授
+		我的主页共被访问了5405次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	研究成果
+	奖励荣誉
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

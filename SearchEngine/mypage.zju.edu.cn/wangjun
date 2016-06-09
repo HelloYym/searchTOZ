@@ -1,0 +1,214 @@
+
+
+
+
+
+王俊-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0091272";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	王俊
+王俊介绍
+
+	永久链接:http://mypage.zju.edu.cn/wangjun&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			王俊教授，男，1965年7月生，浙江大学教授、博士生导师。1993年晋升讲师、1995年破格晋升副教授、1999年破格晋升教授。美国农业工程师学会会员、中国农工学会理事、中国农机学会青委会副主任；农业工程学报、AmericanJournalofFoodTechnology、InternationalJournalofAgriculturalResearch等刊物编委、&quot;JournalofFoodEngineering&quot;&quot;InternationalJournalofFoodScience&amp;Technology&quot;&quot;SensorsandActuatorsB&quot;等8本SCI刊物审稿人。入选教育部新世纪优秀人才支持计划(首批)和浙江省跨世纪学术带头人&quot;151人才工程(第一层次)&quot;。
+先后主持了国家高技术研究发展计划（863计划）1项、国家自然科学基金项目5项、教育部新世纪优秀人才支持计划1项、高校博士学科点基金2项、浙江省自然科学基金3项、浙江省&quot;151人才工程&quot;项目1项、浙江省科技厅重大招标项目2项（1项为重大子项目）、浙江省科技厅重点项目3项和一般项目2项。已获国家发明专利7项、实用新型专利12项。在国家级学报和境外学术刊物上已发表100余篇论文、其它刊物80余篇，其中SCI收录50余篇、EI收录近60篇。所发表的SCI收录论文中被引用100余次。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2006年获中国农业机械发展贡献奖（2002-2006）
+			
+				
+			工作研究领域
+			
+			1.新型生物种植与加工机电设备及生产线
+2.生物物料物理特性与农产品品质
+3.电子鼻电子舌的食品品质检测
+4.农产品产后加工工程与生物质资源利用
+
+			
+				
+			联系方式
+			
+			电话：86971881			电子信箱：jwang@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：王俊
+		单位：生物系统工程与食品科学学院生物系统工程系
+		职称：教授
+		我的主页共被访问了16054次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	研究成果
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

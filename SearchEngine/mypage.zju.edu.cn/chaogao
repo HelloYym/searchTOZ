@@ -1,0 +1,222 @@
+
+
+
+
+
+高超的主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0008213";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	高超的主页
+浙江大学纳米高分子实验室(NanopolymerLab)
+
+	永久链接:http://mypage.zju.edu.cn/chaogao&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+
+
+
+
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;高&nbsp;超，男，土家族，1973年1月生。工学博士，教授，博士生导师。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;1995年毕业于湖南大学化学化工学院有机化工专业，获学士学位，1998年毕业于同校精细化工专业获硕士学位，2001年毕业于上海交通大学高分子科学与工程系，获得工学博士学位，并留校任教。2002年8月被评为副教授。2003年11月至2006年8月先后在英国Sussex大学化学系HaroldW.Kroto爵士实验室、日本Toyo大学ToruMaekawa教授组、德国Bayreuth大学AxelH.E.M&uuml;ller教授组做访问研究、博士后研究、合作研究和洪堡基金研究员。2008年2月加入浙江大学高分子系，同年7月被评为教授、博士生导师。
+&nbsp;&nbsp;&nbsp;研究主要集中在石墨烯、碳纳米管功能化及超支化聚合物领域，在包括NatureCommunications,ScientificReports,Adv.Mater.,J.Am.Chem.Soc.,Angew.Chem.Int.Ed.,Prog.Polym.Sci.,Adv.Func.Mater.,Chem.Commun.,Macromolecules,Biomacromolecules,J.Phys.Chem.B,&nbsp;Langmuir,&nbsp;&nbsp;Nanotechnology,J.Mater.Chem.&nbsp;等在内的国际知名杂志上发表SCI收录文章90多篇，被他引3000余次，获得授权的国家发明专利20多项。主持多项国家自然科学基金，担任《ColloidandPolymerScience》杂志的顾问编委。
+
+
+			
+				
+			工作研究领域
+			
+			1.石墨烯(Graphene)；
+2.超支化聚合物(Hyperbranchedpolymers)；
+3.活性/可控聚合及点击化学(Living/controlledpolymerizationandclickchemistry)
+			
+				
+			联系方式
+			
+			电话：0571-87952088			电子信箱：cgao18@163.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：高超
+		单位：高分子科学与工程学系
+		职称：教授
+		我的主页共被访问了67485次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		发表论文
+	奖励荣誉
+	欢迎加入本实验室
+	研究方向
+	联系地址
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

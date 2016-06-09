@@ -1,0 +1,244 @@
+
+
+
+
+
+BabyLab-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0087349";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	BabyLab
+
+
+	Permanentlink:http://mypage.zju.edu.cn/en/xuqinmei&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			Blog
+
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			
+
+
+
+&nbsp;
+Qinmei&nbsp;Xu&nbsp;Ph.D
+
+
+
+
+
+
+Professor&nbsp;of&nbsp;psychology
+CollegeofEducation
+Zhejiang&nbsp;University,&nbsp;China
+
+
+
+&nbsp;
+EDUCATION
+
+2008-2009&nbsp;&nbsp;&nbsp;Visiting&nbsp;Scholar,&nbsp;
+Department&nbsp;of&nbsp;Experimental&nbsp;Psychology,Oxford&nbsp;University,UK
+
+2001-2002&nbsp;&nbsp;&nbsp;Visting&nbsp;Scholar,&nbsp;
+Graduate&nbsp;School&nbsp;of&nbsp;Education,Harvard&nbsp;University,USA
+
+1997-2000&nbsp;&nbsp;&nbsp;Ph.D.&nbsp;in&nbsp;Psychology,&nbsp;
+East&nbsp;China&nbsp;Normal&nbsp;University,&nbsp;China,&nbsp;
+
+1997-1999&nbsp;&nbsp;&nbsp;Diploma&nbsp;in&nbsp;Systematic&nbsp;Family&nbsp;Therapy,&nbsp;
+Germany-China&nbsp;Advanced&nbsp;Program&nbsp;for&nbsp;Psychotherapy,&nbsp;
+&nbsp;
+
+			
+				
+			Researchwork
+			
+			IndividualDifferencesininfants;
+ParentingandAttachment;
+EmotionUnderstanding;
+EarlyWordLearning;
+ChildCareandSocialPolicy
+
+
+
+			
+				
+			Contact
+			
+			Phone:+86-0571-81515933
+			E-mail:xuqm@zju.edu.cn
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:qinmeixu
+		Units:ZhejiangUniversity
+		Title:Professor
+		Myhomepagehasbeenvisited1888times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+Research
+Articles
+Books
+Teching
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	qinmeixu'sblog
+ZhejiangUniversity
+
+
+
+Youarevisitor:1888
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

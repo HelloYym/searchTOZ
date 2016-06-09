@@ -1,0 +1,209 @@
+
+
+
+
+
+杨辉-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0086192";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	杨辉
+
+
+	永久链接:http://mypage.zju.edu.cn/0086192&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			杨辉教授、博导，1962年8月，浙江苍南人，中共党员。1983年和1986年先后在浙江大学材料系获工学学士学位和硕士学位，1986年留校至今，1997年评为教授，1998年评为博士生导师。现任浙江加州国际纳米技术研究院常务副院长,浙江大学绿色建材及应用技术工程研究中心主任,浙江省&ldquo;十五&rdquo;纳米技术重大科技攻关及示范应用工程专家组副组长。兼任国际玻璃TC－16分会执委、中国硅酸盐学会溶胶-凝胶分会理事长、中国硅酸盐学会理事、中国硅酸盐学会陶瓷分会常务理事、中硅会陶瓷分会古陶瓷专业委员会副主任、浙江省硅酸盐学会副理事长、中硅会青年工作委员会委员、中硅会粉体专业委员会委员、《硅酸盐通报》、《高技术陶瓷》和《材料科学与工程学报》编委。
+主要从事先进陶瓷材料及器件，纳米材料制备、改性及应用，绿色建材及应用技术、溶胶-凝胶技术及应用等方面的研究工作。承担国家支撑计划、国家863重点、省重大、重大横向项目等20余项。国内外核心期刊发表SCI论文80余篇，出版国家重点规划教材1部（副主编），获授权发明专利20多项，获国家科技进步二等奖1次、省部级科技进步一等奖3项、二等奖3项、中国石油工业协会技术发明二等奖1项、中国建筑材料科技进步奖二等奖1项、享受国务院特殊津贴，入选浙江省&ldquo;151人才工程&rdquo;第一层次人员，获中国硅酸盐学会科技青年奖、霍英东教育基金会高校优秀青年教师奖、全国第三届建材行业高等学校优秀教材二等奖、国家教委科技进步(甲类)三等奖、浙江省优秀科技工作者。
+			
+				
+			工作研究领域
+			
+			先进陶瓷材料及器件,纳米材料制备、改性及应用,绿色建材及应用技术,溶胶-凝胶技术及应用
+			
+				
+			联系方式
+			
+			电话：0571-87951408			电子信箱：yanghui@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：杨辉
+		单位：材料科学与工程学系
+		职称：教授
+		我的主页共被访问了34772次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	专利成果
+	奖励荣誉
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

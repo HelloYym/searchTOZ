@@ -1,0 +1,219 @@
+
+
+
+
+
+牟颖-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0006049";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	牟颖
+牟颖的个人主页
+
+	永久链接:http://mypage.zju.edu.cn/muying&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			1997年于白求恩医科大学获得医学博士学位；2000年受聘于吉林大学分子酶学工程教育部重点实验室任副教授；2003年3月为新加坡国立大学访问教授；2004-2005年为加拿大多伦多大学访问学者；2004年被聘为吉林大学教授、2005年聘为吉林大学博士生导师；2006年被聘为浙江大学教授、博士生导师。现任仪器仪表学会医疗仪器分会理事，生物化学与分子生物学技术专家委员会委员，《生命科学仪器》杂志编委。现为生物化学与分子生物学专业博士生导师、检测技术与自动化装置专业跨学科博士生导师。
+目前科研工作重点：
+1.生命科学新仪器新技术：研制集成流路芯片数字PCR系统、荧光生物分子成像系统和生物分子相互作用分析系统（SPR传感器及SPR成像生物化学分析系统）等，对生物分子进行实时动态的检测，从而进行生物分子功能分析、疾病诊断及药效监控等。可以进行实时、高通量的生化分析，用来对天然的生物分子及其生化（特别是识别）行为进行静态的观察和动态的分析。主要应用于肿瘤等重大疾病的分子诊断。
+2.整合纳米生物技术：应用纳米技术合成多种荧光量子点及其编码微球、磁性微球等，用于体内生物分子实时示踪、分子成像等。
+
+
+			
+				
+			工作研究领域
+			
+			1.生命科学新技术、新仪器
+2.微流控芯片及系统
+3.生物传感器
+4.整合纳米生物分析
+5.转化医学
+
+			
+				
+			联系方式
+			
+			电话：88208383			电子信箱：muying@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：牟颖
+		单位：分析仪器研究中心
+		职称：教授
+		我的主页共被访问了10640次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+	出版著作
+	研究成果
+	专利成果
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

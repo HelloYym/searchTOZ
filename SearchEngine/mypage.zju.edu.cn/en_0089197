@@ -1,0 +1,244 @@
+
+
+
+
+
+YongrongYang-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0089197";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	YongrongYang
+
+
+	Permanentlink:http://mypage.zju.edu.cn/en/0089197&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			
+Yang,Yong-Rong
+Professor,DirectorofUNILABResearchCenterforChemicalReactionEngineering
+Tel&amp;Fax:+865717951227;
+Email:yryang@mail.hz.zj.cn
+B.S.inChemicalEngineeringZhejiangUniversity,1984
+M.S.inChemicalEngineeringZhejiangUniversity,1986
+Ph.D.inChemicalEngineeringZhejiangUniversity,1989
+ResearchandProfessionalInterests
+FluidizationEngineering
+&nbsp;&nbsp;Hydrodynamicsofturbulentfluidizedbedreactor
+&nbsp;&nbsp;Faultdiagnosisbysignalmeasurementandanalysis;
+OlefinsPolymerizationEngineering
+&nbsp;&nbsp;Designofflexiblepolymerizationprocesswithoptimalgradetransition;Intensificationofpolymerizationprocess
+&nbsp;&nbsp;Scaleupofgasphasefluidizedbedandslurrystirringreactor
+&nbsp;&nbsp;Polymerprocessingusingsupercriticalfluid
+AdvancedProcessIntegrationTechnology
+&nbsp;&nbsp;MathematicalmodelingofChem.ReactingSystems
+&nbsp;&nbsp;Mixed-integernon-linearprogramming
+&nbsp;&nbsp;Reuseofwastepolymerandprocessintegration
+&nbsp;&nbsp;Applicationofmembraneseparationandsynthesisofcleanproduction
+&nbsp;&nbsp;Biochemicalprocessanditsintegration
+
+Publications
+29.WeiLi,AlinaAdams,JingdaiWang,BernhardBluemich,YongrongYang,Polyethylene/palygorskitenanocomposites:Preparationbyinsitupolymerizationandtheircharacterization,Polymer,2010,51(21):4686-4697
+28.JingdaiWang,CongjingRen,YongrongYang,Characterizationofflowregimetransitionandparticlemotionusingacousticemissionmeasurementinagas-solidfluidizedbed,AIChEJournal,2010,56(5):1173-1183
+27.ZuweiLizo,GangRong,JingdaiWang,YongrongYang,Systematicoptimizationofheat-integratedwaterallocationnetworks,Ind.&amp;Eng.Chem.Res.,2011,50(14):6713-6727
+26.YefengZhou,KezengDong,HuangZhengliang,JingdaiWang,andYongrongYang,Faultdetectionbasedonacousticemission-earlyagglomerationrecognitionsysteminfluidizedbedreactor,Ind.&amp;Eng.Chem.Res.,2011,50(14):8476&ndash;8484
+25.CongjingRen,YueqiTang,JingdaiWang,andYongrongYang,Onlineestimationofcokeinacirculatingfluidizedbedonacousticemissionsensorsandmultivariatecalibration,Ind.&amp;Eng.Chem.Res.,2011,50(14):8420&ndash;8429
+24.ZuweiLiao,GangRong,JingdaiWang,YongrongYang,Rigorousalgorithmictargetingmethodsforhydrogennetworks&mdash;PartII:Systemswithonehydrogenpurificationunit,ChemicalEngineeringScience,2011,66:821-833
+23.ZuweiLiao,GangRong,JingdaiWang,YongrongYang,Rigorousalgorithmictargetingmethodsforhydrogennetworks&mdash;PartI:systemswithnohydrogenpurification,ChemicalEngineeringScience,2011,66:813-820
+22.JingdaiWang,XiaojingJiang,ChengwuLiu,YongrongYang,BinboJiang,Astudyofultrasonicradiationdissipationinpowderprocessingsystem,ChemicalEngineeringCommunications,2010,197(2):239-249
+21.XianboYu,WeiLi,YiXu,JingdaiWang,YongrongYang,NanXuandHaoqiWang,Effectofpolymergranulesizeontheelectrostaticbehavioringas-solidfluidizedbeds,Industrial&amp;EngineeringChemistryResearch,2010,49(1):132&ndash;139
+20.YijunHe,JingdaiWang,YijiaCao,YongrongYang,ResolutionofStructureCharacteristicsofAESignalsinMultiphaseFlowSystem&mdash;FromDatatoInformation,AIChEJournal,2009,55(10):2563-2577
+19.YijiaCao,JingdaiWang,YijunHe,WeiLiu,YongrongYang,Agglomerationdetectionbasedonattractorcomparisoninhorizontalstirredbedreactorsbyacousticemissionsensors,AIChEJournal,2009,55(12):3099-3108
+18．JingdaiWang,YijiaCao,XiaojingJiangandYongrongYang,AgglomerationdetectionbyAcousticEmission(AE)sensorsinfluidizedbed,Industrial&amp;EngineeringChemistryResearch,2009,48(7):3466&ndash;3473.
+17.JingdaiWang,WeiLi,BinboJiang,YongrongYang,Fe(acac)nandCo(acac)nbearingdifferentbis(imino)pyridineligandsforethylenepolymerizationandoligomerization,JournalofAppliedPolymerScience,2009,113(4):2378-2391
+16.JingdaiWang,CongjingRen,YongrongYangandLinxiHou,Characterizationofparticlefluidizationpatterninagassolidfluidizedbedbybasedonacousticemission(AE)measurement,Industrial&amp;EngineeringChemistryResearch,2009,48(18):8508&ndash;8514
+15.JingdaiWang,YiXu,WeiLi,YongrongYang*,FangWang,Electrostaticpotentialingas-solidfluidizedbedsinfluencedbytheinjectionofchargeinducingagents,JournalofElectrostatics,2009,67(5):815-826
+14．CongjingRen,XiaojingJiang,JingdaiWang,YongrongYang,andXiaohuanZhang,Determinationofcriticalspeedforcompletesolidsuspensionusingacousticemissionmethodbasedonmultiscaleanalysisinstirredtank,Industrial&amp;EngineeringChemistryResearch,2008,47(15):5323-5327.
+13.FangWang,JingdaiWangandYongrongYang,Distributionofelectrostaticpotentialinagas-solidfluidizedbedandmeasurementofbedlevel,Ind.Eng.Chem.Res.,2008,47(23):9517&ndash;9526
+12.ZuweiLiao,JingdaiWang,YongrongYang,lettertotheeditor:unifiedconceptualapproachtotargetinganddesignofwaterandhydrogennetworks,AIChEJournal,2007,53(7):1898-1899
+11.XiaoweiYan,JingdaiWang,YibinShan,YongrongYang,ChaoHe,Infinitedilutiondiffusioncoefficientsoforganicsolventsinnascentpolyethyleneparticlesbyinversegaschromatographymeasurements,E-POLYMERS,2007，014：1-16
+10．WenjuanYao,XiaopingHu,YongrongYang，ModelingtheSolubilityofTernaryMixturesofEthylene,iso-pentane,n-hexaneinSemicrystallinePolyethylene，JournalofAppliedPolymerScience,2007,104(6):3654-3662
+9．WenjuanYao,XiaopingHu,YongrongYang,Modelingsolubilityofgasesinsemicrystallinepolyethylene,JournalofAppliedPolymerScience,2007,103(3):1737-1744
+8.ZuweiLiao,JintaoWu,BinboJiang,JingdaiWangandYongrongYang,DesignMethodologyforFlexibleMultiplePlantWaterNetworks,Ind.Eng.Chem.Res.2007,46(14),4954-4963
+7.XiaojingJiang,JingdaiWang,BinboJiang,YongrongYangandLinxiHou,StudyofpowerspectrumofAcousticEmission(AE)byaccelerometersinfluidizedbeds,Ind.Eng.Chem.Res.2007,46(21):6904-6909
+6．SongChen,YongrongYang,KuixiZhangandJingdaiWang，BETAzeolitemadefrommesoporousmaterialanditshydrocrackingperformance,CatalysisToday,2006,116(1):2-5
+5．JingdaiWang,JizhongChenandYongrongYang,Micronizationoftitanocenedichloridebyrapidexpansionofsupercriticalsolutionanditsethylenepolymerization,TheJournalofSupercriticalFluids,2005,33:159&ndash;172
+4.JingdaiWang,JizhongChenandYongrongYang,Solubilityoftitanocenedichlorideinsupercriticalpropane,FluidPhaseEquilibria,2004,220(2):147-151
+3.GuibingZhaoandYongrongYangMulti-scaleResolutionofFluidized-BedPressureFluctuations,AIChEJ,2003,49(4):869-882
+2.YongrongYang,InstabilityAnalysisoftheFluidizedBedforEthylenePolymerizationwithCondensedModeOperation,Industrial&amp;EngineeringChemistryResearch,2002,41(10):2579-2584.
+1.GuibingZhao,JizhongChenandYongrongYang,StudyonPredictiveModelandDeterministicMechanismofPressureFluctuationsinaBubblingFluidizedBed,AIChEJ,2001,47(7):1524-1532.
+			
+				
+			Contact
+			
+			Phone:86-571-87951227
+			E-mail:yangyr@zju.edu.cn
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:YongrongYang
+		Units:UNILABResearchCenter
+		Title:Professor
+		Myhomepagehasbeenvisited381times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	
+
+
+Youarevisitor:381
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

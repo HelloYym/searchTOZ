@@ -1,0 +1,208 @@
+
+
+
+
+
+LoveJoyPeace-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0092415";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	LoveJoyPeace
+
+
+	永久链接:http://mypage.zju.edu.cn/0092415&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			分别于1986、1989和1997年在浙江大学工业自动化专业获学士、硕士和博士学位，1997年10月至1998年11月在美国俄亥俄州立大学(TheOhioStateUniversity)电机系从事有关个人机器人的合作研究。担任国际期刊《EngineeringLetters》的副编（AssociateEditor）。担任系统科学与控制研究所所长。承担863计划重点项目《助老/助残机器人概念样机》的子项目《智能搀扶机器人概念样机》（2006AA040202），承担着自动控制、企业信息化、智能电网、嵌入式系统等方面的课题，注重智能控制与智能系统的理论研究及其实际应用研究，与国际著名汽车公司合作开展汽车驾驶建模与优化控制方面的研究。
+			
+				
+			工作研究领域
+			
+			1、智能控制与智能系统
+2、智能机器人
+3、工业自动化
+4、汽车建模与优化控制（国际合作项目）
+			
+				
+			联系方式
+			
+			电话：0571-87953226			电子信箱：xupower@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：许力
+		单位：电气工程学院系统科学与工程学系
+		职称：教授
+		我的主页共被访问了14486次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	出版著作
+	奖励荣誉
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,259 @@
+
+
+
+
+
+汪小知-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0011002";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	汪小知
+浙江大学信电系微电子与光电子所
+
+	永久链接:http://mypage.zju.edu.cn/wangxiaozhi&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+汪小知博士副教授(博导)
+
+2009-2011&nbsp;麻省理工学院电气与计算机工程系微系统技术实验室助理研究员
+PostdoctoralAssociate,MicrosystemTechnologyLaboratory,DepartmentofElectricalEngineeringandComputerScience,MIT
+2004-2008剑桥大学&nbsp;工程系&nbsp;电子工程博士&nbsp;&nbsp;&nbsp;&nbsp;
+Ph.D.ElectricalEngineering,UniversityofCambridge&nbsp;&nbsp;
+2000-2004中南大学&nbsp;计算机科学&nbsp;学士
+Bachelor,&nbsp;ComputerScience,CentralSouthUniversity
+
+
+汪小知副教授，求是青年学者（博导）。博士和博士后期间研究方向为碳纳米管材料制备，及其在光电、液晶、离子源、真空电子器件和系统。目前在微光所千人计划JackLuo教授的研究团队。同时也担任浙江大学苏州工业技术研究院智能材料与微系统研究中心常务副主任。
+
+
+<spanstyle="font-size:12.0pt;font-family:华文细黑;
+mso-bidi-font-family:楷体;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;
+mso-bidi-language:AR-SA">作为负责人或参与人完成过英国EPSRC项目，AdvanceNanotech基金项目，欧盟基础科学研究项目，美国NSF和国防部DARPA项目。目前承担国家自然科学基金青年项目、博士点基金项目、浙江省公益应用项目、浙江省教育厅项目、江苏省工业支撑项目、江苏省国际合作项目等；承担AdvancedMaterials，AppliedOptics,OpticsExpress,OpticsLetters,OpticsCommunications,MicroelectronicsReliability等期刊审稿人。因为产业化方面的贡献，获得过昆山开发区创新创业人才奖和南京321创新创业人才奖励。
+
+<spanstyle="font-size:12.0pt;font-family:华文细黑;mso-bidi-font-family:
+&quot;TimesNewRoman&quot;;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;
+mso-bidi-language:AR-SA"/>
+目前的研究方向和成果请点击右边的栏目。回国后工作的新闻报道如下：
+
+在纸上直接制造高灵敏度的无线柔性传感器----信电系柔性电子器件研究取得新进展
+http://www.zju.edu.cn/c20968/content_2556775.html
+
+中国青年网
+http://news.youth.cn/kj/201507/t20150701_6812813.htm
+苏企研发出全球首批通用型危险品检测仪
+http://b2b.21csp.com.cn/c11/201310/2015971.html
+
+微光所目前拥有完备的超净间及微加工和器件测试设备，可以实现完整的MEMS/NEMS器件设计、加工和测试流程。同时在苏州的研究中心拥有600平方米化学分析设备和精密制造设备（3D打印机、CNC精密加工中心等），可以实现各类传感器设计、制造和测试的完整流程。
+
+
+
+
+我喜欢兼具科学意义和应用价值并且&ldquo;有意思&rdquo;的研究：只要能满足我的好奇心，不限领域。我本人的专业和研究横跨计算机、电子、材料物理、分析化学和生物医疗，也尤其欣赏思路活跃、视野开阔的学生。因此我的工作既能连续发表三篇nature子刊（ScientificReports），也能涵盖物理(APL），纳米（Nanoscale），仪器（J.ofMassSpec.），食品（FoodChemistry），化学（AnalyticalMethods），还能造就经公安部检测认证的首台通用爆炸物检测仪产品。
+
+
+我的课题小组非常欢迎包括物理、材料、电子/电气/通信、化学（分析）、生物医学、化工环境的本科生或硕士生报考硕士或博士研究生。课题组所有的硕博连读和博士研究生都鼓励第3年或第4年赴欧美名校交流1到2年。
+
+
+同时也非常欢迎上述各个专业的本科生参与研究工作，我也非常愿意帮助优秀的本科学生提炼课题，撰写论文或者推荐出国就读英美顶级名校。我从2013年开始吸收本科生加入实验室，他们经过推荐的去处有，2014：哥伦比亚大学和香港科技大学，2015：帝国理工、UCL和UCSD。
+
+
+我在海外学习工作的剑桥和MIT，都是高科技创业氛围浓厚的高校。我也曾帮助导师一起创业，曾经创立的科学仪器公司后被成功收购(http://nanotechwire.com/news.asp?nid=5126)。因此，如果你有好的点子，我愿意帮助你完成商业计划；我对物理层面上的创新产品非常感兴趣（穿戴式传感器和柔性电子系统、智能医疗设备、新型材料器件等），若你的想法能够打动我，我可以利用相关实验室的智力和设备资源帮你实现梦想，甚至包括帮助你获得各类政府资助、天使投资和风险投资。
+
+
+
+我理解大部分进入电子领域的同学，包括博士后，在完成学业后都不会从事学术科研，因此工作研究项目与实际就业的关系至关重要。与完全偏基础材料研究（如石墨烯）不同，我们小组的研究项目和我的研究兴趣都是从明确的应用前景出发的，我希望学生们不仅可以习得解决实际问题的方法，还可以掌握几种有实际应用价值的工具（如电路设计、结构设计、仿真模拟等）。我为组里成员设计的未来出口包括但不限于学术研究、微电子行业、MEMS设计制造行业、各类高端传感器及科学仪器行业，互联网及物联网硬件行业，医疗仪器和器械行业等。我也很愿意在你进入浙大时就一起制订未来的职业路线并为之努力。真诚欢迎有兴趣的同学加我的微信：
+
+
+			
+				
+			工作研究领域
+			
+			穿戴式传感器；消费级个人医疗仪器；基于MEMS的色谱、离子迁移谱与质谱分析器；柔性机械传感器与人工皮肤；超强场非对称离子迁移谱技术（FAIMS）；基于MEMS便携分析仪器的快速痕量检测方法开发；大气压化学电离源（APCI）；新型电子源；碳纳米管和纳米线结构和器件设计和制造；碳纳米管材料的制备，生长机理；真空电子器件。
+			
+				
+			联系方式
+			
+			电话：186O65256O6(微信/wechat)			电子信箱：xw224@zju.edu.cn(去掉空格)			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：汪小知
+		单位：信息与电子工程学系
+		职称：副教授
+		我的主页共被访问了22774次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	研究成果
+	实验室介绍
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

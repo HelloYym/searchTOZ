@@ -1,0 +1,246 @@
+
+
+
+
+
+主要研究领域-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0087479";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	主要研究领域
+
+
+	永久链接:http://mypage.zju.edu.cn/hxj&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			信息管理学学士，社会医学与卫生事业管理硕士，公共管理学博士；现为浙江大学医学院教授，博士生导师，中华医学会医学信息学分会委员，国际科学计量学与信息计量学学会终身会员，《科学与管理》杂志编委。
+&nbsp;&nbsp;致力于改革我国高等教育体系中信息能力教育薄弱的状况，在国内率先采用全球医学教育标准(GMER)和美国高等医学教育学会&quot;未来医生的科学能力&quot;的信息能力标准，提出了面向学生科学能力提升的生物医学信息整合教学体系,出版了国内第一本《生物医学信息学》教材。改革成果作为医学院教学改革创新点之一，获浙江省高等教育教学成果一等奖。
+&nbsp;&nbsp;&nbsp;在科学研究方面，主要从事生物医学信息处理和科学计量学的交叉研究，是国内最早提出学科分类评价思想的学者之一，并推进了学术评价政策在管理实施中的合理化进程。主持国家自然科学基金等多项，在国际上原创性地提出了系列基于结构算法的引用代结构分型、引用三代影响力算法、引用网络结构指标、专利结构指标等16个科学计量新测度及其理论算法，以第一和通讯作者在SSCI收录的科学计量学和信息计量学权威期刊上发表了17篇高水平论文（总IF73.458,被引95次），以软科学研究成果获得了浙江省科技进步二等奖（排名：2/2）。此外，在国际上率先应用网络医学理念对神经系统疾病进行大规模分子关联网络研究，研究结果为基础与临床研究的结合提供了新思路。
+
+欢迎有信息学背景和有志于学科交叉研究的考生报考硕士和博士（招生学科：社会医学与卫生事业管理）
+
+
+近年主要研究成果
+&nbsp;
+（1）代表性论文
+&nbsp;1)HuXJ*,RousseauR.&nbsp;Asimpleapproachtodescribeacompany&rsquo;sinnovativeactivitiesandtheirtechnologicalbreadth.&nbsp;Scientometrics,&nbsp;2015,102(1)&nbsp;:1401-1411.(SCI/SSCIcitedjournal,IF:2.274);
+&nbsp;2)HuXJ,RousseauR*.&nbsp;Fromawordtoaworld:thecurrentsituationintheinterdisciplinaryfieldofsyntheticbiology.&nbsp;PeerJ,2015,3:e728;DOI10.7717/peerj.728.(SCIcitedjournal);
+&nbsp;3)HuXJ,RousseauR*.&nbsp;DescribingtheDevelopmentofMolecularResearchintheContextofNervousSystemDiseasesusingYear-basedh-Cores.&nbsp;&nbsp;JournalofInformationScience,2014,41(1):107-114.(SCI/SSCIcitedjournal,IF:1.087);
+&nbsp;4)RousseauR,HuXJ*.&nbsp;Twotimeseries,theirmeaningandsomeapplications.&nbsp;JournalofInformetrics,2013,7(2):603-610.(SSCIcitedjournal,IF:3.580);
+&nbsp;5)HuXJ*,ZhaoDJ,StrotmannA.&nbsp;MappingMolecularAssociationNetworksofNervousSystemDiseasesviaLarge-ScaleAnalysisofPublishedResearch.PLoSONE,2013,8(6):e67121.doi:10.1371/journal.pone.0067121.(SCIcitedjournal,IF:3.354);
+&nbsp;6)HuXJ*,RousseauR.&nbsp;AreChinesenanosciencecitationcurvesconvergingtowardstheirAmericancounterparts?&nbsp;MalaysianJournalofLibrary&amp;InformationScience,2013,18(3):49-56.(SSCIcitedjournal,IF:0.333);
+&nbsp;7)HuXJ*,RousseauR,ChenJ.&nbsp;ANewApproachforMeasuringtheValueofPatentsbasedonStructuralIndicatorsforEgoPatentCitationNetworks.JournaloftheAmericanSocietyforInformationScienceandTechnolog,2012,63(9):1834-1842.(SCI/SSCIcitedjournal,IF:2.230);
+&nbsp;8)HuXJ,RousseauR*,ChenJ.Structuralindicatorsincitationnetworks.Scientometrics,2012,91:451-460.(SCI/SSCIcitedjournal,IF:2.274);
+&nbsp;9)RousseauR*,HuXJ.&nbsp;Metrics:afetishforhigh-profilejournals(letter).&nbsp;Nature,2012,490,343(doi:10.1038/490343.(SCIcitedjournal,IF:42.351);
+&nbsp;10)HuXJ,RousseauR,ChenJ*.&nbsp;Onthedefinitionofforwardandbackwardcitationgenerations.&nbsp;JournalofInformetrics,2011,5(1):27-36.(SSCIcitedjournal,IF:3.580);
+&nbsp;11)HuXJ,RousseauR,ChenJ*.Timeseriesofoutgrowindices.JournalofInformetrics,2011,5(2):413-421.(SSCIcitedjournal,IF:3.580);
+&nbsp;12)HuXJ*,RousseauR,ChenJ.&nbsp;Inthosefieldswheremultipleauthorshipistherule,theh-indexshouldbesupplementedbyrole-basedh-indices.JournalofInformationScience,2010,36(1):73-85.&nbsp;(SCI/SSCIcitedjournal,IF:1.087).
+&nbsp;13)HuXJ,RousseauR*.(2009).&nbsp;AcomparativestudyofthedifferenceinresearchperformanceinbiomedicalfieldsamongselectedWesternandAsiancountries.&nbsp;Scientometrics,81(2):475-491.(SCI/SSCIcitedjournal,IF:2.274);
+&nbsp;14)HuXJ*.(2009).Loadsofspecialauthorshipfunctions:lineargrowthinthepercentageof&lsquo;equalfirstauthors&rsquo;andcorrespondingauthors.JournaloftheAmericanSocietyforInformationScienceandTechnology,2009,60(11):2378-2381.(SCI/SSCIcitedjournal,IF:2.230);
+&nbsp;15）HuXJ,RousseauR*（2013）.&nbsp;Meetingabstracts:awasteofspace?Currentscience,&nbsp;105（2）：151.（SCIcitedjournal,IF:0.905)
+&nbsp;16)HuXJ*.(2007).RelativeSuperiorityCoefficientofPapers:ANewDimensionforInstitutionalResearchPerformanceinDifferentFields.Scientometrics,72(3):389-402.(SCI/SSCIcitedjournal,IF:2.274);
+&nbsp;17)胡小君,陈劲.基于专利结构化数据的专利价值评估指标研究.&nbsp;科学学研究，2014,32（3）：343&ndash;351.&nbsp;
+
+&nbsp;&nbsp;（2）代表性奖励
+&nbsp;陈劲、胡小君.&nbsp;基于代结构算法的研究评价研究，浙江省人民政府，浙江省科学技术奖，二等奖，2011（证书号：1102075-1）.&nbsp;&nbsp;
+
+&nbsp;&nbsp;（3）代表性科研项目
+&nbsp;1）基于专利子网结构指标的科学计量方法研究（国家自然科学基金项目，项目编号：71173185,2012.01-2015.12,
+&nbsp;主持）,40万
+&nbsp;2）面向长学制医学生的生物医学信息课程的设立与建设。RWSK14-1，3.8万。200707-201012
+&nbsp;3）浙江省干细胞研究领域国际合作现状及其影响力研究。浙江省科协。2万，&nbsp;&nbsp;2012.5-2012.12&nbsp;
+&nbsp;
+&nbsp;
+			
+				
+			工作研究领域
+			
+			从事科学计量学与生物医学信息学的交叉医学，研究方向主要为医药大数据管理、医学交叉前沿与决策支持、网络医学与生物医学信息管理。
+
+			
+				
+			联系方式
+			
+			电话：88208085			电子信箱：xjhu@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：胡小君
+		单位：浙江大学医学院
+		职称：教授
+		我的主页共被访问了5446次
+标签：科学计量学研究评价医药大数据管理医学交叉前沿与决策支持网络医学	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	奖励荣誉
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,208 @@
+
+
+
+
+
+刘徽-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0007670";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	刘徽
+
+
+	永久链接:http://mypage.zju.edu.cn/liuhui&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+对于我来说，最庆幸的事莫过于我的工作与生活是重叠的，两者合而为一，创作的热情也是生活的热情，不断地创作，不断地拓宽生活的界限，不断地点燃生命之光，因为心中常涌动着生命的热情和力量，岁月在身后碾出了深深的痕迹。
+&nbsp;
+&nbsp;
+刘徽：女，浙江嘉兴人，1978年生，教育学博士，浙江大学课程与教学研究所讲师，主要从事课堂教学变革、课程理论与课程史研究。出版专著《教学机智论》、《改变教学的36部教学名著》、《改进数学课堂》、《向林肯学当校长》。《现代教学》&ldquo;品读精粹&rdquo;专栏作者，目前已连载七十余篇。在《教育研究》、《课程&middot;教材&middot;教法》《社会科学战线》、《高等教育研究》、《比较教育研究》、《全球教育展望》等核心杂志发表文章二十余篇，其中多篇被人大复印资料《教育学》、《中小学教育》转载。获中国博士后第二批特别资助，主持国家青年课题&ldquo;中小学课堂教学机智的生成策略研究&rdquo;、浙江省哲社重点课题&ldquo;概念的寻绎：中国当代课程研究的历史回顾（1978&mdash;&mdash;2008）&rdquo;，主讲国家精品课程&ldquo;教学理论与设计&rdquo;、&ldquo;课堂教学案例研究&rdquo;和&ldquo;课程设计的理论与实践&rdquo;等等。
+&nbsp;
+			
+				
+			工作研究领域
+			
+			课堂教学变革、课程设计的理论与实践和课程理论与课程史研究
+			
+					
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：刘徽
+		单位：教育学院课程与教学研究所
+		职称：副教授
+		我的主页共被访问了5497次
+标签：课堂教学变革、课程理论与课程史	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	出版著作
+	发表论文
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

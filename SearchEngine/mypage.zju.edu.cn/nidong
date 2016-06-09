@@ -1,0 +1,203 @@
+
+
+
+
+
+倪东-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0014045";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	倪东
+
+
+	永久链接:http://mypage.zju.edu.cn/nidong&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			倪东，祖籍山东文登，出生于浙江省杭州市。2001年于浙江大学控制科学与工程学系本科毕业获得学士学位，2005年于美国加州大学洛杉矶分校（UCLA）化学与分子生物工程学系获得博士学位，同年进入美国英特尔公司逻辑电路研发中心任高级工程师，并于2012年晋升为主任工程师。2013年入选中组部&ldquo;千人计划&rdquo;青年项目，同年底回国加入中国科学院自动化研究所担任研究员。2014年作为浙江大学首批&ldquo;百人计划&rdquo;人才回到母校任教。在英特尔工作期间，先后参与了世界首批应变硅、高K金属栅、3D鳍式极大规模逻辑集成电路工艺的开发与量产化工作，作为美方外派专家曾获英特尔中国奖。在自动控制领域的一流国际期刊和国际会议发表多篇SCI/EI论文，曾作为首位华人及最年轻的第一作者获得美国自动控制学会(AACC)最佳论文奖(O.HugoSchuckAward)。
+			
+				
+			工作研究领域
+			
+			纳米制造、控制与优化、故障诊断
+			
+				
+			联系方式
+			
+						电子信箱：dni@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：倪东
+		单位：控制科学与工程学系
+		职称：
+		我的主页共被访问了1083次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

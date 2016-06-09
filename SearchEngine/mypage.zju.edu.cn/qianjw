@@ -1,0 +1,220 @@
+
+
+
+
+
+前途无量-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0072046";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	前途无量
+polymerphysics
+
+	永久链接:http://mypage.zju.edu.cn/qianjw&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+
+钱锦文教授，博士生导师，1946年生，浙江海宁人。1970年毕业于浙江大学化学系，留校，先后在化学系和高分子系任教。1987～1989年和1996年分别在加拿大Waterloo大学化学系和香港中文大学化学系作访问学者。现任中国化学会高分子表征专业委员会委员。长期从事高分子物理和高分子溶液的基础应用研究。曾提出了求祘高分子特性粘数的新的一点法方程，被本科生教材《高分子实验技术》复旦大学出版社,1996年第二版引用；建立了适用浓度范围宽，无待测参数及形式简单的高分子链尺寸溶液浓度定量关系新模型，成功用于预测高分子溶液的热力学和流体力学性质,被研究生教材《高分子物理近代分析方法》武汉大学出版社,2006年第二版引用；同时，还创建了从非Theta实验条件下直接获取Theta状态时高分子特性粘数的新方法等。
+&nbsp;&nbsp;目前致力于将高分子溶液理论应用于渗透汽化膜的研制。特别就膜的分离性能与铸膜稀溶液分子参数之间的内在联系、聚电解质自组装膜的组装量与溶液浓度的非线性关系及其与链尺寸呈负相关现象等方面作了深入研究。还参与《高分子辞典》、《高分子膜材料》等3部专著的编写。近年来，主持国家自然科学基金5项，负责国家自然科学重奌基金分课题2项和&ldquo;973&rdquo;三级子课题1项。在Macromolecules、Langmuir、J.Membr.Sci.、J.Polym.Sci.PartA等国内外著名期刊发表学术论文100余篇，其中被SCI、EI收录论文80余篇，被SCI他引210余次，授权发明专利6项。曾获国家发明三等奖1项，教育部科技进步三等奖1项，浙江省科技进步四等奖1项，浙江教委科技进步二等奖1项，杭州市科技进步三等奖1项。
+
+
+&nbsp;
+			
+				
+			工作研究领域
+			
+			目前研究领域
+①高分子溶液基础问题的研究；
+②功能高分子溶液结构-形态、性质及溶液应用功效的研究（驱油剂、增稠剂、絮凝剂、减阻剂等）
+③功能高分子溶液结构-本体形貌结构及应用功能的研究（渗透汽化膜、聚电解质自组装和络合物分离膜）。
+
+			
+				
+			联系方式
+			
+			电话：86-571-87953780			电子信箱：qianjw@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：钱锦文
+		单位：高分子科学与工程学系
+		职称：教授
+		我的主页共被访问了18216次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	研究成果
+	专利成果
+	奖励荣誉
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

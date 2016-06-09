@@ -1,0 +1,209 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0087434";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0087434&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			谢幸，男，1955年7月生，主任医师，教授，院长，博士生导师。1983年毕业于浙江大学医学院（原浙江医科大学）。曾先后留学德国、美国等国。现任浙江大学医学院附属妇产科医院院长、浙江大学医学院附属妇产科医院女性生殖与健康重点实验室主任、浙江省重点学科&mdash;&mdash;妇产科学学科带头人。一直从事妇产科临床、科研及教学工作，主要方向为妇科肿瘤临床与基础研究；主持或参加国家自然科学基金等国家、省部级项目数10项；获省部级科技进步奖4项；近年在国内外各类期刊发表论著100余篇，其中SCI源期刊论文20余篇，相关学术论文多次被国内外学者在重要学术期刊引用。分别担任卫生部规划教材五年制《妇产科学》第六版副主编、卫生部规划教材七年制及长学制《妇产科学》编委和卫生部专升本《妇产科学》主编。先后共培养博士后1名、博士10余名和硕士30余名。
+			
+				
+			工作研究领域
+			
+			1.卵巢癌与腹腔免疫缺陷及其机制
+2.宫颈癌发生的免疫学和分子遗传学机制
+3.妊娠滋养细胞疾病发病的分子遗传学机制
+			
+				
+			联系方式
+			
+			电话：0571-87061501			电子信箱：xiex@mail.hz.zj.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：谢幸
+		单位：临床医学二系
+		职称：教授
+		我的主页共被访问了4941次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	研究成果
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

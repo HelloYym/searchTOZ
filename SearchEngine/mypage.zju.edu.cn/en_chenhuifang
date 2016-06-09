@@ -1,0 +1,231 @@
+
+
+
+
+
+AudreyCHEN'shomepage-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0000124";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	AudreyCHEN'shomepage
+
+
+	Permanentlink:http://mypage.zju.edu.cn/en/chenhuifang&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			Blog
+
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			HUIFANGCHEN
+InstituteofInformation&amp;CommunicationEngineering
+Department&nbsp;ofInformationScience&amp;ElectronicEngineering
+ZhejiangUniversity(YuquanCampus)
+&nbsp;
+Room217,XindianBuilding
+No.38,ZhedaRoad,Hangzhou310027,P.R.China
+Tel:+86-571-8795-1820ext.217
+Fax:+86-571-8795-1687
+Email:chenhf@zju.edu.cn
+&nbsp;
+ResearchInterests:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wirelessnetworks,Underwateracousticnetworks,Securityissuesinnetworks
+&nbsp;
+SelectedPublications:
+
+HuifangChen*,LeiXie,&ldquo;ImprovedSelf-healingGroupKeyDistributionSchemeswithUsingOne-wayHashChainsandRevocationPolynomialsforResource-constrainedWirelessNetworks&rdquo;,Sensors,Vol.14,Issue12,pp.24358-24380,Dec.2014.
+HuifangChen*,LeiXie,XiongNi,&ldquo;Reputation-basedHierarchicallyCooperativeSpectrumSensingSchemeinCognitiveRadioNetworks&rdquo;,ChinaCommunications,vol.11,no.1,pp.15-38,Jan.2014.
+HuifangChen,GuangyuFan,LeiXie*,Jun-HongCui,&ldquo;AHybridPath-orientedCodeAssignmentCDMA-basedMACProtocolforUnderwaterAcousticSensorNetworks&rdquo;,Sensors,vol.13,no.11,pp.15006-15025,Nov.2013.
+QiuhuaWang,HuifangChen*,LeiXie,KuangWang,&ldquo;One-wayHashChain-basedSelf-healingGroupKeyDistributionSchemewithCollusionResistanceCapabilityinWirelessSensorNetworks&rdquo;,AdHocNetworks,vol.11,no.8,pp.2500-2511,2013.
+HuifangChen,MingZhou,LeiXie*,XuJin,&ldquo;Fault-tolerantCooperativeSpectrumSensingSchemeforCognitiveRadioNetworks&rdquo;,WirelessPersonalCommunications,vol.71,Issue4,pp.2379-2397,July2013.
+GuangyuFan,HuifangChen*,LeiXie,KuangWang,&ldquo;AHybridReservation-basedMACProtocolforUnderwaterAcousticNetworks&rdquo;,AdHocNetworks,vol.11,Issue3,pp.1178-1192,May2013.
+XiaoHan,HuifangChen*,LeiXie,KuangWang,&ldquo;ResourceAllocationSchemesfortheHeterogeneousOFDMASystemwithMultipleAdHocRelays&rdquo;,WirelessPersonalCommunications,vol.69,Issue1,pp.487-508,Mar.2013.
+QiuhuaWang,HuifangChen*,LeiXie,KuangWang,&ldquo;Access-polynomial-basedSelf-healingGroupKeyDistributionSchemeforResource-constrainedWirelessNetworks&rdquo;,SecurityandCommunicationNetworks,vol.5,no.12,pp.1363-1374,Dec.2012.
+QiuhuaWang,HuifangChen*,LeiXie,KuangWang,&ldquo;Long-livedSelf-healingKeyDistributionSchemeinWirelessSensorNetworks&rdquo;,JournalofNetworks,vol.7,no.7,pp.1024-1030,July2012.
+GuangyuFan,HuifangChen*,LeiXie,KuangWang,&ldquo;FunnelingMACProtocolforUnderwaterAcousticSensorNetworks&rdquo;,JournalofZhejiangUniversity(ScienceC),12(10),Oct.2011.
+JinanLeng,LeiXie*,HuifangChen,KuangWang,&ldquo;ANovel3780-FFTProcessorSchemefortheTDS-OFDMSystem&rdquo;,JournalofZhejiangUniversity(ScienceC),12(12):1021-1030,Dec.2011.
+XiaomaoMao,HuifangChen,PeiliangQiu,ZhaoyangZhang,&ldquo;Energy-efficientSchedulingforMultipleAccessinWirelessSensorNetworks:AJobSchedulingMethod&rdquo;,ComputerNetworks,28(3):2137-2146,2010.
+ZhengWang,HuifangChen*,LeiXie,KuangWang,&ldquo;RetransmissionintheNetwork-Coding-BasedPacketNetworks&rdquo;,JournalofZhejiangUniversity(ScienceC),11(7):544-554,July2010.
+YingWang,LeiXie,HuifangChen*,KuangWang,&ldquo;ImprovedDecodingAlgorithmofBit-InterleavedCodedModulationforLDPCCode&rdquo;,IEEETransactionsonBroadcasting,56(1):103-109,Mar.2010.
+HuifangChen*,XuJin,LeiXie,&ldquo;Reputation-basedLinearCooperationforSpectrumSensinginCognitiveRadioNetworks&rdquo;,JournalofZhejiangUniversity(ScienceA),10(12):1588-1595,Dec.2009.
+HuifangChen*,HiroshiMineno,Tadanori.Mizuno,&ldquo;AdaptiveDataAggregationSchemeinClusteredWirelessSensorNetworks&rdquo;,ComputerCommunications,vol.31,pp.3579-3585,2008.
+YoshitsuguObashi,HuifangChen*,HiroshiMineno,TadanoriMizuno,&ldquo;AnEnergy-EfficientRoutingSchemewithNodeRelayWillingnessinWirelessSensorNetworks&rdquo;,InternationalJournalofInnovativeComputing,InformationandControl(IJICIC),vol.3,no.3,pp.1-10,June2007.
+
+			
+				
+			Researchwork
+			
+			Wirelessnetworks,Underwateracousticnetworks,Securityissueinwirelessnetworks
+			
+				
+			Contact
+			
+			Phone:+8657187951820ext.217
+			E-mail:chenhf@zju.edu.cn
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:HuifangCHEN
+		Units:ISEE
+		Title:AssociateProfessor
+		Myhomepagehasbeenvisited1800times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	
+
+
+Youarevisitor:1800
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

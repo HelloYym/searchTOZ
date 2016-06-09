@@ -1,0 +1,205 @@
+
+
+
+
+
+mzr-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0095473";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	mzr
+
+
+	永久链接:http://mypage.zju.edu.cn/mzr&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+&nbsp;
+毛峥嵘:医学博士,副教授，硕士生导师。主要从事肿瘤发病的分子机制和分子诊断研究。近五年来主持及参加国家和省自然科学基金等项目10余项，发表论文20余篇。有关难治性淋巴瘤Richter综合症的系列研究成果参加第13届欧洲血液病理学年会交流（2006，Vienna）并连续两年全国病理年会上大会报告，论文发表于病理界权威杂志（AmJSurgPathol，2007,IF=4.181），和Hematologic（2008,IF=5.516），至今已被引用30余次，并被世界卫生组织2008版《WHOClassificationofTumoursofHaematopoieticandLymphoidTissues,4thEdition》引用。目前后续工作得到国家自然科学基金(30770918，81071937)，浙江省自然科学基金(Y205292)、浙江省钱江人才计划项目（2010R10064）、教育部留学回国人员科研启动基金及浙江省人事厅留学人员科技活动项目等资助。
+&nbsp;
+			
+				
+			工作研究领域
+			
+			肿瘤发病机制和分子病理诊断
+			
+				
+			联系方式
+			
+						电子信箱：maozr@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：毛峥嵘
+		单位：浙江大学
+		职称：副教授
+		我的主页共被访问了140次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

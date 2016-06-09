@@ -1,0 +1,208 @@
+
+
+
+
+
+个人基本信息-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0095098";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	个人基本信息
+
+
+	永久链接:http://mypage.zju.edu.cn/0095098&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			潘一禾，1959年4月出生于浙江省杭州市。现为浙江大学传媒与国际文化学院教授、博士生导师。浙江大学社会思想研究所所长。1987年获（原）杭州大学“世界文学”专业硕士。1992年获美国纽约市圣&#8226;约翰大学“亚洲研究”专业硕士。已出版《故事与意义：现代西方文学名著品评》、《超越文化差异：跨文化交流的案例与探讨》、《生活世界中的民主》、《文化安全》、《西方文学中的跨文化交流》、《文化与国际关系》、《西方文学中的政治》、《阅读经典：世界文化名著阐释》、《观念与体制：政治文化的比较研究》，《故事与解释：世界文学名著通论》、《裸体的诱惑：论文学中的性与情》等个人学术专著。已在国内各级刊物发表论文数十篇。参与翻译学术著作和外国小说若干。已独立完成和参与完成国家级、省级科研项目多项。著作曾获浙江省政府哲学社会科学优秀成果二、三等奖、浙江省教育厅哲学社会科学优秀成果二等奖，以及浙江大学董氏文史哲优秀成果二等奖多项等。曾赴美国、意大利、澳大利亚、新西兰等国进行学术交流。
+任教的《西方文学经典》获浙江大学首届（2002）“精品课程”、2009首届“荣誉课程”，《世界文化名著导读》2003年获浙江大学“重点课程”。《文学中的跨文化交流》获浙江大学首届（2010）“通识核心课程”。
+曾荣获浙江大学“金庸人文基金”首届（1997）年度奖教金，浙江大学1998年度“华为优秀教师”奖，2003年度浙江大学竺可桢学院“最佳任课教师”，2005年度浙江大学“先进工作者”，2005-2006年度浙江大学“事业与家庭兼顾型”先进个人，2010年浙江大学第五届教书育人先进个人，2011年获浙江大学2011年度优质教学奖一等奖（全校十名），2011年“浙江省第二届师德先进个人”荣誉称号，2012年首届浙江省“高校优秀教师”奖（省政府奖，浙江大学八名），2013年度的宝钢教学奖。2014年获浙江大学教学“心平奖”提名奖。
+			
+				
+			工作研究领域
+			
+			1、政治与美学
+2、比较文化与世界文学
+3、跨文化交流
+4、政治小说研究
+
+			
+				
+			联系方式
+			
+						电子信箱：panyihe@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：潘一禾
+		单位：传媒与国际文化学院国际文化学系
+		职称：教授、博导
+		我的主页共被访问了6260次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,214 @@
+
+
+
+
+
+何宏建-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0011621";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	何宏建
+浙江大学脑影像科学技术中心/生物医学工程与仪器科学学院
+
+	永久链接:http://mypage.zju.edu.cn/hhe&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			博士，九三学社社员。
+2005年浙江大学物理系本科毕业，获理学学士学位。同年保送在浙江大学物理系凝聚态物理所直接攻读博士学位（导师唐孝威），开始从事脑功能成像相关研究。2008.10~2010.3年期间，至加州大学圣地亚哥分校(UCSD)功能磁共振成像中心进行18个月的访问,深入学习功能磁共振成像定量研究的相关技术（导师ThomasT.Liu)。2010年底博士研究生毕业。2011年获浙江大学物理学博士学位（导师唐孝威）。同期进入浙江大学光电信息工程学系从事博士后工作(合作导师刘华锋)。2013年初博士后出站,随后加入浙江大学生仪学院脑影像科学技术中心，现在钟健晖教授课题组任讲师。
+主要应用多模态融合的脑成像技术开展脑功能信号分析和建模方向的研究。研究中涉及采用BOLD、DTI、ASL等磁共振成像技术，和EEG等大脑电活动检测技术。研究主要目的是从大脑网络的结构和功能层面理解大脑功能的神经生理加工机制，并为脑功能成像技术在面向个体应用的临床脑疾病和认知实践等具体问题中提供理论和方法学的支持。已有的研究成果发表于《Neuroimage》、《BrainResearch》和《生物物理学报》等杂志以及ISMRM、OHBM、ISBI等重要国际会议上。
+			
+				
+			工作研究领域
+			
+			磁共振成像，脑功能成像：fMRI,DTI,andEEG
+
+			
+				
+			联系方式
+			
+						电子信箱：hhezju(AT)zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：何宏建
+		单位：生物医学工程与仪器科学学院
+		职称：讲师
+		我的主页共被访问了4974次
+标签：脑成像，磁共振成像，脑功能成像，九三学社	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	浙大生仪学院
+脑影像科学技术中心
+ISMRM
+浙大e校园
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,241 @@
+
+
+
+
+
+文福拴教授的个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0091206";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	文福拴教授的个人主页
+欢迎！
+
+	永久链接:http://mypage.zju.edu.cn/0091206&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;长期从事电力系统和电力经济与电力市场方面的研究工作。发表学术论文300余篇,其中SCI收录论文70余篇,EI收录论文260余篇。发表的论文被国内外他人引用2000余次。合著中英文著作六部。获得1997年度国家自然科学奖三等奖，1998年教育部科学进步奖二等奖，2003年度教育部提名国家科技成果奖自然科学奖二等奖，2003年度浙江省科技进步奖二等奖，2005年度浙江省科技进步奖二等奖，2010年度浙江省科技进步奖三等奖。1997年入选国家百千万人才工程第一二层次,2004年入选首届教育部新世纪优秀人才培养计划,2004-2009年任珠江学者特聘教授。曾获得国务院政府特殊津贴。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;作为项目负责人完成3项国家自然科学基金项目，2项教育部博士点基金项目，3项国家电力监管委员会科研项目，1项浙江省青年科技人才基金项目。承担国家科技支撑计划项目和973项目子课题。此外，还负责完成与承担了国家电网公司、南方电网公司、广东省粤电集团公司、广东核电集团公司和国际铜业协会等50余个横向科研项目。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;担任《电力系统自动化》等国内外10余本学术期刊的亚洲区主编、编委或专题特约主编。
+
+&nbsp;
+学历:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&middot;1985年7月：在天津大学电力及自动化系获得学士学位。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&middot;1988年6月：在天津大学电力及自动化系获得硕士学位。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&middot;1991年6月：在浙江大学电机系获得博士学位。
+&nbsp;
+工作经历:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&middot;1991年9月至1993年11月：浙江大学电机系博士后研究人员。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&middot;1993年12月至1997年4月：浙江大学电机系副教授。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&middot;1994年1月至1995年2月：浙江大学电力系统自动化研究所副所长。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&middot;1997年5月至今：浙江大学电气工程学院教授。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&middot;1998年6月至今：浙江大学电气工程学院博士生导师。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&middot;1999年1月至今：浙江大学电力经济与信息化研究所所长。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&middot;2010年10月至今：浙江大学-网新智能电网联合研究中心主任。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&middot;[2004年7月－2010年6月兼任华南理工大学广东省&quot;珠江学者&quot;特聘教授,博士生导师；华南理工大学电力经济与电力市场研究所所长；华南理工大学电力学院副院长（主管科研和实验室工作）]
+&nbsp;
+访问经历:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&middot;1995年－1997年：新加坡国立大学电机系博士后研究员、研究员。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&middot;1999年－2000年：香港理工大学电机系研究员。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&middot;2001年－2004年：香港大学电机电子工程系访问教授。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&middot;2005年9月－11月：香港理工大学电机系访问研究员。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&middot;2007年1月－2月：澳大利亚昆士兰大学电机系访问研究员。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&middot;2007年6月－7月：香港理工大学电机系访问教授。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&middot;2008年7月－2009年6月：澳大利亚新南威尔士大学商学院澳大利亚国家基金会高级研究员。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&middot;2009年7月：澳大利亚昆士兰科技大学访问研究员。
+&nbsp;
+
+主要研究领域:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1．电力系统警报处理、故障诊断与系统恢复；
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2．电力系统投资、规划与运行优化；
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3．电力经济与电力市场；
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4．智能电网与电动汽车。
+
+&nbsp;
+			
+				
+			联系方式
+			
+						电子信箱：fushuan.wen@gmail.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：文福拴
+		单位：电气工程学院电机工程学系
+		职称：教授
+		我的主页共被访问了31525次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+	出版著作
+	研究成果
+	奖励荣誉
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

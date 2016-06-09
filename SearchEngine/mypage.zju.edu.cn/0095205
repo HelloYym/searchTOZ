@@ -1,0 +1,253 @@
+
+
+
+
+
+陈纪忠-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0095205";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	陈纪忠
+我的过去
+
+	永久链接:http://mypage.zju.edu.cn/0095205&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			陈纪忠&nbsp;&nbsp;博士&nbsp;&nbsp;
+教授，博士生导师
+浙江大学化学工程和生物工程学系
+电话：+86-571-87953069（O）
+传真：+86-571-87953069，+86-571-87951227
+电子邮件：chenjz@zju.edu.cn
+
+
+学历：
+工学博士，日本东北大学冶金工程专业，1994
+工学硕士，浙江大学化学工程专业，1987
+学士，浙江大学化学工程专业，1982
+&nbsp;
+CHENJizhong,Ph.D.
+Professorof
+DepartmentofChemicalandBiochemicalEngineering
+Tel:+86-571-87953069（O）
+Fax:+86-571-87953069，+86-571-87951227
+E-mail:chenjz@zju.edu.cn
+Education:
+Ph.D.,MetallurgicalEngineering,TohokuUniversityofJapan,1994
+M.S.,ChemicalEngineering,ZhejiangUniversity,1987
+B.S.,ChemicalEngineering,ZhejiangUniversity,1982
+学术兼职：
+《高校化学工程学报》主编
+《化学反应工程与工艺》编委
+《石化技术与应用》编委
+
+
+			
+				
+			工作研究领域
+			
+			研究领域：
+
+1)多相反应工程与反应器的计算流体力学模拟的研究；
+2)过程模拟、优化和强化的研究；
+3)生物质热解利用与产品多联产的研究；
+4)超细颗粒制备及其表面修饰的研究。
+
+Myresearchinterestsarein:
+1)KineticsofHeterogeneousReactions,HeterogeneousCatalysis,MultiphaseReactorDesignandCFDSimulationofReactors
+2)ProcessModelingandOptimization,ProcessIntegrationandIntensificationTechnology,
+3)PyrolysisofBiomassandProductControl
+4)PreparationandSurfaceModificationofFineParticles
+
+
+
+			
+				
+			联系方式
+			
+			电话：86-571-87953069			电子信箱：chenjz@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：陈纪忠
+		单位：化学工程与生物工程学系
+		职称：教授
+		我的主页共被访问了42462次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	研究成果
+	奖励荣誉
+	实验室介绍
+	招贤纳士
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

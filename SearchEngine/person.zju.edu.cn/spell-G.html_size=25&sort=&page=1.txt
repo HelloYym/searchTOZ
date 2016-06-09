@@ -1,0 +1,1 @@
+{'name': [u'\u845b\u4e9a\u529b'], 'title': [], 'photo': '', 'pos': './person.zju.edu.cn/spell-G.html?size=25&sort=&page=1', 'blog': [], 'intro': '', 'department': [u'\u7ba1\u7406\u5b66\u9662\u7ba1\u7406\u79d1\u5b66\u4e0e\u5de5\u7a0b\u5b66\u7cfb'], 'homepage': u'http://mypage.zju.edu.cn/geyali'}

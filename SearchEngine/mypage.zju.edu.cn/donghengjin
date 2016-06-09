@@ -1,0 +1,222 @@
+
+
+
+
+
+董恒进-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0009036";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	董恒进
+浙大医学院公共卫生系社会医学与卫生事业管理
+
+	永久链接:http://mypage.zju.edu.cn/donghengjin&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			董恒进,博士,浙江大学教授，卫生政策与管理研究中心常务副主任，博士生导师。
+教育背景：
+1983年上海医科大学学士
+1986年上海医科大学硕士
+1991年英国里兹大学卫生政策与管理文学硕士
+2000年瑞典卡尔琳斯卡医学院国际卫生博士
+工作经历
+1986－2000年在上海医科大学工作，历任医院管理教研室主任与公卫院长助理，1997年被聘为教授，2000年为博士生导师。
+2000－2004年为德国海徳堡大学博士后、高级讲师
+2004－2006年为英国Brunel大学高级研究员
+2006－2009年为德国海徳堡大学国际卫生经济与技术评估研究组主任
+
+&nbsp;
+			
+				
+			工作研究领域
+			
+			卫生政策，卫生经济，医院管理与卫生技术评估
+
+			
+				
+			联系方式
+			
+						电子信箱：Donghj@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：董恒进
+		单位：医学院
+		职称：教授
+		我的主页共被访问了2392次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+	教学工作
+	学术交流（讲座报告）
+	学生介绍
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

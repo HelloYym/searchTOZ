@@ -1,0 +1,216 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0094417";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0094417&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			　　　1981&mdash;1986&nbsp;&nbsp;浙江医科大学医学系&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;学生
+　　　1988&mdash;1993&nbsp;&nbsp;浙医大攻读博士学位（在职）
+　　　1986&mdash;1992&nbsp;&nbsp;浙医大二院普外科&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;住院医师
+　　　1992&mdash;1995&nbsp;&nbsp;浙医大二院普外科&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;主治医师、讲师
+　　　1994&mdash;1995&nbsp;&nbsp;美国西弗吉尼亚大学医学中心&nbsp;进修
+　　　1995&mdash;1996.3&nbsp;浙医大二院普外科&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;副教授
+　　　1996.4&mdash;至今&nbsp;浙大医学院邵逸夫医院外科&nbsp;&nbsp;副教授、教授
+　　　1996&mdash;1999&nbsp;&nbsp;浙江大学医学院邵逸夫医院外科&nbsp;&nbsp;副主任
+　　　1999&mdash;至今&nbsp;&nbsp;浙江大学医学院邵逸夫医院&nbsp;&nbsp;副院长
+			
+				
+			工作研究领域
+			
+			肝胆胰外科、微创外科、移植外科
+			
+				
+			联系方式
+			
+			电话：0571-86090073-2006			电子信箱：cxjzu@hotmail.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：蔡秀军
+		单位：临床医学三系（含护理系）
+		职称：教授
+		我的主页共被访问了12626次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	研究成果
+	奖励荣誉
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

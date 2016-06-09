@@ -1,0 +1,254 @@
+
+
+
+
+
+LuckyStar的个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0009074";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	LuckyStar的个人主页
+RisingSun我是浙大人
+
+	永久链接:http://mypage.zju.edu.cn/narenman&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			那仁满都拉
+
+那仁满都拉(RisingSun)，蒙古族，医药学博士（ChibaUniversity,Japan），博士研究生导师。现为浙江大学医学院教授，日本ChibaUniversity和日本ShowaPharmaceuticalUniversity客座教授。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+浙江省杰出青年基金获得者（2011年）
+浙江省&ldquo;青年科学家&rdquo;培养计划入选者（2013年）
+英国皇家化学学会《Metallomics》的&ldquo;EmergingInvestigators&rdquo;获得者（2012年）
+
+大会特邀报告大会特邀报告（Plenarylectures）-SafetyScienceinthe21stCentury
+
+
+主要学术兼
+美国化学学会会员（AmericanChemicalSociety），美国毒理学（SocietyofToxicology）会员,中国毒理学会会员，中国
+药理学会会员，日本药学会会员，浙江省药学会药理专业委员会委员。
+国际SCI期刊编委
+1.&nbsp;美国化学会(ACS)国际毒理学权威杂志《ChemicalResearchinToxicology(ACSPublications)》编委(IF4.2)；
+2.&nbsp;Elsevier所属学国际毒理权威期刊《ToxicologyLetters&nbsp;-&nbsp;Journal-Elsevier》（IF3.7)编委;&nbsp;
+3.&nbsp;Elsevier所属国际毒理学权威期刊《ToxicologyandAppliedPharmacology&nbsp;-&nbsp;Journal-Elsevier（IF4.1)编委候选人;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+待SCI收录期刊
+
+1.《JournalofMolecularPharmaceutics&amp;OrganicProcessResearch》国际期刊的EditorialBoard
+2.&nbsp;《ISRNChromatography》国际期刊的EditorialBoard
+3.《BritishJournalofPharmaceuticalResearch》国际期刊的AcademicEditor
+国际基金评审
+1.&nbsp;比利时佛兰德研究基金会（FWO）项目评审专家（8月份将转为二审专家）
+2.&nbsp;波兰国家科学中心（NSC）项目评审专家
+3.&nbsp;&nbsp;国家自然科学基金评审专家
+4.&nbsp;北京市自然科学基金评审专家
+
+新开辟的研究领域：
+美国FDA，2011和2013年相继批准了两种抗体偶联药物(ADCs)brentuximab-vedotin（CD30抗体偶联海洋毒素改造物MMAE）和T-DM1，分别用于治疗淋巴瘤和HER-2阳性乳腺癌，预示靶向载体-毒素偶联药物将成为抗肿瘤药物研发新方向。近三十年已发现数千种具有抗肿瘤活性的毒素，但由于其较强毒性反应而中断药物开发。我们通过适配体（Aptamer）靶向载体技术，利用其靶向配体使毒素直接投放于肿瘤组织(类似于定位导弹投射)，使这些具有极强毒性的毒素提高治疗指数、扩大治疗窗，从而获得一批具有自主知识产权的、靶向性强、高效低毒的新型靶向抗肿瘤药物。目前，我们组已筛选了3中特异性结合表面抗原的aptamers,进一步扩大其稳定性以及与海洋毒素链接提高体内的抗肿瘤效果。
+Aptamersareoligonucleicacidorpeptidemoleculesthatbindtoaspecifictargetmolecule.Aptamersareusuallycreatedbyselectingthemfromalargerandomsequencepool,butnaturalaptamersalsoexistinriboswitches.Aptamerscanbeusedforbothbasicresearchandclinicalpurposesasmacromoleculardrugs.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;
+&nbsp;
+			
+				
+			工作研究领域
+			
+			近年主要从事药物及微量元素毒性机制研究，如砷化合物的体内代谢机理及其活性中间代谢产物对诱导肿瘤疾病及抗肿瘤相关研究，积累了丰富的研究经验，大部分创新性研究成果发表在该领域《ToxicologicalSciences》、《ChemicalResearchinToxicology》、《ToxicologyandAppliedPharmacology》、《DrugMetabolismandDisposition》和《Metallomics》等刊物上。已在国内外刊物发表论文43篇，其中国际刊物SCI论文43篇(他引420次，平均影响因子4.1)
+
+			
+				
+			联系方式
+			
+			电话：0571-8820-6736			电子信箱：narenman@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：那仁满都拉
+		单位：浙江大学医学院
+		职称：教授、博士生导师
+		我的主页共被访问了61373次
+标签：Naranmandura	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	发表论文
+	科研小组成员
+	论文被引用次数
+	奖励荣誉
+	灿烂瞬间(照片)
+	感觉有点疲惫就进来听音乐放松放松~
+	课题组快讯
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	UniversityofAlberta
+千葉大学
+DukeUniversity
+ChemResToxicol
+ToxicolApplPharmacol
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

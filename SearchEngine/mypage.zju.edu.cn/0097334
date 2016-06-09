@@ -1,0 +1,207 @@
+
+
+
+
+
+肖朗的个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0097334";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	肖朗的个人主页
+
+
+	永久链接:http://mypage.zju.edu.cn/0097334&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+肖朗，男，1958年生，江苏苏州人，现为浙江大学教育学院教育学系教授、博士生导师。1982年初毕业于南京大学历史系。1988-1997年间留学日本名古屋大学，获教育学硕士和博士学位。1997年回国后曾在原杭州大学及新浙江大学教育系从事博士后研究工作。主要研究方向为中国教育史、中外文化教育交流史及外国近现代教育史。主持国家社会科学基金规划课题&ldquo;中国近代教育学术史研究&rdquo;及省部级科研项目多项，在国内外学术刊物上发表论文70余篇，曾主编《世纪之理想&mdash;&mdash;中国近代义务教育研究》（浙江教育出版社2000年版）、《中国教育经典解读》（上海教育出版社2005年版）、《中外教育名著选读》（高等教育出版社2009年版）等，参与主编《中国教育史研究&middot;近代卷》（华东师范大学出版社2001年版）、《中外教育交流史》（广东教育出版社2004年版）等。其中，《世纪之理想&mdash;&mdash;中国近代义务教育研究》获第五届国家图书奖提名奖、教育部第三届人文社会科学优秀成果奖一等奖，《中外教育交流史》获第十三届浙江省哲学社会科学优秀成果奖一等奖。2004年1-6月间在日本东京大学大学院教育学研究科任客座研究员。
+			
+				
+			工作研究领域
+			
+			1、中国教育史
+2、中外文化教育交流史
+3、中外教育哲学比较研究
+
+			
+				
+			联系方式
+			
+						电子信箱：xiaolang132@hotmail.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：肖朗
+		单位：教育学院教育学系
+		职称：教授
+		我的主页共被访问了12626次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

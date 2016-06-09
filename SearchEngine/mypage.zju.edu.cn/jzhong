@@ -1,0 +1,215 @@
+
+
+
+
+
+钟健晖-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0011158";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	钟健晖
+
+
+	永久链接:http://mypage.zju.edu.cn/jzhong&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			钟健晖1982年从南京大学物理系毕业后，直接通过李政道教授主持的CUSPEA考试到美国从事博士学习，1988年获得美国布朗大学物理博士，后在耶鲁大学从事博士后，随后任助理教授，副教授。自2004年起任美国罗切斯特大学放射学(影像科学)，生物医学工程，物理学终身正教授，主要从事核磁共振成像(MRI)方面的研究和教学。拥有20多年在核磁共振成像物理，工程，以及生物医学，临床医学，脑科学的应用等方面的经验，对核磁共振技术的理工医结合，理论和应用结合，作出多项首创工作並拥有相关知识产权。美国罗切斯特脑成像中心主要创始人之一，任首席物理学家，副主任，和放射学系核磁共振成像研究主任。多次获得美国国家和私人科学基金，及美国国家健康总局，耶鲁大学和罗切斯特大学特别研究奖,发表论文约150篇，是五项美国国家专利获得者。长期担任美国和国际科学基金组织评选成员，国际科学主导杂志编委或编审人员。2000－2002年担任海外华人医学磁共振成像学会主席。近年来主要致力于大脑弥散成像，功能成像的量化分析，快速成像方法，及其在转化医学和个体医学中的应用。2012年1月起作为国家千人计划教授参加浙大工作。&nbsp;近期参与多项国家和科技部项目,包括协同创新团队等。并受浙大校委会委托,担任浙江大学脑影像科学技术中心主任。&nbsp;中心配备最先进多摸式MRI和其它影像仪.面向全球聘请高等人才,并招收多名博士和硕士生,开设有关课程。
+
+
+			
+				
+			工作研究领域
+			
+			磁共振医学成像物理与工程;核磁共振新技术开发;脑科学的影像研究;人类疾病影像标记物的发现和定量
+
+
+			
+				
+			联系方式
+			
+			电话：571-87953799,助理电话:571-87953808			电子信箱：jzhong@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：钟健晖
+		单位：生物医学工程与仪器科学学院生物医学工程学系，浙江大学脑影像科学技术中心
+		职称：教授
+		我的主页共被访问了18985次
+标签：Engineering，MRI，fMRI，brain，imaging，neurosciencebiomedical，biophysics	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		发表论文
+	专利成果
+	奖励荣誉
+	出版著作
+	实验室介绍
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	浙江大学脑影像科学技术中心
+浙江大学生仪学院
+浙江大学基础医学院
+浙江大学系统神经与认知科学研究所（ZIINT）
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

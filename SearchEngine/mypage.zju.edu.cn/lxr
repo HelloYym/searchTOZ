@@ -1,0 +1,210 @@
+
+
+
+
+
+厉小润-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0095018";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	厉小润
+
+
+	永久链接:http://mypage.zju.edu.cn/lxr&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			长期从事图像处理、模式识别、计算机应用等方面的理论及应用研究。分别在1992、1995和2008年获国防科技大学学士、浙江大学硕士和博士学位，1995年3月硕士毕业后留校任教，现为浙江大学电气工程学院研究员、博导，系统科学与控制所副所长，浙江省新世纪151人才工程第三层次培养人员。
+&nbsp;&nbsp;&nbsp;&nbsp;
+主持国家自然科学基金项目和国防重点预研项目各1项、863项目3项、教育部支撑技术项目、国防预研以及省部级项目10多项，企业合作科研项目近30项；结合科研发表学术论文30多篇，其中EI&amp;SCI检索20余篇，申请国家专利4项；获省级以上鉴定2项，省部级二等奖2项，三等奖1项。参与编写《数据结构与数据库技术》教材一本。
+&nbsp;
+主持的主要科研项目有：三相无刷电机控制器设计、基于吸附催化技术的室内有害气体清除设备的研制、区域远程排污实时监测网络嵌入式系统、基于视频检测技术的隧道安全监控系统、带电参数测量的三相功率因数控制器及其信息管理系统、10KV配电网络远程遥控高压开关监控软件、金华电力开关有限公司ERP系统、浙江富兴电力燃料分布式燃料管理信息系统、浙江省工商管理局广告监测中心广告监测管理信息系统、中美华东制药有限公司仓储管理信息系统、大功率变量泵控制试验系统、变电站过程层智能化电子装置关键技术研究及产业化示范、基于高光谱遥感图像的植被分析软件设计、高光谱遥感图像植被分类技术、多源遥感图像配准融合技术、高光谱遥感图像混合像元分解技术、亚像元级目标检测与识别技术、多传感器目标识别技术。
+&nbsp;
+&nbsp;
+
+&nbsp;
+			
+				
+			工作研究领域
+			
+			遥感图像处理、模式识别、视频检测技术、嵌入式控制、信息系统
+			
+				
+			联系方式
+			
+			电话：87951340			电子信箱：lxr@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：厉小润
+		单位：电气工程学院系统科学与工程学系
+		职称：研究员
+		我的主页共被访问了2018次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

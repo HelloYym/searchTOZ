@@ -1,0 +1,208 @@
+
+
+
+
+
+曹衍龙-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0003194";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	曹衍龙
+
+
+	永久链接:http://mypage.zju.edu.cn/sdcaoyl&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			曹衍龙，男，山东济宁人，1975年11月出生，博士、副教授。2007年10月至2008年6月受学校&ldquo;新星计划&rdquo;资助赴英国HUDDERSFIELD大学访问。现从事检测与控制、精度理论与质量工程、先进制造技术等方面的科研和教学工作。兼任中国几何量专业委员会委员、全国产品尺寸和几何技术规范标准化技术委员会（SAC/TC240）委员、全国齿轮标准化技术委员会委员、全国高校互换性与测量技术研究会副秘书长。已培养/协助培养博士、硕士生二十余名，曾主持国家自然科学基金项目一项，目前主持国家自然科学基金面上项目一项，重点基金子课题一项，973子课题一项。作为主要负责人完成科技部重大基础研究前期研究专项一项、国家863项目一项、国防预研基金一项，其它项目多项。在国内外学术期刊上公开发表相关学术论文60余篇，其中SCI收录11篇，EI收录40余篇，与他人合作完成专著和教材5本，获发明专利5项，实用新型多项，软件著作权登记6项，获中国人民解放军科技进步三等奖一项。
+			
+				
+			工作研究领域
+			
+			现从事检测与控制、精度理论与质量工程、先进制造技术等方面的科研和教学工作
+			
+				
+			联系方式
+			
+			电话：0571-87953198			电子信箱：sdcaoyl@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：曹衍龙
+		单位：机械工程学系
+		职称：副教授
+		我的主页共被访问了8117次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

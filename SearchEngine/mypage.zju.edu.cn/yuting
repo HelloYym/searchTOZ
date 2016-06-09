@@ -1,0 +1,208 @@
+
+
+
+
+
+余挺-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0007337";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	余挺
+
+
+	永久链接:http://mypage.zju.edu.cn/yuting&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+
+2007年7月至今在浙江大学食品科学与营养系工作，历任讲师、副教授；2009年获硕士研究生导师资格；2012年获得博士研究生指导教师资格。2011年入选浙江省&ldquo;151&rdquo;人才工程第3层次培养计划。
+1991年9月-1998年7月就读于原浙江农业大学食品科学与科技系，先后获学士和硕士学位；2004年9月-2007年6月就读于浙江大学食品科学与营养系，获博士学位。1998年8月-1999年5月在浙江省农业科学研究院食品加工研究所工作；1999年5月-2004年9月在杭州娃哈哈集团有限公司工作。
+目前主要从事：食品微生物与生物技术；果蔬采后病害等领域的科研和教学工作。
+
+
+			
+				
+			工作研究领域
+			
+			食品微生物与生物技术；果蔬采后病害。
+			
+				
+			联系方式
+			
+			电话：0571-88982398			电子信箱：yuting@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：余挺
+		单位：生物系统工程与食品科学学院食品科学与营养系
+		职称：副教授
+		我的主页共被访问了8315次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

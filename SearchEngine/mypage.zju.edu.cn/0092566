@@ -1,0 +1,232 @@
+
+
+
+
+
+简介-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0092566";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	简介
+
+
+	永久链接:http://mypage.zju.edu.cn/0092566&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			姓名：邵吉民
+院系：浙江大学医学部基础医学院（系）
+学科：病理学与病理生理学系
+学历：医学肿瘤学博士
+职称：教授，博士生导师，博士后合作导师
+职务：浙江大学医学部基础医学院（系）书记、兼副院长（副主任），病理学与病理生理学系（国家重点培育学科、浙江省重点学科、浙江省重点实验室）主任，肿瘤研究中心执行主任，浙江大学空气污染与健康研究中心副主任。
+学术团体和社会兼职：中国病理生理学会理事、肿瘤专业委员会常务委员；中国生理学会理事，浙江省生理科学会副理事长、器官系统疾病专业委员会主委；美国癌症学会（AACR）会员，美国生化与分子生物学会（ASBMB)会员，国际病理生理学会会员。多种国家和部省级科研项目、科技成果、以及国家和部省级人才计划评审专家；中国病理生理杂志常务编委，多种国内外学术期刊审稿人。
+联系方式：电话：0571-88208209；E-mail：shaojimin@zju.edu.cn
+&nbsp;
+简历：2006--：浙江大学医学部，病理学与病理生理学系，教授，博士生导师，博士后合作导师。2002-2005：美国CityofHope国家医学中心，医学肿瘤学和治疗研究系，访问研究员。1998-2001：浙江大学医学院，医学微生物学，副教授。1998-2001：浙江大学医学院，医学肿瘤学，博士研究生。&nbsp;
+			
+				
+			工作研究领域
+			
+			1.学科专长：病理生理学，肿瘤分子生物学和药理学。
+
+2.研究方向：
+（1）化学物质致突变致癌的分子机制与干预：应用基因组、蛋白质组、以及转录调控组等策略，筛选和鉴定化学致癌物的重要应答基因和蛋白，分析其信号转导和基因表达调控，揭示化学致突变致肿瘤的分子和细胞学机制，为阐明肿瘤化学病因与发病机制、寻找新的生物标记物和潜在的药物靶点、以及肿瘤预警和早期干预提供新的科学依据。
+
+（2）蛋白质翻译后修饰与肿瘤信号转导和基因转录调控：应用生物化学、分子和细胞生物学、以及质谱等技术，研究蛋白质乙酰化、甲基化和磷酸化等修饰和信号整合关系、及其在肿瘤信号通路和靶基因转录调控中的作用，鉴定相关的修饰酶类及其活性调控小分子化合物，为研究肿瘤发生发展机制和新药研究提供新的线索。
+
+（3）抗肿瘤靶分子结构功能与小分子化学新药研究：应用肿瘤学、生物化学、结构生物学、药物化学和药物信息学等交叉学科知识，研究抗肿瘤药物靶分子的3D结构、功能和活性调控，设计和发现具有靶分子结构位点特异性的抗肿瘤创新药物。
+
+3.主要学术成果：
+近年来，获得国家自然科学基金面上项目、国家自然科学基金重大项目、863计划、973计划等国家级课题、以及多项部省级研究项目资助。系列成果在Carcinogenesis,CancerResearch,JournalofBiologicalChemistry、MolecularCancerTherapeutics、MutationResearch、Genomics、BiochemicalPharmacology、以及ExpertOpinionOnTherapeuticTargets等重要国际学术期刊发表，并在国内外学术会议报告；获得抗肿瘤新药国家发明专利授权1项、申请号3项；解析4个RRM2蛋白X线衍射晶体结构（国际蛋白质数据库PDB收录）。培养博士后、博士和硕士研究生多名。主讲多门研究生和本科生专业核心课程。参编国家级教材和学术专著多部。
+			
+				
+			联系方式
+			
+			电话：0571-88208209			电子信箱：shaojimin@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：邵吉民
+		单位：基础医学院（系）
+		职称：教授
+		我的主页共被访问了18467次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+	出版著作
+	学术交流（讲座报告）
+	研究成果
+	专利成果
+	奖励荣誉
+	教学工作
+	实验室介绍
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

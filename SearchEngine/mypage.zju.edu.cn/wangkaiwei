@@ -1,0 +1,312 @@
+
+
+
+
+
+汪凯巍副教授个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0009214";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	汪凯巍副教授个人主页
+AssociateProf.KaiweiWang
+
+	永久链接:http://mypage.zju.edu.cn/wangkaiwei&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;
+
+2009.2月至今：浙江大学，光电系，光学工程研究所副教授，硕士生导师
+2006.10-2009.2：英国Huddersfield大学精密计量中心，研究员（ResearchFellow）
+2005.10-2006.10：英国Huddersfield大学精密计量中心，皇家学会资助的博士后
+2001.9-2005.7：清华大学精密仪器系，光学工程研究所，博士研究生
+1997.9-2001.7：清华大学精密仪器系，本科生
+
+&nbsp;
+
+
+
+<!--
+/*FontDefinitions*/
+@font-face
+	{font-family:Wingdings;
+	panose-1:5000000000;
+	mso-font-charset:2;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:026843545600-21474836480;}
+@font-face
+	{font-family:宋体;
+	panose-1:2160311111;
+	mso-font-alt:SimSun;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:36804602882202621450;}
+@font-face
+	{font-family:仿宋_GB2312;
+	mso-font-alt:微软雅黑;
+	mso-font-charset:134;
+	mso-generic-font-family:modern;
+	mso-font-pitch:fixed;
+	mso-font-signature:11351352321602621440;}
+@font-face
+	{font-family:"@宋体";
+	panose-1:2160311111;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:36804602882202621450;}
+@font-face
+	{font-family:"@仿宋_GB2312";
+	mso-font-charset:134;
+	mso-generic-font-family:modern;
+	mso-font-pitch:fixed;
+	mso-font-signature:11351352321602621440;}
+/*StyleDefinitions*/
+p.MsoNormal,li.MsoNormal,div.MsoNormal
+	{mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	line-height:22.0pt;
+	mso-pagination:none;
+	mso-layout-grid-align:none;
+	font-size:14.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"TimesNewRoman";
+	mso-fareast-font-family:仿宋_GB2312;}
+/*PageDefinitions*/
+@page
+	{mso-page-border-surround-header:no;
+	mso-page-border-surround-footer:no;}
+@pageSection1
+	{size:612.0pt792.0pt;
+	margin:72.0pt90.0pt72.0pt90.0pt;
+	mso-header-margin:36.0pt;
+	mso-footer-margin:36.0pt;
+	mso-paper-source:0;}
+div.Section1
+	
+/*ListDefinitions*/
+@listl0
+	{mso-list-id:285354753;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-33097804676986896769869167698693676986896769869167698693676986896769869167698693;}
+@listl0:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:？;
+	mso-level-tab-stop:30.9pt;
+	mso-level-number-position:left;
+	margin-left:30.9pt;
+	text-indent:-21.0pt;
+	font-family:Wingdings;}
+ol
+	
+ul
+	
+-->
+
+&nbsp;
+
+
+
+
+										
+&nbsp;
+			
+				
+			工作研究领域
+			
+			精密光学干涉测量,
+
+在线快速几何检测
+
+			
+				
+			联系方式
+			
+			电话：13906527497			电子信箱：wangkaiwei@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：汪凯巍
+		单位：光电信息工程学系
+		职称：副教授
+		我的主页共被访问了10265次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	出版著作
+	实验室介绍
+	Research
+	Biography
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	清华大学相关信息
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

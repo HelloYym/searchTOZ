@@ -1,0 +1,255 @@
+
+
+
+
+
+解利军(LijunXie)-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0007290";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	解利军(LijunXie)
+博学求真，问天致远
+
+	永久链接:http://mypage.zju.edu.cn/lijun&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			<spanstyle="font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">解利军，男，1980<spanstyle="font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">年生，浙江大学副教授。2002<spanstyle="font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">年6<spanstyle="font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">月获浙江大学热能动力工程学士学位，2007<spanstyle="font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">年6<spanstyle="font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">月获浙江大学计算机科学与技术专业博士学位，2007<spanstyle="font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">年7<spanstyle="font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">月起至今在浙江大学任教。期间2011.4<spanstyle="font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">月-2011.8<spanstyle="font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">月在TexasA&amp;MUniversity<spanstyle="font-family:宋体;
+mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
+宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin">应用数学系访学。
+<spanstyle="font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+Calibri;mso-hansi-theme-font:minor-latin">&nbsp;&nbsp;主要研究方向数值模拟支撑技术研究，重点是前后处理技术，属于计算机科学和计算力学的交叉领域。具体研究内容包括科学数据分析和可视化，并行计算和计算机辅助工程。先后获得2<spanstyle="font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">项自然科学基金项目面上项目资助（2009-2012<spanstyle="font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">，2013-2016<spanstyle="font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">）<spanstyle="font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">、1<spanstyle="font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">项浙江省自然科学基金项目资助（2012-2013）、1项浙江省科技厅项目资助（2009-2010）、1项中国博后基金项目资助（2008-2009），以及多项重大项目子项目。共发表论文40余篇，申请发明专利5项（已授权2项），软件著作权4项。
+<spanstyle="font-family:宋体;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:&quot;TimesNewRoman&quot;;mso-bidi-font-family:
+宋体">代表性成果：
+<spanstyle="font-family:宋体;mso-fareast-font-family:
+宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;TimesNewRoman&quot;;
+mso-bidi-font-family:宋体">（1）设计和实现了高端数字样机系统HEDP的软件架构和主要的后处理技术，该系统是我国有特色的自主知识产权CAE软件。研发了大规模非定常数据的智能分析方法，将一系列人工智能和数据挖掘算法改进后应用于科学数据分析。相关成果得到了具体工程应用。
+<spanstyle="font-family:宋体;mso-fareast-font-family:
+宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;TimesNewRoman&quot;;
+mso-bidi-font-family:宋体">（2）研发了一种自适应于任意表面、可伸缩、可无缝拼接的智能投影系统。基于计算机视觉和并行可视化方法，大幅度降低了绘制和显示系统的构建、维护和使用复杂度，能低成本、高效率地实现大规模科学数据的高精度、沉浸式分析。<spanstyle="font-family:宋体;mso-fareast-font-family:
+宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:&quot;TimesNewRoman&quot;;
+mso-bidi-font-family:宋体">
+			
+				
+			工作研究领域
+			
+			科学数据可视分析，并行计算，图形图像，计算机视觉
+			
+				
+			联系方式
+			
+			电话：0571-87951870,13185001081			电子信箱：LijunXie@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：解利军
+		单位：浙江大学工程与科学计算研究中心
+		职称：副教授
+		我的主页共被访问了9741次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+	专利成果
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

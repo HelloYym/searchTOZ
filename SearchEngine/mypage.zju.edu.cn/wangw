@@ -1,0 +1,344 @@
+
+
+
+
+
+浙江大学信息与电子工程学院王玮个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0009043";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	浙江大学信息与电子工程学院王玮个人主页
+WeiWang'sHomepage
+
+	永久链接:http://mypage.zju.edu.cn/wangw&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+
+王玮&nbsp;博士
+浙江大学信息与电子工程学院副教授，博士生导师&nbsp;
+浙江大学玉泉校区信电楼228室
+Email:wangwatzjudotedudotcn
+http://mypage.zju.edu.cn/wangw(中文)
+http://mypage.zju.edu.cn/en/wangw(English)
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;2004年于北京邮电大学电信工程学院获得通信工程专业学士学位，推荐免试继续研究生学习，师从王文博教授，2009年于北京邮电大学信息与通信工程学院获得信号与信息处理专业博士学位，进入浙江大学开展教学科研工作。2007年9月～2008年9月作为国家公派联合培养博士生访问美国密歇根大学，师从IEEE/ACMFellowKangG.Shin教授。2013年2月~2015年2月作为香江学者访问香港科技大学IEEEFellowVincentK.N.Lau教授课题组。
+&nbsp;&nbsp;&nbsp;2011年入选浙江大学求是青年学者，2012年入选&ldquo;香江学者&rdquo;计划，2013年入选浙江省&ldquo;新世纪151人才工程&rdquo;第三层次培养人员。多年来从事无线通信与无线网络方面的相关研究，负责承担了国家自然科学基金等多个研究课题，主要研究绿色通信，认知无线电网络，无线资源分配，随机优化及其应用等，在IEEEJournalofSelectedAreasinCommunications,IEEE/ACMTransactionsonNetworking,IEEETransactionsonMobileComputing,IEEETransactionsonWirelessCommunications,IEEECommunicationsMagazine等无线通信领域国际期刊和IEEEINFOCOM，IEEEICC，IEEEGlobecom等国际会议上发表论文80余篇，作为主编合作出版编著《CognitiveRadioSystems》。作为子课题负责人及主要参加人参与多项国家科技重大专项课题，主要负责4G/5G系统的预研及标准化工作，向IMT-A推进组会议提交相关提案10余篇。相关研究成果在IEEEGlobecom2014会议上入围最佳论文奖，在香江学者2014年度学术交流会上获得最佳口头报告奖。
+&nbsp;&nbsp;&nbsp;担任浙江省通信学会副秘书长、理事,IEEE和中国通信学会高级会员。担任IEEEAccess和TransactionsonEmergingTelecommunicationsTechnologies等国际期刊AssociateEditor及IEEEJournalofSelectedAreasinCommunications,IEEETransactionsonWirelessCommunications,IEEETransactionsonCommunications,IEEETransactionsonVehicularTechnologies等国际期刊审稿人。参与国际会议的组织工作，担任CRNet2010,NRN2011的TPCco-chair,WCSP2013的Symposiumco-chair,ISCIT2011的Tutorialco-chair，IoT2014publicitychair及IEEEICC,IEEEGlobecom等主要国际会议TPCmember。
+
+&nbsp;
+Callfor&nbsp;Papers:&nbsp;SpecialSectiononEmergingCloud-BasedWirelessCommunicationsandNetworks,IEEEAccess&nbsp;&nbsp;
+&nbsp;
+&nbsp;
+最新消息
+&nbsp;&nbsp;
+
+
+
+2015.7
+两篇论文被IEEEGlobecom2015接收
+
+
+2015.6
+一篇论文被IEEESystemJournal接收
+
+
+2015.6
+美国威斯康星大学Prof.XinyuZhang访问课题组
+
+
+2015.6
+王玮副教授参加杭州举行的ACMMobihoc2015
+
+
+2015.6
+王玮副教授、硕士生汪恒智参加英国伦敦举行的IEEEICC2015，担任sessionchair并宣读两篇论文
+
+
+2015.5
+一篇论文被IEEETransactionsonVehicularTechnology接收
+
+
+2015.5
+组织IEEEAccess的SpecialSectiononEmergingCloud-BasedWirelessCommunicationsandNetworks
+
+
+2015.5
+新开设研究生课程&ldquo;优化理论基础&rdquo;
+
+
+2015.4
+王玮副教授参加香港举行的IEEEINFOCOM2015
+
+
+2015.4
+一篇论文被EURASIPJournalonWirelessCommunicationsandNetworks接收
+
+
+2015.4
+台湾大学Prof.Hsuan-JungSu,Prof.Bor-ChingSu,台湾中央研究院Dr.Chia-HanLee访问课题组
+
+
+2015.3
+祝贺卢玥获得硕士学位！
+
+
+2015.3
+王玮副教授参加上海举行的智能化3C移动网络研讨会并做邀请报告
+
+
+2015.3
+担任IEEEGlobecom2015中WirelessNetworksSymposium的TPCmember
+
+
+2015.3
+担任IEEEAccess的AssociateEditor
+
+
+2015.2
+担任ISWCS的TPCmember
+
+
+2015.2
+担任IEEEGlobecom2015中SignalProcessingforCommunicationsSymposium的TPCmember
+
+
+2015.2
+法国巴黎第11大学Prof.LinChen访问课题组
+
+
+2015.1
+入选IEEESeniorMember
+
+
+2015.1
+两篇论文被IEEEICC2015接收
+
+
+2015.1
+一篇论文被IEEETransactionsonMobileComputing接收
+
+
+2014.12
+一篇论文入围IEEEGlobecom2014最佳论文奖
+
+
+2014.12
+王玮副教授参加美国奥斯汀举行的IEEEGlobecom2014，担任sessionchair并宣读两篇论文
+
+
+2014.11
+一篇论文被IEEEINFOCOM2015接收
+
+
+2014.11
+获得SUTD-ZJU国际合作项目&ldquo;能量和通信合作的绿色无线网络&rdquo;资助（合作者：新加坡科技设计大学Prof.LingjieDuan）
+
+
+2014.10
+祝贺硕士生卢玥获得国家研究生奖学金
+
+
+2014.9
+一篇论文被IEEETransactionsonWirelessCommunications接收
+
+
+2014.8
+博士生王一钍赴法国巴黎第十一大学进行为期3个月的合作研究
+
+
+2014.8
+一篇论文被IEEEJournalofSelectedAreasinCommunications接收
+
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Lastupdate:July&nbsp;5,2015
+&nbsp;
+			
+					
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：王玮
+		单位：信息与电子工程学院
+		职称：副教授
+		我的主页共被访问了84100次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	研究项目
+	发表论文
+	学生指导
+	所获奖励
+	学术活动
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

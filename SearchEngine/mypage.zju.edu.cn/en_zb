@@ -1,0 +1,241 @@
+
+
+
+
+
+BoZhang-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0007324";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	BoZhang
+
+
+	Permanentlink:http://mypage.zju.edu.cn/en/zb&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			TertiaryEducation
+2001&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B.Sc.ZhejiangUniversity
+2007&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ph.D.ZhejiangUniversity
+2003&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PlantandFoodResearchInstituteofNewZealand
+2005&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PlantandFoodResearchInstituteofNewZealand
+&nbsp;
+EmploymentRecord
+2007-2009&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Post-doctoralstudy,ZhejiangUniversity,China
+2010-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Associateprofessor,ZhejinagUniveristy,China
+&nbsp;
+PresentResearchSpeciality
+&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Biosynthesisandregulationofaroma-relatedvolatilesoffruitduringripeningandsenescence
+&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Biochemistryandmolecularbiologyoffruitchillinginjury.
+&nbsp;
+OralPresentation
+1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Postharvesttemperatureinfluencesvolatilelactoneproductionviaregulationofacyl-CoAoxidasesinpeachfruit.InternationalWorkshoponBiologyofFruitQuality.25-28thOctober,2011,Hangzhou,China.
+2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Changesinaroma-relatedvolatilesandgenesexpressionduringpostharvestfruitripeningandinresponsetolowtemperature.SymposiumonMolecularBiologyandBiotechnologyofFruitTrees.18-21October,2010,Wuhan,China.
+3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E-senseanalysisoffruitsensoryquality.InternationalSeminaronSensoryScience&amp;TechnologyandApplication.21-22October,2010,Beijing,China.
+4)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sugarcompositiondifferenceamongwhite-andred-fleshedloquatfruitanditsrelationwithactivitiesofsucrose-metabolizingenzymes.TheIII.InternationalLoquatSymposium.03-06May,2010,Antakya,Hatay,Turkey.
+&nbsp;
+SelectedResearchPapers(*correspondingauthor)
+XiWP,ZhangB*,ShenJY,SunCD,XuCJ,ChenKS.Intermittentwarmingalleviatedthelossofpeachfruitaroma-relatedestersbyregulationofAATduringcoldstorage.PostharvestBiologyandTechnology(Inpress).
+XiWP,ZhangB(co-firstauthor),LiangL,ShenJY,WeiWW,XuCJ,AllanAC.,FergusonIB,ChenKS.Postharvesttemperatureinfluencesvolatilelactoneproductionviaregulationofacyl-CoAoxidasesinpeachfruit.Plant,CellandEnvironment,2012,35:534-545.
+SuMS,ChenKS,YeZW,ZhangB,GuoJ,XuCJ,SunCD,ZhangJK,LiX,WuAZ,XiWP.Physicalchangesandphysiologicalcharacteristicsofredandgreenpeelduringnectarine(cv.Hu018)maturation.JournaloftheScienceofFoodandAgriculture.2012,92,1448-1454.
+ZhangB,XiWP,WeiWW,ShenJY,FergusonI,ChenKS.Changesinaroma-relatedvolatilesandgeneexpressionduringlowtemperaturestorageandsubsequentshelf-lifeofpeachfruit.PostharvestBiologyandTechnology,2011,60:7-16.
+JiangTM,WangP,YinXR,ZhangB,XuCJ,LiX,ChenKS.Ethylenebiosynthesisandexpressionofrelatedgenesinloquatfruitatdifferentdevelopmentalandripeningstages.ScientiaHorticulturae,2011,130:452-458.
+YangZW,MaYT,ChenL,XieRJ,ZhangXQ,ZhangB,LuMD,WuSD,GilissenLuud,vanReeR,GaoZS.Differentialtranscriptabundanceandgenotypicvariationoffourputativeallergen-encodinggenefamiliesinmeltingpeach.TreeGenetics&amp;Genomes.2011,7:903-916.
+ZhangB,ShenJY,WeiWW,XiWP,XuCJ,FergusonI.ChenKS.Expressionofgenesassociatedwitharomaformationderivedfromthefattyacidpathwayduringpeachfruitripening.&nbsp;JournalofAgriculturalandFoodChemistry.2010,58:6157-6165.
+WangP,ZhangB(co-firstauthor),LiX,XuCJ,YinXR,ShanLL,FergusonI,ChenKS.Ethylenesignaltransductionelementsinvolvedinchillinginjuryinnon-climactericloquatfruit.JournalofExperimentalBotany,2010,61:179-190
+NiuSS,XuCJ,ZhangWS,ZhangB,LiX,WangKL,FergusonI,AllanA,ChenKS.CoordinatedregulationofanthocyaninbiosynthesisinChinesebayberry(Myricarubra)fruitbyaR2R3MYBtranscriptionfactor.Planta,2010,231,887-899
+ZhangB,YinXR,LiX,YangSL,FergusonI,ChenKS.Lipoxygenasegeneexpressioninripeningkiwifruitinrelationtoethyleneandaromaproduction.JournalofAgriculturalandFoodChemistry.2009,57:2875-2881.
+ZhangB,YinXR,ShenJY,ChenKS,FergusonI.Volatilesproductionandlipoxygenasegeneexpressioninkiwifruitpeelandfleshattworipeningstages.JournaloftheAmericanSocietyforHorticulturalScience.2009,134:472-477.
+JinWW,XuCJ,LiX,ZhangB,WangP,AllanA,ChenKS.EpxressionofROP/RACGTPasegenesinpostharvestloquatfruitinassociationwithsenescenceandcoldregulatedlignification.PostharvestBiologyandTechnology,2009,54:9-14
+YinXR,AllanA,ZhangB,WuRM,BurdonJ,WangP,FergusonI,ChenKS.Ethylene-relatedgenesshowadifferentialresponsetolowtemperatureduring&lsquo;Hayward&rsquo;kiwifruitripening.PostharvestBiologyandTechnology,2009,52:9-15
+YinXR,ChenKS,AllanA,WuRM,ZhangB,LalluN,FergusonI.Ethylene-inducedmodulationofgenesassociatedwiththeethylenesignallingpathwayinripeningkiwifruit.JournalofExperimentalBotany,2008,59:2097-2108
+ShanLL,LiX,WangP,CaiC,ZhangB,SunCD,ZhangWS,XuCJ,FergusonI,ChenKS.CharaterizationofcDNAsassociatedwithlignificationandtheirexpressionprofilesinloquatfruitwithdifferentligninaccumulation.Planta,2008,227:1243-1254.
+YangSL,SunCD,WangP,ShanLL,CaiC,ZhangB,ZhangWS,LiX,FergusonI,ChenKS.Expressionofexpansingenesduringpostharvestlignificationandsofteningof&lsquo;Luoyangqing&rsquo;and&lsquo;Baisha&rsquo;loquatfruitunderdifferentstorageconditions.PostharvestBiologyandTechnology,2008,49:46-53.
+YangSL,XuCJ,ZhangB,LiX,ChenKS.InvolvementofbothsubgroupsAandBofexpansingenesinkiwifruitfruitripening.HortScience,2007,42(2):315-319
+ZhangBo,ChenKun-song,BowenJ,AllanA,EspleyR,KarunairetnamS,FergusonI.DifferentialexpressionwithintheLOXgenefamilyinripeningkiwifruit.JournalofExperimentalBotany,2006,57:3825-3836.
+XuCJ,BaoL,ZhangB,BeiZM,YeXY,ZangSL,ChenKS.Parentageanalysisofhuyou(Citruschangshanensis)basedoninternaltranscribedspacer(ITS)sequences.PlantBreeding.2006,125:519-522.
+ZhangWS,ChenKS&nbsp;ZhangB,SunCD,CaiC,ZhouCH,&nbsp;XuWP,ZhangWQ,FergusonIB.PostharvestresponsesofChinesebayberryfruit.PostharvestBiologyandTechnology,2005,37:241-251.
+ChenKS,XuCJ,ZhangB,FergusonIB.Myricarubra:Redbayberry.In:TheEncyclopediaofFruitandNuts.EditedbyJulesJanickandRobertE.Paull.CambridgeUniversityPress,2008,pp.522-526(ISBN:978-0-85199-638-7)
+ChenKS,XuCJ,ZhangB,FergusonIB.Redbayberry:botanyandhorticulture.HorticultureReviews,2004,30:83-114
+&nbsp;
+&nbsp;
+			
+				
+			Researchwork
+			
+			Fruitaromaquality;Fruitlogistics
+			
+				
+			Contact
+			
+			Phone:+86-571-88982224
+			E-mail:bozhang@zju.edu.cn
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:BoZhang
+		Units:ZhejiangUniversity
+		Title:Associateprofessor
+		Myhomepagehasbeenvisited386times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	
+
+
+Youarevisitor:386
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

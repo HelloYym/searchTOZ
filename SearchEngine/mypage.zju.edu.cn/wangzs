@@ -1,0 +1,217 @@
+
+
+
+
+
+王正仕的个人网页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0094018";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	王正仕的个人网页
+电力电子与电能变换
+
+	永久链接:http://mypage.zju.edu.cn/wangzs&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			欢迎电源功率变换、新能源应用技术共同交流学习
+王正仕，男，博士，电气学院应用电子系系副主任，副教授
+主要研究领域：电力电子技术及其应用，包括高性能开关电源、逆变器功率电源、电力电子在新能源及节能中的应用（太阳能/风力发电逆变器/逆变逆变器、LED照明驱动电源、新能源电动汽车车载充电机）、伺服电机智能控制等。近年来负责与参与科研项目30多项，包括国家自然科学基金项目、浙江省科学基金项目等政府研究型项目和众多企业委托研发的研发设计项目。发表学术论文和国际会议论文50余篇，其中被SCI、EI收录近40篇。
+出版专著2部。
+国家级精品课程《电力电子技术》主讲教师。
+学历
+香港理工大学(HongKongPolytechnicUniversity)&nbsp;电力电子与电机控制博士学位，
+浙江大学电力电子技术专业硕士学位，
+北京交通大学控制专业学士学位。
+			
+				
+			工作研究领域
+			
+			1.高效率开关电源:新型变换器拓扑、高频软开关技术、建模与控制。2.逆变器数字控制:单片机/DSP/嵌入式控制技术、逆变器建模与控制。3.节能与新能源中的电能变换:太阳能/风力发电逆变器及并网、LED照明高效率驱动电源等。4.伺服电机智能控制:直流无刷/永磁同步/步进电机全数字伺服控制。
+研究项目成果介绍，请见：http://mypage.zju.edu.cn/weblog/wangzs/archive/607214.html
+			
+				
+			联系方式
+			
+			电话：0571-81919132			电子信箱：wzs@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：王正仕
+		单位：电气工程学院应用电子学系
+		职称：副教授
+		我的主页共被访问了18403次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+	出版著作
+	研究成果
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

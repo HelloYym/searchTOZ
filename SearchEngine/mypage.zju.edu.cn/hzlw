@@ -1,0 +1,202 @@
+
+
+
+
+
+罗伟-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0095092";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	罗伟
+
+
+	永久链接:http://mypage.zju.edu.cn/hzlw&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			罗伟，男，白族，1964年出生，研究员，硕士生导师。1984年7月西北工业大学材料系本科毕业后进入成都飞机工业公司工作，1987年9月考入上海交通大学材料系攻读硕士学位，1990年1月获得硕士学位后进入杭州制氧机集团公司工作，1995年6月调入浙江大学材料系，获得博士学位后留校工作。作为负责人或核心成员承担多项国家、省级科研项目和军工配套、军工预研和企业委托科研项目，6项科技成果通过省级鉴定，作为主要完成人获国家技术发明二等奖1项、省科技一等奖2项和省部科技二等奖3项，已获授权国家发明专利29项，在国内外发表科技论文60余篇。
+			
+				
+			工作研究领域
+			
+			磁性材料、焊接、纳米金属材料
+			
+				
+			联系方式
+			
+						电子信箱：hzlw6050@sina.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：罗伟
+		单位：材料科学与工程学系
+		职称：研究员
+		我的主页共被访问了520次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

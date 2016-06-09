@@ -1,0 +1,209 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="qy06003";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/qy06003&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			长期从事分析化学和分析仪器教学和研究，所领导的研究集体在国际上首创了微波等离子体炬（MPT）激发光源，现已成功地用于原子发射、原子荧光和原子质谱分析，所发明的MPT光谱仪已产业化。还发明了色谱用微波等离子体离子化检测器和采用该检测器的便携式气相色谱仪、采用光谱视网目技术的红外分光测油仪、采用液芯波导技术的便携式高灵敏光度计，发展了采用酶催化动力学光度法的便携式农药残毒检测仪、量子点编码微球微流控芯片流式生化分析仪、SPR生物分子相互作用实验装置、采用短波近红外漫透射的玉米品质快速分析仪等。
+
+			
+				
+			工作研究领域
+			
+			1.分析化学新方法、新技术
+2.分析测试技术与仪器
+3.过程分析技术与仪器
+4.分析仪器新方法、新技术
+5.纳米粒子及其分析应用
+6.疾病早期分子诊断技术
+
+			
+				
+			联系方式
+			
+						电子信箱：qhjin2003@yahoo.com.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：金钦汉
+		单位：工业系统与控制国家重点实验室智能系统与控制研究所
+		职称：教授、博导
+		我的主页共被访问了4625次
+标签：癌症dPCR等离子体气化IFC芯片MPTSPR数字PCR癌症早期诊断dPCR等离子体气化IFC芯片疾病早期诊断MPTSPR数字PCR	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

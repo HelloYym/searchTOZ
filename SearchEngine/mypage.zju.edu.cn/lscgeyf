@@ -1,0 +1,221 @@
+
+
+
+
+
+奔跑的麋鹿-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0085420";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	奔跑的麋鹿
+即便四不像也要奔跑
+
+	永久链接:http://mypage.zju.edu.cn/lscgeyf&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			2010-12-1514:47:52
+
+2010年杭州第一场雪，今天哗~哗~哗地下开了，
+不一会儿地面的绿化带上，房屋顶上都积起了厚厚的一层！&nbsp;
+真可谓，天苍苍，地茫茫，杭州全城穿新衣裳&mdash;&mdash;轻歌曼舞，纷外耀眼！
+今年这场雪，
+与去年比毫不逊色。
+并且今年是第一场雪就是哗~哗~哗，非常壮观。
+去年那场是年底最后一场，前面有零星的下过几次。&nbsp;
+哗哗哗，窗外还在下，很强，很大，很给力！
+雪对于南方来说，比较稀罕，这几年老天爷还是比较眷顾杭州的。在全球变暖的大环境下，杭州连续几年都下大雪，实在很难得。
+特记之。
+			
+				
+			工作研究领域
+			
+			2009-12-2710:36:38
+唰~唰~唰!下雪了！
+我感觉天上像有一把巨大无比的天筛，上帝正在用它筛面粉！地球人都因此受到了恩惠，纷纷做起了面包、面条、饺子、锅盔等面食来庆贺新年。
+尽管这仅仅是想像，但也不无科学道理哟。冬天如果下场雪，一是保暖土壤，积水利田，二是为土壤增添肥料，三是冻死害虫，来年肯定大丰收，即瑞雪兆丰年。而这季节地里种的最多的是小麦、大麦。它们丰收了，不就是面粉产量增加了？！纷纷扬扬落下的不正是上帝经过严格筛选的优质面粉吗？！
+唰~唰~唰!唰~唰~唰!雪越下越大了！上帝听到了人们感激的声音，积极性一下高起来了，调遣了更多地部下在一起更卖力地“我筛！我筛！我筛筛筛！”因筛有各种孔径，故我们所见的除像细细的面粉状落下外，还有像儿子语文书上《咏雪》所说的“撒盐空中差可拟”，“未若柳絮因风起”样子。
+唰~唰~唰!下雪了！
+唰~唰~唰!下雪了！
+孩子们都在奔走相告，我也不例外，仅以此文告知我的朋友。
+
+GEyf@home2009/12/27/10:52
+			
+					
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：云
+		单位：生命科学学院
+		职称：无
+		我的主页共被访问了6931次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		发表论文
+	奖励荣誉
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

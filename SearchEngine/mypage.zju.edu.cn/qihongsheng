@@ -1,0 +1,214 @@
+
+
+
+
+
+祁宏生的页面-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0011818";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	祁宏生的页面
+
+
+	永久链接:http://mypage.zju.edu.cn/qihongsheng&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			祁宏生，男，1984年7月生，博士，浙江大学建筑工程学院交通工程研究所讲师，主要从事交通流理论、交通拥堵演化、交通优化等方面的研究工作，参与完成包括国家973项目、自然科学基金重点项目在内的多个科研项目，作为主要技术负责人系统研究了信控路网交通流模型、交通堵塞扩散模型、路网供需平衡控制理论等内容。现已在国内外学术刊物发表并检索SCI/EI论文30余篇，申报发明专利8项，并获得吉林省科技进步奖一等奖一项。
+&nbsp;
+受教育经历：
+2008.09~2011.06，吉林大学交通学院，工学博士
+2006.09~2008.06，吉林大学交通学院，工学硕士
+2002.09~2006.06，吉林大学交通学院，本科
+&nbsp;
+工作经历：
+2014.01~至今，&nbsp;浙江大学建筑工程学院讲师
+2011.09~2013.12，浙江大学建筑工程学院博士后
+			
+				
+			工作研究领域
+			
+			交通流理论，交通控制，交通状态分析等
+			
+				
+			联系方式
+			
+						电子信箱：qihongsheng@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：祁宏生
+		单位：交通工程研究所
+		职称：讲师
+		我的主页共被访问了1282次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		专利成果
+	工作研究项目
+	发表论文
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

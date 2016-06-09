@@ -1,0 +1,224 @@
+
+
+
+
+
+陈凌的个人网页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0096017";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	陈凌的个人网页
+
+
+	永久链接:http://mypage.zju.edu.cn/0096017&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			陈凌，男，1966年4月出生，浙江建德人。德国柏林洪堡大学经济学博士（1995），浙江大学管理学院副院长、教授、博士生导师。主要研究有关中国近现代企业史，家族企业的现代转型，公司治理与企业发展、区域经济发展和劳动就业问题等。
+自1983年9月分别就学于复旦大学管理科学系、北京大学经济管理系和德国柏林洪堡大学经济系，经济学博士学位论文&ldquo;DieInstitutionelleundOekonomischeAnalysederArbeitsorganisation&rdquo;(1995)在德国出版,中文著作有《回归市场&mdash;&mdash;民主德国经济转型与国企改造》（1999）、《联邦德国劳动力市场与就业政策研究》（2000）、《浙江就业报告2004：市场化改革与浙江就业》（2004）、《制度与能力：中国民营企业成长阶段的案例分析》（2007）等共5部，在《经济研究》、《管理世界》等杂志发表&ldquo;试论劳动力市场的供给管理&rdquo;（1997）、&ldquo;信息特征、交易成本与家族式组织&rdquo;（1998）、&ldquo;就业体制转型的国际比较：东德与中国&rdquo;（1999）、&ldquo;代际传承：家族企业继任管理与创新&rdquo;（2003）、&ldquo;超越钱德勒命题：重新评价《看得见的手》&rdquo;（2005）、&ldquo;传亲属还是聘专家：浙江家族企业接班问题考察&rdquo;（2005）、&ldquo;资本合作与信任扩展：一个跨越家族的创业故事&rdquo;（2006）、&ldquo;中国家族企业成长中的障碍与出路&rdquo;（2006）、&ldquo;从家族企业到创业家族&rdquo;（2009）和&ldquo;家族企业的社会责任感&rdquo;（2009）等论文50余篇。自1997年迄今主持近20项国际合作、国家与省部级项目研究，包括国家自然科学基金面上项目3项，美国福特基金会资助项目1项，省级社会科学基金重点项目2项，省部级一般研究项目10项。
+1997年晋升为副教授，2001年破格晋升为教授，2002年取得博士生导师资格。1996年以后曾赴德国柏林工业大学、德国杜伊斯堡大学、德国维腾大学、加拿大多伦多大学、意大利特伦托大学、香港中文大学等访问研究或担任客座教授，自2004年5月担任浙江大学城市学院特聘兼职教授、浙江大学城市学院家族企业研究所所长，2005年9月-2009年7月任浙江大学经济学院副院长，自2009年7月转至浙江大学管理学院。2002年入选&ldquo;教育部新世纪人才培养计划&rdquo;，自2003年入选浙江省151人才工程第一层次。
+在家族企业的传承、公司治理与经营管理模式等方面已经积累较多理论研究成果和实战经验，多次应邀在欧美和东南亚国家的高端论坛和学术研讨会发表主题发言，作为特邀专家参加中央电视台经济频道、上海东方电视台&ldquo;头脑风暴&rdquo;等栏目的专题节目制作，同时担任多家国内外大型家族企业管理顾问或独立董事。
+
+
+
+ChenLing(Ph.D)陈凌博士
+ProfessorforFamilyBusinessandBusinessHistory,
+教授（家族企业与企业史）,博士生导师
+ViceDean,SchoolofManagement,ZhejiangUniversity
+浙江大学管理学院副院长
+Director,InstituteofFamilyBusiness,CityCollege,ZJU
+浙江大学城市学院家族企业研究所所长
+&nbsp;
+Address:
+YuhangtangRoad38,ZijinggangCampus,ZhejiangUniversity
+Hangzhou,310058,Zhejiang,China
+浙江省杭州市余杭塘路388号
+浙江大学紫金港校区管理学院
+邮编：310058
+Tel.&amp;Fax:+86-571-8820-6803
+E-mail:ietlchen@zju.edu.cn
+			
+				
+			工作研究领域
+			
+			中国近现代企业史，家族企业的现代转型，区域经济发展和劳动就业问题
+			
+				
+			联系方式
+			
+			电话：0571-88206803			电子信箱：ietlchen@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：陈凌
+		单位：管理学院
+		职称：教授
+		我的主页共被访问了7366次
+标签：工商管理	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

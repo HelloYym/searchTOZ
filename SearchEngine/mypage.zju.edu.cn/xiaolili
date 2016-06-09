@@ -1,0 +1,211 @@
+
+
+
+
+
+李晓丽-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0009796";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	李晓丽
+浙江大学李晓丽主页
+
+	永久链接:http://mypage.zju.edu.cn/xiaolili&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+
+
+
+
+
+李晓丽，女，四川广安人，浙江大学，副教授，博士生导师，主要从事农业电气化与自动化、农业信息化、数据挖掘模式识别、茶叶的生理生化及品质无损测量方法研究等，主持了国家级和省部级项目多项，包括国家自然科学基金，国家十二五科技支撑计划项目子项目，中国博士后基金面上项目，浙江省博士后基金一等资助、浙江省教育厅科研项目和浙江省公益性应用项目等。研究成果发表在农业工程领域最权威期刊《TransactionsoftheASABE》，以及《JournalofFoodEngineering》，《ExpertSystemswithApplications》，《Hortscience》等TopSCI期刊上；近年，发表SCI收录论文40多篇，论文的SCI引用次数合计600多次。获得发明专利6项，实用新型专利1项。受邀参加了在韩国、澳大利亚、法国等国召开的国际学术会议，并宣读大会报告，获得了国内外同行的好评。获得浙江省自然科学一等奖一项、机械工业学会科学技术三等奖一项。
+
+&nbsp;
+			
+				
+			工作研究领域
+			
+			农业电气化与自动化、农业信息化、农产品及作物生理生态信息快速无损检测研究。
+			
+				
+			联系方式
+			
+						电子信箱：xiaolili@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：李晓丽
+		单位：生物系统工程与食品科学学院
+		职称：副教授
+		我的主页共被访问了1953次
+标签：academics	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		发表论文
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

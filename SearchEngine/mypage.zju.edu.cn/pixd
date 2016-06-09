@@ -1,0 +1,253 @@
+
+
+
+
+
+皮孝东-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0008378";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	皮孝东
+XiaodongPi(XDPi)
+
+	永久链接:http://mypage.zju.edu.cn/pixd&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			教育经历：
+英国巴斯大学（UniversityofBath）物理系
+博士生（2000/10-2004/01）
+&nbsp;
+浙江大学材料科学与工程学系
+硕士生（1997/09-2000/06）
+&nbsp;
+武汉工业大学材料科学与工程学院
+本科生（1993/09-1997/06）
+&nbsp;
+工作经历：
+
+浙江大学（ZhejiangUniversity）材料科学与工程学系和硅材料国家重点实验室
+教授（2012/12-现在）
+&nbsp;
+浙江大学（ZhejiangUniversity）材料科学与工程学系和硅材料国家重点实验室
+副教授（2008/11-2012/12）
+&nbsp;
+
+美国明尼苏达大学（UniversityofMinnesotaatTwinCities）机械工程系
+研究助理教授（2007/12-2008/10）
+&nbsp;
+
+美国明尼苏达大学（UniversityofMinnesotaatTwinCities）机械工程系
+助理研究员（2005/08-2007/11）
+&nbsp;
+
+
+
+加拿大麦可马斯特大学（McMasterUniversity）工程物理系
+博士后（2004/02-2005/07）
+			
+				
+			工作研究领域
+			
+			硅/锗纳米晶体（硅/锗纳米颗粒、硅/锗量子点）和硅/锗烯：计算、合成、表征及其在光伏和光电领域的应用。
+目前主要在以下三个方面开展研究：
+1、杂质效应：有意和无意引入的杂质
+2、表面效应：无机和有机配体
+3、印刷成膜：光伏和光电器件
+			
+				
+			联系方式
+			
+			电话：+8657187951667			电子信箱：xdpiATzju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：皮孝东
+		单位：硅材料国家重点实验室和材料科学与工程学系
+		职称：教授
+		我的主页共被访问了43869次
+标签：硅/锗量子点，硅烯/锗烯
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		研究组成员
+	教学工作
+	工作研究项目
+	发表论文
+	学术交流（讲座报告）
+	研究新闻
+	研究成果
+	出版著作
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	硅材料国家重点实验室
+科学网
+Nanotechweb
+MaterialsResearchSociety
+MaterialsToday
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

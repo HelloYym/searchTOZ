@@ -1,0 +1,581 @@
+
+
+
+
+
+朱嵩-博客
+
+
+
+
+
+
+varctxPath="http://mypage.zju.edu.cn";
+varb_handle="zhusong";
+varcfg_weblog="http://mypage.zju.edu.cn/weblog";
+vard=newDate()
+varselyear=d.getFullYear();
+varselmonth=d.getMonth()+1;
+
+
+
+
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	color:#111;
+	margin-right:10px;	
+}
+#mainlinkullia,.tagsa:hover{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+.tagsa{
+	margin-right:10px;
+}
+img{
+	border:none;
+}
+
+
+
+
+
+
+
+
+
+
+	
+		首页
+		帮助
+		登录
+	
+
+
+
+
+
+
+	朱嵩
+计算流体力学及反问题
+
+	永久链接:http://mypage.zju.edu.cn/weblog/zhusong&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+
+
+	中文主页
+			博客
+
+
+
+
+
+
+
+
+
+
+			
+				
+
+	
+[1/4]
+首页	上一页下一页末页
+
+	
+
+浏览模式:普通|列表
+
+
+
+
+
+
+		学术报告：InverseProblemswithL1DataFitting:AlgorithmandParameterChoice
+
+作者:朱嵩日期:2010-01-02Saturday
+
+
+
+报告题目：InverseProblemswithL1DataFitting:AlgorithmandParameterChoice报告人：金邦梯（西澳大学数学系）CenterforIndustrialMathematicsUniversityofBremen,D-28334Bremen,Germany报告时间：1月3日下午3：00&mdash;4：00报告地点：...
+查看更多...
+
+
+
+
+
+分类:学术|			固定链接|评论总数0|
+			阅读次数108
+
+
+
+
+
+
+
+		turbulentScnumber
+
+作者:朱嵩日期:2009-12-11Friday
+
+
+
+Adimensionlessnumberusedinthestudyofmasstransferinturbulentflow,equaltotheratiooftheeddyviscositytotheeddymassdiffusivity.SymbolizedScT.
+查看更多...
+
+Tags:
+流体力学
+	
+
+
+
+分类:学术|			固定链接|评论总数0|
+			阅读次数223
+
+
+
+
+
+
+
+		会议信息：InternationalConferenceonInverseProblems
+
+作者:朱嵩日期:2009-09-06Sunday
+
+
+
+IOPPUBLISHINGINVERSEPROBLEMSInverseProblems25(2009)doi:10.1088/0266-5611/25/9/M01CONFERENCEANNOUNCEMENTInternationalConferenceonInverseProblems26&ndash;29April2010,WuhanUniversity,Wuhan,ChinaObjectiveInverseProblemshasbe...
+查看更多...
+
+Tags:
+信息反问题
+	
+
+
+
+分类:学术|			固定链接|评论总数0|
+			阅读次数153
+
+
+
+
+
+
+
+		会议信息：SixthInternationalConferenceonComputationalFluidDynamics(ICCFD6)
+
+作者:朱嵩日期:2009-09-06Sunday
+
+
+
+TheSixthInternationalConferenceonComputationalFluidDynamicswillbeheldonJuly12-16,2010inSt.Petersburg,Russia.TheConferenceisdevotedtoallinnovativeaspectsofCFD,basicandapplied.Thedeadlineforsubmittingabstractsis...
+查看更多...
+
+Tags:
+信息计算流体力学
+	
+
+
+
+分类:学术|			固定链接|评论总数0|
+			阅读次数104
+
+
+
+
+
+
+
+		会议信息:The8thAsianComputationalFluidDynamicsConference,Jan.10-14,2010
+
+作者:朱嵩日期:2009-09-06Sunday
+
+
+
+The8thAsianComputationalFluidDynamicsConferencewillbeheldonJan.10-14of2010,atHongKongUniversityofScienceandTechnology,(http://www.me.ust.hk/~acfd8)TheAsianComputationalFluidDynamicsConference...
+查看更多...
+
+Tags:
+信息计算流体力学
+	
+
+
+
+分类:学术|			固定链接|评论总数0|
+			阅读次数107
+
+
+
+
+
+
+
+		Analogybetweenphenomena
+
+作者:朱嵩日期:2009-12-14Monday
+
+
+
+AnalogybetweenphenomenaAnimportantprincipleinthestudyoftransportphenomenaisanalogybetweenphenomena.Forexample,mass,energy,andmomentumcanallbetransportedbydiffusion:Thespreadinganddissipationofodoursinairisanex...
+查看更多...
+
+Tags:
+流体力学计算流体力学技术
+	
+
+
+
+分类:学习|			固定链接|评论总数0|
+			阅读次数228
+
+
+
+
+
+
+
+		eddyviscosity
+
+作者:朱嵩日期:2009-12-11Friday
+
+
+
+Inthestudyofturbulenceinfluids,acommonpracticalstrategyforcalculationistoignorethesmall-scalevortices(oreddies)inthemotionandtocalculatealarge-scalemotionwithaneddyviscositythatcharacterizesthetransportanddis...
+查看更多...
+
+Tags:
+流体力学
+	
+
+
+
+分类:学术|			固定链接|评论总数0|
+			阅读次数204
+
+
+
+
+
+
+
+		工程流体力学讲义（第8章）
+
+作者:朱嵩日期:2009-05-06Wednesday
+
+
+
+http://estore.zju.edu.cn/tsContentDownload.htm?shareCode=9ecac364-af4a-4bb3-bd39-d270ca2f71fc
+查看更多...
+
+Tags:
+流体力学城市学院
+	
+
+
+
+分类:学术|			固定链接|评论总数0|
+			阅读次数217
+
+
+
+
+
+
+
+		计算方法-下载资源
+
+作者:朱嵩日期:2009-07-09Thursday
+
+
+
+http://www.filecrop.com/Computational-methods-for-inverse-problems.html
+查看更多...
+
+
+
+
+
+分类:学术|			固定链接|评论总数0|
+			阅读次数106
+
+
+
+
+
+
+
+		MYWAY
+
+作者:朱嵩日期:2009-05-13Wednesday
+
+
+
+歌好听，我们0801同学唱得更好，祝大家明天下午唱得开心同时取得好成绩！一直在酝酿一直在盼望爸爸和妈妈唯一的理想二月第一天一九八一年我第一次对他们眨了眨眼等待快点过去多少个明天希望这个宝贝快快长大一点一点身体要健康所有的事情都如所愿...
+查看更多...
+
+Tags:
+班级活动班主任
+	
+
+
+
+分类:默认分类|			固定链接|评论总数0|
+			阅读次数110
+
+
+			
+			
+		
+		
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+	
+	
+		姓名：朱嵩
+		单位：建筑工程学院
+		职称：助理研究员（自然科学）
+		我共发表了32篇文章
+		共收到0条评论
+		我的主页共被访问了8449次
+	
+	
+	
+	
+
+
+我的文章分类
+
+	默认分类
+		
+学术
+		
+学习
+		
+技术
+		
+思绪
+		
+
+
+
+
+日历
+
+
+
+>>
+年月
+
+
+
+日
+一
+二
+三
+四
+五
+六
+
+
+
+
+
+
+
+
+
+
+
+我的最新文章
+
+
+		学术报告：InversePro...
+Analogybetweenpheno...
+eddyviscosity
+turbulentScnumber
+LIVEINTHEFUTURE？
+会议信息：Internation...
+会议信息：SixthInter...
+会议信息:The8thAsi...
+IPNetDigestVolum...
+计算方法-下载资源
+	
+
+
+
+
+我的热点文章
+
+
+				学术报告：InversePro...
+		工程流体力学讲义（第一...
+		工程流体力学讲义（第1...
+		《奇妙的流体运动科学》
+		第十四届全国流体力学数...
+		Analogybetweenpheno...
+		turbulentScnumber
+		工程流体力学讲义（第二...
+		工程流体力学讲义（第8...
+		工程流体力学讲义（第四...
+
+	
+
+
+我收到的评论
+
+	
+	
+
+
+我的文章汇总
+
+		2010年1月[1]
+		2009年12月[3]
+		2009年9月[4]
+		2009年7月[2]
+		2009年5月[5]
+		2009年4月[3]
+		2009年3月[6]
+		2009年2月[3]
+		2008年12月[5]
+		
+	
+
+
+链接
+
+AlbertTarantola
+浙江大学建筑工程学院
+CFD@NASA
+力学基地（浙江大学）
+PNNL
+USGS
+
+
+
+
+
+检索
+
+
+
+
+-所有文章-
+默认分类
+学术
+学习
+技术
+思绪
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+
+
+varflag=newArray();
+flag[0]='2008/12/06';
+flag[1]='2009/04/07';
+flag[2]='2009/04/17';
+flag[3]='2009/03/25';
+flag[4]='2009/09/24';
+flag[5]='2008/12/13';
+flag[6]='2009/02/15';
+flag[7]='2009/03/22';
+flag[8]='2009/03/17';
+flag[9]='2008/12/31';
+flag[10]='2009/03/04';
+flag[11]='2009/02/23';
+flag[12]='2009/03/07';
+flag[13]='2009/02/18';
+flag[14]='2009/03/15';
+flag[15]='2009/07/10';
+flag[16]='2009/05/06';
+flag[17]='2009/05/23';
+flag[18]='2009/05/13';
+flag[19]='2009/07/09';
+flag[20]='2009/12/11';
+flag[21]='2010/01/02';
+flag[22]='2009/12/14';
+flag[23]='2009/09/06';
+
+
+varcale=newCalendar("idCalendar",{
+SelectDay:newDate(),
+onSelectDay:function(o),
+onToday:function(o),
+onFinish:function(){
+$("idCalendarYear").innerHTML=this.Year;$("idCalendarMonth").innerHTML=this.Month;
+for(vari=0,len=flag.length;i<len;i++){
+//alert(flag[i]);
+	vard=newDate(flag[i]);
+	if(this.Year==d.getYear()){
+		if(this.Month==d.getMonth()+1)
+		{
+this.Days[d.getDate()].innerHTML=""+d.getDate()+"";
+			
+		}
+
+	}
+}
+}
+});
+$("idCalendarPre").onclick=function()
+$("idCalendarNext").onclick=function()
+
+
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));

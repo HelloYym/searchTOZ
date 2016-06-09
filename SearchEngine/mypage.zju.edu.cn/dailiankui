@@ -1,0 +1,213 @@
+
+
+
+
+
+戴连奎-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0087176";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	戴连奎
+戴连奎的主页
+
+	永久链接:http://mypage.zju.edu.cn/dailiankui&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;为改变我国目前高端在线分析仪表严重依赖进口的局面，自2002年以来一直在从事光谱分析方法及其在线分析系统的研究开发。作为项目负责人，已完成国家&ldquo;863&rdquo;课题2项、省级课题2项，正在承担的国家科研项目2项，涉及激光拉曼光谱、近红外光谱、三维荧光光谱、X射线荧光光谱等光谱分析方法与应用技术。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;光谱分析系统包括光谱信号的检测与预处理、基于光谱信号的物性定性分类与成份定量分析等方面，涉及硬件开发、信号处理、分析模型建立、软件开发与应用等环节，目前主要应用领域包括：石油化工产品的品质实时分析、食品安全检测、环境监测等。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;由于原始谱图数据维数高，并含有各种光电噪声，需要运用智能信息处理方法，以提取有效的特征信息；而分析系统的主要目的是用于实时分析产品的组成或属性，为此，需要运用各种非线性建模方法，其中以支持向量机为代表的智能学习方法具有广泛的应用价值。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;近两年已发表相关的SCI/EI收录期刊论文十余篇，研究内容涉及：支持向量机、稳健建模、界外点检测、模型移植等方法，及其在波谱预处理、样品定性分类与定量分析中的应用。与此同时，结合项目研究开发工作，提交相关的发明专利申请多项。
+			
+				
+			工作研究领域
+			
+			1、光谱检测分析技术
+2、基于数据的信息智能处理方法研究
+3、过程在线分析系统的开发与工业应用
+4、水污染与食品安全检测方法研究及其应用
+
+			
+				
+			联系方式
+			
+			电话：0571-87952127			电子信箱：lkdai@iipc.zju.edu.cn,lkdai@yahoo.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：戴连奎
+		单位：控制科学与工程学系
+		职称：教授
+		我的主页共被访问了22950次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+	奖励荣誉
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

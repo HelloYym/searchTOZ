@@ -1,0 +1,220 @@
+
+
+
+
+
+基本信息-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0095017";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	基本信息
+
+
+	永久链接:http://mypage.zju.edu.cn/0095017&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;
+陈水福教授主要工作、学习经理
+&nbsp;1985.9~1989.7：西安公路学院（现长安大学）本科生
+&nbsp;1989.9~1995.2：浙江大学土木系硕士生、博士生
+&nbsp;1995.3~1997.3：浙江大学土木系讲师
+&nbsp;1997.4~1998.8：香港理工大学研究助理、副研究员
+&nbsp;1998.8~2002.11：浙江大学土木系副教授
+&nbsp;1999.7~1999.10：香港理工大学副研究员
+&nbsp;2000.7~2000.10：香港理工大学副研究员
+&nbsp;2002.12至今：浙江大学土木系教授
+&nbsp;2005.9：日本佐贺大学访问教授
+男，1989年7月本科毕业于西安公路学院（现长安大学）工程力学专业，获工学学士学位。1989年9月起在浙江大学攻读结构工程硕士学位，1992年2月开始直接攻读博士学位。1995年2月博士研究生毕业，获工学博士学位。1995年3月起在浙江大学土木系工作，1998年晋升副教授，2002年破格晋升教授。1997年4月至1998年8月、1999年7月至10月、2000年7月至10月作为副研究员在香港理工大学进行合作研究。主要研究方向：结构风工程、结构计算机分析；主讲课程：本科生&ldquo;结构力学&rdquo;、&ldquo;弹性力学&rdquo;，研究生&ldquo;计算结构力学&rdquo;、&ldquo;工程弹塑性力学&rdquo;等。
+			
+				
+			工作研究领域
+			
+			1.结构风工程：结构风荷载、风环境的数值与风洞试验研究；低层房屋风灾害的预测、预警；风振响应、风与结构相互作用分析。
+2.结构计算机分析：大型复杂结构（复杂体系高层建筑、大跨结构等）的计算机分析；钢骨混凝土组合柱、组合结构的弹塑性极限分析。
+主要研究领域：结构风工程、结构计算机分析、钢-混凝土组合结构分析。作为项目负责人主持国家自然科学基金面上项目2项、重点项目子课题1项；主持国家高技术研究发展计划（863计划）项目1项、“十五”国家重点科技攻关项目1项、“十一五”国家科技支撑计划课题子任务2项；主持浙江省政府委托重大研究项目子课题1项。作为主要参加者参与完成国家自然科学基金项目3项、浙江省自然科学基金项目3项；作为内地合作者完成和香港理工大学合作的研究项目两项。在国内外期刊及国际会议上发表论文70多篇，其中SCI、EI检索20多篇，ISIP检索3篇。
+			
+				
+			联系方式
+			
+			电话：0571-88208722			电子信箱：csf@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：陈水福
+		单位：建筑工程学院土木工程学系
+		职称：教授
+		我的主页共被访问了5806次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		出版著作
+	主持的纵向研究课题
+	代表性论文或著作
+	奖励、荣誉或社会兼职
+	教学工作
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,227 @@
+
+
+
+
+
+殷学仁-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0010068";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	殷学仁
+果实品质生物学
+
+	永久链接:http://mypage.zju.edu.cn/yxr&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			殷学仁,男，浙江宁波人。博士，副教授（具有博士招生资格），浙江大学求是青年学者，全国百篇优秀博士论文提名奖。浙江大学农业与生物技术学院果树科学研究所。
+学习简历：
+2001.09-2005.06&nbsp;&nbsp;&nbsp;&nbsp;浙江大学农业与生物技术学院园艺系&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;学士
+2005.09-2010.06&nbsp;&nbsp;&nbsp;&nbsp;浙江大学农业与生物技术学院果树所&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;博士
+2007.04-2009.06&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;新西兰植物与食品研究所(Plant&amp;FoodResearch)&nbsp;&nbsp;联合培养博士
+2013.09-2013.12&nbsp;&nbsp;&nbsp;&nbsp;BoyceThompsonInstituteforPlantResearch&nbsp;&nbsp;&nbsp;&nbsp;访问学者
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+工作简历：
+2010.07-2012.12&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江大学农业与生物技术学院&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;教师/讲师
+2011.05&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江大学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;求是青年学者(首批)
+2011.05-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江大学农业与生物技术学院&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;硕士生导师
+2013.01-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江大学农业与生物技术学院&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;副教授
+2013.07-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江大学农业与生物技术学院&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;博士招生资格
+研究兴趣和方向：
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;主要研究方向为果实品质生物学研究。主要研究内容包括乙烯调控果实成熟衰老及品质变化的转录机制（重点开展基于ERF及多转录因子协同的转录调控机制研究）；果实采后品质维持与调控技术研发和机制研究。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;先后承担国家自然科学基金（面上项目、青年基金）、公益性（农业）行业专项课题、973计划子课题、教育部博士点基金等。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;以第一作者/通讯作者先后在《PlantPhysiology》、《JournalofExperimentalBotany》、《PlantBiotechnologyJournal》、《PLoSOne》、《Planta》、《PostharvestBiologyandTechnology》等期刊发表系列学术论文。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;受邀为《PlantPhysiology》、《NewPhytologist》、《JournalofExperimentalBotany》、《PLOSONE》、《PlantCell,TissueandOrganCulture》、《PostharvestBiologyandTechnology》、《JournalofAgriculturalandFoodChemistry》、《PlantMolecularBiologyReporter》、《PlantGrowthRegulation》、《JournalofPlantGrowthRegulation》、《Genetica》、《ScientiaHorticulturae》、《AoBPlants》等期刊评审论文。&nbsp;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;欢迎有兴趣从事果实分子生物学和转录调控机制研究、采后成熟衰老及品质调控研究的研究生/博士后加入研究团队；欢迎相关领域同行开展合作研究。
+&nbsp;
+			
+				
+			工作研究领域
+			
+			主要研究方向为果实采后品质生物学
+
+			
+				
+			联系方式
+			
+			电话：0571-88982461			电子信箱：xuerenyin@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：殷学仁
+		单位：浙江大学果树科学研究所
+		职称：副教授
+		我的主页共被访问了9773次
+标签：果实品质生物学，采后生物学与技术，分子生物学及转录调控	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		发表论文
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

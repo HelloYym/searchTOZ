@@ -1,0 +1,202 @@
+
+
+
+
+
+沈晓华-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0082159";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	沈晓华
+
+
+	永久链接:http://mypage.zju.edu.cn/0082159&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			沈晓华教授博士博导&nbsp;82年浙江大学地质学专业本科毕业，主要研究领域为地质构造的数字化分析，方向包括（1）构造几何变形的定量测算，主要工作集中于节理的野外测量，建立节理空间分布模型，通过有限元构造应力模拟，分析控制节理的地质因素，预测地质体中节理发育程度和连通性。（2）构造地质中的分形几何，主要学术贡献：建立了用于构建分形维数空间分布模型的连续叠移法，并完善了计算曲线、平面和空间对象的系列算法，测算了构造节理、构造控制的地形、海岸线等自然地质对象的分形维数及空间分布模型，探索了构造作用的地表响应形式及非线性特征，为具有多要素控制复杂成因地质对象的重分形研究提供了新的思路和方法。代表性论文：FractalcharacteristicsofthemainchannelofYellowRiveranditsrelationtoregionaltectonicevolution&nbsp;,GEOMORPHOLOGY&nbsp;127(1-2）:64-70&nbsp;&nbsp;，APR12011（TOP）（3）遥感影像的地学信息专题处理，主要学术贡献有二：一是提出了利用ETM识别油气晕的有效参数，并应用于大庆油田外围的资源评价，代表性论文:RemotesensingdetectionofheavyoilthroughspectralenhancementtechniquesinthewesternslopezoneofSongliaoBasin,China，AAPGBULLETIN，93（1）:31-49，JAN2009（TOP）。二是建立了用于热红外遥感信号处理的尺度滤波法，成功从遥感影象热红外波段提取了褶皱，断层等浅部地质体对地热传导影响的相关信号，为认识浅部构造、地热传导机制及评价地热资源提供了一种新的手段。该方向发表SCI论文5篇（其中国际SCI2篇）
+			
+				
+			联系方式
+			
+						电子信箱：shenxh@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：沈晓华
+		单位：地球科学系
+		职称：教授
+		我的主页共被访问了18968次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	奖励荣誉
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,248 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0092421";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0092421&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+1989.09-1992.11
+&nbsp;&nbsp;在浙江大学机械工程系攻读博士学位，1992.11获工程博士学位.
+&nbsp;&nbsp;研究方向：旋转机械振动主动控制
+&nbsp;&nbsp;论文题目:新型可控挤压油膜阻尼轴承对转子系统振动的主动控制
+1983.09-1986.02
+&nbsp;在西北工业大学和中国燃气涡轮研究院攻读硕士学位，1986.02获工程硕士学位.
+&nbsp;研究方向：旋转机械动力学
+&nbsp;论文题目:挤压油膜阻尼轴承转子系统的理论与实验研究
+1979.09-1983.07
+&nbsp;在西北工业大学航空发动机系统攻读学士学位，1983.07获工程学士学位.
+&nbsp;研究方向：航空发动机结构、强度和振动
+&nbsp;论文题目:预扭旋转叶片弯扭复合振动分析
+工作经历:
+2001.08-至今教授、博士生导师
+浙江大学电气工程学院
+研究内容：主动磁轴承、智能材料与结构、智能机电一体化、电/磁流变流体、无轴承电机、旋转机械振动主动控制、转子动力学等.
+2003.10-2003.12访问教授
+德国达母斯达特技术大学(TechnicalUniversityofDarmstadt)力学系
+研究内容：主动磁轴承的可靠性、智能材料与结构、智能机电一体化等.
+2001.08-2002.02国家教委&ldquo;春晖&rdquo;计划访问教授
+西安交通大学转子与轴承研究所
+研究内容：主动磁轴承、智能机电一体化、电/磁流变流体及其应用.
+1998.08-2001.07研究员
+英国帝国理工学院(ImperialCollegeofScience,TechnologyandMedicine,London)振动工程中心工作，从事欧共体&ldquo;利用主动控制技术改善机械的性能&rdquo;及&ldquo;航空涡轮机用的主动磁轴承&rdquo;项目。
+研究内容：转子系统新型执行器、主动磁轴承、转子系统的分析与实验、实验模态分析、智能流体在旋转机械上的应用、智能机械技术（建模、控制、故障诊断、性能预测和修正）
+1996.06-1998.02德国洪堡研究员
+获德国洪堡基金会（AlexandervonHumboldtFoundationofGermany）研究奖学金在埃森大学(EssenUniversity)机械系力学研究所工作。
+研究内容：用磁轴承控制充液离心机转子系统的不稳定性。
+1994.11-2001.10副教授
+浙江大学电气工程学院
+研究内容：旋转机械振动主动控制、非线性转子动力学、径向轴承和油膜阻尼器的分析与设计、充液离心机转子系统的不稳定性、电机系统的振动分析和控制、流固耦合及实验模态分析等。
+1992.11-1994.10博士后
+浙江大学电气工程学院
+研究内容：旋转机械振动主动控制、液氮润滑的微径向轴承分析与设计、电机振动和噪声的分析和控制等。
+1986.03-1989.08工程师、转子动力学研究室副主任
+四川航空航天工业部中国燃气涡轮研究院
+研究内容：挤压油膜阻尼轴承柔性转子系统非线性动力学、挤压油膜阻尼轴承的工程应用、流体压力的动态测试和分析、旋转机械故障的监测与诊断等。
+&nbsp;
+			
+				
+			工作研究领域
+			
+			1.旋转机械振动主动控制:主动电磁轴承，带有主动电磁轴承/阻尼器转子的动力学，转子系统诊断和稳定性主动控制，旋转机械新型执行器，电磁轴承的容错控制等。
+2.智能结构与智能机电一体化:电/磁流变流体在振动控制中的应用，智能流体执行器,智能机电一体化（建模、控制、故障诊断、性能预测和修正）。
+3.转子动力学:转子系统动力学，线性转子动力学，挤压油膜阻尼器、颈轴承及空气轴承的设计、分析及应用，充液转子系统动力学，旋转机械模态分析与试验，流固耦合动力学，磨擦与润滑等。
+4.机电一体化系统中振动与噪声的测量、分析与控制：电机振动与噪声的测量、分析与控制，开关磁阻电机模态实验与噪声主动控制，声强测量等
+			
+				
+			联系方式
+			
+			电话：0571-87951784(办)			电子信箱：zhu_zhang@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：祝长生
+		单位：电气工程学院电机工程学系
+		职称：教授
+		我的主页共被访问了15431次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	研究成果
+	专利成果
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

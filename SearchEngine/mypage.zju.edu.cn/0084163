@@ -1,0 +1,218 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0084163";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0084163&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			李海洋教授，博士生导师。&nbsp;凝聚态物理研究所副所长&nbsp;&nbsp;
+email:&nbsp;phyhyli@zju.edu.cn；
+Phone:&nbsp;&nbsp;(0571)87952857(office),
+Address:&nbsp;玉泉校区，教十二4301
+1956年生于陕西省子洲县
+1982年毕业于兰州大学物理系，磁学专业，学士学位。
+1984年毕业于浙江大学物理系，表面专业，硕士学位。
+1999年任浙江大学物理系教授，期间:
+1990,&nbsp;Visiting&nbsp;Scholar&nbsp;in&nbsp;ICTP(国际理论物理中心),Italy-Trieste
+1993－1994，&nbsp;Visiting&nbsp;Scholar&nbsp;in&nbsp;Department&nbsp;of&nbsp;Physics,&nbsp;Rome&nbsp;University,(意大利,罗马大学)
+2001-2002&nbsp;and&nbsp;2004.7-10&nbsp;&nbsp;Visiting&nbsp;Professor&nbsp;in&nbsp;ISA(Institute&nbsp;For&nbsp;Storage&nbsp;Ring&nbsp;Facilities&nbsp;at&nbsp;Aarhus&nbsp;University&nbsp;(丹麦，奥尔胡斯大学)
+			
+				
+			工作研究领域
+			
+			表面界面，低维物理,同步辐射应用，用SR-ARUPS，STM,LEED，AFM等实验手段分析研究半金属、过渡金属、双金属表面原子结构、电子态、能带和吸附特性
+
+
+			
+				
+			联系方式
+			
+			电话：0571-87952857			电子信箱：phyhyli@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：李海洋
+		单位：物理学系
+		职称：教授
+		我的主页共被访问了6652次
+标签：物理有趣有用	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

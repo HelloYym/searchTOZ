@@ -1,0 +1,363 @@
+
+
+
+
+
+頔声悠扬-博客
+
+
+
+
+
+
+varctxPath="http://mypage.zju.edu.cn";
+varb_handle="shaodi";
+varcfg_weblog="http://mypage.zju.edu.cn/weblog";
+vard=newDate()
+varselyear=d.getFullYear();
+varselmonth=d.getMonth()+1;
+
+
+
+
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	color:#111;
+	margin-right:10px;	
+}
+#mainlinkullia,.tagsa:hover{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+.tagsa{
+	margin-right:10px;
+}
+img{
+	border:none;
+}
+
+
+
+
+
+
+
+
+
+
+	
+		首页
+		帮助
+		登录
+	
+
+
+
+
+
+
+	頔声悠扬
+
+
+	永久链接:http://mypage.zju.edu.cn/weblog/shaodi&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+
+
+	中文主页
+			博客
+
+
+
+
+
+
+
+
+
+
+			
+				
+
+	
+[1/1]
+首页	上一页下一页末页
+
+	
+
+浏览模式:普通|列表
+
+
+
+
+
+
+		冬至
+
+作者:邵頔日期:2010-12-23Thursday
+
+
+
+我总是在岁末的时候容易突发很多感慨。岁末，我总觉得自己又长大一岁，前几天我还信誓旦旦地说，等我长大了，要买台什么样的车，突然意识到，到底多大是长大啊，没长大呢就老了。岁末突然很想发篇感谢贴，不敢发在QQ上怕我爹妈看见，事实上我尽管嫌弃他们唠叨但...
+查看更多...
+
+
+
+
+
+分类:默认分类|			固定链接|评论总数0|
+			阅读次数177
+
+
+
+
+
+
+
+		关于，关于康永来浙大
+
+作者:邵頔日期:2010-10-28Thursday
+
+
+
+我这人最热衷传播八卦新闻，以前在人文的时候，总要调侃&ldquo;牺牲我一个，娱乐全人文&rdquo;，以前他们还笑称我是紫金港广播台的，后来就变着浙江大学广播台了。所以对于这件事能保守这么久，我觉得我真的是狠狠狠不容易了！说正题，关于，关于康永...
+查看更多...
+
+
+
+
+
+分类:默认分类|			固定链接|评论总数1|
+			阅读次数353
+
+
+
+
+
+
+
+		致我的403位云峰学子
+
+作者:邵頔日期:2010-10-18Monday
+
+
+
+不经意间天气就凉了起来，然而和近几天早上拉开窗帘就倾泻进来的大把阳光比起来，仍然是让我觉得愉悦的。很久没有安静地坐在办公室，写些东西，记忆青春，因为太累，从睁开眼睛就下意识地抓过手机看有没有错过的电话和短信，一直到疲惫地拖着身体上床，始终...
+查看更多...
+
+
+
+
+
+分类:默认分类|			固定链接|评论总数3|
+			阅读次数416
+
+
+			
+			
+		
+		
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+	
+	
+		姓名：邵頔
+		单位：云峰学园
+		职称：助教
+		我共发表了3篇文章
+		共收到4条评论
+		我的主页共被访问了3338次
+	
+	
+	
+	
+
+
+我的文章分类
+
+	默认分类
+		
+
+
+
+
+日历
+
+
+
+>>
+年月
+
+
+
+日
+一
+二
+三
+四
+五
+六
+
+
+
+
+
+
+
+
+
+
+
+我的最新文章
+
+
+		冬至
+关于，关于康永来浙大
+致我的403位云峰学子
+	
+
+
+
+
+我的热点文章
+
+
+				致我的403位云峰学子
+		关于，关于康永来浙大
+		冬至
+
+	
+
+
+我收到的评论
+
+			
+
+	邵姐姐煽情的~
+		
+
+	注意身体呀，别总加...
+		
+
+	能聚在一起就是缘分...
+		
+
+	恩，有在关注，看来...
+
+	
+
+
+我的文章汇总
+
+		2010年12月[1]
+		2010年10月[2]
+		
+	
+
+
+链接
+
+
+
+
+
+
+检索
+
+
+
+
+-所有文章-
+默认分类
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+
+
+varflag=newArray();
+flag[0]='2010/10/28';
+flag[1]='2010/10/18';
+flag[2]='2010/12/23';
+
+
+varcale=newCalendar("idCalendar",{
+SelectDay:newDate(),
+onSelectDay:function(o),
+onToday:function(o),
+onFinish:function(){
+$("idCalendarYear").innerHTML=this.Year;$("idCalendarMonth").innerHTML=this.Month;
+for(vari=0,len=flag.length;i<len;i++){
+//alert(flag[i]);
+	vard=newDate(flag[i]);
+	if(this.Year==d.getYear()){
+		if(this.Month==d.getMonth()+1)
+		{
+this.Days[d.getDate()].innerHTML=""+d.getDate()+"";
+			
+		}
+
+	}
+}
+}
+});
+$("idCalendarPre").onclick=function()
+$("idCalendarNext").onclick=function()
+
+
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));

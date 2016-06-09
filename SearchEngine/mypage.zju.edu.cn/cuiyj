@@ -1,0 +1,208 @@
+
+
+
+
+
+崔元靖-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0006094";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	崔元靖
+YuanjingCui
+
+	永久链接:http://mypage.zju.edu.cn/cuiyj&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			崔元靖，男，博士，副教授，博士生导师，于1998年和2006年在浙江大学材料系分别获得工学学士和博士学位，2006年3月至2008年8月在浙江大学材料系从事博士后研究，出站后留校工作。2010年12月至2011年12月在美国德克萨斯大学圣安东尼奥分校化学系开展访问研究。目前主要从事金属－有机框架材料及其光子学应用研究，近年来已在Chem.Rev.、Coordin.Chem.Rev.、Nat.Commun.、Adv.Mater.、J.Am.Chem.Soc.、Angew.Chem.Int.Ed.、Chem.Commun.、J.Mater.Chem.、Macromolecules等刊物发表SCI论文90多篇，被SCI他引2700多次，授权国家发明专利14项，获浙江省杰出青年科学基金和钱江人才计划资助，承担国家自然科学基金项目、浙江省自然科学基金项目和浙江省科技计划项目多项。
+
+			
+				
+			工作研究领域
+			
+			无机－有机杂化非线性光学材料；金属－有机框架材料
+			
+				
+			联系方式
+			
+						电子信箱：cuiyj@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：崔元靖
+		单位：材料科学与工程学系
+		职称：副教授
+		我的主页共被访问了20975次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		专利成果
+	教学工作
+	工作研究项目
+	发表论文
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,247 @@
+
+
+
+
+
+斯科-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0013129";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	斯科
+OpticalImagingLab
+
+	永久链接:http://mypage.zju.edu.cn/kesi&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			斯科，博士、教授、博士生导师；国家&ldquo;青年千人计划&rdquo;入选者、浙江省&ldquo;千人计划&rdquo;入选者。
+&nbsp;
+&nbsp;&nbsp;&nbsp;2005年本科毕业于浙江大学信息与电子工程学系；同年保送该系研究生；2010年12月博士毕业于新加坡国立大学综合科学与工程研究生院（NGS），导师为共聚焦显微镜的奠基者之一ColinJ.R.Sheppard教授。2011年1月起进入新加坡-美国麻省理工学院（MIT）研究所（SMART）从事博士后研究，同年11月起进入美国霍华德休斯医学研究所（HowardHughesMedicalInstitute）继续从事博士后研究。2013年12月回国任浙江大学光电信息工程学系任教授，兼任浙江大学医学院基础系神经科学研究所教授、神经生物影像研究组组长。
+&nbsp;&nbsp;&nbsp;在多个国际顶级专业期刊上发表论文，包括《NaturePhotonics》、《ScientificReports》、《OpticsLetters》、《OpticsExpress》、《AppliedPhysicsLetters》等，成果获得国际同行的高度评论及专文介绍，其中被《NaturePhotonics》引用6次、被《Science》综述文章引用并高度评价为&ldquo;开启了全新一代显微技术的大门&rdquo;。
+&nbsp;
+&nbsp;&nbsp;&nbsp;神经科学研究所链接：http://www.neuroscience.zju.edu.cn/index.php?c=Index&amp;a=jc_study&amp;field=ry&amp;catid=43
+&nbsp;
+
+招生信息：
+&nbsp;&nbsp;&nbsp;各科学科交叉融合是当今科学研究发展的必然趋势！本实验室是一个集光学工程、神经生物学、细胞生物学高度交叉的实验室，有着强大的光学技术和生物技术支撑，致力于探索生命的奥秘和显微设备及医疗器械的现代化国产化。实验室研究方向包括两大方面：
+1)&nbsp;利用光学工程、电子工程、计算机技术、信息与信号处理等知识，开发光学显微成像和光学操控的新技术、新方法和新设备。
+2)&nbsp;利用自行研发的新技术，结合传统生命科学的基本技术，研究生命科学的前沿问题，如神经网络的环路功能、情感和记忆的产生机理及控制等&nbsp;&nbsp;&nbsp;
+
+&nbsp;&nbsp;&nbsp;&ldquo;Weseeknottechnologyfortechnology&rsquo;ssake,butratherthoseopportunitieswiththepotentialtohaveabroadanddeepimpactonbiomedicalresearch.&rdquo;
+
+
+&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;我们热烈欢迎光学工程、电子工程、计算机、生命科学等专业的、有理想有抱负的本科生、硕士生前来攻读硕士博士学位；同时欢迎光学工程、神经生物学等方向的博士后加盟，也热烈欢迎本校的本科生来做SRTP、光电Family、实验室轮转等。
+&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;请有兴趣的同学把个人简历和个人陈述（包括研究经历和未来研究兴趣）发送email到kesiATzju.edu.cn
+
+&nbsp;
+&nbsp;
+			
+				
+			工作研究领域
+			
+			主要包括：
+1.生物光子学；
+2.光学显微成像（包括深层超分辨显微、透过复杂介质实现超深度光学显微、声光混合显微、共聚焦显微、多光子显微等）；
+3.神经生物学、细胞生物学。
+			
+				
+			联系方式
+			
+			电话：0571-87951178/88208005			电子信箱：kesi@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：斯科
+		单位：光电信息工程学系
+		职称：教授
+		我的主页共被访问了16670次
+标签：教师考博考研博士生招生博后毕业设计浙江大学医学院神经生物学生物光子学研究生招生青年千人optics招生信息	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		奖励荣誉
+	研究成果
+	发表论文
+	联系方式
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	Caltech-YangChanghuei
+NUS-ColinSheppard
+MIT-GeorgeBarbastathis
+MIT-PeterSo
+NUS-NanguangChen
+NUS-XudongChen
+NUS-HanryYu
+Oxford-TonyWilson
+HHMI-CuiMeng
+HHMI-EricBetzig
+HHMI-NaJi
+Berkeley-XiangZhang
+Heidelberg-StefanHell
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

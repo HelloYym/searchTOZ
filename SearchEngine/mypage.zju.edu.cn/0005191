@@ -1,0 +1,228 @@
+
+
+
+
+
+Dr.XunTan-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0005191";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	Dr.XunTan
+
+
+	永久链接:http://mypage.zju.edu.cn/0005191&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;教育背景及工作简历
+
+2007.9&mdash;至今：浙江大学动物科学学院，副教授
+
+2005.7&mdash;2007.8：浙江大学动物科学学院，博士后
+学术兼职
+1．2005年&mdash;至今：中国畜牧兽医学会兽医病理学分会理事
+
+2．2006年&mdash;至今：中国畜牧兽医学会兽医内科学分会常务理事
+
+3．Physiology&amp;Behavior和AvianPathology审稿人
+
+所获荣誉和主要奖励
+
+1．2003年11月，山东省科技进步三等奖
+
+2．2007年01月，中华人民共和国教育部科技进步二等奖
+3.2008年01月，农业部科技进步三等奖
+
+
+
+
+			
+				
+			工作研究领域
+			
+			1、免疫细胞功能分子表达及其调控机制
+
+2、肉鸡肺动脉高压综合征的病理生理机制
+
+
+			
+				
+			联系方式
+			
+			电话：88982393			电子信箱：tanxun@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：谭勋
+		单位：动物科学学院动物医学系
+		职称：副教授
+		我的主页共被访问了2284次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

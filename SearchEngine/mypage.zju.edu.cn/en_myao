@@ -1,0 +1,200 @@
+
+
+
+
+
+NatureSpace-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0095361";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	NatureSpace
+
+
+	Permanentlink:http://mypage.zju.edu.cn/en/myao&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			Blog
+
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			MinYao,receivedthePh.D.degreeinBiomedicalEngineeringandinstrumentfromZhejiangUniversity,China,in1995.NowheisaprofessorintheCollegeofComputerScienceandTechnology,thedeputydirectoroftheInstituteofSystemArchitectureandNetworkSecurity.HeservesasthePCco-chairofADMA2013,thegeneralchairofKaaS2010andIASP2009,thePCmemberofPAKDD,IEEERIKD,ADMA,IEEEIEEM,GCIS.HeservesalsoasthereviewerforIJPRAI,JCST,ActaElectronicaSinica,ChineseJournalofBiomedicalEngineering,SystemEngineering&shy;-theoryandpractice.Heprimarilyengagedincomputationalintelligence,fuzzysystem,datamining,&nbsp;servicecomputing.HepresidedoverseveralresearchprojectssupportedbyNSFC,973,863,SRFDP,&nbsp;naturalsciencefundofZhejiang,andstatekeylaboratoryfund,inwhich&ldquo;ResearchonmethodologyofIntelligentInformationProcessing&rdquo;obtaineduniversityscientificresearchachievementawardsofZhejiangprovincein2002.ProfessorMinYaohaspublishedanacademicmonograph,fiveeditedbooksandtwotranslations,andheobtainedtheareaofeastChinaofscienceandtechnologypublisherofoutstandingbooksaward.Healsohaspublishedmorethanonehundredacademicpapers,mostofwhichwereindexedbySCIandEI.
+			
+				
+			Researchwork
+			
+			ComputationalIntelligence,KnowledgeDiscovery,KnowledgeService，ImageUnderstanding
+			
+				
+			Contact
+			
+			Phone:8657187951647
+			E-mail:myao@zju.edu.cn
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:MinYAO
+		Units:CollegeofComputer,ZhejiangUniversity,PRChina
+		Title:Professor
+		Myhomepagehasbeenvisited4449times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+Books
+Publications
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	
+
+
+Youarevisitor:4449
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

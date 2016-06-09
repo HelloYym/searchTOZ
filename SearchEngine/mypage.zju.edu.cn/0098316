@@ -1,0 +1,210 @@
+
+
+
+
+
+刘仁义-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0098316";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	刘仁义
+
+
+	永久链接:http://mypage.zju.edu.cn/0098316&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			男，1960年生，浙江大学理学院地球科学系教授，理学博士，博士生导师，教育部高等学校地理学科教学指导委员会委员，浙江大学地理信息科学研究所所长、浙江省资源与环境信息系统重点实验室主任。
+&nbsp;&nbsp;&nbsp;&nbsp;主持863计划、国防军工20余项，国家自然科学基金、教育部基金等6项，国家攻关（支撑）4项，浙江省重点重大项目5项，完成了100多项各类地方科研及企事业单位的行政管理、业务生产项目开发。获省部级一二三等科技奖7项，发表论文90余篇，出版专著5部。获得国家计算机GIS软件应用成果及专利30余项，软件产品在测绘、国土、城建、城市规划、房产、水利、水电、广电、环保、疾控、考古、农业等行业得到广泛应用。
+			
+				
+			工作研究领域
+			
+			地理信息系统（GIS）/遥感（RS）/全球卫星定位系统（GPS）
+			
+				
+			联系方式
+			
+						电子信箱：liurenyi@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：刘仁义
+		单位：地球科学系
+		职称：教授
+		我的主页共被访问了28322次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	专利成果
+	奖励荣誉
+	实验室介绍
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

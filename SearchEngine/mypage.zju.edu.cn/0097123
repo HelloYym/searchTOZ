@@ -1,0 +1,226 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0097123";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0097123&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			包永忠，教授，博士
+电话(传真)：0571-87951334(O)
+电子邮件：yongzhongbao@zju.edu.cn
+&nbsp;
+包永忠，男，1968年出生，1991年西安交通大学本科毕业，分别于1994年3月和1997年6月获浙江大学工学硕士和工学博士学位；1997年7月开始在浙江大学高分子工程研究所工作，其中1999年9月至2000年5月在英国Loughborough大学从事访问学者工作；1999年晋职副教授，2006年晋升教授。主要从事含卤素单体聚合反应工程和非均相聚合研究，先后参加国家&ldquo;八五&rdquo;、&ldquo;九五&ldquo;科技攻关项目4项，负责完成国家自然科学基金项目1项，负责浙江省重大科技项目1项。获2000年国家科技进步二等奖和2004年浙江省科技二等奖各1项。授权发明专利5项，发表论文100余篇，SCI和EI收录50余篇。
+&nbsp;
+研究方向：
+(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;含卤聚合物的合成、结构和性能：氯乙烯聚合反应工程，特种含氯聚合物的合成、结构和性能，含氟单体聚合反应工程和聚四氟乙烯改性。
+(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;新型非均相聚合技术。
+(3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;聚合物/无机纳米粒子复合材料制备技术。
+&nbsp;
+在研主要项目：
+(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江省重大科技项目&ldquo;高稳定、抑烟聚氯乙烯/水滑石纳米复合树脂的合成与加工应用技术&rdquo;。
+(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;高疏松低聚合度聚氯乙烯的开发
+(3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PTFE胶乳凝聚和改性
+(4)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;细乳液聚合制备聚合物/纳米氧化硅纳米复合粒子
+			
+				
+			工作研究领域
+			
+			(1)含卤聚合物的合成、结构和性能：氯乙烯聚合反应工程，特种含氯聚合物的合成、结构和性能，含氟单体聚合反应工程和聚四氟乙烯改性。
+(2)新型非均相聚合技术。
+(3)聚合物/无机纳米粒子复合材料制备技术。
+			
+				
+			联系方式
+			
+			电话：0571-87951334(O)			电子信箱：yongzhongbao@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：包永忠
+		单位：化学工程与生物工程学系
+		职称：教授
+		我的主页共被访问了13877次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	研究成果
+	专利成果
+	奖励荣誉
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

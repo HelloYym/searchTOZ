@@ -1,0 +1,209 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0001066";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0001066&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			林来梵，男，1963年3月出生，福建福州人。原我国80年代出国留学人员，曾留学日本近8年，完成法学硕士与法学博士课程，其间获日本文部省奖学金，最终获日本法学名门立命馆大学法学博士学位，为该校历史上首位获得该学位的外国人士。1996年学成后，曾赴香港高校供职5年余，于2001年底被浙江大学引进，现任浙江大学法学院教授、博士生导师、院长助理，中国法学会比较法学研究会常务理事,宪法学研究会副会长,中国政协浙江省委员会委员。2003年被授予&ldquo;浙江省有突出贡献的中青年专家&rdquo;称号。
+&nbsp;&nbsp;&nbsp;&nbsp;主要研究领域为法学理论和宪法学，在其代表著《从宪法规范到规范宪法：规范宪法学的一种前沿》一书中提出了&ldquo;规范宪法学&rdquo;（The&nbsp;theory&nbsp;of&nbsp;normative&nbsp;constitution）的概念，并在该概念下确立了与现代国际宪法学的主流学说相接轨的中国宪法学理论的方法论和主干体系；同时也是国内最早从法学、尤其是从比较法学和宪法学角度研究私有财产权宪法保障问题的专家之一，迄今在此方面已经形成了一系列标志性成果，被认为在我国财产权的公法学研究中做了奠基性的贡献，2004年度我国第四次宪法修正案中有关私有财产权保护条款（修正案第22条），与其在1999年所发表的《论私人财产权的宪法保障》一文以及其他论著中的有关学术观点和个人条文建议案，即具有较大程度的一致。
+			
+				
+			工作研究领域
+			
+			比较法学、宪法学
+
+			
+				
+			联系方式
+			
+			电话：88273323						
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：林来梵
+		单位：光华法学院法律系
+		职称：教授
+		我的主页共被访问了6867次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	学术职务
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

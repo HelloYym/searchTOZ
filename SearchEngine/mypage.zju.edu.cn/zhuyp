@@ -1,0 +1,214 @@
+
+
+
+
+
+朱永平-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0083271";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	朱永平
+浙江大学朱永平
+
+	永久链接:http://mypage.zju.edu.cn/zhuyp&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;&nbsp;朱永平，男，汉族，1961年7月出生，浙江大学医学院教授、博士研究生导师。1982年12月毕业于浙江医科大学医学系，1996年6月获医学博士学位。1983年9-10月世界卫生组织&ldquo;三致&rdquo;快速方法讲习班(WHO&nbsp;Workshop&nbsp;on&nbsp;rapid&nbsp;methods&nbsp;of&nbsp;carcinogenicity,&nbsp;mutagenicity&nbsp;and&nbsp;teratogenicity)学员，2002年8月澳大利亚昆士兰科技大学（QueenslandUniversityofTechnology）&ldquo;卫生与医学教育管理研讨班&rdquo;(Health&nbsp;and&nbsp;Medical&nbsp;Education&nbsp;Management&nbsp;Study&nbsp;Tour)学员，2005年7月至9月在美国加利福尼亚大学洛杉矶分校（University&nbsp;of&nbsp;California,&nbsp;Los&nbsp;Angeles）分子药理系（Department&nbsp;of&nbsp;Molecular&nbsp;&amp;&nbsp;Medical&nbsp;Pharmacology）进修。现任浙江大学城市学院副院长。中国民主同盟盟员。现任浙江省人民检察院人民监督员、国际环境诱变剂学会联合会会员、浙江省预防医学会毒理专业委员会名誉主任委员。
+&nbsp;&nbsp;&nbsp;&nbsp;从事毒理学教学、研究工作30余年，对药物依赖的神经生物学机制研究有较深的造诣。&nbsp;
+			
+				
+			工作研究领域
+			
+			1.药物依赖毒理学研究，重点研究精神活性物质依赖的NMDA受体及受体后作用机制；以NMDA受体为靶标，研究芋螺毒素防治吗啡成瘾的药效学。
+
+2.化学物结构-致癌活性关系研究，重点研究化学物结构表征描述符，应用Fisher判别分析和人工神经网络技术，研究定量结构-活性关系（QuantitativeStructureActivityRelationship,QSAR）。
+			
+				
+			联系方式
+			
+			电话：88018518			电子信箱：zhuyp@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：朱永平
+		单位：浙江大学城市学院
+		职称：教授
+		我的主页共被访问了18372次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	学术交流（讲座报告）
+	研究成果
+	奖励荣誉
+	实验室介绍
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

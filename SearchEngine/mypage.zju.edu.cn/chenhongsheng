@@ -1,0 +1,232 @@
+
+
+
+
+
+陈红胜-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0005264";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	陈红胜
+Chen,Hongsheng
+
+	永久链接:http://mypage.zju.edu.cn/chenhongsheng&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+
+
+
+陈红胜博士，教育部长江特聘教授，博士生导师，1979年出生于浙江东阳，2000年本科毕业于浙江大学信息与电子工程学系，2005年获浙江大学国际电磁科学院博士学位，博士论文被评为全国百篇优秀博士学位论文，2007年获聘浙江大学副研究员，2011年晋升为教授，2012年入选国家首批青年拔尖人才计划、教育部新世纪优秀人才计划，2013年获国家自然科学基金优秀青年基金，2014年被聘为教育部长江特聘教授，曾在2006至2008年、2013至2014年期间在美国麻省理工学院访问研究。
+
+
+
+主要研究内容包括新型人工电磁材料、异向介质、电磁波隐身等，在国际期刊上发表了100余篇SCI论文，SCI他引2000余次，其中发表在PhysicalReviewLetters上关于隐身有源器件的论文被Nature列为研究亮点，关于逆切伦可夫辐射的论文被NatureChina列为研究亮点，关于电磁波与隐身衣作用机理的论文被NatureChina列为研究亮点；发表在PhysicalReviewB上关于复杂背景中隐身衣设计的论文被NatureChina列为研究亮点；发表在ScientificReports上关于可见光隐身的论文被列为PressRelease；发表在NatureCommunications上关于大尺度可见光隐身的论文被Nature等列为研究亮点；有关隐身衣的成果被中国科学院《科学发展报告》选为中国具有代表性研究成果；研究工作多次被Nature、Science、Physics、MITTechnologyReview、Physorg、ScientificAmerican、PhotonicsSpectra等国际知名科技杂志报道。
+
+
+目前担任SCI期刊Nature'sScientificReports，ProgressinElectromagneticsResearch的编委，JournalofOptics专题主编。四十余家国内外期刊包括NaturePhysics、PhysicalReviewLetters、AdvancedMaterials、OpticsLetters的审稿人。Metamaterial,NanoMeta,&nbsp;PIERS,IEEEICCS,APMC,SPIEMeta等多家国际会议的程序委员会委员、组织者和分会主席。主持多项国家自然科学基金和教育部项目。
+
+&nbsp;
+			
+				
+			工作研究领域
+			
+			电磁波理论及应用、新型电磁材料、异向介质、电磁波隐身、天线
+			
+				
+			联系方式
+			
+			电话：0571-87951013			电子信箱：hansomchen@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：陈红胜
+		单位：信息与电子工程学系
+		职称：教授（自然科学）
+		我的主页共被访问了130635次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	研究项目
+	发表论文
+	成果亮点
+	奖励荣誉
+	团队成员
+	招聘信息
+	2015年EMCourse
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	浙大现代教务管理系统
+WebofScience
+PhysicalReviewLetters
+Science
+Nature
+NanoLetters
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

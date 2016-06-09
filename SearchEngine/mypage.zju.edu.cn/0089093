@@ -1,0 +1,206 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0089093";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0089093&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			陈云敏博士，1962年出生，浙江温岭人，1979年至1989年在浙江大学先后获建筑结构学士学位、结构工程硕士学位和岩土工程博士学位。毕业后在浙江大学任教至今，其中1993年至1995年在荷兰InstituteofFoundationVerification,IFCO从事博士后研究，他长期从事软弱土的静动力特性和处理技术，以及环境土工研究。曾主持国家自然科学基金重点项目、国家杰出青年科学基金项目和国家自然科学基金面上项目等15个纵向科研项目研究，以及杭甬高速公路拓宽工程、温州机场停机坪扩建工程，上海500KV世博变基坑工程（开挖深度33米）、杭州地铁试验段和苏州七子山城市生活垃圾填埋场等国家重点工程项目的设计、监测、试验和咨询工作。研究成果发表学术论文209篇，其中英文论文51篇，被SCI收录论文17篇，EI收录论文65篇。编写著作7部，&ldquo;规范&rdquo;1本。作为大会组织委员会主席或发展水平报告人组织和参加国内外学术会议14次，其中国际会议3次。研究成果申请国家专利5个，软件著作权1部，获国家和省部级科技进步奖12项，其中国家科技进步二等奖1项，在研究过程中培养博士17名，硕士30多名，有2项教学成果分别获省教学成果一、二等奖，有一篇博士学位论文获国家优秀博士论文提名。陈云敏博士现在为国家注册土木工程师（岩土工程）、浙江省特级专家、教育部长江学者特聘教授；国家重点学科浙江大学岩土工程研究所所长，浙江大学建筑工程学院常务副院长；国际土力学与岩土学会（ISSMGE）环境土工技术委员会（ISSMGE-TC5）委员，第12届国际土工合成材料学会（IGS）理事，国务院学会委员会第五届学科评议组成员，国家自然科学基金委员会工程与材料学部评审委员，建设部高等教育第三届土木工程专业评估委员会委员，《GeomechanicsandGeoengineering》、《岩土工程学报》等编委。
+			
+				
+			工作研究领域
+			
+			软弱土的静动力特性和处理技术，以及环境土工研究
+			
+				
+			联系方式
+			
+			电话：0571-87951340，139057			电子信箱：chenyunmin@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：陈云敏
+		单位：建筑工程学院土木工程学系
+		职称：教授
+		我的主页共被访问了16567次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		主要学习、工作经历
+	论文或著作
+	奖励、荣誉或社会兼职
+	教学工作
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

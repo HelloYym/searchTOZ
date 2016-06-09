@@ -1,0 +1,261 @@
+
+
+
+
+
+MyHomePage-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0008433";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	MyHomePage
+
+
+	Permanentlink:http://mypage.zju.edu.cn/en/chenxi_en&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			Blog
+
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			
+
+
+
+2011.1--Now
+
+AssociateProfessor,Dept.ManagementScienceandEngineering
+SchoolofManagement
+ZhejiangUniversity
+
+
+
+
+2013.10--Now
+
+VisitingScholar,Dept.ManagementInformationSystems
+EllerSchoolofManagement
+UniversityofArizona&aring;
+
+
+
+
+
+2008.11-2010.12
+
+
+Lecturer,Dept.ManagementScienceandEngineering
+SchoolofManagement
+ZhejiangUniversity
+
+
+
+
+2005.1-2008.9
+
+
+Ph.D,SchoolofBusiness
+UniversityofHongKong
+
+
+
+
+2003.1-2004.8
+
+
+M.S,SchoolofComputing
+NationalUniversityofSingapore
+
+
+
+
+1998.9-2002.7
+
+
+B.S,Dept.ManagementScience
+SchoolofManagement
+FudanUniversity
+
+
+
+
+
+
+			
+				
+			Researchwork
+			
+			DataMining,MobileCommerce,Informationsystems
+			
+				
+			Contact
+			
+			Phone:+86-571-88206827
+			E-mail:chen_xi@zju.edu.cn/chenxihz@email.arizona.edu
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:CHEN,Xi
+		Units:ZhejiangUniversity
+		Title:Lecturer
+		Myhomepagehasbeenvisited2761times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+Publications
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	
+
+
+Youarevisitor:2761
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

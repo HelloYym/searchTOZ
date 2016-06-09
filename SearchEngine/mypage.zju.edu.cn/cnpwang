@@ -1,0 +1,288 @@
+
+
+
+
+
+王平(浙大BME）的个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0093012";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	王平(浙大BME）的个人主页
+WANGPinginBMEofZJU
+
+	永久链接:http://mypage.zju.edu.cn/cnpwang&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+
+王平,1962年5月出生,1984,1987,1992年在哈尔滨工业大学电气工程系电磁测量与仪器专业分别获学士、硕士和博士学位;1992-1994年浙江大学仪器仪表博士后流动站博士后;2002和2005年分别获得国家留学基金委留学基金和包兆龙包玉刚奖学金资助在美国Case&nbsp;Western&nbsp;Reserve&nbsp;University和University&nbsp;of&nbsp;Arkansas等大学访问学者,国际嗅觉与化学传感技术学会成员,国际化学传感器会议亚太区执委会委员,亚洲化学传感器会议国际执委会委员,全国高校传感技术研究会副理事长,中国生物医学工程学会生物医学测量分会主任委员,中国电子学会离子敏生物敏专业委员会副主任委员,中国生物医学工程学会生物医学传感技术分会副主任委员等,国际刊物《Microsystems&amp;Nanoengineering(Nature子刊)》,《ScientificJournalofMicroelectronics》等编委;《Biosensors&amp;Bioelectronics》,《Sensors&amp;ActuatorsA,B》,《IEEE&nbsp;SensorsJournal》及《SensorsLetters》等刊物特约编辑或审稿人;《传感技术学报》副主编,《中国生物医学工程学报》,《浙江大学学报(工学版)》等编委；浙江大学生物医学工程与仪器科学学院、生物传感器国家专业实验室主任、生物医学工程教育部重点实验室主任。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;主持了国家杰出青年科学基金、国家自然科学基金重大国际合作项目、国家自然科学基金重点项目(仪器专项)及国家973课题、863计划等项目。国家杰出青年科学基金获得者、全国百篇优秀博士论文提名奖获得者导师。获国务院政府特殊津贴,入选新世纪百千万人才工程国家级人选,浙江省新世纪学术技术带头人重点培养人员和151人才一层次,浙江大学求是特聘教授。发表学术论文200余篇,主要著作:《人工嗅觉与人工味觉》,《细胞传感器》,《现代生物医学传感技术》,《生物医学传感与检测》,《Cell-basedBiosensors:&nbsp;PrinciplesandApplications》及《BiomedicalSensorsandMeasurement》等。&nbsp;&nbsp;&nbsp;
+
+&nbsp;
+PingWANG,Professor,Ph.D
+&nbsp;
+
+BiosensorNationalSpecialLaboratory,
+DepartmentofBiomedicalEngineering,&nbsp;
+YuquanCampus,ZhouyiqingBuilding,
+ZhejiangUniversity,
+Hangzhou,ZhejiangProvince,310027
+P.R.China
+Email:&nbsp;cnpwang@zju.edu.cn;cnpwang@mail.bme.zju.edu.cn;&nbsp;
+Tel:&nbsp;8657187952832(o);
+Fax:8657187951676(o);
+&nbsp;
+Biography
+
+
+
+
+
+
+PingWANGborninMay1962.Hereceived&nbsp;&nbsp;theB.S.degree,M.S.degreeandPh.D.degreefromElectricalEngineeringofHarbinInstituteofTechnology,Harbin,Chinain1984,1997and1992,respectively.From1992to1994heisPost-doctoralFellowinBiosensorNationalSpecialLab,Dept.ofBiomedicalEngineering,ZhejiangUniversity,Hangzhou,China.Atpresent,HeisProfessorofBiomedicalEngineeringofZhejiangUniversity,whileheis&nbsp;DirectorofBiosensorNationalSpecialLaboratoryandDirectorofKeyLabforBiomedicalEngineeringofNationalEducationMinistryofChina,ZhejiangUniversity.HeisamemberofTheInternationalSocietyforOlfactionandChemicalSensing(ISOCS),amemberofAsia-Pacific&nbsp;RegionalSteeringCommittee&nbsp;ofInternational&nbsp;MeetingonChemicalSensors(IMCS).amemberofInternationalSteeringCommitteeofAsianConferenceonChemicalSensors(ACCS).HeisalsoaDirectorofBiomedicalMeasurementSocietyof&nbsp;China,Vice-DirectorofIon&amp;BiosensorSocietyandVice-DirectorofBiomedicalSensorsTechniqueSocietyofChina.
+&nbsp;&nbsp;&nbsp;&nbsp;Besides,heisavisitingscholaratEdisonSensorsLaboratoryofCaseWesternReserveUniversity,USAandBiosensorandBioinstrumentationLaboratory&nbsp;inUniversityofArkansas,USA,in2002and2005,respectively.
+&nbsp;
+CurrentResearchandProjects:&nbsp;&nbsp;&nbsp;
+1.&nbsp;&nbsp;&nbsp;&nbsp;BiosensorsandBioelectronics,ElectronicNoseandElectronicTongue;
+2.&nbsp;&nbsp;&nbsp;&nbsp;CellandMolecular-basedBiosensors,MimeticOlfactionandTasteSensors;
+3.&nbsp;&nbsp;&nbsp;&nbsp;Bio-MEMSandBio-NEMS(Bio-MicroandNano-Electro-MechanicalSystem);&nbsp;
+&nbsp;
+SelectedBooks:&nbsp;
+1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PingWang,&nbsp;QingjunLiu,&nbsp;BiomedicalSensorsandMeasurement,&nbsp;Springer,&nbsp;Germany,2011.
+2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PingWang,&nbsp;QingjunLiu,Cell-basedBiosensors:PrinciplesandApplications,&nbsp;ArtechHouse,USA,2010.
+3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PingWang,etal,Cell-basedBiosensors,SciencePressInc.,China.2007(inChinese)
+
+4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PingWang,ArtificialOlfactionandArtificialGustation,SciencePressInc.,China,2000(inChinese).
+
+
+5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PingWang,XuesongYe,ModernBiomedicalSensorsTechnique,ZhejiangUniversity&nbsp;Press,China,2003,(inChinese).
+
+6.&nbsp;&nbsp;&nbsp;PingWang,&nbsp;etal,Chapter:OlfactoryandTasteBiosensorSystem,AdvancesinBiosensors,V4:JIA,USA,1999.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+SelectedPapers:&nbsp;
+1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LiangHu,QinWang,ZhenQin,KaiqiSu,LiquanHuang,NingHu,PingWang，Detectionof5-hydroxytryptamine(5-HT)invitrousingahippocampalneuronalnetwork-basedbiosensorwithextracellularpotentialanalysisofneurons,BiosensorsandBioelectronics,66:572-578,2015.
+2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HaoWan,QiyongSun,HaiboLi,FeiSun,NingHu,PingWang,Screen-printedgoldelectrodewithgoldnanoparticlesmodificationforsimultaneouselectrochemicaldeterminationofleadandcopper,SensorsandActuatorsB:Chemical,209:336-342,2015.
+3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;QingjunLiu,ChunshengWu,HuaCai,NingHu,PingWangetc,Cell-basedBiosensorsandTheirApplicationinBiomedicine,ChemicalReviews,114:6423-6461,2014.
+4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LipingDu,LingZou,LuhangZhao,LiquanHuang,PingWang,ChunshengWu.Label-freefunctionalassaysofchemicalreceptorsusingabioengineeredcell-basedbiosensorwithlocalizedextracellularacidificationmeasurement,BiosensorsandBioelectronics,V54:623-627,2014.
+5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FenniZhang，QianZhang，DimingZhang，YanliLu，QingjunLiu、PingWang，Biosensoranalysisofnaturalandartificialsweetenersinintacttasteepithelium,BiosensorsandBioelectronics,V5,pp385-392,2014
+6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ChunshengWu,LipingDu,LingZou,LuhangZhao,LiquanHuang,PingWang,Recentadvancesintastecell-andreceptor-basedbiosensors,SensorsandActuatorsB:Chemical,201:75-85,2014
+7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;YanliLu,HongliangLi,ShulinZhuang,DimingZhang,QianZhang,JieZhou,SiyuanDong,QingjunLiu,PingWang,Olfactorybiosensorusingodorant-bindingproteinsfromhoneybee:Ligandsoffloralodorsandpheromonesdetectionbyelectrochemicalimpedance.SensorsandActuatorsB:Chemical,193:420-427,2014.
+8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LipingDu,LingZou,QinWang,LuhangZhao,LiquanHuang,PingWang,Anovelbiomimeticolfactorycell-basedbiosensorwithDNA-directedsite-specificimmobilizationofcellsonamicroelectrodearray.SensorsandActuatorsB:Chemical,201:75&ndash;85,2014.
+9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;KaiqiSu,JieZhou,LingZou,TianxingWang,LiujingZhuang,NingHu,PingWang,Integratedmultifunctionalcell-basedbiosensorsystemformonitoringextracellularacidificationandcellulargrowth.SensorsandActuatorsA:Physical,220:144-152,2014.
+10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;QingjunLiu,FenniZhang,DimingZhang,NingHu,K.JimmyHsia,PingWang,Extracellularpotentialsrecordinginintacttasteepitheliumbymicroelectrodearrayforatastesensor.BiosensorsandBioelectronics,43:186-192,2013.
+11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LipingDu,ChunshengWu,QingjunLiu,LiquanHuang,PingWang,Recentadvancesinolfactoryreceptor-basedbiosensors,BiosensorsandBioelectronics,42:570-580,2013.
+12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;QDong,LDu,LZhuang,RLi,QLiu,PWang，Anovelbioelectronicnosebasedonbrain&ndash;machineinterfaceusingimplantedelectroderecordinginvivoinolfactorybulb,BiosensorsandBioelectronics,49:263-269,2013.
+13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TianxingWang,NingHu,JiayueCao,JieyingWu,KaiqiSu,PingWang,Acardiomyocyte-basedbiosensorforantiarrhythmicdrugevaluationbysimultaneouslymonitoringcellgrowthandbeating,BiosensorsandBioelectronics,49:9-13,2013.
+14.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;QingjunLiu,DimingZhang,FenniZhang,YangZhao,KJimmyHsia,PingWang,Biosensorrecordingofextracellularpotentialsinthetasteepitheliumforbitterdetection,SensorsandActuators:B,176:497-504,2013.
+15.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LiujingZhuang,NingHu,QiDong,QingjunLiu,PingWang,Ahighsensitiveinvivobiosensingdetectionforodorsbymultiunitinratolfactorybulb,SensorsandActuators:B,186:308-314,2013.&nbsp;
+Patents:&nbsp;&nbsp;&nbsp;
+
+1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Anautomaticanalyzerforcellparametersbasedontheintegratedchipsformulti-parametersdetection(IssuedGrantNo.ZL200910154851.0)
+2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Anintegratedoptoelectricalcomplexsensorfordetectionofcellparametersanditspreparationmethod(IssuedGrantNo.ZL200910154615.9)
+3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AZnOnanorodsensorarrayanditspreparationmethod(IssuedGrantNo.ZL200910097262.3)
+4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Anintegratedchipfordetectionofcellphysiologicalparametersanditspreparationmethod(IssuedGrantNo.ZL20081017131.1)
+5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Anintegratedsensorwithcuttingtwo-sidednanobandelectrodeanditspraparationmenthod&nbsp;&nbsp;(Issued,GrantNo.ZL200810120350.6)
+6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thebreathdiagnosisinstrumentfordiagnosisoflungcanceratearlystage(Issued,GrantNo.ZLCN200520100325.3)
+7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CNe-Noseanalysisanddetectionsystemsoftware(Issued,GrantNo.ZLCN:2006SR02297)
+8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CNe-Tongueanalysisanddetectionsystemsoftware(Issued,GrantNo.ZLCN2006SR2298)
+9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ansensoranditsfabricationmethodforsimultaneouslydetectingextracellulartoxinsandmetabolins(Issued,GrantNo.ZLCN201120520641.1)
+10.&nbsp;&nbsp;&nbsp;AnintegratedanalysisinstrumentfordetectionofEBCsandVOCsinhumanexhaledbreath,(InternationalApplicationNo.PCT/CN2010/079318,Pending)&nbsp;&nbsp;
+
+			
+				
+			工作研究领域
+			
+			传感器与检测技术；生物芯片与生物电子学；人工嗅觉与人工味觉
+
+			
+				
+			联系方式
+			
+			电话：87952832;			电子信箱：cnpwang@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：王平
+		单位：生物医学工程与仪器科学学院生物医学工程学系
+		职称：教授
+		我的主页共被访问了53543次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	专利成果
+	奖励荣誉
+	实验室介绍
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

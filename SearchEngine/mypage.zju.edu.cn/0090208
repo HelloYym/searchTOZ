@@ -1,0 +1,230 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0090208";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0090208&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			1961年12月生,汉族,湖南省安乡县人。1982年1月毕业于湖南师范大学中文系,获学士学位,留系任教。1986年6月在该系获硕士学位,留系任教。1989年12月毕业于杭州大学中文系，获博士学位，留系任教至今。1992年晋升副教授，1994年晋升教授，1996年增列为博士生导师。1997年10月至1998年6月在香港浸会大学中文系做访问学者，2002年2月至3月在意大利特伦托大学做访问学者，2002年9月至2003年7月在美国哈佛大学哈佛燕京学社做访问学者。
+1995年任杭州大学中文系总支书记，1997年任杭州大学研究生部主任，1998年任浙江大学研究生院培养处处长，1999年7月任浙江大学人文学院常务副院长。兼任中国明代文学研究会（筹）副会长，浙江省文学学会会长，浙江省学位委员会委员，浙江省社联理事，复旦大学中国古代文学研究中心兼职教授、学术委员。是国家&ldquo;新世纪百千万人才工程&rdquo;入选人员，浙江省&ldquo;151人才工程&rdquo;第一层次人选，浙江省中青年学科带头人。
+研究专长为中国古代文学，承担国家社科基金项目《明代文学思潮研究》和教育部优秀青年教师资助项目《元明中篇言情小说研究》，主持全国高校古委会重点项目《稀见明代戏曲整理研究》，参加《古本小说集成》、《袁枚全集》等全国高校古委会重点项目。著有《复古派与明代文学思潮》（上、下册，台湾文津出版社1994年），《明代文学复古运动研究》（上海古籍出版社1994年），《诗稗鳞爪》（浙江大学出版社1999年），《明史随笔》（浙江文艺出版社2000年），编选《金庸小说论争集》（浙江大学出版社2000年），所撰《明代文学思潮史》被选入国家古籍整理出版规划小组编辑的《中国传统文化研究丛书》，即将出版。在《中华文史论丛》、《红楼梦学刊》、《社会科学战线》、《文艺理论研究》、《文献》、《文学遗产》等刊物发表论文40余篇。获教育部人文社会科学优秀成果二等奖。
+
+　
+
+
+
+人文学院常务副院长
+PermanentViceDean
+
+
+LiaoKebin,male,wasborninAnxiangCounty,HunaninDecember,1961.
+InJanuary1982,hegraduatedfromChineseDepartment,HunanTeachers&rsquo;UniversityandgothisBachelor.Thenhestayedonandbecameateacherthere.
+InJune1986,hegothisMasterthere.
+InDecember1989,hefinishedhisdoctor&rsquo;programinChineseDepartment,HangzhouUniversityandstayedonandsincehasbecomeateacherhere.
+In1992,hewaspromotedtotheAssociateProfessor.
+In1994,hewaspromotedtotheProfessor.
+In1996,hequalifiedhimselftoinstructdoctorcandidates.
+
+FromOctober1997toJune1998,hewasavisitingscholarinChineseDepartment,HongKongBaptistUniversity.
+Inaddition,heisamemberofChina&rsquo;ModernLiteratureAssociationandSocialAssociationofZhejiang.Heisalsoapart-timeprofessorandanacademicmemberofAncientChineseLiteratureResearchCenterinFudanUniversity.Furthermore,heisleadingyoungandmid-agedscholarsfromZhejiangtodoresearchinhisfield.
+InJuly1985,hejoinedtheCommunistPartyOfChina.
+In1995,heheldtheofficeofthesecretaryofthebranchofCPCintheChineseDepartmen.
+In1997,heheldtheofficeofthedirectoroftheGraduateDepartment.
+In1998,heheldtheofficeofthedirectoroftheGraduate-DevelopingDepartment.
+
+FromJuly1999,hehasbeenthePermanentViceDeanofCollegeofHumanites.
+HeisspecializinginAncientChineseLiteratureandhaspublishedmanyvaluablebooksandimpressivepapersandgotawardsforhisachievementsinhisfield.
+			
+				
+			工作研究领域
+			
+			中国古代文学
+			
+					
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：廖可斌
+		单位：人文学院中国语言文学系
+		职称：教授
+		我的主页共被访问了9860次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+	出版著作
+	研究成果
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

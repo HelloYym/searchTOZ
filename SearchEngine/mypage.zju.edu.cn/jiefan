@@ -1,0 +1,234 @@
+
+
+
+
+
+FanResearchGroup-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0007401";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	FanResearchGroup
+
+
+	永久链接:http://mypage.zju.edu.cn/jiefan&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+
+1995.9.-1999.7.&nbsp;&nbsp;&nbsp;&nbsp;华东理工大学应用化学本科学习；
+
+1999.9.-2004.7.&nbsp;&nbsp;&nbsp;&nbsp;复旦大学无机化学博士毕业生理学博士；
+2004.8.-2007.10&nbsp;&nbsp;&nbsp;UniversityofCaliforniaatSantaBarbara,Postdoc；
+2007.10.-2010.12.&nbsp;浙江大学特聘研究员；
+20010.12.-至今&nbsp;&nbsp;&nbsp;浙江大学化学系催化研究所教授。
+&nbsp;&nbsp;&nbsp;&nbsp;范杰教授长期从事介孔分子筛的合成与催化性能研究，曾获得了全国百篇优秀博士论文奖，入选年教育部新世纪优秀人才计划，荣获年度中国化学会青年化学奖，年获得国家自然科学基金优秀青年科学基金和浙江省自然科学基金杰出青年科学基金。目前为中国化学会青年化学工作者委员会委员，中国化学会分子筛专业委员会委员，中国材料研究学会纳米材料与器件分会理事，中美电子化学和表面催化领域国际研究和教育研究团队（）中方。在分子筛和天然无机材料的合成和改性，以及材料在催化和生物医学等应用领域开展一系列的研究。研究结果得到众多国内外相关学者、研究者的肯定。目前，共发表论文余篇，包括在，篇，篇，篇，篇等国际权威期刊发表的论文，总引用次数超过次，获得项中国发明专利授权，并创建杭州沸创医疗科技有限公司。
+代表性论文：
+1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Liu,X.;Shen,Y.;Yang,R.;Zou,S.;Ji,X.;Shi,L.;Zhang,Y.;Liu,D.;Xiao,L.;Zheng,X.;Li,S.;Fan,J.*;Stucky,G.*&nbsp;&nbsp;Ink-jetPrintingAssistedSynthesisofMulti-componentMesoporousMetalOxidesforUltrafastCatalystExploration&nbsp;&nbsp;.NanoLetter2012,12,5733-5739.
+2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Li,R.;Kobayashi,H.;Tong,J.;Yan,X.;Tang,Y.;Zou,S.;Jin,J.;Yi,W.;Fan,J.*Radical-InvolvedPhotosynthesisofAuCNOligomersfromAuNanoparticlesandAcetonitrile.J.Am.Chem.Soc.2012,134,18286-18294.
+3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Li,R.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;;Kobayashi,H.*;Guo,J.;Fan,J.*Visible-Light-DrivenSurfaceReconstructionofMesoporousTiO2:TowardVisible-LightAbsorptionandEnhancedPhotocatalyticActivities.Chem.Commun.2011,47,8584-8586.
+4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ma,G;Yan,X.;Li,Y.;Xiao,L.;Huang,Z.;Lu,Y.;Fan,J.*AnOrderedNanoporousSilicawithPeriodic30to60nmPoresasEffectiveSupportforGoldNanoparticleCatalystswithEnhancedLifetime.J.Am.Chem.Soc.2010,132,9596-9507.
+5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fan,J.*;Dai,Y.H.;Li,Y.L.;Zheng,N.F.;Guo,J.F.;Yan,X.Q.;Stucky,G.D.*,Low-Temperature,HighlySelective,Gas-PhaseOxidationofBenzylAlcoholoverMesoporousK-Cu-TiO2withStableCopper(I)OxidationState.J.Am.Chem.Soc.2009,131,15568-15569.
+&nbsp;
+获奖项目：
+范杰，介孔材料结构和孔道的模板合成及其在生物和电池中的应用，复旦大学,中国上海,2006，获2006全国优秀博士学位论文奖。授予单位：教育部/国务院学位委员会。
+范杰，分子筛合成，浙江大学化学系，中国杭州，2011，获中国化学会青年化学奖。授予单位：中国化学会
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+
+
+&nbsp;
+
+&nbsp;
+
+预知更多信息请访问我们研究组网页http://www.chem.zju.edu.cn/jiefan/index.htm
+
+
+&nbsp;
+			
+				
+			联系方式
+			
+			电话：86-571-87952338			电子信箱：jfan@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：范杰
+		单位：化学系
+		职称：教授/博导
+		我的主页共被访问了37656次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	研究小组主页
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,275 @@
+
+
+
+
+
+《人力资源管理研究与实践：前沿量表手册》HRFrontierScales-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0006204";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	《人力资源管理研究与实践：前沿量表手册》HRFrontierScales
+
+
+	Permanentlink:http://mypage.zju.edu.cn/en/mq&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			Blog
+
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			《人力资源管理研究与实践：前沿量表手册》<spanstyle="font-size:9.0pt;font-family:微软雅黑;mso-bidi-font-family:
+Arial;color:red">读者朋友你们好!
+&nbsp;
+&nbsp;
+序一(孙健敏教授)
+<spanlang="EN-US"style="mso-bidi-font-size:10.5pt;
+font-family:微软雅黑">&nbsp;
+近十年来，组织行为学和人力资源管理(简称为OB/HR)在工商管理学科中的地位和重要性得到了越来越多的学者和实践者的认可。国外学术界对于管理学（management）的定义，基本上泛指组织行为学和人力资源管理。我们可以将其定义为狭义的管理学。广义的管理学，还包括战略、市场营销等领域。
+<pclass="MsoNormal"style="margin-top:7.8pt;mso-para-margin-top:.5gd;text-indent:
+21.0pt;mso-char-indent-count:2.0"><spanstyle="mso-bidi-font-size:10.5pt;
+font-family:微软雅黑">严格地讲，组织行为学和人力资源管理都属于组织科学，目前的研究视角更多是行为科学的视角。但从经济学和社会学的角度研究组织管理问题也越来越受到人们的关注，而且会成为未来的大趋势。
+<pclass="MsoNormal"style="margin-top:7.8pt;mso-para-margin-top:.5gd;text-indent:
+21.0pt;mso-char-indent-count:2.0"><spanstyle="mso-bidi-font-size:10.5pt;
+font-family:微软雅黑">无论采用什么视角进行研究，在实证研究的范式下，变量的测量（有的人喜欢叫度量或量度，也有人叫测度，其本质是一样的）是整个研究过程中至关重要的一个环节，也是容易出现纰漏的一个环节，尤其是对于测量理论不熟悉的学者和学生而言。目前的管理学研究，一方面对于研究模型的建构要求越来越高，另一方面对于变量的测量变得越来越精细。相应的，对于测量工具的要求也就越来越高。
+<pclass="MsoNormal"style="margin-top:7.8pt;mso-para-margin-top:.5gd;text-indent:
+21.0pt;mso-char-indent-count:2.0"><spanstyle="mso-bidi-font-size:10.5pt;
+font-family:微软雅黑">国内管理学界的实证研究相对来说起步较晚，大多数研究基本上是采用西方人建立的概念和开发的量表，这对于量表的选择和使用产生了强烈的需求。尽管西方人的概念和工具不见得完全适用于中国情境，单纯地采用西方学者的工具难以形成真正具有中国特色或体现中国组织管理特点的研究成果，但我们认为作为借鉴，西方的工具和量表仍然具有一定的参考价值，尤其在国内学者尚难以开发出真正科学的测量工具之前。通过借用西方的工具，在借鉴的过程中，不断积累我们的研究经验，提高我们的研究水平，最终形成我们自己的概念和测量工具，不失为一种有效的途径。但国外的测量工具多如牛毛，如何能够更有效地获取自己所需要的合适的测量工具呢？如果能把西方的测量工具汇编成册，供国内的学者和学生借用，那会是一项多么有价值的工作啊！
+<pclass="MsoNormal"style="margin-top:7.8pt;mso-para-margin-top:.5gd;text-indent:
+21.0pt;mso-char-indent-count:2.0"><spanstyle="mso-bidi-font-size:10.5pt;
+font-family:微软雅黑">实际上，对于管理学研究中测量工具的介绍不是今天才开始的。1987年,中国经济出版社出版了吴玉教授编著的《管理行为的调查与量度》，把当时能收集到的管理学研究中常用的行为科学测量工具汇编成册。遗憾的是，实证研究在当时还没有形成气候，导致这样一本很有价值的工具书影响不是很大。后来，国内也出版了几本翻译过来的问卷汇编，但其严谨性和翻译的准确性都值得怀疑。
+<pclass="MsoNormal"style="margin-top:7.8pt;mso-para-margin-top:.5gd;text-indent:
+21.0pt;mso-char-indent-count:2.0"><spanstyle="mso-bidi-font-size:10.5pt;
+font-family:微软雅黑">近年来，中国管理研究国际学会（IACMR）的主页上为会员们提供了部分翻译过来的量表，在一定程度上为研究者提供了选择的方便。但其数量有限，而且只供注册会员下载。
+<pclass="MsoNormal"style="margin-top:7.8pt;mso-para-margin-top:.5gd;text-indent:
+21.0pt;mso-char-indent-count:2.0">苗青博士和他的同事做了一件非常有价值的事情，他们花了很多力气，收集了国际管理学核心期刊上正式发表的242种测量工具或量表，涉及到了组织管理的各个领域，是一本非常有参考价值的工具书。我觉得这本书有以下几个特点：
+<pclass="MsoNormal"style="margin-top:7.8pt;mso-para-margin-top:.5gd;text-indent:
+21.0pt;mso-char-indent-count:2.0">覆盖面广。本书所收集的量表，涵盖了微观管理学研究的所有领域，包括领导行为，员工态度与行为，组织文化，绩效评估，工作家庭平衡等。作者将其分为行为篇，人际篇，成长篇，职场篇。
+<pclass="MsoNormal"style="margin-top:7.8pt;mso-para-margin-top:.5gd;text-indent:
+21.0pt;mso-char-indent-count:2.0">内容详尽。对于每一个量表，从概念定义，量表来源，量表全文，维度分析，相关变量，到参考文献，作者都提供了详细的说明，使读者可以对各量表有全面的认识和了解，基本可以做到拿来即用。
+<pclass="MsoNormal"style="margin-top:7.8pt;mso-para-margin-top:.5gd;text-indent:
+21.0pt;mso-char-indent-count:2.0">翻译准确。量表的翻译比一般文字的翻译要求更高，表达的逻辑性、词汇的准确性、语义的适当性等，都必须既符合原文，又符合中文的表达习惯。我觉得作者基本都做到了。
+当然，本书不是没有遗憾。没有体现中国人自己的研究成果不能不说是一大不足。书中介绍的很多概念和测量工具都已经被中国化了，甚至有人开发了符合国情的自己的量表，例如公仆型领导、管理者可信性、组织公民行为、情绪智力、组织文化、高绩效人力资源管理实践等。如果作者能把这些修订过的或本土化的问卷和量表也收集在内，本书的价值定会更高。另外，如果能把使用这些量表的相关研究作为参考文献附在量表之后，对于作者更全面地了解和评价这些工具会有很大的帮助。
+但瑕不掩瑜！我认为这本书具有很重要的参考价值。编写这样一本工具性的图书，没有强烈的使命感和奉献精神是难以想象的。苗青博士和他的同事们在书中不仅体现了他们这种精神，更展现了他们的学术素养和专业精神。我们应该感谢他们！
+是为序。
+<spanlang="EN-US"style="mso-bidi-font-size:10.5pt;
+font-family:微软雅黑">&nbsp;
+<spanlang="EN-US"style="mso-bidi-font-size:10.5pt;
+font-family:微软雅黑">&nbsp;
+<spanstyle="font-size:
+14.0pt;font-family:华文新魏;mso-hansi-font-family:微软雅黑">孙健敏
+<spanstyle="mso-bidi-font-size:
+10.5pt;font-family:微软雅黑">中国人民大学
+2014年10月1日<spanlang="EN-US"style="mso-bidi-font-size:
+10.5pt;font-family:微软雅黑">
+<spanlang="EN-US"style="mso-bidi-font-size:10.5pt;
+font-family:微软雅黑">&nbsp;
+<spanlang="EN-US"style="mso-bidi-font-size:10.5pt;
+font-family:微软雅黑">&nbsp;
+序二(宋照礼教授)
+<spanlang="EN-US"style="mso-bidi-font-size:10.5pt;
+font-family:微软雅黑">&nbsp;
+量表作为一种调查工具于上个世纪初出现于世。1905年法国公布的比奈-西蒙智力测量可以算第一个科学量表测量工具。标准化的量表可以透过恰当的取样施测与分析，对特定人群的态度、倾向，以及行为等特征等进行比较方便、快速和科学的估计与比较。正由于这样的功能，量表作为一种主要测量方法，在心理学、社会学、教育学、政治学、卫生学、管理学等诸多社会和行为学科有广泛应用。随着概念与理论的不断推陈出新，新的量表也层出不穷。为了保证恰当使用，量表的整理汇集也成为相关学科发展与推广的必须。第六版的《研究设计与社会测量手册》（HandbookofResearchDesignandSocialMeasurement）就列出了九种不同领域的量表与测试汇编，其中包括Robinson等编辑的《性格与社会心理测量总览》（MeasurementofPersonalityandSocialPsychologicalAttitudes）。该书编辑与1990年。在1997年由杨中芳等翻译为中文，由台湾远流出版公司出版。该书系统收集、整理，与描述了了十一个大类、共一百五十四个量表。这一汇编的出版对于社会科学研究人员、学生，以及其他相关应用人士的确是一大福音。案头有一部这一汇编就能够很方便搜索到自己感兴趣的社会心理学概念的测量方法和相关文献，快速找到可用的工具。
+问卷调查法也是人力资源管理以及与之密切相关的应用心理学和组织行为学最常用的研究方法。但是这些领域对相关量表的整理汇编工作，却较社会心理学等学科为弱。我们能够找到比较早的汇编是衣阿华大学的JamesPrice在1972、1986和1997出版了三版的《组织测量手册》（HandbookofOrganizationalMeasurement）。1997年版的手册中介绍了二十八组概念的六十多种测量方式。这一汇编发表在非管理学主流的期刊《国际人力杂志》（InternationalJournalofManpower）,偏向报告组织社会学的概念和工具，所报告的量表数也偏少，这些原因都限制了这个汇编的影响力。2003年由Regent大学Fields教授撰写的量表汇编出版《工作测量&mdash;组织研究与诊断经验证量表使用导引》（TakingtheMeasureofWork:AguidetoValidatedScalesforOrganizationalResearchandDiagnosis）算是第一个比较全面系统整理与组织与工作有关量表的汇编。书中对在1990到1999年期间十五个主流管理期刊中使用过的，十大类的一百三十四个量表做了详细介绍。这一著作在2004年由阳志平等翻译成中文，由中国轻工业出版社出版，中文书名是《工作评价&mdash;组织诊断与研究实用量表》。顺便一提的是2003年我到中科院心理所时勘教授研究组交流，介绍了这本英文著作。在半年之内时老师就组织人员完成了翻译出版。其效率之高令人钦佩。
+尽管有以上的汇编问世，但是已有著作也有很突出的局限性。其一是现在的研究日新月异，从Fields著作对量表整理的截止日期（1999）年到现在已有十五年年了。这期间又有相当多的量表公诸于众。这些量表亟待整理。其二是组织和人事研究领域在这十五年中也有诸多方向性的改变。过去的研究对于工作态度和工作特征等研究较多，相关量表也发表不少。但是最近一二十年针对这些题目的研究就明显减少，而关于创新、主动性、消极行为等的研究却有显著增加。已有的量表汇编已经不能反映管理研究现在的趋势了。另外，已有汇编也由于著者的偏向和取舍，汇集的量表量偏少。这些都限制了其应用。
+浙江大学公共管理学院的苗青博士和他的同事们正是很有慧眼地观察到现有文献中的局限，富于勇气地对庞杂的文献进行仔细梳理、整理出两百多个英文量表，再完成翻译工作。面对厚厚的样稿，不禁赞叹作者们的承担心和用心。苗青博士的这部著作具有以下特色：
+<spanstyle="mso-bidi-font-size:10.5pt;
+font-family:微软雅黑">量表的筛选系统全面。<spanstyle="mso-bidi-font-size:10.5pt;
+font-family:微软雅黑">正如本书量表收集过程与使用说明中所列出的，作者们搜索了十种主要国际管理学杂志近二十年的所有文章，从中找到上千个所用过的量表，然后再从中依据明确标准筛选出二百四十二个量表。这一筛选工作相较已有的量表汇集更加的系统化和全面化。需要特别提到的是，虽然本书所依据的杂志比Fields教授所依据的十五种杂志要少，但本书筛选所依据的杂志更反映了当前管理学所普遍认可的主流杂志的名单。
+<spanstyle="mso-bidi-font-size:10.5pt;
+font-family:微软雅黑">量表的分类独具匠心。<spanstyle="mso-bidi-font-size:10.5pt;
+font-family:微软雅黑">本书仔细选择二十个主题词来对两百多个量表分类，这些主题词代表了量表所测量概念的主题和方向，比较好地反映了管理学研究这二十年的一些趋势。Price和Fields的量表集则基本上是按概念分类，相对而言要更狭窄。管理学是多种基础学科的交叉汇集，体系性相对较弱，如果仅按概念来对量表分类可能会失于琐碎，让人只见树木，不见森林。
+<spanstyle="mso-bidi-font-size:10.5pt;
+font-family:微软雅黑">量表的翻译认真规范。<spanstyle="mso-bidi-font-size:10.5pt;
+font-family:微软雅黑">由于所有量表都是英文，需要提供中文翻译。要做到信达雅的翻译，的确很难。本书每一个问卷由一位作者主持翻译，再有几轮的交叉检阅，然后由一位英文专业工作者进行总体校核。程序上是比较严格的。当然由于量表涉及的题材很广，翻译很难非常准确反映原题意思可能有的细致之处。相信在未来再版中可以不断改善。限于篇幅、版权等原因，本书没有直接列出英文原题，不过读者可以透过书中的参考文献找到原来问卷的出处。
+<spanstyle="mso-bidi-font-size:10.5pt;
+font-family:微软雅黑">量表的信息学术性强。<spanstyle="mso-bidi-font-size:10.5pt;
+font-family:微软雅黑">相较其它类似书籍对各种概念和方法的详细说明，本书的说明部分比较简约。但是书中每一个量表都提供了概念、定义、维度、相关信息和出处等，这些是对学术研究最有价值的信息。可以看出这本书是以研究者为读者目标群来量身订做的。
+本书的出发点是透过对国际英文主流杂志近期发表的量表进行整理翻译，拉近中国管理学研究和国际水平的距离。我相信这本书的出版对实现这一目标会有相当的助益。希望本书的出版也能够促进对原生或本土化工具量表的整理工作。文化和社会经济状况的特殊性决定了中国对管理学研究的主题、概念、量表语言等的不同需求。原生或本土化工具量表，比单纯的翻译工具，能更好反映地域性和时代性。这些量表也是亟待整理的。另外，网络化的量表整理更能够及时更新。在国际管理协会（AcademyofManagement）方法分会的网站提供了量表整理的集成（MeasureChest）。中国管理研究国际协会（InternationalAssociationforChineseManagementResearch）的网站也提供了一个量表集成（MeasurementChest）。如果象本书这样的更为系统的量表整理著作能够和上述集众网站能够有效互动，相信能够更好地推动量表工具的规范、整理、推广和使用。
+<spanlang="EN-US"style="mso-bidi-font-size:10.5pt;
+font-family:微软雅黑">&nbsp;
+<spanstyle="font-size:
+14.0pt;font-family:华文新魏;mso-hansi-font-family:微软雅黑">宋照礼
+<spanstyle="mso-bidi-font-size:
+10.5pt;font-family:微软雅黑">新加坡国立大学
+2014年10月8日
+
+
+
+&nbsp;
+
+&nbsp;
+
+			
+				
+			Contact
+			
+			Phone:
+			E-mail:HRMscale@163.com
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:苗青陈思静宫准洪雁
+		Units:浙江大学
+		Title:
+		Myhomepagehasbeenvisited965times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+★作者介绍
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	
+
+
+Youarevisitor:965
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

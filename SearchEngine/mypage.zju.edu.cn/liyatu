@@ -1,0 +1,215 @@
+
+
+
+
+
+屠莉娅-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0009096";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	屠莉娅
+每个人皆有可能
+
+	永久链接:http://mypage.zju.edu.cn/liyatu&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			1981年生人，女，带着不切实际的理想主义情怀，怀着对自由和智慧的向往，在感性和理性之间游走，执着地相信人的可能性，希望永久地保持着好奇心和对生活的热情，这是教育带给我的最美好的东西，也是我在这份教职上希望传递出的信息。
+1999-2003浙江大学教育学院（公共事业管理专业）管理学学士
+2003-2006浙江大学教育学院（课程与教学论专业）教育学硕士
+2006-2009华东师范大学课程与教学研究所（比较教育专业）教育学博士
+2007-2008加拿大英属哥伦比亚大学课程研究国际化研究中心联合培养博士生(国家留学基金委资助）
+2015.2-2015.8&nbsp;韩国首大国立大学教育学院教育学系访问研究员（韩国高等教育财团KFAS的ISEF项目资助）
+2009.8-至今浙江大学教育学院课程与教学研究所
+			
+				
+			工作研究领域
+			
+			比较课程论、课程政策研究、课程教学改革研究、课程开发与设计、学校变革研究等
+			
+				
+			联系方式
+			
+						电子信箱：liyatu@163.com；liyatu@gmail.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：屠莉娅
+		单位：教育学院
+		职称：副教授
+		我的主页共被访问了21973次
+标签：教育研究、课程研究	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	研究成果
+	学术交流（讲座报告）
+	发表论文
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

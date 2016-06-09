@@ -1,0 +1,211 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0089004";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0089004&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			张大亮，男，1963年6年生，浙江大学管理科学与工程研究生毕业，浙江大学管理学院教授，注册会计师，中国市场学会理事，浙江现代咨询协会理事，浙江大学营销管理研究所副所长，浙江众成企业管理咨询有限公司研发中心主任，香港公开大学、宁波维科学院兼职教授。主持与参与了国家自然科学基金、国家社会科学基金、国家软科学课题、省市及企业横向课题研究等十多项课题的研究，专长研究领域为市场营销、客户关系管理、产权激励机制研究和企业组织与管理，其中以动态管理为核心的动态用工制度、动态股权管理、人才库动态管理、岗位动态管理等管理方法在实践中取得很好效果。主持与参与了中大控股集团、维科集团、盾安集团等三十多家企业管理咨询项目，担任多家公司的管理顾问和独立董事，具有丰富管理咨询经验和较高学术造诣，公开发表论文五十多篇，公开出版专著、教材5部，其所著的《现代营销管理》获浙江省优秀教学成果二等奖。
+
+			
+				
+			工作研究领域
+			
+			1、市场营销与客户关系管理：客户价值与客户资产、渠道整合、网络产品营销、医疗市场营销
+2、组织与管理：母子公司管理、公司治理、医院管理、产权激励
+3、企业咨询理论与方法
+
+			
+				
+			联系方式
+			
+						电子信箱：zdl@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：张大亮
+		单位：管理学院企业管理系
+		职称：教授
+		我的主页共被访问了6887次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	奖励荣誉
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

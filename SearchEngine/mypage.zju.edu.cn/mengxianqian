@@ -1,0 +1,211 @@
+
+
+
+
+
+孟宪谦-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0011335";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	孟宪谦
+工业技术研究院
+
+	永久链接:http://mypage.zju.edu.cn/mengxianqian&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;孟宪谦，男，高级工程师，山东莘县人，2000.7~2011.6国家工业陶瓷材料工程技术研究中心从事研发、技术及生产管理工作，先后任助理工程师、工程师、高级工程师、科技委委员等，入选山东省科技人才库新材料领域专家。2011.7进入浙江大学从事应用推广和技术转移工作（山东及江苏区域）。现担任浙江大学工业技术研究院项目主管（江苏）、山东技术转移中心副主任，工业技术研究院节能环保技术推广中心副主任、高级工程师。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;先后主持和参与国家&ldquo;863&rdquo;项目，科研院所及中小企业基金项目、军品配套项目、山东省科技攻关项目等国家、省各类项目10余项，主持新产品、新技术开发与技术改造项目近20项，部分产品替代进口。项目技术成果通过省部级鉴定、获国家发明专利、国家重点新产品等多项，参与编写技术标准2项，获山东省淄博市奖励2项。先后作为主要人员参与4条技术成果产业化生产线建设工作，在国内率先开展陶瓷透水材料的研究开发及产业化应用工作，目前该产品已创造社会、经济效益十几亿元。
+&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2012年度获浙江大学校级&ldquo;先进工作者&rdquo;称号。
+			
+				
+			工作研究领域
+			
+			1、技术转移工作；
+2、节能新材料，气、液、固三废处理环保新材料、热气体净化陶瓷材料及其相关装备研究开发；
+3、多孔陶瓷及孔梯度陶瓷材料，陶瓷膜材料、陶瓷纤维复合膜材料的研究开发与应用推广；
+4、高技术陶瓷新材料等的研究开发。
+
+			
+				
+			联系方式
+			
+			电话：18658192771；0571-88206950			电子信箱：mengxq@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：孟宪谦
+		单位：工业技术研究院
+		职称：高级工程师
+		我的主页共被访问了1224次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

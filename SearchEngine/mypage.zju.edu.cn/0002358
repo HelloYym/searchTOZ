@@ -1,0 +1,227 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0002358";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0002358&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			工作经历:
+　　　2005.11至今　　浙江大学医学院公共卫生系副主任
+　　　2004.12至今&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江大学教授、博导
+　　　2003.6至2005.11&nbsp;&nbsp;　浙江大学医学院病理及病理生理学教研室副主任
+　　　2002.9&ndash;2004.12&nbsp;&nbsp;浙江大学副教授
+　　　美国微生物学会/国家传染病中心博士后2000.6&ndash;2002.6
+　　　美国动态生物系统公司研究科学家&nbsp;(兼职)2001.3&ndash;2002.6
+教育程度:
+　　　博士(1994.9-&nbsp;2000.5)
+　　　专业:分子遗传及生物化学
+　　　GeorgiaStateUniversity,Atlanta,Georgia,&nbsp;USA（佐治亚州立大学）
+硕士(1991.9-1994.6)
+　　　专业:细胞生物学
+　　　山东大学生物系
+　　　学士(1987.9-1991.6)
+　　　专业:生物化学
+　　　山东大学生物系
+			
+				
+			工作研究领域
+			
+			1、化学污染物诱导的细胞应激反应的蛋白组学研究
+2、DNA损伤检测及修复机制
+3、脂类组学
+4、肿瘤发生发展的分子机理
+			
+				
+			联系方式
+			
+			电话：86-571-88208140			电子信箱：gastate@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：杨军
+		单位：公共卫生系
+		职称：教授
+		我的主页共被访问了7697次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	研究成果
+	专利成果
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

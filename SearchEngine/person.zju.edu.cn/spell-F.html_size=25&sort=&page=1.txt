@@ -1,0 +1,1 @@
+{'name': [u'\u5085\u5f3a'], 'title': [u'\u533b\u5b66\u9662\u9662\u957f\u52a9\u7406(\u6b63\u79d1\u804c\uff09   '], 'photo': '', 'pos': './person.zju.edu.cn/spell-F.html?size=25&sort=&page=1', 'blog': [], 'intro': '', 'department': [u'\u533b\u5b66\u9662\u515a\u653f\u529e\u516c\u5ba4'], 'homepage': u'http://mypage.zju.edu.cn/fuqiang'}

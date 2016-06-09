@@ -1,0 +1,212 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0078346";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0078346&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+				
+			工作研究领域
+			
+			一、贯彻执行上级有关安全保卫工作的方针政策，落实安全保卫责任制和安全技术防范措施，防止盗窃、破坏和治安灾害事故的发生。
+　　二、做好动态信息工作，及时发现、掌握事关学校政治和社会稳定的各种情况、信息，及时、正确、完整地向学校报送重要信息。严防国内外敌对势力、非法宗教势力、民族分裂势力对高校的渗透、煽动和破坏活动；及时处置各种不安定事端和突发性事件；协助国家安全、公安机关罅、制止危害国家安全的行为。对校园网络的运行进行监管，及时查处传播各类有害信息的行为。
+　　三、调解处理学校内部治安纠纷；维护教学区、生活区和其他公共活动场所的治安秩序。对校内有轻微违法但尚未构成犯罪的人员进行帮助、教育。依法查处校内一般政治和治安案件，协助公安机关和安全机关查处刑事案件和重大案件。
+　　四、会同有关部门对师生员工进行法制、国家安全、维护社会稳定和治安保卫工作的宣传教育，增强师生员工的法制观念、政权意识和安全防范意识，预防和减少违法犯罪行为。
+　　五、负责对外接待和来访登记，做好集体户口、各类外来暂住人口的管理工作及办理各类有关证件。
+　　六、办理师生员工因私申请出国、出境、前往边境地区和涉外公证等有关手续。
+　　七、贯彻落实《中华人民共和国消防法》和有关易烯易爆等危险品的管理规定，定期检查消防安全设备，管好义务消防组织，开展经常性的防火安全检查。
+　　八、各类大型、涉外活动的安全保卫工作，强化对首长、外宾、来宾的警卫工作。
+　　九、校内道路交通安全的管理，处理校内交通事故，协助公安机关处理涉及我校车辆、人员在校外的交通事故。
+　　十、校卫队管理工作，门卫管理和校园治安巡逻工作。
+　　十一、做好社区治安联防工作，协助公安机关维护家属区的治安秩序和整学校周边环境，积极参与校园精神文明建设。
+　　十二、拟定有关学校安全保卫工作计划及有关规章制度，并组织实施。
+　　十三、学校治安综合治理的日常工作。
+　　十四、按照档案工作的有关规定，做好立卷归档工作。
+　　十五、承办学校和上级公安、国家安全机关交办的其他工作。
+
+办公地点：华家池校区东大楼一楼东侧
+			
+				
+			联系方式
+			
+			电话：86971245						
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：章国祥
+		单位：保卫处华家池校区保卫办公室
+		职称：
+		我的主页共被访问了1155次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

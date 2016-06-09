@@ -1,0 +1,217 @@
+
+
+
+
+
+Ldm's个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0094193";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	Ldm's个人主页
+学术交流、知识共享
+
+	永久链接:http://mypage.zju.edu.cn/ldm&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;
+鲁东明，男，1968年1月生，博士、教授、博士生导师。1994年12月毕业于浙江大学计算机学院，获工学博士学位，并留校从事教学科研工作。1997年10月晋升副教授、2000年12月破格晋升教授，2003年1月任博士生导师。现任浙江大学图书馆馆长、浙江大学信息中心主任，浙江大学文化遗产研究院和计算机科学与技术学院教授。2004年入选教育部&ldquo;新世纪优秀人才支持计划&rdquo;，2008年入选浙江省&ldquo;151&rdquo;人才工程重点资助培养计划，2010年选拔担任数字文化传媒浙江省重点科技创新团队负责人与首席科学家。由于文物数字保护领域取得的一些开拓性研究工作，相关成果分别于2005年、2010年两次获得国家科技进步二等奖。
+自1996年以来，鲁东明一直致力于文物数字保护领域的学术研究、技术开发与推广应用工作，担任古代壁画保护国家工程研究中心副主任，主要负责古代壁画数字保护研究工作；2010年3月筹备组建浙江大学文化遗产研究院，2010年5月起承担国家文化遗产科技保护区域创新联盟（浙江省）秘书处工作，2012年3月起推进新疆文化遗产保护研究战略合作四方联盟（浙江大学、新疆文物局、浙江文物局、塔里木大学）工作。近五年来，主要承担了973课题、国家&ldquo;十二五&rdquo;科技支撑、浙江省科技重大专项、浙江省重点科技创新团队、浙江省科技考古与文物保护试验基地建设专项等10余项文物数字保护紧密相关的国家或省部级项目；申请发明专利22项、已获授权6项，获软件著作权9项；出版学术著作2部，发表学术论文80余篇，其中SCI收录20篇、EI收录30篇。取得的代表性研究成果有：&ldquo;敦煌莫高窟虚拟漫游系统&rdquo;入选2000年入选德国汉诺威世界博览会并在中国馆展出，开创了利用虚拟现实技术展现世界文化遗产的先河，取得国内外高度评价；出版英文专著&ldquo;DigitalPreservationforHeritages&rdquo;（Springer出版社，2009），全面综合论述了文物保护领域的数字技术，覆盖数字采集、辅助研究、辅助保护、数字陈展与数字利用等各个方面；自主研制国内第一套石窟寺壁画自动采集装置及拼接系统，全面应用于敦煌石窟壁画数字采集，推广应用到宁夏须弥山、新疆龟兹等石窟数字壁画保护；自主研制的考古发掘与遗址信息采集装置及处理系统，广泛应用于浙江良渚、内蒙古辽上京、湖北荆州熊家冢、新疆吐鲁番高昌故城、甘肃敦煌莫高窟等考古发掘现场或遗址；自主研制的国内第一套大规模石窟寺遗址微环境监测系统，全面应用于莫高窟石窟群，推广应用到甘肃炳灵寺、新疆北庭等遗址环境监测；主持建设了中国大学数字博物馆（含28个高校、10万多件文物信息）、敦煌壁画数字资源库（敦煌研究院、浙江大学各投入1000万）。
+			
+				
+			工作研究领域
+			
+			☆无线传感网与感知数据处理方向
+☆计算机视觉与虚拟展示技术方向
+
+☆物联网技术及应用系统领域
+☆文化传媒技术及应用系统领域
+☆高保真采集技术及应用系统领域
+			
+				
+			联系方式
+			
+			电话：0571-87951388			电子信箱：ldm@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：鲁东明
+		单位：浙江大学信息中心
+		职称：教授
+		我的主页共被访问了34145次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	研究成果
+	专利成果
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

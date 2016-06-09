@@ -1,0 +1,219 @@
+
+
+
+
+
+赵梦恋的主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0004186";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	赵梦恋的主页
+Asurveyofmeandmywork
+
+	永久链接:http://mypage.zju.edu.cn/zhaomenglian&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			1998年获杭州大学理学学士学位&nbsp;专业：电子信息工程
+2001年获浙江大学工学硕士学位&nbsp;专业：微电子学与固体电子学
+2004年获浙江大学工学博士学位&nbsp;专业：电路与系统
+2004年至今&nbsp;任浙江大学讲师&nbsp;
+2005年5月&nbsp;至&nbsp;2006年8月&nbsp;香港科技大学博士后研究人员
+&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;曾从事器件物理包括高温电子学和集成电路传感器的研究。近年来主要从事模拟与数模混合集成电路技术研究，参与多个科研项目的工作，特别是与美国国家半导体公司合作进行电源管理集成电路的研究开发，以及国家基金和省基金重点项目有关电力电子集成和功率集成系统芯片的研究，已在国内外学术刊物和国际学术会议上发表论文多篇。2005年5月至2006年8月在香港科技大学以访问学者身份作博士后研修，参加受到香港特区政府和国家863计划支持的集成电路IP评测及设计规范化技术的合作研究。
+&nbsp;
+			
+				
+			工作研究领域
+			
+			MOS器件物理与高温电子学；
+集成电路传感器技术；
+模拟与数模混合集成电路设计；
+电源管理集成电路与功率集成系统芯片研究；
+集成电路IP的评测及设计规范化技术研究
+
+			
+				
+			联系方式
+			
+						电子信箱：zhaoml@vlsi.zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：赵梦恋
+		单位：电气工程学院应用电子学系
+		职称：副教授
+		我的主页共被访问了25647次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+	专利成果
+	实验室介绍
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

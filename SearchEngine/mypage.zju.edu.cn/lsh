@@ -1,0 +1,277 @@
+
+
+
+
+
+廖胜辉的虚拟世界-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0008285";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	廖胜辉的虚拟世界
+随风而来，踏浪而归
+
+	永久链接:http://mypage.zju.edu.cn/lsh&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			廖胜辉，男（1981-），中南大学数字医疗与3D打印研究中心副主任，研究生导师，副教授.&nbsp;2003年、2008年于浙江大学CAD/CG国家重点实验室获得学士、博士学位，2010年博士后出站，进入中南大学计算机系工作，2011年晋升副教授，2012年评为湖南省普通高校青年骨干教师,2013年入选&ldquo;531&rdquo;人才队伍建设第三层次人才,2014年认定为无党派人士.长期专注于计算机与医学交叉研究，在医学图像处理、生物组织宏微观建模、美容整形、手术仿真设计、个性化假体与医疗器械设计等领域发表论文40多篇，其中SCI国际期刊18篇、EI检索13篇.主持国家自然基金、863计划子项目、中国博士后基金特别资助项目、中国博士后基金面上项目各1项.　获得2013国家电子学会奖自然科学类二等奖、省级科学技术奖、中医药科技创新奖、高校优秀科研成果奖各1项.申请发明专利8项，授权计算机软件权10余项.
+&nbsp;开发多套达到临床实用水平的计算机辅助医疗软件系统，包括Ｅ-3D医疗建模与设计、三维美容整形、口腔颅面修复整形、口腔植牙仿真与导板定制、头影解剖测量、个性化假体定制、三维虚拟解剖图谱等，相关产品在多家医院使用，具体请见&nbsp;http://www.e-feature.net.&nbsp;&nbsp;
+&nbsp;&nbsp;
+合作方向以及可提供的技术支持
+(1)&nbsp;研究医学图像和数据的图像分割与配准、统计分析、病灶查找、和可视化算法；
+(2)&nbsp;开发各类可实用于临床的计算机辅助医疗诊断、测量分析、手术方案设计、手术模拟仿真预测等系统；
+(3)&nbsp;开发用于教学、培训、决策分析的三维立体解剖图谱系统、内窥镜手术模拟培训系统；
+(4)&nbsp;开发远程医疗会诊与咨询的分布式医疗系统，和医疗信息化集成系统；
+
+电子信箱：shliao@zju.edu.cn,&nbsp;lsh@mail.csu.edu.cn
+
+
+发表的主要论文：
+XDing,Sheng-huiLiao,XHZhu,HMWang.InfluenceofOrthotropyonBiomechanicsofPeri-ImplantBoneinCompleteMandibleModelwithFullDentition.BioMedResearchInternational,vol.2014,ArticleID709398,12pages,2014.&nbsp;&nbsp;&nbsp;&nbsp;(SCI期刊)&nbsp;
+&nbsp;
+Sheng-huiLiao,BJZou,JPGeng,JXWang,XDing.PhysicalModelingwithOrthotropicMaterialbasedonHarmonicFields.ComputerMethodsandProgramsinBiomedicine,2012,V108(2):536-547.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(SCI期刊)&nbsp;
+&nbsp;
+WWei,Sheng-huiLiao,SYShi,JFei,YFWang,CYChen.Straightenedcervicallordosiscausesstressconcentration:a&#64257;niteelementmodelstudy.AustralasianPhysical&amp;EngineeringSciencesinMedicine(APESM)(2013)36(1):27&ndash;33.&nbsp;&nbsp;&nbsp;&nbsp;(SCI期刊)
+&nbsp;
+Sheng-huiLiao,YXLiang,LZLi,BJZou.PracticalcraniofacialsurgerysimulatorbasedonGPUacceleratedlatticeshapematching.ComputerAnimationandVirtualWorlds,2011,22(2,3):269&ndash;276.&nbsp;&nbsp;&nbsp;&nbsp;(SCI期刊)
+&nbsp;
+YXLiang,Sheng-huiLiao,LWang,BJZou.ExploringRegularizedFeatureSelectionforPersonSpecificFaceVerification.In:The13thInternationalConerenceonComputerVision,6-13November2011,Barcelona,Spain.(顶级会议ICCV2011，大会宣读)
+&nbsp;
+BJZou,XYZhang,Sheng-huiLiao,LWang.SpecularityRemovalusingDarkChannelPrior.JournalofInformationScienceandEngineering,2013,29(5):835-849.&nbsp;&nbsp;&nbsp;(SCI期刊)&nbsp;
+&nbsp;
+BJZou,XYZhang,Sheng-huiLiao,ZLChen.ANewFrameworkforDouble-EyelidSurgeryPostoperativeAppearanceSimulation.ICICExpressLetters,2013,7(12):3495-3502.&nbsp;(EI期刊)&nbsp;<spanlang="EN-US"style="font-size:
+8.0pt;color:blue">
+&nbsp;
+Sheng-huiLiao,RFTong,JPGeng,MTang.InhomogeneousvolumetricLaplaciandeformationforrhinoplastyplanningandsimulationsystem.ComputerAnimationandVirtualWorlds,2010,V21(3,4):331&ndash;341.&nbsp;&nbsp;&nbsp;&nbsp;(SCI期刊)
+&nbsp;
+Sheng-HuiLiao,RFTong,JXDong.GradientFieldbasedInhomogeneousVolumetricMeshDeformationforMaxillofacialSurgerySimulation.Computers&amp;Graphics,2009,V33(3):424-432.&nbsp;&nbsp;&nbsp;&nbsp;(SCI期刊)
+&nbsp;
+Sheng-HuiLiao,RFTong,JXDong.InfluenceofAnisotropyonPeri-implantStressandStraininCompleteMandibleModelfromCT.ComputerizedMedicalImagingandGraphics,2008,V32(1):53&ndash;60.&nbsp;&nbsp;&nbsp;&nbsp;(SCI期刊)
+&nbsp;
+Sheng-HuiLiao,RFTong,JXDong.AnisotropicFiniteElementModelingforPatientSpecificMandible.ComputerMethodsandProgramsinBiomedicine,2007,V88(3):197&ndash;209.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(SCI期刊)
+&nbsp;
+JXWang,Sheng-huiLiao,XHZhu,YWang,CXLing.RealTime3DSimulationforNoseSurgeryandAutomaticIndividualProsthesisDesign.ComputerMethodsandProgramsinBiomedicine,2011,V104(3):472-479.&nbsp;&nbsp;&nbsp;&nbsp;(SCI期刊)
+&nbsp;
+M-FLi,Sheng-huiLiao,R-FTong.Facialhexahedralmeshtransferringbyvolumetricmappingbasedonharmonicfields.Computers&amp;Graphics,2011,V35(1):92-98.&nbsp;&nbsp;&nbsp;&nbsp;(SCI期刊)
+&nbsp;
+DShi,Sheng-huiLiao,JPGeng.Anewlydesignedbigcupnitinolstentforgastricoutletobstruction.Worldjournalofgastroenterology,2010,V16(33):4206-4209.&nbsp;&nbsp;&nbsp;&nbsp;(SCI期刊)
+&nbsp;
+XDing,Sheng-HuiLiao,XHZhu.EffectofDiameterandLengthonStressDistributionoftheAlveolarCrestaroundImmediateLoadingImplants.ClinicalImplantDentistryandRelatedResearch,2009,V11(4):279-287.&nbsp;&nbsp;&nbsp;&nbsp;(SCI期刊)
+&nbsp;
+XDing,XHZhu,Sheng-HuiLiao,XHZhang,HChen.Implant-BoneInterfaceStressDistributioninImmediatelyLoadedImplantsofDifferentDiameters:AThree-DimensionalFiniteElementAnalysis.<spanstyle="color:black;text-decoration:none;
+text-underline:none">JournalofProsthodontics,2009,18(5):393-402.&nbsp;&nbsp;&nbsp;&nbsp;(SCI期刊)
+&nbsp;
+M.Ding,R.Tong,Sheng-HuiLiao,J.Dong.Anextensionto3DtopologicalthinningmethodbasedonLUTforcoloncenterlineextraction.ComputerMethodsandProgramsinBiomedicine,2009,V94(1):39-47.&nbsp;&nbsp;&nbsp;&nbsp;(SCI期刊)
+&nbsp;
+RFTong,Sheng-HuiLiao,JXDong.OptimizationTechniqueandFESimulationforLagScrewPlacementinAnteriorColumnoftheAcetabulum.LectureNotesinComputerScience,2006,V3994:839-846.&nbsp;&nbsp;&nbsp;&nbsp;(SCI期刊)
+&nbsp;
+LFLin,Sheng-HuiLiao,RFTong,JXDong.WaterDropletMorphingCombiningRigidTransformation.LectureNotesinComputerScience,2005,V3514:671-678.&nbsp;&nbsp;&nbsp;&nbsp;(SCI期刊)
+&nbsp;
+Sheng-HuiLiao,RFTong,JXDong.ComputerAidedDesignandEvaluationofNewAnatomicFixationSystemonEntirePelvicModel.2009SIAM/ACMJointConferenceonGeometricandPhysicalModeling,SanFrancisco,California,2009,pp.331-336.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(EI收录)
+&nbsp;
+YXLiang,LWang,ShenghuiLiao,BJZou.FeatureSelectionviaSimultaneousSparseApproximationforPersonSpecificFaceVerification.18thIEEEInternationalConferenceonImageProcessing(ICIP2011),pp789-792,&nbsp;29/12/2011.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(EI收录)
+&nbsp;
+Q.Zheng,Q.Chen,Sheng-HuiLiao,S-Y.Shi.Three-dimensionalsimulationandcomparingevaluationofanewsacroliliacinternalfixationdevice;YiyongShengwuLixue/JournalofMedicalBiomechanics,2010,V25(2):105-111.&nbsp;&nbsp;&nbsp;&nbsp;(EI期刊)
+&nbsp;
+Sheng-HuiLiao,RFTong,JXDong.3DWholeToothModelfromCTVolumeusingThin-plateSplines.In:9thInternationalConferenceonComputerSupportedCooperativeWorkinDesign,2005,V1AND2,pp.600-604.&nbsp;&nbsp;(EI收录)
+&nbsp;
+Sheng-HuiLiao,WHan,RFTong,JXDong.AHybridApproachtoExtractToothModelfromCTVolume.In:MathematicsofSurfacesXI,LectureNotesinArtificialIntelligenceandLectureNotesinBioinformatics,2005,V3604,pp.308-317.&nbsp;&nbsp;(EI收录)
+&nbsp;
+Sheng-HuiLiao,RFTong,MKWang,JXDong.RapidlyGenerateLumbarSpineVolumeMesh.In:9thInternationalConferenceonComputerAidedDesignandComputerGraphics,2005,HongKong,Dec7-10,,pp.345&ndash;350.&nbsp;&nbsp;(EI收录)
+&nbsp;
+Sheng-HuiLiao,RFTong,JXDong.3DHumanMandibleReconstructionfromCTData.In:8thInternationalConferenceonComputerSupportedCooperativeWorkinDesign,2004,V1,pp.487-492.&nbsp;&nbsp;(EI收录)
+&nbsp;
+廖胜辉,许端清,董金祥.颌骨重建中的图像分割和轮廓对应及分支问题.计算机辅助设计与图形学学报，2004年，V16(9):1225-1230.&nbsp;&nbsp;(EI收录)
+&nbsp;&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+			
+				
+			工作研究领域
+			
+			计算机图形图像、3D打印、虚拟现实、科学可视化、生物医学建模、计算机辅助医疗仿真、人工智能与机器学习
+			
+				
+			联系方式
+			
+						电子信箱：shliao@zju.edu.cn,lsh@mail.csu.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：廖胜辉
+		单位：中南大学数字医疗与3D打印研究中心
+		职称：副教授
+		我的主页共被访问了9122次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		发表论文
+	科研项目
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,1 @@
+{'name': u'\uff1a\u5f20\u6b66\u660e', 'title': u'\uff1a\u526f\u6559\u6388', 'photo': u'http://mypage.zju.edu.cn/teacherimage/0009215.jpg', 'pos': './mypage.zju.edu.cn/biosystems', 'intro': [u'\n\t\t                \t\t\t\n\t'], 'department': u'\uff1a\u63a7\u5236\u79d1\u5b66\u4e0e\u5de5\u7a0b\u5b66\u7cfb', 'homepage': 'http://mypage.zju.edu.cn/biosystems'}

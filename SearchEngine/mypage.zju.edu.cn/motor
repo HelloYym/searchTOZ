@@ -1,0 +1,220 @@
+
+
+
+
+
+电机狂转-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0006296";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	电机狂转
+默语动静皆安然
+
+	永久链接:http://mypage.zju.edu.cn/motor&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			简历
+1980年出生，浙江人，1997年09月―2001年06月在浙江大学物理系攻读学士，2001年6月获学士学位;2001年09月―2006年09月在浙江大学电机系攻读博士，2006年9月获工学博士学位。2006年09月－2008年11月，在浙江大学动力工程与工程热物理专业进行博士后工作；2008年11月－2010年12月浙江大学电机系，讲师；2011年01月－至今浙江大学电机系，副教授。
+研究兴趣
+1.永磁电机设计和驱动
+2.功率电子应用
+科研项目
+1.磁场调制型低速大扭矩多功率端口永磁电机研究
+2.高速中等功率鼠笼式永磁无刷电机研究
+3.&nbsp;小型能量收集系统研究
+4.&nbsp;低速大转矩电机及其驱动技术
+5.&nbsp;压缩机用高速电机电机及无位置传感器驱动研究
+6.&nbsp;电动/发电两用高速电机研究
+7.&nbsp;小型高速电机系统研发
+
+			
+				
+			工作研究领域
+			
+			新型永磁电机设计；永磁多端口网络设计和控制；低速大功率永磁电机驱动系统；高速永磁电机设计和无位置传感器控制技术；
+			
+				
+			联系方式
+			
+			电话：87953094			电子信箱：m_j_jin@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：金孟加
+		单位：电气工程学院电机工程学系
+		职称：副教授
+		我的主页共被访问了12442次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	发表论文
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

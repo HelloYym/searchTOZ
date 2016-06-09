@@ -1,0 +1,209 @@
+
+
+
+
+
+钱超的主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0007630";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	钱超的主页
+天天向上，多多益善
+
+	永久链接:http://mypage.zju.edu.cn/supmoney&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;1997年入读浙江大学，2007年博士毕业并留校任教至今。
+&nbsp;&nbsp;&nbsp;主要从事氨基有机化合物的合成方法及工艺研究。将包括固定床反应器、管道化反应器在内的多种过程强化手段引入到相关的有机胺生产中，研发的醇氨解制脂肪胺催化剂得到工业化应用。
+&nbsp;&nbsp;&nbsp;同时，着眼于大化工的精细化发展目标，将精细化工技术应用于等离子裂解煤制乙炔的固体产物利用，使固体产物得到高附加值化利用，提高技术的经济性，研究工作进展顺利，并作为子课题负责人参与了相关工作的&ldquo;863&rdquo;计划重点项目。
+&nbsp;&nbsp;&nbsp;作为负责人主持国家自然科学基金、&ldquo;863&rdquo;计划项目重点项目子课题、浙江省自然科学基金各1项；作为骨干参与国家科技支撑计划项目、国家自然科学基金、浙江省自然科学基金各1项；同时作为负责人主持横向项目多项，作为骨干参加浙江省科技厅重大专项、重大横向项目多项。近五年来发表论文30篇，其中以第一作者和通讯作者发表SCI论文11篇，EI论文4篇；获国家授权发明专利16项。
+			
+				
+			工作研究领域
+			
+			应用化学，精细有机化合物合成及化工过程强化技术
+			
+				
+			联系方式
+			
+			电话：87951615			电子信箱：supmoney@163.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：钱超
+		单位：化学工程与生物工程学系
+		职称：副教授
+		我的主页共被访问了2486次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		专利成果
+	工作研究项目
+	发表论文
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

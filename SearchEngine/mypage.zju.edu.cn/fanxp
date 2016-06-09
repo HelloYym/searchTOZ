@@ -1,0 +1,263 @@
+
+
+
+
+
+樊先平个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0088286";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	樊先平个人主页
+学术
+
+	永久链接:http://mypage.zju.edu.cn/fanxp&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			姓名:樊先平
+
+性别:男
+
+单位:&nbsp;材料科学与工程学系
+
+职称:教授
+
+电话:0571-87951234
+
+邮件:fanxp@zju.edu.cn
+
+
+
+工作（研究）领域
+
+功能玻璃与陶瓷；溶胶-凝胶技术；光电功能材料；纳米材料；纳米生物标记材料与生物传感材料；新型建筑材料
+
+
+
+工作（研究）项目
+
+
+1.无铬碱性砖耐高温材料的万吨级规模制备
+国家高技术研究发展计划（863）2004-10-01-2005-12-31
+
+
+2.钛稀土共激活发光储能材料研制
+省科技厅（一般）2005-01-01-2006-12-31
+
+
+3.稀土掺杂纳米生物体荧光标记材料的制备技术研究
+国家自然科学基金（面上）2005-01-01-2007-12-31
+
+
+4.一种新型无机基有机复合波长变换-减反射膜的制备研究
+国家自然科学基金（面上）2003-01-01-2005-12-31
+
+
+5.高阻隔透明纳米复合聚酯薄膜关键技术研究
+省科技厅（重大重点）2003-01-01-2004-06-31
+
+
+6.无机纳米微粒在高分子材料中应用关键技术研究
+省科技厅（重大重点）2001-11-05-2003-06-31
+
+
+7.无机基质中金属有机配合物原位合成条件及其动力学研究
+国家自然科学基金（面上）2001-01-01-2003-12-31
+
+
+8.光纤预制棒生产技术服务
+一般横向项目（包括国际合作）2000-06-01-2003-05-31
+			
+				
+			工作研究领域
+			
+			功能玻璃与陶瓷；溶胶-凝胶技术；光电功能材料；纳米材料；纳米生物标记材料与生物传感材料；新型建筑材料
+
+			
+				
+			联系方式
+			
+			电话：0571-87951234			电子信箱：fanxp@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：樊先平
+		单位：材料科学与工程学系
+		职称：教授
+		我的主页共被访问了48288次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	研究成果
+	专利成果
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

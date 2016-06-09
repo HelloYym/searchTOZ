@@ -1,0 +1,223 @@
+
+
+
+
+
+王琳琳的主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0093427";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	王琳琳的主页
+生如夏花之绚烂，死如秋叶之静美
+
+	永久链接:http://mypage.zju.edu.cn/wll&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;
+
+王琳琳，女，&nbsp;1969年出生，博士，副教授。1993年毕业于浙江医科大学医学口腔系。2003年6月获浙江大学生理学博士学位。2003年~2005年在日本北海道大学博士后，主要从事神经生理与药理研究。2007年在美国加州UCLA进行PBL教学模式学习。作为骨干参加2005年生理学国家精品课程和2007年浙江大学网络精品课程生理学的建设。参加医学院、药学院、成教学院以及远程教学的工作，主讲留学生班级、ZDM班、七年制临床医学、五年制临床医学的生理学理论和实验的教学工作，采用多媒体教学，双语教学和全英语教学模式。作为骨干成员参加以&ldquo;创新能力培养为核心，构建基于生理课程组国家精品课程群的立体化教学体系改革&rdquo;获得2008年浙江大学教学成果一等奖。获得2008年浙江大学青年教师教学技能比赛二等奖。主编出版生理学学习教材一本、副主编教材两本，参加编写教材总字数共达100万字以上。
+&nbsp;
+作为主要骨干先后参加过4项国家自然科学基金和两项浙江省自然科学基金的课题研究，主持浙江省中医药局课题一项和国家教育部留学回国人员启动基金一项，圆满的完成所承担的研究工作。2003年获浙江省高等学校科研成果二等奖和浙江省自然科学优秀论文二等奖；2005年获浙江省高等学校科研成果二等奖。现主持课题：浙江省自然科学基金&ldquo;Akt1激活促进软骨组织工程种子细胞移植后存活的效应及其机制研究&rdquo;一项，参加国家基金和省重大项目等共6项。指导本科生SRTP和挑战杯项目共8项，一组学生获得浙江大学2007-2008年挑战杯自然科学类一等奖。目前主要从事干细胞和再生医学方面的研究，主要方向为：胚胎干细胞与组织工程再生医学，主要涉及干细胞生物学、骨、软骨和肌腱的修复再生。
+
+			
+				
+			工作研究领域
+			
+			研究领域：
+
+1.	干细胞生物学和干细胞技术Stemcellsbiologyandtechnology
+
+
+2.	肌腱再生的科学问题及其系统组织工程技术Tendonregenerationbiologyandtissueengineeringtechnology
+
+
+3.	软骨再生的科学问题及其系统组织工程技术Cartilageregenerationbiologyandtissueengineeringtechnology
+
+			
+				
+			联系方式
+			
+			电话：0571-87217146			电子信箱：wanglinlin2002@hotmail.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：王琳琳
+		单位：基础医学系
+		职称：副教授
+		我的主页共被访问了13605次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	奖励荣誉
+	实验室介绍
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,230 @@
+
+
+
+
+
+Dr.Yu-ChaoLi-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0010033";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	Dr.Yu-ChaoLi
+
+
+	Permanentlink:http://mypage.zju.edu.cn/en/liyc&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			&nbsp;
+
+&nbsp;WorkingExperience
+
+Associateprofessor,Lecturer,ZhejiangUniversity,China,2010~present
+ResearchAssociate,CardiffUniversity,UK,2006~2009
+Lecturer,ZhejiangUniversityCityCollege,China,2006&nbsp;&nbsp;
+
+
+&nbsp;Education
+
+PhDinGeotechnicalengineering,&nbsp;ZhejiangUniversity,China
+BScinCivilengineering,&nbsp;ZhejiangUniversity,China&nbsp;
+
+
+&nbsp;Projects
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[9]Backfillconsolidationinsoil-bentonitecutoffWallsand&nbsp;itseffectsonhydraulicperformance,&nbsp;NationalNaturalScienceFunds(51378465),2014~2017
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[8]Theoreticalandteststudiesofcontainingheavy-metalcontaminatedsedimentsviacapping,NationalNaturalScienceFunds--YoungScholar(51009121),2011~2013
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[7]Fundamentalresearchingenerationandsustainablecontrollingofenvironmentaldisastersofmunicipalsolidwastedisposal,NationalBasicResearchProgramofChina(973Program),MinistryofScienceandTechnology,China(2012CB719800),2012~2016
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[6]Generation,transportandsystemsengineeringcontrolofleachateandgasinlandfills,NationalNaturalScienceFunds--InternationalCooperationandExchanges(51010008),2011~2013
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[5]Multi-scalenumericalmodellingandvalidationofsoilslopefailures,NationalNaturalScienceFoundationofChina(50778163),2008~2010
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[4]PollutantsintheUrbanEnvironment(PUrE)-MainStudy(EP/C532651/2),EPSRC,UK,2006~2009
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[3]Modellingpre-failureshearstrain(solifluction)infreezingandthawingslopes(GR/T22964/01),EPSRC,UK,2006~2008
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2]Teststudyandnumericalmodellingofmoistureandgastransportinunsaturatedwastes,NationalNaturalScienceFoundationofChina(50408023),2005~2007
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[1]MechanismofsoilslopefailureundercoupledcomplexconditionsandmonitoringusingTDR,NationalNaturalScienceFoundationofChina(50278087),2003~2005
+
+
+Representativepublishedpapers
+
+&nbsp;&nbsp;&nbsp;[10]&nbsp;LiY-C,CleallPJ,WenY-D,ChenY-M,PanQ.Stressesinsoil-bentoniteslurrytrenchcutoffwalls.G&eacute;otechnique&nbsp;(Accepted).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[9]&nbsp;&nbsp;LiY-C,ChenY-M,ZhanTLT.&nbsp;OpportunitiesandchallengesofenvironmentalgeotechnicsinChina.&nbsp;EnvironmentalGeotechnics,InvitedpaperfortheRegionalEditorsthemedissue(Accepted).&nbsp;Link
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[8]&nbsp;&nbsp;LiY-C,PanQ,CleallPJ,ChenY-M,KenH.Stabilityanalysisofslurrytrenchesinsimilarlayeredsoils.&nbsp;JournalofGeotechnicalandGeoenvironmentalEngineering-ASCE&nbsp;2013,139(12):2104-2109.&nbsp;Link
+&nbsp;&nbsp;&nbsp;&nbsp;[7]&nbsp;&nbsp;LiY-C,PanQ,ChenY-M.Stabilityofslurrytrencheswithaninclinedgroundsurface.&nbsp;JournalofGeotechnicalandGeoenvironmentalEngineering-ASCE&nbsp;2013,139(9):1617-1619.&nbsp;&nbsp;Link
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[6]&nbsp;&nbsp;LiY-C,CleallPJ,MaX-F,ZhanTLT,ChenY-M.Gaspressuremodelforlayeredmunicipalsolidwastelandfills.&nbsp;JournalofEnvironmentalEngineering-ASCE&nbsp;2012,138(7):752-760.&nbsp;&nbsp;Link
+&nbsp;&nbsp;&nbsp;&nbsp;[5]&nbsp;CleallPJ,&nbsp;LiY-C.AnanalyticalsolutionfordiffusionofVOCsthroughcompositelandfillliners.&nbsp;JournalofGeotechnicalandGeoenvironmentalEngineering-ASCE&nbsp;2011,137(9):850-854.&nbsp;&nbsp;Link
+&nbsp;&nbsp;&nbsp;&nbsp;[4]&nbsp;&nbsp;LiY-C,CleallPJ,ThomasHR.Multi-dimensionalchemo-osmoticconsolidationofclays.&nbsp;ComputersandGeotechnics2011,38(4):423-429.&nbsp;Link
+&nbsp;&nbsp;&nbsp;&nbsp;[3]&nbsp;&nbsp;LiY-C,CleallPJ.Analyticalsolutionsforadvective-dispersivesolutetransportindouble-layeredfiniteporousmedia.InternationalJournalforNumericalandAnalyticalMethodsinGeomechanics&nbsp;2011,35(4):438-460.&nbsp;Link
+&nbsp;&nbsp;&nbsp;&nbsp;[2]&nbsp;&nbsp;LiY-C,CleallPJ.Analyticalsolutionsforcontaminantdiffusionindouble-layeredporousmedia.&nbsp;JournalofGeotechnicalandGeoenvironmentalEngineering-ASCE&nbsp;2010,136(11):1542-1554.&nbsp;Link
+&nbsp;&nbsp;&nbsp;&nbsp;[1]&nbsp;&nbsp;LiY-C,ChenY-M,ZhanTLT,LingD-S,CleallPJ.Anefficientapproachforlocatingthecriticalslipsurfaceinslopestabilityanalysesusingareal-codedgeneticalgorithm.&nbsp;CanadianGeotechnicalJournal&nbsp;2010,47(7):806-820.&nbsp;Link
+
+Contact
+MailAddress:&nbsp;&nbsp;RoomA401,AnzhongBuilding,ZijingangCampus,ZhejiangUniversity,310058,Hangzhou,P.RChina
+PhoneNumber:&nbsp;+8657188208859
+FaxNumber:+8657188208793
+E-mail:&nbsp;liyuchao@zju.edu.cn
+			
+					
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:Yu-ChaoLi
+		Units:CivilEngineering
+		Title:AssociateProfessor
+		Myhomepagehasbeenvisited8946times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+Usefulinformation
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	
+
+
+Youarevisitor:8946
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

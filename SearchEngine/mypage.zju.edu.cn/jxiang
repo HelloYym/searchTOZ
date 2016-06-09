@@ -1,0 +1,205 @@
+
+
+
+
+
+JiXianghomepage-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0005153";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	JiXianghomepage
+项基的主页
+
+	永久链接:http://mypage.zju.edu.cn/jxiang&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			项基，浙江温州人。1996/06毕业于北方工业大学工学部工业自动化专业获学士学位。同年考入浙江大学电气学院控制系冯培悌老师门下，并与1999/02获控制理论与控制工程硕士学位。1999.03-2002.02先后在深圳凯菱公司，深圳山特电子有限公司，深圳中兴通讯公司从事硬件开发工作。2002/03考回浙江大学信息学院控制系，师从褚健教授，与2005/03获控制科学与工程博士学位。2005.05-2007.08，浙江大学电气工程流动站，从事博士后研究工作。2005/09-2005/12，香港城市大学高级助理研究员。2007.09升职为浙江大学电气学院系统科学与工程系副教授，2012年底升职为教授。2013.01-2014.01在悉尼大学进行学术访问。
+主要研究方向包括网络化动态系统的稳定性、控制和优化及在微电网上的应用。更多请访问我的主页
+			
+				
+			工作研究领域
+			
+			微电网，网络化动态系统，机器人系统，非线性系统
+			
+				
+			联系方式
+			
+						电子信箱：jxiang@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：项基
+		单位：电气工程学院系统科学与工程学系
+		职称：教授
+		我的主页共被访问了12118次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

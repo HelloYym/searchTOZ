@@ -1,0 +1,230 @@
+
+
+
+
+
+王进教授-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0003421";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	王进教授
+
+
+	永久链接:http://mypage.zju.edu.cn/0003421&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;王进博士，(运动心理学）
+浙江大学教育学院教授、博士生导师
+
+
+留学经历：
+
+2002年在澳大利亚维多利亚大学（VictoriaUniversity,Melbourne）获哲学博士学位（运动心理学专业）；1997年在澳大利亚伍伦贡大学（UniversityofWollongong，Wollongong）获教育学硕士学位（心理健康教育专业）。2003年在新西兰奥克兰大学（UniversityofAuckland，Auckland）心理系从事博士后的学习和研究。2004年回国在浙江大学教育学院从事教学和科研工作。
+
+
+工作简历：
+
+现任浙江大学教育学院教授。
+1984年本科毕业于四川成都体育学院，毕业后在国家射击队从事运动心理科研服务工作。1987年至1995年在原国家体委中国体育科学学会办公室工作。1995年赴澳大利亚留学深造。1997年获硕士学位后，在澳大利亚伍伦贡大学心理系从事教学和科研工作。
+
+标志性研究：
+
+十多年来，主要从事竞赛心理学和休闲心理学的研究。其中压力的技能表现和&ldquo;Choking&rdquo;现象的探索为标志性研究。相关的研究项目曾获澳大利亚国家研究奖学金和澳大利亚维多利亚大学奖学金资助；&ldquo;Choking&rdquo;研究的成果被维多利亚大学推举在四种校刊上介绍，并被澳大利亚运动心理学会作为有贡献的研究在该会通讯上介绍；回国后，&ldquo;Choking&rdquo;研究的后续成果在2013年获教育部“第六届高等学校科学研究优秀成果奖（人文社会科学）”二等奖。2006年和2007年分别获得“浙江省哲学社会科学优秀成果”的学术进步奖和“浙江省自然科学优秀论文奖”二、三等奖。2010年获“浙江省自然科学学术奖二奖”和“浙江省高等教育成果”奖一等奖。并在国际的SCI和国内的权威学术期刊上发表了相关的研究论文。
+
+			
+				
+			工作研究领域
+			
+			运动心理学（压力下的技能表现、Chokingunderpressure、认知、注意、焦虑、应付、自我、团体效应等）、体育社会心理学、休闲心理学的问题、健康心理问题；青少年心理问题
+
+			
+				
+			联系方式
+			
+			电话：0571-88273663			电子信箱：jinwang47@live.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：王进
+		单位：教育学院体育系
+		职称：教授
+		我的主页共被访问了28242次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	学术交流（讲座报告）
+	奖励荣誉
+	学术任职
+	招生情况
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

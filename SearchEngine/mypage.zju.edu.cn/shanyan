@@ -1,0 +1,214 @@
+
+
+
+
+
+单岩-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0097227";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	单岩
+CAD/CAM/CAE，虚拟现实，虚拟样机，逆向工程
+
+	永久链接:http://mypage.zju.edu.cn/shanyan&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			学历：
+本科：华中科技大学船舶内燃机专业
+硕士：同济大学实验力学专业
+博士：浙江大学工程图学专业
+科研：
+承担国家十一五科技支撑计划重大项目、中小企业创新基金重大项目、重大海外合作项目，以及大量企业委托项目。在国内外高水平学术刊物《computerinindustry》、《internationaljournalofmachinetools&amp;manufacture》、《机械工程学报》（中、英文版）等发表论文四十余篇。拥有多项发明专利、软件著作权等。担任《中国机械工程》杂志董事会成员，并担任多种国内外学术刊物论文评审专家。
+教学：
+承担浙江省新世纪教学改革项目、浙江大学教学成果重点培育项目。编写出版十余本教材，包括国家十一五规划教材。在《现代教育技术》等教育核心期刊发表多篇教学论文。主持开发的《模具虚拟教学与实训工场》被收录到教育部国家级教学资源库，并在全国高校推广。
+			
+				
+			工作研究领域
+			
+			CAD/CAM/CAE软件应用及二次开发
+虚拟现实、虚拟样机关键技术及应用系统研发
+逆向工程应用技术开发
+			
+				
+			联系方式
+			
+			电话：0571-28873266			电子信箱：shanyan@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：单岩
+		单位：化学工程与生物工程学系
+		职称：副教授
+		我的主页共被访问了5736次
+标签：CADCAECAMVR逆向工程虚拟现实虚拟样机	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		出版著作
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

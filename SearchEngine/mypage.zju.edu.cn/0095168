@@ -1,0 +1,225 @@
+
+
+
+
+
+欢迎访问吴春明的个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0095168";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	欢迎访问吴春明的个人主页
+
+
+	永久链接:http://mypage.zju.edu.cn/0095168&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			吴春明，男，1967年出生，于1989年及1992年分别获得浙江大学计算机科学与技术学士与硕士学位，1995年获得浙江大学计算机应用专业工学博士学位后留校任教，1997年晋升为副教授，2005年晋升为教授、博士生导师。教学工作上承担过四门本科生与研究生基础、专业课程的讲授；科研上长期从事人工智能、新型网络体系结构、计算机网络QoS等领域的科学研究工作，近年来的研究重点在网络虚拟化与可重构柔性网络技术方面，主持或参加了多项国家973基础研究项目课题、国家自然科学基金项目、国家863重大专项课题、国家科技基础条件平台建设重大项目的研究与开发工作。现为国家&ldquo;十二五&rdquo;863信息领域网络与通信技术主题专家组专家，中国SDN与开放网络专业委员会主任委员，浙江省&ldquo;新世纪151人才工程&rdquo;培养人选，浙江大学青年学术带头人，中国电子学会高级会员，《电子学报》编委。
+近年来，领导实验室团队在新一代高可信互联网体系领域开展了前瞻性研究，创造性地提出了分层网络服务提供的学术思想，将网络业务和服务间传统的紧耦合关系转变为松耦合关系，以破解现有网络在服务需求与服务提供之间的不匹配问题，极大增强了网络服务提供能力的扩展性。该学术思想已应用到国家863重大项目&ldquo;新一代高可信网络&rdquo;专项课题&ldquo;可重构路由器构件组研制&rdquo;的研究中，并取得了较好的成果。同时将前期在人工智能领域积累的研究成果应用到可重构柔性网络研究中，以实现网络资源管控的精准与适配，并在国家863重大项目课题&ldquo;可重构柔性试验网组网设备工程化实施&rdquo;研究中，将上述成果应用到柔性网络管控平台研发中，初步完成了构建具备&ldquo;三网融合&rdquo;能力、具有全新网络体制、以服务提供为导向的可重构柔性试验网。在此基础上，进一步深化了智能技术在网络认知中的研究，并负责国家973基础研究项目&ldquo;可重构信息通信基础网络体系研究&rdquo;课题&ldquo;业务自适应认知承载机理&rdquo;的研究，提出从业务认知、资源感知、智能适配三个方面来研究网络认知问题，在满足用户业务需求前提下，实现网络资源的高效利用。领导实验室研究&ldquo;软件定义网络&rdquo;国际热点学术问题，提出关于SDN的新型网络体系结构以及控制面支撑平台等关键技术，以改善现有互联网体系结构的可编程能力和可演进能力。
+研究成果已在《IEEECommunicationMagazine》，ICDCS，《IETElectronicsLetters》，《IETProc.Communications》，Globecom，《ChineseJournalofElectornics》等国内外著名期刊与会议上发表了学术论文60余篇，其中被SCI和EI收录的论文40余篇；出版著作两部；申请了国家发明专利10项。2012年4月负责研制的&ldquo;XFlow：Component-basedReconfigurableNetworkArchitecture&rdquo;系统入围全球开放网络峰会&ldquo;OPENNETWORKINGSUMMIT&rdquo;上展示。2004年获得国家科技进步一等奖个人证书。近年来在开放网络创新技术研究上取得了多项突破：多域数据面重构技术成果入围产业界风向标峰会--2014年全球开放网络峰会OpenNetworkingSummit（ONS）、研究论文被USENIXONS2014收录；&ldquo;XFlow可重构网络体系结构&rdquo;作为国内首所高校入围2012年全球开放网络峰会ONS；多域无损重构协议研究论文被IEEEINFOCOM2014收录；SDN分布式网络编程被IEEEICC2014收录。
+
+&nbsp;
+			
+				
+			工作研究领域
+			
+			下一代互联网体系架构；
+
+网络虚拟化技术及柔性可重构网络；
+
+下一代网络大规模试验床系统；
+互联网视频基因采集技术、分布式基因快速分析对比技术、海量基因库管理技术、网络视频安全与预警；
+拟态安全网络体系、网络空间主动防御技术、拟态安全防御创新体系及其关键技术；
+网络攻防技术
+
+			
+				
+			联系方式
+			
+						电子信箱：wuchunming@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：吴春明
+		单位：计算机科学与技术学院
+		职称：教授
+		我的主页共被访问了47504次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+	出版著作
+	专利成果
+	奖励荣誉
+	教学工作
+	研究成果
+	实验室介绍
+	成员简介
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,209 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0090047";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0090047&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			近来主要代表作有：
+1.	First-orderattractorflowequationsforsupersymmetricblackringsinN=2,D=5supergravity，Yi-XinChenandYong-QiangWang,JournalofHighEnergyPhysics,02(2008)052.
+2.	Theentropyboundforlocalquantumfieldtheory,Yi-XinChenand
+			
+				
+			工作研究领域
+			
+			1988年西北大学现代物理研究所获博士学位；1988－1990年复旦大学物理系博士后；1990起在浙江大学任教，1995年晋升为教授，1996年被批准为博士生导师。从事场论与弦理论和量子信息与量子计算两方面研究工作。1993年获第四届霍英东青年教师基金，1998年获浙江省青年科技人才培养专项资金资助。已发表SCI论文八十余篇，所发表论文累计被引用四百余篇次。现有在研国家级科研项目多项。
+最近主要研究兴趣为：
+1.	弦理论的非微扰表述
+2.	黑洞物理与宇宙学
+3.	量子纠缠基本属性及其与量子测量的关系
+
+			
+				
+			联系方式
+			
+						电子信箱：yxchen@zimp.zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：陈一新
+		单位：物理学系
+		职称：研究员（自然科学）
+		我的主页共被访问了2890次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

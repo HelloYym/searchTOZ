@@ -1,0 +1,217 @@
+
+
+
+
+
+Workingatthespeedoflight-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0094034";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	Workingatthespeedoflight
+冉立新的个人主页
+
+	永久链接:http://mypage.zju.edu.cn/ranlx&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;
+应用电磁波研究实验室（ARE）主任。http://mypage.zju.edu.cn/ranlx/586384.html
+&nbsp;
+1991年本科毕业于浙江大学，主修物理电子学、辅修无线电技术。1994年获浙江大学物理电子学与光电子学工学硕士学位。1997年获浙江大学电子科学与技术工学博士学位。1999、2004年先后获聘浙江大学副教授、教授。2005、09、12年中三次作为VisitingScientist在美国麻省理工学院（MIT）电子学研究实验室（RLE）做访问研究。多本图书章节、百余篇科技论文的作者，三十余项国家发明专利的发明人。主持国家自然科学基金重点项目、863、973课题等数十项科研工作。致力于电磁波前沿和热点领域中的科学研究及技术应用。
+&nbsp;
+			
+				
+			工作研究领域
+			
+			无线感知、测量与成像；无线能量传输与IoT；射频/微波/太赫兹系统；新机理天线；有源微波媒质。
+			
+				
+			联系方式
+			
+			电话：0571-87952456			电子信箱：ranlx@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：冉立新
+		单位：信息与电子工程学系
+		职称：教授
+		我的主页共被访问了49796次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	专利成果
+	学术交流（讲座报告）
+	实验室介绍
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	AEM
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

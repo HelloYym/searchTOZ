@@ -1,0 +1,227 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0007116";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0007116&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			陈振濂，男，汉族，浙江鄞县人，1956年生于上海。1979年入浙江美术学院（现中国美术学院），师从陆维钊、沙孟海、诸乐三，获书法学硕士学位。1993年任浙江美术学院教授、博士生导师。2000年任浙江大学人文学院副院长兼艺术学系主任、浙江大学中国艺术研究所所长、浙江大学文化艺术委员会常务副主任、浙江大学书画社常务副社长。人文学院中国古典文献学专业中国书画篆刻史学方向、中国美术学院书法学专业博士生导师。
+
+书画篆刻作品多次入选国内外大型书画篆刻展览并被收入多种作品专集。曾先后在日本、台湾、大陆等地举办个人书画篆刻作品展、书画篆刻著述展及书画篆刻文献展，出版有《陈振濂书画篆刻集》等。
+
+专攻书画篆刻理论研究，已出版学术专著有《中国画形式美探究》、《书法学》、《书法美学》、《书法教育学》、《现代中国书法史》、《线条的世界&mdash;&mdash;中国书法文化史》、《空间诗学导论》、《宋词流派的美学研究》、《中国书画篆刻品鉴》、《近代中日绘画交流史比较研究》、《现代日本书法大典》等40种，内容涉及古典诗词、中国画、书法、篆刻等各方面，并旁涉日本书法绘画。在《文艺研究》、《美术研究》、《新美术》等刊物上发表多篇学术论文。
+
+在书法创作方面倡导&quot;学院派&quot;书法创作模式，此成果于1999年获中国文联&quot;百名优秀青年文艺家&quot;称号。在书法理论方面倡导&quot;书法学&quot;学科研究，主编《书法学》学术专著，1999年获文化部第一届优秀艺术科学成果奖；获首届中国书法最高奖&ldquo;兰亭奖&bull;理论奖&rdquo;。在书法教育方面有&quot;陈振濂书法教学法&quot;，有史以来第一次以书法教育学成果获国家级大奖（1988）和霍英东教学基金奖（1989）。有大学教材著述五种行世，并主编&quot;大学书法教材集成&quot;十五种，2003年获首届中国书法&ldquo;兰亭奖&bull;教育奖&rdquo;。在文艺评论方面，2001年获&ldquo;中国当代文艺评论奖&rdquo;。
+
+现任西泠印社副社长兼秘书长、《西泠印社》社刊主编、《中国篆刻》主编，中国书法家协会理事、学术委员，中国教育学会书法教育专业委员会副理事长，中国青年书法理论家协会主席，浙江省书法家协会副主席，浙江省中日关系史学会副会长，亚太文化研究会副会长，教育部艺术教育委员会委员，浙江省政协常委，杭州市政协副主席。现为国家级专家并享受政府特殊津贴。
+
+　
+
+ChenZhenlian
+ViceDeanofSchoolofHumanities,ZhejiangUniversity
+ChenZhenlian,male,Hannationality,anativeofYinxianCounty,wasborninShanghaiin1956.In1979,hewasacceptedtostudyatZhejiangAcademyofFineArts(presentlyChinaAcademyofArt)andhestudiedChinesecalligraphyfromsuchmastersasLuWeizhao,ShaMenghaiandShuLesanandobtainedhisMasterdegree.Since1993hehasworkedasprofessor,doctoratesupervisorinChinaAcademyofArt.Since2000,hehasalsoworkedasViceDeanofSchoolofHumanities,DirectorofDepartmentofArtScience,DirectoroftheCenterforChineseArtStudies,andExecutiveViceChairoftheCommitteeofCultureandArts,ZhejiangUniversity,ExecutiveViceChairmanoftheAssociationofCalligraphyandPainting,ZhejiangUniversity.HeisalsodoctoratesupervisorinthefieldofChinesecalligraphy,painting&amp;seal-engravingatZhejiangUniversityanddoctoratesupervisorinthefieldofChinesecalligraphyatChinaAcademyofArt.
+
+Hisworksofcalligraphy,paintingandseal-engravinghavebeenshowninvariousforeignanddomesticexhibitionsandcollectedinsomemonographs.InJapan,TaiwanandtheMainlandofChina,hehasheldseveralexhibitionsofhiscalligraphy,paintingandseal-engraving,worksanddocuments.HepublishedCollectedWorksofCalligraphy,PaintingandSealEngravingbyChenZhenlian,etc..
+
+Hefocuseshisstudyontheoreticalstudiesofcalligraphy,paintingandseal-engraving.HisacademicpublicationsincludeExplorationoftheBeautyoftheFormsofTraditionalChinesePainting,TheScienceofCalligraphy,TheAestheticScienceofCalligraphy,TheScienceofCalligraphyEducation,TheModernHistoryofChineseCalligraphy,TheCulturalHistoryofChineseCalligraphy,IntroductiontoSpatialPoetics,AestheticStudyoftheSchoolsofCiduringtheSongDynasty,AppraisalofChineseCalligraphy,PaintingandSeal-Engraving,AComparativeStudyofExchangeHistorybetweenChinesePaintingandJapanesePainting,etc.AllofhisfortyacademicbookscoverawidescopeofancientChinesepoetryandCi,Chinesepainting,calligraphy&amp;seal-engraving,Japanesecalligraphyandpainting,etc.ManyofhispapershavebeenpublishedinsuchleadingacademicmagazinesasNewArt,ArtResearch,andLiteraryandArtStudies,etc..
+
+Intermsofcalligraphycreation,headvocatesthecreationpatternofacademicschool.In1999,hewonthetitleof&ldquo;100TopYoungArtists&rdquo;awardedbyChinaFederationofLiteraryandArtCircles.Intermsofcalligraphytheory,headvocatestheacademicstudyofthescienceofcalligraphy.Heiseditor-in-chiefofTheScienceofCalligraphy.In1999,thisbookwontheprizeoftheFirstNationalArtScienceAchievementwhichwasawardedbytheMinistryofCultureandLantingAward(thehighestawardinthefieldofcalligraphy)inresearchsection.Intermsofcalligraphyeducation,ProfChenhascreatedChenZhenlian&rsquo;sapproachtoteachcalligraphy.TheteachingapproachwontheNationalPrizein1988.Itisthefirsttimetoconfertheprizetocalligraphyeducation.In1989,hisapproachwonHuoYingdongFundAward.Hecompiledfivecollegetextbooksandeditedfifteencollegetextbooksoncalligraphy.In2003,thesetextbookswonLantingAwardineducationsection.Intermsofliteraryandartcriticism,hewontheAwardofContemporaryChineseLiteraryandArtCriticism.
+
+CurrentlyProfChenalsoworksasExecutiveViceChairmanandSecretaryGeneraloftheXilingSeal-Engravers&rsquo;Association,Editor-in-ChiefofJournaloftheXilingSeal-Engravers&rsquo;Association,Editor-in-ChiefofChineseSeal-Engraving,memberofChineseCalligraphers&rsquo;Association,ViceChairmanofCalligraphyEducationCommitteeofTheChineseSocietyofEducation,ChairmanofChinaAssociationforYoungCalligraphyTheorists,ViceChairmanofTheAssociationoftheHistoryofChinaandJapan,ViceChairmanofTheSocietyofAsianandPacificCultures,memberofArtEducationCommitteeintheMinistryofEducation,standingmemberofthePoliticalConsultativeConferenceofZhejiangProvince,andViceChairmanofthePoliticalConsultativeConferenceofHangzhouCity.HealsoenjoysthetitleofStateExpertandtheGovernmentSpecialGrant.
+			
+				
+			工作研究领域
+			
+			1、艺术学
+2、美术学
+3、中国书画篆刻
+			
+				
+			联系方式
+			
+						电子信箱：ysbgs@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：陈振濂
+		单位：人文学院
+		职称：
+		我的主页共被访问了8529次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

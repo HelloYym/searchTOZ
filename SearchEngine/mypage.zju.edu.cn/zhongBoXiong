@@ -1,0 +1,213 @@
+
+
+
+
+
+钟伯雄个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0086180";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	钟伯雄个人主页
+蚕不成蛹丝不尽人不达志心不甘
+
+	永久链接:http://mypage.zju.edu.cn/zhongBoXiong&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;&nbsp;
+1982年7月毕业于浙江农业大学蚕桑系，1982年8月-1983年8月，浙江省嘉兴市王店蚕种场技术员，1986年7月，浙江农业大学蚕学系硕士研究生毕业后留校任助教，1988年12月任讲师，1992年7月，浙江农业大学蚕学系获博士学位，1994年12月任副教授，2002年12月任浙江大学教授。现为浙江大学动物科学学院教授，博士生导师。1993年5月-1993年10月，日本北海道大学外国人研究员，1993年11月-1994年4月，日本农林水产省农业生物资源研究所博士后，1995年3月-1997年3月，日本科学技术厅和日本农林水产省农业研究中心特别研究员，1997年7月-1997年10月，日本科学技术厅和日本农林水产省蚕丝昆虫农业技术研究所特别研究员，1997年12月-1999年1月，日本生物系特定产业技术研究推进机构客座研究员，1999年7月-1999年8月，日本科学技术厅重点基础研究外国专家，1999年12月-2000年3月，日本生物系特定产业技术研究推进机构客座研究员，2002年12月－2003年2月日本九州大学访问学者。
+			
+				
+			工作研究领域
+			
+			主要从事转基因动物、蛋白质组学、基因组学、数量遗传学、育种学、及病毒学等方面研究工作。承担国家重点基础研究（973）、国家高技术研究发展计划（863）、国家自然科学基金、浙江省自然科学基金、浙江省科技厅、国际合作等科研项目和课题40多项。在JournalofProteomeResearch、JournalofVirology、ActaBiochimBiophysSin、ScienceinChina、ArchVirol、遗传学报、蚕业科学等国内外杂志发表论文100多篇，出版教材1部。获国家发明专利4项、软件登记2项。
+研究制定的“家蚕杂交种母蛾微粒子病抽样检疫方法”，1997年被定为“中华人民共和国农业行业标准”，并在全国推广实施，2003年被评为浙江省科技进步三等奖。“利用EST信息资源大规模克隆家蚕功能基因”研究成果获浙江省科学技术一等奖。
+
+			
+				
+			联系方式
+			
+			电话：0571－86971302			电子信箱：bxzhong@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：钟伯雄
+		单位：动物科学学院特种经济动物科学系
+		职称：教授
+		我的主页共被访问了13765次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	研究成果
+	专利成果
+	实验室介绍
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

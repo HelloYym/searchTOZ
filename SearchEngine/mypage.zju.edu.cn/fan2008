@@ -1,0 +1,209 @@
+
+
+
+
+
+范伟民-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0007039";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	范伟民
+
+
+	永久链接:http://mypage.zju.edu.cn/fan2008&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			浙江省缙云县人，1983年毕业于浙江医科大学临床医学系,1986年获得硕士学位后赴美国迈阿密（UniversityofMiami）大学免疫与微生物系博士班留学,并于1990年进入美国南卡罗来纳医科大学（MedicalUniversityofSouthCarolina）做博士后研究。1992年被该校内科系聘为助理教授，博士生导师。并建立了独立的实验室，继而分别于1997和2003年晋升为病理和实验医学系副教授及教授（终身教授），并兼任内科系系教授和该校肿瘤中心（HollingsCancerCenter）研究员。迄今已在美国及其他国际性期刊发表九十多篇学术论文。2008年被浙江大学聘为肿瘤学求是特聘教授,博士生导师。2009年入选浙江省首批海外高层次人才（千人计划）。目前担任医学院&ldquo;肿瘤创新治疗实验室&rdquo;和&ldquo;纳米生物化疗药物实验室&rdquo;负责人。
+			
+				
+			工作研究领域
+			
+			1)实验肿瘤治疗；2）靶向纳米生物化疗药物；2)激素对肿瘤发生发展、对药物诱导细胞凋亡的影响以及其分子机制；3)肿瘤耐药性及其逆转途径；4)小分子药物筛选和临床前评估；4）纳米多肽抗菌素的作用机制；
+
+
+			
+				
+			联系方式
+			
+			电话：0571-88208778			电子信箱：fanw@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：范伟民
+		单位：医学院临床医学一系
+		职称：教授
+		我的主页共被访问了8605次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		发表论文
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	医学院个人主页
+MUSC个人英文网页
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

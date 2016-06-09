@@ -1,0 +1,209 @@
+
+
+
+
+
+刘宾虹-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0006108";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	刘宾虹
+我的主页
+
+	永久链接:http://mypage.zju.edu.cn/liubinhong&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			刘宾虹：博士，研究员
+&nbsp;&nbsp;研究方向：制氢和储氢材料、燃料电池
+&nbsp;电话及传真：0571-87951770
+&nbsp;
+刘宾虹,博士,研究员。1985年毕业于浙江大学材料科学与工程系，获学士学位。1988年和1991年先后在浙江大学材料系获硕士和工学博士学位，毕业后留校工作。1994年12月晋升为副研究员。1995年至1997年在韩国科学技术院材料科学和工程系从事博士后研究工作。1997年至2006年在日本工学院大学任客座研究员。于2006年4月回浙江大学工作。2008年12月晋升为研究员。主要从事能源材料包括各类制氢和储氢材料、高性能液态直接燃料电池的研究开发工作。近年来主要研究以硼氢化物为能源介质的制氢、可逆储氢、直接燃料电池以及硼氢化物的再生合成等，研究工作受到国内外同行的广泛关注。
+作为项目负责人已先后承担了国家&ldquo;863&rdquo;科技计划、国家自然科学基金面上项目、重大横向项目、浙江省科技计划各一项。在国际重要学术期刊上发表SCI论文52篇，论文总引用次数超过800次，其中他引近400次，H指数为17。在储氢材料、硼氢化钠水解和直接硼氢化钠燃料电池等研究方向有一定的学术影响。
+			
+				
+			工作研究领域
+			
+			储氢材料等能源材料，燃料电池
+			
+				
+			联系方式
+			
+			电话：87951770			电子信箱：liubh@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：刘宾虹
+		单位：材料科学与工程学系
+		职称：研究员（自然科学）
+		我的主页共被访问了20828次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		发表论文
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

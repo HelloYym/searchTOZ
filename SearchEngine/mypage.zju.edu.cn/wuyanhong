@@ -1,0 +1,200 @@
+
+
+
+
+
+吴艳红-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0009067";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	吴艳红
+
+
+	永久链接:http://mypage.zju.edu.cn/wuyanhong&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			吴艳红，浙江大学历史系教授。
+&nbsp;
+1988年考入北京大学历史系，1992年获历史学学士学位，1995年硕、博连读，1997年获该校历史学博士学位。同年分至中国社会科学院历史研究所工作，任助理研究员，2000年任副研究员。2001年10月至2003年5月，获美国学术委员会（AmericanCouncilofLearnedSocieties）资金资助，在美国普林斯顿大学(PrincetonUniversity)做访问学者。2003年8月进入美国俄克拉何马州立大学（OklahomaStateUniversity）社会学系学习，2008年12月获该校社会学博士学位。2008年至2010年，分别在美国博懋大学（BrynMawrCollege）和艾德里安大学（AdrianCollege）从事研究和教学工作。2010年5月，进入浙江大学人文学院历史系，任教授。
+&nbsp;
+吴艳红以明史，中国古代法制史，中国古代社会文化史，当代特定社会群体及其文化行为为主要研究方向。主要著作包括专著《明代充军研究》（2003年3月，社会科学文献出版社），中英文学术论文如《明代流刑考》（《历史研究》2000年6期），《明代卑幼人法律地位研究》（《晚明社会变迁研究》，商务印书馆，2005年），《TheEmperor&rsquo;sFourBodies:EmbodiedRulershipandLegalCultureinEarlyMingChina》（FrontierinChineseHistory2007年1期），《日常仪式化行为的形成：从雷锋日记到知青日记》（《社会》2007年1期），《中国农村的纠纷解决：资源与可及性---以湖南一个村落的研究为例》（《中外法学》2007年3期），以及《VoiceEffectandPerceptionofFairness:ARacialStudy》（《Race,Gender,andCrime:AnAnthology》，WhittierPublications,2008）等数十篇。曾独立得到中国社会科学院青年社科基金，美国学术委员会研究基金等研究资助，曾经是国家社会科学基金项目（《晚明社会变迁研究》，中国社会科学院重点研究课题项目（《明代政治史》、《中国珍稀法律典籍集成》）的主要成员。
+&nbsp;
+吴艳红现阶段的研究以明代中后期法律文化现象为主要关注对象，以发展历史学和社会学交叉学科为主要研究目标。正在进行的论著写作包括《关于历史社会学的思考与研究》和《明代中后期法律知识的生产和传播》等。
+&nbsp;
+			
+					
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：吴艳红
+		单位：人文学院
+		职称：
+		我的主页共被访问了2318次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

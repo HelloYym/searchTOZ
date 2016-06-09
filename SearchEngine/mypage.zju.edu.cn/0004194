@@ -1,0 +1,205 @@
+
+
+
+
+
+杨坤的主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0004194";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	杨坤的主页
+耐得住寂寞，经得起繁华
+
+	永久链接:http://mypage.zju.edu.cn/0004194&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			杨坤(1975.11-)，博士、教授、博导，浙江新昌人，现任浙江大学环境污染控制技术研究所副所长。1999年6月于浙江大学环境科学系获学士学位；2004年6月于浙江大学环境科学系获博士学位。2004年9月晋升为讲师。2005年5月至2006年5月在美国麻州大学进行博士后研究工作。2006年12月晋升为副教授。2008年4月至2010年3月在美国麻州大学进行访问研究。2010年12月晋升为教授。主要从事纳米吸附材料研制、人造纳米材料的环境与人体健康影响、有机污染土壤修复、有毒有害物质在环境中的归宿和迁移转化等方面研究工作。至今，已经在《Chem.Rev.》、《Environ.Sci.Technol.》、《Langmuir》、《Environ.Pollut.》、《WaterRes.》等期刊上发表SCI论文36篇，获国家发明专利授权3项，应邀参加国际会议并做报告8次。主持国家自然科学基金、国家863计划重点项目子课题、浙江省自然科学基金等项目，作为主要骨干承担国家自然科学重点项目、浙江省自然科学基金重点项目等。2004年获浙江省科学技术二等奖；2006年入选&ldquo;浙江省151人才工程&rdquo;和浙江省&ldquo;钱江人才&rdquo;计划项目；2007年获&ldquo;全国百篇优秀博士论文&rdquo;提名奖、教育部自然科学二等奖；2008年入选教育部&ldquo;新世纪优秀人才&rdquo;支持计划项目；2009年获&ldquo;Scopus未来科学之星&rdquo;环境科学领域银奖；2010年获浙江省科学技术一等奖;2011年获浙江省自然科学杰出青年基金项目。
+			
+				
+			工作研究领域
+			
+			环境化学，纳米材料与环境，污染土壤修复，有机污染物的环境界面行为
+			
+				
+			联系方式
+			
+			电话：0571-88982589			电子信箱：kyang@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：杨坤
+		单位：环境与资源学院环境科学系
+		职称：教授
+		我的主页共被访问了9532次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	发表论文
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,211 @@
+
+
+
+
+
+钱大宏教授-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0013117";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	钱大宏教授
+浙江大学医学院
+
+	永久链接:http://mypage.zju.edu.cn/qian&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			在美国工业界有多年的研发经验，曾经在美国上市公司Maxim，ADI和OVT分别担任过高级工程师，高级技术经理以及系统工程副总裁等职务，并且创办过两家高科技公司，被上市公司并购。&nbsp;
+浙江大学科仪系学士，UniversityofTexasatAustin硕士，HarvardUniversity博士。上海市科学预见专家，中组部及浙江省创新千人专家。&nbsp;
+			
+				
+			工作研究领域
+			
+			新型医学材料和器件的研究用于：
+
+1.基于太赫兹超材料的生物传感器用于循环肿瘤细胞检测，为肿瘤的靶向治疗提供依据；
+
+2.医疗图像的计算机智能识别，首先专注于肺部磨玻璃结节的肺癌早期判别；
+
+3.微型超低功耗人体参数检测器件构成的人体健康网络（BodyAreaNetwork）；
+			
+				
+			联系方式
+			
+						电子信箱：dqian@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：钱大宏
+		单位：医学院
+		职称：教授
+		我的主页共被访问了3453次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		个人信息
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

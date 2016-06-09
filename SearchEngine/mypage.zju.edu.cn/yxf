@@ -1,0 +1,213 @@
+
+
+
+
+
+0002239-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0002239";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	0002239
+SpaceStructures
+
+	永久链接:http://mypage.zju.edu.cn/yxf&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;
+女，教授，博士生导师，浙江舟山人。1995年西安建筑科技大学建筑工程系本科，2000年浙江大学土木系博士，2000年至2002年香港理工大学土木系合作研究。2002年5月回浙江大学建工学院空间结构研究中心任教，从事空间结构特别是索杆张力结构和新型空间结构体系的研究工作。近年来，对结构在各种交叉领域如建筑节能、可再生能源利用中的相关理论和应用进行了研究，取得了初步成果。先后负责国际合作项目、国家自然科学基金重点项目子课题、国家自然科学基金面上项目、浙江省杰出青年基金项目、浙江省自然科学基金重点项目各一项，参加多项国家自然科学基金和省部级基金项目的研究工作，同时参加了国家&ldquo;水立方&rdquo;游泳中心、九寨沟甘海子国际会议度假中心、南海市文化中心钢结构、浙大紫金港校区体育馆、济南奥体中心体育馆等多项工程的分析设计工作。撰写论文50余篇，参与编写著作三本，发明专利3项，获国家科技进步一等奖、教育部高等学校科技进步一等奖、浙江省科技进步二等奖各一项。
+			
+				
+			工作研究领域
+			
+			1.空间网格结构，预应力空间结构，索杆张力结构，索穹顶结构；
+
+2.结构分析基础理论和设计技术；
+			
+				
+			联系方式
+			
+			电话：0571-88208750			电子信箱：yuanxf@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：袁行飞
+		单位：建筑工程学院土木工程学系
+		职称：教授
+		我的主页共被访问了14531次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	专利成果
+	奖励荣誉
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

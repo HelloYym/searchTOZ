@@ -1,0 +1,258 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0097030";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0097030&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+
+
+
+
+
+
+单国荣，教授，博士生导师，工学博士
+电话：0571-87951334（O）
+传真：0571-87951612
+电子邮件：shangr@zju.edu.cn
+
+
+
+
+
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;1990年毕业于浙江大学化工系高分子化工专业；1993年于清华大学化工系获硕士学位；1997年于浙江大学化工系获博士学位。1999年晋升副教授，2003年起任浙江大学教授。2004年被批准为博士导师，入选2005年度教育部新世纪优秀人才支持计划。现任高分子工程研究所副所长。讲授研究生学位课&quot;高分子选论&quot;、本科生必修课&ldquo;化学工艺学&rdquo;。
+&nbsp;&nbsp;&nbsp;&nbsp;在聚合反应工程与技术、高分子材料领域开展聚合过程中的动力学及其聚合物结构和性能控制的基础与应用基础研究。先后承担国家自然科学基金2项、省部级科研项目4项，参加国家和省部级项目7项；获国家科技进步二等奖1项、部级鉴定3项；发表论文近100篇，其中SCI、EI收录论文60多篇，SCI他引80多次。
+&nbsp;
+
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;研究兴趣
+&middot;非均相聚合体系反应动力学及聚合物结构和性能控制
+&nbsp;&nbsp;&nbsp;&nbsp;包括：有机-无机杂化微胶囊聚合动力学、结构控制；水溶性单体的非均相聚合动力学、结构控制等；氯乙烯悬浮聚合动力学、建模和计算机实时检测等；含物理交联、吸放油可逆型丙烯酸酯系列高吸油树脂的制备和结构控制等；乙烯基单体与N-取代马来酰亚胺共聚合机理、动力学、建模、共聚物微观结构预测和控制等
+&middot;均相聚合体系反应动力学及聚合物结构和性能控制
+&nbsp;&nbsp;&nbsp;&nbsp;包括：甲基丙烯酸甲酯聚合过程中动力学和性能的建模和控制等；苯乙烯聚合过程中动力学和性能的建模和控制等
+&middot;功能高分子材料制备过程中聚合物结构和性能控制
+&nbsp;&nbsp;&nbsp;&nbsp;包括：有机硅油、硅树脂、硅橡胶制备；环氧树脂基轻质材料；新型分形聚酯液晶的合成和结构控制等；通用塑料的耐热化及耐热机理等
+&nbsp;&nbsp;&nbsp;&nbsp;在研主要项目
+&middot;聚合过程中高吸油树脂结构的非平衡演化和吸放油可逆性（国家自然科学基金）
+&middot;复合介质场中的双水相聚合反应动力学与聚合过程稳定性（国家自然科学基金）
+&middot;一步法连续羟基硅油新工艺基础研究（教育部高等学校重点实验室访问学者基金）
+&middot;有机硅树脂硅橡胶复合微粉研究
+&middot;有机硅硬质耐磨涂料（杭州市重大高新技术研究项目）
+&middot;新型有机硅油制备（国际合作项目）
+
+
+
+
+
+
+			
+				
+			工作研究领域
+			
+			·非均相聚合体系反应动力学及聚合物结构和性能控制
+包括：有机-无机杂化微胶囊聚合动力学、结构控制；水溶性单体的非均相聚合动力学、结构控制等；氯乙烯悬浮聚合动力学、建模和计算机实时检测等；含物理交联、吸放油可逆型丙烯酸酯系列高吸油树脂的制备和结构控制等；乙烯基单体与N-取代马来酰亚胺共聚合机理、动力学、建模、共聚物微观结构预测和控制等
+·均相聚合体系反应动力学及聚合物结构和性能控制
+包括：甲基丙烯酸甲酯聚合过程中动力学和性能的建模和控制等；苯乙烯聚合过程中动力学和性能的建模和控制等
+
+·功能高分子材料制备过程中聚合物结构和性能控制
+包括：有机硅油、硅树脂、硅橡胶制备；环氧树脂基轻质材料；新型分形聚酯液晶的合成和结构控制等；通用塑料的耐热化及耐热机理等
+
+
+			
+				
+			联系方式
+			
+			电话：0571-87951334（O）			电子信箱：shangr@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：单国荣
+		单位：化学工程与生物工程学系
+		职称：教授
+		我的主页共被访问了8351次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	研究成果
+	专利成果
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,218 @@
+
+
+
+
+
+浙大航空航天学院王高峰副教授-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0013065";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	浙大航空航天学院王高峰副教授
+
+
+	永久链接:http://mypage.zju.edu.cn/gfwang&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+2014.05至今&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江大学航空航天学院&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;副教授，求是青年学者，博导
+2014.06&ndash;2014.07&nbsp;&nbsp;斯坦福大学湍流研究中心&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;访问学者（CTR&nbsp;SP2014）
+2013.01&ndash;2014.04&nbsp;&nbsp;&nbsp;加拿大舍布鲁克大学机械工程系&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;博士后（MitacsFellow）
+2011.07&ndash;2012.12&nbsp;&nbsp;&nbsp;欧洲科学计算中心CERFACS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;博士后（STAEFellow）
+2010.12&ndash;2010.06&nbsp;&nbsp;巴黎中央理工大学EM2C实验室&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CDD研究员
+2008.12&ndash;2010.11&nbsp;&nbsp;&nbsp;巴黎中央理工大学EM2C实验室&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;博士后
+2003.06&ndash;2003.10&nbsp;&nbsp;瑞典皇家工学院KTH能源技术系&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;访问博士生
+2002.09&ndash;2008.09&nbsp;&nbsp;中国科学技术大学热科学和能源工程系&nbsp;&nbsp;博士（工程热物理）
+1998.09&ndash;2002.07&nbsp;&nbsp;&nbsp;中国科学技术大学热科学和能源工程系&nbsp;&nbsp;学士（热能动力工程，计算机科学）
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;近年来的研究工作主要集中在：发展了动态火焰面亚格子模型，并首次把该理论模型运用于湍流燃烧的大涡模拟，预测非定常燃烧过程中非平衡的湍流/火焰相互作用；以燃气轮机整体设计为目标，发展了高精度耦合多求解器副本技术MISCOG，并在已有相关程序基础上开发了用于燃气轮机核心机部件耦合计算的高性能大涡模拟程序TurboAVBP，并进行了叶轮机械大涡模拟、燃烧室/涡轮耦合作用的研究；开发了一系列大型并行非结构热传导求解器AVTP和热辐射求解器RAINIER(GPU/CPU高性能构架)，用于耦合热传导、辐射的航空发动机燃烧室计算。
+
+			
+				
+			工作研究领域
+			
+			研究方向：航空发动机的燃烧、叶轮机械和耦合传热
+
+			
+				
+			联系方式
+			
+						电子信箱：gfwang[at]zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：王高峰
+		单位：航空航天学院航空航天工程学系
+		职称：副教授
+		我的主页共被访问了163次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	发表论文
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

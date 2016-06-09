@@ -1,0 +1,252 @@
+
+
+
+
+
+生物制造与生物材料-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0014038";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	生物制造与生物材料
+Dr.JunYin'sLab
+
+	永久链接:http://mypage.zju.edu.cn/jyin&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+&nbsp;
+尹俊，浙江大学机械工程学院，现代制造工程研究所，研究员，博士生导师。于2004年在北京大学力学与工程科学系获得学士学位；于2007年在中国科学院力学研究所获得硕士学位；于2011年在美国Clemson大学机械工程系获得博士学位。自2011至2013年，在美国UCLA医学院从事博士后研究；自2013年至2014年，在复旦大学力学与工程科学系担任青年研究员。自2014年12月起，在浙江大学机械工程学院担任研究员。于2013年获得中组部第五批&ldquo;青年千人&rdquo;计划资助。
+
+&nbsp;
+EDUCATION:
+
+
+Ph.D.&nbsp;ClemsonUniversity,USA&nbsp;08/2007&ndash;10/2011
+
+
+M.S.&nbsp;ChineseAcademyofSciences,China&nbsp;09/2004&ndash;07/2007
+
+
+B.S.&nbsp;PekingUniversity,China&nbsp;&nbsp;09/2000&ndash;07/2004
+
+
+&nbsp;
+
+
+EMPOLYMENT:
+
+
+ResearchProfessor,CollegeofMechanicalEngineering,ZhejiangUniversity,China&nbsp;12/2014-now
+
+
+YoungResearchProfessor,DepartmentofMechanicsandEngineeringScience,FudanUniversity,China&nbsp;11/2013&ndash;11/2014
+
+
+PostdoctoralScholar,SchoolofMedicine,UniversityofCalifornia,LosAngeles,USA&nbsp;11/2011&ndash;10/2013
+
+
+&nbsp;
+
+
+RESEARCHINTERESTS:
+
+
+Biofabrication,Biomechanics,Biomaterials
+&nbsp;
+			
+				
+			工作研究领域
+			
+			生物制造，生物力学，生物材料
+			
+				
+			联系方式
+			
+			电话：+86-571-87951035			电子信箱：junyin@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：尹俊
+		单位：机械工程学系
+		职称：研究员
+		我的主页共被访问了3303次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+	奖励荣誉
+	科研资助
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	浙江大学
+浙江大学机械工程学院
+中科院力学所赵亚溥研究员
+Dr.YongHuang@UFL
+Dr.ZhaoyanZhang@UCLA
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

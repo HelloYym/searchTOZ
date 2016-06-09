@@ -1,0 +1,211 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0083186";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0083186&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			戚译，62年2月出生，浙江嘉善人。现任浙江大学营销管理研究所副所长，浙江大学管理学院副教授，硕士生导师；主要研究方向为营销管理。著有《经济博弈论》、《营销管理》、《出口商品结构研究》等多部专著和教材，发表有&ldquo;论销售渠道的价格竞争及其管理&rdquo;&nbsp;、&ldquo;论价格战的外部效应&rdquo;、&nbsp;&ldquo;中国企业营销管理现状及成因研究&rdquo;&nbsp;、&ldquo;物资流通企业的营销方法研究&rdquo;、&ldquo;从博弈论看销售渠道的竞争与合作&rdquo;等论文；并先后承担了数十个企业营销与品牌管理的大型课题。其中具有代表性的课题有：&ldquo;浙江仙都啤酒营销拓展研究&rdquo;、&ldquo;浙江千岛湖啤酒品牌整合研究&rdquo;、&ldquo;东茶油营销整合研究&rdquo;、&ldquo;杭州肉联厂&lsquo;联合康康&rsquo;品牌建设&rdquo;、&ldquo;嘉兴数字电视商业模式与营销推广&rdquo;、&ldquo;嘉兴南湖船文化节全案策划&rdquo;等等。
+			
+				
+			工作研究领域
+			
+			专业：企业管理
+研究方向：市场营销
+主要研究领域：
+(1)整体营销模式；
+(2)CIS策划、导入与管理；
+(3)品牌管理
+(4)销售渠道管理
+(5)整合营销传播
+(6)类产品营销模式与推广策略
+
+			
+					
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：戚译
+		单位：管理学院企业管理系
+		职称：副教授
+		我的主页共被访问了8139次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	奖励荣誉
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

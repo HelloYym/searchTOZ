@@ -1,0 +1,299 @@
+
+
+
+
+
+QJL'S个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0004013";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	QJL'S个人主页
+邱建荣的个人主页
+
+	永久链接:http://mypage.zju.edu.cn/0004013&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+邱建荣教授简介
+　　1964年2月14日出生，浙江宁波人。1983年7月陕西科技大学材料系毕业获学士学位，1986年7月武汉理工大学材料学院毕业获工学硕士学位，1992年3月日本冈山大学自然科学研究科毕业获工学博士学位。2000年入选中国科学院&ldquo;引进国外杰出人才&rdquo;百人计划，2001年获国家杰出青年基金。现任浙江大学材料与化学工程学院求是特聘教授、博士生导师。兼任国际玻璃协会理事，中国硅酸盐学会特种玻璃分会副理事长，中国硅酸盐学报副主编。
+
+个人简历:
+1983年7月毕业于西北轻工业学院（现陕西科技大学）材料系，获学士学位；
+1986年7月毕业于武汉工业大学（现武汉理工大学）材料学院，获工学硕士学位；
+1986年8月-1988年5月在上海建材学院（现同济大学材料学院）任助教；
+1988年6月-1989年3月在日本神奈川大学作访问研究（客座研究员）；
+1989年4月-1992年3月日本冈山大学自然科学研究科学习，获工学博士学位；
+1992年4月-1995年3月日本山村硝子株式会社新型材料研究所研究员；
+1995年4月-1999年9月日本科技厅新技术事业团(JST)创造科学推进事业(ERATO)ChiefResearcher；
+1999年10月-2000年3月在美国康奈尔大学应用与工程物理系从事博士后研究；
+2000年4月-2004年12月日本文部科学省科学技术振兴机构国际合作项目GroupLeader，并任中国科学院上海光机所研究员、博士生导师；
+2005年4月，浙江大学材料与化学工程学院求是特聘教授、博士生导师。
+获奖情况
+1997年12月，&rdquo;YoungScientistandEngineerAward&rdquo;，Inter.SymposiumonMaterialsScienceandEngineering；
+1999年5月，日本稀土学会奖（足立赏）；
+2002年5月，日本陶瓷协会仓田奖；
+2005年4月，&rdquo;Otto-SchottResearchAward&rdquo;，德国TheErnstAbbeFund；
+2005年6月上海市优秀新材料产品奖（玻璃激光彩色内雕）
+2007年5月,日本陶瓷学会学术奖。
+此外：
+2000年入选中国科学院&ldquo;引进国外杰出人才&rdquo;百人计划（终期评审为优秀）；
+2001年获国家杰出青年基金资助（终期评审为特优）。
+研究方向
+1)新型光电功能材料
+2)强场（飞秒激光等）与物质的相互作用
+3)微结构光纤
+论文成果（~2005年3月）
+　　发表SCI收录论文125余篇。其中Angew.Chem.Int.Ed.,NanoLett.,Phys.Rev.Lett.,Appl.Phys.Lett.,Opt.Lett.等影响因子大于3的50余篇。论文被他人引用950余次。申请与获得国内外专利25项。
+近年的代表性论文有：
+1.J.Qiu,X.Jiang,C.Zhu,M.Shirai,J.Si,N.JiangandK.Hirao,&ldquo;Manipulationofgoldnanoparticlesinsidetransparentmaterials&rdquo;,Angew.Chem.Int.Ed.,43(2004)2234.
+2.J.Qiu,X.Jiang,C.Zhu,H.Inouye,J.SiandK.Hirao,&ldquo;Opticalpropertiesofstructure-modifiedAu-ion-dopedglasses&rdquo;,Opt.Lett.,29(2004)370.
+3.N.Jiang,J.Qiu,A.EllisonandJ.Spence,&ldquo;Fundamentalsofhigh-energyelectron-irradiation-inducedmodificationsofsilicateglasses&rdquo;,Phys.Rev.,68(2003)64207.
+4.Y.Shimotsuma,P.Kazansky,J.Qiu,andK.Hirao,&ldquo;Self-organizednanogratingsinglassirradiatedbyUltrashortlightpulses&rdquo;,Phys.Rev.Lett.,91(2003)247405.
+5.J.Qiu,M.Shirai,T.Nakaya,J.Si,X.Jiang,C.Zhu,andK.Hirao,&ldquo;Space-selectiveprecipitationofsilvernanoparticlesinsideglasses&rdquo;,Appl.Phys.Lett.,81(2002)3040.
+
+
+联系方式：
+　　邮编310027　浙江杭州市西湖区浙大路38号浙江大学材料系无机所
+　　办公室：曹光彪高科技大楼429室　Tel:0571-87952334&nbsp;Fax:0571-87951234&nbsp;
+　　E-mail:qjr@zju.edu.cn
+　　欢迎既勇于开拓，又脚踏实地，有所创造，有所发现的同学报考研究生，让我们一起探索未知。
+
+Dr.JianrongQiu,&nbsp;
+Professor,InstituteofInorganicMaterials,
+DepartmentofMaterialsScienceandEngineering,
+CollegeofMaterialsScienceandChemicalEngineering,
+ZhejiangUniversity,Hangzhou310027,China
+Email:jrqiu@zju.edu.cn
+Tel:86-571-87952334Fax:86-571-87951234
+
+Educations
+Ph.D.OkayamaUniversity,Japan1992
+M.S.MaterialsScience,WuhanUniversityofScienceandTechnology,China1986
+B.S.MaterialsScience,ShanxiUniversityofScienceandTechnology,China1983
+
+ResearchExperiences
+Mar.2005topresent.ProfessorintheDepartmentofMaterialsScience,ZhejiangUniversity,China
+Apr.2000toDec.2004.GroupLeaderofPhotonCraftInternationalCooperativeResearchProject,ICORP,JST,Japan,andProfessorofShanghaiInstituteofOpticsandFineMechanics,ChineseAcademyofSciences
+Oct.1999toMar.2000.PostDoc,researchassociateattheDepartmentofAppliedandEngineeringPhysics,CornellUniversity,USA
+Apr.1995toSep.1999.ChiefresearcherintheHiraoActiveGlass,Project,ERATO,JST,Japan
+Apr.1992toMar.1994.ResearcherintheNewGlassResearchCenterofYamamuraGlassCo.Ltd.Japan
+Apr.1989toMar.1992.PhDstudent,OkayamaUniversity,Japan
+Jun.1988toMar.1989.VisitingscholarinKanagawaUniversity,Japan
+In1986.AssistantintheDepartmentofMaterialsScienceatShanghaiInstituteofBuildingMaterials(DepartmentofMaterialsScienceandEngineering,TongjiUniversity),China
+
+Awardsandhonors
+ScientificAwardoftheCeramicSocietyofJapan,2007
+Otto-SchottResearchAward,theErnstAbbeFund,2005
+KurataAward,theCeramicsSocietyofJapan,2002
+AdachiAward,theRare-earthSocietyofJapan,1999
+&rdquo;YoungScientistandEngineerAward&rdquo;,the3rdInter.SymposiumonMaterialsScienceandEngineering,1997
+Besides,
+&ldquo;Theoutstandingyoungresearchfund&rdquo;fromtheNationalNaturalScienceFoundationofChina,2001
+&ldquo;NationalScienceFoundationforDistinguishedYoungScholars&rdquo;fromChineseAcademyofSciences,2000
+
+Researchfields
+1.Novelfunctionalmaterials
+2.Interactionoftheexternalintensivefieldswithmatter
+3.Micro-structuredfiber.
+
+Selectedpublications
+Since2000,Prof.Qiuhaspublishedmorethan50SCI-indexedpapersintheinternationaljournalssuchasAngew.Chem.,Phys.Rev.Lett.andAppl.Phys.Lett.,etc.Thesepapershavebeencitedformorethan500times.
+1.J.Qiu,X.Jiang,C.Zhu,M.Shirai,J.Si,N.JiangandK.Hirao,&ldquo;Manipulationofgoldnanoparticlesinsidetransparentmaterials&rdquo;,Angew.Chem.Int.Ed.,43(2004)2234.
+2.J.Qiu,X.Jiang,C.Zhu,H.Inouye,J.SiandK.Hirao,&ldquo;Opticalpropertiesofstructure-modifiedAu-ion-dopedglasses&rdquo;,Opt.Lett.,29(2004)370.
+3.N.Jiang,J.Qiu,A.Ellison,and&nbsp;J.Spence,&ldquo;Fundamentalsofhigh-energyelectron-irradiation-inducedmodificationsofsilicateglasses&rdquo;,Phys.Rev.,68(2003)64207.
+4.Y.Shimotsuma,P.Kazansky,J.Qiu,andK.Hirao,&ldquo;Self-organizednanogratingsinglassirradiatedbyUltrashortlightpulses&rdquo;,Phys.Rev.Lett.,91(2003)247405.
+5.J.Qiu,M.Shirai,T.Nakaya,J.Si,X.Jiang,C.Zhu,andK.Hirao,&ldquo;Space-selectiveprecipitationofsilvernanoparticlesinsideglasses&rdquo;,Appl.Phys.Lett.,81(2002)3040
+
+			
+				
+			工作研究领域
+			
+			1)新型光电功能材料
+2)强场（飞秒激光等）与物质的相互作用
+3)微结构光纤
+
+			
+				
+			联系方式
+			
+			电话：0571-87952334			电子信箱：qjr@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：邱建荣
+		单位：材料科学与工程学系
+		职称：教授
+		我的主页共被访问了28909次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	发表论文
+	研究成果
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

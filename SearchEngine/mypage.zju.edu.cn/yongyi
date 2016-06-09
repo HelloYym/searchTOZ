@@ -1,0 +1,350 @@
+
+
+
+
+
+yongyi.wu-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0003331";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	yongyi.wu
+Welcome!
+
+	永久链接:http://mypage.zju.edu.cn/yongyi&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+
+
+简介：
+
+
+
+吴韬，1995南京大学化学系本科，2000南京大学博士学位。2000-2003&nbsp;德国慕尼黑工业大学（TU&nbsp;Munich）化学系博士后。2003年进入浙江大学化学系工作，历任副研究员、研究员、教授、博士生导师、分子设计和应用研究所副所长。浙江大学软物质研究中心副主任。承担多项国家自然科学面上、重点项目和省部级项目。
+主要成果：1发展了高精度动力学模型建立、验证技术。2004年以第一作者发表于Science的成果，在国际上首先提出精确预测多原子体系中低温区反应速率常数的通用计算方法，被认为是速率常数理论的里程碑之一，现在已被欧洲工业界运用于反应器和催化材料相关研究中，并推动了大量相关算法的发展，促进了反应器计算机辅助设计技术的进步。2发展了高速速率常数预测算法、跨尺度模拟、信息技术，研究基于MCR技术的新型反应器工业应用。3针对生物传感器、高通DNA测序仪和分子诊断装置技术中的生物大分子传质控制、分离、稳定化工艺问题，发展了基于MolecularField的结构生物信息学方法以改进工艺和装置设计。
+相关成果发表于Science,Biomaterials，J.&nbsp;Chem.&nbsp;Phys，&nbsp;J.&nbsp;Phys.Chem.等著名刊物；多次在国际会议上做Keynote以及邀请报告，引起同行的关注。06年发表于J.&nbsp;Chem.&nbsp;Phys的论文入选&ldquo;首届中国百篇最具影响优秀国际论文&rdquo;。08年发表于Biomaterials（IF=7.4，工程材料一区）的论文入选&ldquo;06-10年Biomaterials&nbsp;大陆作者50&nbsp;篇高引论文&rdquo;及2008-the&nbsp;year&nbsp;in&nbsp;images。Science,&nbsp;J.&nbsp;Chem.&nbsp;Phys.&nbsp;上的系列工作被评价为&ldquo;打开了精确计算多原子体系的反应速率常数的大门&rdquo;（D&nbsp;Clary,&nbsp;英国皇家学会院士，评论发表于C&amp;E&nbsp;News,&nbsp;2005；Science，&nbsp;2008）。2008年入选浙江省优秀留学回国人员。入选教育部&nbsp;2008年新世纪优秀人才支持计划及浙江省新世纪151人才计划。
+&nbsp;
+
+
+
+&nbsp;
+
+
+
+&nbsp;
+
+
+
+发表论文著作：
+
+
+
+&nbsp;
+
+
+
+
+&nbsp;
+&nbsp;
+
+
+
+
+1
+
+
+
+
+
+
+Molecularsimulationofflavinadeninedinucleotideimmobilizedonchargedsingle-walledcarbonnanotubesforbiosensorapplicationsYang,G;Kang,ZZ;Ye,XS;Wu,T*;Zhu,Q，Biomaterials，2012，33，8757
+
+
+
+
+&nbsp;
+
+
+
+
+&nbsp;
+
+
+
+
+
+
+
+
+2
+
+
+AdsorptionofInsulinPeptideonChargedSingle-WalledCarbonNanotubes:SignificantRoleofOrderedWaterMolecules&nbsp;,Jia-WeiShen,TaoWu*,QiWang,YuKang,XinChen,ChemPhysChem,2009,10,1260-1269
+
+
+
+
+3
+
+
+MolecularSimulationofProteinAdsorptionandDesorptiononHydroxyapatiteSurfaces,Jia-WeiShen,TaoWu*,QiWang,Hai-HuaPan,Biomaterials（LeadingOpinionPaper,2008-Theyearinimages）,2008,29(5),513-532
+
+
+
+
+&nbsp;
+4
+
+
+Diffusiondynamicsofwatercontrolledbytopologyofpotentialenergysurfaceinsidecarbonnanotubes，Ying-ChunLiu,Jia-WeiShen,KeithE.Gubbins,TaoWu*,QWang,Phys.Rev.B（SelectedbyVirtualJ.NanoscaleSci&amp;Tech08-04-14）,2008,77,125438
+
+
+
+
+5
+
+
+ShieldeffectofsilicateonadsorptionofLRAPontosilicon-dopedhydroxyapatite(100)surface,ChenXin,WuTao*,WangQi,ShenJiawei,Biomaterials,2008,29,2423
+
+
+
+
+6
+
+
+MolecularSimulationofProteinAdsorptionandDesorptiononHydroxyapatiteSurfaces,Jia-WeiShen,TaoWu,QiWang,Hai-HuaPan,Biomaterials(2008-Theyearinimages),2008,29(5),513-532
+
+
+
+
+7
+
+
+AdsorptionofLeucine-RichAmelogeninProteinonHydroxyapatite(001)Surfacethrough-COO-Claws,XinChen,QiWang,JiaweiShen,HaihuaPan,TaoWu*,J.Phys.Chem.C,111(3),1284-1290(2007)
+
+
+
+
+8
+
+
+UnderstandingAdsorption-DesorptionDynamicsofBMP-2onHydroxyapatite(001)Surface,XiuliDong,QiWang,TaoWu*,HaihuaPan,Biophys.J.,2007,93(3),750-759
+
+
+
+
+9
+
+
+AccuratepotentialenergysurfaceandquantumreactionratecalculationforH+CH4-H2+CH3reaction，J.Chem.Phys.,TaoWu;HJWerner;UManthe,124,164307,2006
+
+
+
+
+10
+
+
+First-principlestheoryfortheH+CH4-&gt;H-2+CH3reaction,Wu,T;Werner,HJ;Manthe,U,Science,306(5705):2227-2229
+
+
+
+
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+
+
+
+
+
+
+
+			
+				
+			工作研究领域
+			
+			发展技术预测、分析和控制复杂分子体系的时间演化行为。精确的化学动力学模型是反应工程的核心，具有重要的科学和工程意义，也有重要的社会价值。实践中大量的商业决策和政策依赖于精确动力学模型。比如蒙特利尔协定书在世界范围内全面限制氟制冷剂使用，就建基于精确的臭氧层化学动力学模型(Molinaetal,Nature,1974,249,810)。我们致力于发展：1高精度&高速&面向复杂体系的速率常数预测、复杂体系动力学模型建立、验证技术；2反应器的跨尺度模拟和设计技术；CFD-化学动力学耦合技术；3传感器技术、智能反应器技术和大数据分析在能源、环境、健康领域的应用。
+			
+				
+			联系方式
+			
+			电话：13073625769			电子信箱：tao_wu@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：吴韬
+		单位：化学系
+		职称：教授
+		我的主页共被访问了17845次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,253 @@
+
+
+
+
+
+傅守祥-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0008224";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	傅守祥
+傅守祥的个人主页
+
+	永久链接:http://mypage.zju.edu.cn/fushouxiang&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;
+傅守祥（1970.11-），山东东营人，文学博士，哲学、艺术学博士后。兼为中华美学学会会员、中国中外文艺理论学会会员、中国文艺理论学会会员、浙江省作协会员、浙江省比较文学与外国文学学会常务副秘书长、浙江省哲学学会会员、浙江省妇女研究会会员等。
+1989年考入山东师范大学中文系，1993年获文学学士学位并在中学任教；1994年考入杭州大学中文系，1997年获世界文学专业硕士学位并在中共浙江省委党校任教；2001年考入浙江大学人文学院，2005年获文艺学专业博士学位。2005-08年在中国社会科学院从事哲学（美学）博士后研究、在中国传媒大学从事艺术学（影视艺术）博士后研究。1997年、2001年曾在中共浙江省委宣传部、浙江省文化厅挂职工作。2005年任副教授。2004年学术访问澳大利亚悉尼大学并参加新西兰怀卡特大学主办的国际学术研讨会，2008年参加由加拿大&ldquo;文化更新中心&rdquo;在溫哥華主办的国际学术会议，2008年学术访问德国法兰克福大学社会学研究所并参加法兰克福大学主办的国际学术研讨会。
+傅守祥的学科专长是哲学、文学、艺术学、社会理论的跨学科复合研究，主攻方向是比较文学与世界文学、审美文化与艺术哲学研究。主持完成国家社会科学基金一般项目、教育部重点课题、中国博士后科学基金一等资助金项目以及省/厅级社科规划课题11项，参与完成4项省级和2项厅级社科规划课题。在《哲学研究》、《红旗文稿》、《文艺理论研究》、《社会科学战线》、《中国比较文学》、《红楼梦学刊》、《浙江大学学报》、加拿大《文化中国》、台湾《哲学与文化》、香港《二十一世纪》等海内外学刊发表论文90余篇，被《新华文摘》、《高等学校文科学术文摘》、《中国社会科学文摘》、《中国社会科学院院报》、《新华日报》及人大复印资料《文艺理论》、《文化研究》、《美学》等转载（摘）20多篇。已出版研究专著《审美化生存》、《文化诗学》等4种，研究合著、编著等10余种。学术研究曾获部委级理论奖1项（&ldquo;第一届中国妇女研究成果奖&rdquo;论文类三等奖／2004年）、浙江省党校系统理论奖多项等。
+为本科生、研究生开设《世界文学》、《世界小说欣赏》、《电影批评与艺术伦理》、《比较文学专论》、《大众文化研究》等课程。
+ResearchInterests:
+1.ComparativeLiteratureandCulturalStudies;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.LiteraryTheoryandAestheticStudies;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.WesternPoetryandPoeticsStudies;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.ResearchMethods
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Selected&nbsp;Papers:&nbsp;
+1.On&nbsp;theAesthetic&nbsp;Dimension&nbsp;of&nbsp;PopularCulture&nbsp;in&nbsp;Time&nbsp;ofConsumption,PhilosophicalResearches（China）,2006.2.25,No.2,pp.85-91,FuShouxiang.
+2.EstheticCritiqueofModernityofMassCulture,PhilosophicalResearches（China）,2007.7.25,No.7,pp.112-117,FuShouxiang.
+3.GrassrootsCulturalAestheticExistenceandPhilosophicalCriticsinAestheticCulture,XinhuaDigest（China）,2007.6.5,No.11,pp.91-93,FuShouxiang.
+4.PopularCultureCriticismandAestheticExistence,LiteraryTheoryResearches（China）,2006.9.25,No.5,pp.20-24,FuShouxiang.
+5.WorriesBehindAestheticizedLifeandTrapsofAMediatedSociety,LiteraryTheoryResearches（China）,2007.3.25,No.2,pp.105-109,FuShouxiang.
+6.MarketLogicofMassCulture,SocialScienceFront（China）,2007.3.25,No.2,pp.223-228,FuShouxiang.
+7.DigitalArt:FightbetweenTechadogyandHumanism,SocialScienceFront（China）,2008.3.1,No.3,pp.156-161,FuShouxiang.
+8.EstheticParadigmsSecularized:ArtisticPhilosophyRecon-structingandEstheticTendencyChanging,AESTHETICS(InformationCenterForSocialSciences,People&rsquo;sUniversityofChina,China),2007.7.9,No.7,pp.20-24,FuShouxiang.
+9.EraofCultureEconomy：DevelopmentandManagementoftheChineseCulturalIndustry,CULTURALRESEARCH(InformationCenterForSocialSciences,People&rsquo;sUniversityofChina,China),2007.7.9,No.7,pp.17-23,FuShouxiang.
+10.On&nbsp;the&nbsp;Crisis&nbsp;of&nbsp;Classical&nbsp;Aestheticsand&nbsp;the&nbsp;Rise&nbsp;of&nbsp;Popular&nbsp;Aesthetics,JournalofGraduateSchoolofChineseAcademyofSocialSciences（China）,2007.3.15,No.2,pp.78-83,FuShouxiang.
+11.The&nbsp;Aesthetic&nbsp;Ethics&nbsp;andPhilosophical&nbsp;Introspection&nbsp;of&nbsp;the&nbsp;Popular&nbsp;Culturein&nbsp;theNew&nbsp;Consumption&nbsp;Era,StudiesinEthics（China）,2007.5.10,No.3,pp.20-25,FuShouxiang.
+12.CulturalDialoguebetweenChinaandtheWesternandtheIntegrationofCulturesundertheChallengeofGlobalization,CulturalChina（Canada）,2005.9,No.3,pp.28-33,FuShouxiang.
+13.AestheticExplorationandContradictionofPopularCulture,CulturalChina（Canada）,2008.3,No.1,pp.32-35,FuShouxiang.
+14.OnClassicalCulture&rsquo;ChangingandCulturalParadigm&rsquo;TransformationofChinainanAgeofConsumption,American-ChineseSociety&amp;Culture（USA）,2005.12,No.2,pp.37-43,FuShouxiang.
+15.MassCultureCriticism,Twenty-FirstCentury,JournaloftheChineseUniversityofHongKong（HongKong）,2008.6.25,No.6,pp.119-127,FuShouxiang.
+16.TheDisgracedofClassicalCulture:FromtheLevelofIdeologytoDemocracyofCivilConsumer,MonthlyReviewofPhilosophyandCulture,JournalofFuJenCatholicUniversity（Taiwan）,2008.6.25,No.6,pp.119-127,FuShouxiang.
+17.AViewofPan-AestheticsandtheShiftofDelight,JournalofMacaoPolytechnicInstitute（Macao）,2005.2.25,No.1,pp.133-140,FuShouxiang.
+18.OntheShiftofAesthetic&nbsp;fromClassicalCulturetoPopularCulture,ModernCommunication,JournalofBeijingBroadcastingInstitute（China）,2004.6,No.3,pp.58-62,FuShouxiang.
+19.OnVisualCulture&rsquo;sTransaesthetics&nbsp;,ModernCommunication,JournalofCommunicationUniversityofChina（China）,2007.8,No.4,pp.15-18,FuShouxiangandYingXiaomin.
+20.TheAestheticApproachtoPopularCulture&mdash;theTransformationoftheCanonicalFormfromPureAesthetismtoPanaesthetism,TianFuNewIdea（China）,2006.11.5,No.6,pp.127-131,FuShouxiang.
+21.TheVigorousGrowthofMassCulture:thePrincipleof&ldquo;theProductiontoBeJoyful&rdquo;intheExtensiveAppreciationoftheBeauty,Probe（China）,2006.8.15,No.4,pp.131-135,FuShouxiang.
+22.AestheticContradictionof&nbsp;Popular&nbsp;Culturein&nbsp;theNew&nbsp;Consumption&nbsp;Era,LanzhouAcademicJournal（China）,2006.10,No.10,pp.85-87,FuShouxiang.
+23.SecularizedRiseandAestheticExistenceofthePopularCulture,HundredSchoolsinArts（China）,2008.9.15,No.5,pp.82-85,FuShouxiang.
+24.Meaningful&nbsp;Imagination&nbsp;and&nbsp;Aesthetic&nbsp;Survival&nbsp;of&nbsp;Contemporary&nbsp;Aesthetic&nbsp;Culture,JournalofPLAAcademyofArts（China）,2007.9.30,No.3,pp.112-117,FuShouxiang.
+25.ACritiqueofCulturalTheoryandChinaCulturalContextinPost-revolutionTimes,JournalofXinjiangUniversity（China）,2007.3.15,No.2,pp.96-102,FuShouxiang.
+26.RetrospectandBreakthroughoftheTheoryofWesternPopularCulture:CriticismonCriticalTheoryandtheOpeningofMuti-theory,SocialSciencesinXinjiang（China）,2004.6.25,No.3,pp.100-103,FuShouxiang.
+27.TheWesternPublicCultureTheorytotheTimesofPost-revolution,Ascent（China）,2004.6.5,No.3,pp.32-36,FuShouxiang.
+28.OnPost-revolutionPerspectiveofPopularCultureCriticisminChina,AcademicForum（China）,2004.3.15,No.2,pp.168-171,FuShouxiang.
+29.StudyofWomen&rsquo;sImagesinAdvertisementfromthePerspectiveofFeminism,Thinking,JournalofYunnanUniversity（China）,2003.9.15,No.5,pp.54-58,FuShouxiang.
+30.ModernizationofChineseCultureundertheChallengeofGlobalization,StudiesonMaoZedongandDengXiaopingtheOries（China）,2004.2.29,No.2,pp.23-30,FuShouxiang.
+31.TheIntercoursebetweenChinaandWesternCountriesundertheChallengeofGlobalization:CulturalDialogueandIntegrationofCulturesinthePeriodofUniversalIntercourse,ExplorationandFreeViews（China）,2004.4,No.4,pp.35-36,FuShouxiang.
+32.The&nbsp;Historical&nbsp;Cradle&nbsp;and&nbsp;Spiritual&nbsp;Source&nbsp;of&nbsp;Western&nbsp;Culture:On&nbsp;Nationality&nbsp;and&nbsp;Modernity&nbsp;of&nbsp;Ancient&nbsp;Greek&nbsp;Mythology,JournalofSouth-centralUniversityforNationalites（China）,2006.1.20,No.1,pp.129-133,FuShouxiang.
+33.ChristinaRossetti&rsquo;sPoeticRealm:EnthusiasmandDevotioninaWorldoftheColdandClear,JournalofZhejiangUniversity（China）,2004.7.10,No.4,pp.151-157,FuShouxiang.
+34.OntheAestheticValueandModernistConnotationofEurystheusTheme,ComparativeLiteratureinChina（China）,2004.4.20,No.2,pp.162-177,FuShouxiangandYingXiaomin.
+35.OnAndrogynyofWangXifengandJiaBaoyuin&ldquo;ADreamofRedMansions&rdquo;fromthePerspectiveofFeminism,Studieson&ldquo;ADreamofRedMansions&rdquo;（China）,2005.1.15,No.1,pp.100-114,FuShouxiang.
+36.The&nbsp;Hypocrite：&nbsp;Correcting&nbsp;the&nbsp;Malpractice&nbsp;withLaugh,JournalofJiangsuAdministrationInstitute（China）,2007.3.10,No.2,pp.127-131,FuShouxiang.
+37.TheRedandtheBlack:PassionateAdventureandNobleTerminationoftheVulgarLife,JournalofJiangsuAdministrationInstitute（China）,2008.7.10,No.4,pp.119-123,FuShouxiang.
+38.Oedipus&nbsp;theKing:the&nbsp;Modernityof&nbsp;ItsDestinyTheme&nbsp;and&nbsp;Tragedy&nbsp;Spirit,TheWorldLiteratureCriticism（China）,2006.5,No.1,pp.232-237,FuShouxiang.
+39.Spiritual&nbsp;Variation&nbsp;and&nbsp;Psychical&nbsp;Salvayion&mdash;The&nbsp;ModernPresentationofOrestesTopicin&nbsp;O&rsquo;Neil&rsquo;sTrilogy&nbsp;Mourning,JournalofJishouUniversity（China）,2007.3.15,No.2,pp.128-132,FuShouxiang.
+40.OntheBenevolentSpiritoftheRomanticRealisminATaleofTwoCities,
+			
+				
+			工作研究领域
+			
+			比较文学与文艺学，文化哲学与艺术哲学
+			
+				
+			联系方式
+			
+			电话：13221827919			电子信箱：fusx323@126.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：傅守祥
+		单位：人文学院中国语言文学系
+		职称：副教授
+		我的主页共被访问了7011次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

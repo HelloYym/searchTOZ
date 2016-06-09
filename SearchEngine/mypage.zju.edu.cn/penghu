@@ -1,0 +1,244 @@
+
+
+
+
+
+胡鹏-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0012120";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	胡鹏
+知足！努力！乐观！锻炼！
+
+	永久链接:http://mypage.zju.edu.cn/penghu&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+
+
+胡鹏，湖南湘阴人，中英双博士学位，浙江大学求是青年学者、讲师、硕士生导师。
+教育/工作：
+2007年6月，工学学士，武汉大学水利水电学院&nbsp;港口海岸及治河工程专业
+2012年6月，哲学博士，英国Heriot-Watt大学建筑环境学院&nbsp;水资源专业
+2013年6月，工学博士，武汉大学水利水电学院&nbsp;河流动力学专业
+2012年8月&mdash;，浙江大学海洋学院
+&nbsp;
+
+
+
+
+
+
+
+曾获奖励/荣誉：
+
+&nbsp;&nbsp;&nbsp;1.浙江大学求是青年学者,2013
+&nbsp;&nbsp;&nbsp;2.湖北省优秀博士学位论文,2014
+&nbsp;&nbsp;&nbsp;3.国际水利学会(IAHR)英国分会青年学者学术论文竞赛一等奖,2009
+&nbsp;&nbsp;&nbsp;4.英国海外学生研究奖学金(ORS),Heriot-Watt大学James-Watt奖学金,2009-2012
+&nbsp;&nbsp;&nbsp;5.HonorablePresenter,第八届水科学与工程国际会议,2008
+&nbsp;&nbsp;&nbsp;6.武汉大学优秀本科毕业生,2007
+&nbsp;&nbsp;&nbsp;7.全国大学生数学模型竞赛国家一等奖,2005
+
+
+
+
+
+研究兴趣：水流作用下泥沙/污染物的输移扩散过程，和伴随的环境及工程问题。
+研究主题：异重流/浊流、推移质、非均匀泥沙、近海岸冲流带、溃坝洪水等。
+研究生招生方向：港口、海岸及近海工程[科硕]；物理海洋学[科硕]
+
+自2008年以来，发表SCI/EI论文16篇（其中：ZJUTop期刊论文4篇，ZJU100期刊论文2篇，详见发表论文栏目），主持参与了多项省部级和国家级科研项目（详见工作研究项目栏目）。我欢迎具有水利工程、海洋科学、流体力学、数学和物理等知识背景的本科毕业生报考或保送研究生！欢迎对我研究领域感兴趣的本科生加入课题组学习！
+
+
+
+
+联系方式：pengphu@zju.edu.cn；浙江大学-紫金港校区-农生环C座-1216
+
+
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+var_clustrmaps=;(function())();
+			
+					
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：胡鹏
+		单位：海洋学院
+		职称：讲师
+		我的主页共被访问了10108次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	研究成果
+	发表论文
+	工作研究项目
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

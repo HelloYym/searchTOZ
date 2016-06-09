@@ -1,0 +1,218 @@
+
+
+
+
+
+郑肖娟的个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0008202";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	郑肖娟的个人主页
+淡薄明志宁静致远
+
+	永久链接:http://mypage.zju.edu.cn/xjzheng&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;
+郑肖娟，2002年毕业于浙江大学兽医专业，获农学学士学位；同年考入浙江大学动科院研究生，从事动物病毒分子生物学、病毒与宿主相互关系研究，于2007年获得理学博士学位。2008-2009年，在浙江大学动物科学学院从事师资博士后研究工作，主要从事传染性法氏囊病病毒的分子致病机理研究。主持国家自然科学基金青年基金一项，获中国博士后科学基金一等资助和特别资助。
+&nbsp;&nbsp;&nbsp;&nbsp;*********************************************************************
+学历及工作经历
+
+
+2012-current&nbsp;&nbsp;&nbsp;圣路易斯华盛顿大学、加州大学洛杉矶分校&nbsp;博士后
+
+2008-current&nbsp;&nbsp;浙江大学动物科学学院讲师
+
+1998.9-2007.12&nbsp;浙江大学动物科学学院本科--博士
+
+1995.9-1998.7&nbsp;&nbsp;浙江省衢州二中高中
+			
+				
+			工作研究领域
+			
+			病毒与宿主相互关系:(1)病毒感染细胞的差异蛋白质组学,(2)病毒蛋白与宿主细胞骨架的相互关系。
+主要研究IBDV及其他相关病毒与宿主细胞的相互关系
+			
+				
+			联系方式
+			
+			电话：0571-86971607			电子信箱：zhengxiaojuan@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：郑肖娟
+		单位：动物科学学院动物医学系
+		职称：讲师
+		我的主页共被访问了3404次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,267 @@
+
+
+
+
+
+严密教授-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0091227";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	严密教授
+
+
+	永久链接:http://mypage.zju.edu.cn/0091227&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+1、&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;受教育和研究工作经历
+&nbsp;
+1980/09－1984/07，东南大学机械工程系，本科生
+1984/09－1987/07，哈尔滨工业大学金属材料与工程系，硕士生
+1987/08－1991/5，东南大学机械工程系博士生
+1991/10－现在，浙江大学材料科学与工程系工作
+期间：
+1997/02－1998/04，英国牛津大学材料系
+1998/05－1999/06，英国布鲁奈尔大学材料系
+&nbsp;
+2、主要学术任职
+&nbsp;
+中国金属学会功能材料专业委员会委员
+中国电子学会应用磁学分会委员
+中国机械工程学会铸造分会理事、学术工作委员会委员
+浙江省磁性材料重点创新团队带头人
+浙江省新型信息材料重点实验室主任
+浙江省磁性材料协会副会长
+浙江省铸造学会理事长
+浙江省铸造协会副会长
+浙江大学学报英文版（J.ZhejiangUniv.）编委
+东阳市磁性电子材料产业集群首席专家
+浙江省铁氧体材料标准化技术委员会顾问
+&nbsp;
+3、主要工作成绩&nbsp;
+&nbsp;
+已承担和完成国家自然科学基金、863计划、浙江省重大科技专项等国家和省部级项目26项，作为项目负责人获国家技术发明二等奖1项（2013年）、浙江省科技进步一等奖3项（2014年、2009年、2006年），教育部高等学校科学技术奖二等奖1项（2007年），浙江省科技进步二等奖2项（2004、2003年），均排名第1。申请国家发明专利98项，已授权61项。出版著作《磁学基础和磁性材料》一本（2006年），已7次重印。多次在国际学术会议上发表邀请报告。在国内外发表论文300多篇，200多篇被SCI收录。与企业有广泛的科技合作，实现了重大的经济和社会效益。
+&nbsp;
+4、教学和科研工作大事记
+&nbsp;
+1995年：指导的首名研究生通过论文答辩
+1996年：入选浙江大学&ldquo;教书育人&rdquo;先进个人
+1998年3月：晋升浙江大学教授
+1998年6月：批准为博士生导师
+2003年：获浙江省科学技术奖二等奖
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目名称：小汽车EMS燃油管总成的国产化研究
+2004年：获浙江省科学技术奖二等奖
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目名称：低成本高性能钕铁硼永磁材料磁粉的研究和产业化
+2005年：入选国家教育部&ldquo;新世纪优秀人才&rdquo;计划
+2006年：（1）《磁学基础和磁性材料》出版
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;作者：严密，彭晓领
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（2）获浙江省科学技术奖一等奖
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目名称：高性能烧结稀土永磁材料制备与性能研究
+2007年：（1）入选浙江省&ldquo;151人才&rdquo;计划第一层次
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（2）获教育部高等学校科学技术二等奖
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目名称：高工作温度钕铁硼基稀土永磁研究与应用
+2009年：（1）入选浙江大学本科生百篇特优毕业论文优秀指导老师
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（2）获浙江省科学技术奖一等奖
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目名称：高抗蚀性高稳定性钕铁硼关键制备技术的研究、开发和应用
+2010年：（1）申报和获准成立浙江省磁性材料重点创新团队
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（成员单位：浙江大学、中科院宁波材料所、浙江工业大学、中国兵科院宁波分院、杭州电子科技大学、浙江师范大学、横店集团东磁股份有限公司、天通控股股份有限公司、浙江英洛华磁业有限公司、浙江升华强磁材料有限公司）
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（2）入选浙江省&ldquo;151人才&rdquo;计划重点资助
+2011年：申报和获准成立浙江省新型信息材料重点实验室
+2012年：成立材料系浙江省新型信息材料重点实验室奖学金
+2013年：获国家技术发明二等奖
+项目名称：钕铁硼晶界组织重构及低成本高性能磁体生产关键技术（链接）
+2014年：（1）获浙江省科学技术奖一等奖
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;项目名称：高性能低功耗软磁复合材料研究和产业化&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（2）入选浙江大学求是特聘教授
+			
+				
+			工作研究领域
+			
+			金属材料、磁性材料
+			
+				
+			联系方式
+			
+			电话：87952730，13064732550			电子信箱：mse_yanmi@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：严密
+		单位：材料科学与工程学系
+		职称：教授
+		我的主页共被访问了23071次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	研究成果
+	专利成果
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

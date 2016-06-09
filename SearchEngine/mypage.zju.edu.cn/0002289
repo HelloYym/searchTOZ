@@ -1,0 +1,205 @@
+
+
+
+
+
+基本情况-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0002289";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	基本情况
+
+
+	永久链接:http://mypage.zju.edu.cn/0002289&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			目前主要从事机械与结构动力学、随机振动与控制、信号处理与故障诊断等方面的研究和教学工作。1998年7月于北京航空航天大学获得一般力学专业的博士学位；1998年9月进入浙江大学机械与能源工程学院机械工程专业博士后流动站，从事随机振动系统的分岔、混沌与可靠性等方面的科研工作，于2000年6月顺利出站；2000年7月至2002年6月为香港理工大学访问学者，参与城镇交通噪声的预测与评估项目的科研合作；2002年7月至2010年4月在浙江大学工程力学系从事随机非线性动力学研究与力学相关教学工作；2010年5月至今在浙江大学机械工程学系现代制造工程研究所从事科研和教学工作。迄今，负责和参加过多项国家自然科学基金、国家高技术研究发展计划(863)课题、航空基础科学基金和博士点学科基金等资助项目的研究工作，已发表学术论文50余篇，其中有30余篇为SCI或EI收录。曾获北京航空航天大学优秀博士论文奖和天津市2002年度自然科学一等奖。现为全国动力学与控制专业委员会非线性动力学与运动稳定性专业组副组长、浙江省振动工程学会理事。
+&nbsp;
+			
+				
+			工作研究领域
+			
+			1、机械动力学
+2、信号识别与故障诊断
+3、随机振动与控制
+			
+				
+			联系方式
+			
+			电话：87951924			电子信箱：cb_gan@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：甘春标
+		单位：机械工程学系
+		职称：教授
+		我的主页共被访问了5834次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

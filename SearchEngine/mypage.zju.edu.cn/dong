@@ -1,0 +1,289 @@
+
+
+
+
+
+董保民-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0011040";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	董保民
+
+
+	永久链接:http://mypage.zju.edu.cn/dong&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			Education
+
+PhD,Economics,ConcordiaUniversity,Montr&eacute;al,Canada,2004;
+MA,Economics,Northwest(China)University,Xi'an,China,1996;
+
+WorkExperience
+
+May2011topresent,SchoolofEconomics,ZhejiangUniversity,China
+Srping2012,VisitingScholar,DepartmentofEconomics,StanfordUniversity,Stanford,California
+March2010toJune2010,visitingscholar,DepartmentofEconomics,UniversityofCaliforniaatSantaBarbara
+2003to2011,AssociateProfessor,DepartmentofEconomics,UniversityofInternationalBusinessandEconomics(UIBE)
+2002-2003,AssistantProfessor,SchoolofManagement,XiamenUniversity
+
+ResearchInterests
+IndustrialOrganizationTheory,InternationalTradeTheory,GameTheoryandApplications
+PublishedPapers
+&#8729;SharingAPollutedRiverNetwork.(withY.WangandD.Ni),Environmental&nbsp;andResourceEconomics(SSCI),forthcoming
+&#8729;EstimatingOutageCostsinChina:amodifiedTobitModel.(withX.Li),EmergingMarketsFinanceandTrade(SSCI),forthcoming
+&#8729;HighwayTollPricingGame(withY.Wang),EuropeanJournalofOperationalResearch(SSCI),220:744--751,2012
+&#8729;FDIandEnvironmentalRegulation:PollutionHavenoraRacetotheTop?,(withJ.Gong,andX.Zhao),JournalofRegulatoryEconomics(SSCI),41(2):216-237,2012
+&#8729;Asimplemodeloftwo-countrybargainingforfinancialintegration,(withX.Gu)AppliedEconomicsLetters(SSCI),19(8):725--728,2012
+&#8729;Braess'ParadoxandTrafficCongestionsinCitieswithCircularExpressways,GameTheoryandApplications,forthcoming(inpress)
+&#8729;TheRelationshipBankingParadox:NoPainNoGainVersusraisond'&ecirc;tre,EconomicModelling,(SSCI),28,2263--2270,2011
+&#8729;RJVFormationandStrategicEntryAccommodation(withG.Guo),AustralianEconomicPapers(SSCI),50(4):129-146,2011
+&#8729;ATheoryofFinancialLiberalization:WhyareDevelopingCountriessoReluctant?(withX.Gu)TheWorldEconomy(SSCI),34(7),1106--1123,July2011
+&#8729;InternationalR&amp;DNetworks(withX.Zhao),ReviewofInternationalEconomics(SSCI),19(2),325--340,2011
+&#8729;TheLossfromTradeunderInternationalCournotOligopolywithCostAsymmetry(withL.Yuan),ReviewofInternationalEconomics(SSCI),18(5):818--831,2010
+&#8729;ForecastingLong-runCoalPriceinChina:AShiftingTrendTimeSeriesApproach(withB.Lin,andX.Li),ReviewofDevelopmentEconomics(SSCI),14(3):499--519,2010
+&#8729;InternationalEnvironmentalAgreementFormationandTrade(withX.Zhao),Asia-PacificJournalofAccountingandEconomics(SSCI),16:339-356,2009
+&#8729;CostSharinginElectricityTransmissionGrid,GameTheoryandApplications,vol1317-29,2008
+&#8729;AirportGameandLandingChargeReform,ChinaEconomicsQuarterly,Vol5,2006,
+&#8729;MoralHazardinTeamsRevisited,ChinaEconomicsQuarterly,2003
+PapersunderReview
+&#8729;RetailPower,SlottingAllowances,andtheCountervailingPowerHypothesis(withY.Dong)
+&#8729;ASignal-jammingTheoryofBrainDrain(withJ.Gong)
+&#8729;APreemptiveModelofValueDestroyingMergers(withY.Wang)
+&#8729;AModelofExport-StrengtheningFDI(withG.Guo)
+&#8729;InternationalCapitalFlows:TradeoffatOptimumandDelayinBargaining(withX.Gu)
+&#8729;Trade,LeakageandConsumption-basedEKC(withY.WangandF.Wang)
+&#8729;AsymmetricCustomsUnionFormation(withX.Zhao)
+&#8729;AMoralHazardModelofPairBondingandConflicgtofParentalCareinMonogamy(withT.Zhou)
+WorkingPapers
+&#8729;OptimalCollectiveTournamentandTeamFormation(withG.Guo),
+&#8729;Consumption-basedEKC:isthereaninverted-U?(withF.WangandY.Wang)
+&#8729;ARepeatedGameTheoryofAnti-dumping,
+&#8729;CapacityConstraint,MergerParadoxandMergerWaves(withF.Han)
+&#8729;LimitingSupplyasaSignalofQuality.(withT.BandyopadhyayandC.ZQin)
+&#8729;InReachingGale-ShapleyStableMatching
+PapersinProgress
+&#8729;AreMercanlistsWrong?ATheoryoftheEnglishEastIndiaCompany(withJ.Li)
+&#8729;TheInformedConsumerProblem
+&#8729;AModelofLossLeaderPricing
+&#8729;ASignallingTheoryofGroup-Buying
+&#8729;StrategicVerticalIntegrationandOutsourcing,(withY.Dong)
+&#8729;AParadoxofComparativeAdvantageTheory
+&#8729;SequentialIEAFormation
+&#8729;AModelofRep&ecirc;chage
+ProposedResearchProjects
+&#8729;GlobalizationandWageInequality
+&#8729;RegionalIntegrationandVerticalTrade
+Books
+&#8729;LectureNotesonInformationEconomics(withYongWang),RenminUniversityPress
+&#8729;CooperativeGameTheory:SolutionsandCostSharing,(withYuntongWang,GuixiaGuo),ChinaMarketPress
+ConferencePresentations
+Manyinternationalconferences(inaverage5-6peryear)includingMidwestInternationalEconomicsMeetings,2008WorldCongressofGameTheory,Pan-PacificGameTheoryConferences,AsianPacificTradeSeminars,ChinaEconomistSocietyConferences,etc.aswellasinvitedseminarsinvariousinstitutes.
+ConferenceOrganization
+&#8729;SessionOrganizer,SocietyfortheAdvancementofEconomicTheory(SAET)AustralianConference,June29-July1,2012
+&#8729;ConferenceOrganizer,TheInauguralConferenceofChineseGameTheoryandExperimentalEconomicsAssociation,August24-26,2010
+&#8729;SessionOrganizer,SocietyfortheAdvancementofEconomicTheory(SAET)SingaporeConference,August13-15,2010
+&#8729;ConferenceOrganizer,The3rdPan-PacificGameTheoryConference,Beijing,Oct20-23,2006
+&#8729;ConferenceCo-organizer,WTO,ChinaandAsianEconomies,Beijing,June24-26,2006.
+Refereeing
+ReviewofInternationalEconomics,GamesandEconomicBehavior,JournalofBankingandFinance,EconomicsBulletin,JournalofInternationalTradeandEconomicDevelopment,EconomicModelling,Asia-PacificJournalofAccountingandEconomics,JournalofInstitutionalandTheoreticalEconomics,CanadianJournalofEconomics
+Consulting
+&#8729;ADBPPTA7891:YunnanChuxiongUrbanEnvironmentImprovementProject
+&#8729;ADBADTA7202UtilizationofForeignCapitaltoPromoteEnergyConservationandEnergy-EfficientPowerGeneration
+&#8729;ADBPPTA7360GuangxiBeibuGulfCitiesDevelopment,Guangxi
+&#8729;ADBPPTATA7177WuhanUrbanEnvironmentalImprovementProject
+&#8729;ADBPPTAGuangxiWuzhouUrbanDevelopmentProject,Guangxi,PRChina
+&#8729;ADBPPTA4971PRCSonghuaRiverBasinWaterPollutionControlandManagementProject
+&#8729;ADBPPTA4804JilinUrbanInfrastructureProject
+&#8729;ADBPPTAHenanEcologicalAgricultureandRuralProductivityImprovementProject
+&#8729;ADBPPTAIntegratedEcosystemManagementandEnvironmentalProtectionoftheBaiyangdianLakeCatchmentProject
+&#8729;ADBPPTAInnerMongoliaEnvironmentImprovementProject
+&#8729;ADBADTAPovertyReductioninCoalMineAreasinShanxiProvince
+			
+				
+			工作研究领域
+			
+			TheoryofIndustrialOrganization,InternationalEconomics,GameTheory
+			
+				
+			联系方式
+			
+						电子信箱：baomindong@vip.163.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：董保民
+		单位：经济学院国际经济系
+		职称：
+		我的主页共被访问了5533次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

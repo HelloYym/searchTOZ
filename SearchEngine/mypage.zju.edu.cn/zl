@@ -1,0 +1,278 @@
+
+
+
+
+
+浙江大学李中坚-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0012610";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	浙江大学李中坚
+TheBioelectrochemistryLab
+
+	永久链接:http://mypage.zju.edu.cn/zl&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;
+联系方式：
+Email:x@y&nbsp;&nbsp;x=zdlizj&nbsp;&nbsp;y=zju.edu.cn
+
+
+教育经历：
+2006/9-2011/12，浙江大学，环境工程，博士,
+2009/8-2011/9，美国康奈尔大学，生物与环境工程系，联合培养，
+2002/9-2006/6，浙江大学，环境工程，本科
+工作经历：
+2015/1至今，浙江大学，化学工程与生物工程学院，副教授
+2014/2-2014/12，浙江大学，化学工程与生物工程学院，讲师
+2012/1-2014.1，浙江大学，化学工程与生物工程学院，博士后&nbsp;&nbsp;
+
+研究方向
+
+本实验室主要从事微生物电化学系统（Bioelectrochemicalsystem）的基础与应用研究。
+微生物电化学系统是微生物与电化学、材料科学等学科的交叉领域。简而言之，即利用电化学活性细菌作为电化学过程的催化剂，利用微生物独特的性质以实现常规电化学系统所不能实现的功能。其中最为人们熟悉的就是微生物燃料电池（MicrobialFuelCell）,它可以实现将废水中的能量转变为电能。因此，该技术成为解决环境问题和能源问题的一项新兴技术。除了微生物燃料电池，还有一种形式的微生物电化学系统被称之为微生物电解池（MicrobialElectrolysisCell），该技术在生物产氢方面得到了广泛的应用。微生物电化学系统除了在水净化，生物能源开发等方面，近年来在生物传感器，智能材料，生物计算机等前沿领域的应用刚刚起步。
+相关网址：
+http://www.engr.psu.edu/ce/enve/logan/
+http://www.geobacter.org/
+http://www.ismet.ugent.be/
+http://www.zjkjt.gov.cn/news/node01/detail0106/2014/0106_58028.htm
+关于微生物燃料电池的介绍视频：
+http://v.youku.com/v_show/id_XMjAwNjE5Mjg4.html?from=s1.8-1-1.2
+http://v.youku.com/v_show/id_XNjg0NTMzMzAw.html?from=s1.8-1-1.2
+http://www.tudou.com/programs/view/U2eRrl6hyNQ/
+http://v.youku.com/v_show/id_XNjgzNjM2NzI4.html?from=s1.8-1-1.2
+
+
+
+本实验室开展如下具体研究方向：
+1、基于微生物燃料电池的水处理工艺与装置开发。主要针对含重金属废水和染料、医药等难降解有机废水。目前已经开发了基于微生物燃料电池的电镀废水、染料废水高效处理工艺。申请专利一项，SCI论文3篇，他引将近130次
+&nbsp;&nbsp;
+
+
+
+
+
+
+&nbsp;
+
+
+2、基于微生物电化学系统的微生物传感器的开发。主要包括用于检测环境生物毒性物质的微生物传感器的开发，微生物电化学系统与微流控芯片结合开发微型微生物传感器，传感器的控制技术以及微生物计算机技术的研究等方面。
+&nbsp;&nbsp;
+
+
+
+
+&nbsp;&nbsp;
+&nbsp;
+&nbsp;
+
+
+
+3、高性能微生物电化学系统电极材料的研发。主要开发适用于构建生物电极的高性能电极材料，最大限度地提高生物化学信号到电信号的转换效率，为构建高性能微生物燃料电池和高灵敏度微生物传感器的开发提供基础。
+&nbsp;&nbsp;
+
+
+
+
+
+&nbsp;&nbsp;
+&nbsp;
+
+&nbsp;
+
+除了微生物电化学系统方面的研究，本实验室也开展基于常规电化学系统的CO2捕集与转化工作，从而实现温室气体的减排与资源化。
+
+
+
+&nbsp;
+			
+				
+			工作研究领域
+			
+			1、微生物电化学，包括微生物燃料电池技术，微生物电解池技术以及基于上述微生物电化学系统的传感器、废水处理工艺的开发。
+2、环境电化学技术，包括二氧化碳的电化学还原与转化，新型高效电极材料的开发
+
+招收化学工程、生物工程、环境工程、生命科学以及相关学科的硕士生与博士生。
+			
+				
+			联系方式
+			
+			电话：0571-87952525			电子信箱：x@y(x=zdlizjy=zju.edu.cn)			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：李中坚
+		单位：化学工程与生物工程学院
+		职称：副教授
+		我的主页共被访问了1353次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		科研项目
+	发表论文
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

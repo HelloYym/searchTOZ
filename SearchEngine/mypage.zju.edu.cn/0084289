@@ -1,0 +1,217 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0084289";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0084289&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;1980/09－1984/07　　杭州大学法律系学习，获法学学士学位；
+&nbsp;&nbsp;&nbsp;1987/09－1990/07　　武汉大学法学院学习，获法学硕士学位；
+&nbsp;&nbsp;&nbsp;1998/06&mdash;2000/06&nbsp;&nbsp;&nbsp;中国社会科学院学习，获法学博士学位；
+2003/08－2004/07　　哈佛大学燕京研究院，高级访问学者。
+&nbsp;
+1984/08－1993/11　　杭州大学法律系历任讲师、副教授；
+1996/11&mdash;1998/09&nbsp;&nbsp;&nbsp;杭州大学法学院教授、硕士生导师；
+1998/09－2000/09&nbsp;　浙江大学法学院教授，任副院长主持筹建法学院；
+2000/09&mdash;2007/04&nbsp;&nbsp;&nbsp;浙江大学法学院教授、博士生导师，历任副院长、常务副院长；
+2007/04&mdash;至今&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江大学光华法学院教授、博士生导师、院长。
+			
+				
+			工作研究领域
+			
+			法理学-法哲学、公法原理、司法理论
+			
+				
+			联系方式
+			
+						电子信箱：fxys@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：孙笑侠
+		单位：光华法学院法律系
+		职称：教授
+		我的主页共被访问了7615次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	研究成果
+	奖励荣誉
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

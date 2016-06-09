@@ -1,0 +1,278 @@
+
+
+
+
+
+FangLab-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0011137";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	FangLab
+
+
+	Permanentlink:http://mypage.zju.edu.cn/en/weiguofang&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			Educationalbackground
+Ph.D(2003)SouthwestAgriculturalUniversity
+Bsc(1997)SouthwestAgriculturalUniversity
+
+Positionsheld
+2012-FullprofessorZhejiangUniversity
+2012-AdjunctprofessorUniversityofMarylandCollegePark
+
+2003-2004-Assistant(2003)andassociate(2004)professorSouthwestAgriculturalUniversity
+2004-2006-Post-DocBrockUniversityONCanada
+
+2007-2012-ResearchAssociateDepartmentofEntomologyUniversityofMarylandCollegeParkMDUSA
+Researchinterests:
+
+Evolutionandgeneticofhostpathogeninteractions;entomopathogenicfungi;symbiontsandplantinteractions;functionalgenomics;molecularbiologyoffungi;signaltransductionpathways;secondarymetabolites;biotechnology;vector-bornediseasecontrol;insectpestcontrol;detoxificationofheavymetals.
+Publications
+
+
+
+&nbsp;XuC,ZhangX,QianY,ChenX,LiuR,ZengG,ZhaoH,FangW*.Ahigh-throughputgenedisruptionmethodologyfortheentomopathogenicfungusMetarhiziumrobertsii.PLoSONE(accepted)<bstyle="mso-bidi-font-weight:
+normal">
+LiaoX*,O'BrienTR,FangW,StLegerRJ.&nbsp;TheplantbeneficialeffectsofMetarhiziumspeciescorrelatewiththeirassociationwithroots.ApplMicrobiolBiotechnol.2014May8.[Epubaheadofprint]
+
+ZhaoH,XuC,LuHL,&nbsp;ChenX,St.LegerRJS,&nbsp;FangW*Host-to-pathogengenetransferfacilitatedinfectionofinsects&nbsp;byapathogenicfungus.PLoSPathogens&nbsp;2014Apr10;10(4):e1004009.doi:10.1371/journal.ppat.1004009.&nbsp;*:correspondingauthor&nbsp;&nbsp;DigestedbyMicrobeWorld:http://www.microbeworld.org/podcasts/this-week-in-microbiology/archives/1677-twim-78-a-bacterium-grows-in-brooklyn
+
+ShiW*,GuoY,&nbsp;Xu&nbsp;C,&nbsp;Tan&nbsp;S,MiaoJ,FengY,ZhaoH,St.LegerRJ,FangW*&nbsp;Unveilingthemechanismforpreventingmigratorylocust&rsquo;sswarmbehaviorbymicrosporidianparasitesProcNatlAcadSciUSA&nbsp;2014Jan28;111(4):1343-8&nbsp;*:correspondingauthorHighlightedbyScience:http://news.sciencemag.org/plants-animals/2014/01/gut-parasite-may-keep-locusts-swarming
+LiaoX,LUHL,FangW,St.LegerRJ.OverexpressionofaMetarhiziumrobertsiiHSP25geneincreasesthermotoleranceandsurvivalinsoil.&nbsp;ApplMicrobiolBiotechnol.&nbsp;2014Jan;98(2):777-83.
+LiaoX,FangW,LinL,LuHL,St.legerRJ.MetarhiziumrobertsiiProducesanExtracellularInvertase(MrINV)ThatPlaysaPivotalRoleinRhizosphericInteractionsandRootColonization.&nbsp;PLoSOne.2013Oct21;8(10):e78118.doi:10.1371/journal.pone.0078118.
+&nbsp;FangW,St.LegerRJ.EnhancedUVResistanceandImprovedKillingofMalariaMosquitoesbyPhotolyaseTransgenicEntomopathogenicFungi.PLoSOne2012;7(8):e43069
+FangW,AzimzadehP,StLegerRJ.Strainimprovementoffungalinsecticidesforcontrollinginsectpestsandvector-bornediseases.CurrOpinMicrobiol.2012；15:232-238.
+LinL,FangW,LiaoX,WangF,WeiD,StLegerRJ.TheMrCYP52cytochromeP450monoxygenasegeneofMetarhiziumrobertsiiisimportantforutilizinginsectepicuticularhydrocarbons.PLoSOne.2011;6(12):e28984.
+WangS,FangW,WangC,St.LegerRJ.Insertionofanesterasegeneintoaspecificlocustpathogen(Metarhiziumacridum)enablesittoinfectcaterpillars.PLoSPathog.20117(6):e1002097.
+FangW,Vega-Rodr&iacute;guezJ,GhoshAK,Jacobs-LorenaM,KangA,StLegerRJ.Developmentoftransgenicfungithatkillhumanmalariaparasitesinmosquitoes.Science.2011331(6020):1074-7.
+GaoQ,JinK,YingSH,ZhangY,XiaoG,ShangY,DuanZ,HuX,XieXQ,ZhouG,PengG,LuoZ,HuangW,WangB,FangW,WangS,ZhongY,MaLJ,StLegerRJ,ZhaoGP,PeiY,FengMG,XiaY,WangC.GenomesequencingandcomparativetranscriptomicsofthemodelentomopathogenicfungiMetarhiziumanisopliaeandM.acridum.PLoSGenet.20116;7(1):e1001264.
+Pava-RipollM,AngeliniC,FangW,WangS,PosadaFJ,StLegerR.Therhizosphere-competententomopathogenMetarhiziumanisopliaeexpressesaspecificsubsetofgenesinplantrootexudate.Microbiology.2011157:47-55.
+FangW,StLegerRJ.Mrt,ageneuniquetofungi,encodesanoligosaccharidetransporterandfacilitatesrhizospherecompetencyinMetarhiziumrobertsii.PlantPhysiol.2010154(3):1549-57.
+FangW,FernandesEK,RobertsDW,BidochkaMJ,StLegerRJ.AlaccaseexclusivelyexpressedbyMetarhiziumanisopliaeduringisotropicgrowthisinvolvedinpigmentation,tolerancetoabioticstressesandvirulence.FungalGenetBiol.201047(7):602-7.
+FangW,StLegerRJ.RNAbindingproteinsmediatetheabilityofafungustoadapttothecold.EnvironMicrobiol.201012(3):810-20.
+JinK,ZhangY,FangW,LuoZ,ZhouY,PeiY.CarboxylatetransportergeneJEN1fromtheentomopathogenicfungusBeauveriabassianaisinvolvedinconidiationand&nbsp;virulence.ApplEnvironMicrobiol.201076(1):254-63.
+FangW,FengJ,FanY,ZhangY,BidochkaMJ,LegerRJ,PeiY.Expressingafusionproteinwithproteaseandchitinaseactivitiesincreasesthevirulenceoftheinsect&nbsp;pathogenBeauveriabassiana.JInvertebrPathol.2009102(2):155-9.
+WangS,LeclerqueA,Pava-RipollM,FangW,StLegerRJ.Comparativegenomicsusingmicroarraysrevealsdivergenceandlossofvirulence-associatedgenesinhost-specificstrainsoftheinsectpathogenMetarhiziumanisopliae.EukaryotCell.20098(6):888-98.
+ZhangY,ZhaoJ,FangW,ZhangJ,LuoZ,ZhangM,FanY,PeiY.Mitogen-activatedproteinkinasehog1intheentomopathogenicfungusBeauveriabassianaregulatesenvironmentalstressresponsesandvirulencetoinsects.ApplEnvironMicrobiol.200975(11):3787-95.
+FangW,Pava-ripollM,WangS,StLegerR.ProteinkinaseAregulatesproductionofvirulencedeterminantsbytheentomopathogenicfungus,Metarhiziumanisopliae.FungalGenetBiol.200946(3):277-85.
+FangW,ScullyLR,ZhangL,PeiY,BidochkaMJ.ImplicationofaregulatorofGproteinsignalling(BbRGS1)inconidiationandconidialthermotoleranceoftheinsectpathogenicfungusBeauveriabassiana.FEMSMicrobiolLett.2008279(2):146-56.
+LiaoXG,FangWG,ZhangYJ,FanYH,WuXW,ZhouQ,PeiY.Characterizationofahighlyactivepromoter,PBbgpd,inBeauveriabassiana.CurrMicrobiol.200857:121-6.
+FanY,FangW,XiaoY,YangX,ZhangY,BidochkaMJ,PeiY.Directedevolutionforincreasedchitinaseactivity.ApplMicrobiolBiotechnol.200776(1):135-9.
+FangW,PeiY,BidochkaMJ.AregulatorofaGproteinsignalling(RGS)gene,cag8,fromtheinsect-pathogenicfungusMetarhiziumanisopliaeisinvolvedinconidiation,virulenceandhydrophobinsynthesis.Microbiology.2007153:1017-25.
+FanY*,FangW*,GuoS,PeiX,ZhangY,XiaoY,LiD,JinK,BidochkaMJ,PeiY.IncreasedinsectvirulenceinBeauveriabassianastrainsoverexpressinganengineeredchitinase.ApplEnvironMicrobiol.200773(1):295-302.(*:contributeequally)
+FangW,BidochkaMJ.Expressionofgenesinvolvedingermination,conidiogenesisandpathogenesisinMetarhiziumanisopliaeusingquantitativereal-timeRT-PCR.MycolRes.2006110:1165-71.
+FangW,PeiY,BidochkaMJ.TransformationofMetarhiziumanisopliaemediatedbyAgrobacteriumtumefaciens.CanJMicrobiol.200652(7):623-6
+YangX,LiJ,WangX,FangW,BidochkaMJ,SheR,XiaoY,PeiY.Psc-AFP,anantifungalproteinwithtrypsininhibitoractivityfromPsoraleacorylifoliaseeds.Peptides.200627(7):1726-31.
+FangW,LengB,XiaoY,JinK,MaJ,FanY,FengJ,YangX,ZhangY,PeiY.CloningofBeauveriabassianachitinasegeneBbchit1anditsapplicationtoimprovefungalstrainvirulence.ApplEnvironMicrobiol.200571(1):363-70.
+FangW,ZhangY,YangX,ZhengX,DuanH,LiY,PeiY.Agrobacteriumtumefaciens-mediatedtransformationofBeauveriabassianausinganherbicideresistancegeneasaselectionmarker.JInvertebrPathol.2004Jan;85(1):18-24.
+FangW,ZhangYetal.CloningandCharacterizationofcuticledegradingenzymeCDEP-1.YiChuanXueBao200229:278-282
+FangW,PeiYetal.RapidextractionoffungalgenomicDNA.ChineseJournalofApplied&amp;EnvironmentalBiology20028:305-307
+FangW,ZhangYetal.FungaltransformationmediatedbyAgrobacteriumtumefaciens,areview.ChinaBiotechnology200222:41-45.
+&nbsp;FangW,ZhangYetal.IsolationandcharacterizationofacarboxylictransportproteinJEN1anditspromoterfromMetarhiziumanisopliae.YiChuanXueBao200330:283-288.
+FangW,ZhangYetal.Cloningandanalysisofthepromoterofsubtilisin-likeproteasegenecdep-1fromBeauveriabassianabyYADEmethod.Mycosystema200322:252-258.
+FangW,WeiYetal.AnEffectiveSilverStainingProtocolforDNA.HEREDITAS(BEIJING)200022:167-168.
+FangW,ZhangZetal.CottonMarkerforBollWeightBasedonAFLP.ACTAGOSSYPIISINIA200012:176-179.
+ZhangY,FangWetal.CloningandCharacterizationofFUS3/KSS1-likeproteinBbMPK1Mycosystema200524:104-111.
+LuoZ,FangWetal.OptimizationoftheFermentationConditionstoIncreasetheProductionoftheSubtilisin-likeProteaseinaRecombinantStrainofBeauveriabassiana.JournalofAgriculturalBiotechnology200513:372-376
+34.&nbsp;FanY,FangWetal.PreparationofaserineproteaseCDEP-1ofBeauveriabassianabyPichiapastorisexpressionsystem.Mycosystema200625:56-62.
+ZhouZ,FangWetal.ThecloningandsequenceanalysisofcDNAfragmentofsoybeanferritingeneandconstructionofitsexpressionvectorforplanttransformation.SouthwestChinaJournalofAgriculturalSciences200215.
+&nbsp;PeiY,FangWetal.MechanismofFungalPathogenesisinInsectandStrainImprovementbyGeneEngineering.JournalofAgriculturalBiotechnology200311:221-226.
+ZhangY,FangWetal.CloningandCharacterizationofaCarboxylicTransportProteinJEN1andItsUpstreamSequencefromBeauveriabassiana.ActaMicrobiologicaSinica.200444:198-201.
+LiD,FangWetal.AmplificationofPollenFertilityGeneMS2BnapFull-lengthcDNAfromBrassicanapusUsingSOEbyPCR.Hereditas(BEIJING)200123:326-331
+39.&nbsp;XiaoY,FangWetal.PCRwalkingincottongenomeusingYADEmethod.YiChuanXueBao.200229:62-66.
+XiaoY,FangWetal.RapidAmplificationofCottonOvulecDNAEndsbyY-RACE.ChineseJournalofBiochemistryandMolecularBiology200218:688-692.
+ZhangY,FangWetal.SynergisticeffectoffermentedsolutionproducedbytransgenicBeauveriabassianaincreasingtheinsecticidalefficacyofwild-typestrainresultsfromsubtilisin-likeactivity.JournalofPlantProtection200633:246-250.
+&nbsp;ZhangY,FangWetal.Screenofisolatesofentomopathogenicfungiwithrelativelyhightolerancetodesiccationandvirulence.Mycosystema200120:73-78.
+ZhangY,FangWetal.Inductionofextracellularproteaseandsubtilisin-likeproteaseofBeauveriabassiana.ChineseJournalofApplied&amp;EnvironmentalBiology20006:182-186&nbsp;
+
+
+
+
+
+
+
+
+
+
+Patents
+1.WeiguoFang&amp;RaymondJSt.Leger.NovelGeneticContainmentStrategyforBiologicalPestControlAgentsinSoil(LS-2011-105).2.WeiguoFang&amp;RaymondJSt.Leger.NovelEnvironmentallySafeAnti-MalarialandDualBio-ContainmentStrategiesforBiologicalControlAgents(LS-2011-106).3.PeiY,FanY,ZhangY,FangWandXiaoY.Mycoinsecticidesupplementedwithrecombinantprotease（Patentno.CN1763187）4.ZhangY,PeiY,YangXandFangW.(Patentno.CN1329829）
+
+
+&nbsp;
+			
+				
+			Contact
+			
+			Phone:
+			E-mail:wfang1@zju.edu.cn
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:WeiguoFang
+		Units:InstituteofMicrobiologyCollegeofLifeScienceZhejiangUniversity
+		Title:ProfessorofMicrobiology
+		Myhomepagehasbeenvisited4542times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	
+
+
+Youarevisitor:4542
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

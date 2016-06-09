@@ -1,0 +1,213 @@
+
+
+
+
+
+柳华-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0011130";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	柳华
+
+
+	永久链接:http://mypage.zju.edu.cn/liuh&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			1994年就读于湖南医科大学（现中南大学湘雅医学院）五年制专业，1999年毕业留校在湘雅医院妇产科从事临床，2002年1月赴新加坡国立大学攻读硕士、博士研究生及担任ResearchAssistant/ResearchFellow等工作，2012年2月起就职于浙江大学医学院干细胞和组织工程中心，现职副教授，任博士生及硕士生导师。留学期间一直从事干细胞免疫属性、分化与再生医疗效率相关的基础研究工作。
+			
+				
+			工作研究领域
+			
+			1.炎性微环境与干细胞免疫特性
+2.生物材料与干细胞免疫特性
+3.干细胞在移植和免疫性疾病中的调控作用
+
+			
+				
+			联系方式
+			
+			电话：0571-88208442			电子信箱：liuhua@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：柳华
+		单位：浙江大学医学院
+		职称：副教授
+		我的主页共被访问了3491次
+标签：干细胞、运动医学、组织工程、基础医学院、医学院、组织工程与再生医学技术重点实验室	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	奖励荣誉
+	发表论文
+	招生信息
+	博士后聘用
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	浙江省组织工程与再生医学技术重点实验室
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

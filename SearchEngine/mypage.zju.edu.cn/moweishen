@@ -1,0 +1,210 @@
+
+
+
+
+
+沈模卫教授-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0085428";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	沈模卫教授
+
+
+	永久链接:http://mypage.zju.edu.cn/moweishen&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;男，1961年12月生，中共党员，博士，教授，博士生导师，长江特聘教授。1982年毕业于杭州大学心理学系，1985年获硕士学位，1992年获博士学位，1985年起在杭州大学心理学系任教，1994年在德国基尔大学高访。1997年晋升教授，1998年列为博士生导师。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;现任浙江大学工业心理学国家专业实验室主任，浙江大学心理与行为科学系系主任，应用心理学国家重点学科、心理学一级学科博士点、心理学博士后流动站负责人。兼任中国心理学会理事长（2013至今；中国心理学会副理事长：2005-2013），中国人类工效学会副理事长（2004至今），国务院学位委员会心理学学科评议组成员（2003至今），教育部高等学校心理学教学指导委员会副主任委员（2001至今），《应用心理学》杂志主编。2002年先后入选浙江省&ldquo;151&rdquo;人才工程第一层次科技人员，并享受政府特殊津贴。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;近年来，承担国家自然科学基金项目5项，教学部哲学社会科学重大攻关项目1项，全国教育科学&ldquo;十五&rdquo;规划国家级项目1项，教育部博士点专项基金课题以及浙江省自然科学基金等省部级项目和国防军工项目等20余项。此外，与IBM、Nokia、Motorola等高科技跨国公司开展了多项合作研究课题。以第一作者或通讯作者身份在JouralofExprementalPsychology:HPP、Cognition、JournalofCognitivePsychology、BiologicalPsychology、JournalofVision等国际知名心理学学术刊物上发表或录用SCI/SSCI论文30余篇，在EI和国内权威期刊上发表论文20余篇，相关研究成果于2006年获第四届中国高校人文社会科学研究优秀成果三等奖一项（排名第一），于2009年获浙江省哲学社会科学优秀成果一等奖一项（排名第三），于2011年获国防科技技术进步奖三等奖一项（排名第四）。在人才培养方面，2005年获国家教学成果二等奖一项（排名第一），2007年指导的博士学位论文获全国百篇优秀博士学位论文提名奖，2008年获浙江省高等学校教学名师称号。
+
+			
+				
+			工作研究领域
+			
+			主要从事认知过程及建模、社会认知、药物成瘾、智能人机交互、航空工程心理学等领域的基础和应用研究。长期从事认知心理学、认知工效学、物质与非物质成瘾等领域的研究。
+			
+				
+			联系方式
+			
+						电子信箱：mwshen@emb.zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：沈模卫
+		单位：心理与行为科学系
+		职称：教授
+		我的主页共被访问了12941次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		社会职务
+	工作研究项目
+	发表论文
+	奖励荣誉
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

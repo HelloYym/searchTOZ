@@ -1,0 +1,224 @@
+
+
+
+
+
+0004222-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0004222";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	0004222
+
+
+	永久链接:http://mypage.zju.edu.cn/0004222&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;
+<spanstyle="mso-bidi-font-size:10.5pt;line-height:125%;font-family:
+华文中宋;mso-bidi-font-family:宋体">王永维<spanstyle="mso-bidi-font-size:
+10.5pt;line-height:125%;font-family:华文中宋;mso-bidi-font-family:宋体">，1975年12月生，浙江大学博士、副教授、硕士生导师
+<pclass="MsoNormal"style="text-indent:21.0pt;mso-char-indent-count:2.0;
+line-height:125%"><spanlang="EN-US"style="mso-bidi-font-size:10.5pt;line-height:
+125%;font-family:华文中宋;mso-bidi-font-family:宋体">1998<spanstyle="mso-bidi-font-size:10.5pt;line-height:125%;font-family:华文中宋;mso-bidi-font-family:
+宋体">年7月内蒙古农业大学农业机械化工程专业本科毕业，同年在内蒙古农业大学机械设计及理论专业攻读硕士学位；2001年考入浙江大学攻读博士学位，2004年毕业并留校，从事教学、科研工作。
+<spanstyle="mso-bidi-font-size:10.5pt;line-height:125%;font-family:
+华文中宋;mso-bidi-font-family:宋体">主要研究方向：种植机械和田间作业机械、电子鼻电子舌技术的农业应用
+<spanstyle="mso-bidi-font-size:10.5pt;line-height:125%;font-family:
+华文中宋;mso-bidi-font-family:宋体">科研项目：2008年以来，共主持或作为子项目负责人承担各类项目15项，其中国家级和省部级的科研项目10项：包括国家高技术研究发展计划（863计划）1项（子课题负责人）、农业部公益性行业（农业）科研专项经费项目1项（子课题负责人）、国家发改委中国政府与世界银行项目1项（子课题负责人）浙江省重大科技专项优先主题农业项目3项（主持人1项，子项目负责人2项）、浙江省科技厅重大招标项目1项、浙江省科技厅分益性项目1项（主持人）、浙江省&ldquo;三农六方&rdquo;重大项目1项（子项目负责人），企业委托项目6项。作为主要完成人（第3）获浙江省科学技术进步奖二等奖1项。
+&nbsp;
+			
+				
+			工作研究领域
+			
+			(1)种植机械
+(2)田间作业机械
+(3)电子鼻电子舌技术的农业应用
+(4)新能源利用工程
+			
+				
+			联系方式
+			
+			电话：13588490429			电子信箱：wywzju@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：王永维
+		单位：浙江大学智能农业装备研究所
+		职称：副教授
+		我的主页共被访问了7134次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	研究成果
+	专利成果
+	实验室介绍
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

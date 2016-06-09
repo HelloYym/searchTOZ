@@ -1,0 +1,218 @@
+
+
+
+
+
+薄拯博士的个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0011064";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	薄拯博士的个人主页
+先进储能技术，纳米催化，等离子体物理化学
+
+	永久链接:http://mypage.zju.edu.cn/zhengbo&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;薄拯，副教授，博士生导师。全国优秀博士学位论文奖获得者。曾获浙江大学最高学生荣誉&ldquo;竺可桢奖&rdquo;。2008年毕业于浙江大学，获博士学位，导师为中国工程院岑可法院士、严建华教授和池涌教授。2009-2011年任职于美国威斯康辛大学博士后工作，于2011年通过浙江大学海外优秀人才&ldquo;绿色通道&rdquo;计划引进回国，目前工作于浙江大学能源工程学院，能源清洁利用国家重点实验室。浙江省&ldquo;钱江人才&rdquo;，浙江大学&ldquo;求是青年学者&rdquo;。曾受邀担任美国国家自然科学基金和美国能源部项目和多个SCI学术期刊评审人。现任Nature出版社旗下期刊ScientifcReports编委，该期刊2014年SCI影响因子5.087。
+&nbsp;发表SCI论文四十余篇，出版英文专著一部（Springer出版社）。作为第一作者或通讯作者，论文发表在ChemicalSocietyReviews（IF30.425），Energy&amp;EnvironmentalScience（IF15.490）,InternationalJournalofHeatandMassTransfer,AdvancedMaterials（IF15.409，期刊扉页）,ScientificReports,JournalofPhysicalChemistryC,Nanoscale等高水平国际学术期刊。
+
+<spanlang="EN-US"style="font-family:&quot;TimesNewRoman&quot;,&quot;serif&quot;;mso-fareast-font-family:
+楷体">
+&nbsp;
+
+
+研究兴趣：
+&nbsp;&nbsp;&nbsp;1.石墨烯超级电容储能过程中的能质传递。
+&nbsp;&nbsp;2.纳米尺度流体传质。
+&nbsp;&nbsp;3.纳米尺度空间中的基本粒子动力学特征。
+&nbsp;&nbsp;&nbsp;4.面向超级电容器储能和催化的先进能源材料设计和构筑。
+&nbsp;&nbsp;&nbsp;5.等离子体物理化学。
+&nbsp;
+			
+				
+			联系方式
+			
+			电话：057187953290			电子信箱：bozh@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：薄拯
+		单位：能源工程学系
+		职称：副教授，博士生导师
+		我的主页共被访问了21266次
+标签：纳米尺度能质传递，先进储能技术，纳米催化	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教育和工作经历
+	奖励荣誉
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	浙江大学
+浙江大学热能工程研究所
+能源清洁利用国家重点实验室
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

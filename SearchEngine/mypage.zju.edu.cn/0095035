@@ -1,0 +1,214 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0095035";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0095035&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			男，1962年1月生于陕西延长县。1989年6月毕业于西北农业大学经济管理系，获博士学位。1989~1993年在西北农业大学农业经济系任教。1993~1994年在德国吉森大学进修。1995年回国后到浙江大学管理学院任教，1996年晋升为教授。1997年在德国波恩大学从事合作研究。1997年入选原国家土地管理局首批跨世纪人才，1998年入选浙江省&ldquo;151人才工程&rdquo;。1999年晋升为博士生导师。曾经担任浙江大学工商管理系主任和浙江大学MBA教育中心主任。
+
+现任职务：
+现任浙江大学管理学院副院长，浙江大学房地产研究中心主任，浙江大学企业投资研究所所长，兼任广宇集团、华庭股份、佳力科技、宁波方太等公司的独立董事或顾问。
+
+
+承担课题：
+先后主持完成了国家自然基金项目4项、国家社科基金项目1项、浙江省社科基金重大课题1项、横向课题50多项。在研国家自然基金项目1项、教育部博士点学科点专项科研基金项目1项。
+
+			
+				
+			工作研究领域
+			
+			房地产投资及管理：依托浙江大学房地产研究中心，主要研究房地产领域的学术问题，承担政府、协会、企业委托的关于房地产政策研究、市场分析、项目策划、房地产企业经营管理等方面的委托课题。
+企业理论与公司治理：依托浙江大学企业投资研究所，主要研究公司治理方面的学术和理论问题，承担国家基金课题和政府与企业委托课题，重点探索浙江省民营企业和家族企业发展中的制度建设和管理提升途径。
+产业组织与企业成长：依托浙江大学企业成长研究中心，主要研究全球化背景下中国产业组织变革、产业集群演进、企业持续成长等理论和实践问题，承担国家基金课题和政府与企业委托课题，重点探索浙江省产业发展和企业成长的客观规律和战略举措。
+顾客关系管理：依托浙江大学企业投资研究所，主要研究现代企业持续成长中不同利益相关者的互动关系，承担国家基金课题和政府与企业委托课题，探索不同行业和企业顾客价值创造、顾客满意提升和顾客忠诚培育的模式和机制。
+
+			
+				
+			联系方式
+			
+			电话：0571-88206806			电子信箱：jsh@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：贾生华
+		单位：管理学院企业管理系
+		职称：教授
+		我的主页共被访问了3717次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

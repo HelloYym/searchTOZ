@@ -1,0 +1,208 @@
+
+
+
+
+
+华金中-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0071267";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	华金中
+营养学
+
+	永久链接:http://mypage.zju.edu.cn/huajinzhong&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;男，1951年11月出生，1969年1月参加工作，1978年毕业于上海第一医学院即到浙江医科大学任教。1983年参与筹建我国第一个医学营养系工作，并任助教、讲师、副教授。四校合并后为浙江大学医学院公卫系任教至今，担任《营养与食品卫生学》课程主讲教师。同时兼任医科学会办公室副主任及中国营养学会理事、浙江省营养学会副理事长兼秘书长、浙江省学生与营养健康专业委员会主任委员。参与编写教材与书籍八部、刊登专业论文30余篇，承担科研项目10余项，先后获得省、厅级科技进步奖5项，荣获&ldquo;全国与省级营养科技先进工作者&rdquo;、&ldquo;科普先进工作者&rdquo;、&ldquo;学会先进工作者&rdquo;等10余次。
+			
+				
+			工作研究领域
+			
+			营养学基础及不同人群的营养学研究、咨询及评估、营养与保健食品的开发研究、健康管理的研究等
+			
+				
+			联系方式
+			
+			电话：13064701323			电子信箱：huajz2007@126.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：华金中
+		单位：公共卫生系
+		职称：副教授
+		我的主页共被访问了10061次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	奖励荣誉
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

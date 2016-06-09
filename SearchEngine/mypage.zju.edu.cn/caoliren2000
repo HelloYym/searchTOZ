@@ -1,0 +1,219 @@
+
+
+
+
+
+学习策略大家谈-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0089289";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	学习策略大家谈
+关于学习策略的理论和实践论坛
+
+	永久链接:http://mypage.zju.edu.cn/caoliren2000&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			曹立人，杭州大学工程心理学博士，韩国延世大学博士后，英国剑桥大学高级访问学者。现为浙江大学心理系教授，博士生导师，浙江大学认知与发展心理学研究所副所长，浙江省心理学会理事长。
+曹立人教授主持过3项国家自然科学基金项目研究，发表各类论文20余篇，多数是在国家一级刊物上发表的，获得浙江省自然科学优秀论文一等奖一次，二等奖，三等奖多次。
+&nbsp;&nbsp;&nbsp;目前正在主持一项国家自然科学基金项目&ldquo;三维图形识别的认知策略对视觉作业绩效影响的实验研究&rdquo;和一项教育部十五重点规划项目&ldquo;高中生学习策略特征及优化学习策略的养成实验研究&rdquo;。
+			
+				
+			工作研究领域
+			
+			教育心理学
+基础心理学
+工程心理学
+心理健康与咨询
+			
+				
+			联系方式
+			
+			电话：88273337			电子信箱：caoliren2000@163.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：曹立人
+		单位：心理与行为科学系
+		职称：教授
+		我的主页共被访问了22056次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	学术交流（讲座报告）
+	研究成果
+	奖励荣誉
+	社会兼职
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	教育心理学课程介绍
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

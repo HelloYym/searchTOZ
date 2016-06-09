@@ -1,0 +1,226 @@
+
+
+
+
+
+mahl-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0002006";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	mahl
+心静则生慧
+
+	永久链接:http://mypage.zju.edu.cn/0002006&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			个人简介:
+马慧莲，博士，副教授，博士生导师。1997年和2002年在浙江大学信息与电子工程学系分别获得学士和博士学位，后留校任教。2004年晋升副教授，2007.10-2009.5获浙江大学学术后备人才出国计划（&ldquo;新星&rdquo;计划）资助在日本东京大学保立教授研究室进行访问研究，2010年为博士生指导教师。主要研究方向为传感光子学、光纤传感技术、光纤测试技术及传感器信号处理等。作为项目负责人承担或完成多项国家级项目。已发表SCI/EI检索论文60余篇，申请发明专利20余项。开设课程：&ldquo;光电子学&rdquo;、&ldquo;导波光学基础&rdquo;&ldquo;光学器件和系统的测试与测量（硕博学位课）&rdquo;。
+&nbsp;&nbsp;&nbsp;&nbsp;受邀承担国际学术期刊的审稿服务，包括：OpticsExpress，OpticsLetters,IEEEJournalofLightwaveTechnology,IEEEphotonicsTechnologyLetters,AppliedOptics,OpticsCommunications等。&nbsp;
+&nbsp;
+通信地址：杭州玉泉浙江大学信电系大楼512室
+邮政编码：310027
+办公室：玉泉校区信电系大楼512
+联系方式：
+电话/传真：0571-87952587
+电子信箱：mahl@zju.edu.cn
+			
+				
+			工作研究领域
+			
+			传感光子学、光纤传感技术、光纤测试技术及传感器信号处理
+			
+				
+			联系方式
+			
+			电话：0571-87952587			电子信箱：mahl@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：马慧莲
+		单位：航空航天学院
+		职称：副教授
+		我的主页共被访问了35264次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	专利成果
+	实验室介绍
+	团队成员
+	团队娱乐
+	学术交流
+	已毕业研究生
+	光电子学
+	《光学器件和系统》
+	硕士/博士研究生招生
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	微小卫星研究中心
+东京大学保立山下何研究室
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

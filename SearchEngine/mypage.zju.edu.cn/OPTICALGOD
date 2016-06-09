@@ -1,0 +1,203 @@
+
+
+
+
+
+姚军-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0092423";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	姚军
+热情、奉献
+
+	永久链接:http://mypage.zju.edu.cn/OPTICALGOD&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			80年进入浙江大学光仪系读书，期间热心学生工作，曾任系学生会主席。毕业后在国企技术质检工艺生产等基层部位担任负责人。研究生期间师从浙江大学光仪系叶关荣教授。毕业后跟随叶教授多年，深切感受叶教授身体力行求是创新之精神。曾主讲光辐射测量、通信原理课程。2011年个人负责的年科研经费在250万以上。在从事教学科研的同时，先后兼职担任光电系科研秘书，学校党委办公室主任助理，挂职担任杭州市科技局党组成员，副局长。教学科研坚持研究同应用相结合，坚持以市场需要为研究导向，坚持务实的教学与研究方法，坚持技术为经济服务。努力培养更多的实用人才，研究更多的实用技术，为使国内的技术水平和创新能力更上一层楼，从三流走向二流，最终走向世界一流贡献力量。目前是一支由数十人组成的学研产相结合队伍的领军人。
+			
+				
+			工作研究领域
+			
+			研究特点：光机电液一体化技术在自动检测及生产控制等方面的应用研究。研究领域：光度色度技术、光电检测及控制技术、图像处理及系统技术、光机电一体化技术。
+			
+				
+			联系方式
+			
+			电话：9795203013306504007			电子信箱：xyz_rgb@126.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：姚军
+		单位：光电信息工程学系
+		职称：副研究员（自然科学）
+		我的主页共被访问了4037次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

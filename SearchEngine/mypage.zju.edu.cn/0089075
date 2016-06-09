@@ -1,0 +1,235 @@
+
+
+
+
+
+简介-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0089075";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	简介
+
+
+	永久链接:http://mypage.zju.edu.cn/0089075&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			徐德鸿，浙江大学教授、博士生导师，工学博士。IEEEFellow.&nbsp;&nbsp;电力电子技术研究所所长。中国电源学会理事长。
+&nbsp;
+简历：
+1979年-1983年浙江大学电机工程系工业电子装置本科，1983-1986年浙江大学电力电子技术硕士生，1989年浙江大学电力电子技术学科获博士学位。1989年留校任教。1991年晋升副教授，1996年晋升教授。先后担任工业电子技术教研组副主任、主任，电力电子技术研究所副所长，常务副所长，电机系副主任，电机系副主任（主持），电气工程学院常务副院长，工学部副主任等职。现任电力电子技术研究所所长。1995－1996年获国家教育部资助赴日本东京大学做博士后研究，2000年6月-12月受邀在美国国家电力电子中心（CPES)作访问教授，2006年2月-4月受邀在瑞士苏黎士联邦理工学院（ETH）访问教授。
+
+主讲课程：
+本科生课程：电力电子技术（夏学期）；新能源电力电子技术导论（冬学期）&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+研究生课程：电力电子系统建模及控制（冬学期）
+
+&nbsp;
+科学研究：
+研究方向:电力电子技术，新能源电力电子电路、系统与控制,氢燃料电池电源系统及微电网，数据中心电源
+主持国家自然科学基金重点项目、国家863主题项目、国家973、省部级科研项目、国际合作项目（GE、西门子、松下等）。
+获中国发明专利20余项,美国专利3项。在国内外发表学术论文300余篇，其中EI(SCI)收录论文116篇。出版《电力电子技术》（科学出版社），《电力电子系统建模及控制》（机械工业出版社）等著作4部。作为共同主编，主编《电气工程师手册》（电力出版社），《电气工程大典：电力电子技术卷》（电力出版社）。2001年获&ldquo;中达学者&rdquo;称号。IEEE&nbsp;优秀论文奖三项。.获省部级一等奖、二等奖多项。
+&nbsp;
+学术兼职：
+&nbsp;中国电源学会理事长(2013-),国务院学位委员会电气工程学科评议组成员，&ldquo;十二五&rdquo;国家863项目首席专家，十一五国家科技部&ldquo;电力电子器件重大关键技术&rdquo;国家支撑项目专家组专家，国家能源智能电网（上海）研发中心学术委员会委员，中国电力电子学会副理事长，《电源学报》期刊编委会主任、《电力电子技术》期刊编委会副主任。浙江省新能源用电力电子技术创新团队负责人。
+
+IEEEFellow,国际IEEE电力电子学会执行委员会委员(IEEEPowerElectronicsSocietyAdcomat-largemember,2006-2008)；IEEE电力电子学会分布发电和再生能源技术委员会主席(2009-2010)，欧洲电力电子与运动会议顾问（PCIMinternationalAdvisor)。IEEEPowerElectronicsforDistributionGeneration-PEDG2012（Aalborg,Denmark）共同大会主席。IEEEISIE2012(中国杭州)大会主席。IEEE21thIEEEInternationalSymposiumonIndustrialElectronics-PEDG2013（Arkansa,USA）大会主席。IEEEInternationalSymposiumonPowerElectronicsforDistributedGenerationSystems-PEDG2010(中国合肥)程序委员会主席。IEEEEnergyConversinCongressandExpo-ECCE&rsquo;2010（Atlanta,USA）程序委员会副主席，IEEEECCE&rsquo;2011（Phoenix,USA）程序委员会副主席,IEEE&nbsp;InternationalFutureEnergyChallenge-IFEC2015GeneralChair,IEEE&nbsp;InternationalPowerElectronicsandApplicationConferenece(PEAC2014)GeneralChair.
+国家著名期刊编委：IEEEtransactiononPowerElectronics,AssociateEditor，IEEEtransactiononSustainableEnergy,Editor，JournalofPowerElectronics,AssociateEditor。
+&nbsp;
+&nbsp;
+			
+				
+			工作研究领域
+			
+			电力电子技术，新能源电力电子电路、系统与控制，氢燃料电池电源系统及微电网
+，数据中心电源
+			
+				
+			联系方式
+			
+			电话：0571-87953251			电子信箱：xdh@cee.zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：徐德鸿
+		单位：电气工程学院应用电子学系
+		职称：教授
+		我的主页共被访问了49128次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	研究成果
+	专利成果
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	IEEE论文source
+Searchpapersorducoments
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,214 @@
+
+
+
+
+
+尹建伟教授-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0001038";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	尹建伟教授
+
+
+	永久链接:http://mypage.zju.edu.cn/0001038&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			男，1974年出生，教授，博士生导师。2001年获浙江大学计算机应用专业博士学位，2008年美国佐治亚理工学院（GeorgiaTech）计算机学院访问学者，中国计算机学会服务计算专委常委、软件工程专委委员，浙江省计算机学会中间件分会秘书长、钱塘平台软件产业联盟秘书长。ICDCS2012、WISE2011、ICWS2010、DEBS2010、DEBS2009、WAIM2005等会议的PCMember。
+&nbsp;近年来承担及完成国家自然科学基金，国家863计划，国家重大专项，国家支撑计划、国家发改委产业化项目、浙江省重大科技攻关项目、重大企业合作项目三十余项，SAP，UTStarcom，GeorgiaTech等各类国际合作项目多项，在IEEEInternetComputing、IEEEIndustrialElectronicsMAGAZINE、EngineeringApplicationsofArtificialIntelligence、InternationalJournalofProductionResearch、计算机学报、软件学报、PerCom、CloudCom、ICIP、ICWS、ICSOC、SCC等国内外期刊、会议上发表100余篇科研论文，SCI收录15篇，EI收录52篇，出版教材1本，获得国家发明专利授权16项。
+&nbsp;作为技术负责人研制开发了具有自主知识产权的大型基础中间件平台软件---钱塘中间件平台软件（JTangMiddlewareSeries），平台通过Sun，Intel公司的专业测试，在多家大型企业得到推广应用，获国家科技进步二等奖、浙江省科学技术一等奖、教育部科技进步一等奖、中国商业联合会特等奖。参与研制企业级协同产品研制管理系统，获2005年国家重点新产品，目前已成功应用于我国四十余家大型重点设计单位。
+			
+				
+			工作研究领域
+			
+			1、Distributednetworkmiddleware,suchasCloud-orientedMiddleware、WebService、Content-basedpub/sub、Massdatastorage。
+2、Softwarearchitecture,suchasSoftwareComponent、Softwareproductline。
+3、Informationintegration,suchasESB、Workflow；
+4、Infotmationsecurity,suchasRolebasedaccesscontrol、Trustmanagement。
+
+			
+				
+			联系方式
+			
+			电话：87952027			电子信箱：zjuyjw@cs.zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：尹建伟
+		单位：计算机科学与技术学院计算机科学与工程学系
+		职称：教授
+		我的主页共被访问了25461次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+	出版著作
+	研究成果
+	专利成果
+	实验室介绍
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

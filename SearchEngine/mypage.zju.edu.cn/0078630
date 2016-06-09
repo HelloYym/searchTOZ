@@ -1,0 +1,218 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0078630";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0078630&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			任浙江大学药学院副院长，药理与毒理研究室主任；教授，博士生导师，浙江省重点学科药理学科带头人之一。浙江省中药药理重点学科负责人，浙江省中药学重点扶植学科负责人。
+&nbsp;&nbsp;&nbsp;&nbsp;2003.10-12月：&nbsp;获德意志研究联合会基金，赴德国杜塞尔多夫大学药用生物与技术研究所，高访研究，主攻中药活性物质研究。
+&nbsp;&nbsp;&nbsp;&nbsp;2002.1-3月：&nbsp;获浙江省政府人才基金，赴德国杜塞尔多夫大学药用生物与技术研究所，高级访问研究，主攻中药活性物质研究。
+&nbsp;&nbsp;&nbsp;&nbsp;1997.3-1998.3：&nbsp;获包玉刚中国留学生奖学金，赴德国杜塞尔多夫大学医学院生物化学研究所访问研究，主攻生化药理与毒理。
+&nbsp;&nbsp;&nbsp;&nbsp;1991.9-1994.7：&nbsp;中科院上海药物研究所博士研究生，获博士学位。
+&nbsp;&nbsp;&nbsp;&nbsp;1988.8-1989.7：&nbsp;意大利米兰大学生物系访问研究，主攻生物医学。
+&nbsp;&nbsp;&nbsp;&nbsp;1978-1998：浙江医科大学药学院（系）任助教、讲师、副教授，硕士生导师。
+
+			
+				
+			工作研究领域
+			
+			主要研究方向
+1．防治重大疾病药物作用新靶点与新药研究；
+2．干细胞体外定向分化为心肌细胞的药物调控及其应用研究；
+3．生化药理与毒理学：蛋白组学/酶学、信号转导、受体、基因；
+4.中药主治功效的分子基础研究：分子生物学手段与计算机辅助生物大分子空间模拟（采用具有原创性的新理论、新思路和新方法阐明确有疗效的中药物质基础、代谢过程和作用机理）。
+			
+				
+			联系方式
+			
+			电话：0571-87217206			电子信箱：yijialou@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：楼宜嘉
+		单位：药学院药学系
+		职称：教授
+		我的主页共被访问了7510次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+	出版著作
+	专利成果
+	奖励荣誉
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

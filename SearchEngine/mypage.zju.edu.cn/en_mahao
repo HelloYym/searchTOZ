@@ -1,0 +1,201 @@
+
+
+
+
+
+WebpageofHaoMa-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0097019";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	WebpageofHaoMa
+
+
+	Permanentlink:http://mypage.zju.edu.cn/en/mahao&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			Blog
+
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			
+Ma,Haowasbornin1969.&nbsp;HereceivedtheB.S.,M.S.andPh.D.degreesfromZhejiangUniversity,Hangzhou,China,in1991,1994and1997respectively,allinElectricalEngineering.
+Since1997,heworkedasalecturer,associateprofessor&nbsp;andprofessoratZhejiangUniversity.FromSept.2007toSept.2008,heactedasaDeltaVisitingScholaratNorthCarolinaStateUniversity.HisresearchinterestsincludeAdvancedControlinPowerElectronics,FaultDiagnosisofPowerElectronicCircuitsandSystems,andApplicationofPowerElectronics.
+Dr.MaauthoredabookAutomaticFaultDiagnosisofPowerElectronicEquipments,atextbookPowerElectronicTechnologyandpublishedover100technicalpapers.
+Dr.MaisservedasAdCommemberofIEEEIndustrialElectronicsSociety,DirectorofAcademicCommitteeofChinaPowerSupplySociety,Secretary-generalofPowerSupplySocietyofZhejiangProvince,vice-directorofTechnologyCommitteeofElectricalMachinesPowerAssociationSocietyofZhejiangProvince.Dr.Maisservedas&nbsp;ViceDeanoftheElectricalEngineeringCollege,ZhejiangUniversity.Dr.Ma&nbsp;wasservedasTechnicalProgramChairofIEEE&nbsp;PEAC2014,&nbsp;TechnicalProgramChairofIEEEISIE2012,andwasservedasCo-chairofPowerElectronicsandRenewableEnergyTrack,IEEEIECON2010andCo-chairofPowerElectronicsand&nbsp;EnergyConversion,IEEEIECON2013.
+			
+				
+			Contact
+			
+			Phone:
+			E-mail:mahao@zju.edu.cn
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:Ma,Hao
+		Units:CollegeofElectricalEngineering,ZhejiangUniversity
+		Title:Professor
+		Myhomepagehasbeenvisited9121times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+ContactInformation
+Projects
+Publications
+Patents
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	
+
+
+Youarevisitor:9121
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

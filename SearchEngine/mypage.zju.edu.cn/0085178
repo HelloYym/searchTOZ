@@ -1,0 +1,239 @@
+
+
+
+
+
+卓新-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0085178";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	卓新
+
+
+	永久链接:http://mypage.zju.edu.cn/0085178&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			1、SCI/EI及核心期刊上发表论文40余篇。
+2、获得国家专利20项、美国专利1项。
+3、主编专著2本。参编著作2本。
+4、主编国家行业标准《施工升降机安装使用拆卸安全技术规程》。
+5、获国家级工法3项，省级工法10项。
+			
+				
+			工作研究领域
+			
+			1、空间张力结构设计与施工分析理论。
+2、异形体空间结构性能研究。
+3、施工新技术研究与工法应用。
+4、虚拟施工建模与动态展示。
+5、装配整体式混凝土结构的分析理论与施工技术。
+
+
+
+近10年指导的研究生论文题目：
+1、2014，黄瑞璞，物体沿索下滑分析方法研究与结构节点滑移施工模拟。
+2、2014，何源源，基于向量式有限元的拉索摩擦滑移分析和索膜杆协同找形。
+3、2013，胡鹏飞，碗扣式模板支架静力性能研究。
+4、2013，殷晨，预应力损失对逐层双环索穹顶结构静力性能的影响。
+5、2012，宋智杰，逐层双环索穹顶性能研究。
+6、2012，郝维平，钢筋混凝土双曲抛物面薄壳结构力学性能研究。
+7、2011，许国杰，葵花型逐层双环索穹顶结构局部构件失效时受力学性能研究。
+8、2010，季亮，基于施工过程的空间结构计算与设计方法研究。
+9、2010，杨帆，葵花型逐层双环索穹顶力学性能研究及施工过程分析。
+10、2010，李建，工程结构优化的群体智能算法。
+11、2009，张国发（博），弦支穹顶结构施工控制理论分析与试验研究。
+12、2009，赵霄，弦支穹顶结构新型索杆节点分析与试验研究。
+13、2008，张痒足，施工企业信息化系统研究。
+14、2007，胡凯山，扣件式钢管模板支撑架结构力学性能研究。
+15、2007，吴必龙，高层建筑扣件式钢管脚手架构造研究与标准化设计。
+16、2006，姚晓平，异型椭球网壳的风压数值模拟与静力特性分析。
+17、2006，毛海军，MIS在施工信息化管理中的应用研究。
+18、2006，郭小玲，基于能量法的自由曲面索膜结构找形。
+19、2005，林郁，拱支叉筒网壳稳定性分析与风压数值模拟。
+
+			
+				
+			联系方式
+			
+			电话：13646856691。地址：浙大紫金港校区安中大楼A614			电子信箱：zhuoxin@zju.edu.cn。QQ：2818806224			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：卓新
+		单位：建筑工程学院土木工程学系
+		职称：副教授
+		我的主页共被访问了6143次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	发表论文
+	出版著作
+	专利成果
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

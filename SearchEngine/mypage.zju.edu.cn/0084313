@@ -1,0 +1,210 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0084313";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0084313&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			女，1963年9月生，浙江大学管理学院旅游管理系副教授，硕士生导师，管理学博士。1984年毕业于杭州大学获教育学学士学位留校任职至今。其间于1987-1989年全脱产就读浙江大学（玉泉校区）哲学社会学系获（教育学、法学）双学士学位；1994-1997年师从原杭州大学旅游学院院长、旅游学博士陈纲教授和浙江大学管理学院副院长吕建中教授，获经济学硕士；2001年-2005年师从高尚全（国务院中国经济体制改革研究会会长、浙江大学管理学院院长、教授）和马庆国（浙江大学管理学院副院长、教授）,获管理学博士。2006年柔性挂职锻炼任&ldquo;浙江省湖州太湖旅游度假区管理委员会主任助理&rdquo;。
+现任职务：
+现任浙江大学亚太休闲教育研究中心学术研究部副主任、浙江大学房地产研究中心旅游房地产研究所所长、浙江大学旅游研究所副所长。
+研究领域：
+休闲与度假管理、旅游房地产（度假村）管理、休闲与度假项目策划
+			
+				
+			工作研究领域
+			
+			休闲与度假管理、旅游房地产（度假村）管理、休闲与度假项目策划
+			
+				
+			联系方式
+			
+			电话：88919958			电子信箱：wangwanfei@mail.hz.zj.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：王婉飞
+		单位：管理学院旅游管理系
+		职称：教授
+		我的主页共被访问了6022次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	发表论文
+	出版著作
+	研究成果
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

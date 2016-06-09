@@ -1,0 +1,292 @@
+
+
+
+
+
+cenkefa-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0056124";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	cenkefa
+
+
+	Permanentlink:http://mypage.zju.edu.cn/en/cenkefa&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			Blog
+
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			PersonnelInformation:
+KefaCEN,&nbsp;Professor,Ph.D.Academician
+DateofBirth:Jan.5th,1935
+EducationBackground:
+1952-1956Bachlor,&nbsp;HuazhongUniversityofScienceandTechnology
+1958-1962PH.D.,MoscowStateTechnicalUniversitynamedafterBauman
+Tel:86-571-87952034(o),86-571-87951616(fax)
+Email:kfcen@zju.edu.cn
+&nbsp;
+CurrentPosition:&nbsp;&nbsp;
+Academician,ChineseAcademyofEngineering
+Director,Institute&nbsp;for&nbsp;Thermal&nbsp;Power&nbsp;Engineering&nbsp;of&nbsp;Zhejiang&nbsp;University&nbsp;&nbsp;&nbsp;&nbsp;
+Director,InstituteforThermalPowerEngineeringofZhejiangUniversity(ZJU)
+Director,AcademicCommitteeofEngineeringCollegeofZJU
+Director,AcademicCommitteeofInstituteforSustainableEnergyofZJU
+Director,InternationalCooperation&amp;ExchangeCommitteeofChineseSocietyofPowerEngineering
+ExecutiveDirector,ChineseSocietyofParticuology
+AppraisalGroupConvenor,TheFifthPowerEngineeringandEngineeringThermalphysicsofStateCouncilDegreeCommittee
+Director,EnergyandPowerSubjectTeachingCommitteeofEducationMinisty
+MembershipinAcademicOrganizations:
+Vice&nbsp;Chairman,&nbsp;Chinese&nbsp;Society&nbsp;of&nbsp;PowerEngineering&nbsp;&nbsp;&nbsp;
+Vice&nbsp;Chairman,&nbsp;ChineseSocietyofThermophysicalEngineering
+Editorinchief,JournalofZhejiangUniversity
+MemberofEditorialBoardoftheInternationJournal:Energy,FuelProcessingTechnology
+MemberofEditorialBoardofJournalofEngineeringThermalphysics,ZhongguoDianjiGongchengXuebao/ProceedingsoftheChineseSocietyofElectricalEngineering,JournalofChinaCoalSociety,JournalofFuelChemistryandTechnology,PowerEngineering,JournalofThermal&nbsp;ScienceandTechnology,CoalProcessing&amp;ComprehensiveUtilization,JournalofCombustionScienceandTechnology,CleanCoalTechnology,GasandHeat,ChemicalReactionEngineeringandTechnologyetc.
+&nbsp;
+Honors:
+AwardforNationaladvancedscienceandtechnologyworkers,May1LaborMedalawarder,NationalUniversitiesofadvancedscienceandtechnologyworkers,
+TheFirstPrizeforGuanghuaScienceandTechnologyFund,
+Thesecondsub-RuNiuGoldenMedalforBurlingameHongKong(China)EducationFoundation,ScienceandTechnologyAwardforsignificantcontributionsinZhejiangPorovince.
+&nbsp;
+NationalExcellentTeacher
+ResearchField：
+CleanCoalCombustionandGasification,NewenergyandrenewableenergyUtilization,PolygenerationandComprehensiveUtilizationofEnergyResources,BiomassGasification&amp;Bio-Oil,WasteIncinerationandPollutionControl(Sludge,MunicipalSolidWastesandSlurry)
+coalslurrycombustiontechnologyinsteadofoil,simultaneousremovalofmulti-pollutants(SOx,NOx,PAHs,Hg,HCl,HF,Dioxins,HeavyMetal,etc.)duringcoal/Biomass/MSWcombustionandgasification,Hydrogen(byBiomass,CoalorSulfur-Iodine(SI)Cycle),MultiphaseFlowNumericalSimulation(DNS,DES,LES),advancedmeasurementstechniquesanddiagnosticstheoryandmethodsforcombustion
+MajorAchievements:
+R&amp;Dprojects:
+Over200R&amp;Dprojectshavebeenfinished,whichcovertheareaofcombustion/gasificationandpolygenerationofenergyresources(coal/biomass/waste/sludge/CWS),andalsoincludinglotsofinternationalcooperationR&amp;Dprojectswith&nbsp;UnitedStatesofAmerica,France,Canada,Switzerland,JapanandKoreaetc.
+Awards:
+Untilnow,theresearchawardshasgotoneawardforTheSecondClassNationalAwardsforNatureScience;TwoawardsfortheSecondNationalAwardsforTechnologicalInvention;FourawardsforTheSecondClassNationalAwardsforScientificandTechnicalProgress;OneawardforTheSecondandTheThirdandTheFourthClassNationalAwardsforTechnologicalinventionhavebeenrewardedrespectively;AndthreeawardsfortheSecondClassNationalAwardsforTeachingAchievements;OneawardforTheThirdClassNationalAwardsforScientificandTechnicalProgresshasbeenachieved;SeveralawardsforTheSecondClassAwardsofMOEforScientificandTechnicalProgress;SeveralawardsforTheSecondClassAwardsofZhejiangProvinceforScientificandTechnicalProgresshavebeenachieved,etc;
+Awardslist:
+1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In2009，theSecondNationalAwardsforScientificandTechnicalProgress,&ndash;titledby
+CleanCombustionTechnologyandIndustrializationforCoalWaterSlurry
+2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In2008,theSecondNationalAwardsforTechnologicalInvention,-titledbySemi-DryFlueGasCleaningTechnologyUsingCirculatingSuspensionandMultistageHumidification
+3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In2006,TheSecondClassNationalAwardsforScientificandTechnicalProgress,&ndash;titledbyTheIntegratedTechnologyofLarge-scaleCleanIncinerationofMunicipalSolidWasteforPowerGeneration
+4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In2005,TheSecondClassNationalAwardsforNatureScience,titledbyResearchonSomeKeyFundamentalProblemsinEngineeringGas-solidTwo-phaseflows&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In2004,TheSecondClassNationalAwardsforScientificandTechnicalProgress,titledbyLowNOxCombustionofAdjustableRich/LeanPulverizedCoalandSteadyBuringTechnologyatLowSteamLoad&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In2001,TheSecondClassNationalAwardsforScientificandTechnicalProgressOptimizationforPowerCoalBlending,titledbyCleanCatalyticCombustionandIndustrialization&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In2005,TheFirstClassAwardsofZhejiangProvinceforScientificandTechnicalProgress,titledbyTheIntegratedTechnologyofLarge-scaleCleanIncinerationofMunicipalSolidWasteforPowerGeneration&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In2004,TheFirstClassAwardsofZhejiangProvinceforScienceandTechnology,titledbyTheoreticalandExperimentalStudyofGas-SolidTwo-PhaseFlowsinThermalPowerEngineering
+9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In2003,TheFirstClassAwardsofZhejiangProvinceforScientificandTechnicalProgress,tiltedbyPulverizedCoalRich/LeanSteadyBurningandLowNOxBurningTechnology&nbsp;&nbsp;&nbsp;
+10.&nbsp;&nbsp;&nbsp;&nbsp;In2000,TheFirstClassAwardsofZhejiangProvinceforScientificandTechnicalProgress,titledbyOptimizationforCoalBlending,CleanCatalyticCombustionandIndustrialization
+11.&nbsp;&nbsp;&nbsp;&nbsp;In2000,TheFirstClassAwardsofNationalCoalMinistryforScientificandTechnicalProgress,titledbyCo-firedCoalRejectsandCoalWashingTailingsin35t/hCFBBoilers
+12.&nbsp;&nbsp;&nbsp;&nbsp;In2001,TheFirstClassAwardsofChineseHighSchoolforNatureScience,titledbyNumericalExperimentStudyofWearProtectiononHeatTransferSurfacesinBoilers
+13.&nbsp;&nbsp;&nbsp;&nbsp;In2005,TheSecondClassawardofNationalScientificandTechnicalProgressProposedbytheMinistryofEducation,titledbyCleanandComprehensiveUtilizationofLowGradeFuelBasedonCFBTechnology&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+14.&nbsp;&nbsp;&nbsp;&nbsp;In2003,TheSecondClassawardofNationalNaturalScienceProposedbyMOE,titledbyProtectionmechanismandcomputationofthedesposit,slag,erosionandcauterizationofboilerandheat-changer
+15.&nbsp;&nbsp;&nbsp;&nbsp;In2003,TheSecondClassAwardsofGuangdongProvinceforScientificandTechnicalProgress,titledbyRetrafit220t/hOilFiredBoilertoFullyCoalWaterSlurryFiredBoilerTechnologyforElectricityGeneration&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+16.&nbsp;&nbsp;&nbsp;&nbsp;In2001,TheSecondClassAwardofZhejiangProvinceforScientificandTechnicalProgress,titlebyCleanCombustionandHighEfficiencyComprehensiveUtilizationofCFBBFiredLowGradeCoal&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+17.&nbsp;&nbsp;&nbsp;&nbsp;In2001,TheSecondClassAwardsofChineseHighSchoolforScientificandTechnicalProgress,titlebyMunicipalSolidWasteCleanIncineration&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+18.&nbsp;&nbsp;&nbsp;&nbsp;In2001,TheSecondClassAwardsofMOEforScientificandTechnicalProgress,titledbyStudiesonCoalCleanCatalyticCombustionandOptimumPowerCoalBlendingTechnology
+19.&nbsp;&nbsp;&nbsp;&nbsp;In2000,TheSecondClassAwardofZhejiangProvinceforScientificandTechnicalProgress,titlebyDevelopmentandApplicationofTurbulentTypeDustandSulfurIntegratedRemovalofFlueGas&nbsp;&nbsp;&nbsp;&nbsp;
+20.&nbsp;&nbsp;&nbsp;&nbsp;In1998,TheSecondClassAwardsofZhejiangProvinceforScientificandTechnicalProgress,titledbyHighDensityOrganicWasteLiquidandSludgeIncinerationinFluidizedBeds&nbsp;&nbsp;&nbsp;&nbsp;
+21.&nbsp;&nbsp;&nbsp;&nbsp;In2005,TheSecondClassNationalAwardsforTechingAchievements,titlebyAimingattheFrontofEnergyScience,MakingyptheFirstClassAdvisorGroup,andCultivatingTalentedInnovationalPersons&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+22.&nbsp;&nbsp;&nbsp;&nbsp;In1997,TheSecondClassNationalAwardsforTechnologicalInvention,titledbyCoalWaterMixtureFluidizedBedAgglomeratingCombustionTechnology
+&nbsp;
+Cultivation:
+Sofar,230Ph.D.,6PostDoctors,526Masterhavebeencultivated;fourpersonshasachievedTheCheungKongScholars;27personsareEngagedtoWorkasFullProfessoramongPh.D.s.,fourNationalFundsforTalentedProfessionals,oneChiefScientistofNationalBasicResearchProgramofChina(973Program),fivewinnersofNationalTalentedExpertsandninewinnersofMOETrainingProgramforExcellentScholars,FourNationalExcellentDoctorialDissertationswiththreedissertationsfornomination.etc.
+Internationalacademicexchange:
+Beveryactiveintheinternationalcooperativeresearch,developmentandexchange,havingintensivecooperationandexchangewithworldfamousexpertsandscholarsatthefieldsofenergyandenvironment.Fiveresearchgroupsareformedincluding6membersoftheNationalAcademyofScienceorTechnologyfromUSA(StanfordUniversity,PrincetonUniv.,UIUC,LeedsUniv.)andEU(LundUniv.,KTH).Cooperatingwithfamousforeignuniversitiesandcorporations,eightjointresearchcentreshavebeensetup.21internationalconferenceshavebeenhostedand9keynotepapershavebeenpresentedatinternationalconferences.Thechairorco-chairofinternationalconferenceshasbeentakenfor12times.
+Academicpapersandpatents:
+Over1059academicpapershavebeenpublishedinwhichtwohundredpapersareindexedbytheScienceCitationIndex(SCI)andmorethanfivehundredpapersareindexedbytheEngineeringIndex(EI).15monographshavebeenpublished.31nationalinventionpatentshavebeenauthorizedbytheStateIntellectualPropertyOfficeofChina,andtwoofwhichisachievedasnationalexcellentpatent.11registrationofsoftwarehavebeenauthorized.etc.
+Mainmonographsandbookslist:
+1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《CombustiondiagnosticandMeasurementTechnologyforutilityboiler》,KefaCen,HydraulicandelectricengineeringPress,ISBN7-120-00007-1/TK&bull;4,1981.(NationalExcellentTextbookAward)
+2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《TheoryandTechnologyofGas-solidSeparation》,KefaCen,MingjiangNi,JianghuaYan,&nbsp;ZhongyangLuoetal,ZhejiangUniversityPress,ISBN7-308-02095-9/TK&middot;011,1999.(NationalExcellentMonographAward)
+3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《CombustionHydrodynamics》,KefaCen，JianrenFang，HydraulicandElectricEngineeringPress,ISBN7-120-01348-3/TK&bull;2291990,(Excellenttextbooksecond-classawardofDOE-DepartmentofEnergyin1995).
+4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《AdvancesinPowerEngineering》（KefaCen，S.DavidLou），InternationalAcademicPublishes.ISBN7-80003-190-X/TK&bull;17,1992
+5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《PreventionPrincipleandCalculationonFouling/Slagging/Abrasion/Corrosionofboilerandheater》,KefaCen,JianrenFang,LuochanShen,ZuoheChi,SciencePress,ISBN7-03-004129-1/TK&bull;11.1994.
+6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《DesignandOperationofCirculatedFluidizedBedBoiler》,P.Basuetal,Translators,SciencePress,ISBN7-03-003926-2/TK&middot;10,1994.1
+7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《TheoryandApplicationonFlow/heattransfer/combustionandgasificationofcoalwaterslurry》,KefaCen,QiangYao,XinyuCao,XiangZhaoetal,ZhejiangUniversityPress,ISBN7-308-01837-7/TK&bull;006.1997
+8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《Theory,DesignandOperationofCoalFiredCirculatedFluidizedBedBoiler》,KefaCen,MingjiangNi,ZhongyangLuoetal,ElectricityPowerPress,ISBN7-80125-458-9,1997
+9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《TheoryandTechnologyofGas-solidSeparation》,KefaCen,MingjiangNi,JianghuaYan,ZhongyangLuoetal，ZhejiangUniversityPress,ISBN7-308-02095-9/TK&middot;011,1999
+10.&nbsp;《BoilersandBurners》（P.Basu,KefaCen,L.Jestin），SpringerPublisher,1999
+11.&nbsp;《Operationsafetyandoptimizationofutilityboiler》,KefaCen,HaoZhou,ZuoheChi,ElectricPowerPress,ISBN978-7-5083-1006-0.2002
+12.&nbsp;《CombustionTheory》,KefaCen,QiangYao,ZhongyangLuo,XuantianLi,ZhejiangUniversityPress,ISBN7-308-02629-9/O.2572002.12
+13.&nbsp;《CombustionTheoryandPollutantsControl》,KefaCen,QiangYao,ZhongyangLuo,etal，MechanicalIndustryPress,ISBN7-111-14022,2004
+14.&nbsp;《Polygenerationtechnologyofheat/power/gasbycoalandapplication》,ZhongyangLuo,QinhuiWang,MengxiangFang,KefaCen.ChemicalIndustryPress,ISBN7-5025-5423-8,2004.
+15.&nbsp;《IncinerationtechnologyandapplicationonWasharyTailingsandsludge，ChemicalIndustryPress,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2006,ISBN7-5025-7598-7.
+Typicalacademicpapers:
+1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TuXin,YanJianhua,YuLiang,CenKefa,Ch&eacute;ronBruno.Thenatureoffluctuationsinadoublearcargon-nitrogenplasmajet,APPLIEDPHYSICSLETTERS2007,91(13):Art.No.2007,131501.[SCI/EI,IF=3.977]
+2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HuaishengXue,JianrenFan,Hong,RH,Hu,YC.Characteristicboilingcurveofcarbonnanotubenanofluidasdeterminedbythetransientcalorimetertechnique.APPLIEDPHYSICSLETTERS.2007,90(18),Art.No.184107.[SCI/EI,IF=3.977]
+3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JunCheng,JunhuZhou,JianzhongLiu,ZhijunZhou,ZhengyuHuang,KefaCen.Sulfurremovalathightemperatureduringcoalcombustioninfurnaces:Areview.ProgressinEnergyandCombustionScience.2003,29(5):381-405.[SCI/EI,IF=2.963]
+4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;KefaCen,JianhuaYan,QunxingHuangandYongChi,DongLiu,FeiWang.NoncontacttemperaturemeasurementbymeansofCCDcamerasinparticipatingmedium.OpticsLetters(Acceptable)
+5.&nbsp;&nbsp;&nbsp;&nbsp;
+			
+				
+			Researchwork
+			
+			CleanCoalCombustionandGasification,NewenergyandrenewableenergyUtilization,PolygenerationandComprehensiveUtilizationofEnergyResources,BiomassGasification&Bio-Oil,WasteIncinerationandPollutionControl(Sludge,MunicipalSolidWastesandSlurry)
+coalslurrycombustiontechnologyinsteadofoil,simultaneousremovalofmulti-pollutants(SOx,NOx,PAHs,Hg,HCl,HF,Dioxins,HeavyMetal,etc.)duringcoal/Biomass/MSWcombustionandgasification,Hydrogen(byBiomass,CoalorSulfur-Iodine(SI)Cycle),MultiphaseFlowNumericalSimulation(DNS,DES,LES),advancedmeasurementstechniquesanddiagnosticstheoryandmethodsforcombustion
+
+			
+				
+			Contact
+			
+			Phone:86-571-87952034(o)
+			E-mail:kfcen@zju.edu.cn
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:kefacen
+		Units:InstituteforThermalPowerEngineering
+		Title:AcademicianofChineseAcademyofEngineering
+		Myhomepagehasbeenvisited4872times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	
+
+
+Youarevisitor:4872
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

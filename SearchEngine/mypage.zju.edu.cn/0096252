@@ -1,0 +1,223 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0096252";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0096252&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;
+学历及工作经历
+2000.12~现在浙江大学动物科学学院副教授
+1998.09~2000.11浙江大学动物科学学院讲师
+1996.03~1998.09浙江农业大学动物科学学院讲师
+1993.03~1996.02杭州市水产技术推广站工程师
+1988.09~1993.02杭州市水产科学研究所助理工程师
+1986.09~1988.08中国科学院水生生物研究所硕士研究生
+1982.09~1986.07华中农业大学水产系本科生
+
+主要学术任职
+
+中国水产学会鱼类学会委员
+
+中国水产学会贝类学会委员
+
+《淡水渔业》杂志审稿者
+奖励情况
+
+(1)2005年12月：获浙江大学圣雄学生工作管理定向奖；
+(2)2004年12月：《黄鳝苗种繁育及健康养殖技术研究与示范》成果，获浙江省人民政府科技进步奖三等奖（第一完成人）；
+(3)1993年12月：《山区塘库养鱼高产高效技术推广》成果，获浙江省人民政府&ldquo;渔业丰收奖&rdquo;一等奖（第一完成人）；
+
+
+			
+				
+			工作研究领域
+			
+			1．名特水产动物苗种繁育及健康养殖技术：主要从事黄鳝、澳洲宝石鲈、中华鳖、青虾、南美白对虾等名特水产品的苗种繁育及健康养殖技术研究；
+
+2．名特水产动物重要经济性状基因克隆与分子遗传育种：主要从事珍珠蚌（三角帆蚌）、海水虾蟹类等名特水产动物的种质资源、分子遗传与育种、重要经济性状基因克隆等方面研究工作。
+
+			
+					
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：舒妙安
+		单位：动物科学学院特种经济动物科学系
+		职称：副教授
+		我的主页共被访问了1571次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

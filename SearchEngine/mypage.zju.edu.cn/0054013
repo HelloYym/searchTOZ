@@ -1,0 +1,202 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0054013";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0054013&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			徐规（1920-），初名毓珠，字仲矩、挈民，再技平阳（今苍南）人。
+
+1943年浙江大学史地系毕业，1946年4月获浙江大学文学硕士学位，毕业后留史地系任教。曾先后在温州中学、浙江师范学院、杭州大学、浙江大学任教。1979年任杭大宋史研究室主任，1983年任杭大古籍研究所副所长，担任杭大学术委员会委员、再浙大中国古代史研究所名誉所长。学术兼职有中国宋史研究会副会长、岳飞研究会会长、再技历史学会理事等。1978年越级晋升教授，1986年通过为中国古代史专业博士生导师，1992年起享受国务院特殊津贴，1997年被国家人事部批准为杰出高级专家，暂缓退休，继续从事研究著述工作，2002年2月获浙江大学竺可桢奖。
+中国宋史研究是徐规教授的学科专长，偏重史事考证、古籍整理研究。已出版史学专著和论文集多种：《李焘年表》（大学毕业论文，原载中华书局《文史》第2缉、4缉、16缉；经整理后，被中华书局收入点校本《续资治通鉴长编》第一册中，1995年版）、《王禹偁事迹著作编年》（专著，中国社会科学出版社1982年版；又列入浙大学术精品文丛，2003年商务印书馆重版）、《全宋诗。王禹偁诗》点校、缉佚（《全宋诗》第2册，北京大学出版社1991年版；补正后，1995年重版）、《仰素集》（杭州大学出版社1999年版）、《建炎以来朝野杂记》（点校、缉佚本，中华书局，上下册，2000年版，先后两次印刷）、《朱仙镇之役与岳飞班师考辩》（《杭州大学学报》，1978年第一期）、《&ldquo;杯酒释兵权&rdquo;说献疑》（《文史》第14缉，1982年7月出版）、《宋史地理志补正》（《历史地理》第14缉，1998年9月出版）。还在《历史研究》、《文献》、《书品》、《浙江大学学报》等刊物上发表学术论文多篇。总计个人著述字数在百万字以上。
+徐规教授的学术研究还多次获奖：《李焘年表》1943年获全国大学生毕业论文优等奖；《王禹偁事迹著作编年》分别获1978、1982年度浙江省和杭州市哲学社会科学优秀成果一等奖。徐规的研究成就在《中国史研究动态》、《宋史研究通讯》、《浙江大学报》、《温州都市报》等报刊是均有专文评价。
+			
+				
+			联系方式
+			
+			电话：87982839			电子信箱：rwls@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：徐规
+		单位：人文学院历史学系
+		职称：教授
+		我的主页共被访问了2282次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

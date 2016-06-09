@@ -1,0 +1,213 @@
+
+
+
+
+
+wangjianping-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0094213";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	wangjianping
+
+
+	永久链接:http://mypage.zju.edu.cn/0094213&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			<pclass="MsoListParagraph"style="margin-top:6.0pt;mso-para-margin-top:.5gd;
+line-height:150%"><spanstyle="font-family:宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;
+mso-hansi-font-family:&quot;TimesNewRoman&quot;">王剑平博士，教授，博士生导师，主要从事智能农业装备、高压电场在食品及农业上的应用、生物传感器与测试技术、食品工程等领域的教学与科研工作，先后承担了国家自然科学基金、国家科技支撑计划和863<spanstyle="font-family:宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;mso-hansi-font-family:
+&quot;TimesNewRoman&quot;">子项目等多项，<spanstyle="font-family:宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;mso-hansi-font-family:
+&quot;TimesNewRoman&quot;">获国家发明专利10余<spanstyle="font-family:宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;mso-hansi-font-family:
+&quot;TimesNewRoman&quot;">项，发表SCI论文20余篇。
+<pclass="MsoListParagraph"style="margin-top:6.0pt;mso-para-margin-top:.5gd;
+line-height:150%"><spanstyle="font-family:宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;mso-hansi-font-family:
+&quot;TimesNewRoman&quot;">主<spanstyle="font-family:宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;mso-hansi-font-family:
+&quot;TimesNewRoman&quot;">讲课程：生物传感器与测试技术（合作开课）、食品工程原理、数据分析与SAS软件应用。
+			
+				
+			工作研究领域
+			
+			1.农业装备智能控制技术
+2.高压脉冲电场食品杀菌技术与装备、高压电场技术在农业上的应用
+3.生物传感器与食品安全。
+			
+				
+			联系方式
+			
+			电话：0571-88982350			电子信箱：jpwang@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：王剑平
+		单位：生物系统工程与食品科学学院生物系统工程系
+		职称：教授
+		我的主页共被访问了1571次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

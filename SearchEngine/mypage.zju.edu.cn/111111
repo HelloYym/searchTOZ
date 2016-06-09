@@ -1,0 +1,295 @@
+
+
+
+
+
+楼章华-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0096202";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	楼章华
+
+
+	永久链接:http://mypage.zju.edu.cn/111111&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;
+楼章华，男，汉族，1963年生，浙江东阳人，共完成包括&ldquo;973&rdquo;、国家自然科学重点基金、国家科技攻关等各类研究项目70多项，研究总经费4600多万，在《JournalofOceanologyandLimnology》、《ActaGeologicaSinica》、《ChineseJournalofGeochemistry》、《地质学报》、《地质科学》、《矿物学报》、《石油学报》和《沉积学报》等刊物发表论文110多篇。
+&nbsp;
+主要研究方向：
+1.油气地质与勘探
+&nbsp;&nbsp;&nbsp;复杂地区油气保存条件综合评价与区域优选，
+&nbsp;&nbsp;&nbsp;流体作用与油气成藏动力学过程，
+&nbsp;&nbsp;&nbsp;储层地质学与沉积学，地震地层学，
+&nbsp;&nbsp;&nbsp;海洋油气资源综合评价与区域优选
+2.沉积学与沉积地球化学
+&nbsp;&nbsp;&nbsp;河流湖泊与海洋沉积学，
+&nbsp;&nbsp;&nbsp;河口海岸沉积地球化学
+3.流域水文水资源与环境
+&nbsp;&nbsp;&nbsp;钱塘江流域水文水资源与环境，
+&nbsp;&nbsp;&nbsp;地下水水文地质地球化学
+4.非常规油气资源评价
+&nbsp;&nbsp;&nbsp;页岩气资源评价与区域优选
+&nbsp;&nbsp;&nbsp;致密砂岩气分布富集规律与气水关系
+&nbsp;
+技术储备
+1：含油气沉积盆地流体历史分析技术
+2：含油气沉积盆地储层成因与储层评价技术
+3：油气成藏&mdash;保存条件综合评价与区域优选技术
+4：储层连通性与流体分布分析技术
+5：油田水体类型识别技术
+&nbsp;
+&nbsp;经历：
+2011-现今：浙江大学海洋学院教授博导
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江大学海洋地质与资源研究所所长
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江大学海相油气研究中心主任
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;杭州市政协常委
+&nbsp;1996-2010年：浙江大学水文水资源研究所教授所长
+&nbsp;1994-1996年：中国科学院地球化学研究所博士后
+&nbsp;1990-1993年：成都理工大学沉积研究院理学博士
+&nbsp;1988-1994年：成都理工大学能源学院任教
+&nbsp;1985-1988年：成都理工大学硕士
+&nbsp;1981-1985年：成都理工大学学士
+&nbsp;
+团队成员：
+楼章华，教授，石油地质，沉积学，地震地层学，博士生导师，海洋地质与资源研究所所长
+夏枚生，教授，地球化学，硕士生导师，海洋地质与资源研究所副所长
+金爱民，副教授，石油地质，硕士生导师，海洋地质与资源研究所副所长
+朱&nbsp;&nbsp;蓉，副研究员，石油地质，水文地质，硕士生导师
+陈雪刚，副教授，沉积地球化学，海底资源，硕士生导师
+芦庆梅，副研究员，地质与地球物理
+邱建立，副教授，沉积学，硕士生导师
+李&nbsp;梅，讲师，石油地质，海洋地球化学
+张世霞，博士后，河口海岸学
+潘发斌，博士后，岩石学，地球化学
+杨晓顺，实验员，岩石学，矿物学
+田炜卓，办公室主任，数据库与图像处理
+张慧婷，技术员，数据库与图像处理
+&nbsp;
+研究生（硕士、博士）招生方向：
+1.石油地质方向
+&nbsp;&nbsp;&nbsp;油气成藏&mdash;保存条件综合评价与区域优选；
+&nbsp;&nbsp;&nbsp;储层地质学与储层沉积学，地震地层学；
+&nbsp;&nbsp;流体作用与油气成藏&mdash;富集&mdash;保存；
+&nbsp;&nbsp;&nbsp;中东、非洲地区石油地质特征与区域优选
+2.河口海岸沉积学与沉积地球化学方向
+&nbsp;&nbsp;&nbsp;河口海岸沉积动力学；
+&nbsp;&nbsp;&nbsp;河口海岸沉积地球化学与环境演变；
+&nbsp;&nbsp;&nbsp;长江口&mdash;舟山现代沉积实验
+&nbsp;研究生（硕士、博士）招生说明：
+&nbsp;欢迎地质学、地球化学、地质资源勘查、地球物理勘探、海洋地质等方向的同学报考，同时接收免试研究生。
+&nbsp;&nbsp;楼章华教授团队招收硕士研究生10~12人，其中接收校外免试研究生6~8人。
+&nbsp;海洋地质与资源研究所共招收硕士研究生20~22人，其中接收免试研究生10~12人。
+&nbsp;&nbsp;博士研究生招生，海洋资源与环境二级学科，叶瑛教授、楼章华教授、王英民教授、陈望平教授、陶春辉教授、陈建芳教授等团队，联合招收博士研究生16~18人。
+			
+				
+			工作研究领域
+			
+			主要研究方向
+
+1.海洋海相油气勘探：
+
+2.沉积学与沉积地球化学：
+
+3.流域水文水资源与环境。
+
+
+
+
+
+			
+				
+			联系方式
+			
+			电话：0571—88208886（O）；13605803446			电子信箱：iwr@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：楼章华
+		单位：浙江大学海洋学院
+		职称：教授
+		我的主页共被访问了34512次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	团队合作
+	工作研究项目
+	近期重点
+	发表论文
+	本科专业理解
+	潜心学问与学生约
+	学术交流（讲座报告）
+	研究成果
+	研究生招生说明
+	实验室介绍
+	奖励荣誉
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

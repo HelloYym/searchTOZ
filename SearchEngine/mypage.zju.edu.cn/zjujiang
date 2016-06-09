@@ -1,0 +1,221 @@
+
+
+
+
+
+ZJU-Jiang-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0093290";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	ZJU-Jiang
+
+
+	永久链接:http://mypage.zju.edu.cn/zjujiang&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+杭州大学化学系，理学硕士
+澳大利亚Murdoch大学学习两年
+浙江大学副教授，硕士生导师
+			
+				
+			工作研究领域
+			
+			主要从事多相催化和环境催化研究，注重理论研究和应用开发相结合。
+1.等离子体协同CuO/CeO2/TiO2-Al2O3新催化体系脱除NOX+CH4的研究，非热等离子体与新催化体系耦合脱除NOx的实用性研究。
+2.生物质能源的研发：主要研发非常规工艺条件下生物油催化提质研究以及生物质能源有效利用的基础研究。
+3.环境催化:主要从事工业有机废气、汽车和摩托车尾气净化催化剂的研究,已开发了含硫有机废气净化工业催化剂,并获国家发明专利。
+4.纳米材料:含TiO2的纳米催化材料的合成,纳米TiO2基催化剂对NOx的选择性催化还原和非选择性催化还原课题正在研究中。
+5等离子体与催化耦合：等离子体活化促进纳米CexTi1-xO2催化剂脱除NOx研究。
+6.稀土材料:含稀土的新催化材料(CexZr1-xO2和CexTi1-xO2固溶体)的合成与研究。
+7.　精细化工:(a)非氧条件下的异戊二烯二聚;(b)低碳烃氧化脱氢芳构化;(c)四氯化
+碳加氢制氯仿。
+
+
+			
+				
+			联系方式
+			
+			电话：13067902559			电子信箱：jxyuan7812@126.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：蒋晓原
+		单位：化学系
+		职称：副研究员（自然科学）
+		我的主页共被访问了9941次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		专利成果
+	工作研究项目
+	实验室介绍
+	发表论文
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

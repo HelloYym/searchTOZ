@@ -1,0 +1,245 @@
+
+
+
+
+
+0004183-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0004183";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	0004183
+浙江大学高速旋转机械工程研究中心
+
+	永久链接:http://mypage.zju.edu.cn/HiRoMa&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			Dr.&nbsp;Xuan&nbsp;Haijun,
+High-speedRotatingMachineryLaboratory(Yuquan),
+High-speedRotatingMachineryEngineeringResearchCenter(LiangzhuBase),
+ZhejiangUniversity,
+38&nbsp;Zheda&nbsp;Road,&nbsp;Hangzhou&nbsp;310027,&nbsp;Zhejiang,&nbsp;China.
+Tel/Fax:086-0571-87951223.
+Email:&nbsp;marine@zju.edu.cn
+&nbsp;
+宣海军博士、副教授
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;实验室及工程中心负责人
+
+单位：浙江大学高速旋转机械实验室(玉泉).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江大学高速旋转机械工程研究中心(五常基地)[筹].
+地址：浙江.杭州.西湖区.浙江大学玉泉校区教4-化机小楼(310027).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江杭州余杭区瓶窑镇凤都工业园区富豪路2号和悦工业园8＃楼(311115).
+电话/传真:086-0571-87951223.
+&nbsp;
+实时实验室信息更新：
+新浪博客：http://blog.sina.com.cn/u/2091744940
+
+Dr's&nbsp;major&nbsp;research&nbsp;areas&nbsp;are&nbsp;application&nbsp;solid&nbsp;mechanics&nbsp;and&nbsp;process&nbsp;equipment&nbsp;failure&nbsp;analysis.&nbsp;He&nbsp;got&nbsp;his&nbsp;doctor&nbsp;degree&nbsp;June&nbsp;2004&nbsp;from&nbsp;Zhejiang&nbsp;University&nbsp;in&nbsp;the&nbsp;field&nbsp;of&nbsp;highspeed&nbsp;rotating&nbsp;machinery,was&nbsp;a&nbsp;lectuer&nbsp;in&nbsp;Zhejiang&nbsp;University&nbsp;from&nbsp;September&nbsp;2004,&nbsp;wasanassociateprofessorandthedirectorofHiRoMaLab.ZJUfrom&nbsp;November2006.
+&nbsp;
+Majorresearchareas:
+1.&nbsp;高速旋转机械振动及控制
+&nbsp;&nbsp;&nbsp;&nbsp;VibrationcontroltechnologyforHigh-speedrotatingmachinery.
+2.&nbsp;高速旋转机械设计原理及工程应用
+&nbsp;&nbsp;&nbsp;&nbsp;Designandapplicationofhigh-speedrotatingmachinery.
+3.&nbsp;高速转子动力学
+&nbsp;&nbsp;&nbsp;&nbsp;Rotordynamicsforhigh-speedrotatingmachinery.
+4.&nbsp;结构撞击动力学响应
+&nbsp;&nbsp;&nbsp;&nbsp;Impactedstructuredynamicsresponse.
+5.&nbsp;固体力学及有限单元技术应用
+&nbsp;&nbsp;&nbsp;&nbsp;Solidmechanicsandapplicationoffiniteelementmethod.
+6.&nbsp;线性及非线性断裂力学
+&nbsp;&nbsp;&nbsp;&nbsp;Linearandnonlinearfracturemechanics.
+7.&nbsp;工程失效分析
+&nbsp;&nbsp;&nbsp;&nbsp;Engineeringfailureanalysis.
+			
+				
+			工作研究领域
+			
+			高速旋转机械
+			
+				
+			联系方式
+			
+			电话：0571-87951223			电子信箱：marine@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：宣海军
+		单位：工学部化工系化机所高速旋转机械实验室
+		职称：副教授
+		我的主页共被访问了32889次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	实验室介绍
+	技术服务与开发
+	学术报告
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,219 @@
+
+
+
+
+
+周炼清在浙大-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0004198";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	周炼清在浙大
+
+
+	永久链接:http://mypage.zju.edu.cn/zhoulianqing&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			2004年6月获浙江大学博士学位，博士毕业后留所工作，现主要从事农业遥感与信息技术方面的的教学、科研和成果推广工作。
+先后主持和参与国家支撑计划、国家&ldquo;863&rdquo;计划课题、国家自然科学基金、浙江省重点科技计划项目等课题研究。目前主持一项国家自然科学基金、二项863子课题、一项&ldquo;十二五&rdquo;国家支撑计划课题，以及多项横向课题。已经发表有关论文30余篇，SCI和EI收录7篇，科技奖励3项，授权专利（实用新型）3项。
+
+
+			
+				
+			工作研究领域
+			
+			农业信息化
+农业物联网
+植被和土壤近地遥感
+农业遥感与信息技术
+信息技术在资源与环境领域的应用研究
+			
+				
+			联系方式
+			
+						电子信箱：LianQing@zju.edu.cnQQ:173991090			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：周炼清
+		单位：环境与资源学院农业遥感与信息技术应用研究所
+		职称：副研究员
+		我的主页共被访问了4487次
+标签：RemoteSensing茶学农业资源利用(专业学位)农业资源利用农业遥感与信息技术地理信息系统地理遥感农业信息化	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+	专利成果
+	奖励荣誉
+	实验室介绍
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	校网博客
+湖南红网
+谷歌地球
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

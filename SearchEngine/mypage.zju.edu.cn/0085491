@@ -1,0 +1,210 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0085491";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0085491&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			1985年7月毕业于杭州大学生物系生化微生物专业，获学士学位。1985年7月工作于浙江医科大学（现浙江大学医学院）生物化学教研室至今。1991年在中科院生化所学习，1994-1998年在原浙医大读研究生并获硕士学位。现任浙江大学医学院分子与细胞生物学教学实验中心副主任，浙江省生物化学与分子生物学学会理事。&nbsp;&nbsp;&nbsp;&nbsp;主持和参与的主要科研项目有：国家&ldquo;863&rdquo;项目&ldquo;糖尿病一体化检测微系统开发&rdquo;、省自然科学基金项目&ldquo;壳寡糖巨噬细胞结合蛋白及免疫调节机理的研究&rdquo;，省科技厅社会发展基金项目&ldquo;膀胱癌体外检测试剂盒的开发研究&rdquo;，省海洋局重点项目&ldquo;壳寡糖抗肿瘤注射液开发&rdquo;和省教育厅项目&ldquo;壳寡糖的制备工艺和壳寡糖对巨噬细胞基因表达的影响&rdquo;另外还参与了异常血红蛋白一级结构分析，人参芦皂甙抗衰老作用的研究，细胞色素P450基因多态性的研究。近年来在各类学术期刊上发表学术论文二十余篇，并作为主要参与人获省科技进步三等奖两次，省卫生厅科技进步三等奖一次。&nbsp;&nbsp;&nbsp;&nbsp;十多年来一直未间断过教学工作，主要承担研究生、七年制和五年制学生的生物化学、分子生物学、当代实验技术、临床生化、生化与分子生物学实验技术等课程的教学工作，具有较丰富的教学经验。
+			
+				
+			工作研究领域
+			
+			1.基因多态性的研究
+2.糖生物学
+
+
+			
+				
+			联系方式
+			
+						电子信箱：zhaoluhang@263.net			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：赵鲁杭
+		单位：基础医学系
+		职称：副教授
+		我的主页共被访问了5423次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	研究成果
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

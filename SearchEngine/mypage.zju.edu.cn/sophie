@@ -1,0 +1,217 @@
+
+
+
+
+
+宁静以致远-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0010071";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	宁静以致远
+
+
+	永久链接:http://mypage.zju.edu.cn/sophie&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+
+
+
+浙江大学金融学教授、博士生导师。美国纽约市立大学博士，浙江省&ldquo;千人计划&rdquo;入选者。研究领域主要涉及公司金融、公司治理、风险管理、衍生证券。已有20多篇学术论文发表于SSCI收录期刊，其中包括JournalofBanking&amp;Finance，JournalofCorporateFinance，JournalofEmpiricalFinance，JournalofDerivatives,JournalofFuturesMarkets，JournalofFinancialServicesResearch，Pacific-BasinFinanceJournal等金融学权威期刊。曾获得英国Emerald出版集团年度论文&ldquo;高度赞誉奖&rdquo;，在国际金融管理学会（FMA）等重要学术会议上多次宣读论文，并担任20多本国际学术期刊审稿人或特约主编。
+
+&nbsp;
+
+
+			
+				
+			工作研究领域
+			
+			公司金融、公司治理、风险管理、衍生证券、中国金融市场等
+			
+				
+			联系方式
+			
+						电子信箱：sophiehuangying@163.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：黄英
+		单位：经济学院金融学系
+		职称：教授、博士生导师
+		我的主页共被访问了31838次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		主要学术论文
+	主要学术会议
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	国际金融管理学会(FMA)
+美国金融学学会(AFA)
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

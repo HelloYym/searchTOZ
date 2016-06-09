@@ -1,0 +1,254 @@
+
+
+
+
+
+Hao-CheHo(Howard)-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0012080";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	Hao-CheHo(Howard)
+WELCOMETOHOWARD'SHOME
+
+	Permanentlink:http://mypage.zju.edu.cn/en/howard&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			Blog
+
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			
+Education
+TheUniversityofIowa,IowaCity,U.S.A.
+&nbsp;&nbsp;&nbsp;&nbsp;PhD.CivilandEnvironmentalEngineering&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2005-2010
+
+
+
+NatioanlTaiwanUniversity,Taipei,China
+&nbsp;&nbsp;&nbsp;&nbsp;M.S.CivilEngineering&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2000-2002
+
+
+
+NationalCheng-KungUniversity,Tainan,China
+&nbsp;&nbsp;&nbsp;&nbsp;B.S.HydraulicandOceanEngineering&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1996-2000
+
+&nbsp;&nbsp;
+
+ProfessionalExperiences
+2012-Present:
+ZhejiangUniversity,Hangzhou,China
+&nbsp;&nbsp;&nbsp;&nbsp;AssistantProf.,DepartmentofOceanScienceandEngineering
+
+
+
+2010-2012:
+IIHR-Hydroscience&amp;Engineering,&nbsp;IowaCity,USA
+&nbsp;&nbsp;&nbsp;&nbsp;Post-Doct.Associate,DepartmentofCivilandEnvironmentalEngineering
+
+
+
+2004-2005:
+NationalTaiwanUniversity,Taipei,China
+&nbsp;&nbsp;&nbsp;&nbsp;ResearchAssistant,HydrotechResearchInstitute
+&nbsp;
+
+ResearchInterests
+&#9658;Sediment-FlowInteraction;Sedimentationprocesses,
+
+&#9658;HydraulicModeling,
+
+&#9658;NumericalModeling,
+
+&#9658;Non-IntrusiveMeeasurementTechniquesinHydraulics
+&nbsp;&nbsp;&nbsp;&nbsp;andFluidMechanics(LSPIV,PIV,ADCP),
+
+&#9658;GISApplicationsinHydraulics
+
+
+
+
+var
+
+&nbsp;
+&nbsp;
+var_clustrmaps=;(function())();
+			
+				
+			Contact
+			
+			Phone:+86-18858111784
+			E-mail:howard-ho@zju.edu.cn
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:Hao-CheHo
+		Units:OceanCollege
+		Title:AssistantProfessor
+		Myhomepagehasbeenvisited9362times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+RecentPublications
+Real-TimeLSPIV
+CulvertModeling
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	DOSE
+IIHR
+DataandInformationSystem
+TheUniversityofIowa
+
+
+
+Youarevisitor:9362
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

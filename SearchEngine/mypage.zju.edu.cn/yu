@@ -1,0 +1,211 @@
+
+
+
+
+
+虞小鹏-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0006283";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	虞小鹏
+Dr.Yu'shomepage
+
+	永久链接:http://mypage.zju.edu.cn/yu&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			虞小鹏：博士，1998年本科毕业于浙江大学信息学院光电系，2005年博士毕业于新加坡南洋理工大学电气与电子工程学院。2006年9月进入浙江大学超大规模集成电路设计研究所工作。2008年至2009年曾作为荷兰TU/Eindhoven的访问学者在Philips总部的研发中心分三阶段从事60GHz超高频率低功耗的CMOS射频集成电路研究。他也是2009年欧盟访问学者资助-玛丽居里学者(MarieCurieInternationalIncomingFellowship)的获得者，自2009年8月起在TU/Eindhoven(PhilipsResearch)从事了近1年60GHzMIMO电路与系统的研究。虞博士2003年至今已在国际学术期刊和会议上共发表或者联合发表了超过50&nbsp;篇学术论文，其中超过30篇期刊文章被SCI收录。他也担任部分国际学术期刊，如IEEEMWCL,IEEETMTTs,IETElectronicsLetters,IETCDS的审稿人，以及部分国际会议如TheInternationalSymposiumonIntegratedCircuits(ISIC)的specialsessionchair和technical-program-committee(TPC)成员。
+			
+				
+			工作研究领域
+			
+			主要从事射频集成电路设计及超高速数模混合电路及相关应用基础问题等方面的研究工作。
+			
+				
+			联系方式
+			
+			电话：0571-87951679			电子信箱：xpyu@vlsi.zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：虞小鹏
+		单位：电气学院
+		职称：副教授
+		我的主页共被访问了24861次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	专利成果
+	奖励荣誉
+	实验室介绍
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

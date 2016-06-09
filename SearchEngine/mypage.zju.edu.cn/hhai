@@ -1,0 +1,210 @@
+
+
+
+
+
+黄海的个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0082083";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	黄海的个人主页
+浙大黄海
+
+	永久链接:http://mypage.zju.edu.cn/hhai&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			黄海，男，1959年生，浙江宁波人，博士，浙江大学生物医学工程与仪器科学学院教授，博士生导师。1982毕业于浙江大学科仪系自仪专业，毕业后留校任教至今。2002和2007年分别在丹麦技术大学（DTU）和西澳大学（UWA）作合作研究。主要研究方向为声与振动信号处理、嵌入式仪器系统、工业机器设备状态监测和故障-安全计算机系统。主持30多项包括国家自然科学基金、国家863、浙江省自然科学基金、浙江省重大专项、浙江省国际合作、省部级科技攻关和企业的研究开发项目。发表论文50余篇、其中SCI/EI收录20余篇，获奖2项。主要课程有【数字信号处理】（本科生）、【现代信号处理】【硕士研究生】和【信号处理系统专题】（博士研究生）。
+			
+				
+			工作研究领域
+			
+			声与振动信号处理，设备状态监测与故障诊断，嵌入式仪器系统，故障-安全计算机系统
+
+
+			
+				
+			联系方式
+			
+			电话：87951175			电子信箱：hhai@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：黄海
+		单位：生物医学工程与仪器科学学院仪器科学与工程学系
+		职称：教授
+		我的主页共被访问了20139次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	个人经历
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

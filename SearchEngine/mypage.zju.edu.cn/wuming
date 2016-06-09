@@ -1,0 +1,220 @@
+
+
+
+
+
+吴明-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0095458";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	吴明
+
+
+	永久链接:http://mypage.zju.edu.cn/wuming&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			1988.9-1995.7&nbsp;&nbsp;浙江医科大学七年制临床医学专业，毕业获医学学士、医学硕士学位
+1995.8-1998.9&nbsp;&nbsp;&nbsp;浙江大学医学院附属第二医院胸心外科助教、住院医师
+1998.9-2003.12浙江大学医学院附属第二医院胸心外科讲师、主治医师
+1998.9-2002.3&nbsp;&nbsp;&nbsp;浙江大学外科学（胸心外科）专业，毕业获医学博士学位（PhD,MD）
+2002.1-2003.1&nbsp;&nbsp;德国基尔大学心脏外科中心访问学者（13个月）
+2003.12-2008.12&nbsp;&nbsp;浙江大学医学院附属第二医院胸心外科副教授，副主任医师、硕士生导师
+2008.12-2009.12&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江大学医学院附属第二医院胸心外科副主任、主任医师
+2008.12-2009.12&nbsp;卫生部科教司挂职锻炼（12个月）
+2010.1-至今&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江大学医学院附属第二医院胸外科副主任、主任医师、博士生导师
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江省胸心外科学会委员
+2014-至今&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;中国医师协会胸外科分会委员、浙江省医师协会胸外科分会委员
+
+2014.1-2014.4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;加拿大多伦多总医院胸外科（TorontoGeneralHospital）访问学者（3个月）
+2015-年至今&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江省抗癌协会肺癌专委会委员
+
+
+&nbsp;
+			
+				
+			工作研究领域
+			
+			微创胸外科、食管癌肺癌临床及基础研究、急性肺损伤及肺保护。
+			
+				
+			联系方式
+			
+						电子信箱：iwuming@hotmail.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：吴明
+		单位：临床医学二系
+		职称：主任医师
+		我的主页共被访问了801次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

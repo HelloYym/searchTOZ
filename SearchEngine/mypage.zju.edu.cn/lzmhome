@@ -1,0 +1,237 @@
+
+
+
+
+
+陆哲明教授的个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0009004";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	陆哲明教授的个人主页
+路漫漫其修远兮，吾将上下而求索
+
+	永久链接:http://mypage.zju.edu.cn/lzmhome&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			陆哲明教授、博导、博士
+浙江大学航空航天学院航天电子工程研究所副所长&nbsp;
+杭州市西湖区浙江大学玉泉校区教五5层，310027
+--------------------------------------------------------------------------------
+教育经历
+1988年9月&ndash;1991年7月&nbsp;浙江省东阳市东阳中学&nbsp;&nbsp;高中生
+1991年9月&ndash;1995年7月&nbsp;哈尔滨工业大学&nbsp;本科生/电气工程
+1995年9月&ndash;1997年7月哈尔滨工业大学&nbsp;硕士研究生/电气工程
+1997年9月&ndash;2001年4月哈尔滨工业大学&nbsp;博士研究生/信号与信息处理
+2001年11月&ndash;2003年11月哈尔滨工业大学&nbsp;博士后/电气工程
+&nbsp;--------------------------------------------------------------------------------
+研究工作经历
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;陆哲明，男，工学博士，浙江大学航空航天学院教授、博导、副所长。1974年生。2002年哈尔滨市青年科技奖获得者、2003年全国优秀博士学位论文奖获得者、2004年教育部新世纪人才获得者、2005年德国洪堡学者、2006年深圳市特殊津贴专家，2011年浙江省自然科学基金杰出青年基金获得者，发表SCI检索论文109篇，EI单检论文144篇，获省部级科技一等奖1项、二等奖3项、三等奖1项，厅级科技一等奖2项，发明专利授权2项。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;陆博士分别于1995年、1997年和2001年获得哈尔滨工业大学学士、硕士和博士学位。1999年留哈尔滨工业大学任讲师，2000年破格为副教授，2003年破格为教授，2004年评为博士生导师。2004年10月-2006年1月作为洪堡学者赴德国弗莱堡大学作图像检索方向的访问研究。2006年1月回国就职于哈尔滨工业大学深圳研究生院视觉信息分析与处理研究中心主任、教授、博导；2007年2月作为百人计划引进到中山大学信息科学与技术学院任教授、博导；2009年1月引进到浙江大学航空航天学院航天电子工程研究所任教授、博导、副所长。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;陆博士2006年4月起晋升为IEEE高级会员。2005年-2008年担任SCI期刊《InternationalJournalofInnovationComputingandInformationControl》编委（ISSN:1349-4198）。2007年起担任《InternationalJournalofComputerSciencesandEngineeringSystems》执行编辑（ISSN：0973-4406）。2008年起担任《InternationalJournalofInformationAnalysisandProcessing》主编（ISSN：0973-5712）。2006年当选国家十一五计划863专家。2006起陆续担任了IEEEInternationalConferenceonIntelligentInformationHidingandMultimediaSignalProcessing,InternationalWorkshoponDigitalWatermarking（Springer）,IEEEInternationalConferenceonInnovativeComputing,InformationandControl,InternationalConferenceonComputationalIntelligenceandSecurity（Springer）等10多个国际会议宣传主席、分会主席、程序委员会委员。2006年起担任5个IEEE期刊（IP，MM，IFS，KDE，COM）审稿人。2013年起担任国防科工局CCSDS专家，2013年起担任国家科学技术奖励评审专家。
+&nbsp;&nbsp;&nbsp;陆博士长期从事多媒体信号处理、信息隐藏、复杂网络三个领域研究。这三个方面的研究工作并不是孤立的，都是在数字媒体和网络技术飞速发展的背景下展开的。
+			
+				
+			工作研究领域
+			
+			1.多媒体分析与处理（压缩编码、分割、特征提取、感知哈希、分类、聚类、识别、匹配）
+
+2.多媒体信息隐藏（数字水印、保密通信、版权保护、内容认证、数据恢复）
+
+3.航空航天信号处理
+
+4.复杂网络理论与应用
+			
+				
+			联系方式
+			
+						电子信箱：zheminglu@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：陆哲明
+		单位：航空航天学院
+		职称：教授、博导
+		我的主页共被访问了78440次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	专利成果
+	奖励荣誉
+	我的博士生
+	我的硕士生
+	我的本科生
+	SCI论文列表
+	EI期刊论文列表
+	人才招聘
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

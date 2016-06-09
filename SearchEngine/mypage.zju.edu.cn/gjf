@@ -1,0 +1,213 @@
+
+
+
+
+
+郭吉丰-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0090129";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	郭吉丰
+
+
+	永久链接:http://mypage.zju.edu.cn/gjf&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;科研工作主要围绕电机及其相应的机电一体化技术展开，建立了先进驱动技术及其控制、压电驱动与超声电气两个研究室。具体的科研方向和课题为：1、电机控制及其应用。主要研究无刷电机、步进电机和伺服电机及其控制系统。以及基于万向轮的星球车，研发一些自动化的高端装备，目前研发&ldquo;缝纫机无刷电机用控制系统&rdquo;、&ldquo;多电磁阀控制系统&rdquo;、电动轮椅、机器臂应用开发、电子导纱、自动络筒等技术及其产品，重点在制鞋装备和纺织装备等行业；2、非电磁新型驱动技术。研究压电驱动、超声波电机以及其他新型驱动原理和技术，目前主要研究行波型、复合型超声波电机和多自由度球电机，研究这些电机的性能提高、极限环境下的可靠性、新型结构、多自由度位姿检测、高精度的位置／速度伺服控制策略等，承担着国家863计划和军工项目等多项；
+&nbsp;
+			
+				
+			工作研究领域
+			
+			1、电机控制及其应用
+2、机器人机构及其控制
+3、非电磁新型驱动技术
+
+			
+				
+			联系方式
+			
+			电话：0571-87953211,15168205572			电子信箱：gjf@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：郭吉丰
+		单位：电气工程学院电气工程学系
+		职称：教授
+		我的主页共被访问了14931次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+	出版著作
+	研究成果
+	专利成果
+	实验室介绍
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

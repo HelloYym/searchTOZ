@@ -1,0 +1,546 @@
+
+
+
+
+
+浙江大学智能车-博客
+
+
+
+
+
+
+varctxPath="http://mypage.zju.edu.cn";
+varb_handle="smartcar";
+varcfg_weblog="http://mypage.zju.edu.cn/weblog";
+vard=newDate()
+varselyear=d.getFullYear();
+varselmonth=d.getMonth()+1;
+
+
+
+
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	color:#111;
+	margin-right:10px;	
+}
+#mainlinkullia,.tagsa:hover{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+.tagsa{
+	margin-right:10px;
+}
+img{
+	border:none;
+}
+
+
+
+
+
+
+
+
+
+
+	
+		首页
+		帮助
+		登录
+	
+
+
+
+
+
+
+	浙江大学智能车
+
+
+	永久链接:http://mypage.zju.edu.cn/weblog/smartcar&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+
+
+	中文主页
+			博客
+
+
+
+
+
+
+
+
+
+
+			
+				
+
+	
+[1/1]
+首页	上一页下一页末页
+
+	
+
+浏览模式:普通|列表
+
+
+
+
+
+
+		C技巧
+
+作者:韩涛日期:2011-12-12Monday
+
+
+
+1，防止一个头文件被重复包含#ifndefCOMDEF_H#defineCOMDEF_H//头文件内容#endif2，重新定义一些类型，防止由于各种平台和编译器的不同，而产生的类型字节数差异，方便移植。typedefunsignedcharboolean;/*Booleanvaluetype.*...
+查看更多...
+
+
+
+
+
+分类:程序设计|			固定链接|评论总数0|
+			阅读次数38
+
+
+
+
+
+
+
+		C语言头文件的使用与写法
+
+作者:韩涛日期:2011-12-12Monday
+
+
+
+C语言中的.h文件和我认识由来已久，其使用方法虽不十分复杂，但我却是经过了几个月的&ldquo;不懂&rdquo;时期，几年的&ldquo;一知半解&rdquo;时期才逐渐认识清楚他的本来面目。揪其原因，我的驽钝和好学而不求甚解固然是原因之一，但另外还有其他原因。原因一：对于较...
+查看更多...
+
+Tags:
+头文件
+	
+
+
+
+分类:程序设计|			固定链接|评论总数0|
+			阅读次数38
+
+
+
+
+
+
+
+		回调函数以及钩子函数的概念
+
+作者:韩涛日期:2011-12-09Friday
+
+
+
+钩子实际上是一个处理消息的程序段，通过系统调用，把它挂入系统。每当特定的消息发出，在没有到达目的窗口前，钩子程序就先捕获该消息，亦即钩子函数先得到控制权。这时钩子函数即可以加工处理（改变）该消息，也可以不作处理而继续传递该消息，还可以强制结束消...
+查看更多...
+
+Tags:
+回调函数以及钩子函数的概念
+	
+
+
+
+分类:程序设计|			固定链接|评论总数0|
+			阅读次数51
+
+
+
+
+
+
+
+		回调函数的概念及其使用
+
+作者:韩涛日期:2011-12-09Friday
+
+
+
+1什么是回调软件模块之间总是存在着一定的接口，从调用方式上，可以把他们分为三类：同步调用、回调和异步调用。同步调用是一种阻塞式调用，调用方要等待对方执行完毕才返回，它是一种单向调用；回调是一种双向调用模式，也就是说，被调用方在接口被调用时也会调用...
+查看更多...
+
+Tags:
+回调函数的概念及其使用
+	
+
+
+
+分类:程序设计|			固定链接|评论总数0|
+			阅读次数34
+
+
+
+
+
+
+
+		结构体字节对齐
+
+作者:韩涛日期:2011-10-14Friday
+
+
+
+(1)什么是字节对齐一个变量占用n个字节，则该变量的起始地址必须能够被n整除，即:存放起始地址%n=0，对于结构体而言，这个n取其成员种的数据类型占空间的值最大的那个。(2)为什么要字节对齐内存空间是按照字节来划分的，从理论上说对内存空...
+查看更多...
+
+
+
+
+
+分类:C语言|			固定链接|评论总数0|
+			阅读次数43
+
+
+
+
+
+
+
+		C指针
+
+作者:韩涛日期:2011-10-14Friday
+
+
+
+第一章。指针的概念指针是一个特殊的变量，它里面存储的数值被解释成为内存里的一个地址。要搞清一个指针需要搞清指针的四方面的内容：指针的类型，指针所指向的类型，指针的值或者叫指针所指向的内存区，还有指针本身所占据的内存区。让我们分别说明。先声明...
+查看更多...
+
+
+
+
+
+分类:C语言|			固定链接|评论总数0|
+			阅读次数67
+
+
+
+
+
+
+
+		74系列,CD系列的对应表
+
+作者:韩涛日期:2011-10-13Thursday
+
+
+
+SN7404六反相器SN74HC00四2输入与非门SN7406六反相缓冲器/驱动器SN74HC02四2输入或非门SN7407六缓冲器/驱动器SN74HC03四2输入或非门SN7414六缓冲器/驱动器SN74HC04六反相器SN7416六反相缓冲器/驱动器SN74HC05六反相器SN7440六反相缓冲器/...
+查看更多...
+
+
+
+
+
+分类:电子器件|			固定链接|评论总数0|
+			阅读次数40
+
+
+
+
+
+
+
+		MC9S12超详细中文资料(无笔记类)
+
+作者:韩涛日期:2011-10-12Wednesday
+
+
+
+fck_filebrowser.php
+查看更多...
+
+
+
+
+
+分类:智能车技术报告|			固定链接|评论总数1|
+			阅读次数104
+
+
+
+
+
+
+
+		华为PCB设计规范
+
+作者:韩涛日期:2011-10-11Tuesday
+
+
+
+fck_filebrowser.php
+查看更多...
+
+
+
+
+
+分类:PCB设计|			固定链接|评论总数0|
+			阅读次数56
+
+
+
+
+
+
+
+		上海贝尔PCB设计规范
+
+作者:韩涛日期:2011-10-11Tuesday
+
+
+
+fck_filebrowser.php
+查看更多...
+
+
+
+
+
+分类:PCB设计|			固定链接|评论总数0|
+			阅读次数41
+
+
+			
+			
+		
+		
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+	
+	
+		姓名：韩涛
+		单位：电气工程学院
+		职称：
+		我共发表了10篇文章
+		共收到1条评论
+		我的主页共被访问了1095次
+	
+	
+	
+	
+
+
+我的文章分类
+
+	PCB设计
+		
+程序设计
+		
+智能车技术报告
+		
+智能车照片
+		
+电子器件
+		
+C语言
+		
+
+
+
+
+日历
+
+
+
+>>
+年月
+
+
+
+日
+一
+二
+三
+四
+五
+六
+
+
+
+
+
+
+
+
+
+
+
+我的最新文章
+
+
+		C技巧
+C语言头文件的使用与写法
+回调函数以及钩子函数的...
+回调函数的概念及其使用
+结构体字节对齐
+C指针
+74系列,CD系列的
+MC9S12超详细中文资料(...
+华为PCB设计规范
+上海贝尔PCB设计规范
+	
+
+
+
+
+我的热点文章
+
+
+				回调函数以及钩子函数的...
+		C语言头文件的使用与写法
+		C技巧
+		回调函数的概念及其使用
+		MC9S12超详细中文资料(...
+		C指针
+		华为PCB设计规范
+		结构体字节对齐
+		上海贝尔PCB设计规范
+		74系列,CD系列的
+
+	
+
+
+我收到的评论
+
+			
+
+	mark
+
+	
+
+
+我的文章汇总
+
+		2011年12月[4]
+		2011年10月[6]
+		
+	
+
+
+链接
+
+
+
+
+
+
+检索
+
+
+
+
+-所有文章-
+PCB设计
+程序设计
+智能车技术报告
+智能车照片
+电子器件
+C语言
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+
+
+varflag=newArray();
+flag[0]='2011/10/11';
+flag[1]='2011/10/12';
+flag[2]='2011/10/13';
+flag[3]='2011/10/14';
+flag[4]='2011/12/09';
+flag[5]='2011/12/12';
+
+
+varcale=newCalendar("idCalendar",{
+SelectDay:newDate(),
+onSelectDay:function(o),
+onToday:function(o),
+onFinish:function(){
+$("idCalendarYear").innerHTML=this.Year;$("idCalendarMonth").innerHTML=this.Month;
+for(vari=0,len=flag.length;i<len;i++){
+//alert(flag[i]);
+	vard=newDate(flag[i]);
+	if(this.Year==d.getYear()){
+		if(this.Month==d.getMonth()+1)
+		{
+this.Days[d.getDate()].innerHTML=""+d.getDate()+"";
+			
+		}
+
+	}
+}
+}
+});
+$("idCalendarPre").onclick=function()
+$("idCalendarNext").onclick=function()
+
+
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));

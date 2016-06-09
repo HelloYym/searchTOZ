@@ -1,0 +1,241 @@
+
+
+
+
+
+安千里-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0006325";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	安千里
+浙江大学生物技术研究所
+
+	永久链接:http://mypage.zju.edu.cn/anqianli&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			安千里副教授
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江大学生物技术研究所
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙大紫金港校区农生环组团C座907室
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;杭州310058
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;电话：008657188982255
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;电邮：an@zju.edu.cn
+学历
+2000.10&ndash;2006.02德国吉森李比希大学生物系，获自然科学博士学位
+1994.09&ndash;1997.07中国科学院植物研究所,获理学硕士学位
+1990.09&ndash;1994.06兰州大学生物系,获理学学士学位
+工作经历
+2006.12&ndash;现在浙江大学生物技术研究所副教授
+2000.09中国科学院植物研究所助理研究员
+1997.08&ndash;2000.08中国科学院植物研究所研究实习员
+教学
+应用生物科学系本科生《细胞生物学》课程
+研究方向
+促植物生长细菌和真菌
+在研项目
+国家自然科学基金项目（批准号31171504，2012－2015）：用高通量测序和宏转录组学方法研究广西甘蔗内生功能固氮菌的多样性（与广西农业科学院和广西大学合作）
+主要论文（第一作者&dagger;；通讯作者*）
+
+1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MingyueChen,BoZhu,LiLin,LitaoYang,YangruiLi,QianliAn*.2014.CompletegenomesequenceofKosakoniasaccharitypestrainSP1T.StandardsinGenomicSciencesdoi:10.4056/sigs.5779977.
+2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ChunyanWei&dagger;,LiLin&dagger;,LijingLuo,YongxiuXing,ChunjinHu,LitaoYang*,YangruiLi*,QianliAn*.2014.Endophyticnitrogen-fixingKlebsiellavariicolastrainDX120Epromotessugarcanegrowth.BiologyandFertilityofSoils50:657-666.
+3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MingyueChen,LiLin,YanmingZhang,LiSun,QianliAn*.2013.GenomesequenceofKlebsiellaoxytocaSA2,anendophyticnitrogen-fixingbacteriumisolatedfromthepioneergrassPsammochloavillosa.GenomeAnnouncements1(4):e00601-13.
+4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BoZhu,QingZhou,LiLin,ChunjinHu,PingShen,LitaoYang,QianliAn*,GuanlinXie*,YangruiLi*.2013.Enterobactersaccharisp.nov.,anitrogen-fixingbacteriumassociatedwithsugarcane(SaccharumofficinarumL.).InternationalJournalofSystematicandEvolutionaryMicrobiology63:2577-2582.
+5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;XinchengZhang,LiLin,ZhiqiangZhu,XiaoeYang*,YuyanWang,QianliAn*.2013.ColonizationandmodulationofhostgrowthandmetaluptakebyendophyticbacteriaofSedumalfredii.InternationalJournalofPhytoremediation15:51-64.
+6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BoZhu&dagger;,ShutingYe&dagger;,SipingChang,MingyueChen,LiSun,QianliAn*.2012.GenomesequenceofthepathogenicHerbaspirillumseropedicaestrainOs45isolatedfromriceroots.JournalofBacteriology194:6995-6996.
+7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LiLin&dagger;,ZhengyiLi&dagger;,ChunjinHu,XinchengZhang,SipingChang,LitaoYang,YangruiLi*,QianliAn*.2012.Plantgrowth-promotingnitrogen-fixingenterobacteriaareinassociationwithsugarcaneplantsgrowinginGuangxi,China.MicrobesandEnvironments27:391-398.
+8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;XinchengZhang,LiLin,MingyueChen,ZhiqiangZhu,WeidongYang,BaoChen,XiaoeYang*,QianliAn*.2012.AnonpathogenicFusariumoxysporumstrainenhancesphytoextractionofheavymetalsbythehyperaccumulatorSedumalfrediiHance.JournalofHazardousMaterials229-230:361-370.
+9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LiLin,WeiGuo,YongxiuXing,XinchengZhang,ZhengyiLi,ChunjinHu,SongLi,YangruiLi*,QianliAn*.2012.TheactinobacteriumMicrobacteriumsp.16SHacceptspBBR1-basedpPROBEvectors,formsbiofilms,invadesroots,andfixesN2associatedwithmicropropagatedsugarcaneplants.AppliedMicrobiologyandBiotechnology93:1185-1195.
+10.&nbsp;&nbsp;&nbsp;&nbsp;ZhengyiLi,SipingChang,LiLin,YangruiLi,QianliAn*.2011.Acolorimetricassayof1-aminocyclopropane-1-carboxylate(ACC)basedonninhydrinreactionforrapidscreeningofbacteriacontainingACCdeaminase.LettersinAppliedMicrobiology53:178-185.
+11.&nbsp;&nbsp;&nbsp;&nbsp;QianliAn,YuemeiDong,WeiWang,YongxingLi,JiudiLi.2007.ConstitutiveexpressionofthenifAgeneactivatesassociativenitrogenfixationofEnterobactergergoviae57-7,anopportunisticendophyticdiazotroph.JournalofAppliedMicrobiology103:613-620.
+12.&nbsp;&nbsp;&nbsp;&nbsp;QianliAn,AartJ.E.vanBel,RalphH&uuml;ckelhoven.2007.Doplantcellssecreteexosomesderivedfrommultivesicularbodies?PlantSignaling&amp;Behavior2:4-7.
+13.&nbsp;&nbsp;&nbsp;&nbsp;QianliAn,KatrinEhlers,Karl-HeinzKogel,AartJ.E.vanBel,RalphH&uuml;ckelhoven.2006.MultivesicularcompartmentsproliferateinsusceptibleandresistantMLA12-barleyleavesinresponsetoinfectionbythebiotrophicpowderymildewfungus.NewPhytologist172:563-576.
+14.&nbsp;&nbsp;&nbsp;&nbsp;QianliAn,RalphH&uuml;ckelhoven,Karl-HeinzKogel,AartJ.E.vanBel.2006.Multivesicularbodiesparticipateinacellwallassociateddefenseresponseinbarleyleavesattackedbythepathogenicpowderymildewfungus.CellularMicrobiology8:1009-1019.
+15.&nbsp;&nbsp;&nbsp;&nbsp;安千里,杨学健,冯利,毛碧增,匡柏健,李久蒂.2010.利用激光扫描共聚焦显微成像系统的正交切割成像确证GFP标记细菌在植物根内定殖.电子显微学报29:354-360.
+16.&nbsp;&nbsp;&nbsp;&nbsp;安千里，杨学健，董越梅，冯丽洁，匡柏健，李久蒂.2001.用共聚焦激光扫描显微镜观测GFP标记的内生固氮菌KlebsiellaoxytocaSA2侵染水稻根.植物学报43：558-564.
+17.&nbsp;&nbsp;&nbsp;&nbsp;安千里，王伟，李久蒂.2001.植物联合固氮菌分子生态学的研究方法和应用.植物生理学通讯37：52-58.
+18.&nbsp;&nbsp;&nbsp;&nbsp;安千里，匡柏健，母锡金，李久蒂.1999.固氮菌KlebsiellaoxytocaSA2在水稻根内定殖并表达固氮酶.自然科学进展9(12增)：1262-1268.
+19.安千里，李久蒂.1999.植物内生固氮菌.植物生理学通讯35：265-272.
+
+发明专利
+1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安千里，李郑义.将烟囱顶96孔PCR板用于批量测定氨基酸含量的方法.专利号ZL201110164931.1
+			
+				
+			联系方式
+			
+						电子信箱：an@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：安千里
+		单位：农业与生物技术学院应用生物科学系
+		职称：副教授
+		我的主页共被访问了4769次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

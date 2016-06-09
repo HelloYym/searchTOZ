@@ -1,0 +1,556 @@
+
+
+
+
+
+101实验室-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0008065";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	101实验室
+浙江大学医学院
+
+	永久链接:http://mypage.zju.edu.cn/s101&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+
+
+
+
+
+Normal
+0
+
+
+
+10pt
+0
+2
+
+false
+false
+false
+
+EN-US
+ZH-CN
+X-NONE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$([{￡￥·‘“〈《「『【〔〖〝﹙﹛﹝＄（．［｛￡￥
+!%),.:;&gt;?]}￠¨°·ˇˉ―‖’”…‰′″&#8250;℃∶、。〃〉》」』】〕〗〞︶︺︾﹀﹄﹚﹜﹞！＂％＇），．：；？］｀｜｝～￠
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<w:LatentStylesDefLockedState="false"DefUnhideWhenUsed="true"
+DefSemiHidden="true"DefQFormat="false"DefPriority="99"
+LatentStyleCount="276">
+<w:LsdExceptionLocked="false"Priority="0"SemiHidden="false"
+UnhideWhenUsed="false"QFormat="true"Name="Normal"/>
+<w:LsdExceptionLocked="false"Priority="9"SemiHidden="false"
+UnhideWhenUsed="false"QFormat="true"Name="heading1"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<w:LsdExceptionLocked="false"Priority="10"SemiHidden="false"
+UnhideWhenUsed="false"QFormat="true"Name="Title"/>
+
+<w:LsdExceptionLocked="false"Priority="11"SemiHidden="false"
+UnhideWhenUsed="false"QFormat="true"Name="Subtitle"/>
+<w:LsdExceptionLocked="false"Priority="22"SemiHidden="false"
+UnhideWhenUsed="false"QFormat="true"Name="Strong"/>
+<w:LsdExceptionLocked="false"Priority="20"SemiHidden="false"
+UnhideWhenUsed="false"QFormat="true"Name="Emphasis"/>
+<w:LsdExceptionLocked="false"Priority="59"SemiHidden="false"
+UnhideWhenUsed="false"Name="TableGrid"/>
+
+<w:LsdExceptionLocked="false"Priority="1"SemiHidden="false"
+UnhideWhenUsed="false"QFormat="true"Name="NoSpacing"/>
+<w:LsdExceptionLocked="false"Priority="60"SemiHidden="false"
+UnhideWhenUsed="false"Name="LightShading"/>
+<w:LsdExceptionLocked="false"Priority="61"SemiHidden="false"
+UnhideWhenUsed="false"Name="LightList"/>
+<w:LsdExceptionLocked="false"Priority="62"SemiHidden="false"
+UnhideWhenUsed="false"Name="LightGrid"/>
+<w:LsdExceptionLocked="false"Priority="63"SemiHidden="false"
+UnhideWhenUsed="false"Name="MediumShading1"/>
+<w:LsdExceptionLocked="false"Priority="64"SemiHidden="false"
+UnhideWhenUsed="false"Name="MediumShading2"/>
+<w:LsdExceptionLocked="false"Priority="65"SemiHidden="false"
+UnhideWhenUsed="false"Name="MediumList1"/>
+<w:LsdExceptionLocked="false"Priority="66"SemiHidden="false"
+UnhideWhenUsed="false"Name="MediumList2"/>
+<w:LsdExceptionLocked="false"Priority="67"SemiHidden="false"
+UnhideWhenUsed="false"Name="MediumGrid1"/>
+<w:LsdExceptionLocked="false"Priority="68"SemiHidden="false"
+UnhideWhenUsed="false"Name="MediumGrid2"/>
+<w:LsdExceptionLocked="false"Priority="69"SemiHidden="false"
+UnhideWhenUsed="false"Name="MediumGrid3"/>
+<w:LsdExceptionLocked="false"Priority="70"SemiHidden="false"
+UnhideWhenUsed="false"Name="DarkList"/>
+<w:LsdExceptionLocked="false"Priority="71"SemiHidden="false"
+UnhideWhenUsed="false"Name="ColorfulShading"/>
+<w:LsdExceptionLocked="false"Priority="72"SemiHidden="false"
+UnhideWhenUsed="false"Name="ColorfulList"/>
+<w:LsdExceptionLocked="false"Priority="73"SemiHidden="false"
+UnhideWhenUsed="false"Name="ColorfulGrid"/>
+<w:LsdExceptionLocked="false"Priority="60"SemiHidden="false"
+UnhideWhenUsed="false"Name="LightShadingAccent1"/>
+<w:LsdExceptionLocked="false"Priority="61"SemiHidden="false"
+UnhideWhenUsed="false"Name="LightListAccent1"/>
+<w:LsdExceptionLocked="false"Priority="62"SemiHidden="false"
+UnhideWhenUsed="false"Name="LightGridAccent1"/>
+<w:LsdExceptionLocked="false"Priority="63"SemiHidden="false"
+UnhideWhenUsed="false"Name="MediumShading1Accent1"/>
+<w:LsdExceptionLocked="false"Priority="64"SemiHidden="false"
+UnhideWhenUsed="false"Name="MediumShading2Accent1"/>
+<w:LsdExceptionLocked="false"Priority="65"SemiHidden="false"
+UnhideWhenUsed="false"Name="MediumList1Accent1"/>
+
+<w:LsdExceptionLocked="false"Priority="34"SemiHidden="false"
+UnhideWhenUsed="false"QFormat="true"Name="ListParagraph"/>
+<w:LsdExceptionLocked="false"Priority="29"SemiHidden="false"
+UnhideWhenUsed="false"QFormat="true"Name="Quote"/>
+<w:LsdExceptionLocked="false"Priority="30"SemiHidden="false"
+UnhideWhenUsed="false"QFormat="true"Name="IntenseQuote"/>
+<w:LsdExceptionLocked="false"Priority="66"SemiHidden="false"
+UnhideWhenUsed="false"Name="MediumList2Accent1"/>
+<w:LsdExceptionLocked="false"Priority="67"SemiHidden="false"
+UnhideWhenUsed="false"Name="MediumGrid1Accent1"/>
+<w:LsdExceptionLocked="false"Priority="68"SemiHidden="false"
+UnhideWhenUsed="false"Name="MediumGrid2Accent1"/>
+<w:LsdExceptionLocked="false"Priority="69"SemiHidden="false"
+UnhideWhenUsed="false"Name="MediumGrid3Accent1"/>
+<w:LsdExceptionLocked="false"Priority="70"SemiHidden="false"
+UnhideWhenUsed="false"Name="DarkListAccent1"/>
+<w:LsdExceptionLocked="false"Priority="71"SemiHidden="false"
+UnhideWhenUsed="false"Name="ColorfulShadingAccent1"/>
+<w:LsdExceptionLocked="false"Priority="72"SemiHidden="false"
+UnhideWhenUsed="false"Name="ColorfulListAccent1"/>
+<w:LsdExceptionLocked="false"Priority="73"SemiHidden="false"
+UnhideWhenUsed="false"Name="ColorfulGridAccent1"/>
+<w:LsdExceptionLocked="false"Priority="60"SemiHidden="false"
+UnhideWhenUsed="false"Name="LightShadingAccent2"/>
+<w:LsdExceptionLocked="false"Priority="61"SemiHidden="false"
+UnhideWhenUsed="false"Name="LightListAccent2"/>
+<w:LsdExceptionLocked="false"Priority="62"SemiHidden="false"
+UnhideWhenUsed="false"Name="LightGridAccent2"/>
+<w:LsdExceptionLocked="false"Priority="63"SemiHidden="false"
+UnhideWhenUsed="false"Name="MediumShading1Accent2"/>
+<w:LsdExceptionLocked="false"Priority="64"SemiHidden="false"
+UnhideWhenUsed="false"Name="MediumShading2Accent2"/>
+<w:LsdExceptionLocked="false"Priority="65"SemiHidden="false"
+UnhideWhenUsed="false"Name="MediumList1Accent2"/>
+<w:LsdExceptionLocked="false"Priority="66"SemiHidden="false"
+UnhideWhenUsed="false"Name="MediumList2Accent2"/>
+<w:LsdExceptionLocked="false"Priority="67"SemiHidden="false"
+UnhideWhenUsed="false"Name="MediumGrid1Accent2"/>
+<w:LsdExceptionLocked="false"Priority="68"SemiHidden="false"
+UnhideWhenUsed="false"Name="MediumGrid2Accent2"/>
+<w:LsdExceptionLocked="false"Priority="69"SemiHidden="false"
+UnhideWhenUsed="false"Name="MediumGrid3Accent2"/>
+<w:LsdExceptionLocked="false"Priority="70"SemiHidden="false"
+UnhideWhenUsed="false"Name="DarkListAccent2"/>
+<w:LsdExceptionLocked="false"Priority="71"SemiHidden="false"
+UnhideWhenUsed="false"Name="ColorfulShadingAccent2"/>
+<w:LsdExceptionLocked="false"Priority="72"SemiHidden="false"
+UnhideWhenUsed="false"Name="ColorfulListAccent2"/>
+<w:LsdExceptionLocked="false"Priority="73"SemiHidden="false"
+UnhideWhenUsed="false"Name="ColorfulGridAccent2"/>
+<w:LsdExceptionLocked="false"Priority="60"SemiHidden="false"
+UnhideWhenUsed="false"Name="LightShadingAccent3"/>
+<w:LsdExceptionLocked="false"Priority="61"SemiHidden="false"
+UnhideWhenUsed="false"Name="LightListAccent3"/>
+<w:LsdExceptionLocked="false"Priority="62"SemiHidden="false"
+UnhideWhenUsed="false"Name="LightGridAccent3"/>
+<w:LsdExceptionLocked="false"Priority="63"SemiHidden="false"
+UnhideWhenUsed="false"Name="MediumShading1Accent3"/>
+<w:LsdExceptionLocked="false"Priority="64"SemiHidden="false"
+UnhideWhenUsed="false"Name="MediumShading2Accent3"/>
+<w:LsdExceptionLocked="false"Priority="65"SemiHidden="false"
+UnhideWhenUsed="false"Name="MediumList1Accent3"/>
+<w:LsdExceptionLocked="false"Priority="66"SemiHidden="false"
+UnhideWhenUsed="false"Name="MediumList2Accent3"/>
+<w:LsdExceptionLocked="false"Priority="67"SemiHidden="false"
+UnhideWhenUsed="false"Name="MediumGrid1Accent3"/>
+<w:LsdExceptionLocked="false"Priority="68"SemiHidden="false"
+UnhideWhenUsed="false"Name="MediumGrid2Accent3"/>
+<w:LsdExceptionLocked="false"Priority="69"SemiHidden="false"
+UnhideWhenUsed="false"Name="MediumGrid3Accent3"/>
+<w:LsdExceptionLocked="false"Priority="70"SemiHidden="false"
+UnhideWhenUsed="false"Name="DarkListAccent3"/>
+<w:LsdExceptionLocked="false"Priority="71"SemiHidden="false"
+UnhideWhenUsed="false"Name="ColorfulShadingAccent3"/>
+<w:LsdExceptionLocked="false"Priority="72"SemiHidden="false"
+UnhideWhenUsed="false"Name="ColorfulListAccent3"/>
+<w:LsdExceptionLocked="false"Priority="73"SemiHidden="false"
+UnhideWhenUsed="false"Name="ColorfulGridAccent3"/>
+<w:LsdExceptionLocked="false"Priority="60"SemiHidden="false"
+UnhideWhenUsed="false"Name="LightShadingAccent4"/>
+<w:LsdExceptionLocked="false"Priority="61"SemiHidden="false"
+UnhideWhenUsed="false"Name="LightListAccent4"/>
+<w:LsdExceptionLocked="false"Priority="62"SemiHidden="false"
+UnhideWhenUsed="false"Name="LightGridAccent4"/>
+<w:LsdExceptionLocked="false"Priority="63"SemiHidden="false"
+UnhideWhenUsed="false"Name="MediumShading1Accent4"/>
+<w:LsdExceptionLocked="false"Priority="64"SemiHidden="false"
+UnhideWhenUsed="false"Name="MediumShading2Accent4"/>
+<w:LsdExceptionLocked="false"Priority="65"SemiHidden="false"
+UnhideWhenUsed="false"Name="MediumList1Accent4"/>
+<w:LsdExceptionLocked="false"Priority="66"SemiHidden="false"
+UnhideWhenUsed="false"Name="MediumList2Accent4"/>
+<w:LsdExceptionLocked="false"Priority="67"SemiHidden="false"
+UnhideWhenUsed="false"Name="MediumGrid1Accent4"/>
+<w:LsdExceptionLocked="false"Priority="68"SemiHidden="false"
+UnhideWhenUsed="false"Name="MediumGrid2Accent4"/>
+<w:LsdExceptionLocked="false"Priority="69"SemiHidden="false"
+UnhideWhenUsed="false"Name="MediumGrid3Accent4"/>
+<w:LsdExceptionLocked="false"Priority="70"SemiHidden="false"
+UnhideWhenUsed="false"Name="DarkListAccent4"/>
+<w:LsdExceptionLocked="false"Priority="71"SemiHidden="false"
+UnhideWhenUsed="false"Name="ColorfulShadingAccent4"/>
+<w:LsdExceptionLocked="false"Priority="72"SemiHidden="false"
+UnhideWhenUsed="false"Name="ColorfulListAccent4"/>
+<w:LsdExceptionLocked="false"Priority="73"SemiHidden="false"
+UnhideWhenUsed="false"Name="ColorfulGridAccent4"/>
+<w:LsdExceptionLocked="false"Priority="60"SemiHidden="false"
+UnhideWhenUsed="false"Name="LightShadingAccent5"/>
+<w:LsdExceptionLocked="false"Priority="61"SemiHidden="false"
+UnhideWhenUsed="false"Name="LightListAccent5"/>
+<w:LsdExceptionLocked="false"Priority="62"SemiHidden="false"
+UnhideWhenUsed="false"Name="LightGridAccent5"/>
+<w:LsdExceptionLocked="false"Priority="63"SemiHidden="false"
+UnhideWhenUsed="false"Name="MediumShading1Accent5"/>
+<w:LsdExceptionLocked="false"Priority="64"SemiHidden="false"
+UnhideWhenUsed="false"Name="MediumShading2Accent5"/>
+<w:LsdExceptionLocked="false"Priority="65"SemiHidden="false"
+UnhideWhenUsed="false"Name="MediumList1Accent5"/>
+<w:LsdExceptionLocked="false"Priority="66"SemiHidden="false"
+UnhideWhenUsed="false"Name="MediumList2Accent5"/>
+<w:LsdExceptionLocked="false"Priority="67"SemiHidden="false"
+UnhideWhenUsed="false"Name="MediumGrid1Accent5"/>
+<w:LsdExceptionLocked="false"Priority="68"SemiHidden="false"
+UnhideWhenUsed="false"Name="MediumGrid2Accent5"/>
+<w:LsdExceptionLocked="false"Priority="69"SemiHidden="false"
+UnhideWhenUsed="false"Name="MediumGrid3Accent5"/>
+<w:LsdExceptionLocked="false"Priority="70"SemiHidden="false"
+UnhideWhenUsed="false"Name="DarkListAccent5"/>
+<w:LsdExceptionLocked="false"Priority="71"SemiHidden="false"
+UnhideWhenUsed="false"Name="ColorfulShadingAccent5"/>
+<w:LsdExceptionLocked="false"Priority="72"SemiHidden="false"
+UnhideWhenUsed="false"Name="ColorfulListAccent5"/>
+<w:LsdExceptionLocked="false"Priority="73"SemiHidden="false"
+UnhideWhenUsed="false"Name="ColorfulGridAccent5"/>
+<w:LsdExceptionLocked="false"Priority="60"SemiHidden="false"
+UnhideWhenUsed="false"Name="LightShadingAccent6"/>
+<w:LsdExceptionLocked="false"Priority="61"SemiHidden="false"
+UnhideWhenUsed="false"Name="LightListAccent6"/>
+<w:LsdExceptionLocked="false"Priority="62"SemiHidden="false"
+UnhideWhenUsed="false"Name="LightGridAccent6"/>
+<w:LsdExceptionLocked="false"Priority="63"SemiHidden="false"
+UnhideWhenUsed="false"Name="MediumShading1Accent6"/>
+<w:LsdExceptionLocked="false"Priority="64"SemiHidden="false"
+UnhideWhenUsed="false"Name="MediumShading2Accent6"/>
+<w:LsdExceptionLocked="false"Priority="65"SemiHidden="false"
+UnhideWhenUsed="false"Name="MediumList1Accent6"/>
+<w:LsdExceptionLocked="false"Priority="66"SemiHidden="false"
+UnhideWhenUsed="false"Name="MediumList2Accent6"/>
+<w:LsdExceptionLocked="false"Priority="67"SemiHidden="false"
+UnhideWhenUsed="false"Name="MediumGrid1Accent6"/>
+<w:LsdExceptionLocked="false"Priority="68"SemiHidden="false"
+UnhideWhenUsed="false"Name="MediumGrid2Accent6"/>
+<w:LsdExceptionLocked="false"Priority="69"SemiHidden="false"
+UnhideWhenUsed="false"Name="MediumGrid3Accent6"/>
+<w:LsdExceptionLocked="false"Priority="70"SemiHidden="false"
+UnhideWhenUsed="false"Name="DarkListAccent6"/>
+<w:LsdExceptionLocked="false"Priority="71"SemiHidden="false"
+UnhideWhenUsed="false"Name="ColorfulShadingAccent6"/>
+<w:LsdExceptionLocked="false"Priority="72"SemiHidden="false"
+UnhideWhenUsed="false"Name="ColorfulListAccent6"/>
+<w:LsdExceptionLocked="false"Priority="73"SemiHidden="false"
+UnhideWhenUsed="false"Name="ColorfulGridAccent6"/>
+<w:LsdExceptionLocked="false"Priority="19"SemiHidden="false"
+UnhideWhenUsed="false"QFormat="true"Name="SubtleEmphasis"/>
+<w:LsdExceptionLocked="false"Priority="21"SemiHidden="false"
+UnhideWhenUsed="false"QFormat="true"Name="IntenseEmphasis"/>
+<w:LsdExceptionLocked="false"Priority="31"SemiHidden="false"
+UnhideWhenUsed="false"QFormat="true"Name="SubtleReference"/>
+<w:LsdExceptionLocked="false"Priority="32"SemiHidden="false"
+UnhideWhenUsed="false"QFormat="true"Name="IntenseReference"/>
+<w:LsdExceptionLocked="false"Priority="33"SemiHidden="false"
+UnhideWhenUsed="false"QFormat="true"Name="BookTitle"/>
+
+
+
+
+
+/*StyleDefinitions*/
+table.MsoNormalTable
+	{mso-style-name:普通表格;
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0cm5.4pt0cm5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.5pt;
+	mso-bidi-font-size:11.0pt;
+	font-family:Calibri;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-font-kerning:1.0pt;}
+
+
+李晓明，男，山西平遥人，医学博士、浙江大学教授和博士生导师；国家杰出青年基金获得者，教育部&ldquo;长江学者&rdquo;特聘教授，中组部国家&ldquo;万人计划&rdquo;创新领军人才、科技部中青年科技创新领军人才,浙江省卫生高层次创新人才等。现任浙江大学医学院副院长、浙江大学神经科学研究所常务副所长，研究组组长。兼任浙江大学医学院附属邵逸夫医院脑科中心主任、浙江省神经科学学会秘书长等。2003年毕业于原第一军医大学，获医学博士学位，多年来从事神经系统疾病的临床、教学和科研工作。目前作为课题负责人在研课题有国家重大科学研究计划、国家自然科学基金项目（包括重点、杰青、重大研究计划、创新研究群体）等。近年来作为主要完成人获得国家自然科学二等奖、省科技进步一等奖、中华医学科技二等奖、高校科研成果二等奖等奖项。李晓明博士实验室的长远目标是通过对不同神经突触和神经环路的研究，寻求治疗神经精神疾病如脑缺血损伤、精神分裂症、孤独症以及癫痫病等的靶分子并提供相应的治疗策略。在突触和神经环路的发育和分子调控领域，尤其在精神分裂症、癫痫等疾病的发病机制方面取得重要研究成果。代表性论文以通讯作者发表在国际著名杂志如《NatureNeuroscience》、《JournalofNeuroscience》、《CerebralCortex》等上，并被国际同行发表专文正面评述。
+
+<spanlang="EN-US"style="mso-bidi-font-size:10.5pt;font-family:
+宋体;mso-bidi-font-family:宋体;color:#333333;mso-font-kerning:0pt">
+
+			
+				
+			工作研究领域
+			
+			研究和招生方向
+通过对不同神经突触和神经环路的研究，寻求治疗神经精神疾病如脑缺血损伤、精神分裂症、孤独症以及癫痫病等的靶分子并提供相应的治疗策略。
+神经生物学方向（理学）：
+1、突触和神经环路（特别是GABA和弥散性调制系统）的发育、调控和在情感中的作用
+2、癫痫、睡眠、精神分裂症等神经精神疾病的发病机制
+
+神经病学方向（医学）：癫痫、睡眠、精神分裂症等神经精神疾病的基础与临床研究
+
+			
+				
+			联系方式
+			
+			电话：0571-88208757						
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：李晓明
+		单位：医学院
+		职称：教授
+		我的主页共被访问了11515次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+	实验室介绍
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	浙江大学神经科学研究所
+浙江大学医学院
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

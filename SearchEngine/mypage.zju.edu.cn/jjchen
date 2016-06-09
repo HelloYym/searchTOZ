@@ -1,0 +1,212 @@
+
+
+
+
+
+陈建军的个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0006249";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	陈建军的个人主页
+网格生成之家
+
+	永久链接:http://mypage.zju.edu.cn/jjchen&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+
+男，副教授，硕士生导师。1979年5月生。2003年3月硕士毕业于浙江大学建筑工程学院计算结构力学专业，同年3月进入浙江大学计算机学院攻读博士学位，导师为长江特聘教授郑耀，2006年6月获计算机应用技术专业博士学位。同年7月进入浙江大学计算机学院，次年5月转入浙江大学航空航天学院，从事师资博士后工作。2008年8月博士后出站，同年12月晋升为副教授。2009年3月被聘为硕士生导师。
+主要从事计算机图形学、高性能计算、计算力学软件及其关键算法（如几何处理、网格生成）的研究。现主持国家自然科学基金面上项目1项，中央高校基本科研业务费专项资金资助1项。曾主持校预研项目1项，作为主要人员参加或参加完成国家自然科学基金项目2项（含杰出青年基金项目1项），横向合作课题2项，其它基础研究项目3项。现已发表和录用论文20余篇。
+需了解更多信息，请访问个人主页：http://saa.zju.edu.cn/staff/jjchen
+
+
+			
+				
+			工作研究领域
+			
+			&#61548;网格生成
+&#61548;计算力学软件
+&#61548;CAD/CAE
+&#61548;高性能计算
+			
+				
+			联系方式
+			
+			电话：0571-87951883			电子信箱：chenjj@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：陈建军
+		单位：航空航天学院航空航天工程学系
+		职称：副教授
+		我的主页共被访问了1152次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

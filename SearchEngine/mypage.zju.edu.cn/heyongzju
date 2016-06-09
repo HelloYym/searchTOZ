@@ -1,0 +1,236 @@
+
+
+
+
+
+3D打印/增材制造-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0008232";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	3D打印/增材制造
+细胞打印/生物制造
+
+	永久链接:http://mypage.zju.edu.cn/heyongzju&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+学习及工作简历&nbsp;
+2013.1-&nbsp;&nbsp;&nbsp;&nbsp;浙江大学，求是青年学者，&nbsp;&nbsp;博士生导师
+2010.12-&nbsp;&nbsp;&nbsp;&nbsp;浙江大学，现代制造工程研究所，副教授
+2010.03-2010.11&nbsp;&nbsp;浙江大学，现代制造工程研究所，讲师
+2008.04-2010.03&nbsp;&nbsp;浙江大学，力学博士后流动站，&nbsp;博士后
+2001.09-2007.12&nbsp;&nbsp;浙江大学，机械制造及其自动化，博士
+1997.09-2001.07&nbsp;&nbsp;中国矿业大学，工程力学，&nbsp;&nbsp;学士
+&nbsp;
+
+
+&nbsp;&nbsp;一直以来从事精密加工、数控装备、增材制造（3D打印）等方面的研究工作，主持国家自然科学基金2项，国家支撑计划子课题、国家数控重大专项子课题各一项,省部级课题多项，授权发明专利20余项，发表SCI论文20余篇，包括Biomaterials(IF=8.5),ScientificReports(IF=5.5),RSCAdvances(IF=3.8),Microfluidics&amp;Nanofluidics(IF=2.5),JournalofMicromechanicsandMicroengineering(IF=1.5)等生物制造、微制造、微流体领域的顶级期刊。
+&nbsp;
+&nbsp;&nbsp;目前致力于将增材制造（3D打印）技术应用于生物医疗中，展开活性器官的3D打印制造、柔性结构打印中的控性控性、片上器官制造等研究。课题组目前已成功开发出凝胶（细胞）3D机、微流控芯片3D打印机、巧克力3D打印机等系列自主知识产权的3D打印装备/实验平台。与医学、材料、化学、力学、药学相关老师建立了良好的合作关系，欢迎与相关领域感兴趣的老师合作研究。
+
+&nbsp;课题组围绕EngineeringforLife的目标，致力于原创、有趣、意义重大的研究,欢迎感兴趣的同学加盟。
+&nbsp;
+
+
+
+工作地点：
+&nbsp;&nbsp;&nbsp;浙大玉泉教1-123
+&nbsp;
+			
+				
+			工作研究领域
+			
+			1、生物活性器官的3D打印制造
+2、柔性可穿戴设备3D打印过程的控形、控性
+3、片上器官的3D打印制造
+
+			
+				
+			联系方式
+			
+			电话：0571-87952418			电子信箱：yonghe@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：贺永
+		单位：机械工程学系
+		职称：副教授
+		我的主页共被访问了12178次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		实验室介绍
+	工作研究项目
+	专利成果
+	教学工作
+	研究成果
+	发表论文
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	贺永的博客
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

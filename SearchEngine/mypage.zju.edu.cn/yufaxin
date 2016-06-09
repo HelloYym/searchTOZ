@@ -1,0 +1,217 @@
+
+
+
+
+
+郁发新教授的个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0005268";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	郁发新教授的个人主页
+
+
+	永久链接:http://mypage.zju.edu.cn/yufaxin&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			郁发新博士、教授、博士生导师
+浙江大学航空航天学院航天电子工程研究所所长&nbsp;
+杭州市西湖区浙江大学玉泉校区智泉大楼C楼319室，310027
+
+&nbsp;&nbsp;&nbsp;&nbsp;发表SCI/EI论文六十多篇；在Springer出版英文专著《Three-dimensionalModelAnalysisandProcessing》；担任IJIAP期刊副主编，是多个国际SCI期刊审稿人；出任IEEEIAS2009、IEEEICIC2009、IEEEISDA2008等多个国际学术会议分会主席、IEEEIMCCC2012大会主席。
+&nbsp;&nbsp;&nbsp;&nbsp;作为项目负责人先后承担国家重大科技专项项目、国家863技术项目、总装装备预先研究项目、军用电子元器件科研项目、航天创新基金项目、企业重大横向项目三十余项；2008年获省部级奖励一项，排名第1。
+&nbsp;&nbsp;&nbsp;&nbsp;中国第二代卫星导航系统重大专项专家组专家；中国高分辨率对地观测系统重大专项专家组专家；中国人民解放军总装备部宇航级和高可靠军用电子元器件专家组专家；浙江省151人才；教育部新世纪人才；IEEE高级会员。
+
+			
+				
+			工作研究领域
+			
+			
+一、砷化镓/氮化镓微波毫米波射频芯片技术研究；二、CMOS射频和数模混合芯片技术研究；三、高密度集成组件和封装技术研究；四、现代信号与信息处理技术研究。
+			
+				
+			联系方式
+			
+			电话：0571-87951581-8080,0571-87951589-8080,13346183005			电子信箱：fxyu@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：郁发新
+		单位：航空航天学院航空航天工程学系
+		职称：教授
+		我的主页共被访问了19966次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+	出版著作
+	实验室介绍
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	浙江大学航天电子工程研究所
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

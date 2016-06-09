@@ -1,0 +1,220 @@
+
+
+
+
+
+岩土-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0096146";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	岩土
+教书育人
+
+	永久链接:http://mypage.zju.edu.cn/0096146&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			出生年月：1969.9出生地点：浙江省乐清市
+1991年7月浙江大学土木系工业与民用建筑专业毕业，获学士学位，1996年4月获浙江大学岩土工程专业博士学位。
+2002年12月至今，浙江大学土木系教授，博士生导师（2006）
+2006年9月至2007年9月原建设部科技司挂职
+2005年9月至2005年12月英国帝国学院高级访问学者
+2004年8月至2005年9月在浙江省建设厅建筑业处（现浙江省建筑业管理局）挂职，任副处长、副局长
+2003年3月至2008年8月岩土工程研究所支部书记
+1998年7月至2002年11月，浙江大学土木系副教授，硕士生导师
+1996年7月至1998年6月，浙江大学土木系讲师
+学术兼职：
+第三届浙江省住房与城乡建设厅科学技术委员会委员。浙江省土木建筑学会常务理事，土力学及岩土工程学术委员会主任委员。宁波市土木建筑学会副理事长。
+&nbsp;
+			
+				
+			工作研究领域
+			
+			学术专长：岩土工程
+研究方向：软粘土力学与地基处理技术，特种基础工程
+涉及大变形固结理论、堆载预压技术、碎石桩复合地基技术、刚柔性桩复合地基、污染物传输及控制理论、高层建筑地基基础等方面。
+
+			
+				
+			联系方式
+			
+			电话：0571-88208785			电子信箱：xiexinyu@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：谢新宇
+		单位：建筑工程学院土木工程学系
+		职称：教授
+		我的主页共被访问了5600次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	奖励荣誉
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

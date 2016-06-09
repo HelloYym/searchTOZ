@@ -1,0 +1,237 @@
+
+
+
+
+
+张云-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0011144";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	张云
+
+
+	永久链接:http://mypage.zju.edu.cn/yun&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			拥有风景园林学和建筑学的双重专业背景;
+积累跨国界的规划设计实践经验；
+致力于构筑园林景观艺术和生态之间的桥梁。
+
+工作经历
+杭州市建筑设计院，工程师
+澳大利亚悉尼HC设计咨询公司、CONTEXT景观设计公司，设计师
+中国美术学院景观设计系，教师
+浙江大学农学院园林研究所，教师
+学习经历
+浙江大学建筑系：工学学士；工学硕士
+英国谢菲尔德大学风景园林系：风景园林学方向建筑学硕士
+澳大利亚墨尔本大学建筑规划学院：风景园林学博士
+
+
+
+主要学术论文
+[1]《世界园林的发展趋势&mdash;走向自然》，建筑学报，2004,（6）
+[2]《含蓄表达历史的现代景观设计-以伦敦泰晤士河码头公园为例》，规划师，2005，Vol.21（6）
+[3]《澳大利亚的景观规划设计&mdash;&mdash;趋势和在中国实践情况》，国际城市规划，2008,Vol.23(5)
+[4]《Chinaasasiteofinternationalplanninganddesignpractice》，IEEE能源、环境与建筑工程国际研讨会论文，EI检索（EEAE2011）Vol.2
+[5]《TheApproachofLandscapeArchitecturetoEcologicalRecovery》，AdvancedMaterialsResearchVols.518-523(2012)
+[6]《KnowingPlaceinInternationalLandscapeArchitecturalPractice》，AppliedMechanicsandMaterialsVols.193-194(2012)
+[7]《场所思想的演变及其在风景园林实践中的响应》，中国园林，Vol.29(8),2013
+主持科研项目：
+【1】2012年度浙江省教育厅科研项目：跨领域国际趋势下风景园林学的宽口径教育模式研究。
+【2】2013年度浙江省教育科学规划课题：农学类高等院校风景园林专业规划设计课程教学对策研究：以浙江大学农业与生物技术学院风景园林专业为例
+【3】2014年度浙江省哲学社会科学规划课题：城市雨水的景观化及其空间导控策略&mdash;以杭州为例
+【4】2014年度国家自然科学基金面上项目：城市形态及其演化对雨水自然循环的影响机理研究&mdash;以长三角区域为例
+			
+				
+			工作研究领域
+			
+			城市风景园林；
+大地景观规划；
+园林、建筑一体化设计
+
+
+			
+				
+			联系方式
+			
+						电子信箱：yunzhang@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：张云
+		单位：农业与生物技术学院
+		职称：副教授
+		我的主页共被访问了1238次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

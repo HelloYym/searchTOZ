@@ -1,0 +1,209 @@
+
+
+
+
+
+潘远江-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0094165";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	潘远江
+
+
+	永久链接:http://mypage.zju.edu.cn/0094165&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;潘远江，男，博士，教授，博士生导师，1988年6月毕业于兰州大学化学系，1988.9-1994.6月在兰州大学获硕士、博士学位，1994.9-1996.5月任浙江大学化学系博士后，1996.6-1997.9月在瑞士伯尔尼大学化学与生物化学系从事博士后研究工作，1997年10月回国至今在浙江大学任教，现任浙江大学化学生物学与药物化学研究所所长，浙江大学创新药物研究中心副主任，兼任中国化学会有机分析专业委员会副主任委员，中国质谱学会常务理事。
+&nbsp;&nbsp;&nbsp;长期致力于有机分析与生物分析以及有机质谱等方面的研究，作为通讯作者，迄今发表SCI论文近200篇，影响因子大于3的60余篇。主持了多项国家自然科学基金项目，2000年入选浙江省杰出青年人才培养计划，2006年入选教育部新世纪优秀人才培养计划，2010年获批国家杰出青年基金。&nbsp;课题组网址：http://www.css.zju.edu.cn/~bnpc
+			
+				
+			工作研究领域
+			
+			1、有机与生物分析
+2、质谱分析
+3、药物化学
+
+			
+				
+			联系方式
+			
+			电话：057187951629			电子信箱：panyuanjiang@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：潘远江
+		单位：化学系
+		职称：教授
+		我的主页共被访问了54976次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

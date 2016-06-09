@@ -1,0 +1,312 @@
+
+
+
+
+
+浙江大学生物传感器-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0006229";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	浙江大学生物传感器
+浙江大学生物传感器国家专业实验室刘清君
+
+	永久链接:http://mypage.zju.edu.cn/biosensor&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+&nbsp;
+刘清君
+&nbsp;
+&nbsp;&nbsp;&nbsp;男，1975年4月生，甘肃平凉人。
+&nbsp;
+&nbsp;&nbsp;&nbsp;2006年毕业于浙江大学生物医学工程与仪器科学学院，获博士学位。
+&nbsp;&nbsp;&nbsp;2006年至2007年曾赴香港理工大学医疗科技及咨询学系，访问学者。
+&nbsp;&nbsp;&nbsp;2011年至2012年赴美国伊利诺伊大学香槟分校（UIUC），访问学者。
+&nbsp;
+&nbsp;&nbsp;&nbsp;获2008全国百篇优秀博士学位论文提名论文。
+&nbsp;&nbsp;&nbsp;获2013浙江省杰出青年科学基金资助。
+&nbsp;
+现任：
+&nbsp;&nbsp;&nbsp;&nbsp;浙江大学生物传感器国家专业实验室教授
+&nbsp;&nbsp;&nbsp;&nbsp;浙江大学生物医学工程学系副系主任
+&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;中国仪器仪表学会传感器分会理事
+&nbsp;&nbsp;&nbsp;&nbsp;中国生物医学工程学会中医药工程分会理事
+&nbsp;&nbsp;&nbsp;&nbsp;世界中医药联合会中医诊断专业委员会理事
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;世界中医药联合会中医诊疗仪器专业委员会&nbsp;常务理事
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JournalofSensorTechnology（2011.3-）编委
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ModernInstrumentation（2011.11-）编委
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JournalofSensors.GuestEditors(Cell-Based&nbsp;Biosensors)（2014.7-）编委
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AustinJournalofBiosensors&amp;Bioelectronics（2014.10-）编委
+
+
+
+
+
+
+BiosensorsandBioelectronics,SensorsandActuators:B.Chemical,IEEETransactionsonBiomedicalCircuitsandSystems,JournalofBionicEngineering,Biomicrofluidics,JournalofNeuroscienceMethods,NanoLIFE,&nbsp;Theranostics,InVitroCellular&amp;DevelopmentalBiology&ndash;Animal,PLOSONE,PrecisionInstrumentandMechanology,ChemistryMolecularSciencesandEngineering,BioMedResearchInternational,InternationalJournalofDevelopmentalNeuroscience,AnalyticalLetters审稿人
+
+&nbsp;
+主要研究兴趣：
+&nbsp;&nbsp;&nbsp;&nbsp;细胞传感器
+&nbsp;&nbsp;&nbsp;&nbsp;嗅觉味觉传感器
+&nbsp;&nbsp;&nbsp;&nbsp;等新型微纳米传感器及其在生物医学中的应用
+&nbsp;&nbsp;
+
+
+代表学术论文：
+
+
+1.&nbsp;&nbsp;QingjunLiu,ChunshengWu,HuaCai,NingHu,JunZhou,PingWang.Cell-basedbiosensorsandtheirapplicationinbiomedicine.ChemicalReviews.2014,114(12):6423-6461
+2.&nbsp;QingjunLiu,HuaCai,YingXu,YanLi,RongLi,PingWang.Olfactorycell-basedbiosensor:afirststeptowardsaneurochipofbioelectronicnose,BiosensorsandBioelectronics,2006,22:318-322
+
+3.&nbsp;&nbsp;QingjunLiu,HuaCai,YingXu,LifengQin,LijiangWang,PingWang.Neurochipbasedonlight-addressablepotentiometricsensor,RareMetalMaterialsandEngineering,2006,35:413-416
+
+4.&nbsp;&nbsp;QingjunLiu,HuarongHuang,HuaCai,YingXu,YanLi,RongLi,PingWang.Embryonicstemcellsasanovelcellsourceofcell-basedbiosensor,BiosensorsandBioelectronics,2007,22:810-815
+5.&nbsp;&nbsp;QingjunLiu,HuaCai,YingXu,LidanXiao,MoYang,PingWang.Detectionofheavymetaltoxicityusingcardiaccell-basedbiosensor,BiosensorsandBioelectronics,2007,22:3224-3229
+6.QingjunLiu,HuaCai,LidanXiao,LiRong,MoYang,PingWang.Embryonicstemcellsbiosensoranditsapplicationindruganalysisandtoxindetection,IEEESensorsJournal,2007,7:1625-1631
+7.&nbsp;&nbsp;QingjunLiu,JinjiangYu,LidanXiao,JohnnyCheukOnTang,PingWang,MoYang.Impedancestudiesofbio-behaviorandchemosensitivityofcancercellsbymicro-electrodearrays,BiosensorsandBioelectronics,2009,24:1305-1310
+8.&nbsp;&nbsp;QingjunLiu,WeiweiYe,LidanXiao,LipingDu,NingHu,PingWang.Extracellularpotentialsrecordinginintactolfactoryepitheliumbymicroelectrodearrayforabioelectronicnose,BiosensorsandBioelectronics,2010,25:2212-2217
+9.QingjunLiu,WeiweiYe,NingHu,HuaCai,HuiYu,PingWang.Olfactoryreceptorcellsrespondtoodorsinatissueandsemiconductorhybridneuronchip,BiosensorsandBioelectronics,2010,26:1672-1678
+10.QingjunLiu,WeiweiYe,HuiYu,NingHu,LipingDu,PingWang,MoYang.Olfactorymucosatissuebasedbiosensor:abioelectronicnosewithreceptorcellsinintactolfactoryepithelium.SensorsandActuatorsB:Chemical,2010,146:527-533
+11.&nbsp;QingjunLiu,WeiweiYe,HuiYu,NingHu,LipingDu,PingWang.Neurochipbasedonlight-addressablepotentiometricsensorwithwavelettransformde-noising.JournalofZhejiangUniversity-SCIENCEB(Biomedicine&amp;Biotechnology),2010,11:323-331
+12.QingjunLiu,NingHu,WeiweiYe,HuaCai,FeningZhang,PingWang.Extracellularrecordingofspatiotemporalpatterninginresponsetoodorsintheolfactoryepitheliumbymicroelectrodearrays,BiosensorsandBioelectronics,2011,27:12-17
+13.QingjunLiu,HuiYu,ZhouTan,HuaCai,WeiweiYe,MingZhang,PingWang.Invitroassessingtheriskofdrug-inducedcardiotoxicitybyembryonicstemcell-basedbiosensor.Sensors&nbsp;and&nbsp;Actuators:&nbsp;B.&nbsp;Chemical.2011.155:214-219
+14.QingjunLiu,NingHu,FenniZhang,HuaWang,WeiweiYe,PingWang.Neurosecretorycell-basedbiosensor:Monitoringsecretionofadrenalchromaffincellsbylocalextracellularacidificationusinglight-addressablepotentiometricsensor,BiosensorsandBioelectronics,2012,35:421-424
+15.QingjunLiu,NingHu,FenniZhang,DimingZhang,KJimmyHsia,PingWang.Olfactoryepitheliumbiosensor:odordiscriminationofreceptorneuronsfromabio-hybridsensingsystem.BiomedicalMicrodevices.2012.14:1055-1061
+16.QingjunLiu,FenniZhang,NingHu,HuaWang,KJimmyHsia,PingWang.Microelectroderecordingoftissueneuraloscillationsforabionicolfactorybiosensor.JournalofBionicEngineering.2012,9:494-500
+17.QingjunLiu,HuaWang,HongliangLi,JingZhang,ShulinZhuang,FenniZhang,K.JimmyHsia,PingWang.Impedancesensingandmolecularmodelingofanolfactorybiosensorbasedonchemosensoryproteinsofhoneybee.BiosensorsandBioelectronics,2013,40:174-179
+18.QingjunLiu,FenniZhang,DimingZhang,NingHu,HuaWang,K.JimmyHsia,PingWang.Bioelectronictongueoftastebudsonmicroelectrodearrayforsaltsensing.BiosensorsandBioelectronics,2013,40,115-120
+19.QingjunLiu,FenniZhang,DimingZhang,NingHu,K.JimmyHsia,PingWang.Extracellularpotentialsrecordinginintacttasteepitheliumbymicroelectrodearrayforatastesensor.BiosensorsandBioelectronics,2013,43,186-192
+20.QingjunLiu,DimingZhang,FenniZhang,YangZhao,KJimmyHsia,PingWang.Biosensorrecordingofextracellularpotentialsinthetasteepitheliumforbitterdetection.SensorsandActuators:B.Chemical.2013.176:497-504
+21.QingjunLiu,YanliLu,HuaWang,JieZhou,YongshengZhang,QunweiChen,SenbiaoLuo,RongLi,PingWang.Impedancedetectionandmodelingofchemotherapeuticagentsbyacancercell-basedbiosensor.AnalyticalLetters.2014,47:1348-1360
+22.LijiangWang,QingjunLiu,ZhaoyingHu,YuanfanZhang,ChunshengWu,MoYang,PingWang.Anovelelectrochemicalbiosensorbasedondynamicpolymerase-extendinghybridizationforE.coliO157:H7DNAdetection,Talanta,2009,78:647-652
+23.LidanXiao,QingjunLiu,ZhaoyingHu,WeiZhang,HuiYu,PingWang.Amulti-scaleelectrodearray(MSEA)tostudyexcitation-contractioncouplingofcardiomyocytesforhigh-throughputbioassays.SensorsandActuatorsB:Chemical,2011,152:107-114
+24.&nbsp;&nbsp;PingWang,QingjunLiu,YingXu,HuaCai,YanLi.Olfactoryandtastecellsensorsanditsapplicationsinbiomedicine,SensorsandActuatorsA:Physical,2007,139:131-138
+25.&nbsp;PingWang,QingjunLiu,ZhangWei,HuaCai.Designofbiomimeticelectronicnoseandelectronictongue,SensorsandMaterials,2007,19(5):309-323
+26.&nbsp;HuiYu,JunWang,QingjunLiu,WeiZhang,HuaCai,PingWang.HighspatialresolutionimpedancemeasurementofEISsensorsforlightaddressablecelladhesionmonitoring,BiosensorsandBioelectronics,2011,26,2822-2827
+27.QingmeiChen,LidanXiao,QingjunLiu,ShucaiLing,YifeiYin,QiDong,PingWang.Anolfactorybulbslice-basedbiosensorformulti-siteextracellularrecordingofneuralnetworks,BiosensorsandBioelectronics,2011,26:3313-3319
+28.WeiZhang,YanLi,QingjunLiu,YingXu,HuaCai,PingWang.ANovelexperimentalresearchbasedontastecellchipsfortastetransductionmechanism.SensorsandActuatorsB:Chemical,2008,131:24-28
+29.&nbsp;JinjiangYu,ZongbinLiu,QingjunLiu,PollyLeung,MoYang.Apolyethyleneglycol(PEG)microfluidicchipwithnanostructuresforbacteriarapidpatterninganddetection,SensorsandActuatorsA:Physical,2009,&nbsp;154:288-294
+30.&nbsp;YingXu,GaixiaXu,QingjunLiu,HuaCai,YanLi,RongLi,PingWang,Theresearchofanovelmulti-functionalcell-basedmicrophysiometer,ProgressinNaturalScience,2006,16:808-816
+31.LipingDu,ChunshengWu,QingjunLiu,PingWang.Recentadvancesinolfactoryreceptor-basedbiosensors.BiosensorsandBioelectronics,2013,42,570-580
+32.&nbsp;JinjiangYu,ShrawanKumarJha,LidanXiao,QingjunLiu,PingWang,CharlesSurya,MoYang.AlGaN/GaNheterostructuresfornon-invasivecellelectrophysiologicalmeasurements.&nbsp;Biosensors&nbsp;andBioelectronics,2007,23:513-519
+33.&nbsp;ChunshengWu,PeihuaChen,HuiYu,QingjunLiu,XiaolinZong,HuaCai,PingWang.Anovelbiomimeticolfactory-basedbiosensorforsingleolfactorysensoryneuronmonitoring.BiosensorsandBioelectronics,2009,24:1498-1502
+34.&nbsp;HuiYu,HuaCai,WeiZhang,LidanXiao,QingjunLiu,PingWang.Anoveldesignofmultifunctionalintegratedcell-basedbiosensorsforsimultaneouslydetectingcellacidification,extracellularpotential.BiosensorsandBioelectronics,2009,24:1462-1468
+35.XingYao,JiarongZhang,HuarongHuang,LichengDai,QingjunLiu,MingZhang.Histonedeacetylaseinhibitorpromotesdifferentiationofembryonicstemcellsintoneuralcellsinadherentmonoculture.ChineseMedicalJournal,2010,123:734-738
+36.DimingZhang,FenniZhang,QianZhang,YanliLu,QingjunLiu,PingWang.Umamievaluationintasteepitheliumonmicroelectrodearraybyextracellularelectrophysiologicalrecording.BiochemicalandBiophysicalResearchCommunications.2013,438:334-339
+37.FenniZhang,QianZhang,DimingZhang,YanliLu,QingjunLiu,PingWang.Biosensoranalysisofnaturalandartificialsweetenersinintacttasteepithelium.BiosensorsandBioelectronics,2014,54,385-392
+38.YanliLu,HongliangLi,ShulinZhuang,DimingZhang,QianZhang,JieZhou,SiyuanDong,QingjunLiu,PingWang.Olfactorybiosensorusingodorant-bindingproteinsfromhoneybee:ligandsoffloralodorsandpheromonesdetectionbyelectrochemicalimpedance.SensorsandActuatorsB:Chemical,2014,193,420-427
+39.DimingZhang,YanliLu,JingJiang,QianZhang,YaoYao,PingWang,BilianChen,QiaoyuanCheng,GangLoganLiu,QingjunLiu.Nanoplasmonicbiosensor:&nbsp;couplingelectrochemistrytolocalizedsurfaceplasmonresonancespectroscopyonnanocuparrays.BiosensorsandBioelectronics,2015,67,237-242&nbsp;&nbsp;
+40.YanliLu,YaoYao,QianZhang,DimingZhang,ShulinZhuang,HongliangLi,QingjunLiu,Olfactorybiosensorforinsectsemiochemicalsanalysisbyimpedancesensingofodorant-bindingproteinsoninterdigitatedelectrodes.BiosensorsandBioelectronics,2015,67,662-669
+41.QianZhang,DimingZhang,YanliLu,YaoYao,ShuangLi,&nbsp;QingjunLiu,Grapheneoxide-basedopticalbiosensorfunctionalizedwithpeptidesforexplosivedetection.BiosensorsandBioelectronics,2015.68,494-499
+42.DimingZhang,JingJiang,JunyeChen,QianZhang,YanliLu,YaoYao,ShuangLi,GangLoganLiu,&nbsp;QingjunLiu,Smartphone-basedportablebiosensingsystemusingimpedancemeasurementwithprintedelectrodesfor2,4,6-trinitrotoluene(TNT)detection.BiosensorsandBioelectronics,2015,70,81-88
+&nbsp;
+
+
+&middot;&nbsp;&nbsp;主编专著与书籍：
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;《Cell-BasedBiosensors:PrinciplesandApplications》ArtechHousePublishers，2009
+《BiomedicalSensorsandMeasurement》ZhejiangUniversityPress,Springer-VerlagGmbHBerlinHeidelberg，2010
+《生物医学传感与检测》，杭州：浙江大学出版社，2010
+《生物医学传感技术》，机械工业出版社，2014
+
+
+
+
+
+
+
+			
+				
+			工作研究领域
+			
+			生物医学工程
+
+生物传感器
+
+生物医学传感技术
+			
+				
+			联系方式
+			
+						电子信箱：qjliu@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：刘清君
+		单位：生物医学工程与仪器科学学院
+		职称：教授
+		我的主页共被访问了15746次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

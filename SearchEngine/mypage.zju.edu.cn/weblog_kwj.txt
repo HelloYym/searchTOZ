@@ -1,0 +1,1 @@
+{'name': u'\uff1aKongWeiJie', 'title': u'\uff1aAssociate Professor', 'photo': u'http://mypage.zju.edu.cn/teacherimage/0093370.jpg', 'pos': './mypage.zju.edu.cn/weblog|kwj', 'intro': [], 'department': u'\uff1aSchool of Economics, Zhejiang University', 'homepage': 'http://mypage.zju.edu.cn/weblog/kwj'}

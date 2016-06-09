@@ -1,0 +1,220 @@
+
+
+
+
+
+管文军的个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0093045";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	管文军的个人主页
+每一个转弯看见的东西都不一样，你能看见什么，取决于你在什么位置
+
+	永久链接:http://mypage.zju.edu.cn/guanwenjun&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;管文军，博士，教授，博士生导师，就职于浙江大学生命科学学院生物化学研究所。主要研究方向为细胞耐药机制。2004年毕业于浙江大学生物医学工程学院，获博士学位。2006-2008年获浙江大学&ldquo;新星计划&rdquo;资助赴美国CornellUniversity进行为期2年的合作研究工作。近年来主持了国家863子项、国家自然科学基金、浙江省自然科学基金、浙江省科技计划等多项课题，已获得发明专利授权4项、浙江省科技厅技术成果鉴定1项，发表SCI/EI论文30余篇。目前主要研究转运蛋白结构功能及其相关调控网络。已在PLoSGenetics、BBA-Biomembrane、PLoSONE、GenomeResearch、Biosensors&amp;Bioelectronics、Sensors等上发表了多篇论文。
+&nbsp;
+主要学习和工作经历：
+
+1986-1990&nbsp;&nbsp;&nbsp;浙江大学信息与电子工程学系&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本科
+1990-1993&nbsp;&nbsp;&nbsp;浙江大学光学信息工程学系&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;硕士
+1993-2001&nbsp;&nbsp;&nbsp;浙江大学生命科学学院&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;助教，讲师
+2001-2004&nbsp;&nbsp;&nbsp;浙江大学生物医学工程与仪器科学学院&nbsp;&nbsp;&nbsp;&nbsp;博士
+2006-2008&nbsp;&nbsp;&nbsp;CornellUniversity&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;访问学者
+
+2005-2013&nbsp;&nbsp;&nbsp;&nbsp;浙江大学生命科学学院&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;副教授
+2013-至今&nbsp;&nbsp;&nbsp;&nbsp;浙江大学生命科学学院&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;教授
+&nbsp;
+			
+				
+			工作研究领域
+			
+			细胞耐药机制；
+转运蛋白结构功能关系；
+转运网络及调控模式
+			
+				
+			联系方式
+			
+			电话：0571-88208569			电子信箱：guanwj@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：管文军
+		单位：浙江大学生命科学学院
+		职称：教授
+		我的主页共被访问了32650次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+	教学工作
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

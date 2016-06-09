@@ -1,0 +1,217 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="9999444";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/9999444&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			张建民（1957&nbsp;&ndash;&nbsp;&nbsp;），男。硕士，副教授，外语学院语言学研究所成员。主要研究方向为语言学与语言教学，语言测试，词汇习得理论，文体学。发表论文13篇，出版译著4部，承担学校教学改革课题3项。近年来论文发表于《外语电化教学》，《外语教学》，《中国英语教学》（英文版），《美中外语》，《中国考试》的有《英文报刊选读网络化教学尝试》，《多媒体语境下（高级英语）的教与学》，《手中之鸟》(A&nbsp;Bird&nbsp;in&nbsp;the&nbsp;Hand)，《诗无达译，意境为上&mdash;&mdash;从认知能力、价值趋向分析一首汉诗的英译》，《PETS口试考官的培训、考核与管理》。主要译著有：《塞莱斯廷预言》（昆仑出版社），《辛格公司》（译林出版社），《爱而不宠》（浙江教育出版社）。目前正着手编写一本英语写作教材，同时承担学校《高级英语》精品课程和《新闻英语》教改两个项目。
+主讲研究生课程：英语教学法
+			
+				
+			工作研究领域
+			
+			1．英语教学方法论（语言测试理论与实践，SL研究方法，语言学与
+语言教学）
+2．词汇习得研究
+3．语言学与翻译(篇章语言学，关联理论，功能语法)
+4．英语文体学
+
+教授的课程：
+1．翻译（英汉互译）
+2．高级英语写作（高年级）
+3．高级英语（高年级）
+4．口译（高年级）
+5．英语教学方法论（研）
+
+			
+				
+			联系方式
+			
+						电子信箱：jianminzhang57@126.comjmzhang@mail.hz.zj.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：张建民
+		单位：浙江大学语言学研究所
+		职称：副教授
+		我的主页共被访问了3187次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	发表论文
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,349 @@
+
+
+
+
+
+周萍-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0012164";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	周萍
+
+
+	永久链接:http://mypage.zju.edu.cn/pingzhou&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			<spanstyle="mso-bidi-font-size:10.5pt;font-family:宋体;
+mso-ascii-font-family:Arial;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial">浙江大学公共管理学院教授，博士生导师，浙江大学情报学学科带头人，荷兰阿姆斯特丹大学传播研究学院(UniversityofAmsterdam,AmsterdamSchoolofCommunicationsResearch)<spanstyle="mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:Arial;
+mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+Arial;mso-bidi-font-family:Arial">博士，先后师从于两位普赖斯奖获得者荷兰阿姆斯特丹大学LoetLeydesdorff<spanstyle="mso-bidi-font-size:10.5pt;font-family:宋体;
+mso-ascii-font-family:Arial;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Arial;mso-bidi-font-family:Arial">教授和比利时鲁汶天主教大学(CatholicUniversityLeuven)WolfgangGl&auml;nzel<spanstyle="mso-bidi-font-size:10.5pt;
+font-family:宋体;mso-ascii-font-family:Arial;mso-fareast-font-family:宋体;
+mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Arial;mso-bidi-font-family:
+Arial">教授<spanstyle="mso-bidi-font-size:10.5pt;font-family:宋体;
+mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
+宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Arial">。2005<spanstyle="mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
+mso-bidi-font-family:Arial">年以来发表20<spanstyle="mso-bidi-font-size:
+10.5pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Arial">多篇SSCI/SCI<spanstyle="mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
+mso-bidi-font-family:Arial">论文。与Leydesdorff<spanstyle="mso-bidi-font-size:
+10.5pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Arial">教授合作发表在《ResearchPolicy<spanstyle="mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
+mso-bidi-font-family:Arial">》上题为&ldquo;TheemergenceofChinaasaleadingnationinscience<spanstyle="mso-bidi-font-size:10.5pt;font-family:宋体;
+mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
+宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Arial">&rdquo;的论文，产生的影响跨越多个领域，曾经在国际管理学、经济学领域长期处于被引前十位，获得荷兰Elsevier<spanstyle="mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
+mso-bidi-font-family:Arial">出版集团&ldquo;经济学期刊中国大陆高被引作者&rdquo;证书。迄今为止，该论文在GoogleScholar<spanstyle="mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
+mso-bidi-font-family:Arial">中被引338<spanstyle="mso-bidi-font-size:
+10.5pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Arial">次，在WebofScience<spanstyle="mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
+mso-bidi-font-family:Arial">中被引175<spanstyle="mso-bidi-font-size:
+10.5pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Arial">次。周萍的H-<spanstyle="mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
+mso-bidi-font-family:Arial">指数和i10-<spanstyle="mso-bidi-font-size:
+10.5pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Arial">指数均为13，<spanstyle="mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
+mso-bidi-font-family:Arial">是《Scientometrics》的编委，韩国国家研究基金会（NRF)项目评审人，许多科学计量学、科技政策领域国际期刊审稿人。
+&nbsp;
+<spanstyle="font-size:9.0pt;font-family:
+宋体">学习经历：
+（1）国外学习经历
+<spanlang="EN-US"style="font-size:9.0pt;font-family:Wingdings;mso-fareast-font-family:
+Wingdings;mso-bidi-font-family:Wingdings">&nbsp;2005.12-2008.12：AmsterdamSchoolofCommunicationsResearch,UniversityofAmsterdam&nbsp;博士研究生，博士
+（2）国内学习经历
+<spanlang="EN-US"style="font-size:9.0pt;font-family:Wingdings;mso-fareast-font-family:
+Wingdings;mso-bidi-font-family:Wingdings">&nbsp;1988.8-1991.7：中国人民大学档案学院硕士研究生，硕士
+<spanlang="EN-US"style="font-size:9.0pt;font-family:Wingdings;mso-fareast-font-family:
+Wingdings;mso-bidi-font-family:Wingdings">&nbsp;1980.9-1984.7：四川大学化学系本科生，学士
+<spanstyle="font-size:9.0pt;font-family:
+宋体">工作经历：
+（1）国外工作经历
+<spanlang="EN-US"style="font-size:9.0pt;font-family:Wingdings;mso-fareast-font-family:
+Wingdings;mso-bidi-font-family:Wingdings">&nbsp;2007.8－2010.5：CentreforR&amp;DMonitoring,CatholicUniversityLeuven(荷兰语ExpertisecentrumO&amp;OMonitoring的简称ECOOM,KatholiekeUniversiteit)
+（2）国内工作经历
+<spanlang="EN-US"style="font-size:9.0pt;font-family:Wingdings;mso-fareast-font-family:
+Wingdings;mso-bidi-font-family:Wingdings">&nbsp;2013.3&mdash;：浙江大学公共管理学院信息资源管理系
+1995.12&mdash;2013.2：中国科学技术信息研究所
+<spanlang="EN-US"style="font-size:9.0pt;font-family:Wingdings;mso-fareast-font-family:
+Wingdings;mso-bidi-font-family:Wingdings">&nbsp;1991.8&mdash;1995.12：中国第一历史档案馆&nbsp;
+主要成果
+在《ResearchPolicy》、《JournaloftheAssociationforInformationScienceandTechnology(JASIST)》、《JournalofInformetrics》、《Scientometrics》等期刊上发表SSCI/SCI论文20多篇。
+国际期刊编委
+《Scientometrics》
+国际期刊审稿
+
+<spanstyle="font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">《ResearchPolicy<spanstyle="font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">》
+<spanstyle="font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">《ScienceandPublicPolicy<spanstyle="font-family:宋体;
+mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
+宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin">》
+<spanstyle="font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">《JournalofInformetrics<spanstyle="font-family:宋体;
+mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
+宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin">》
+<spanstyle="font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">《JournalofAmericanSocietyforInformationScienceand&nbsp;Technology<spanstyle="font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+Calibri;mso-hansi-theme-font:minor-latin">》
+<spanstyle="font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">《Scientometrics<spanstyle="font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">》
+<spanstyle="font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">《PLoSONE<spanstyle="font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">》
+<spanstyle="font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">《InformationProcessing&amp;Management<spanstyle="font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+Calibri;mso-hansi-theme-font:minor-latin">》
+<spanstyle="font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">《InternationalJournalofTechnologyManagement<spanstyle="font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+Calibri;mso-hansi-theme-font:minor-latin">》
+<spanstyle="font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">《ResearchEvaluation<spanstyle="font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">》
+<spanstyle="font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">《Science,Technology,&amp;HumanValues》
+<spanstyle="font-family:宋体;mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">《JournalofLibrarianshipandInformationScience<spanstyle="font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+Calibri;mso-hansi-theme-font:minor-latin">》
+
+研究生招生
+每年计划招收博士研究生1名，硕士研究生1-2名，欢迎具有情报学、理工科或其他相关专业背景的学生报考。特别优秀的研究生将有机会到海外高校或研究机构学习或联合培养。
+&nbsp;
+			
+				
+			工作研究领域
+			
+			文献计量学，科研评价，科技管理
+			
+				
+			联系方式
+			
+			电话：057156662189			电子信箱：pingzhou@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：周萍
+		单位：公共管理学院信息资源管理系
+		职称：教授
+		我的主页共被访问了5991次
+标签：academics	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	发表论文
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	googlescholar
+ResearchGate
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

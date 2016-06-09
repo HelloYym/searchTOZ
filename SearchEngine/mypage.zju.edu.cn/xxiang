@@ -1,0 +1,218 @@
+
+
+
+
+
+向珣-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0099222";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	向珣
+
+
+	永久链接:http://mypage.zju.edu.cn/xxiang&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			向珣博士
+&nbsp;高级工程师&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;
+主讲课程：
+《植物生物学试验技术》&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;研究生专业选修课&nbsp;
+《应用生物科学实验II》&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本科生专业选修课
+《植物生物技术基础》（实验）本科生专业选修课
+&nbsp;
+主持课题：
+浙江省自然科学基金：
+&ldquo;芸薹属同核异质细胞质雄性不育基因差异表达分析&rdquo;项目（2005.01-2007.12）；
+&ldquo;白菜OguraCMS相关MYB转录因子BcMYBogu的克隆与功能研究&rdquo;（2009.01-2010.12）；
+浙江省教育厅项目：
+&ldquo;BcMYBogu在白菜类黄酮合成中的功能研究&rdquo;（N20100069，2010.01-2011.12）
+浙江省2009年浙江省大学生科技创新活动计划（新苗人才计划）&nbsp;&nbsp;&nbsp;（指导教师）
+浙江大学实验教学建设项目：《植物生物技术基础》实验教学改革与创新
+&nbsp;
+奖励：
+以第二完成人参加《四种特色果蔬安全保鲜关键技术研究与示范》项目&nbsp;获2006年度浙江省科学技术三等奖。
+&nbsp;
+			
+				
+			联系方式
+			
+			电话：0571-88982258			电子信箱：xxiang@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：向珣
+		单位：农业与生物技术学院
+		职称：高级工程师
+		我的主页共被访问了419次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

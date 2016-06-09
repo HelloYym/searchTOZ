@@ -1,0 +1,298 @@
+
+
+
+
+
+蓝色星球-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0011070";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	蓝色星球
+海洋学院宋宏的个人主页
+
+	永久链接:http://mypage.zju.edu.cn/ocean_planet&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			欢迎光临浙江大学海洋学院宋宏的个人主页！
+&nbsp;
+宋宏，博士，讲师，浙大求是青年学者，硕士生导师。祖籍江苏靖江，现工作于浙江大学海洋学院&nbsp;海洋工程与技术研究所。
+在主页上你可以看到我的联系方式、研究领域、研究经历、教学信息、发表的论文列表等。无论你是研究领域同行，还是本科学生、研究生、校内的、校外的，如果对我的教学内容和研究方向感兴趣，或有任何问题和建议，欢迎与我联系探讨！
+&nbsp;
+注：招收若干名2015级&nbsp;光电/机电/自动控制&nbsp;专业的硕士/博士研究生！
+&nbsp;
+邮件：hongsong@zju.edu.cn（第一选择）
+电话：0571-88206839
+Linkedin:HongSong
+地址：浙江省杭州市余杭塘路866号浙大紫金港校区海洋大楼424室，310058
+&nbsp;
+WelcometothehomepageofHongSong,OceanCollege,ZhejiangUniversity!
+&nbsp;
+Iam&nbsp;alecturerintheInstituteofOceanEngineeringandTechnology,OceanCollege,ZhejiangUniv.,awardedDistinguishedYoungScholarofZhejiangUniv.in2012,alsocalledQiushiYoungScholar.Youmayfindmycontactinformation,researchinterest,researchexperience,teachinginformation,publicationlist,etcinthispage.Itdoesn&rsquo;tmatterifyouareabachelororgraduatestudent,orresearcherworkingonsimilararea.Ifyouareinterestedinmyteaching/researchtopicsorshouldyouhaveanyquestionorsuggestion,pleasefeelfreetoletmeknow.Feedbackisalwayspreferredaslongasstabilityisguaranteedandperformance&nbsp;canbe&nbsp;improved.:)
+&nbsp;
+Email:hongsong@zju.edu.cn(preferred)
+Telephone:+86-571-88206839
+Linkedin:HongSong
+Address:OceanBuilding424,ZijingangCampusofZhejiangUniv.,
+YuhangtangRoad866,Hangzhou,P.R.China
+Postcode:310058
+&nbsp;
+&nbsp;
+************************&nbsp;I.&nbsp;研究领域(ResearchInterest)&nbsp;**********************
+目前主要研究领域包括：
+1、水下光学测量/探测/成像
+2、智能水下运载器（水下机器人）
+3、自适应光学/海面激光传输
+4、海底观测网络
+&nbsp;
+My&nbsp;mainresearchinterestincludes:
+1.UnderwaterOpticalMeasurement/Detection/Imaging
+2.IntelligentUnderwaterVehicle(UnderwaterRobot)
+3.AdaptiveOptics/LaserPropagationinMarineEnvironment
+4.SeafloorObservatory
+&nbsp;
+************************&nbsp;&nbsp;II.求学、研究及工作经历(Education/Research/WorkExperience)&nbsp;************
+LecturerinOceanCollegeofZhejiangUniversity&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2011&ndash;now
+Focus:OceanOptics/AdaptiveOptics/IntelligentUnderwaterVehicle/SeafloorObservatory
+&nbsp;
+Post-docinSystemsandControl&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2010-2011
+School:DelftCenterforSystemsandControl(DCSC),TUDelft,TheNetherlands&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Focus:&nbsp;WavelengthControlofaWaveguide-basedSemiconductorLaser（半导体激光器的波长控制）,&nbsp;IntegratedOptics（集成光学）
+Project:WaveguideBasedExternalCavitySemiconductorLaserArrays(partoftheSTWprogramSmartOpticalSystems)
+Supervisor:Prof.Dr.MichelVerhaegen
+Workwith:Prof.Dr.G.Schitter(TUVienna)
+Dr.R.Oldenbeuving,Dr.C.Lee,Dr.H.OfferhausandProf.Dr.K.Boller(TwenteUniversity)
+&nbsp;
+Ph.D.inSystemsandControl&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2006-2009&nbsp;
+School:DelftCenterforSystemsandControl(DCSC),TUDelft,TheNetherlands&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Focus:AdaptiveOptics（自适应光学）,HysteresisCompensation（滞回补偿）,SystemIdentification（系统辨识）,Model-basedOptimalControl（基于模型的优化控制器设计）
+Project:ControlofLargeScaleAdaptiveOpticsSystems(sponsoredbyDelftCenterforSystemsandControl,DCMM)
+Thesis:Model-basedControlinAdaptiveOpticsSystems
+Supervisors:Prof.Dr.MichelVerhaegen,Dr.GlebVdovin,Dr.RufusFraanje,Prof.Dr.GeorgSchitter
+&nbsp;
+M.Sc.inMicroelectronics(Cumlaude)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2003-2005&nbsp;
+School:Microelectronics,DelftUniversityofTechnology(TUDelft),TheNetherlands&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Focus:AdaptiveOptics,MEMStechnology
+Thesis:PiezoelectricDeformableMirrorwithMultiplexingControl
+Supervisors：Dr.GlebVdovin,Dr.AlekseySimonov
+&nbsp;
+M.Sc.inMicroelectronics&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2002-2005
+School:Microelectronics,FudanUniversity,Shanghai,P.R.China&nbsp;&nbsp;&nbsp;（复旦大学微电子学系）&nbsp;&nbsp;&nbsp;&nbsp;
+Focus:AdaptiveOptics,MEMStechnology
+Thesis:PiezoelectricDeformableMirrorwithMultiplexingControl
+Supervisors:Prof.HUANGYi-ping（黄宜平教授）,Prof.ZHOUJia（周嘉教授）
+&nbsp;
+B.Sc.inLightingSourceandIlluminatingEngineering&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1998&ndash;2002
+School:LightingSourceandIllumination,FudanUniversity,Shanghai,P.R.China&nbsp;&nbsp;&nbsp;（复旦大学光源与照明工程系）&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Supervisors:Prof.ZHANGShan-duan（张善端教授）,Prof.LIUMu-qing（刘木青&nbsp;教授）
+&nbsp;
+&nbsp;
+********&nbsp;III.教学及学生科研训练（Teaching&amp;StudentResearchTraining）&nbsp;&nbsp;********
+本科生课程（Coursesforundergraduatestudents）：
+1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《传感与检测技术》(SensingandMeasurementTechnology)，大三冬学期，主讲&nbsp;
+2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《专业英语》&nbsp;(ScientificEnglishonOcean)，大四秋学期，主讲
+3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《海洋技术导论》(IntroductiontoOceanTechnology)，大二秋学期，辅讲
+&nbsp;
+研究生课程（Coursesforgraduatestudents）：
+1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《海洋技术I》(OceanTechnologyI)，研一冬学期，辅讲
+&nbsp;
+本科生科研训练项目(StudentResearchTrainingProgram,SRTP):
+1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《水下直升机控制系统设计》，时少辉，楼利旋，余楚盈，2013-2014
+2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《海岛间无线激光通信对准系统研究》，何定中，吕峥，2013-2014
+3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《激光自动瞄准系统研究》，李良，张晗，郑腾飞，2013-2014
+4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《海面无线激光通信系统自动瞄准技术研究》，何一枭，张嘉恒，高承承，2012-2013
+5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《自适应光学系统建模与基于模型的控制算法设计》，刘洪波，刘耀江，林申力，2012-2013
+6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《水下图像色彩高保真还原算法研究》，强永发，胡彬彬，2012-2013
+7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《基于RC转换方法的混凝土腐蚀监测》，陈雷，胡峻竹，吴敏，2011-2012
+&nbsp;
+全国大学生创新创业训练计划（国创）：
+1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;基于海底观测平台的海工材料腐蚀现象监测系统，陈雷，林嘉颖，徐秉政，2012-2013
+&nbsp;
+浙江省大学生科技创新活动计划（省创）
+1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《水下直升机控制系统研究》，时少辉，楼利旋，余楚盈，2013-2014
+2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《海面无线激光通信系统自动瞄准技术研究》，何一枭，张嘉恒，高承承，2012-2013
+&nbsp;
+&nbsp;
+**********************&nbsp;IV.著作和论文（Publications）&nbsp;&nbsp;************************
+著作：陈鹰、瞿逢重、宋宏、黄豪彩，《海洋技术教程》，浙江大学出版社，51万字，2012。
+			
+					
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：宋宏
+		单位：海洋学院
+		职称：讲师
+		我的主页共被访问了8509次
+标签：海归，海洋，观测网，自动控制，自适应光学，光谱，荷兰	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	出版著作
+	奖励荣誉
+	发表论文
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

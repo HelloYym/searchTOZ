@@ -1,0 +1,214 @@
+
+
+
+
+
+钱沄涛-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0098296";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	钱沄涛
+个人主页
+
+	永久链接:http://mypage.zju.edu.cn/ytqian&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1968年出生，分别于1989年和1992年在西安交通大学获得自动控制专业学士和硕士学位，1996年3月在西安电子科技大学获得信号与信息处理专业博士学位，1996.4-1998.3在西北工业大学计算机科学与技术博士后流动站工作。1998年进入浙江大学计算机学院工作至今,2002年晋升教授,2003年聘为博士生导师。1999.8至2001.8在加拿大ConcordiaUniversity和香港浸会大学做访问科学家，2006.3至2007.1在CarnegieMellonUniversity计算机学院机器学习系访问教授。中国海洋大学兼职教授，中国体视学会理事，中国计算机学会人工智能专委会委员，IEEE会员，近年来主持和参加了国家自然科学基金、863、教育部留学回国人员基金、国家重点实验室开放基金、浙江省重点科技攻关项目等研究。发表论文50余篇，大部分被SCI和EI收录，近2年的主要论文：
+1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;YuntaoQian,RobertMurphy,&ldquo;Improvedrecognitionoffigurescontainingfluorescencemicroscopeimagesinonlinejournalarticlesusinggraphicalmodels&rdquo;,Bioinformatics,24(4):569-576,2008.SCI
+2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SenJiaandYuntaoQian.&ldquo;SpectralandSpatialComplexityBasedHyperspectralUnmixing&rdquo;.IEEETransactionsonGeoscienceandRemoteSensing,45(12):3867-3879,December2007.SCI
+3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GuangDai,Dit-YanYeung,YuntaoQian,&ldquo;Facerecognitionusingakernel-fractional-stepdiscriminantanalysisalgorithm&rdquo;,PatternRecognition,40(1):229-243,2007.SCI
+4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SenJiaandYuntaoQian,&ldquo;MRF-ICAmixturemodelforhyperspectralimageryunmixing&rdquo;,InternationalJournalofWavelets,MultiresolutionandInformationProcessing,5(1):113-127,2007.SCI
+5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;钱沄涛，&ldquo;统计认知理论及应用研究&rdquo;，心智与计算，1(3):27-38,2007.
+6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;凌广杰，钱沄涛，&ldquo;基于改进分段半马尔可夫模型的在线序列模式检测&rdquo;，模式识别与人工智能，20(4):505-511,2007.
+7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;YuntaoQian,XiaoxuDu,QiWang,&ldquo;Semi-supervisedhierarchicalclusteringanalysisforhighdimensionaldata&rdquo;,InternationalJournalofInformationTechnology,12(3):54-64,2006.
+8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;YaoChen,YuntaoQian,&ldquo;Semi-superviseddynamiccounterpropagationnetwork&rdquo;,ADMA2006,LNAI4093:533-541,Springer.SCI
+9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GuangjieLing,YuntaoQian,SenJia,&ldquo;SegmentalSemi-MarkovModelBasedOnlineSeriesPatternDetectionUnderArbitraryTimeScaling&rdquo;,ADMA2006,LNAI4093:731-740,Springer.SCI
+10.&nbsp;&nbsp;&nbsp;&nbsp;QiuhuaZheng,YuntaoQian,MinYao,&ldquo;ANetworkEventCorrelationAlgorithmBasedonFaultFiltration&rdquo;,PRICAI2006,LNAI4099:864&ndash;869,Springer.SCI.&nbsp;&nbsp;
+			
+				
+			工作研究领域
+			
+			机器学习，模式识别，图象处理
+			
+				
+			联系方式
+			
+			电话：13819178382			电子信箱：ytqian@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：钱云涛
+		单位：计算机科学与技术学院计算机科学与工程学系
+		职称：教授
+		我的主页共被访问了13859次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		发表论文
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

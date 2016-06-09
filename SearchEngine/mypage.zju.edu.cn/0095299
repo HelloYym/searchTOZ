@@ -1,0 +1,226 @@
+
+
+
+
+
+爱生活，爱工作，享受每一天-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0095299";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	爱生活，爱工作，享受每一天
+
+
+	永久链接:http://mypage.zju.edu.cn/0095299&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			学习与工作经历：
+1984.09---1988.07浙江农业大学农学系读大学
+1988.07---1992.09浙江省建德县农业局寿昌农技站，助理农艺师
+1992.09---1995.07浙江农业大学农学系，硕士研究生
+1995.07---1996.09浙江农业大学农学系任教,助教
+1996.09---2002.12浙江大学农学系，讲师
+2000.03---2004.03浙江大学在职攻读博士学位
+2002.12---至今&nbsp;&nbsp;&nbsp;浙江大学农业与生物技术学院农学系，副教授&nbsp;
+国外进修与学术研究经历：
+2001.10-2002.01，英国JohnInnesCentre合作研究
+2005.04-2006.03，德国基尔大学植物育种所访问学者
+2007.08-2007.10，德国DAAD和国家留学基金委资助德国基尔大学分子植物病理所短期交流学者
+2009.10-2010.01，德国DAAD和国家留学基金委资助德国基尔大学分子植物病理所短期交流学者
+&nbsp;
+			
+				
+			工作研究领域
+			
+			（1）植物抗性基因克隆、抗性基因及下游信号基因在模式作物中的功能鉴定及在作物中的应用研究；
+（2）抗病虫害转基因大豆育种；
+（3）濒危中草药植物组织培养与快速繁殖研究。
+			
+				
+			联系方式
+			
+			电话：0571-88982243			电子信箱：tanggx@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：唐桂香
+		单位：农业与生物技术学院作物科学研究所
+		职称：副教授
+		我的主页共被访问了4741次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+	研究生培养
+	实验室介绍
+	教学工作
+	出版著作
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

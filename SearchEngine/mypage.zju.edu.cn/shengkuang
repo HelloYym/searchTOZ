@@ -1,0 +1,209 @@
+
+
+
+
+
+00009568-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0009568";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	00009568
+shengkuang
+
+	永久链接:http://mypage.zju.edu.cn/shengkuang&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;盛况，男，教育部长江学者，国家杰出青年科学基金获得者，首批万人计划入选者，863首席专家，特聘教授，博士生导师。
+&nbsp;&nbsp;&nbsp;&nbsp;1995年毕业于浙江大学获电力电子专业学士学位；1999年毕业于英国爱丁堡Heriot-Watt大学获计算机及电气工程博士学位；1999-2002年英国剑桥大学工程学系任博士后；2002-2009在美国Rutgers大学（即新泽西州大学）任教，获终身教职；2009-今为浙江大学电气工程学院特聘教授。
+&nbsp;&nbsp;&nbsp;&nbsp;主要学术兼职有：AssociateEditor,IEEETransactionsonPowerElectronics；AssociateEditor,IEEETransactionsonIndustryApplications；IEEE高级会员；美国国家科学基金(NSF)评审委员会委员；多家国际著名学术刊物审稿人，多次担任国际会议技术、国际委员会成员，ISPSD2015技术委员会主席。
+&nbsp;&nbsp;&nbsp;&nbsp;研究方向为：电力电子器件及应用，主要包括：1）新型碳化硅/氮化稼电力电子器件及集成电路；2）硅基电力电子器件；3）电力电子功率模块；4）新型器件的应用。
+&nbsp;
+			
+				
+			工作研究领域
+			
+			电力电子器件和电力电子集成电路领域
+			
+				
+			联系方式
+			
+			电话：0571-87952234			电子信箱：shengk@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：盛况
+		单位：电气工程学院
+		职称：教授
+		我的主页共被访问了38525次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

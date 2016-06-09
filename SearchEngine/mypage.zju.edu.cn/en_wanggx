@@ -1,0 +1,385 @@
+
+
+
+
+
+Ecologyforfuture-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0003002";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	Ecologyforfuture
+Betterlife
+
+	Permanentlink:http://mypage.zju.edu.cn/en/wanggx&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			Blog
+
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			&nbsp;
+1974.9-1978.9&nbsp;TeacherinthehighschoolofHuashi,&nbsp;YuzhouCity
+1985.7-1987.8&nbsp;Assistant&nbsp;inPlantPhysiologyatLanzhouUniversity
+1987.9-1990.6&nbsp;Ph.DstudentatLanzhouUniversity
+1990.6-1992.1&nbsp;LectureratHenanUniversity;DirectorofDivisionofPlantPhysiologyandEcologyatHenanUniversity;
+1992.2-1994.12AssociateProfessor&nbsp;atHenanUniversity;DirectorofDivisionofPlantPhysiologyandEcologyatHenanUniversity;ConcurrentProfessorofattheAgriculturaUniversityofHenan.
+1996.1-2002.12,Professorandvice-directorattheStateKeyLaboratoryofAridAgroecology,LanZhouUniversity
+2003.1-:&nbsp;Professor,tutorfordoctoralstudentCollegeoflifesciences,ZhejiangUniversity.&nbsp;EditorialBoardmemberofJ.PlantEcology.
+
+Projectscompleted:
+&nbsp;&nbsp;8projectssupportedbyNSFC,&nbsp;inwhich2keyprojects.
+&nbsp;&nbsp;3projectssupportedby863programmeofChina.
+&nbsp;&nbsp;2projectssupportedby973programmeofChina.
+
+Projectsongoing:
+&nbsp;&nbsp;1KeyprojectssupportedbyNSFC:2013-2018,2900,000RMB.Studiesonthephysical,physiologicalandbiochemicalquantitativerulesofthemetabolicecologychangedwitheffectivewaterinplants.
+&nbsp;2Projectssupportedby863programmeofChina:820000RMB.Novelantitranspirants.
+&nbsp;3ProjectssupportedbyNSFofZhejiang.300000RMB.Bodyshapeadaptationalongthegradientoftemperatureandmoisture.
+
+
+
+
+Publications:
+
+OuX,GanY,ChenP,QiuM,JiangK,etal.(2014)StomataPrioritizeTheirResponsestoMultipleBioticandAbioticSignalInputs.PLoSONE9(7):e101587.
+LiY,XuS-S,GaoJ,PanSandWangG-X(2014).ChlorellainducesstomatalclosureviaNADPHoxidase-dependentROSproductionanditseffectsoninstantaneouswateruseefficiencyinViciafaba.PloSONE2014;9:e93290.
+XuSS,LiY,WangGX(2014)ScalingrelationshipsbetweenleafmassandtotalplantmassacrossChineseforests.PloSOne9(4):e95938.
+
+GaoJ.WangN,XuSS,LiY,WangY,WangGX*.2013.ExogenousapplicationoftrehaloseinducedH2O2productionandstomatalclosureinViciafabaL.，BiologiaPlantarum57(2):380-384
+
+ZhangWP,XinJia,ChristianDamgaard,E.CharlesMorris,Yan-YuanBai,ShaPanandGen-XuanWang*2013.Theinterplaybetweenabove-andbelow-groundplant&ndash;plantinteractionsalonganenvironmentalgradient:insightsfromtwo-layerzone-of-influencemodels.Oikos122:1147-1156
+DengJM,RanJZ,WangZQ,FanZX,WangGX,JiMF,LiuJ,WangY,LiuJQ,2012,BrownJH.Modelsandtestsofoptimaldensityandmaximalyieldforcropplants.PNAS，109(39):15823-15828.
+DengJM,ZuoWY,WangZQ,FanZX,JiMF,WangGX,RanJZ,ZhaoCM,LiuJQ,NiklasKJ.2012,HammondST.,BrownJH.Insightsintoplantsize-densityrelationshipsfrommodelsandagriculturalcrops.PNAS,109(22)8600-8605.
+ZhangWP,JiaXE.MorrisC,BaiYYWangGX*,2012.Stem,branchandleafbiomass-densityrelationshipsinforestcommunities.EcolRes,2012,27,819-825.
+BaiYanyuan,WeipingZhang,XinJia,NanWang,ShanshanXu,GenxuanWang*.2011.Howlateraldimensionofrootsdeterminesabovegroundself-thinning.EcologicalComplexity8:310&ndash;312.
+JiaXin,Xin-FengDai,Zhu-XiaShen,Jun-YanZhangandGen-XuanWang.*2011Facilitationcanmaintainclusteredspatialpatternofplantpopulationsduringdensity-dependentmortality:insightsfromazone-of-influencemodel.Oikos120:472&ndash;480..
+ZhangWei-Ping,JiaXin,BaiYan-YuanGen-XuanWang*.Thedifferencebetweenabove-andbelow-groundself-thinninglinesinforestcommunities.EcolRes,26:819&ndash;825.2011.
+Fan-jiangWU1,Ze-longYU2,Xiao-pingWEI2,Jian-mingDENG2,TaoLI2,Chang-mingZHAO2,Gen-xuanWANG.2010,RELATIONSHIPBETWEENGROUNDWATERDEPTHANDPATTERNOFNETPRIMARYPRODUCTIONINOASIS-DESERTECOTONE.POLISHJOURNALOFECOLOGY.(Pol.J.Ecol.),58,4:775&ndash;786
+GANYi,LeiZHOU,Zhong-JiSHEN,Zhu-XiaSHEN,Yi-QiongZHANG,andGen-XuanWANG2010,Stomatalclustering,anewmarkerforenvironmentalperceptionandadaptationinterrestrialplants.BotanicalStudies,51:325-336
+ZhangH,ShenZX,WangGX,DaiXF,HuangQ.2010.semnsitivityacidmodulatespositiveinteractionsbetweenArabidopsisthanlianaindividuals.JournalofIntegrativePlantBiologyVol.52,3Pages:340-346
+BaiYanyuan,WeipingZhang,XinJia,NanWang,LeiZhou,ShanshanXu,GenxuanWang*2010.Variationinroot:shootratiosinducedthedifferencesbetweenaboveand
+belowgroundmassedensityrelationshipsalonganariditygradient.ActaOecologica36(2010)393e395
+Dong-LiangCheng,1Gen-XuanWang2*,Quan-LinZhong1*2009。Age-RelatedRelationshipBetweenAnnualProductivityAndBodySizeOfTrees:TestingTheMetabolicTheory.PolishJournalOfEcology(Pol.J.Ecol.),573441&ndash;449
+Dong-LiangCheng,Gen-XuanWang,Quan-LinZhong.2009.InvariantAllometricRelationshipBetweenAboveandBelow-GroundBiomassAlongAMoistureGradientInNorth&ndash;WestChina.PolishJournalOfEcology(Pol.J.Ecol.),574669&ndash;675
+DaiXinfeng,XinJia,WeipingZhang,YanyuanBai,JunyanZhang,YuWangandGenxuanWang2009.Plantheight-crownradiusandcanopycoverage-densityrelationshipinstressfulenvironmentsrelationshipsdetermineabove-groundbiomass-density.Biologyletter,5,571&ndash;573
+HuangQQ,ChenQ,WangY,JiaX,DaiXF,ZhangH,HeF,PengSL,WangGX*.2009.DeterminantsofthegeographicalextentofinvasiveplantsinChina:effectsofbiogeographicalorigin,lifecycleandtimesinceintroduction.BiodiversConserv,DOI10.1007/s10531-009-9751-y
+Bao-MingChen&nbsp;Gen-XuanWang*Shao-LinPeng2009.RoleofdesertannualsinnutrientflowinaridareaofNorthwesternChina:anutrientreservoirandprovider.PlantEcol(2009)201:401&ndash;409
+龚春梅宁蓬勃王根轩梁宗锁2009.C3和C4植物光合途径的适应性变化和进化.植物生态学报2009,33(1)206~221
+QiaoQ.HuangAEJianM.WuAEYanY.BaiAEL.ZhouAEGenX.Wang2009.IdentifyingthemostnoxiousinvasiveplantsinChina:roleofgeographicalorigin,lifeformandmeansofintroduction.BiodiversConserv18:305-316
+DengJ-M,LiT,WangG-X,LiuJ,YuZ-L,etal.2008.Trade-OffsbetweentheMetabolicRateandPopulationDensityofPlants.PLoSONE3(3):e1799.
+YunWang,Jian-mingDeng,TaoLi,Zhong-KuiXie,Ruo-yuWangandGen-xuanWang,2008.SpatialDistributionofLeafformandtheSelf-thinningExponentareAffectedbytheSensitivityoftheResponsetoAbscisicacidinanArabidopsisthalianaPopulation.Journalofplantbiology51(1),64-73.
+*LiuJ.,WangG.X.,WeiL.andWangC.M.,2008,ReproductiveAllocationPatternsinDifferentDensityPopulationsofSpringWheat.JournalofIntegrativePlantBiology,&nbsp;50(2):141&ndash;146
+HaoZhang,Jian-NaLi,Gen-XuanWang,Xin-FengDai,Mu-QingQiu,Ke-FengZheng.2008.PlantsinteractionsbetweenSuaedasalsaindividualsaremediatedbysalinitystress.ActaPhysiolPlant(2008)30:99&ndash;104
+Bao-MingChen&nbsp;Gen-XuanWang&nbsp;Shao-LinPeng2008RoleofdesertannualsinnutrientflowinaridareaofNorthwesternChina:anutrientreservoirandprovider.PlantEcolDOI10.1007/s11258-008-9526-7
+*YuanWang,Jiu-ShengLinandGen-XuanWang2006。Calcium-MediatedMitochondrialPermeabilityTransitionInvolvedinHydrogenPeroxide-InducedApoptosisinTobaccoProtoplastsJournalofIntegrativePlantBiology,Volume48,Issue4,Page433-439
+Cheng,Dong-LiangGen-XuanWang,TaoLi,Qing-LongTangandChun-MeiGong2007。RelationshipsamongtheStem,AbovegroundandTotalBiomassacrossChineseForestsJournalofIntegrativePlantBiology,49（11）：1573-1579
+LiuJ.,WangG.X.,WeiL.andWangC.M.2007.ReproductiveAllocationPatternsinDifferentDensityPopulationsofSpringWheat.JournalofIntegrativePlantBiology2007,49(12):1&ndash;6
+ChenB.M.,WangG.X.*,ChengD.L.,DengJ.M.,PengS.L.andAnF.B.2007,Vegetationchangeandsoilnutrientdistributionalonganoasis-deserttransitoinalzoneinnorthwesternchina.J.ofIntegrativePlantBiology,49(11):1537-1547
+QiuMQ,WangGX,ZhangWM,andXiongSY2006.Optimizingconditionsforbacterialleachingofcopperfromdiscardedmines.&nbsp;JournalofUniversityofScienceandTechnologyBeijing13(2):108-111
+*Hui-MinYang,Xiao-YanZhang,Gen-XuanWangandJian-HuaZhang.2006.WaterChannelsAreInvolvedinStomatalOscillationsEncodedbyParameter-SpecificCytosolicCalciumOscillations.JournalofIntegrativePlantBiology2006,48(7):790&minus;799
+龚春梅，宁蓬勃，王根轩*，魏小平，贾亚宁，2007。沿绿洲-荒漠过渡带水分梯度分布的芦苇抗氧化保护机理。草业学报，16（4）：41-46
+邓建明，张晓艳，王根轩*，魏小平，赵长明。2006。不同水分条件下春小麦能量利用与密度的关系。生态学报，26（7）：2284-2287。
+DengJM,WangGX*,E.MorrisC.,WeiXP,LiDX,ChenBM,ZhaoCM,LiuJandWangY.2006.Plantmass-densityrelationshipalongamoisturegradientin&nbsp;north-west&nbsp;China.J.ofEcology,84:953-958
+魏小红&middot;，王利民，龙瑞军，，王根轩.2006.外源一氧化氮、水杨酸和过氧化氢对烟草叶片游离氨基酸和可溶性蛋白含量的影响.植物生理与分子生物学学报，2006，32(2)：257&mdash;260
+Zhao,X.,Dai,XWang,GShen,ZZhang,HQiu,M.2006.DevelopmentalmechanismanddistributionpatternofstomatalclustersinCinnamomumcamphora.RUSSIANJOURNALOFPLANTPHYSIOLOGY.53(3):310-315.
+WangY.,LinJ.S.andWangG.X.2006,Calcium-MediatedMitochondrialPermeabilityTransitionInvolvedinHydrogenPeroxide-InducedApoptosisinTobaccoProtoplasts.JournalofIntegrativePlantBiology2006,48(4):433&minus;439
+ChengDL,WangGX*,ChenBMandWeiXP.2006.Positiveinteractions:Crucialorganizersinaplantcommunity.Jofintegrativeplantbiology.48(2):128-136.
+LinJ.,WangY.,WangGX.2006Saltstress-inducedprogrammedcelldeathintobaccoprotoplastsismediatedbyreactiveoxygenspeciesandmitochondrialpermeabilitytransitionporestatus.J.ofPlantPhysiology,163,731-739
+*ZhaoX.,YangY.,ShenZ.,ZhangH.,WangG.*,GangY.2006.StomatalclusteringinCinnamomumcamphora.SouthAfricanJournalofBotany.72:565-569
+*ShenZX,WangGX,LiuZQ,ZhangH,QiuMQ,ZhaoXZ,GanY.2006.Networkregulationofcalciumsignalinstomataldevelopment.ActaPharmacologicaSinica,27:950-958
+*ZhangHao,WangGen-Xuan*,ShenZhu-Xia,ZhaoXing-Zheng,QiuMu-Qing,2006.EffectofsensitivitytoabscisicacidonscalingrelationshipsforbiomassproductionratesandbodysizeinArabidopsisthaliana.ActaPhysiologiaePlantarum,28(4)373-379.
+*LiuJ.,WeiL.,WangC.M.,WangG.X.*andWeiX.P.2006.EffectofWaterDeficitonSelf-thinningLineinSpringWheat(TriticumaestivumL.)Populations.JournalofIntegrativePlantBiology，48(4):415&minus;419
+ZhaoXingzheng,WangGenXuan,ShenZhuxia,ZhangHao,QiuMuqing.2006.ImpactongrowthofCinnamomumcamphoraofelevatedCO2concentrationunderthreesoilwaterlevels.JournalofZhejiangUniversityScienceB,7(4):283-290(EI)
+*ZhaoXingzheng,DaiXingFeng,WangGenxuan,SenZhuxia,ZhangHaoandQiuMuqing.2006.DevelopmentalmechanismanddistributionpatternofstomatalclustersinChinnamomumcamphora.RussianJournalofPlantPhysiology,53(3):310-315.(SCI)
+*ZhaoXingzheng,LuJianbo,WangGenXuan,2006.Soilnutrientsandearthwormdynamicsinabamboo-checkenagroforestrysysteminSouthernChina.Agrochimica,L(3):1-12(SCI)
+
+
+LiaoJX,ChangJie,WandGX*.2005.Stomataldensityandgasexchangeinsixwheatcultivars.CEREALRESEARCHCOMMUNICATIONS33(4):719-726
+
+ZhangHao,WangGenxuan,LiuZhiqiang,ShenZhuxia,ZhaoXingzheng.2005,Sensitivityofresponsetoabscisicacidaffectsthepowerofself-thinninginArabidopsisthaliana.BotanicalBulletinofAcademiaSinica,46:347-353
+&nbsp;
+QiuMu-Qing,XiongShui-Ying,ZhangWei-MingandWangGen-Xuan*.2005,Acomparisonofbioleachingofchalcopyriteusingpurecultureoramixedculture.MinernalsEngineering,18:987-990
+QiuMu-Qing,WangGen-Xuan*andShenZhu-Xia.2005,BacterialleachingofdiscardedcopperoresfromYongping,China.JournalofUniversityofScienceandTechnologyBeijing,12:294-297
+*Lin,JS;Wang,Y;Wang,GX.2005.Saltstress-inducedprogrammedcelldeathviaCa2+-supercriptstop-mediatedmitochondrialpermeabilitytransitionintobaccoprotoplasts.PLANTGROWTHREGULATION45(3):243-250
+*LiChao-Zhou,WangDiandWangGen-Xuan2005.Theprotectiveeffectsofcobaltonpotatoseedingleavesduringosmoticstress.Bot.Bull.Acad.Sin.46:119-125
+*YangHM,ZhangXY,WangGX.2004.Relationshipsbetweenstomatalcharacter,photosyntheticcharacterandseedchemicalcompositioningrasspeaatdifferentwateravailabilities.&nbsp;JournalofAgriculturalScience.142:675-681.
+*WuD.X.,WangG.X.,BaiY.F.,LiaoJ.X.,2004.EffectsofelevatedCO2concentrationongrowth,wateruse,yieldandgrainqualityofwheatundertwosoilwaterlevels.Agriculture,EcosystemandEnvironment,104:493-507
+*WuD.X.,WangG.X.,BaiY.F.,LiaoJ.X.,2004.ResponseofgrowthandwateruseefficiencyofspringwheattowholeseasonCO2enrichmentanddrought.ActaBotanicaSinica,44(12):1477-1483
+*LiCZ,WeiXP,LiW,WangGX.2004.RelationshipbetweenEthyleneandSpermidineintheleavesofGlycyrrhizauralensisseedingsunderrootosmoticstress.RJofPlantPhysiology.51(3):372-378.
+*YangHM,ZhangXY,WangGX2004.Cytosoliccalciumoscillationsignalinginguardcell.PLANTSCI166(3):549-556
+ChenBM,WangZH,LiSX,WangGX,SongHX,WangXN.2004.&nbsp;Effectsofnitratesupplyonplantgrowth,nitrateaccumulation,metabolicnitrateconcentrationandnitratereductaseactivityinthreeleafyvegetables.PlantScience.167:635-643.
+*LiCZ,WangGX*.2004.Interactionsbetweenreactiveoxygenspecies,ethyleneandpolyaminesinleavesofGlycyrrhizaseedlingsunderrootosmoticstress.PlantGrowthRegulation,42:55-60
+*LiCZ,JiaoJ,WangGX.,2004.Theimportantrolesofreactiveoxygenspeciesintherelationshipbetweenethyleneandpolyaminesinleavesofspringwheatseedingsunderrootosmoticstress.PlantScience,166:303-315
+*LiY,WangGX*,XinM,YangHM,WuXJ,LiT,2004.TheparametersofguardcellcalciumoscillationencodesstomataloscillationandclosureinViciafaba.PlantScience,166:415-421
+张晓艳，王根轩，2004全球变化下的植物生理生态学。In:李文华，赵景柱主编《生态学研究与展望》，气象出版社，429-450
+ZhangJ,XingGM,LiaoJX,ZongdongHou,Gen-XuanWang*andYa-FuWang,2003.EffectsofdifferentatmosphericCO2concentrationsandsoilmoisturesonthepopulationsofbirdcherry-oataphid(Rhopalosiphumpadi)feedingonspringwheat
+EURJENTOMOL100(4):521-530
+PanX.Y.,WangGX*.ChenJK.WeiXP.2003.Elevatedgrowthredundancyandsizeinequalityinspringwheatpopulationsmulchedwithclearplasticfilm..J.ofAgriculturalScience140:193-204.
+*Yang,Hui-MinXiao-YanZhang,Gen-XuanWang*,YanLi,Xiao-PingWei.2003.CytosoliccalciumoscillationmayinducestomataloscillationinViciafaba.PlantScinece,165:1117-1122
+*Pan,Xiao-YunGen-XuanWang*,Hui-MinYang,Xiao-PingWei,2003Effectofwaterdeficitsonwithin-plotvariabilityingrowthandgrainyieldofspringwheatinnorthwestChina.FieldCropsresearch80:195-205.
+*MingLi,Gen-XuanWang*,andJiou-ShengLin,2003,ApplicationofexternalcalciuminimprovingthePEGinducedwaterstresstoleranceinliquoricecells.BotanicalBulletinofAcademiaSinica.vol.44：275-284
+JianXiongLiao,GenXuanWang*,2002.EffectsofelevatedCO2anddroughtonchemicalcompositionanddecompositionofspringwheat(Triticumaestivum),Funct.PlantBiol.29:891-897
+Jiu-ShengLin,Gen-XuanWang.2002,DoubledCO2couldimprovethedroughttolerancebetterinsensitivecultivarsthanintolerantoneinspringwheat,PlantScience,163(3):627-637
+chang-Mingzhao,Gen-XuanWang*,2002,EffectsofPhotoprotectioninAmmopiptanthusmongolicus（Maxim.）chengf.LeavestoDroughtStress*,ActaBotanicaCinica.44(11):1309-1313..
+WangGen-Xuan*,ZhangJ,LiaoJX,WangJL,2001.HydropassiveevidenceandeffectivefactorsinstomataloscillationsofGlycyrrhizainflataunderdesertconditions.PlantScience,160(5):1007-1013
+WangGen-Xuan*,LiaoJianXiong,WuDong-Xiu.2001.EvidenceofhydropassivemovementinstomataloscillationsofGlycyrrhizaunderdesertconditions.ActaBotanicaCinica,43(1):41-45
+Jian-LinWang,Gao-Lan,Cui-Sheng,Gen-XuanWangandHai-YanLi.2000.ThearterialsupplytothedigitsoftheforelimbintheBactriancamel(Camelusbactrianus).J.Anat.196,pp.193-202
+Jian-LinWang,Cui-Sheng,Gen-XuanWangandHai-YanLi.2000.ThearterialsupplyofthecarpaljointintheBactriancamel(Camelusbactrianus).VeterinaryResearchCommunications,24:75-84
+WangJL,LanG,WangGX,LiHY,XieZM.2000.Anatomicalsubdivisionsofthestomachofthebactriancamel(Camelusbactrianus).JournalofMorphology,Vol245,Iss2,pp161-167
+WangJL,Gao-Lan,Cui-Sheng,WangGX,LiHY.2000,Thearterialsupplyofthecubitaljointinthebactriancamel(Camelusbactrianus).VeterinaryResearchCommunications.&nbsp;Vol24,Iss1,pp1-9
+Dong-XiuWu,Gen-XuanWang*,2000.TheinteractionofCO2、droughtonthegrowth,wateruse,andyieldofbroadbean(Viciafaba)EnvironmentalandExperimentalBotany,43:131-139
+PanXiao-Yun,CaoQin-Dong,WangGen-Xun,2002.Evaluationoflipidperoxidationforuseinselectionofcoldhardinesscultivarsofalmond.ActaEcologicaSinica(生态学报),22(11):121-130.
+杨惠敏，李燕，王根轩*，2002，蚕豆气孔运动中水通道和离子通道的作用和地位的探讨。植物生态学报，26（6）：656-660.
+潘晓云，曹琴东，王根轩*，杨晓燕，2002。扁桃与桃光合作用特征的比较研究。园艺学报，29（5）：403-407
+张钧,杨惠敏,林久生,王根轩*，王亚馥,王静,2002，大气CO2浓度变化对禾谷缢管蚜种群动态的影响。昆虫学报，45（4）：477-481
+李明，王根轩，2002，干旱胁迫对甘草幼苗保护酶活性及脂质过氧化作用的影响。生态学报，22（4）：503-507
+廖建雄，王根轩*，2002，干旱、CO2和温度升高对春小麦光合、蒸发蒸腾及水分利用效率的影响。应用生态学报，13（5）：547-550
+潘晓云、王永芳，王根轩*、曹琴东，王静,2002。覆膜栽培下春小麦种群的生长冗余与个体大小不整齐性的关系。植物生态学报，26（2）177-184
+邢更妹，李杉，崔凯荣，王根轩*，抗锈小麦新品系与感病品种甘麦8号水杨酸含量和相关酶类活性的变化，作物学报，2002，28（3）：355-358
+潘晓云、王根轩*、曹琴东，兰州地区引种的美国扁桃的越冬伤害与临界致死低温，园艺学报，2002，29（1）：63-65
+林久生,王根轩*.活性氧与植物细胞编程性死亡，植物生理学通讯，2001,37（6）：551-555
+魏小平，王根轩*，吴冬秀，干旱和CO2浓度升高对春小麦生理和农艺性状的交互效应研究，兰州大学学报，2001，37（s）：84-90
+杨惠敏，王根轩*，保卫细胞胞质中Ca2+浓度变化与气孔开闭之间的关系，植物生理学通讯，2001，37（3）：269-273
+侯宗东，王根轩*，不同密度和不同水分状况下春小麦光合初探,中国沙漠，2001，21（3）：236-239
+杨惠敏，王根轩*，干旱和CO2浓度升高对干旱区春小麦气孔密度及分布的影响，植物生态学报，2001，25（3）：312-316
+杨惠敏，王根轩,一种新的分子武器&mdash;SAGE,生物技术，2001，11（4）：35-37
+林久生,王根轩,雒梅.谷胱甘肽还原酶基因的真核表达载体的构建及对马铃薯的转化,中国农业科学,2001,34(2)：223-226
+林久生,王根轩*.渗透胁迫诱导小麦叶片细胞程序性死亡，植物生理学报,2001，27(3)：221-225
+张钧刘敬王根轩*王亚馥，不同土壤水分条件下CO2浓度对禾谷缢管蚜种群的影响。应用生态学报，2001，12（2）：253-256
+徐仰仓，王静，刘华，王根轩,外源精胺对小麦幼苗抗氧化酶活性的促进作用，植物生理学报，2001，27（4）：349-352
+陈雄吴冬秀王根轩任红旭，2000，CO2浓度升高对干旱胁迫下小麦光合和抗氧化酶活性的影响。应用生态学报，11（6）：881-884
+廖建雄，王根轩*，植物的气孔振荡及其应用前景，植物生理学通讯，2000，36（3）：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;272~276
+廖建雄，王根轩*，光照和水流阻力对小麦蒸腾波动的影响，作物学报，2000，5：605-608
+廖建雄，王根轩*，CO2和温度升高及干旱对小麦叶片化学成分的影响，植物生态学报，2000，24（6）：744~747
+林久生，王根轩*，2000,CO2倍增对渗透胁迫下小麦叶片的抗氧化酶类及细胞程序性死亡的影响，植物生理学报，2000，5：453-457
+林久生，王根轩*，2000,细胞程序性死亡和生态适应，祖元刚，孙梅，康乐主编，生态适应与生态进化的适应机理，高等教育出版社，Springer出版社，2000
+潘晓云，王根轩*，曹孜义，2000,扁桃在我国的适宜气候生态引种区研究，生态学报，20&nbsp;（6）：1069-1075
+孔英珍周功克王根轩王亚馥2000，影响根癌农杆菌转化的因素及其在单子叶作物上的应用。应用生态学报，11（5）：791-794。
+孔英珍，姚春娜，王根轩，王亚馥，2000，利用快中子束将外源基因导入枸杞的研究，西北植物学报，20（4）：525-527
+徐仰仓，王静，林久生，王根轩,不同CO2浓度渗透胁迫对小麦幼苗膜质过氧化的影响.应用生态学报，2000，11(6)：878-880
+冯兆忠，徐仰仓，李焕梅，王静，王根轩2000.三唑酮对黄瓜子叶抗氧化酶活力的影响.西北植物学报，2000，20（6）：1022-1026
+Gen-XuanWang*,Dong-XiuWu,Song-LingZhao,1999.Effectofrainwaterharvestingagricuoltureonsoilerosioninloessplateau.In:JohnM.Laflen(ed):SoilErosion&amp;DrylandFarming,CRCPress.
+廖建雄王根轩*1999，谷子叶片光合速率日变化及水分利用效&alpha;率。植物生理学报25（4）：362-368
+吴冬秀王根轩*1999，半干旱条件下春小麦种群不整齐性动态及其水分生理生态基础。生态学报，19（2）：254-258
+王根轩*，调控气孔开合振荡提高作物水分利用效率的研究。中国学术期刊文摘，1999，5（12）：1537-1538
+吴冬秀，王根轩*赵松岭，黄土高原半干旱区水土保持植被类型选择的生态经济学思考，科技导报，1998，10:57-58
+王根轩1998，多学科多层次交叉纵深整合改造农业&mdash;&mdash;论干旱农业新技术革命。科技导报，118：40－43
+WangGen-Xuan*,WuDong-Xiu,ZhaoSong-Ling,1997,Effectofrain-waterharvestingagricultureonthesoilerosioninloessplateau.InternationalSymposiumonSoilErosionandDrylandFarming,pp173
+WuDong-Xiu*,WangGen-Xuan,ZhaoSong-Ling,1997,Discussionontheoptimumwaterandsoilconservationvegetationinsemi-aridareaofloessplateauintermsofecologicaltheories.InternationalSymposiumonSoilErosionandDrylandFarming,pp160
+WangGen-Xuan1995,ThestudiesofphotosyntheticoscillationsinsomehigherplantresponsetoCO2enrichment.PostdoctoralReportofDublinUniversity
+王根轩赵松岭1995，半干旱生态条件下春小麦群体生态场的空间分布规律。生态学报15(2)：121～127
+王根轩赵松岭1994，生态场综合定量法优化农林间作群落的研究II:泡桐林带对小麦和玉米的生态场效应的时空动态。生态学报14(s)：50～55
+杨好伟王根轩1994，河南蔷薇科植物新记录。河南大学学报24(1):85~89
+王根轩赵松岭1993大气干旱条件下胀果甘草气孔振荡的RLC电路模拟，应用生态学报4(2)：131-135
+王根轩赵松岭1993，半干旱条件下植物个体的综合生态效应的空间距离分布规律。生态学报，13(1):58-66
+王根轩1993，生态场理论。地球科学进展。8(6):76-78
+王根轩1993，泡桐林带生态场对玉米光合产物的源库运输速率关系作用的空间动态。中国植生学会第6届年会论文集，科学出版社。
+王根轩等1992，生态场综合定量法优化农林间作群落的研究I:林带间光照强度的变化规律。河南大学学报22(s)：23～29
+王根轩1992，连续测定叶片膨压变化的挂码法。植物生理通讯28(3)：219～220
+王根轩1992，探索生物间相互作用规律的生态场理论。大自然探索11(3)：52～56
+宋纯鹏王根轩1992，植物衰老的指标及其评价。河南大学学报22(s):1～8
+王根轩1992，W2型果蔬保鲜剂的保鲜效果及食用安全性研究。河南大学学报22(s)：108～112
+卜云华王根轩等1992，开封菊花品种及分类标准。河南大学学报22(s)：89～95
+王根轩，吕忠恕1989，白兰瓜果实库活力与同化物的合成、运输与分配。兰州大学学报，25(2):99~104
+王根轩杨成德梁厚果1989，蚕豆叶片衰老过程SOD和MDA的变化。植物生理学报15(1):13~17
+王根轩，吕忠恕1986，白兰瓜光合产物的运输及其机理。兰州大学学报，22(1):101-106
+			
+				
+			Researchwork
+			
+			Ecology;TechnologyofBio-energy,SustainableagricultureResearchinterest:
+
+Themaincharacteristicistoinvestigatetheinteractionsbetweenorganismsandenvironmentsoramongorganismsbycombiningthetwowings,ecologyandmolecularbiologywhicharecarryingthebiologyflying,ofmodernbiology.
+Metabolicecology:Theshiftoftheruleofmetabolicecologyalongthegradientofenvironmentinplants.Especiallyonthequantitativemodlebasedonthephysiologicalandbiochemicalbases.
+PhysiologicalEcologyincrops:especiallyonthestomatalregulationtoincreaseproductivityandwateruseefficiency.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			
+				
+			Contact
+			
+			Phone:0571-88206590
+			E-mail:wanggx@zju.edu.cn
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:GenXuanWang
+		Units:ZhejiangUniversity
+		Title:Professor
+		Myhomepagehasbeenvisited5633times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	
+
+
+Youarevisitor:5633
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,213 @@
+
+
+
+
+
+简介-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0086325";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	简介
+
+
+	永久链接:http://mypage.zju.edu.cn/0086325&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			浙江大学研究员，硕士生导师。兼任浙江大学分析测试中心生物大分子研究室主任。1986年毕业于浙江农业大学植物保护系，2000年获浙江大学昆虫学专业博士学位。1989年起留校，历任研究实习员、助理研究员、副研究员，1999年批准为硕士生导师，2002年晋升研究员。主要从事昆虫生理生化与分子生物学、害虫生物防治、功能基因组、基因芯片及生物信息学软件开发等研究。近年主持或主要参加国家&ldquo;863&rdquo;计划、国家自然科学基金重点和面上项目10余项。获省、部级科技进步一等1项，二等奖1项。申报发明专利10余项。
+&nbsp;
+			
+				
+			工作研究领域
+			
+			主要研究方向：
+1）农业害虫与生物防治（硕士学位方向），从昆虫生理生化与分子生物学的角度揭示寄主识别的信息传导机制；
+2）从生态基因组学和比较基因组学和功能基因组角度评价转基因生物的安全性，利用基因芯片技术开展蜜蜂、昆虫抗逆性等方面的基因表达机制的研究；
+3）从纳米技术和生物技术角度开展生物早期诊断和各种有害生物过敏源方面的研究。
+4）开发各种有害生物信息系统的计算机软件开发，完成了引进林木繁殖材料及观赏植物检疫管理信息系统，菩萨蛮生物信息加工分析系统、引进林木繁殖材料及观赏植物检疫管理信息系统和林业有害生物远程监控信息系统等具有自主知识产权的计算机信息管理软件。
+所在生物大分子研究实验室拥有cDNA文库构建、DNA序列测定、大规模EST研究、生物信息数据挖掘软件、基因芯片的研制及应用、纳米材料制备等研究所需的设备和丰富的理论和技术的实战经验。
+
+
+			
+				
+			联系方式
+			
+						电子信箱：qkgao@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：高其康
+		单位：分析测试中心办公室
+		职称：研究员
+		我的主页共被访问了4193次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		专利成果
+	奖励荣誉
+	实验室介绍
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

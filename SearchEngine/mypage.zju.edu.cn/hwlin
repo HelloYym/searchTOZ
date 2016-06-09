@@ -1,0 +1,219 @@
+
+
+
+
+
+蔺宏伟的个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0004137";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	蔺宏伟的个人主页
+HomepageofHongweiLin
+
+	永久链接:http://mypage.zju.edu.cn/hwlin&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			蔺宏伟,1973年2月出生,博士,副研究员,硕士生导师.1996年于浙江大学应用数学系获学士学位,后在国有大型企业工作三年.2004年于浙江大学数学系获博士学位.其博士学位论文《离散几何信息处理&mdash;&mdash;从点到面》被评为2005年度浙江省（浙江大学）优秀博士学位论文，和2006年度中国计算机学会优秀博士学位论文提名奖.自2004年至今,为浙江大学CAD&amp;CG国家重点实验室固定研究人员.2006年晋升为副研究员.曾应邀赴香港科技大学（2003.5-2003.11）,和美国BrighamYoungUniversity（2007.2-2008.2）访问.作为项目负责人,主持国家自然科学基金两项;主持浙江省自然科学基金一项;作为主要成员,参加973项目（现代大型软件设计的共性基础）,国家自然科学基金重点项目各一项.近年来一直从事几何造型相关领域的理论和应用基础研究,研究方向主要包括逆向工程,曲线曲面拟合的新技术和新方法,区间算术和仿射算术在图形学中的应用等,取得了一些研究成果.自2002年以来,相关成果在国内外著名期刊如《Computer-AidedDesign》、《ComputerAidedGeometricDesign》、《TheVisualComputer》、《ComputersandMathematicswithApplications》、《JournalofComputationalandAppliedMathematics》、《中国科学》、《计算机学报》、《软件学报》等发表或录用论文20余篇,其中第一作者12篇,SCI收录11篇,EI收录12篇.在国内外产生了一定的学术影响，论著不完全统计被国内外同行他引50余次.此外,申请人还应邀作为国际著名学术期刊《Computer-AidedDesign》、《ComputerAidedGeometricDesign》、《PatternRecognitionLetters》等，以及国内期刊《计算机学报》、《计算机辅助设计与图形学学报》，国际会议SiggraphAsia2008审稿人,国家自然科学基金通讯评审专家.
+&nbsp;
+获得的主要学术奖励目录:
+1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;教育部自然科学一等奖2008
+2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;中国计算机学会优秀博士学位论文提名奖2006
+3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江省(浙江大学)优秀博士学位论文&nbsp;2005
+&nbsp;
+主要科研项目目录:
+1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;国家自然科学基金，&ldquo;曲面上曲线设计与构造理论及其应用研究&rdquo;,2006.01~2008.12,批准号:60503057,项目负责人：蔺宏伟，经费:24万
+2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;国家自然科学基金，&ldquo;多张裁剪曲面拼接模型的水密融合&rdquo;，2010.01~2012.12，批准号：60970150，项目负责人：蔺宏伟，经费：34万
+3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江省自然科学基金，&ldquo;网格模型的自适应分割与识别&rdquo;，2010.01~2011.12，批准号：Y1090416，项目负责人，蔺宏伟，经费：8万
+4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;国家自然科学基金重点项目，&ldquo;三维数据表示的理论和关键技术&rdquo;，2010.01~2013.12，批准号：60933008，参与。
+			
+				
+			工作研究领域
+			
+			计算机图形学，几何设计与计算，逆向工程
+			
+				
+			联系方式
+			
+			电话：86-571-88206681-521			电子信箱：hwlin@cad.zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：蔺宏伟
+		单位：计算机科学与技术学院
+		职称：副研究员（自然科学）
+		我的主页共被访问了9029次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	实验室介绍
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	个人主页
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

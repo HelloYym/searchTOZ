@@ -1,0 +1,333 @@
+
+
+
+
+
+高山仰止,景行行止-博客
+
+
+
+
+
+
+varctxPath="http://mypage.zju.edu.cn";
+varb_handle="pengyu";
+varcfg_weblog="http://mypage.zju.edu.cn/weblog";
+vard=newDate()
+varselyear=d.getFullYear();
+varselmonth=d.getMonth()+1;
+
+
+
+
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	color:#111;
+	margin-right:10px;	
+}
+#mainlinkullia,.tagsa:hover{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+.tagsa{
+	margin-right:10px;
+}
+img{
+	border:none;
+}
+
+
+
+
+
+
+
+
+
+
+	
+		首页
+		帮助
+		登录
+	
+
+
+
+
+
+
+	高山仰止,景行行止
+
+
+	永久链接:http://mypage.zju.edu.cn/weblog/pengyu&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+
+
+	中文主页
+英文主页
+			博客
+
+
+
+
+
+
+
+
+
+
+			
+				
+
+	
+[1/1]
+首页	上一页下一页末页
+
+	
+
+浏览模式:普通|列表
+
+
+
+
+
+
+		从玉泉北门到宿舍的路上
+
+作者:彭宇日期:2015-04-01Wednesday
+
+
+
+昨晚在紫金港图书馆看书到八点半的时候出门，心想班车还有二三十分钟才能来，于是走向门口去坐89路公交，走到公共自行车租借的地方，想到好久没有骑车了，这个夜晚，虽然有些热，但骑骑车也尚可，于是租了一辆，一共三俩停在那里的车，估计我挑了最烂的一辆，自己...
+查看更多...
+
+
+
+
+
+分类:默认分类|			固定链接|评论总数0|
+			阅读次数65
+
+
+
+
+
+
+
+		浙大新人
+
+作者:彭宇日期:2013-08-27Tuesday
+
+
+
+2013年3月18日硕士论文答辩，结束了几年的研究生生涯，也是做着结束此生高校生活的打算开始了找工作，大部分人的工作去年就已经确定了，答辩之后便悠哉悠哉满世界游玩去了，或者直接去上班报到去了，我却在毕业之后才开始真正地去找工作。世事多变...
+查看更多...
+
+
+
+
+
+分类:默认分类|			固定链接|评论总数2|
+			阅读次数123
+
+
+			
+			
+		
+		
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+	
+	
+		姓名：彭宇
+		单位：建筑工程学院
+		职称：
+		我共发表了2篇文章
+		共收到2条评论
+		我的主页共被访问了455次
+	
+	
+	
+	
+
+
+我的文章分类
+
+	默认分类
+		
+
+
+
+
+日历
+
+
+
+>>
+年月
+
+
+
+日
+一
+二
+三
+四
+五
+六
+
+
+
+
+
+
+
+
+
+
+
+我的最新文章
+
+
+		从玉泉北门到宿舍的路上
+浙大新人
+	
+
+
+
+
+我的热点文章
+
+
+				浙大新人
+		从玉泉北门到宿舍的路上
+
+	
+
+
+我收到的评论
+
+			
+
+	老师好！自在！
+		
+
+	祝老师一切顺利！
+
+	
+
+
+我的文章汇总
+
+		2015年4月[1]
+		2013年8月[1]
+		
+	
+
+
+链接
+
+
+
+
+
+
+检索
+
+
+
+
+-所有文章-
+默认分类
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+
+
+varflag=newArray();
+flag[0]='2013/08/27';
+flag[1]='2015/04/01';
+
+
+varcale=newCalendar("idCalendar",{
+SelectDay:newDate(),
+onSelectDay:function(o),
+onToday:function(o),
+onFinish:function(){
+$("idCalendarYear").innerHTML=this.Year;$("idCalendarMonth").innerHTML=this.Month;
+for(vari=0,len=flag.length;i<len;i++){
+//alert(flag[i]);
+	vard=newDate(flag[i]);
+	if(this.Year==d.getYear()){
+		if(this.Month==d.getMonth()+1)
+		{
+this.Days[d.getDate()].innerHTML=""+d.getDate()+"";
+			
+		}
+
+	}
+}
+}
+});
+$("idCalendarPre").onclick=function()
+$("idCalendarNext").onclick=function()
+
+
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));

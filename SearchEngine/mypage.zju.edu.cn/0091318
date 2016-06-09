@@ -1,0 +1,208 @@
+
+
+
+
+
+我的主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0091318";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	我的主页
+
+
+	永久链接:http://mypage.zju.edu.cn/0091318&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+&nbsp;&nbsp;&nbsp;现担任浙江大学城市与区域发展研究所副所长，入选浙江省&ldquo;151人才工程&rdquo;第三层次，日本静岡大学访问教授，主要研究方向为旅游规划与设计、区域发展与战略规划、景观规划与设计、资源可持续利用、环境创意设计等。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;近年来，主持国家908专项子课题、教育部规划基金、浙江省社科联重点课题、省级政府规划项目等共5项，主持完成重大横向研究项目共6项；主持完成地方政府及企业委托的各类区域规划及旅游规划研究项目共80多项；内容包括区域发展规划、旅游发展总体规划、旅游区总体规划、村镇发展规划、旅游区详细规划、景观规划设计、旅游项目可行性研究、旅游开发项目策划和旅游资源普查等各个方面。科研成果获浙江省科技进步二等奖1项。
+&nbsp;
+			
+				
+			工作研究领域
+			
+			主讲乡镇规划与管理、旅游规划、旅游资源评价、旅游经济学等课程。
+主要研究领域包括区域经济与旅游开发规划、资源的可持续利用、城市空间优化策略、景观规划设计等。
+
+			
+				
+			联系方式
+			
+			电话：0571-87953995			电子信箱：bin_08150173@sina.com;chshs@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：金平斌
+		单位：地球科学系
+		职称：副教授
+		我的主页共被访问了5869次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

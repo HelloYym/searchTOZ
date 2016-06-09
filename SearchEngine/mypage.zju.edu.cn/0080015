@@ -1,0 +1,226 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0080015";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0080015&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			许为民，男，1951年12月出生于浙江宁波；1980年毕业于浙江大学材料科学与工程系；1989年毕业于浙江大学哲学与社会学系，获哲学硕士学位。
+			
+				
+			工作研究领域
+			
+			1.工作领域：
+1996年-中国研究生德育研究会副主任委员；
+1999年-浙江省研究生教育研究会理事；
+2002年-浙江省自然辩证法研究会副理事长；
+浙江大学研究生工作部部长。
+
+2.学科专业研究领域：
+1）科学技术哲学，科学技术史；
+研究方向：科学技术与社会，科学技术学，科技社会史；
+
+2）高等教育学，教育经济管理；
+研究方向：学位与研究生教育。
+
+3）工商管理硕士（MBA），公共管理硕士（MPA）。
+
+3.主要学术兼职：
+1996年-中国研究生德育研究会副主任委员；
+1997年-浙江省自然辩证法研究会常务理事；
+2002年-浙江省自然辩证法研究会副理事长；
+1999年-浙江省研究生教育研究会理事；
+2003年-中国自然辩证法研究会科学技术学专业委员会（筹）主任委员。
+			
+				
+			联系方式
+			
+			电话：87951868			电子信箱：xwm@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：许为民
+		单位：浙江大学宁波理工学院
+		职称：研究员（高教）
+		我的主页共被访问了12554次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+	出版著作
+	研究成果
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

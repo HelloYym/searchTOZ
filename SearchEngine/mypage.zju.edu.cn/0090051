@@ -1,0 +1,212 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0090051";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0090051&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			钱文荣，男，1966年1月生，浙江桐乡人，浙江大学管理学院教授、博士、博士生导师，农业经济管理系副主任；国家教育部人文社会科学重点研究基地----浙江大学农业现代化与农村发展研究中心学术与对外交流部副部长，乡镇企业与小城镇发展研究所副所长。
+&nbsp;&nbsp;&nbsp;&nbsp;曾于1999年9月至12月赴加拿大Guelph大学进行访问研究；2000年10月赴美国Minnesota&nbsp;大学进行访问研究；2003年6月赴台湾大学参加海峡两岸青年学者论坛。
+&nbsp;&nbsp;&nbsp;&nbsp;曾经或正在主持国家社会科学基金项目1项、国家自然科学基金面上项目1项、浙江省哲学社会科学重点项目2项、其他项目7项。
+&nbsp;&nbsp;&nbsp;&nbsp;在国内权威或核心刊物上发表了&ldquo;农地市场化流转中的政府功能探析&rdquo;&nbsp;（《中国社会科学文摘》，2003；）、&ldquo;浙北传统粮区农户土地流转意愿与行为的实证研究&rdquo;&nbsp;（《中国农村经济》，2002）等学术论文40余篇，出版了《城市化过程中的耕地保护问题》（独著，中国农业出版社，2000）、《中国城市化道路探索》（第一作者，中国农业出版社，2003等专著5部。
+&nbsp;&nbsp;&nbsp;&nbsp;曾获浙江省政府二等奖2次、三等奖2次、浙江省教育厅科技进步二等奖1次、浙江省自然科学优秀论文二等奖和三等奖各式各1次。
+			
+				
+			工作研究领域
+			
+			主要研究领域为:农业经济管理、土地经济管理、产业经济理论与政策等
+
+
+			
+				
+			联系方式
+			
+			电话：(0571)86971590			电子信箱：wrqian@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：钱文荣
+		单位：管理学院农业经济与管理系
+		职称：教授
+		我的主页共被访问了5744次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+	出版著作
+	专利成果
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

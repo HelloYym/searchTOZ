@@ -1,0 +1,212 @@
+
+
+
+
+
+方群教授-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0099482";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	方群教授
+
+
+	永久链接:http://mypage.zju.edu.cn/0099482&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			方群，博士，浙江大学化学系教授，博士生导师，浙江大学微分析系统研究所所长。自1999年底引进到浙江大学工作以来，在微流控分析的基础研究和微流控分析仪器的微型化研制等领域进行了深入、系统的研究。在微流控芯片加工、高通量微量试样引入、自动化微流控液滴筛选分析、微流控吸收光度和激光诱导荧光检测，以及微型化分析仪器的研制等方面，取得了一系列原创性成果。自2002年以来，主持国家和省部级科研项目11项，包括国家自然科学基金重大项目课题、杰出青年基金、科学仪器研制专项、面上项目、国家科技部973项目课题、863计划课题等，2006年获得教育部新世纪优秀人才支持计划资助，2008年获得国家自然科学基金委杰出青年基金资助。发表SCI论文60余篇，其中12篇发表于AnalyticalChemistry和LabonaChip。申请国家发明专利18项，其中11项已获授权。研究成果多次在国际会议上报告，其中包括8次邀请报告，并两次接受国际期刊约稿对研究组的研究成果进行专题介绍。目前担任中国化学会有机分析专业委员会委员，国际分析化学期刊&quot;AnalyticaChimicaActa&quot;编委，以及国内分析化学期刊&ldquo;分析化学&rdquo;、&ldquo;色谱&rdquo;、&ldquo;分析科学学报&rdquo;和&ldquo;化学传感器&rdquo;的编委。
+			
+				
+			工作研究领域
+			
+			1.微流控高通量试样引入和前处理
+2.微流控液滴分析、毛细管电泳、流动注射分析和液相色谱分析
+3.微流控光谱和质谱检测技术
+4.微型化微流控分析仪器的研制
+5.微流控分析系统在高通量筛选、生物分析、临床检验、蛋白质组和单细胞分析中的应用
+
+			
+				
+			联系方式
+			
+			电话：0571-88206771			电子信箱：fangqun@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：方群
+		单位：化学系
+		职称：教授
+		我的主页共被访问了41709次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+	专利成果
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

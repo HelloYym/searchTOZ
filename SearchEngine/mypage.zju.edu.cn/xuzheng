@@ -1,0 +1,265 @@
+
+
+
+
+
+徐政的主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0086075";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	徐政的主页
+HVDCandFACTS
+
+	永久链接:http://mypage.zju.edu.cn/xuzheng&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+
+
+&nbsp;
+徐政简历和研究方向（2013年8月更新）
+&nbsp;
+联系电话：0571-87952074
+电子邮件：xuzheng007@zju.edu.cn;xuzheng007@139.com,
+个人主页：http://www.hvdc.cn/
+&nbsp;
+1、简历
+徐政，1962年生，男，浙江海宁人。于1983、1986和1993年分别在浙江大学电机系获学士、硕士和博士学位。1986年起一直在浙江大学电机系任教，1998年晋升为教授，2000年被批准为博士生导师，2002年入选浙江省151人才工程第一层次，2013年被聘为浙江大学求是特聘教授。1995年6月至1996年6月在新西兰Canterbury大学作访问学者，1998年6月至12月在德国西门子公司作合作研究，2001年7月至9月作为教育部&ldquo;面向２１世纪教育振兴行动计划&rdquo;首批派出的访问学者在加拿大Alberta大学、Manitoba大学和Manitoba直流输电研究中心访问和考察。
+&nbsp;
+2、研究方向
+（1）&nbsp;&nbsp;&nbsp;&nbsp;大规模交直流电力系统分析
+（2）&nbsp;&nbsp;&nbsp;&nbsp;直流输电与柔性交流输电
+（3）&nbsp;&nbsp;&nbsp;&nbsp;风力发电技术与风电场并网技术
+（4）&nbsp;&nbsp;&nbsp;&nbsp;电力谐波与电能质量
+&nbsp;
+3、主要教学和科研成就
+（1）2011年获国家科技进步奖一等奖1项，1997年获国家自然科学三等奖1项，2005年获贵州省科技进步二等奖1项，2008年获中国电力科学技术奖一等奖1项，2000年获浙江省青年科技奖。
+（2）出版专著2部、译著9部，2012荣获机械工业出版社60周年&ldquo;最具影响力作者&rdquo;称号。
+（3）发表论文近300篇，其中SCI或EI收录论文150篇以上。
+（4）获授权国家发明专利12项。
+（5）负责承担过国家自然科学基金面上项目2项，国家973项目子课题1项，国防973项目子课题1项，国家863项目子课题2项，国家科技支撑计划项目子课题4项，重大工程研究项目数十项。
+（6）已培养全日制研究生66人，其中获博士学位23人、硕士学位43人。
+&nbsp;
+4、已出版著作目录
+【1】&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;徐政等著.柔性直流输电系统.机械工业出版社，2012.
+【2】&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;徐政译.超高压交流地下输电系统的性能与规划.机械工业出版社，2012.
+【3】&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;徐政译.风力发电的模拟与控制.机械工业出版社，2011.
+【4】&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;徐政译.智能电网中的电力电子技术.机械工业出版社，2010.
+【5】&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;徐政译.瞬时功率理论及其在电力调节中的应用.机械工业出版社，2009.
+【6】&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;徐政译.配电可靠性与电能质量.机械工业出版社，2008.
+【7】&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;徐政译.电力电容器.机械工业出版社，2007.
+【8】&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;徐政译.高压直流输电与柔性交流输电控制装置－静止换流器在电力系统中的应用.机械工业出版社，2006.
+【9】&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;徐政译.基于晶闸管的柔性交流输电控制装置.机械工业出版社，2005.
+【10】&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;徐政著.交直流电力系统动态行为分析.机械工业出版社，2004
+【11】&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;徐政译.电力系统谐波－基本原理、分析方法和滤波器设计.机械工业出版社，2003.
+【12】&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;徐政主编.电力系统分析学习指导.机械工业出版社，2003.
+&nbsp;
+5、在加强产学研用结合、技术成果转化，为产业发展提供技术支持方面的贡献
+为全面掌握直流输电核心技术，打破国外企业的技术封锁，徐政教授领导的科研团队自2005年起积极参与了国家发改委主导、南方电网科学研究院有限责任公司组织的&quot;高压直流输电工程成套设计自主化&quot;项目，对直流输电的主回路设计技术进行了深入的研究，提出了换流变压器、平波电抗器、交流侧滤波器和直流侧滤波器设计的成套方法，完成了《高压直流输电基本设计软件包》的开发，为实现直流输电换流站成套设计全面自主化作出了重要贡献；该软件包目前已转让给国内近10家电力设计企业，为我国直流输电产业的发展提供了技术支持；该成果作为&ldquo;高压直流输电工程成套设计自主化开发与工程实践&rdquo;项目的一个重要组成部分，获得了2011年国家科技进步一等奖。
+&nbsp;
+6、在弘扬优秀文化、推进科学普及、服务社会大众等方面的贡献
+徐政教授积极引进和普及国外在电气工程领域的先进技术，是机械工业出版社&ldquo;国际电气工程先进技术译丛&rdquo;的主要发起人之一，该丛书目前已出版30多种，具有巨大的社会影响，其中徐政教授一人独译9种。2012年在机械工业出版社（工业领域全国图书零售市场占有率第一）创办60周年之际，徐政教授荣获了机械工业出版社60周年&ldquo;最具影响力作者&rdquo;称号，是浙江大学唯一获此殊荣的教师。
+&nbsp;
+7、主要学术兼职
+（1）中国南方电网公司专家委员会委员
+（2）全国高压直流输电工程标准化技术委员会委员
+（3）全国电力电子学标准化技术委员会输配电系统电力电子技术分技术委员会委员
+（4）电力行业高压直流输电技术标准化技术委员会委员
+（5）电力行业电能质量及柔性输电标准化技术委员会委员
+（6）《高电压技术》、《南方电网技术》、《电力系统保护与控制》、《高压电器》、《电力建设》、《电力系统装备》、《电力电容器与无功补偿》和《广东电力》等8种学术刊物的编委。
+&nbsp;
+
+
+
+
+			
+				
+			联系方式
+			
+			电话：0571－87952074			电子信箱：xuzheng007@139.com;www.hvdc.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：徐政
+		单位：电气工程学院电机工程学系
+		职称：教授
+		我的主页共被访问了52420次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	发表论文
+	出版著作
+	研究成果
+	奖励荣誉
+	实验室介绍
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	徐政实验室的网站
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

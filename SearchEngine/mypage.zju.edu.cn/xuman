@@ -1,0 +1,218 @@
+
+
+
+
+
+徐曼个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0007382";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	徐曼个人主页
+
+
+	永久链接:http://mypage.zju.edu.cn/xuman&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+
+&nbsp;徐曼，女，1975年4月，硕士，高级教练。
+&nbsp;&nbsp;1996年毕业于上海体育学院武术系，此后至2007年一直担任杭州市陈经纶体育学校武术队的教练工作，担任教练期间，所带队员累计获得浙江省青少年武术比赛金牌近150枚，曾四次受到杭州市政府嘉奖，并被评为杭州市优秀教练员。
+&nbsp;&nbsp;2006年4月考取浙江大学在职研究生体育硕士，2009年3月硕士毕业。
+&nbsp;&nbsp;2007年调入浙江大学，在承担教学训练工作方面，带领浙江大学学生累计获得国际大赛金牌六枚，全国性单项比赛金牌20余枚，银牌数枚。在科研方面指导2006级本科生毛亚琪的SRTP《对武术套路难度动作的运动生物力学分析&mdash;&mdash;以毛亚琪的单跳后空翻接蝶步为例》。合作出版的书和参与的课题有：《儿童武术训练基础》；《大学武术》编著；参与浙江省体育局课题《浙江省优秀武术套路跳跃类难度动作创新与优化》；参与杭州2008年度哲学社会科学规划常规性重点课题《后奥运时代的民间体育研究&mdash;&mdash;基于杭州武术社团发展规模的思考》；参与国家体育总局武术管理中心课题《后奥运会时期中国武术可持续现代化指标体系构建及其评估的研究》；参与国家体育总局课题《清末民初中国武术文化发展的研究》;2013年主持国家体育总局课题《中国青少年武术发展研究》。另外，与林小美、吴剑、郑芳、郭怡等老师共同合作的《武术教学课程建设及其成果辐射》获浙江大学校级教学成果二等奖获奖项目。&nbsp;在社会服务及学科建设方面，2007年担任全国武术套路锦标赛（男子赛区）裁判工作荣获&ldquo;体育道德风尚奖&rdquo;，2009年被评为高校优秀武术教练员称号，2009年成为武术国家级裁判，担任2006级民族传统体育专业班主任工作，担任浙江省高校民族传统体育协会副秘书长工作，担任2007年全国武术套路锦标赛（男子赛区）裁判工作，担任2007年浙江省青少年武术套路锦标赛裁判工作，担任2008年浙江省青少年武术套路锦标赛裁判工作，担任2009年全国武术传统赛的裁判工作。
+&nbsp;
+&nbsp;
+
+&nbsp;
+			
+				
+			工作研究领域
+			
+			①传统体育理论与实践②武术理论与方法③体育与养生
+
+			
+				
+			联系方式
+			
+						电子信箱：hzxuman@163.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：徐曼
+		单位：教育学院体育学系
+		职称：高级教练
+		我的主页共被访问了7683次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	出版著作
+	奖励荣誉
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

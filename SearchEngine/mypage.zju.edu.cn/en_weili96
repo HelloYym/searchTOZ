@@ -1,0 +1,213 @@
+
+
+
+
+
+Dr.WeiLi-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0006011";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	Dr.WeiLi
+Integrity,Hardwork,Success
+
+	Permanentlink:http://mypage.zju.edu.cn/en/weili96&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			Blog
+
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			Dr.WeiLi,professorandASMEFellow,ofEnergyEngineering,ZhejiangUniversity(ZJU),PRChina,hasbeenveryactiveinheatandmasstransfer,airconditioningresearchanddevelopmentfor25yearssinceheobtainedBSinmechanicalengineeringintheXi'anJiaoTongUniversity(XJTU)in1987.WeiLicametotheUnitedStatesin1992tohaveobtainedMSandPh.D.withProf.RalphL.WebbinHeatTransferinthePennsylvaniaStateUniversityin1998.AfterheworkedintheindustryintheUnitedStatesforeightyears,hewashiredasafullprofessorintheDepartmentofEnergyEngineering(ZJU)in2006.HiscorrelationshavebeenincludedintheSectionofTwo-Phaseflowof"2013ASHRAEHandbook-Fundamentals".
+
+Dr.WeiLi’sresearchinenhancedheattransferhasbeenfocusedonoptimizingtheheattransferperformanceofheatexchangersincludingadvancedfingeometries,internaltuberoughness,andothertechniquessuitablefrom-scratchdesignsaswellasin-serviceequipment.Hewasinvolvedinexperimental,numerical,andtheoreticalaspectsofmicro-scaleheatandmassprocess.Hepublishedover110journalpapersandconferencepapers.Dr.Liisrecognizedasaninternationalleaderinmiro-enhancedheattransfer.HemadepresentationsandseminarsatdozensoftopuniversitiesinChina,andMIT,Stanford,UniversityofMaryland,PennState,UniversityofHouston,HongKongPolytechnicUniversity,UniversityofToronto,andsooninrecentyears.Especially,hewasinvitedtobeaplenaryspeakertodeliveraconferencekeynotetwiceatthe2007and2009ChineseNationalHeatTransferConference,respectively.HisMastergraduateobtainedfullscholarshipandcontinuedPh.D.studyinDepartmentofMechanicalEngineeringatMITinUS;HisDoctorgraduateobtainedafacultyofferasassistantprofessorinDepartmentofEnergyEngineeringatLundUniversityinSweden.Hehasbeenaregionaleditor-JournalofEnhancedHeatTransfersince2007.
+Journalpaperspublishedin2010:
+[1]WeiLi,Wavesurfaceofboundarylayer,ExperimentalThermalandFluidScience,Volume34,Issue7,October2010,Pages838-844
+[2]WeiLi,ZanWu,Ageneralcorrelationforevaporativeheattransferinmicro/mini-channels,InternationalJournalofHeatandMassTransfer,Volume53,Issues9-10,April2010,Pages1778-1787
+[3]WeiLi,ZanWuAgeneralcriterionforevaporativeheattransferinmicro/mini-channels,InternationalJournalofHeatandMassTransfer,Volume53,Issues9-10,April2010,Pages1967-1976.
+[4]WeiLi,ZanWu,Ageneralcorrelationsforadiabatictwo-phasepressuredropinmicro/mini-channels,InternationalJournalofHeatandMassTransfer,Volume53,Issues13-14,June2010,Pages2732-2739。[
+5]WeiLi,QuanqiuLi,ModelingCoolingTowerFoulinginHelical-RibTubesbasedonVon-KarmanAnalogy,InternationalJournalofHeatandMassTransfer,Volume53,Issues13-14,June2010,Pages2715-2721.
+[6]WeiLi,XialingWang,Heattransferandpressuredropcorrelationsforthemulti-regionlouverfincompactheatexchangers,InternationalJournalofHeatandMassTransfer,Volume53,Issues15-16,July2010,Pages2955-2962
+[7]WeiLi,Zhike,Wang,ZanWu,Generalizedadiabaticpressuredropcorrelationsinevaporativemicro/mini-channels,ExperimentalThermalandFluidScience,2010,(inpress)
+[8]WeiLi,QuanqiuLi,ModelingCoolingTowerFoulinginEnhancedTubesbasedonPrantlAnalogy,JournalofEnhancedHeatTransfer,2010.(inpress)
+[9]WeiLi,ModelingFluctuationofFouling,HeatMassTransfer,2010.(inpress)
+[10]ZanWu,WeiLiAgeneralcorrelationforCHFheattransferinmicro/mini-channels,InternationalJournalofHeatandMassTransfer(accepteduponrevision)
+&nbsp;
+&nbsp;
+			
+				
+			Researchwork
+			
+			EnhancedHeatTransfer,HeatExchanger,ThermalEnginnering.MicroTwo-phaseFlow,Air-conditioning,SupercriticalFlow,NuclearReactorSafety,RenewableEnergy
+			
+				
+			Contact
+			
+			Phone:01186-57187952244
+			E-mail:weili96@zju.edu.cn;weili96@hotmail.com
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:WeiLi
+		Units:DepartmentofEnergyEngineering
+		Title:Professor
+		Myhomepagehasbeenvisited4593times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	
+
+
+Youarevisitor:4593
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

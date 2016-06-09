@@ -1,0 +1,236 @@
+
+
+
+
+
+吕萍个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0090229";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	吕萍个人主页
+
+
+	永久链接:http://mypage.zju.edu.cn/pinglu&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			学历
+
+&nbsp;&nbsp;&nbsp;1980-1984，原杭州大学化学系,学士学位；
+&nbsp;&nbsp;&nbsp;1984-1987，原杭州大学化学系，硕士学位；
+&nbsp;&nbsp;&nbsp;1987-1990，原杭州大学化学系，博士学位；
+
+
+工作经历
+
+&nbsp;&nbsp;&nbsp;1990-1998，原杭州大学，教师（1993年晋升副教授，1998年晋升教授）；
+&nbsp;&nbsp;&nbsp;1998-迄今，浙江大学化学系，教授
+&nbsp;&nbsp;&nbsp;1995-2002，南加州大学化学系高级访问学者（多次）。
+
+
+
+社会兼职
+
+&nbsp;&nbsp;&nbsp;中国化学会理事，浙江省化学会常务理事、秘书长。
+			
+				
+			工作研究领域
+			
+			1.	有机合成方法学Methodologyoforganicsynthesis
+2.	荧光构效关系Fluorescentstructure-propertyrelationship
+3.	荧光化学探针Fluorescentchemosensors
+4.	有机光电材料Organicoptoelectronics
+
+
+
+			
+				
+			联系方式
+			
+			电话：13777847196			电子信箱：pinglu@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：吕萍
+		单位：化学系
+		职称：教授
+		我的主页共被访问了42958次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	实验室介绍
+	研究成果
+	发表论文
+	出版著作
+	学术交流（讲座报告）
+	专利成果
+	奖励荣誉
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

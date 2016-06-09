@@ -1,0 +1,228 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0082081";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0082081&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			刘济林教授，就读于清华大学、中科院研究生院，信息与通信工程研究所所长。
+主要论文著作及被收录获奖情况
+Recentpublications
+1.陈国斌，刘济林，王兴国，孙小叶，一种CBR码率控制方法，浙大学报（理学版）ISSN1008-9497,Vol.31,No.1p34－37,2004.1
+2.ChenGuobin,LuXin-ning,WangXingguoandLiuJi-lin,Acomplexity-scalablesoftware-basedMPEG-2videoencoder,JournalofZhejiangUniversitySCIENCE,No.5,Vol.5,May.,2004,ISSN1009-3095
+3.薛全，刘济林，陈建乐，H264中带有中途停止的多层逐次消元运动估计算法，中国图象图形学报，第9卷，第6期，2004年6月
+4.孙小叶，陆新宁，刘济林，王兴国，一种基于整体―局部特性的VBR码率控制算法，计算机工程与应用，第40卷，第22期，2004，CN11-2127/TPISSN1002-8331
+5.陈国斌，刘济林，孙小叶，姜超&ldquo;一种单通道VBR码率控制算法&rdquo;，电子学报,第32卷，第7期，pp11841187-1408,2004.7
+6.宋加涛，刘济林，池哲儒，王蔚，一种适合于表情分析的人脸二值边缘图像的提取，中国图象图形学报，第9卷，第10期，2004年10月
+7.陈国斌，刘济林，姜超，王正友一种适于移动视频通信的运动估值算法，电路与系统学报，第9卷，第5期，2004年10月，p34-37
+8.姜超，刘济林，王兴国基于OMAP的MPEG－4实时解码器的实现，电子技术应用，第30卷第11期，2004年11月
+9.刘杰，刘济林，TEMPESTAttack对信息安全的威胁与对策，浙江大学学报（理学版）ISSN1008-9497,Vol.31,No.5p528－534,2004.9
+10.YuChunheandLiuJilin,Atypeofsensortodetectoccupancyofvehicleberthincarpark,7thinternationalconferenceonsignalprocessingproceedings(ICSP&rsquo;04)Aug.31&ndash;Sept.4,2004,Beijing,China(EI04478467428)
+11.于春和、刘济林，一种新型车辆泊位检测器，传感技术学报，17卷，第4期，2004，ISBN1004-1699CN32-1322/TN
+12.宋加涛，李培弘，丁莉雅，刘济林，指纹图像的预处理方法，计算机工程，第30卷，第23期，p116-117,2004.12，CN31-1289/TPISSN1000-3428
+13.HeZhiwei,Liu,Jilinetal.Anewautomaticextractionmethodofcontaineridentitycodes,IEEETransactionsonIntelligenttransportationsystems,vol.6No.1,Mar.2005,ISSN1524-90502/4
+14.Song,Liatao，Chi,ZheruA,Liu,Jilin,Arobusteyedetectionmethodusingcombinedbinaryedgeandintensityinformation，PatternRecognition,v39,n6,June,2006,p1110-1125
+主要科研项目及获奖情况
+&nbsp;国家自然科学基金重点项目（2006－2009）基于机器视觉传感器的月球车导航和控制
+本科教学（课程名称及所用教材）
+信息工程导论
+			
+				
+			工作研究领域
+			
+			机器视觉、数字视频及智能交通系统
+
+			
+				
+			联系方式
+			
+			电话：0571-87951529			电子信箱：liujl@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：刘济林
+		单位：信息与电子工程学系
+		职称：教授
+		我的主页共被访问了26710次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	研究成果
+	专利成果
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

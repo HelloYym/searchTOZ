@@ -1,0 +1,1 @@
+{'name': [u'\u5434\u4f1f\u4e30'], 'title': [u'\u5efa\u7b51\u8bbe\u8ba1\u7814\u7a76\u9662\u526f\u9662\u957f   \u4e2d\u5171\u6d59\u6c5f\u5927\u5b66\u5efa\u7b51\u8bbe\u8ba1\u7814\u7a76\u9662\u59d4\u5458\u4f1a\u4e66\u8bb0   '], 'photo': '', 'pos': './person.zju.edu.cn/spell-W.html?size=25&sort=&page=43', 'blog': [], 'intro': '', 'department': [u'\u9662\u529e\u516c\u5ba4']}

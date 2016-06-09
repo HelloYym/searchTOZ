@@ -1,0 +1,218 @@
+
+
+
+
+
+JiayiShen-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0013210";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	JiayiShen
+
+
+	Permanentlink:http://mypage.zju.edu.cn/en/jshen&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			EnglishHome
+			
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			
+EducationBackground
+2013.07,PhD,TheUniversityofAdelaide(Australia),GeotechnicalEngineering
+2009.06,MEng,ChongqingUniversity(China),MiningEngineering
+2007.06,BEng,WuhanInstituteofTechnology(China),CivilEngineering
+ProfessionalExperience
+2013.10-now,Lecturer,InstituteofPort,CoastalandOffshoreEngineering,ZhejiangUniversity.
+2013.07-2013.10,ResearchAssociate,SchoolofCivil,EnvironmentalandMiningEngineering,TheUniversityofAdelaide.
+JournalPublications
+1.ShenJ*,KarakusM.(2014)SimplifiedMethodforEstimatingtheHoek-BrownConstantforIntactRocks.JournalofGeotechnicalandGeoenvironmentalEngineering.140(6)&nbsp;doi.org/10.1061/(ASCE)GT.1943-5606.0001116&nbsp;
+2.ShenJ,KarakusM*.(2014)Three-dimensionalnumericalanalysisforrockslopestabilityusingshearstrengthreductionmethod.CanadianGeotechnicalJournal.51:164-172.
+3.ShenJ,JimenezR*,KarakusM,&nbsp;XuC.(2014)Asimplifiedfailurecriterionforintactrocksbasedonrocktypeanduniaxialcompressivestrength.RockMechanicsandRockEngineering.&nbsp;47:357-369.
+4.ShenJ,KarakusM*,XuC(2013)Chart-basedslopestabilityassessmentusingthegeneralizedHoek-Browncriterion.InternationalJournalofRockMechanicsandMiningsciences.64:210-219.
+5.ShenJ,KarakusM*,XuC(2012)DirectexpressionsforlinearizationofshearstrengthenvelopesgivenbytheGeneralizedHoek-Browncriterionusinggeneticprogramming.ComputersandGeotechnics.44:139-146.
+6.ShenJ,KarakusM*,XuC(2012)Acomparativestudyforempiricalequationsinestimatingdeformationmodulusofrockmasses.TunnellingandUndergroundSpaceTechnology.32:245-250.
+7.ShenJ*,PriestS.D,KarakusM(2012)DeterminationofMohr-CoulombshearstrengthparametersfromgeneralizedHoek-Browncriterionforslopestabilityanalysis.RockMechanicsandRockEngineering.45:123-129.
+
+			
+				
+			Researchwork
+			
+			1.Slopestabilityanalysis
+2.Theestimationofdeformationandstrengthofrockmasses
+3.Applicationofgeneticprogrammingingeomechanics
+4.Numericalmodelinginslopeandtunnelingengineering
+
+
+var_clustrmaps=;(function())();
+			
+				
+			Contact
+			
+			Phone:+8613735537231
+			E-mail:jiayi@zju.edu.cn
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:JiayiShen（沈佳轶）
+		Units:InstituteofPort,CoastalandOffshoreEngineering
+		Title:Lecturer
+		Myhomepagehasbeenvisited2438times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	
+
+
+Youarevisitor:2438
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

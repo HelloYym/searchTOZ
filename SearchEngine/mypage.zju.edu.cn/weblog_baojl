@@ -1,0 +1,356 @@
+
+
+
+
+
+包家立-博客
+
+
+
+
+
+
+varctxPath="http://mypage.zju.edu.cn";
+varb_handle="baojl";
+varcfg_weblog="http://mypage.zju.edu.cn/weblog";
+vard=newDate()
+varselyear=d.getFullYear();
+varselmonth=d.getMonth()+1;
+
+
+
+
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	color:#111;
+	margin-right:10px;	
+}
+#mainlinkullia,.tagsa:hover{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+.tagsa{
+	margin-right:10px;
+}
+img{
+	border:none;
+}
+
+
+
+
+
+
+
+
+
+
+	
+		首页
+		帮助
+		登录
+	
+
+
+
+
+
+
+	包家立
+教授
+
+	永久链接:http://mypage.zju.edu.cn/weblog/baojl&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+
+
+	中文主页
+			博客
+
+
+
+
+
+
+
+
+
+
+			
+				
+
+	
+[1/1]
+首页	上一页下一页末页
+
+	
+
+浏览模式:普通|列表
+
+
+
+
+
+
+		生物鲁棒性的科学问题
+
+作者:包家立日期:2008-02-01Friday
+
+
+
+生物鲁棒性是生物系统整体特性中的一种，它指一个生物系统在受到外部扰动或内部参数摄动等不确定因素干扰时，系统仍保持其结构和功能稳定的一种性质。生物体总是处在变化的环境中，但是它可以保持一个相对稳定的内环境，使其在各种环境下都能生存，因此，生物鲁...
+查看更多...
+
+Tags:
+系统生物学_生物鲁棒性
+	
+
+
+
+分类:默认分类|			固定链接|评论总数0|
+			阅读次数489
+
+
+
+
+
+
+
+		经皮给药仪器的创新与挑战
+
+作者:包家立日期:2008-02-01Friday
+
+
+
+1.经皮给药的意义近年来，随着生物技术的发展，愈来愈多的多肽和蛋白质类生物药物应用于临床，生物药物从早期的重组DNA和单克隆抗体快速扩大到多肽、蛋白质、碳水化合物、寡核苷酸和其他基于基因的化合物。这些生物药物一般具有分子量大、高亲水性、生物半衰...
+查看更多...
+
+Tags:
+医疗器械_经皮给药
+	
+
+
+
+分类:默认分类|			固定链接|评论总数0|
+			阅读次数474
+
+
+
+
+
+
+
+		世界卫生组织对医疗器械管理的态度
+
+作者:包家立日期:2008-01-31Thursday
+
+
+
+医疗器械是医疗卫生事业的重要组成部分之一，其管理存在的主要问题是医疗器械的费用、安全性和有效性等。2007年3月22日世界卫生组织秘书处报告了对医疗器械管理的官方态度。世界卫生组织指出全球医疗器械市场估计达1500亿美元以上，预计2009年将增长到1868亿美元，...
+查看更多...
+
+Tags:
+公共卫生管理_医疗器械
+	
+
+
+
+分类:默认分类|			固定链接|评论总数0|
+			阅读次数472
+
+
+			
+			
+		
+		
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+	
+	
+		姓名：包家立
+		单位：公共卫生系
+		职称：教授
+		我共发表了3篇文章
+		共收到0条评论
+		我的主页共被访问了9553次
+	
+	
+	
+	
+
+
+我的文章分类
+
+	默认分类
+		
+
+
+
+
+日历
+
+
+
+>>
+年月
+
+
+
+日
+一
+二
+三
+四
+五
+六
+
+
+
+
+
+
+
+
+
+
+
+我的最新文章
+
+
+		生物鲁棒性的科学问题
+经皮给药仪器的创新与挑战
+世界卫生组织对医疗器械...
+	
+
+
+
+
+我的热点文章
+
+
+				生物鲁棒性的科学问题
+		经皮给药仪器的创新与挑战
+		世界卫生组织对医疗器械...
+
+	
+
+
+我收到的评论
+
+	
+	
+
+
+我的文章汇总
+
+		2008年2月[2]
+		2008年1月[1]
+		
+	
+
+
+链接
+
+
+
+
+
+
+检索
+
+
+
+
+-所有文章-
+默认分类
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+
+
+varflag=newArray();
+flag[0]='2008/01/31';
+flag[1]='2008/02/01';
+
+
+varcale=newCalendar("idCalendar",{
+SelectDay:newDate(),
+onSelectDay:function(o),
+onToday:function(o),
+onFinish:function(){
+$("idCalendarYear").innerHTML=this.Year;$("idCalendarMonth").innerHTML=this.Month;
+for(vari=0,len=flag.length;i<len;i++){
+//alert(flag[i]);
+	vard=newDate(flag[i]);
+	if(this.Year==d.getYear()){
+		if(this.Month==d.getMonth()+1)
+		{
+this.Days[d.getDate()].innerHTML=""+d.getDate()+"";
+			
+		}
+
+	}
+}
+}
+});
+$("idCalendarPre").onclick=function()
+$("idCalendarNext").onclick=function()
+
+
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));

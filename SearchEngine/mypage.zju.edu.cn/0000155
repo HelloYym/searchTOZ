@@ -1,0 +1,214 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0000155";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0000155&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+严晓浪，浙江大学教授，博士生导师。
+1981年获浙江大学电机系电子学专业硕士学位。
+1990年-1993年任北京集成电路设计中心常务副主任兼总工程师，期间部分主持了国家第三级集成电路CAD系统的国家攻关。1993年9月-1994年5月在美国斯坦福大学系统集成研究中心作访问教授。回国后历任杭州电子工业学院院长兼微电子CAD研究所所长，浙江省科学技术委员会主任等职。1999年担任浙江大学电气工程学院院长，浙江大学超大规模集成电路设计研究所所长，浙江大学SOC交叉研究中心主任，2003年起兼任浙江大学信息工程学院院长。
+作为项目负责人先后主持多项国家级的重大研究项目，包括国家自然科学基金国际合作重大项目、重点与面上项目，国家863重大专项，军科院军事预研项目、七五、八五和九五国家重点科技攻关项目、各类国家、军队、省部资助科研项目等，以及许多国内外著名大企业资助的研究项目，研究领域涉及集成电路物理设计和逻辑设计方法与ASIC和SoC设计等，相应成果曾获多项国家级和省部级奖励，包括国家科技进步二等奖、国家教委科技进步一等奖、电子工业部科技进步二等奖、浙江省科技进步二等奖，在国内外发表学术论文150余篇，其中EI(SCI)收录论文60余篇，专著1本。
+此外，曾获中国有突出贡献的硕士学位获得者、国家有突出贡献的中青年科技专家、全国先进工作者和浙江省功勋教师等荣誉称号。曾担任国际信息处理联合会中国委员会主席，全国集成电路CAD专家委员会副主任等职。现任国家&Prime;十五&Prime;863集成电路设计SoC重大专项专家组组长，国家集成电路人才培养专家指导委员会主任委员，兼任中国半导体行业协会副理事长,浙江省电子学会理事长，并担任《电子学报》、《浙大学报》工学版等多种学术刊物的编委。
+			
+				
+			工作研究领域
+			
+			超大规模集成电路设计；VLSI设计自动化
+			
+				
+			联系方式
+			
+						电子信箱：yan@vlsi.zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：严晓浪
+		单位：电气工程学院应用电子学系
+		职称：教授
+		我的主页共被访问了32180次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	出版著作
+	研究成果
+	专利成果
+	奖励荣誉
+	实验室介绍
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

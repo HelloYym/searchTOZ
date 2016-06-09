@@ -1,0 +1,208 @@
+
+
+
+
+
+王晓健-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0006326";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	王晓健
+浙江大学免疫学研究所
+
+	永久链接:http://mypage.zju.edu.cn/wxj&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			王晓健，2004年获的浙江大学免疫学博士学位，现为浙江大学免疫学研究所教授。近年来一直在从事分子肿瘤学和分子免疫学的前沿研究工作，对自主克隆的骨髓基质细胞来源的新型1型号磷酸酶抑制因子2（IPP2）和新型磷脂酰乙醇胺结合蛋白（hPEBP4）的功能进行了深入的研究。发现下调hPEBP4在肿瘤组织的表达可以增强肿瘤组织对抗肿瘤药物的敏感性，提示hPEBP4很可能是乳腺癌、前列腺癌以及卵巢癌治疗的新靶点。对IPP5的研究则证明了IPP5通过调控1型磷酸酶的活性促进结肠癌肿瘤细胞的生长和增值，提示IPP5可能是治疗结肠癌的作用靶点；而在美国Yale大学免疫系进修期间，主要从事移植物抗宿主疾病（GVHD）的发病机制研究。申请人2009年底回国建立独立的实验室，致力于肿瘤免疫和天然免疫的调控机制研究，发现hPEBP4具有促进肿瘤转移的功能，并揭示了其分子机制；证明天然免疫重要调控蛋白TAK1活化必须的新型磷酸化位点及调控机制。近年来共发表学术论文20余篇。其中以第一或共同第一作者在Blood，JBiolChem，ClinCancerRes等发表SCI论文9篇；以通讯作者在Oncogene、JImmunol、PlosOne、LeuRes等SCI杂志发表SCI论文4篇。本人以第一申请人申请国家专利3项、国际专利2项，已获得授权二项。
+			
+				
+			联系方式
+			
+			电话：0571-88206268			电子信箱：wangxiaojian@cad.zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：王晓健
+		单位：
+		职称：教授
+		我的主页共被访问了12233次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		实验室介绍
+	基本信息
+	发表论文
+	专利成果
+	工作研究项目
+	实验室成员
+	实验室活动
+	招生信息
+	奖励荣誉
+	教学工作
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

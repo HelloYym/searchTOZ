@@ -1,0 +1,210 @@
+
+
+
+
+
+高明霞-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0093056";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	高明霞
+
+
+	永久链接:http://mypage.zju.edu.cn/gaomx&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			高明霞，女，工学博士，副教授。1993.03浙江大学材料系硕士毕业后留校任教学和科研工作至今。在2000-2004年间在职攻读博士学位，获博士学位；2001-2005间（2年半）三次作为访问学者在葡萄牙Aveiro大学参加中国－葡萄牙政府间合作项目研究。
+作为项目负责人承担（在研和已完成）了包括国家自然科学基金（2项）、国家&ldquo;973&quot;项目子课题、浙江省科技计划国际合作项目、浙江省自然科学基金、浙江省重点科技创新团队自主设计项目、国家留学回国人员基金在内的国家级、省部级和来自企业的科研项目十多项。
+在EnergyEnvironSci(IF&gt;15)、JMaterChemA、JPowerSources、ElectrochemActa、MaterSciEngA、JEurCeramSoc等学术期刊发表SCI论文170余篇，发表论文被SCI引用3100余次，其中他引2600余次，论文H因子为32。获授权国家发明专利21项。获浙江省高校优秀科研成果一等奖（2011),浙江省自然科学学术奖二等奖（2010)，杭州市自然科学优秀学术成果优秀论文三等奖（2010，2008），杭州市自然科学优秀学术成果优秀论文一等奖（2014年）。
+指导毕业硕士9人，合作指导毕业博士7人。担任本科生的课程教学及研究生德育导师等教学、教育工作。
+兼任浙江省复合材料学会理事，国际电化学学会会员，为JPowerSources,Nanoscale,ChemicalEngineeringJournal,ElectrochemCommun,IntJHydrogenEnergy,ElectrochimActa,JAlloysCompd,EurJInorgChem,&nbsp;MaterSciEngB等十多个国际学术期刊和《稀有金属材料与工程》、《物理化学学报》等多个国内学术期刊的审稿人。
+研究兴趣包括锂离子电池正、负极材料；新型高容量轻金属化合物储氢材料；储氢电极合金；陶瓷基复合材料等。
+			
+				
+			工作研究领域
+			
+			锂离子电池正极和负极材料；新型高容量轻金属化合物储氢材料；储氢电极合金；陶瓷基复合材料。
+			
+				
+			联系方式
+			
+			电话：0571-87952615			电子信箱：gaomx@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：高明霞
+		单位：材料科学与工程学系
+		职称：副教授
+		我的主页共被访问了2180次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		发表论文
+	专利成果
+	工作研究项目
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

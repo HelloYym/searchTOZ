@@ -1,0 +1,296 @@
+
+
+
+
+
+杨青的主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0006128";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	杨青的主页
+精诚所至，金石为开
+
+	永久链接:http://mypage.zju.edu.cn/qingyang&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;
+
+<spanstyle="font-size:11.0pt;font-family:宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;
+mso-fareast-theme-font:major-fareast;mso-hansi-font-family:&quot;TimesNewRoman&quot;;
+mso-bidi-font-family:&quot;TimesNewRoman&quot;;color:#333333"/>
+<spanstyle="font-size:11.0pt;font-family:宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;
+mso-fareast-theme-font:major-fareast;mso-hansi-font-family:&quot;TimesNewRoman&quot;;
+mso-bidi-font-family:&quot;TimesNewRoman&quot;;color:#333333"/>
+<spanstyle="font-size:11.0pt;font-family:宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;
+mso-fareast-theme-font:major-fareast;mso-hansi-font-family:&quot;TimesNewRoman&quot;;
+mso-bidi-font-family:&quot;TimesNewRoman&quot;;color:#333333">&nbsp;&nbsp;
+<spanstyle="font-size:11.0pt;font-family:宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;
+mso-fareast-theme-font:major-fareast;mso-hansi-font-family:&quot;TimesNewRoman&quot;;
+mso-bidi-font-family:&quot;TimesNewRoman&quot;;color:#333333"/>
+<spanstyle="font-size:11.0pt;font-family:宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;
+mso-fareast-theme-font:major-fareast;mso-hansi-font-family:&quot;TimesNewRoman&quot;;
+mso-bidi-font-family:&quot;TimesNewRoman&quot;;color:#333333"/>
+<spanstyle="font-size:11.0pt;font-family:宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;
+mso-fareast-theme-font:major-fareast;mso-hansi-font-family:&quot;TimesNewRoman&quot;;
+mso-bidi-font-family:&quot;TimesNewRoman&quot;;color:#333333"/>
+<spanstyle="font-size:11.0pt;font-family:宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;
+mso-fareast-theme-font:major-fareast;mso-hansi-font-family:&quot;TimesNewRoman&quot;;
+mso-bidi-font-family:&quot;TimesNewRoman&quot;;color:#333333">&nbsp;&nbsp;
+<spanstyle="font-size:11.0pt;font-family:宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;
+mso-fareast-theme-font:major-fareast;mso-hansi-font-family:&quot;TimesNewRoman&quot;;
+mso-bidi-font-family:&quot;TimesNewRoman&quot;;color:#333333"/>
+<spanstyle="font-size:11.0pt;font-family:宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;
+mso-fareast-theme-font:major-fareast;mso-hansi-font-family:&quot;TimesNewRoman&quot;;
+mso-bidi-font-family:&quot;TimesNewRoman&quot;;color:#333333"/>
+<spanstyle="font-size:11.0pt;font-family:宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;
+mso-fareast-theme-font:major-fareast;mso-hansi-font-family:&quot;TimesNewRoman&quot;;
+mso-bidi-font-family:&quot;TimesNewRoman&quot;;color:#333333"/>
+&nbsp;&nbsp;&nbsp;&nbsp;本研究组主要研究方向是微纳光子器件和精密光学测量，包括器件设计、性能优化和初步应用。课题组研究内容涉及纳米材料、微纳激光器、新型紫外LED、高灵敏光探测器、高速宽波段调制器等，并推进其在高灵敏生物监测、光纤电流互感测量、超分辨显微和集成光电子等方面的应用。相关研究已获得了一系列原创性成果，发表SCI论文40余篇，SCI他引700余次，且被DarpaInTheNews、SemiconductorToday封面、LaserFocusworld和科学网等多次报道。
+<pclass="MsoListParagraph"style="margin-left:18.0pt;text-indent:0cm;mso-char-indent-count:
+0"><spanlang="EN-US"style="font-family:&quot;TimesNewRoman&quot;,serif;mso-fareast-font-family:宋体;
+mso-fareast-theme-font:major-fareast">
+&nbsp;
+<spanstyle="font-size:11.0pt;font-family:宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;
+mso-fareast-theme-font:major-fareast;mso-hansi-font-family:&quot;TimesNewRoman&quot;;
+mso-bidi-font-family:&quot;TimesNewRoman&quot;;color:#333333"/>
+&nbsp;
+&nbsp;
+GroupNews
+&nbsp;
+&nbsp;&nbsp;
+
+[2015-07-15]祝贺2012级硕士研究生吴远鹏到加拿大McGillUniversity（麦吉尔大学）攻读博士学位。&nbsp;
+[2015-07-15]祝贺2011级本科毕业生鲁航文到美国Caltech（加州理工大学）攻读博士学位。
+[2014-11-18]祝贺2011级本科生鲁航文荣获浙江大学最高奖项&ldquo;竺可桢奖学金&rdquo;。
+[2014-11-18]祝贺2014届本科毕业生诸葛明华的毕业论文被评为&ldquo;2014届浙江大学百篇特优毕业设计论文&rdquo;。
+[2014-03-06]祝贺2013届本科毕业生钱浩亮的毕业论文被评为&ldquo;2013届浙江大学百篇特优毕业设计论文&rdquo;。
+<spanlang="EN-US"style="font-size:11.0pt;
+font-family:&quot;TimesNewRoman&quot;,&quot;serif&quot;;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+major-fareast;color:#333333">
+&nbsp;
+<spanstyle="font-size:11.0pt;font-family:宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;
+mso-fareast-theme-font:major-fareast;mso-hansi-font-family:&quot;TimesNewRoman&quot;;
+mso-bidi-font-family:&quot;TimesNewRoman&quot;;color:#333333"/><spanlang="EN-US"style="font-size:11.0pt;font-family:&quot;TimesNewRoman&quot;,&quot;serif&quot;;
+mso-fareast-font-family:宋体;mso-fareast-theme-font:major-fareast;color:#333333">
+&nbsp;
+			
+				
+			工作研究领域
+			
+			微纳光子器件：器件设计、性能优化和集成应用。
+
+精密光学测量：高分辨率信息获取技术、高灵敏传感技术和相关软件开发。
+主讲“光谱技术及应用”本科生和研究生课程。
+
+			
+					
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：杨青
+		单位：光电信息工程学系
+		职称：教授
+		我的主页共被访问了33125次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		发表论文
+	研究方向和成果
+	工作研究项目
+	专利成果
+	教学工作
+	出版著作
+	奖励荣誉
+	课题组成员
+	小组相册
+	加入我们
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	浙江大学微纳光子学研究组
+浙江大学硅材料国家重点实验室
+浙江大学光电信息工程学系
+中北大学微米纳米技术研究中心
+南京大学微纳光学与超快光学实验室
+南京大学微结构国家实验室
+Porf.ZhongLinWanggroup
+NSFC
+Prof.PeidongYanggroup
+Prof.C.M.Liebergroup
+Prof.J.Rogersgroup
+FrankOsterlohgroup
+FengWanghomepage
+XudongWanggroup
+Prof.LunDaigroup
+Prof.XiangZhanggroup
+ZhaoweiLiu‘sgroup
+TawfiqueHasan‘sgroup
+Hyuckchoo'sgroup
+RusenYang’sgroup
+JimingBao'sgroup
+ZetianMi'sgroup
+NagarajanRaghavan'sgroup
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

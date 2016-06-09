@@ -1,0 +1,200 @@
+
+
+
+
+
+法语教师-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0077139";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	法语教师
+于2012年授聘于中国人民大学中法学院
+
+	永久链接:http://mypage.zju.edu.cn/0077139&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			1977年毕业于北京大学西语系法语专业。毕业后，先后任教于原杭州大学外国语学院法语专业和浙江大学外国语言文化与国际交流学院法语专业，从事本科生专业法语教学，以及本科生和研究生的法语二外教学工作，开设过基础法语、法语听力、法语阅读、法语视听说、法国外刊选读、国际述评、法国概况、法国人文地理、法语二外等课程。
+
+期间，曾赴法国鲁昂大学（获法国Ma&icirc;trise学位）和拉罗谢尔大学进修学习，并且在法国上诺曼底大区议会协助工作；曾赴非洲马里共和国工作任中国医疗队翻译；曾参加并通过全国导游资格考试，具有专业法语导游资格；曾在浙江大学出国留学服务中心法国部兼任留学咨询顾问。
+			
+				
+			联系方式
+			
+			电话：0571-8808199015382318200			电子信箱：ivorphoto@126.com/0077139@fa.zju.edu.cn（校内）			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：张淑宁
+		单位：浙江大学法语地区人文科学研究所
+		职称：副教授
+		我的主页共被访问了2408次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

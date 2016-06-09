@@ -1,0 +1,204 @@
+
+
+
+
+
+周洁-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0092047";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	周洁
+
+
+	永久链接:http://mypage.zju.edu.cn/zhoujie&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			周洁，男，1968年生，浙江大学副教授，硕士研究生导师。长期从事工程热物理、热能工程中热辐射传递、流体流动检测方法和应用研究、热工自动控制系统（SiemensPLC）研制开发。
+1989年本科毕业于浙江大学能源系，1992年硕士毕业于浙江大学工程热物理专业，留校任教至今，2001年毕业于浙江大学动力工程及工程热物理专业，获博士学位。先后曾为电厂热能工程、能源环境系统工程专业本科生讲授热工平台课程：工程流体力学、传热学、传热传质数值分析、热工实验和微通道流体力学。2006年曾获浙江大学青年教师教学技能比赛二等奖、浙江省青年教师教学技能比赛优胜奖。
+1998年至1999年，作为访问学者赴法国国家应用科学研究院鲁昂分院（INSAdeRouen）系统与过程能量实验室（LESP）进行合作研究工作，对植物油火焰进行光谱法测温研究，同时采用消光法研究火焰中碳黑粒子的粒径分布函数和体积浓度。从事的科研工作方向还有：应用光学信号波动法测量气固两相流中的固体颗粒的浓度和粒径、应用消光信号互相关法测量固体颗粒二、三维空间流动速度、计算机层析技术在炉内温度场重建中的应用研究等。作为项目负责人，承担国家自然科学基金项目&ldquo;基于相关频率调制和小波变换的多种燃烧排放污染气体的联合、在线检测方法研究&rdquo;（项目批准号：50376058），作为主要成员参加的科研项目有：国家自然科学基金项目&ldquo;高温旋转射流互相关法三维流速测量方法的研究&rdquo;（项目批准号：5957630）、&ldquo;基于激光数码全息和计算机层析技术的两相流三维动态测量方法的研究&rdquo;（项目批准号：50576086）、浙江省科委重点项目&ldquo;城市生活垃圾流化床焚烧新技术及发电示范工程&rdquo;、国家重点基础研究发展规划（973）项目&ldquo;循环流化床热解气化燃烧系统控制技术研究&rdquo;，此外，作为项目负责人或成员参加了国际合作项目&ldquo;炉内温度场断层扫描层析技术的研究&rdquo;、国内企业委托项目&ldquo;垃圾和煤混烧异重流化床锅炉监控系统的研制和开发&rdquo;、&ldquo;回转式流化床多段医疗垃圾热解焚烧炉监控系统开发&rdquo;等三十余项横向科研项目。至今已在国内外有关学术期刊、学术会议上共发表论文30篇，其中12篇被EI收录，3篇被SCI收录，3篇获得浙江省自然科学优秀论文二等奖，3篇获得浙江省自然科学优秀论文三等奖。
+			
+				
+			工作研究领域
+			
+			热工自动控制、辐射传热、流体力学
+			
+				
+			联系方式
+			
+			电话：0571-87952535			电子信箱：zhoujie6801@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：周洁
+		单位：能源工程学系
+		职称：副教授
+		我的主页共被访问了2941次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

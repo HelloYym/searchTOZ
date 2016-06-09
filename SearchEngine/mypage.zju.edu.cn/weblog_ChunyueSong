@@ -1,0 +1,465 @@
+
+
+
+
+
+宋春跃(C.Song)-博客
+
+
+
+
+
+
+varctxPath="http://mypage.zju.edu.cn";
+varb_handle="ChunyueSong";
+varcfg_weblog="http://mypage.zju.edu.cn/weblog";
+vard=newDate()
+varselyear=d.getFullYear();
+varselmonth=d.getMonth()+1;
+
+
+
+
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	color:#111;
+	margin-right:10px;	
+}
+#mainlinkullia,.tagsa:hover{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+.tagsa{
+	margin-right:10px;
+}
+img{
+	border:none;
+}
+
+
+
+
+
+
+
+
+
+
+	
+		首页
+		帮助
+		登录
+	
+
+
+
+
+
+
+	宋春跃(C.Song)
+ControlandOptimization
+
+	永久链接:http://mypage.zju.edu.cn/weblog/ChunyueSong&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+
+
+	中文主页
+英文主页
+			博客
+
+
+
+
+
+
+
+
+
+
+			
+				
+
+	
+[1/1]
+首页	上一页下一页末页
+
+	
+
+浏览模式:普通|列表
+
+
+
+
+
+
+		做科研的一个素质要求
+
+作者:宋春跃日期:2015-02-02Monday
+
+
+
+在研究生毕业答辩的评语上,总有一条评语评价该生独立从事科研的能力.什么是独立从事科研的能力?我的理解就是对科研的激情(passion),这种激情就是独立从事科研能力的素质.凡是做科研做的好的学生都具有这样的激情.对科研的激情表现在对科研的主动性上:主动搜索...
+查看更多...
+
+
+
+
+
+分类:随缘自牧|			固定链接|评论总数0|
+			阅读次数62
+
+
+
+
+
+
+
+		谈风景
+
+作者:宋春跃日期:2014-09-23Tuesday
+
+
+
+昔日矛盾有个风景谈,已经把风景的内含给剖析透了.我现在拾人牙慧,结合自己的感受,也来个浅谈风景.现在有闲有钱的人多起来了,旅游就成了一个热门话题.很多旅游网站也相应的多起来了.不过纵观旅游网站上所推荐的内容,大多是国内外著名的高大上的景点,也有为...
+查看更多...
+
+
+
+
+
+分类:随缘自牧|			固定链接|评论总数0|
+			阅读次数51
+
+
+
+
+
+
+
+		坚持理想并为之奋斗
+
+作者:宋春跃日期:2014-08-11Monday
+
+
+
+年青时看传记或听名人讲自己的成功历程,都会涉及到坚持理想并为之奋斗.那个时候对理想的理解有点粗糙,把很宏大很崇高的目标才称之为理想.这样以来,坚持理想并为之奋斗这句话就变得很抽象,距离自己很远,进而对这句话也就没有更深的体会.由于我的后知后觉,直到...
+查看更多...
+
+
+
+
+
+分类:随缘自牧|			固定链接|评论总数0|
+			阅读次数67
+
+
+
+
+
+
+
+		白头发
+
+作者:宋春跃日期:2014-04-14Monday
+
+
+
+我从小有点少白头,一直为自己有白发而苦恼.年青的时候,头上的白发有但不多.偶尔梳头时,如果发现能掉下一根白发,心里就会窃喜,好像感觉头上白发少了些许,心情因此而明朗.现在人到中年,头上的白发也稠密起来,梳头时如果再发现有白发掉下,此时的心里不再...
+查看更多...
+
+
+
+
+
+分类:随缘自牧|			固定链接|评论总数0|
+			阅读次数80
+
+
+
+
+
+
+
+		研讨会
+
+作者:宋春跃日期:2014-04-02Wednesday
+
+
+
+我们每周的研讨会是一个交流信息、商讨问题的salon.如果你在所研究点上没有进展,不妨带给我们文献中的一个概念,一个定义,一个信息,一个现象,也可以是一个地方(例如家乡)的介绍,也可以是书本中一个知识点(例如数学,控制中的一些定义)的讲解,或者是一个个人观...
+查看更多...
+
+
+
+
+
+分类:随缘自牧|			固定链接|评论总数1|
+			阅读次数75
+
+
+
+
+
+
+
+		自控原理
+
+作者:宋春跃日期:2014-03-06Thursday
+
+
+
+自控原理的一本教材名为>.顾名思义教材内容是&ldquo;analysisanddesign&rdquo;,对象是linearcontrolsystem.为此要建立controlsystem的概念,也就是反馈的概念.比如对象系统是一个机构,其输入是群众需求,输出...
+查看更多...
+
+
+
+
+
+分类:随缘自牧|			固定链接|评论总数0|
+			阅读次数88
+
+
+
+
+
+
+
+		年味
+
+作者:宋春跃日期:2014-01-23Thursday
+
+
+
+常听都市的人说年味淡了,那么这个淡了是怎么表现的和造成的呢?我是这样想的:对于一个节日而言,它仅仅是一个载体,它传承着什么,记录着什么,宣示着什么.很多节日来源于宗教.春节也不例外,尽管中国没有自己的宗教(如果有,道教算是).我们的先人利用春节为载体...
+查看更多...
+
+
+
+
+
+分类:随缘自牧|			固定链接|评论总数1|
+			阅读次数123
+
+
+			
+			
+		
+		
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+	
+	
+		姓名：宋春跃
+		单位：控制科学与工程学系
+		职称：教授、博导
+		我共发表了7篇文章
+		共收到2条评论
+		我的主页共被访问了2057次
+	
+	
+	
+	
+
+
+我的文章分类
+
+	默认分类
+		
+随缘自牧
+		
+
+
+
+
+日历
+
+
+
+>>
+年月
+
+
+
+日
+一
+二
+三
+四
+五
+六
+
+
+
+
+
+
+
+
+
+
+
+我的最新文章
+
+
+		做科研的一个素质要求
+谈风景
+坚持理想并为之奋斗
+白头发
+研讨会
+自控原理
+年味
+	
+
+
+
+
+我的热点文章
+
+
+				年味
+		自控原理
+		白头发
+		研讨会
+		坚持理想并为之奋斗
+		做科研的一个素质要求
+		谈风景
+
+	
+
+
+我收到的评论
+
+			
+
+	赞！写得很有道理。...
+		
+
+	上周我手头的事情太...
+
+	
+
+
+我的文章汇总
+
+		2015年2月[1]
+		2014年9月[1]
+		2014年8月[1]
+		2014年4月[2]
+		2014年3月[1]
+		2014年1月[1]
+		
+	
+
+
+链接
+
+
+
+
+
+
+检索
+
+
+
+
+-所有文章-
+默认分类
+随缘自牧
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+
+
+varflag=newArray();
+flag[0]='2014/01/23';
+flag[1]='2014/03/06';
+flag[2]='2014/04/02';
+flag[3]='2014/04/14';
+flag[4]='2014/08/11';
+flag[5]='2014/09/23';
+flag[6]='2015/02/02';
+
+
+varcale=newCalendar("idCalendar",{
+SelectDay:newDate(),
+onSelectDay:function(o),
+onToday:function(o),
+onFinish:function(){
+$("idCalendarYear").innerHTML=this.Year;$("idCalendarMonth").innerHTML=this.Month;
+for(vari=0,len=flag.length;i<len;i++){
+//alert(flag[i]);
+	vard=newDate(flag[i]);
+	if(this.Year==d.getYear()){
+		if(this.Month==d.getMonth()+1)
+		{
+this.Days[d.getDate()].innerHTML=""+d.getDate()+"";
+			
+		}
+
+	}
+}
+}
+});
+$("idCalendarPre").onclick=function()
+$("idCalendarNext").onclick=function()
+
+
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));

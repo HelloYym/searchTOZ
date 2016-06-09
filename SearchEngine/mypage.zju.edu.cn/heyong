@@ -1,0 +1,224 @@
+
+
+
+
+
+贺勇-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0004207";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	贺勇
+建筑学，作为一种生活方式;www.studio12f.net
+
+	永久链接:http://mypage.zju.edu.cn/heyong&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;
+1、学历
+（1）1990.09-1995.06：西安建筑科技大学建筑系本科生，获&ldquo;建筑学学士&rdquo;学位
+（2）1995.09-1998.06：西安建筑科技大学建筑系硕士研究生，获&ldquo;建筑学硕士&rdquo;学位
+（3）2001.09-2004.06：浙江大学建筑系博士研究生，获&ldquo;工学博士&rdquo;学位
+（4）2002.06--2002.09：香港理工大学建筑与房地产系交换学习
+（5）2007.03-2008.04：德国慕尼黑工业大学建筑学院访问学者;&nbsp;师从德国景观建筑大师PeterLatz教授
+&nbsp;
+2．工作经历
+（1）1998~2000，西安建筑科技大学建筑学院讲师
+（2）2000~2001，工作于宜昌市规划管理局
+（3）2004~&nbsp;2012，浙江大学建筑系副教授，硕士生导师
+（4）2013-，浙江大学建筑系教授
+&nbsp;
+			
+				
+			工作研究领域
+			
+			建筑学：建筑设计及其理论；城市与乡村人居环境；产业类建筑与场地再生
+			
+				
+			联系方式
+			
+			电话：13819188904			电子信箱：heyongwl@hotmail.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：贺勇
+		单位：建筑工程学院建筑学系
+		职称：教授
+		我的主页共被访问了11452次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	学术交流（讲座报告）
+	奖励荣誉
+	建筑作品
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

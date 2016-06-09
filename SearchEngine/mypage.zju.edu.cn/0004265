@@ -1,0 +1,239 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0004265";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0004265&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			姓名：&nbsp;郎友兴&nbsp;博士
+浙江大学法学院政治学与行政管理系，副教授
+浙江大学比较政治与公共管理研究所副所长
+出生年月：1964年8月26日
+民族：汉
+籍贯：浙江省临海市
+现地址：
+浙江大学法学院
+政治学与行政管理系
+杭州，浙江省&nbsp;310028
+Email:&nbsp;ylang2002@hotmail.com&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ylang2002@yahoo.com.au&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Tel:&nbsp;86-571-88273376&nbsp;(O)&nbsp;&nbsp;Fax:&nbsp;86-571-88273822
+
+一．教育经历：
+1985年，中国杭州大学哲学学士；
+1990年，中国华东师范大学社会学硕士；
+2000年，澳大利亚塔斯马尼亚大学政府系博士生(注册号：&nbsp;990901)；
+2001年1月&mdash;2004年8月，新加坡国立大学东亚研究所博士候选人（注册号：HT006695H，2004年4月提交论文，2004年8月通过博士论文答辩）。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+二、工作与国际交流经历：
+
+1985年8月&mdash;1995年11月，中国杭州大学政治系，助教、讲师；
+1995年12月&mdash;1998年8月，中国杭州大学政治学与行政管理系，副教授；
+1998年9月&mdash;2000年，中国浙江大学政治学与行政管理系，副教授；
+1996年10月&mdash;1997年10月，澳大利亚默道克大学访问学者；
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1999年9月&mdash;2000年1月，澳大利亚塔斯马尼亚大学访问学者。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2004年9月---，中国浙江大学政治学与行政管理系，副教授。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+三、学术兼职
+
+教育部华中师范大学当代中国农村问题研究中心兼职研究员；
+深圳大学当代中国政治研究所学术委员会委员；
+中国统一战线理论研究非公有制经济人士统战工作理论浙江研究基地研究员。
+			
+				
+			工作研究领域
+			
+			社会理论政治社会学民主与民主化中国农村选举地方政治
+
+
+			
+				
+			联系方式
+			
+			电话：88273376			电子信箱：ylang2002@hotmail.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：郎友兴
+		单位：公共管理学院政治学与行政管理系
+		职称：教授
+		我的主页共被访问了5926次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	出版著作
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

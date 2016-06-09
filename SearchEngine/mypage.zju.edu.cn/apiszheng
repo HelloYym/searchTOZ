@@ -1,0 +1,209 @@
+
+
+
+
+
+与蜂共舞-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0010609";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	与蜂共舞
+
+
+	永久链接:http://mypage.zju.edu.cn/apiszheng&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+浙江大学副教授，杭州市钱江特聘专家，浙江大学求是青年学者，副博导，1984年1月出生，浙江江山人，研究方向为蜜蜂科学；
+发表论文50多篇（SCI论文24篇），其中以第一或共同第一作者发表SCI论文10篇；获国际蜜蜂研究联合会（IBRA）颁发的2009年EvaCrane奖；获浙江省科学技术三等奖1项（排名3/7）、北京市科学技术三等奖1项（排名5/10），获授权发明专利8项；
+主持国家自然科学青年基金项目1项，中国博士后科学基金面上项目1项，博士后科学基金特别资助项目1项，科技部&ldquo;十二五&rdquo;科技支撑计划子课题1项，浙江省公益性技术应用研究项目1项，参与国家自然科学基金2项、教育部重点项目1项。另主持横向课题3项。
+&nbsp;
+
+&nbsp;
+			
+					
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：郑火青
+		单位：动物科学学院特种经济动物科学系
+		职称：副教授（自然科学）
+		我的主页共被访问了10195次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教育背景
+	发表论文
+	专利成果
+	工作研究项目
+	奖励荣誉
+	国际合作与交流
+	社会职务
+	出版著作
+	联系方式
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

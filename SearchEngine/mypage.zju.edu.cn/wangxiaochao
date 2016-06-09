@@ -1,0 +1,227 @@
+
+
+
+
+
+王小潮-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0093391";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	王小潮
+王小潮
+
+	永久链接:http://mypage.zju.edu.cn/wangxiaochao&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;
+
+代表著作（论文）
+1、《普通话水平测试的轻声和次轻音问题》
+2、《普通话水平测试中的&ldquo;特殊舌尖元音&rdquo;》
+3、《服装设计教育和企业结合的品牌链》
+4、《面对资本经济的服装市场与品牌定位》
+5、《新编大学生口语交际教程》（参著）
+
+承担课题
+1、基于地域特点的普通话水平测试评分细则研究
+2、WHY服装流行趋势研究发布
+3、WHY家用纺织品流行趋势研究发布
+
+开设课程
+1、现代汉语
+2、语言学基础
+3、普通话口语
+
+			
+				
+			工作研究领域
+			
+			主要研究领域1、普通话
+2、现代汉语
+3、语言学和应用语言学
+4、流行趋势研究发布
+5、艺术设计教育研究
+
+			
+				
+			联系方式
+			
+			电话：（0571）87078830			电子信箱：w_x_c666@sina.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：王小潮
+		单位：人文学院中国语言文学系
+		职称：副教授
+		我的主页共被访问了10146次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

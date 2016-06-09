@@ -1,0 +1,225 @@
+
+
+
+
+
+岑兆丰-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0087081";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	岑兆丰
+光电系
+
+	永久链接:http://mypage.zju.edu.cn/czf&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			岑兆丰：浙江大学光电信息工程学系光学工程研究所教师，从事光学系统设计和分析、照明系统设计，光学仪器设计和装校，光学分析和设计软件等科研工作，并长期担任几何光学、像差与光学系统、数码摄影技术、计算方法、计算机程序设计等课程的教学工作。
+			
+				
+			工作研究领域
+			
+			光学系统设计和分析、照明系统设计，光学仪器设计和装校，光学分析和设计软件等科研工作，并长期担任几何光学、像差与光学系统、数码摄影技术、计算方法、计算机程序设计等课程的教学工作。
+主要研究方向
+1、光学设计：变焦光学系统(ZoomLens)、红外光学系统(Infraredopticalsystem)、投影光学系统（LCD、LCOS、DLPprojectionopticalsystem）、高质量摄影光学系统(Highqualityphotographyopticalsystem)，非球面光学系统设计(Asphericalopticalsystem)、折衍射光学系统(refractive/diffractiveopticalsystem)、各种光谱仪器、傅立叶变换光学系统、F-θ透镜；
+2、机动车前照灯的设计
+3、大功率白光LED照明系统的设计分析和测量技术；
+4、光学系统温度效应分析和无热化设计；
+5、复杂光学系统杂散光分析；
+6、非球面加工和测量技术；
+7、复杂特殊光学系统设计和分析软件设计，所设计的软件有：
+（1）自由曲面内反射机动车前照灯设计软件
+（2）大型复杂光学系统高阶杂散光分析软件
+（3）照明设计和模拟配光软件
+（4）光学系统热效应分析软件
+（5）复杂介质光传输分析软件
+
+
+
+			
+				
+			联系方式
+			
+			电话：0571-87952302			电子信箱：cenzf@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：岑兆丰
+		单位：光电信息工程学系
+		职称：教授
+		我的主页共被访问了27432次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	出版著作
+	专利成果
+	个人经历
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

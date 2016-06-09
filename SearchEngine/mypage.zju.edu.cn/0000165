@@ -1,0 +1,202 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0000165";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0000165&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			目前科研工作和成果简介及社会学术团体任职：自1992年至今共发表论文、大会报告、工作报告50余篇，其中SCI期刊收录30余篇，另参与2本专著及教科书之编著。近六年主持了由中国博士后基金委、德国工业研究基金、国家新药基金、中科院、教育部、科技部、云南省等提供资助的十余项科研项目。目前正在进行&quot;莲叶橐吾醇之全合成及修复脑细胞活性研究&quot;、&quot;三类抗肿瘤木脂体类化合物的衍生合成一类新药筛选&quot;、&quot;抗肿瘤生物碱构效关系及抗肿瘤机制研究&quot;、&quot;抗老年性痴呆、抗乙肝类天然药物一类新药研究&quot;、&quot;中药现代化及天然药物化学基地建设&quot;等研究项目。另外，还有，&quot;抗乙肝中药二类新药的工艺探索、放大&quot;、&quot;生物技术大规模生产抗老年痴呆症中药活性成分研究&quot;、&quot;生姜中降血脂有效成分或有效部位研究及产业化&quot;、&quot;十种抗糖尿病中草药有效成分及药理活性研究&quot;、&quot;抗疲劳综合症之镇静安神二类新药研发&quot;等与企业紧密合作之横向课题正在进行中。三个强抗乙肝表面抗原活性天然化合物，以及中药单方治疗糖尿病之有效部位及工艺研究正在申报国家专利。&nbsp;
+			
+				
+			工作研究领域
+			
+			天然活性成分提取分离及结构解析/天然药物及先导物全合成、结构修饰
+			
+				
+			联系方式
+			
+			电话：87217313			电子信箱：dryuzhao@hotmail.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：赵昱
+		单位：药学院药学系
+		职称：教授
+		我的主页共被访问了4106次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,254 @@
+
+
+
+
+
+0099457-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0099457";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	0099457
+Playwiththeworld
+
+	永久链接:http://mypage.zju.edu.cn/zhangzhao&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+&nbsp;&nbsp;&nbsp;湖南省宁乡县人，中南（工业）大学应用化学硕士（1993-1996）、冶金物理化学博士（1996-1999），浙江大学化学学科博士后（1999-2001）、教授（2005）、博士生导师，美国电化学学会会员，中国机械工程学会表面工程分会委员，中国腐蚀与防护学会缓蚀剂专业委员会委员，中国腐蚀与防护学会腐蚀电化学及测试方法专业委员会秘书长。
+长期从事电化学、海洋化学和油气田化学的基础理论与应用研究；对材料腐蚀过程的电化学机理、金属电沉积机理和电化学噪声等进行了深入的研究；创新性地导出了表征材料腐蚀类型和腐蚀强度的特征参数（SE和SG，已编入普通高等教育十一五国家级规划教材《电化学测量》，2008年），从而解决了传统的PSD（谱功率密度）特征参数均不能单独正确地刻画材料腐蚀过程的历史遗留问题；创新性地采用电化学噪声的EDP（相对能量分布）谱图实现了金属镀层结构和性能及金属腐蚀类型和强度的在线监测（已编入电化学丛书&mdash;&mdash;《电化学测试技术》，2010年），提出了电化学反应活性能量、晶核/蚀点&ldquo;成核相对能量&rdquo;和&ldquo;生长相对能量&rdquo;的概念并诠释了其意义；首次采用量子化学的观点解释了Zn-Fe合金的异常共沉积行为和Zn-Fe-P合金共沉积中的Fe-P协同效应、建立了Hull&nbsp;Cell阴极电流分布公式并验证了公式的正确性（已编入电化学丛书&mdash;&mdash;《电化学测试技术》，2010年）；同时，在海洋构件的腐蚀监测与防护、油气田开采与原油炼化助剂领域奠定了特色基础，研制的原油H2S脱除剂、自生酸、缓蚀剂和涂料等已经成功试用或应用于海洋构件的防污防腐及油气田的生产开发。目前，已在国内外专业期刊上发表论文100余篇。
+&nbsp;
+工作研究领域：
+(1)Nanostructuredfunctionmaterials;
+(2)Electrochemistrytechniques(includingcorrosionmornitoringandprotectionofmaterials);
+(3)Chemistryofocean,oilandgasfield
+(1).纳米功能材料（主要为纳米功能材料电化学）：本方向致力于纳米功能材料的制备、表征及其相关理论研究。重点研究纳米结构材料的新型电化学制备方法、整体纳米结构（合金、复合）材料的阴/阳极电沉积机理及其相关特性，探索纳米电化学理论。
+(2).电化学技术（包括材料的腐蚀与防护）：本方向致力于研究表征材料结构和性能的电化学监检测技术、材料表面处理技术、阴极保护技术等，奠定预测材料使用寿命和评价材料性能的相关理论基础。重点研究电化学噪声技术、Mg合金等金属材料的环保型节能型阳极氧化技术、材料表面功能性薄膜的电沉积工艺和成膜机理（&ldquo;成核/生长&rdquo;机制）及其相关特性。
+(3).海洋与油气田化学：本方向重点研究海洋和油气田防护技术（如：油气田用高性能涂料、缓蚀剂、选材、阴极保护等）、油气田开采助剂和原油炼化助剂（如：酸压液、自生酸、稠化剂、破乳剂、脱硫剂等）。
+&nbsp;&nbsp;
+联系方式
+办公电话：&nbsp;13305816563(玉泉校区化学系，教八407、422室)
+电子邮箱：&nbsp;eaglezzy@zjuem.zju.edu.cn&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;zhangzhao@zju.edu.cn
+通讯地址：&nbsp;浙江省杭州市浙大路38号、浙江大学玉泉校区化学系（第八教学楼）407实验室，邮编310027
+&nbsp;
+
+&nbsp;
+&nbsp;
+			
+					
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：张昭
+		单位：化学系
+		职称：教授、博导
+		我的主页共被访问了38860次
+标签：NanomaterialsmagneticCorrosion	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+	实验室介绍
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	央力科技
+嘉兴天器新材料科技有限公司
+中国国家自然科学基金委员会
+浙大身份认证信息化办公网
+浙江大学内网办公网
+浙江大学化学系
+浙江大学外网主页
+机票-去哪儿
+上海大学图书馆
+浙江大学校RVPN外网接入
+浙江大学个人主页入口
+浙江大学电子邮箱
+中国铁路客户服务中心
+新浪财经股票
+我的网址导航
+中国机械工程学会表面工程分会
+浙江大学电化学与功能材料研究所
+Google谷歌搜索
+中国电镀网
+92hao123上网导航
+中国民俗网
+玄机网
+中国农业银行
+中国建设银行
+中国银行
+佛教电影大全
+佛教视频网
+图吧
+淘宝网
+支付宝
+厦门航空官网
+1616常用网址
+淘宝网
+支付宝
+浙江大学班车查询系统
+浙江大学科研管理系统入口
+浙江大学财务处
+浙江大学教务管理系统
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

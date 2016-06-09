@@ -1,0 +1,206 @@
+
+
+
+
+
+金之在鎔-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0011744";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	金之在鎔
+
+
+	永久链接:http://mypage.zju.edu.cn/jinshaohua&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+金少华，浙江嵊州人。1997年9月考入浙江大学信电系，2001年6月毕业参加工作，2006年9月考入浙江大学古籍研究所攻读硕士学位，2008年9月起继续在古籍所攻读博士学位，2011年7月起在浙江大学人文学院作博士后研究，2013年9月进古籍所任教。主要从事敦煌学、文选学、经学研究。发表过论文《法藏敦煌〈西京赋〉写卷校补》（《敦煌研究》）、《李善引书&ldquo;各依所据本&rdquo;注例考论》（《文史》）、《〈文选集注〉残卷的来源与编纂体例》（《文学遗产》）、《P.2528〈西京赋〉写卷为李善注原本考辨》（《敦煌研究》）等。
+
+			
+				
+			工作研究领域
+			
+			文选学
+敦煌学
+经学
+			
+				
+			联系方式
+			
+						电子信箱：jinsh@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：金少华
+		单位：古籍研究所
+		职称：助理研究员（社会科学）
+		我的主页共被访问了766次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

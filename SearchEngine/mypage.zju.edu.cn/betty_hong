@@ -1,0 +1,206 @@
+
+
+
+
+
+徐虹-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0011104";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	徐虹
+我思——故我在
+
+	永久链接:http://mypage.zju.edu.cn/betty_hong&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+女，1983年生。&ldquo;非典型&rdquo;理学博士，浙大&ldquo;求是青年学者&rdquo;，硕士生导师。2011年毕业于原子核农业科学研究所后留校任教。曾获国家留学基金委公派奖学金赴美国希望城（CityofHope）国家癌症研究中心贝克曼研究所联合培养两年，获&ldquo;浙江省优秀毕业生&rdquo;称号。研究成果发表在Oncogene、NatureChemicalBiology、MutantRes等高水平SCI刊物上，并获浙江省自然科学学术二等奖的肯定。目前正主持（或参与）国家自然科学基金重大国际合作项目、面上项目、浙江省自然科学基金一般项目、浙江大学青年教师&ldquo;紫金计划&rdquo;、校青年科研创新专项等课题。参与&ldquo;生物物理学&rdquo;、&ldquo;蛋白质组学&rdquo;等课程的授课。
+			
+				
+			工作研究领域
+			
+			1）极端耐辐射球菌的DNA损伤修复相关蛋白质功能研究；2）蛋白质翻译后修饰对DNA损伤修复作用机制研究；3）卵巢癌耐药机制研究及相关诊断标记物开发
+			
+				
+			联系方式
+			
+			电话：0571-86971913			电子信箱：xuhong1685@163.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：徐虹
+		单位：浙江大学原子核农业科学研究所
+		职称：讲师/硕导
+		我的主页共被访问了1472次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		发表论文
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

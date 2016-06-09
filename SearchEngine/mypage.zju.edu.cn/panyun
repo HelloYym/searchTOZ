@@ -1,0 +1,260 @@
+
+
+
+
+
+潘赟的个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0008271";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	潘赟的个人主页
+WelcometoYunPan'sHomePage
+
+	永久链接:http://mypage.zju.edu.cn/panyun&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			潘赟（Pan,Yun）
+2002年毕业于浙江大学信息与电子工程学系，获得学士学位，2008年毕业于清华大学电子工程系，获得工学博士学位。
+2008年7月至2010年6月在浙江大学电气工程学院超大规模集成电路设计研究所从事师资博士后研究工作。
+2012年7月至8月在比利时哈瑟尔特大学（UniversityHasselt）Prof.LucClaesen实验室访问交流。
+2013年11月~至今在美国加州大学圣芭芭拉分校（UniversityofCalifornia,SantaBarbara）Prof.Kwang-Ting(Tim)Cheng实验室访问交流。
+现为浙江大学信息与电子工程学系副教授，博士生导师。在国内外期刊或会议上发表学术论文40余篇，授权国家发明专利8项，主编或参编著作2本。主持或作为主要参与人承担国家重大专项、总装预研、国家&ldquo;863&rdquo;、国家自然基金、教育部教改等项目。
+&nbsp;
+研究兴趣：
+1.片上通信与网络(On-chipcommunicationandNetwork-on-Chip)
+2.移动医疗保健嵌入式系统、ECG传感(Mobileembeddedsystemandmobilehealthcare,ECG/EKGsensor)
+3.智能照相机系统(Smartcamerasystems)
+4.面向应用的异构加速、粒子滤波算法与结构设计(Heterogeneousarchitecturedesignforapplication-specificalgorithms,algorihtmandarchitecturedesignforparticlefilters)
+5.软定义无线电(Circuitdesignforsoftware-definedradio)
+&nbsp;
+&nbsp;
+可穿戴式ECG/EKG检测系统演示视频WearableECG/EKGMonitoringSystemDEMO.(&nbsp;shorterdemoandlongerdemo)
+&nbsp;
+&nbsp;
+教学：
+集成电路设计导论(IntroductiontoICDesign)双语浙江大学信电系本科专业基础课程Spring2013、Spring2012
+超大规模集成电路设计导论(IntroductiontoVLSIDesign)双语&nbsp;浙江大学电气工程学院本科专业基础课程&nbsp;Spring2013、Spring2012、Spring2011、Spring2010、Spring2009
+
+
+
+TrackChair
+IFIP/IEEEInternationalConferenceonVeryLargeScaleIntegration(VLSI-SOC)2014
+
+TPC:
+IEEEInternationalConferenceonComputerDesign(ICCD)2014、2013&#129;、2012
+IFIP/IEEEInternationalConferenceonVeryLargeScaleIntegration(VLSI-SOC)2013、&#129;2012
+Reviewer:
+IEEEInternationalSymposiumonCircuitsandSystems(ISCAS)
+IEEEAsiaPacificConferenceonCircuitsandSystems(APCCAS)
+IEEEInternationalConferenceonASIC(ASICON)
+
+&nbsp;
+&nbsp;
+
+Contactinformation:
+Mailbox:#1713,YuquanCampus,ZhejiangUniversity
+No.38ZhedaRoad,XihuDistrict,Hangzhou
+310027,CHINA
+Email:panyunATvlsiDOTzjuDOTeduDOTcn
+Phone:86-(0)571-87951882
+Fax:86-(0)571-87952486
+
+
+			
+				
+			工作研究领域
+			
+			Hiscurrentresearchinterestsincludeon-chipcommunicationandnetwork-on-chip,mobileembeddedsystemandmobilehealthcare,heterogeneousarchitecturedesignsforapplication-specificalgorithms,architecturedesignforparticlefilters,smartcamerasystems,circuitdesignforsoftware-definedradio.
+			
+				
+			联系方式
+			
+			电话：86-(0)571-87951882			电子信箱：panyunATvlsiDOTzjuDOTeduDOTcn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：潘赟
+		单位：浙江大学信息与电子工程学系
+		职称：副教授
+		我的主页共被访问了12929次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	ZhejiangUniverstiy
+TsinghuaUniversity
+UniversityofCalifornia,SantaBarbara
+HasseltUniversity
+ISEE@ZJU
+EE@Tsinghua
+EE@ZJU
+ECE@UCSB
+EDM@HU
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

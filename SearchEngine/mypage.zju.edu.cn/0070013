@@ -1,0 +1,211 @@
+
+
+
+
+
+个人简介-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0070013";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	个人简介
+
+
+	永久链接:http://mypage.zju.edu.cn/0070013&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;北京电影学院摄影学院毕业，中国摄影家协会会员，浙江省高校摄影教育专业委员会副秘书长，浙江大学广播影视艺术研究所视觉艺术研究中心主任，硕士生导师，传媒与国际文化学院教学实验中心摄影实验室主任。荣获全国抗震救灾优秀摄影家、浙江大学十佳社会实践指导教师，浙江大学优秀班主任、本科生导师等荣誉称号。
+&nbsp;&nbsp;&nbsp;从事摄影艺术创作二十余年，主要题材为人像、风光、纪实、新闻等，获省级以上大小奖一百多项，在伊朗、日本、香港和国内著名刊物、媒体参展、发表作品无数。2007年11月受第十二届丽水中国国际摄影节邀请，举办《魅力喀什》个展。1989年开始摄影教学，在校内外教授《摄影艺术》《新闻摄影》等摄影专业主干课程；《视听语言》《DV短片摄制》《广播电视技术》等影视专业课程。主要研究成果有：出版专著《摄影思维》（浙江摄影出版社2008.1）；发表论文《摄影教育与人才素质培养》（浙大学报&middot;社科版2001.2），并获中国高等教育学会第六次优秀高教科研论文奖；第六届全国摄影理论研讨会优秀论文奖；首届&ldquo;中国科学家、教育家、企业家论坛&rdquo;学术成果交流会教育类论文二等奖；全国高校教师文科优秀论文等；论文《试论专题系列组照的音乐美感》和《表现人类天性，展示人的本质力量》，分别获得第六届全国摄影理论研讨会优秀论文奖与第七届全国摄影理论研讨会优秀论文奖。
+			
+				
+			工作研究领域
+			
+			艺术学（艺术与视知觉）/影像（图片摄影与影视摄影）艺术与技术/摄影教育与人才素质培养
+			
+				
+			联系方式
+			
+			电话：8170099915336541090			电子信箱：lwy_540311@zju.edu.cnlwy_540311@163.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：刘文奕
+		单位：传媒与国际文化学院影视艺术与新媒体学系
+		职称：副教授
+		我的主页共被访问了10039次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	研究成果
+	奖励荣誉
+	实验室介绍
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

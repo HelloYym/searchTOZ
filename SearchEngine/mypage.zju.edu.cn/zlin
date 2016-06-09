@@ -1,0 +1,249 @@
+
+
+
+
+
+浙大地科系林舟-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0010001";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	浙大地科系林舟
+教授，博士生导师
+
+	永久链接:http://mypage.zju.edu.cn/zlin&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+				
+			工作研究领域
+			
+			地貌学，主要包括活动构造地貌，山地地貌及河流地貌的研究
+GIS和遥感在古地理环境复原，环境资源调查与灾害评估等领域中的应用研究
+
+
+主要经历
+东京大学理学博士（2004）
+东京大学博士后研究员（2005）
+东京大学日本学术振兴会研究员（2005-2007）
+东京大学助理教授（2007-2008），客座研究员（2008-2012）
+日本产总研活动断层地震研究中心特别研究员（2008-2010），客座研究员（2010-2012）
+浙江大学教授（2010-）
+中国地震局地质研究所活动构造和火山重点实验室客座教授（2012-）
+
+
+研究项目
+1.国家自然科学基金面上项目：《红河断裂带河流地貌特征的时空演化过程及其对青藏高原东南缘扩展隆
+升过程的响应》，主持人（2015-2018）
+2.浙江省文物保护科技项目：《古环境复原与上山文化遗址的分布规律的研究》，主持人（2015-2017）
+3.教育部博士点专项基金：《活动断层及其地表形变特征自动抽取方法的研究》，主持人（2013-2015）
+4.国家自然科学基金面上项目：《基于高分辨率遥感数据的红河断裂带平均走滑速率的研究》，主持人（2011-2013）
+5.日本原子核能安全基盘机构专项项目：《地震/地震动评价中平移潜在断层的地形学评价手法》，主持人（2009-2010)
+6.日本文部省学术振兴会项目：《基于数字地形解析的日本和台湾的流域扇形地的研究》，主持人（2005-2007）
+
+
+获奖情况
+浙江省海外高层次人才引进“千人计划”（2012）
+浙江省特聘专家（2012）
+浙江省“151人才工程计划”(2012）
+日本学术振兴会特别研究奖励金（2005)
+日本YMCA东京大学留学生奖学金（2001-2004）
+日本文部省外国学生国费奖学金（2000-2004）
+福建省科技进步二等奖（1995）
+
+论著：
+1.Lin,Z.,Kaneda,H.,Mukoyama,S.,Asada,N.andChiba,T.(2013):Detectionofsubtletectonic–geomorphicfeaturesindenselyforestedmountainsbyveryhigh-resolutionairborneLiDARsurvey.Geomorphology,182,104-115.
+2.Lin,Z.andOguchi,T.(2011):Analysesofwatershedlongitudinal/transverseprofilesandstream-netstructureusinghigh-resolutionDEMs.Geomorphometry.org/2011,15-18.
+3.Oguchi,T.,Katsube,K.,Lin,Z.andChen,Y.G.(2011):CharacteristicslopeangleofV-shapedvalleysinhumidsteepmountainswithfrequentslopefailure.Geomorphometry.org/2011,93-95.
+4.Lin,Z.,Oguchi,T.,Chen,Y.-G.andSaito,K.(2009):ConstantslopealluvialfansandsourcebasinsinTaiwan.Geology,37,no.9,787-790.
+5.Lin,Z.andOguchi,T.(2009):LongitudinalandtransverseprofilesofhillyandmountainouswatershedsinJapan.Geomorphology，111，17-26.
+6.金田平太郎&#12539;粟田泰夫&#12539;丸山　正&#12539;林　舟（2009）:2008年岩手&#12539;宮城内陸地震後の一関市厳美町中川地区における地表余効変動についての検討－住民証言，航空レーザー測量および現地測量から－.活断層&#12539;古地震研究報告，9，32-42.
+7.Hayakawa,Y.S.,Oguchi,T.andLin,Z.(2008):Comparisonofnewandexistingglobaldigitalelevationmodels:ASTERG-DEMandSRTM-3.GeophysicalResearchLetters,35,L17404.
+8.Hashimoto,A.,Oguchi,T.,Hayakawa,Y.,Lin,Z.,Saito,K.andWasklewicz,T.A.(2008):GISanalysisofdepositionalslopechangeatalluvial-fantoesinJapanandtheAmericanSouthwest.Geomorphology,100,120-130.
+9.浅田晴久&#12539;松本　淳&#12539;林　舟&#12539;小口　高（2008）：ネパール東部&#12539;サルマータ県における居住と地形条件との関係－地形図のデジタル化とGISによる解析－．地学雑誌，117，561-567．
+10.Lin,Z.andOguchi,T.(2006):DEManalysisonlongitudinalandtransverseprofilesofsteepmountainouswatersheds.Geomorphology,78,77-89.
+11.Lin,Z.andOguchi,T.(2004):Drainagedensity,slopeangle,andrelativebasinpositioninJapanesebarelandsfromhigh-resolutionDEMs.Geomorphology,63,159-173.
+12.林舟&#12539;小口高（2004）：地形学における写真測量法の応用－欧米の事例を中心に－．地学雑誌，111,1-15．
+13.小口　高&#12539;斉藤享治&#12539;原　美登里&#12539;門村　浩&#12539;林　舟（2000）：扇状地データベース－インターネット&#12539;マップ&#12539;サーバーによる地理情報の提供－．地学雑誌，109，120-125．
+14.Lin,Z.Oguchi,T.andDuan,F.(1999):TopographicandclimaticinfluencesonpopulationandsoilinEasttoSoutheastAsia:AGISapproach.GeographicalReviewofJapan,72B,181-192.
+
+
+
+
+			
+				
+			联系方式
+			
+			电话：0571-87953935			电子信箱：linzhou@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：林舟
+		单位：地球科学系
+		职称：教授
+		我的主页共被访问了10377次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

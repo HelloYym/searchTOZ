@@ -1,0 +1,246 @@
+
+
+
+
+
+闫克平-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0006022";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	闫克平
+气体放电、PM2.5
+
+	永久链接:http://mypage.zju.edu.cn/isesp&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			山西平遥人，2006年从荷兰TU/e来浙大工作，2006-2009年环资学院污染控制技术研究所教授，博士生导师，2009年4月至今化学工程与生物工程学院工业生态与环境研究所教授，博士生导师。863计划资源环境技术领域&ldquo;重点行业PM2.5过程控制与减排技术与装备&rdquo;主题项目首席专家（2013.1-2015.12）。
+
+
+
+&nbsp;学术团体任职
+1）国际电除尘学会(http://www.isesp.org/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;主席(2008.10-2011.5)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;理事&nbsp;(2004年-至今)；
+&nbsp;2）&nbsp;荷兰EindhovenUniversityofTechnoloogy(TU/e)在华代表，
+3)&nbsp;&nbsp;&nbsp;科技导报编委
+4）JournalofElectrostatics编委
+5)&nbsp;&nbsp;InternationalJournalofPlasmaEnvironmentalScience&amp;Technology编委
+
+H指数：20
+http://www.scopus.com/authid/detail.url?authorId=7102869201
+教育&nbsp;
+物理学士，北京工学院（北京理工大学）,1979.9-1983.7
+物理硕士，北京工学院（北京理工大学）,1983.9-1986.3
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;论文题目：CSTR中H2+O2的燃烧动力学分析，&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;硕士论文发表：科学通报，1987（中），1988（英）
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;工程热物理学报，1988
+电气工程博士（电气工程系最佳论文获ASML提名奖）：TU/e,2001
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;论文：CoronaPlasmaGeneration,ISBN90-386-1870-0，论文电子版连接：
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;http://alexandria.tue.nl/extra2/200142096.pdf
+			
+				
+			工作研究领域
+			
+			PM2.5，电除尘，水处理，高压电源，声纳，等离子体、化工安全、环境
+
+			
+				
+			联系方式
+			
+			电话：0571-88210340,0571-88210786			电子信箱：kyan@zju.edu.cn,icespxi@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：闫克平
+		单位：工业生态与环境研究所
+		职称：教授
+		我的主页共被访问了127620次
+标签：Non-thermalplasma	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		招生
+	团队
+	新闻
+	学术交流
+	教学工作
+	研究成果
+	发表论文
+	出版著作
+	毕业论文
+	奖励荣誉
+	TU/e奖学金
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	张懿院士
+水野彰教授
+国际电除尘学会
+Journalofelectrostatics
+科技导报
+internationaljournalofplasmaenvironmentalscience&technology
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

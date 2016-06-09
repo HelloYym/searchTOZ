@@ -1,0 +1,325 @@
+
+
+
+
+
+韩晓红-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0005247";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	韩晓红
+浙江大学制冷与低温研究所
+
+	永久链接:http://mypage.zju.edu.cn/zjuhan&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;韩晓红，女，工学博士、副教授、博士生导师。1996年获太原理工大学学士学位，2002年获哈尔滨工业大学硕士学位，2005年获浙江大学博士学位，2007年在浙江大学完成师资博士后，2011年前往美国UIUC（UniversityofIllinoisatUrbana-Champaign）大学机械工程系进行访问。2007年被评为副教授。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+工作研究领域：&nbsp;&nbsp;
+
+
+
+
+1）新型制冷剂物性研究（其中物性研究包括：混合制冷剂汽液相平衡、制冷剂与润滑油相容性研究、制冷剂/润滑油与材料的相容性、制冷剂的密度、制冷剂在换热器中传热传质等）；
+2）制冷与空调系统的设计、优化与控制；
+3）制冷用换热器的数值模拟与软件开发，换热器新型材料及换热器的结构设计；
+4）液化天然气的物性，如天然气的汽液相平衡，天然气的密度等；
+5）热驱动制冷系统的开发；
+6）热管及脉动热管的研究与开发；
+7）IDC机房空调系统的气流组织数值模拟及节能系统设计。
+
+
+
+
+&nbsp;主要的科研项目有：
+
+
+
+
+
+
+
+1.国家自然科学基金项目(51176166),以氟乙烷为主要组份的新型制冷剂管内沸腾换热与阻力特性研究,项目负责人
+2.国家自然科学基金项目(50806063),新型环保制冷剂重要物性数据及与压缩制冷系统耦合特性研究,项目负责人
+3.国家重点基础研究发展计划（973计划）子课题一项（2010CB227304）：动力余热驱动的循环耦合和功冷并供，主要完成人
+4.浙江省自然科学基金项目(Y1090455)：以氟乙烷为主要组份的新型环保混合制冷剂与润滑油溶解特性研究，项目负责人
+5.******国家重点实验室开放研究课题（SKLTSCP1205）：******两相平衡模型建立及分析，项目负责人
+6.******国家重点实验室开放研究课题（SKLTSCP1314）：*******两相系传热传质过程研究，项目负责人
+7.中央高校基本科研业务费专项资金资助(2013QNA4014):新型涡流管三温区制冷循环及关键技术问题研究,项目负责人
+8.浙江大学优秀青年教师资助计划:新型制冷剂与润滑油的相容性研究，项目负责人
+9.浙江大学青年教师交叉研究种子基金项目:带泡沫的脉动热管散热器换热性能研究，项目负责人
+10.LNG密度及相平衡物性实验测试，企业合作项目，项目负责人
+11.浙江省创新团队(N20100428-02).适用于冷藏车的高效节能环保型制冷机组的研发，子项目负责人
+12.中国博士后科学基金项目一等资助（20060400311）新型环保制冷剂与压缩式制冷系统的耦合特性研究，项目负责人
+
+
+
+
+个人的主要荣誉有：
+
+
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1）获浙江大学2007&mdash;2008学年优秀班主任；
+2）获2006年终荣获浙江大学机械与能源工程学学院&ldquo;知荣辱，创和谐&rdquo;我最喜爱的班主任；
+3）获浙江大学2007-2008年事业家庭兼顾型先进个人荣誉称号；
+4）获浙江大学2009-2010年事业家庭兼顾型先进个人荣誉称号；
+5）浙江大学能源工程学系先进工作者2011；
+6）2011年度浙江大学优质教学奖二等奖；
+7）2013年度浙江大学奖教金获得者；
+8）2014浙江省第七届高等教育教学成果奖二等奖（主要参与人）；
+9）2011,2012届浙江大学百篇特优本科毕业设计（论文））指导教师；
+10）浙江省精品课程《虚拟教学制冷实践》主讲老师。
+
+
+
+
+
+代表性论著：
+
+
+
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LingyunFang,ZanjunGao,XiaoyuWang,JunLei,XiaohongHan*,andGuangmingChen.SolubilityandMiscibilityfortheMixtureof(EthylFluoride+AlkylbenzeneOil).J.Chem.Eng.Data,2014,59(5),1636&ndash;1642
+
+
+
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HanX.H.,LiP.,YuanX.R.,WangQ.,ChenG.M.,TheBoilingHeatTransferCharacteristicsoftheMixtureHFO-1234yf/oilInsideaMicro-finTubeInternationalJournalofHeatandMassTransfer,2013,67,1122-1130.
+
+
+
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;QinWang,DahongLi,JiangpuWang;TengfeiSun,XiaohongHan*,GuangmingChen.Numericalinvestigationsontheperformanceofasingle-stageauto-cascaderefrigeratoroperatingwithtwovapor-liquidseparatorsandenvironmentallybenignbinaryrefrigerants.Appliedenergy,2013，112:949&ndash;955.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HanXiaohong,PengLi,YingJieXu,YuJiaZhang,QinWang,andGuangMingChen.CycleperformancesofthemixtureHFC-161+HFC-134aasthesubstitutionofHFC-134ainautomotiveairconditioningsystems.InternationalJournalofRefrigeration,2013,36(3):913-920.&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HanXiaohong,LiNian,WuKongxiang,WangZheng,TangLimingandChenGuangming,XuXiangguo*.Theinfluenceofworkinggascharacteristicsonenergyseparationofvortextube.AppliedthermalEngineering,2013,61,171-177.&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;XiaohongHan,PengLi,ZhengWang,XuehuiWang,XuejunZhang,GuangmingChen.EvaporationheattransferandpressuredropofR161ina7mmmicro-fintube.InternationalJournalofHeatandmasstransfer,2013,62,638-649.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HanXiaohong,LiNian,WuKongxiang,WangZheng,TangLimingandChenGuangming,XuXiangguo*.Theinfluenceofworkinggascharacteristicsonenergyseparationofvortextube.AppliedthermalEngineering,2013,61,171-177.&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Xiao-HongHan,QinWang,Young-GilPark,ChristopheT&rsquo;Joen,AndrewSommers,JacobiA.AReviewofMetalFoamandMetalMatrixCompositesforHeatExchangersandHeatSinks.HeatTransferEngineering,2012,33(12)991-1009.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Han,Xiaohong;Zhang,YuJia;Gao,ZanJun;Xu,Ying-jie;Zhang,XueJun;&nbsp;Chen,Guangming.Vapor-liquidequilibriumforthemixtureMethane(CH4)+Ethane(C2H6)atthetemperaturerangesof(126to140)K.J.Chem.Eng.Data,2012,57(11),pp3242&ndash;3246
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;QinWang,WeiHe,YuqianLiu,GuofengLiang,JiarongLi,XiaohongHan&dagger;,GuangmingChen.VaporcompressionmultifunctionalheatpumpsinChina:areviewofconfigurationsandoperationalmodes.RenewableandSustainableEnergyReviews16(2012)6522&ndash;6538.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;QinWang,RuiLiu,JiangPuWang,FuShengChen,XiaoHongHan*,,GuangMingChen.Aninvestigationofthemixingpositionintherecuperatorsontheperformanceofanauto-cascaderefrigeratoroperatingwitharectifyingcolumn.Cryogenics,2012,52,581-58.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Xiao-hongHan,YuQIU,PengLi,Ying-jieXu,QinWang,Guang-mingChen.CycleperformancestudiesonHFC-161inasmall-scalerefrigerationsystemasanalternativerefrigeranttoHFC-410A.EnergyandBuildings，2012,44,33-38.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;XiaoHongHan,YuJiaZhang,ZanJunGao,YingJieXu,QinWang,andGuangMingChen.Vapor-liquidequilibriumforthemixtureNitrogen(N2)+Methane(CH4)inthetemperaturerangesof(110to125)K.J.Chem.Eng.Data,201257(5)1621-1626.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GaoZanjun,XuYingjie,LiPeng,CuiXiaolong,HanXiaohong*,WangQin,andChenGuangming.SolubilityofrefrigerantTrifluoromethaneinn,n-DimethylFormamideinthetemperaturerangefrom283.15Kto363.15K.Internationaljournalofrefrigeration,2012,35(5)1372&ndash;1376.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Xiao-hongHAN,YuQIU,Ying-jieXU,Men-yuanZHAO,QinWANG,Guang-mingCHEN.CycleperformancestudiesonanewHFC-161/125/143amixtureasanalternativerefrigeranttoR404A.JZhejiangUniv-SciA(ApplPhys&amp;Eng),201213(2):132-139.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;XiaoHongHan,YingJieXu,ZanJunGao,QinWang,andGuangMingChen.Vapor&minus;LiquidEquilibriumStudyofanAbsorptionHeatTransformerWorkingFluidof(HFC-32+DMF).J.Chem.Eng.Data,2011,56(4):1268&ndash;1272.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Xiao-hongHan,Ying-jieXu,Xu-weiMin,Zan-junGao,QinWang,Guang-mingChen.Densitydatafortherefrigerantethylfluoride(HFC-161)overatemperaturerangefrom(233to343)K.J.Chem.Eng.Data,2011,56(7):3038-3042.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;XiaoHongHan,ZhiWeiZhu,FuShengChen,YingJieXu,ZanJunGao,andGuangMingChen.SolubilityandMiscibilityfortheMixtureof(EthylFluoride+PolyolEsterOil).J.Chem.Eng.Data,2010,55,3200-3207.
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Xiao-HongHan,Li-QiCui,Shao-JieChen,Guang-MingChen,QinWang*.Anumericalandexperimentalstudyofchevron,corrugated-plateheatexchangers.InternationalCommunicationsinHeat&nbsp;
+&nbsp;&nbsp;&nbsp;andMassTransfer,2010,37,1008-1014.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;XiaohongHan,ZanjunGao,YingjieXu,YuQiu,XuweiMing,QinWang*,GuangmingChen.IsothermalVapor-liquidequilibriumdataforthebinarymixturedifluoromethane(R-32)+ethylfluoride&nbsp;&nbsp;&nbsp;(R-161)overatemperaturerangefrom253.15to303.15K.FluidPhaseEquilibria,2010,299,116-121.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;QinWang,YingJieXu,ZanJunGao,YuQiu,XuWeiMin,XiaoHongHan*andGuangMingChen.IsothermalVapor-liquidequilibriumdataforthebinarymixtureethylfluoride(HFC-161)+&nbsp;1,1,1,2,3,3,3-heptafluoroproane(HFC-227ea)overatemperaturerangefrom253.15Kto313.15K.FluidPhaseEquilibria,297(2010)67&ndash;71.
+
+
+			
+				
+			联系方式
+			
+			电话：0571-87953944			电子信箱：hanxh66@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：韩晓红
+		单位：能源工程学系
+		职称：副教授
+		我的主页共被访问了15369次
+标签：教学科研并重	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		专利成果
+	教学工作
+	工作研究项目
+	出版著作
+	奖励荣誉
+	研究成果
+	发表论文
+	教学工作
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

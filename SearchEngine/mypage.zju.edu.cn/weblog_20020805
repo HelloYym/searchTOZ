@@ -1,0 +1,329 @@
+
+
+
+
+
+我行我素-博客
+
+
+
+
+
+
+varctxPath="http://mypage.zju.edu.cn";
+varb_handle="20020805";
+varcfg_weblog="http://mypage.zju.edu.cn/weblog";
+vard=newDate()
+varselyear=d.getFullYear();
+varselmonth=d.getMonth()+1;
+
+
+
+
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	color:#111;
+	margin-right:10px;	
+}
+#mainlinkullia,.tagsa:hover{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+.tagsa{
+	margin-right:10px;
+}
+img{
+	border:none;
+}
+
+
+
+
+
+
+
+
+
+
+	
+		首页
+		帮助
+		登录
+	
+
+
+
+
+
+
+	我行我素
+常想一二
+
+	永久链接:http://mypage.zju.edu.cn/weblog/20020805&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+
+
+	中文主页
+			博客
+
+
+
+
+
+
+
+
+
+
+			
+				
+
+	
+[1/1]
+首页	上一页下一页末页
+
+	
+
+浏览模式:普通|列表
+
+
+
+
+
+
+		干部要做到五慎
+
+作者:陈素珊日期:2008-11-13Thursday
+
+
+
+一、要做到慎始　　始，开头，首次之意，&ldquo;慎始&rdquo;就是不可有第一次，这是古人的告诫，细细想来，确实是很有道理的。张瀚在《松窗梦语》中有这样一段记录：张瀚初任御史，去参见都台长官王廷相，王廷相给张瀚讲了一个乘轿见闻。说他乘轿进城遇雨，一轿夫穿...
+查看更多...
+
+Tags:
+1113
+	
+
+
+
+分类:默认分类|			固定链接|评论总数0|
+			阅读次数42
+
+
+
+
+
+
+
+		干部就是干事
+
+作者:陈素珊日期:2008-11-13Thursday
+
+
+
+　　　　　　　　　　　　　　　　　　　　　（一）　　过去叫官，现在叫干部。干部的&ldquo;干&rdquo;，主要的，可解作&ldquo;干事&rdquo;&mdash;&mdash;干事的观念，干事的责任，干事的能力。不想干事或不能干事的不叫干部或不能当干部。　　　　　　　　　...
+查看更多...
+
+Tags:
+1113
+	
+
+
+
+分类:默认分类|			固定链接|评论总数1|
+			阅读次数38
+
+
+			
+			
+		
+		
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+	
+	
+		姓名：陈素珊
+		单位：生物系统工程与食品科学学院
+		职称：副研究员（高教）
+		我共发表了2篇文章
+		共收到1条评论
+		我的主页共被访问了499次
+	
+	
+	
+	
+
+
+我的文章分类
+
+	默认分类
+		
+
+
+
+
+日历
+
+
+
+>>
+年月
+
+
+
+日
+一
+二
+三
+四
+五
+六
+
+
+
+
+
+
+
+
+
+
+
+我的最新文章
+
+
+		干部要做到五慎
+干部就是干事
+	
+
+
+
+
+我的热点文章
+
+
+				干部要做到五慎
+		干部就是干事
+
+	
+
+
+我收到的评论
+
+			
+
+	
+
+
+我的文章汇总
+
+		2008年11月[2]
+		
+	
+
+
+链接
+
+
+
+
+
+
+检索
+
+
+
+
+-所有文章-
+默认分类
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+
+
+varflag=newArray();
+flag[0]='2008/11/13';
+
+
+varcale=newCalendar("idCalendar",{
+SelectDay:newDate(),
+onSelectDay:function(o),
+onToday:function(o),
+onFinish:function(){
+$("idCalendarYear").innerHTML=this.Year;$("idCalendarMonth").innerHTML=this.Month;
+for(vari=0,len=flag.length;i<len;i++){
+//alert(flag[i]);
+	vard=newDate(flag[i]);
+	if(this.Year==d.getYear()){
+		if(this.Month==d.getMonth()+1)
+		{
+this.Days[d.getDate()].innerHTML=""+d.getDate()+"";
+			
+		}
+
+	}
+}
+}
+});
+$("idCalendarPre").onclick=function()
+$("idCalendarNext").onclick=function()
+
+
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));

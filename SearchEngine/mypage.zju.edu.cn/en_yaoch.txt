@@ -1,0 +1,1 @@
+{'name': u':Cheng Yao', 'title': u':', 'photo': u'http://mypage.zju.edu.cn/attachments/63/0311101907-1573245900.jpg', 'pos': './mypage.zju.edu.cn/en|yaoch', 'intro': [u'\n\t\t                \t\t\t\n\t'], 'department': u':College of Computer Science and Technology', 'homepage': 'http://mypage.zju.edu.cn/en/yaoch'}

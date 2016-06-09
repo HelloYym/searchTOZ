@@ -1,0 +1,219 @@
+
+
+
+
+
+于金辉主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0099483";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	于金辉主页
+于金辉主页介绍和说明
+
+	永久链接:http://mypage.zju.edu.cn/jhyu&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1982年在哈尔滨船舶工程学院电子工程系获学士学位。1987年在哈尔滨船舶工程学院电子工程系获硕士学位。1999年在英国Glasgow大学计算机系获博士学位。自2001年起在浙江大学CAD&amp;CG国家重点实验室任教授，计算机应用技术与数字化艺术博士生导师。中国图像图形学会计算机动画与数字娱乐专业委员会委员，数码艺术专业委员会委员，中国动画学会会员。杭州国家动漫基地咨询专家。
+&nbsp;&nbsp;&nbsp;&nbsp;长期从事计算机图形、计算机动画，数字艺术，文化遗产等方面的研究。1984年在国内首次利用微机为电教片《晶体管开关特性》制作动画，该片被当时中央电教馆收购。1995年受清华大学与广西科技出版社出版基金赞助出版《计算机动画原理与制作》专著1部。在英国攻读博士期间，在国际上率先开展卡通特效动画自动生成的研究。承担过国家自然科学基金项目&ldquo;彩墨风格立体卡通动画&rdquo;，&ldquo;三维计算机动画艺术风格绘制&rdquo;，&ldquo;中国传统图形艺术计算机建模与绘制&rdquo;，&ldquo;中国传统艺术计算审美与数字解构艺术绘制研究&rdquo;4项，863高科技研究与发展项目&ldquo;面向卡通动画制作的软件集成系统研究&rdquo;，&ldquo;动漫特效与动画高效渲染制作新技术&rdquo;2项，开发的技术在国内著名湖南三辰动画公司得到应用。基于汉画像拓片黑白图像恢复三维浮雕的研究成果应用于大学数字图书馆国际合作计划（CADAL）数字图书馆中。参与973子课题1项，国家自然科学基金重点项目1项，承担省部级项目3项。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在《ACMTrans.onGraphics》,《IEEETransonVisualizationandComputerGraphics》,《TheVisualComputer》,《ComputerAnimation&amp;Virtualworlds》,《ComputersandGraphics》,《JournalofComputerScienceandTechnology》等国内外重要学术刊物和学术会议上发表论文60余篇。
+			
+				
+			工作研究领域
+			
+			1.计算机卡通动画：卡通动画三维重建，卡通特效（流水、烟雾、火焰、爆炸等）自动生成，动画素材检索与重用，卡通视频序列分析，卡通视频序列风格转换；
+
+
+2.计算机艺术风格动画：3D剪纸动画，GPU实时绘制3D水墨效果；
+
+
+3.中国传统图形建模与绘制：基于汉画像拓片恢复三维浮雕效果，基于书法图像重建三维碑刻与牌匾效果，青铜器3D建模与绘制，青铜器图像虚拟修复（锈斑去除、破损修复），京剧脸谱分析与合成；计算机书法，书法碑帖虚拟修复。
+
+			
+				
+			联系方式
+			
+			电话：(0571)-88206682-508			电子信箱：jhyu@cad.zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：于金辉
+		单位：计算机学院计算机辅助设计与图形学国家重点实验室
+		职称：研究员（自然科学）
+		我的主页共被访问了18404次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	学术交流（讲座报告）
+	专利成果
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	个人主页
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

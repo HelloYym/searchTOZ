@@ -1,0 +1,199 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0081146";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0081146&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;马庆国，男，汉族，1945年9月出生，湖南衡山人。1968年新疆大学数学系毕业。1981年浙江大学管理工程研究生毕业，获硕士学位。曾经担任过中国长江三峡工程论证专家组综合经济组成员、国家自然科学基金会管理学科组评委、&ldquo;首届全国人文社科优秀成果奖&rdquo;管理科学组评委、&ldquo;首届国家社科基金项目优秀成果奖&rdquo;经济学组评委、中国科协首届学术年会&ldquo;科技与金融&rdquo;分会场主席等职。现任国务院学位委员会管理科学学科组成员、国家教育部管理工程指导委员会委员、浙江大学管理学院教授、博士生导师、浙江大学管理学院副院长、浙江大学管理工程研究所所长、中国价值工程协会筹备委员会主任委员、《科研管理》编委、《研究与发展管理》编委、《价值工程》编委、&ldquo;何梁何利科学成就奖&rdquo;提名人等。曾多次赴日本工藤学园、加拿大多伦多大学、UBC大学、美国威斯康辛大学、俄亥俄大学、壬色列尔大学、麻省理工大学的斯隆管理学院和哈佛商学院访问讲学，还考察了美国硅谷高技术产业，并参加华盛顿DC国际会议
+			
+				
+			工作研究领域
+			
+			主要研究领域有高技术产业（企业）管理，科技管理，技术经济，金融、财税与财务管理，城市与区域经济战略与规划等。
+			
+					
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：马庆国
+		单位：管理学院管理科学与工程学系
+		职称：教授
+		我的主页共被访问了4933次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		发表论文
+	奖励荣誉
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

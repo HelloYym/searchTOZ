@@ -1,0 +1,322 @@
+
+
+
+
+
+胡可先-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0002024";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	胡可先
+浙江大学人文学院
+
+	永久链接:http://mypage.zju.edu.cn/hukexian&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+胡可先，1960年1月生，江苏灌南人。1982年毕业于徐州师大中文系，获文学学士学位；1999年毕业于浙江大学中文系，获文学博士学位。现为浙江大学中文系教授、博士生导师。其间2005年11月至2006年3月为日本大阪大学高级访问学者；2011年9月至2012年1月为台湾逢甲大学客座教授。主要学术兼职有中国唐代文学学会常务理事、中国杜甫研究会常务理事兼副秘书长、中华诗教学会理事。胡可先长期从事中国古代文学与中国古典文献学的教学与研究工作,并以唐宋文学为主。唐代文学研究方面，主要侧重于《全唐诗》研究、杜甫研究、杜牧研究、唐代政治与文学研究、出土文献与唐代诗学研究、唐代家族与文学研究等；宋代文学研究方面：主要侧重于宋词文献研究、词人生平事迹研究、词籍笺注等。
+&nbsp;
+主要著作：
+《杜牧研究从稿》，人民文学出版社1993；
+《中唐政治与文学》，安徽大学出版社2000；
+《杜甫诗学引论》，安徽大学出版社2003；
+《政治兴变与唐诗演化》，中国社会科学出版社2003；
+《唐代重大历史事件与文学研究》，浙江大学出版社2007；
+《唐诗发展的地域因缘和空间形态》，中国社会科学出版社2010年版；
+《出土文献与唐代诗学研究》，中华书局2012年版。
+&nbsp;
+主要论文：
+《杜牧诗文编年新考》，《中华文史论丛》1985年第1期；
+《全宋诗琐考》，《文学遗产》1993年第3期；
+《唐代墓志汇编残志考》，《文献》1996年第1期；
+《刘禹锡诗编年新考》，《文史》2001年第1辑；
+《杜牧题池州弄水亭佚诗考》，《文学遗产》2001年第6期；
+《徐松〈登科记考〉补正》，《文史》2002年第3期；
+《唐大和二年制科及相关问题研究》，《社会科学战线》2003年第4期；
+《出土文献与唐代文学史新视野》，《文学遗产》2005年第1期；
+《汪辟疆手批苏诗选评述论》，《文学遗产》2008年第1期；
+《中国古代文学实证研究的思考》，《文学遗产》2012年第3期；
+《新出石刻与白居易研究》，《文献》2008年第2期；。
+《论白居易长恨歌的序与传》，《社会科学战线》2008年第5期；
+《墓志新辑唐代挽歌考论》，《浙江大学学报》2009年第3期；
+《新出土苑咸墓志及相关问题研究》，《清华大学学报》2009年第4期；
+《新出土唐代诗人廖有方墓志考论》，《中山大学学报》2009年第5期；
+《杨氏家族与中晚唐文学研究》，《北京大学学报》2010年第5期；
+《唐代诗人事迹新证》，《浙江大学学报》2010年第5期；
+《&ldquo;蹙金&rdquo;考：一个唐五代诗词名物的文化史解读》，《浙江大学学报》2011年第4期；
+《新出碑志与杜甫研究》，《文史哲》2012年第6期；
+《新出墓志与唐代文学研究的拓展》，《北京大学学报》2013年第4期；
+《文学自传与文学家传：新出土唐代墓志文体的家族因素》，《浙江大学学报》2013年第5期；
+《出土文献与中古文学研究》，《中国社会科学文摘》2013年第2期。
+《金银饰品与唐五代诗词》，《浙江大学学报》2014年第1期。
+&nbsp;
+主要课题：
+国家社科基金项目《出土献与唐代诗学研究》（2005年）
+国家社科基金项目《唐代的文学家族与家族文学：以新出土石刻为依据的考察》（2010年）
+教育部人文社会科学基金项目《唐代家族与文学研究》（2009年）
+全国高校古委会直接资助项目《新出土唐代诗人墓志文本整理与考证》（2009年）
+&nbsp;
+主要获奖：
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《出土文献与唐代诗学研究》，浙江省第十七届哲学社会科学优秀成果一等奖（2013年）；
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《唐代重大历史事件与文学研究》，浙江省第十五届哲学社会科学优秀成果三等奖（2009年）；
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《杜甫诗学引论》，浙江省第十二届哲学社会科学优秀成果三等奖（2004年）；
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《永贞革新与中唐后期文学研究》，全国百篇优秀博士学位论文提名（2003年）。
+
+
+
+
+
+
+
+主要开设课程
+《唐诗经典研读》（本科生通识核心课程）；
+《中国古代文学史》（本科生专业课程）；
+《中国文学名家名作》（本科生大类课程）；
+《中国文学基础》（本科生竺院启真班课程）；
+《中国古代文学文献学》（硕士生学位课程）；
+《李白杜甫研究》（硕士生选修课程）；
+《诗学研究》（博士生学位课程）；
+《唐宋政治与文学》（博士生选修课程）。
+&nbsp;
+工作研究领域
+中国古代文学，中国古典文献学。
+&nbsp;
+联系方式
+电话：0571-87986587
+电子信箱：hkxian0888@sina.com
+
+
+IndividualResume
+HuKexianborninJanuary1960,CuannanJiangsu.1982graduatedfromXuzhouNormalUniversityDepartmentofChineseliterature,Bachelor'sdegree;1999graduatedfromZhejiangUniversityDepartmentofChineseliterature,PhD;2001,NanjingNormalUniversity&nbsp;expirationoftheChinesepost-doctoralstations.2002untilnowworkinZhejiangUniversity.CurrentlyasProfessorofChineseandPhD&nbsp;supervisionatZhejiangUniversity.BetweenNovember2005andMarch2006toOsakaUniversityseniorvisitingscholar.Mainsocio-part-timewithMemberoftheChineseTangdynastyLiteratureAssociation,DuFuResearchAssociationofChina,ChineseliteratureinteachingAssociation.HuKexianWasengagedintheChineseancientliteratureandtheChineseclassicalliteratureteachingandresearchingforalongtime,dominatedbytheTangandSongdynastiesliterature.Tangdynastyliteratureresearchthatfocusesonstudiesof&quot;FORMdict&quot;,studiesofDuFu',studiesofDuMu,politicsandliteratureoftheTangdynasty,unearthedbibliographyandpoeticsoftheTangdynasty,Tangfamilyandliterarystudies;Songliteratureresearch:focusesonpoetryoftheliteraturestudy,biographiesofpoets,etc.
+&nbsp;
+Majorworks:
+StudiesofDuMudraft,People'sLiteraturePublishingHouse1993;
+PoliticsandLiteratureintheMid-TangDynasty,AnhuiUniversityPress2000;
+DuFu'sPoetryIntroduction,AnhuiUniversityPress2003;
+PoliticalChangeandTangPoetryEvolution,ChinaSocialSciencePress2003;
+TangGreatHistoricalEventsandLiteratureStudies,ZhejiangUniversitypress2007
+&nbsp;
+Themainpapers(recent5years):
+ExcavatedDocumentsandtheNewVisionofTangDynastyLiteraryHistory,&quot;LiteraryHeritage&quot;no.12005;
+WangBijiangHandInstallmentofSelectedPoemsofSuCommentAnnotations,&quot;LiteraryHeritage&quot;no.12008;.
+SixLatelyDiscoveredStoneInscriptionsasMaterialofResearchonBaiJuyi,&quot;Documents&quot;,no.2,2008;.
+AccountontheOrderandTransferofBaiJuyi'sEverlastingRegret,&quot;SocialScienceFront&quot;,no.5,2008;
+ResearchontheElegyoftheNewlyEditedfromtheEpitaphintheTangDynasty,&quot;ZhejiangUniversityJournal&quot;,no.3,2009
+Unearthed&quot;YuanXianEpitaph&quot;andRelatedIssues,&quot;TsinghuaUniversityJournal&quot;,no.4,2009;
+AStudyoftheNewlyUnearthedEpitaphofthePoetLiaoYoufangofTangDynasty,&quot;SunYat-senUniversityJournal&quot;,no.5,2009
+NewHistoricalMaterialsofPoet'sDeedsintheTangDynasty,&quot;ZhejiangUniversityJournal&quot;,2001
+&nbsp;
+Majorresearchproject(recent5years):
+NationalSocialScienceFundproject&nbsp;&quot;DiscoveryLiteratureandPoetryoftheTangDynasty,&quot;(2005)
+NationalSocialScienceFundproject&nbsp;&quot;LiteraryFamilyandtheFamilyoftheTangDynastyLiterature:AStudyBasedonaNewDiscoveredStoneInscriptions&quot;(2010),
+MinistryofhumanitiesSocialScienceFundproject&nbsp;&quot;FamilyandLiteraryResearchoftheTangdynasty&quot;(2009)
+NationalUniversitiesCommissionproject&nbsp;&quot;NewlyUnearthedTangdynastyPoetEpitaphTextArrangementandTextual&quot;(2009)
+&nbsp;
+maincourses
+HistoryofChineseAncientLiterature(undergraduate)
+StudiesofTangPoetry(undergraduate)
+ChineseAncientLiteratureandChineseClassics(master)
+StudiesofLiBaiandDuFu(master)
+StudiesofPoetics(doctoral)
+&nbsp;
+researcharea
+ChineseAncientLiterature,ChineseClassicalPhilology.
+&nbsp;
+ContactInformation
+Tel:0571-87986587
+Email:hkxian0888@sina.com
+
+
+			
+				
+			工作研究领域
+			
+			中国古代文学，中国古典文献学。
+			
+				
+			联系方式
+			
+			电话：0571-87986587			电子信箱：hkxian0888@sina.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：胡可先
+		单位：人文学院中国语言文学系
+		职称：教授
+		我的主页共被访问了22765次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+	出版著作
+	研究成果
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,211 @@
+
+
+
+
+
+单亚萍-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0082337";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	单亚萍
+
+
+	永久链接:http://mypage.zju.edu.cn/syp&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;单亚萍，副教授，硕士生导师，艺术体操国际级裁判员。1982年1月毕业于杭州大学体育系任浙江大学体育系教师，2010年获上海体育学院体育硕士学位。兼任中国大学生体育协会健美操艺术体操分会艺术体操副主任；浙江省大学生体协体操协会副主席；浙江省体操协会历届理事会理事；浙江省省钟声体协体育舞蹈委员会副秘书长。任教以来，从事本科体育教育和运动训练专业教学和训练工作，为研究生开设非语言艺术和体育专项理论与实践等课程。近几年来在国内外发表论文20多篇，其中一级和核心期刊10多篇。出版编著2本，参编教材3本，音像作品2套。已到位课题10多项。自1987年以来至今，担任历年全国艺术体操锦标赛、冠军赛裁判工作，历届全运会和大运会艺术体裁操比赛裁判工作，以及2008年好运北京国际邀请赛、第29届奥运会和第16届亚运会艺术体操裁判工作。曾担任浙江省艺术体操队集体项目和浙江省大学生健美操队主教练工作，参加全国艺术体操冠军赛获得两个单项第六名；省运动会健美操比赛取团体和全能的4块银牌。担任体育系艺术体操运动队教练工作，2010年带队参加第五届中国学生健康活力大赛暨中国大、中学生健美操、啦啦队、艺术体操、健身健美锦标赛，获得大学生组别艺术体操个人项目单项比赛球操和带操2枚金牌，绳操、圈操2枚银牌。2011年全国青少年艺术体操锦标赛获集体全能金牌，个人项目全能冠军；并获集体项目艺术表现奖。
+			
+				
+			工作研究领域
+			
+			体育教学、训练与竞赛及学校体育相关的内容；体育艺术、形态礼仪理论与实践研究
+
+			
+				
+			联系方式
+			
+			电话：13606620262			电子信箱：yaping.shan@yahoo.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：单亚萍
+		单位：教育学院体育学系
+		职称：副教授
+		我的主页共被访问了2383次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	出版著作
+	奖励荣誉
+	研究成果
+	发表论文
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

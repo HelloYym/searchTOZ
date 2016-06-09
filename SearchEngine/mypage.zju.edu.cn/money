@@ -1,0 +1,218 @@
+
+
+
+
+
+心有多大天有多宽-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0095398";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	心有多大天有多宽
+源于生活
+
+	永久链接:http://mypage.zju.edu.cn/money&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;
+工作简历：
+1995.09&mdash;&mdash;1999.09杭州大学数学与信息科学系、浙江大学数学系工作，任团委书记、学生支部书记等职；
+1999.09&mdash;&mdash;2002.10浙江大学理学院工作，任团委书记；
+2002.10&mdash;&mdash;2005.02浙江大学紫金港校区紫云学园工作，任党总支委员、分团委书记、宿舍督导等职；
+2005.02&mdash;&mdash;2005.07&nbsp;浙江大学信息学院工作，任学生第一党总支副书记；
+2005.08&mdash;&mdash;至今&nbsp;浙江大学党委组织部工作，任干部室副主任。
+&nbsp;
+学习简历：
+1991.09&mdash;&mdash;1995.07杭州大学电子工程系电子工程专业学习，任班长、学生会副主席；
+1998.03&mdash;&mdash;1999.09参加中共党史（行政管理方向）研究生进修班学习并结业；
+1998.12参加浙江省首届省高校分团委书记培训班学习并结业；
+2004.05在香港城市大学参加&rsquo;2004青年充权&mdash;&mdash;跨文化交流国际会议；
+2004.09&mdash;&mdash;2005.08参加浙江大学科职干部公共管理课程研修班学习并结业；
+2005.08在中央党校参加2005高校哲学社会科学教学科研骨干辅导员培训班学习；
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2007.03至今在浙江大学高等教育研究所高等教育学专业学习。
+			
+				
+			工作研究领域
+			
+			高等教育学，电子工程
+			
+				
+			联系方式
+			
+			电话：88981293			电子信箱：qianzg@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：钱智敢
+		单位：党委办公室
+		职称：政工师
+		我的主页共被访问了10935次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

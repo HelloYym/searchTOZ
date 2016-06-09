@@ -1,0 +1,201 @@
+
+
+
+
+
+方三华的个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0006231";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	方三华的个人主页
+方法永远比问题多
+
+	永久链接:http://mypage.zju.edu.cn/assan&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;　　方三华，男，博士，浙江淳安人，浙江大学神经科学研究所公共技术平台负责人，高级实验师。1995年毕业于杭州师范学院医学院（原浙江医科大学杭州分校）临床医学(儿科学）专业，毕业后在淳安县第二人民医院从事内科医疗工作。2000年考入浙江中医药大学（原浙江中医学院）分子医学研究所攻读中西医结合基础硕士，从事心血管药理研究，2003年毕业并获硕士学位，期间参与的课题&ldquo;参麦注射液抗血管生成的实验研究&rdquo;获浙江省科学技术三等奖。同年考入浙江大学医学院药理教研室攻读药理学博士，2006年毕业并获博士学位，然后留校药理教研室做师资博士后，从事药理学科研和教学工作，2008年留校。2010-2012，在美国德克萨斯大学西南医学中心分子生物学系访问学者。主要从事神经药理学研究，对炎症介质半胱氨酰白三烯及其受体在缺血性脑损伤中的作用进行了较深入研究。主要研究结果发表在国际知名神经科学杂志Neuroscience,NeuroscienceLetters上，共发表论文65篇，SCI论文31篇。研究课题得到国家自然科学基金、浙江省自然科学基金和中国博士后科学基金的资助。回国后负责浙江大学神经科学研究所公共技术平台的建设和管理。
+			
+					
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：方三华
+		单位：浙江大学神经科学研究所
+		职称：高级实验师
+		我的主页共被访问了9941次
+标签：公共技术平台，激光共聚焦显微镜，双光子显微镜，扫描离子电导显微镜，荧光显微镜，动物行为学，水迷宫，八臂迷宫神经药理神经病学神经生物学神经科学基础医学博士	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+	奖励荣誉
+	实验室介绍
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	浙江大学神经科学研究所
+浙江大学神经科学研究所公共技术平台
+浙江大学医学部公共技术支撑体系
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

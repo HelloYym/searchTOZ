@@ -1,0 +1,219 @@
+
+
+
+
+
+肖俊的个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0007407";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	肖俊的个人主页
+肖俊的个人主页
+
+	永久链接:http://mypage.zju.edu.cn/junx&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			肖俊博士，副教授，视觉感知教育部-微软重点实验室骨干教师，&ldquo;微软学者&rdquo;称号获得者。2007年和2002年在浙江大学计算机学院分别获得博士和学士学位。开设并主讲《多媒体技术》、《媒体信号处理基础》等本科专业选修课程，近3年教学评价均为优秀。担任计算机学院本科1003班班主任、09博士2班德育导师、求是科学班导师，多次获评校级、院级优秀班主任及优秀德育导师。作为第一负责人承担了863、NSFC、中国博士后科学基金特别资助、浙江省重大科技专项及浙江省自然科学基金等项目，作为骨干参加973、863、中国工程科技知识中心建设等项目。研究领域为计算机人体动画、数字娱乐及跨媒体分析，近3年发表（录用）学术论文16篇（第一/通讯14篇，SCI11篇），申请发明专利19项，获授权6项，软件著作权5项。中国图象图形学会计算机动画与数字娱乐专委会、中国人工智能学会智能CAD与数字艺术专委会委员。
+&nbsp;
+联系方式:
+人工智能研究所,计算机学院,浙江大学
+杭州,310027,中国
+实验室:玉泉校区曹光彪大楼主楼402-404室
+Tel:+86-571-87951277(O),+86-571-88669723(H)
+E-mail:junx@cs.zju.edu.cn，junx.zju@gmail.com&nbsp;&nbsp;
+
+
+			
+				
+			工作研究领域
+			
+			研究领域为计算机人体动画、数字娱乐及跨媒体分析。
+			
+				
+			联系方式
+			
+			电话：0571-87951277,13867424906			电子信箱：junx@cs.zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：肖俊
+		单位：浙江大学人工智能研究所
+		职称：副教授
+		我的主页共被访问了27055次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	学术交流（讲座报告）
+	专利成果
+	奖励荣誉
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

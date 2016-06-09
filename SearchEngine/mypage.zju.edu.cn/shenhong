@@ -1,0 +1,210 @@
+
+
+
+
+
+沈弘-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0005019";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	沈弘
+Menssanaincorporesano.
+
+	永久链接:http://mypage.zju.edu.cn/shenhong&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			沈弘（1954-），男，博士，教授，博士生导师。主要研究方向为中世纪与文艺复兴时期英国文学、目录学与版本研究、中外文化交流。承担并完成过&ldquo;古英语研究&rdquo;的国家青年项目和&ldquo;中古英语文学研究&rdquo;的国家项目。目前承担教育部重大攻关项目&ldquo;外国收藏16-20世纪来华传教士档案整理与研究&rdquo;、国家社会科学基金艺术学项目&ldquo;柏石曼的中国古建筑及景观艺术研究&rdquo;、浙江历史文化专题研究项目&ldquo;外国人眼中的浙江与浙江人&rdquo;。发表了《遗失在西方的中国史》、《1860年的中国战争：信札与日记》、《看东方：1905年美国政府代表团访华之行揭秘》、《西湖百象》、《天城记忆》、《弥尔顿的撒旦与英国文学传统》、《英国中世纪诗歌选集》、《宗教与文学》、《农夫皮尔斯》、《晚清映像》、《抗战现场》、《花甲忆记》、《汉学菁华》、《中国觉醒》、《中国长城》、《中国十八省府》、《老照片中的大清王府》、《中世纪作家和作品》、《中世纪英国：征服与同化》、《MLA文体手册和学术出版指南》等二十余部论著、译著和编著，以及《新中国60年弥尔顿&lt;失乐园&gt;研究的回顾与展望》、《乔叟何以被誉为&ldquo;英语诗歌之父&rdquo;？》、《迄今被人所忽视的英语西湖风景诗》等数十篇学术论文。
+			
+				
+			工作研究领域
+			
+			1）英国文学（尤其是中世纪和文艺复兴；英国诗歌）；
+2）中外文化交流（尤其是外国人拍摄中国的老照片研究）；
+3）西文版本目录学。
+			
+				
+			联系方式
+			
+						电子信箱：hshen_72@126.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：沈弘
+		单位：浙江大学英语文学研究所
+		职称：教授
+		我的主页共被访问了17090次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	奖励荣誉
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

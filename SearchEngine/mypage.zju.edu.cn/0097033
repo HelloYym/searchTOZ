@@ -1,0 +1,275 @@
+
+
+
+
+
+冯冬芹-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0097033";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	冯冬芹
+
+
+	永久链接:http://mypage.zju.edu.cn/0097033&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			教授、博士生导师，国务院政府特殊津贴获得者，2014年受聘为浙江大学求是特聘教授，浙江大学智能系统与控制研究所、工业控制系统安全技术国家工程实验室首届技术委员会成员，浙江大学工业控制技术国家重点实验室固定人员。
+我国第一个工业自动化国际标准EPA的起草人、技术负责人。自2000年开始，长期担任国际电工委员会（IEC）/TC65、SC65C标准起草工作组中国专家，以及全国工业测量与控制标准化技术委员会TC124/SC4、SC2、SC10委员等多项职务。多年来，承担了国家高技术产业化、&ldquo;十五&rdquo;科技攻关项、&ldquo;863&rdquo;计划、发改委、国家自然科学基金以及省级项目17项。横向以及其他奖励课题15项。&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+
+
+本实验室长期招收本科、硕士、博士、博士后以及专职科研人员，欢迎计算机、网络安全、自动化、电气电子工程、机械工程和应用数学等相关学科的学生与本人联系。&nbsp;
+
+
+主要学术兼职
+
+国际电工委员会IEC/TC65/SC65C/WG12、WG15、MT9、WG17、JWG10标准起草专家
+国际电工委员会IEC/TC65/WG10、JWG13标准起草专家
+国际电工委员会IEC/TC65/SC65B/WG7、TC65/SC65E/WG4及WG7标准起草专家
+全国工业过程测量和控制标准化技术委员会TC124/SC4、SC2、SC10委员
+全国机床数控系统标准化技术委员会SAC/TC367委员
+全国机械电气标准化技术委员会SAC/TC338委员&nbsp;
+
+
+
+
+
+
+
+
+
+
+教育经历
+
+1991/07，浙江大学，检测技术与仪器，本科
+1994/03，浙江大学，测试计量技术及仪器，硕士
+1997/03，浙江大学，工业自动化，博士&nbsp;
+
+
+学术成果
+
+
+
+
+
+
+
+
+
+
+
+长期致力于研发高性能现场总线、控制系统安全技术。主持制定了我国第一个工业自动化国际标准EPA，获得2009年国家技术发明二等奖；在面向信息物理系统CPS的工业控制系统信息安全方面取得了重大突破，取得的成果主要有：
+原创性地解决了以太网应用于现场总线的十大技术难题，申请发明专利40项，授权31项（其中1项获得日本、欧洲、美国授权；1项获得俄罗斯、日本、韩国授权，系列成果已成功应用到大型化工、炼油等过程控制领域，经济与社会效益显著。
+主持制定了我国第一个拥有自主知识产权的EPA国际标准（包括EPA核心国际标准4项、EPA应用技术国际标准4项），以及国家核心标准1项、EPA应用技术国家标准4项，参与制定国家标准4项，为我国争取到了现场总线国际标准化工作的话语权；其中&ldquo;本安系统设计与线缆安装标准&rdquo;被德国采纳为德语版国家标准，成为唯一被德国吸收的中国工业自动化标准；夺得了自动化领域国际标准话语权。
+建立了工业控制系统脆弱性分析等级保护模型，承担工业控制系统安全技术国家工程实验室建设。&nbsp;&nbsp;
+
+
+
+
+
+
+
+
+
+&nbsp;
+
+			
+				
+			工作研究领域
+			
+			工业通信协议与标准化、面向信息物理系统的工业控制系统信息安全。
+
+欢迎对以上研究方向感兴趣的同学加入我们的团队！
+
+			
+				
+			联系方式
+			
+			电话：0571-87974993			电子信箱：dqfeng@iipc.zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：冯冬芹
+		单位：控制科学与工程学系
+		职称：教授
+		我的主页共被访问了12461次
+标签：工业通信协议，标准化，信息物理系统，工业控制系统，安全，EPA	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		近十年承担的纵向科研项目
+	近期论文
+	著作、专利及标准
+	奖励和荣誉称号
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	工业控制技术国家重点实验室
+赛博协同创新中心
+IEC
+ISA
+SeungHoHong
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

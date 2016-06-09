@@ -1,0 +1,246 @@
+
+
+
+
+
+魏作君的个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0004281";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	魏作君的个人主页
+
+
+	永久链接:http://mypage.zju.edu.cn/weizuojun&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			魏作君副教授/博士&nbsp;&nbsp;&nbsp;硕士生导师
+魏作君，男，1976年生，曾用名未作君，湖北省京山县人。申请人一直从事功能化离子液体的合成与绿色催化方面的研究工作，作为项目负责人主持完成一项国家自然科学基金（编号：20506023）和一项浙江省自然科学基金（Y406250）；目前正主持一项浙江省自然科学基金（编号：Y4090304）和作为一项国家自然科学基金重点项目（编号：20936005）的重要参与者；作为项目的主要参与者开发了色谱法分离纯化大黄蒽醌、异黄酮的工艺，已部分工业化；作为项目负责人采用短程蒸馏技术完成了从羊毛脂中蒸馏高沸点活性物质胆固醇的工艺开发，并已实施工业化。发表论文五十余篇，其中SCI/EI收录论文近二十篇。
+l&nbsp;&nbsp;大学开始受教育经历
+1993年-1997年，天津大学化工学院（原化工系），工学学士学位，班主任：张秀儒教授。
+1997年-1999年，天津大学化工学院，工学硕士学位，导师：元英进教授。
+1999年-2002年，天津大学化工学院，工学博士学位，导师：元英进教授。
+l&nbsp;&nbsp;研究工作经历
+2002年-2004年，北京大学，环境学院环境工程系，从事博士后研究工作。
+2004年-至今，浙江大学化学工程与生物工程学系制药工程研究所，从事科研、教学工作，2005年12月晋升副教授。
+在浙江大学工作期间，于2007年5月至2008年5月受浙江大学&ldquo;新星计划&rdquo;资助到美国明尼苏达大学（3个月）和新墨西哥州立大学（9个月）做访问学者。
+l&nbsp;&nbsp;科研成果
+部分发表论文
+1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;WeiZJ*,LiuYX,ThusharaD,RenQL.Entrainer-intensifiedvacuumreactivedistillationprocessfortheseparationof5-hydroxylmethylfurfuralfromthedehydrationofcarbohydratescatalyzedbymetalsalt/ionicliquid.GreenChem,2012,DOI:10.1039/C2GC16671B
+2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;WeiZJ*,LiXH,ThusharaD,LiuYX.Determinationandremovalofmalondialdehydeandother2-thiobarbituricacidreactivesubstancesinwastecookingoil.JFoodEng,2011,107(3-4):379-384
+3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;WeiZJ*,LiY,ThusharaD,LiuYX,RenQL.Noveldehydrationofcarbohydratesto5-hydroxymethylfurfuralcatalyzedbyIrandAuchloridesinionicliquids.JTaiwanInsChemEng,2011,42(2):363-370
+4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;WeiZJ*,LiFJ,XingHB,DengSG,RenQL.ReactivityofBr&ouml;nstedacidicionicliquidsasdualsolventsandcatalystsforFisheresterifications.KoreanJChemEng,2009,26(3):666-672
+5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;魏作君*,李艳,李斐瑾,陈传杰,刘迎新,任其龙.固定化Br&ouml;nsted酸性离子液体催化酯化反应的研究.化工学报,2009,60(6):1452-1458
+6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;WeiZJ*,HuangY,DengSG,SahaD,LiuYX,RenQL.Studyonalcoholysisofisoflavonecatalyzedbyionicliquids.ReactKinetCatalLett,2008,95(2):257-264
+7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;YangQW,WeiZJ,XingHB,RenQL.Br&ouml;nstedacidicionicliquidsasnovelcatalystsforthehydrolyzationofsoybeanisoflavoneglycosides.CatalCommun,2008(9):1307-1311
+8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;魏作君*,黄勇,刘迎新,任其龙.离子液体在非均相催化反应中的应用研究进展.现代化工,2008,27(5):13-19
+9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;黄勇,魏作君*,刘迎新,任其龙.离子液体催化大豆异黄酮醇解反应工艺研究.高校化学工程学报,2008,22(4):720-724
+10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;李艳,魏作君*,陈传杰,刘迎新.碳水化合物降解为5-HMF的研究进展.化学进展,2010,22(8):1603-1609
+授权国家发明专利
+1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;魏作君,李斐瑾.一种采用固定化酸性离子液体催化异黄酮糖苷水解的方法.申请号:CN200810060174
+2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;魏作君,刘迎新,任其龙.一种采用超临界CO2萃取高纯度大黄游离蒽醌的方法.公开号:CN200710068891
+3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;未作君,林立,黄文,倪晋仁.超临界酸水解提取大黄粉游离蒽醌的方法.公开号：CN200610001899
+4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;任其龙,魏作君,黄梅,杨亦文,苏宝根.生物柴油的制备方法.公开号:CN200610155524.3
+&nbsp;
+			
+				
+			工作研究领域
+			
+			1.酸碱催化剂的制备与绿色催化
+酸碱催化是实验室和工业上应用最多的催化反应之一。为了替代传统的高污染的液体无机酸，许多非均相酸碱催化剂被相继开发出来。本实验室主要制备离子液体和氧化石墨烯两类新兴酸催化剂，并研究其在绿色催化领域的应用。包括：
+（1）.离子液体催化酯化反应；
+（2）.离子液体催化糖苷键降解；
+（3）.离子液体催化生物质降解为5-羟甲基糠醛。
+
+2.贵金属催化与催化加氢
+工业上另一类常见的催化反应是催化加氢，需要用到镍、钯、铂、铱、钌或铑等诸多金属催化剂。金属作为催化剂时，一般会负载在刚性载体上（非均相催化）或与配体络合（均相催化）。本课题组从事这方面的研究，包括：
+（1）催化加氢反应的工业化技术。主要是根据企业要求，提供某一产品的催化加氢的工艺条件；
+（2）石墨烯负载的金属催化剂。将石墨烯作为载体，负载金属用于加氢反应的催化剂；
+（3）钯-BTP络合催化剂的研制与催化性能研究。
+
+
+
+			
+				
+			联系方式
+			
+			电话：13588810769			电子信箱：weizuojun@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：魏作君
+		单位：化学工程与生物工程学系
+		职称：副教授
+		我的主页共被访问了4948次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		专利成果
+	教学工作
+	工作研究项目
+	研究成果
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

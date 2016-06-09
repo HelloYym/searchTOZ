@@ -1,0 +1,207 @@
+
+
+
+
+
+郭怡-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0099035";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	郭怡
+
+
+	永久链接:http://mypage.zju.edu.cn/guoyi&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+郭怡（1974.10&mdash;&mdash;），副教授，博士，硕士生导师，浙江大学教育学院体育系教工理论支部书记，浙江省体育史专业委员会副主任委员。具有良好的交叉学科知识背景。主要研究方向：体育人文社会学，民族传统体育。著有专著《奥林匹克演绎的教育文化》，获浙江省第十四届哲学社会科学优秀成果奖，主编浙江省重点规划教材《奥林匹克文化教程》，并在核心刊物上发表论文二十余篇。参编国家哲学社会科学重点项目《体育通史》(八卷本)，作为主要骨干参与的课题《清末民初武术文化发展研究》获十一五国家体育总局体育哲学社会科学优秀成果二等奖。2011年11月-2012年1月获浙江大学文科国际人才专项计划资助赴美国瓦尔帕莱索大学访学，2012年11月-2013年11月获浙江大学社科学部教师国际合作研究项目计划资助赴美国密歇根大学访学。目前主要在研课题为参与2012国家哲学社会科学研究项目《吴越文化与民族体育文化融合研究》，主持2011浙江省哲学社会规划重点项目《浙江省体育公共服务社会参与机制研究》，主持2013教育部人文研究课题《体育公共服务社会参与机制与政策研究：国际经验与本土探索》。
+
+			
+				
+			联系方式
+			
+			电话：88273691			电子信箱：guoyi528@sina.com.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：郭怡
+		单位：教育学院体育学系
+		职称：副教授
+		我的主页共被访问了5431次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	出版著作
+	奖励荣誉
+	学术交流（讲座报告）
+	发表论文
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

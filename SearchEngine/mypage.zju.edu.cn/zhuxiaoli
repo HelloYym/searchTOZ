@@ -1,0 +1,208 @@
+
+
+
+
+
+朱晓莉的主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0010765";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	朱晓莉的主页
+电子陶瓷材料
+
+	永久链接:http://mypage.zju.edu.cn/zhuxiaoli&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			朱晓莉，博士，浙江大学讲师，求是青年学者。2005年获得浙江大学材料科学与工程学士学位，随后保送至浙江大学材料科学与工程学系材料物理研究所直接攻读博士学位，师从长江学者陈湘明教授，并于2010年获得工学博士学位，并荣获浙江大学优秀毕业研究生，浙江省优秀毕业生等荣誉称号。之后，继续在浙江大学材料科学与工程学系从事研究工作，并于2012年获得葡萄牙FCT国家奖学金，在葡萄牙阿威罗大学从事研究工作。2014年7月回到浙江大学材料科学与工程学院从事教学与科研工作。在钨青铜陶瓷材料的铁电相变及介电弛豫的物理本质、铁电厚膜的制备与性能研究等方面做出了重要的研究成果。在AppliedPhysicsLetter、JournalofAppliedPhysics、JournaloftheAmericanCeramicSociety等国际权威期刊上发表SCI论文近30篇，被引用次数超过200次，H因子=9。
+			
+				
+			工作研究领域
+			
+			一、铁电与弛豫铁电陶瓷；
+二、储能介质陶瓷；
+三、信息功能陶瓷材料。
+			
+				
+			联系方式
+			
+			电话：0571-87951410			电子信箱：xiaolizi0618@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：朱晓莉
+		单位：材料科学与工程学系
+		职称：讲师
+		我的主页共被访问了1313次
+标签：材料科学与工程，电子陶瓷博士	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	发表论文
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

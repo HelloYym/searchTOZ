@@ -1,0 +1,258 @@
+
+
+
+
+
+浙江大学物理系阮智超-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0013026";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	浙江大学物理系阮智超
+
+
+	永久链接:http://mypage.zju.edu.cn/zhichao&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+阮智超，教授，博士生导师，国家青年千人计划入选者。
+
+<listyle="
+text-align:left;">2002年毕业于浙江大学竺可桢学院混合班，光电信息工程本科
+<listyle="
+text-align:left;">2007获瑞典皇家工学院&ldquo;微电子与应用物理&rdquo;专业博士学位
+<listyle="
+text-align:left;">2007获教育部&ldquo;国家优秀自费留学生奖学金&rdquo;
+<listyle="
+text-align:left;">2008年5月至2012年1月，在美国斯坦福大学E.L.Gintzon实验室任助理研究员
+<listyle="
+text-align:left;">曾任美国KLA-Tencor高级工程师，负责光刻掩膜板检测系统中的纳米光学建模
+<listyle="
+text-align:left;">在Nature系列,PRL，JACS等专业期刊上，共发表了38篇论文，他引数超过2000次，单篇他引次数超过300次
+<listyle="
+text-align:left;">研究成果被Nature、PhysicsWorld、Newsweek等专题报道
+<listyle="
+text-align:left;">现为NatureNanotechnology,PRL,APL,OpticsLetters，OpticsExpress等SCI刊物的审稿人。
+
+&nbsp;我们主要研究和设计特殊纳米结构，探索其中的新奇电磁特性，并提出具体的功能应用。&nbsp;纳米光学是国际上光学和电磁学领域的重点热门研究方向，有很强的科学意义和广泛的应用前景。阮老师已在纳米光学领域有10年的研究经历，已有相当的工作积累，并取得了一系列在国际上有影响力的研究成果，能深刻地理解到这个方向的发展目标和潜力。
+目前的研究方向包括
+
+<listyle="
+text-align:left;">超常散射纳米结构&nbsp;(Super&nbsp;scattering&nbsp;nanostructure)&nbsp;：我们已经原创性地设计出超强散射的纳米柱和纳米球结构（Physical&nbsp;Review
+&nbsp;Letters,&nbsp;105,&nbsp;013901,&nbsp;2010;&nbsp;Applied&nbsp;Physics&nbsp;Letters,&nbsp;98,&nbsp;043101,&nbsp;2011&nbsp;被选为期刊封面）。&nbsp;本项目将研究超强散射
+的纳米结构在高转换效率太阳能电池、医学成像、新型癌症放疗等诸多方面的应用。同时，结合电子束曝光、溅射等技术手段，设计并制
+备硅基底上的超常散射纳米结构。
+<listyle="
+text-align:left;">非线性光学超材料&nbsp;(Nonlinear&nbsp;meta-material)&nbsp;：本项目将研究利用纳米金属结构中的&ldquo;金属表面等离子体激元&rdquo;来增强光学非线性，通过分析
+其中物理机理，设计出高性能的纳米结构，实现纳米量级的波长转换、全光控制的光开关和全光调制器等有源器件。
+<listyle="
+text-align:left;">光波天线&nbsp;(Optical&nbsp;antenna)：本项目将探讨光与纳米结构的相互作用，实现远场&mdash;近场之间高效耦合，开发基于光信号自由空间传播的新
+技术应用。
+
+
+
+&nbsp;
+我们与美国斯坦福大学等国际领先小组有紧密的合作，博士生均有外派短期留学机会。欢迎加入我们研究小组，希望有读研究生或做本科生毕设、SRTP等意向的同学与我们联系。
+联系方式：zhichao@zju.edu.cn,&nbsp;教12-306，87951221
+
+
+小组要闻：
+&nbsp;2015-07-15Ourgrouppaper&ldquo;TheoryofHalf-spaceLightAbsorptionEnhancementforLeakyModeResonantNanowires,YimingJia,MinQiu,HuiWu,YiCui,ShanhuiFan,andZhichaoRuan*&rdquo;hasbeenacceptedbyNanoLetters.CongratulationtoJiaYiming!
+&nbsp;
+2015-07-01CongratulationtoPanHongfortheMastergraduation!
+2015-02-14Thepaper&ldquo;Spatialmodecontrolofsurfaceplasmonpolaritonexcitationwithgainmedium:Fromspatialdifferentiatortointegrator&rdquo;hasbeenpublishedonOpticsLetters
+
+
+&nbsp;
+			
+				
+			工作研究领域
+			
+			光电子学，包括超常人工电磁介质（Meta-material），表面等离子体（SurfacePlasmonics），光学功能纳米结构等
+			
+				
+			联系方式
+			
+			电话：0571-87951221			电子信箱：zhichao@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：阮智超
+		单位：物理学系
+		职称：教授
+		我的主页共被访问了14035次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		学术交流（讲座报告）
+	发表论文
+	研究团队
+	News
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	浙大物理系
+StanfordProf.ShanhuiFan'sgroup
+Prof.Ruan'sprofile@GoogleScholar
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

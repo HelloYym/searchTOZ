@@ -1,0 +1,211 @@
+
+
+
+
+
+KeSi-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0013129";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	KeSi
+OpticalImagingLab
+
+	Permanentlink:http://mypage.zju.edu.cn/en/kesi&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			Blog
+
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			Dr.KeSiisaprofessorattheDepartmentofOpticalEngineering.HeisalsoajoinedprofessorintheInstituteofNeuroscienceZhejiangUniversityandStateKeyLaboratoryofModernOpticalInstrumentation.&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
+BeforehejoinedZhejiangUniversity,hewasaresearchassociate,workingondeeptissueimaging,atJaneliaFarmResearchCampusHowardHughesMedicalInstitute(HHMI)USAfromNovember2011to2013.PriortojoiningHHMI,hewasapostdoctoralresearcherinSingapore-MITAllianceforResearchandTechnologyin2011.&nbsp;
+&nbsp;&nbsp;
+HereceivedhisPh.D.degreeinNUSGraduateSchoolforIntegrativeSciencesandEngineeringfromNationalUniversityofSingapore(withProfessorColinJ.R.Sheppard)in2010,hisB.Eng.degreeinInformationScience&amp;ElectronicEngineeringfromZhejiangUniversityin2005.&nbsp;
+&nbsp;&nbsp;
+HisresearchinterestsincludeBiophotonics,DeepTissueImaging,NonlinearOptics,AdaptiveOptics,FluorescenceMicroscopyandBiomedicalImaging.&nbsp;
+&nbsp;&nbsp;&nbsp;
+HewasselectedinTheRecruitmentProgramofGlobalYouthExpertsin2013.
+			
+				
+			Researchwork
+			
+			Biophotonics,
+OpticalImaging,
+Microscopy,
+Neuroscience
+			
+				
+			Contact
+			
+			Phone:(+86)0571-87981178/(+86)057188208005
+			E-mail:kesi@zju.edu.cn
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:KeSi
+		Units:DepartmentofOpticalEngineering,ZhejiangUniversity
+		Title:Professor
+		Myhomepagehasbeenvisited2288times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+Publications
+ContactUs
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	
+
+
+Youarevisitor:2288
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,252 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0097294";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0097294&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			简历
+2007.1-2007.8：美国TexasA&amp;M大学昆虫系合作研究；
+2006.7-2006.9：美国TexasA&amp;M大学Beaumont农业研究与推广中心合作研究；
+2005.3-2005.6：美国TexasA&amp;M大学Beaumont农业研究与推广中心合作研究；
+2004-至今：浙江大学昆虫科学研究所，教授；
+1999-2004：浙江大学应用昆虫学研究所，副教授；
+1997-1999：浙江农业大学（浙江大学）植物保护系，讲师；
+1992-1997：南京农业大学植物保护系昆虫学专业学习，获农学博士学位；
+1988-1992：南京农业大学植物保护系学习，获农学学士学位。
+研究生培养
+已培养硕士生3名，合作指导博士生2名、硕士生1名。在读硕士生3名。
+研究领域
+主要从事外来昆虫入侵生物学、昆虫遗传转化、害虫综合治理等领域的基础和应用研究。目前的研究方向主要有：（1）外来昆虫入侵和扩张的生态机制；（2）昆虫遗传转化作为生物反应器；（3）昆虫共生微生物的遗传转化与利用。
+主要在研项目
+1.稻水象甲入侵种群形成与扩张的生态机制.2002-2008.(973项目专题)
+2.RedimportedfireantresearchandmanagementPlan:Useofgeneticallymodifiedbacteriatodelivercompoundsthatreducefireantfitness.2007-2008.(FederalGrants,USA)
+3.入侵昆虫稻水象甲滞育相关基因的克隆及其表达特性研究.2005-2007.(国家自然科学基金项目)
+4.FunctionanalysesonAedeskinins.2007-2008.(FederalGrants,USA)
+荣誉与奖励
+2006年，入选浙江大学&ldquo;新星（人才）计划&rdquo;；
+2005年，获&ldquo;包兆龙包玉刚中国留学生奖学金&rdquo;；
+2005年，入选浙江省&ldquo;新世纪151人才工程&rdquo;；
+2001年，获浙江大学&ldquo;圣雄&rdquo;奖教金。
+近年发表的主要论著
+1.Jiang,M.X.,Way,M.O.,Zhang,W.J.,Cheng,J.A.RiceWaterWeevilFemalesofdifferentelytralcolormorphs:comparisonsoflocomotoractivity,matingsuccess,andreproductivecapacity.EnvironmentalEntomology.2007,36(5).(inpress)
+2.ShiShengwei,JiangMingxing,ShangHanwu,LvHuiping,ChengJia-an.Oogenesisinsummerfemalesofthericewaterweevil,LissorhoptrusoryzophilusKuschel(Coleoptera:Curculionidae),insouthernZhejiang,China.JournalofZhejiangUniversitySCIENCEB,2007,8(1):33-38.
+3.BaiYaoyu,JiangMingxing,ChengJiaan.ImpactsofenvironmentalfactorsondegradationofCry1Abinsecticidalproteininleaf-bladepowdersoftransgenicBtrice.AgriculturalSciencesinChina.2007.6(2):167-174.
+4.MingxingJiang,M.O.Way,R.Yoder,WenjunZhang,JiaanCheng.Elytralcolordimorphisminricewaterweevil:occurrenceinspringpopulationsandrelationtofemalereproductivedevelopment.AnnalsoftheEntomologicalSocietyofAmerica.2006,99:1127-1132.
+5.YaoyuBai,MingxingJiang,JiaanCheng,DunWang.EffectsofCry1AbtoxintoPropyleajaponica(Coleoptera:Coccinellidae)throughitspreythebrownplanthopper,Nilaparvatalugens(Homoptera:Delphacidae)feedingontransgenicBtrice.EnvironmentalEntomology.2006,35(4):1130-1136.
+6.YaoyuBai,MingxingJiang,JiaanCheng.Effectsoftransgeniccry1AbricepollenonfitnessofPropyleajaponica(Thunberg).JournalofPestScience.2005,78(3):123-128.
+7.MingxingJiang,WenjunZhang,JiaanCheng.Reproductivecapacityoffirst-generationadultsofthericewaterweevilLissorhoptrusoryzophilusKuschel(Coleoptera:Curculionidae)inZhejiang,China.JournalofPestScience.2004,77(3):145-150.
+8.MingxingJiang,WenjunZhang,JiaanCheng.Terminationofreproductivediapauseinthericewaterweevilwithparticularreferencetotheeffectsoftemperature.AppliedEntomologyandZoology.2004,39(4):683-689.
+9.MingxingJiang,JiaanCheng.Effectsofmanureuseonseasonalpatternsofarthropodsinricewithspecialreferencetomodifiedbiologicalcontrolofwhitebackedplanthopper,SogatellafurciferaHorv&aacute;th(Homoptera:Delphacidae).JournalofPestScience.2004,77(4):185-189.
+10.ZengrongZhu,JiaanCheng,MingxingJiang,etal.Complexinfluenceofricevariety,fertilizationtimingandinsecticideonpopulationdynamicsofSogatellafurcifera(Horvath),Nilaparvatalugens(Stal)(Homoptera:Delphacidae)andtheirnaturalenemiesinriceinHangzhou,China.JournalofPestScience.2004,77(2):65-74.
+11.MingxingJiang,JiaanCheng.Effectsofstarvationandabsenceoffreewaterontheovipositionofoverwinteredadultricewaterweevil,LissorhoptrusoryzophilusKuschel(Coleoptera:Curculionidae).InternationalJournalofPestManagement.2003,49(2):89-94.
+12.MingxingJiang,JiaanCheng.Feeding,ovipositionandsurvivalofoverwinteredricewaterweevil(Coleoptera:Curculionidae)adultsinresponsestonitrogenfertilizationofriceatseedlingstage.AppliedEntomologyandZoology.2003,38(4):543-549.
+13.MingxingJiang,JiaanCheng.InteractionsbetweenthestripedstemborerChilosuppressalis(Walk.)(Lep.,Pyralidae)larvaeandriceplantsinresponsetonitrogenfertilization.JournalofPestScience.2003,76(5):124-128.
+14.Cheng,J.Lou,Y.Zhu,Z.Jiang,M.Zhao,W.Integratingecologicalprinciplesforresistancetoinsectpestsofrice.[Bookchapter.Conferencepaper]Ricescience:innovationsandimpactforlivelihood.ProceedingsoftheInternationalRiceResearchConference,Beijing,China,16-19September2002.InternationalRiceResearchInstitute(IRRI),Manila,Philippines:2003.573-583.
+15.白耀宇,蒋明星,程家安,等.转Btcry1Ab基因水稻对稻田弹尾虫种群数量的影响.应用生态学报.2006,17(5):903-906.
+16.白耀宇,蒋明星,程家安.影响Bt稻离体叶中Cry1Ab杀虫蛋白降解的环境因子研究.中国农业科学.2006,39(4):721-727.
+17.蒋明星.稻水象甲检疫、预防、根除与控制.见:万方浩等主编,重要农林外来入侵物种的生物学与控制.科学出版社.2005.pp.157-165.
+18.白耀宇,蒋明星,程家安.转Bt基因水稻对两种弹尾虫及尖钩宽黾蝽捕食作用的影响.昆虫学报.2005,48(1):42-47.
+19.白耀宇,蒋明星,程家安.Bt水稻Cry1Ab杀虫蛋白表达的时间动态及其在水稻土中的降解.生态学报.2005,25(7):1583-1590.
+20.白耀宇,蒋明星,程家安.转Btcry1Ab基因水稻花粉对中华草蛉成虫产卵和寿命的影响.植物保护学报.2005,32(3):225-230.
+21.白耀宇,蒋明星,程家安,等.转Bt基因水稻Cry1Ab杀虫蛋白在水稻土中的降解.中国水稻科学.2004,18(3):255-261.
+22.蒋明星,程家安.不同施肥水平对白背飞虱种群增长的影响.中国水稻科学.2003,17(3):270-274.
+23.白耀宇,蒋明星,程家安,等.转Bt基因作物Bt毒蛋白在土壤中的安全性研究.应用生态学报.2003,14(11):2062-2066.
+24.商晗武,程家安,蒋明星,等.浙江早稻谷中稻水象甲的存活研究.昆虫学报.2003,46(2):190-195.
+25.商晗武,程家安,蒋明星,等.起始供食时间对稻水象甲冬后成虫繁殖、取食和存活的影响.中国水稻科学.2003,17(1):77-81.
+26.蒋明星,商晗武,程家安.球孢白僵菌对稻水象甲成虫的毒力测定.植物保护学报.2002,29(3):287-288.
+27.施婉君,程家安,祝增荣,蒋明星,等.昆虫共生细菌Wolbachia的研究进展.生态学报.2002,22(3):409-419.
+			
+				
+			工作研究领域
+			
+			外来生物(昆虫、植物等)入侵生物学,昆虫遗传转化,害虫治理.
+			
+				
+			联系方式
+			
+						电子信箱：mxjiang@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：蒋明星
+		单位：农业与生物技术学院植物保护系
+		职称：教授
+		我的主页共被访问了3046次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

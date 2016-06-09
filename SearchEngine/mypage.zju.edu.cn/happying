@@ -1,0 +1,216 @@
+
+
+
+
+
+惟精惟一-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0004522";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	惟精惟一
+一星如月看多时
+
+	永久链接:http://mypage.zju.edu.cn/happying&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+&nbsp;&nbsp;&nbsp;&nbsp;1976年生。本科至博士均就读于中国科技大学，1998年材料物理学士，2004年凝聚态物理博士。其后在浙江大学硅材料国家重点实验室从事博士后研究，2006年材料系副研究员，2012年转评为副教授。2009年2月香港城市大学物理与材料科学系访问学者，为期1年。一直从事半导体发光材料与器件研究，并向新型半导体发光材料拓展，如石墨烯量子点、有机-无机复合钙钛矿材料等。主持国家自然科学基金、教育部博士点基金、浙江省自然科学基金等多项研究课题，作为主要人员参加科技部973项目、国家自然科学基金重点项目等。迄今发表SCI论文100余篇，其中影响因子3.0以上论文40多篇，包括NanoLett.、J.Am.Chem.Soc.、Appl.Phys.Lett.、J.Phys.Chem.C、OpticsExpress等国际著名期刊。论文被SCI他引1700余次,H因子24。1篇论文被J.Mater.Chem.C选为封面文章，2篇论文入选由美国物理联合会(AIP)、美国物理学会(APS)等联合主办的《纳米科技虚拟期刊》(VirtualJournalofNanoscaleScience&amp;Technology)。作为主要成员获浙江省科学技术（自然科学类）一等奖2项。担任Adv.Mater.(Wiley),J.Phys.Chem.(ACS),&nbsp;Cryst.GrowthDes.&nbsp;(ACS),Opt.Express(OSA),J.Appl.Phys.(AIP),Nanoscale(RSC),J.Phys.:Condens.Matter(IOP)等多个国际著名期刊审稿人。&nbsp;
+
+			
+				
+			工作研究领域
+			
+			半导体发光材料与器件；半导体缺陷及光电性能调控；新型半导体发光材料（石墨烯量子点、有机-无机复合钙钛矿材料等）。
+			
+				
+			联系方式
+			
+			电话：0571-87953139			电子信箱：hphe@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：何海平
+		单位：材料科学与工程学系
+		职称：副教授
+		我的主页共被访问了21884次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+	出版著作
+	学术交流（讲座报告）
+	实验室介绍
+	好书共读
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	JMCC封面论文
+葵藿倾太阳，物性固莫夺
+Dr.ShishengLin'spersonalhomepage
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

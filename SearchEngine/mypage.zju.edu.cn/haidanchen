@@ -1,0 +1,211 @@
+
+
+
+
+
+陈海丹(HaidanCHEN)-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0009855";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	陈海丹(HaidanCHEN)
+
+
+	永久链接:http://mypage.zju.edu.cn/haidanchen&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			陈海丹，浙江大学科学技术哲学专业博士、浙江大学和新加坡国立大学博士后，曾在英国爱丁堡大学科学技术创新研究所（InstitutefortheStudyofScicenceTechnologyandInnovation）（2006-2007）、英国约克大学科学技术研究中心（ScienceandTechnologyStudiesUnit）（2008）、奥地利维也纳大学生命科学治理研究平台（LifeScienceGovernanceResearchPlatform）（2008）、英国伦敦政治经济学院（2008）、瑞士日内瓦BrocherFoundation（2011）访学，主要关注和研究前沿生物医学领域，比如干细胞、生物样本库、生物标志物、靶向抗癌药物等研发和应用过程中带来的社会、伦理、政策等问题。
+
+现为中国农业大学人文与发展学院副教授。个人网页：http://cohd.cau.edu.cn/art/2013/10/8/art_8647_186921.html
+			
+				
+			工作研究领域
+			
+			STS(scienceandtechnologystudies)；医学社会学；科技伦理；科技管理和政策
+			
+				
+			联系方式
+			
+						电子信箱：haidan.chen@hotmail.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：陈海丹
+		单位：人文学院
+		职称：
+		我的主页共被访问了9071次
+标签：医学伦理学医学社会学交叉学科STS	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	学术交流（讲座报告）
+	发表论文
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	浙江大学科技与社会研究中心
+浙江大学语言与认知研究中心
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

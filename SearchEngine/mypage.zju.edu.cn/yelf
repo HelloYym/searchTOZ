@@ -1,0 +1,351 @@
+
+
+
+
+
+一剂良方-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0006224";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	一剂良方
+刑法学堂
+
+	永久链接:http://mypage.zju.edu.cn/yelf&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			学习工作经历
+中国人民大学，获刑法学博士学位；
+<spanstyle="font-size:9.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt">浙江大学，经济学博士后研究；
+<spanstyle="font-size:9.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt">美国哥伦比亚大学法学院访问学者；
+2006年至今任教于浙江大学光华法学院。
+
+主要研究成果
+（一）论文类
+<spanlang="EN-US"style="font-size:9.0pt;font-family:宋体;mso-bidi-font-family:宋体;
+mso-font-kerning:0pt">1.<spanstyle="font-size:9.0pt;font-family:宋体;
+mso-bidi-font-family:宋体;mso-font-kerning:0pt">《论刑法中持有行为的归属》，载《人民检察》1999年第2期；
+<spanlang="EN-US"style="font-size:9.0pt;font-family:宋体;mso-bidi-font-family:宋体;
+mso-font-kerning:0pt">2.<spanstyle="font-size:9.0pt;font-family:宋体;
+mso-bidi-font-family:宋体;mso-font-kerning:0pt">《中国大陆刑法和澳门刑法共同犯罪比较研究》，载《法律科学》2000年第1期；
+<spanlang="EN-US"style="font-size:9.0pt;font-family:宋体;mso-bidi-font-family:宋体;
+mso-font-kerning:0pt">3.<spanstyle="font-size:9.0pt;font-family:宋体;
+mso-bidi-font-family:宋体;mso-font-kerning:0pt">《认定自首的几个疑难问题》，载《法学杂志》2001年第5期；
+<spanlang="EN-US"style="font-size:9.0pt;font-family:宋体;mso-bidi-font-family:宋体;
+mso-font-kerning:0pt">4.<spanstyle="font-size:9.0pt;font-family:宋体;
+mso-bidi-font-family:宋体;mso-font-kerning:0pt">《刑事附带民事诉讼制度反思与重构》，载《政治与法律》2003年第3期；
+<spanlang="EN-US"style="font-size:9.0pt;font-family:宋体;mso-bidi-font-family:宋体;
+mso-font-kerning:0pt">5.<spanstyle="font-size:9.0pt;font-family:宋体;
+mso-bidi-font-family:宋体;mso-font-kerning:0pt">《寻衅滋事罪立法规定质疑》，载《政治与法律》2003年第6期；
+<spanlang="EN-US"style="font-size:9.0pt;font-family:宋体;mso-bidi-font-family:宋体;
+mso-font-kerning:0pt">6.<spanstyle="font-size:9.0pt;font-family:宋体;
+mso-bidi-font-family:宋体;mso-font-kerning:0pt">《实行犯过限行为研究》，载《中共中央党校学报》2004年第1期（中国人民大学报刊复印资料《刑事法学》2004年第5期全文转载）；
+<spanlang="EN-US"style="font-size:9.0pt;font-family:宋体;mso-bidi-font-family:宋体;
+mso-font-kerning:0pt">7.<spanstyle="font-size:9.0pt;font-family:宋体;
+mso-bidi-font-family:宋体;mso-font-kerning:0pt">《再论牵连犯》，载《现代法学》2005年第2期（中国人民大学报刊复印资料《刑事法学》2005年第6期全文转载）；
+<spanlang="EN-US"style="font-size:9.0pt;font-family:宋体;mso-bidi-font-family:宋体;
+mso-font-kerning:0pt">8.<spanstyle="font-size:9.0pt;font-family:宋体;
+mso-bidi-font-family:宋体;mso-font-kerning:0pt">《重罪轻罪的划分及其意义》，载《法学杂志》2005年第5期；
+<spanlang="EN-US"style="font-size:9.0pt;font-family:宋体;mso-bidi-font-family:宋体;
+mso-font-kerning:0pt">9.<spanstyle="font-size:9.0pt;font-family:宋体;
+mso-bidi-font-family:宋体;mso-font-kerning:0pt">《刑法中数额的性质及其计算》，载《云南大学学报》（法学版）2006年第4期（中国人民大学报刊复印资料《刑事法学》2006年第10期全文转载）；
+<spanlang="EN-US"style="font-size:9.0pt;font-family:宋体;mso-bidi-font-family:宋体;
+mso-font-kerning:0pt">10.<spanstyle="font-size:9.0pt;font-family:宋体;
+mso-bidi-font-family:宋体;mso-font-kerning:0pt;mso-bidi-font-weight:bold">《罪数论的体系性反思与建构》，载《浙江大学学报》（人文社会科学版）2007年第4期；
+<spanlang="EN-US"style="font-size:9.0pt;font-family:宋体;mso-bidi-font-family:宋体;
+mso-font-kerning:0pt;mso-bidi-font-weight:bold">11<spanlang="EN-US"style="font-size:9.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt">.<spanstyle="font-size:9.0pt;font-family:宋体;mso-bidi-font-family:
+宋体;mso-font-kerning:0pt;mso-bidi-font-weight:bold">《权利行使与敲诈勒索的界限》，载《中国刑事法杂志》2007年第3期；
+<spanlang="EN-US"style="font-size:9.0pt;font-family:宋体;mso-bidi-font-family:宋体;
+mso-font-kerning:0pt;mso-bidi-font-weight:bold">12<spanlang="EN-US"style="font-size:9.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt">.<spanstyle="font-size:9.0pt;font-family:宋体;mso-bidi-font-family:
+宋体;mso-font-kerning:0pt;mso-bidi-font-weight:bold">《单位犯罪责任构造的反思与检讨》，载《现代法学》2008年第1期；
+<spanlang="EN-US"style="font-size:9.0pt;font-family:宋体;mso-bidi-font-family:宋体;
+mso-font-kerning:0pt;mso-bidi-font-weight:bold">13<spanlang="EN-US"style="font-size:9.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt">.<spanstyle="font-size:9.0pt;font-family:宋体;mso-bidi-font-family:
+宋体;mso-font-kerning:0pt;mso-bidi-font-weight:bold">《实行过限之构成及其判定标准》，载《法律科学》2008年第1期（中国人民大学报刊复印资料《刑事法学》2008年第4期全文转载）；
+<spanlang="EN-US"style="font-size:9.0pt;font-family:宋体;
+mso-bidi-font-family:宋体;mso-font-kerning:0pt">14.<spanstyle="font-size:
+9.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:0pt;mso-bidi-font-weight:
+bold">《<spanstyle="font-size:9.0pt;font-family:宋体;mso-bidi-font-family:
+宋体;mso-font-kerning:0pt">论单位犯罪的形态结构&mdash;兼论单位与单位成员责任分离论》，载《中国法学》2008年第6期（《中国社会科学文摘》2009年第4期转载）；
+<spanlang="EN-US"style="font-size:9.0pt;font-family:宋体;
+mso-bidi-font-family:宋体;mso-font-kerning:0pt">15.<spanstyle="font-size:
+9.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:0pt;mso-bidi-font-weight:
+bold">《死缓适用之实质标准新探》，载《法商研究》2012年第5期（中国人民大学<spanstyle="font-size:9.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt">报刊复印资料《刑事法学》2013年第1期全文转载）；
+<spanlang="EN-US"style="font-size:9.0pt;font-family:宋体;
+mso-bidi-font-family:宋体;mso-font-kerning:0pt">16.<spanstyle="font-size:
+9.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:0pt">《危险驾驶罪的立法证成和规范构造》，载《法学》2011年第2期（中国人民大学报刊复印资料《刑事法学》2011年第7期全文转载）；
+<spanlang="EN-US"style="font-size:9.0pt;font-family:宋体;
+mso-bidi-font-family:宋体;mso-font-kerning:0pt;mso-bidi-font-weight:bold">17.<spanstyle="font-size:9.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt;mso-bidi-font-weight:bold">《防治船舶溢油污染刑法不应缺位》，载《学习与探索》2012年第9期（<spanstyle="font-size:9.0pt;font-family:宋体;
+mso-bidi-font-family:宋体;mso-font-kerning:0pt">《高等学校文科学术文摘》2012年第6期索引收录）；
+<spanlang="EN-US"style="font-size:9.0pt;font-family:宋体;
+mso-bidi-font-family:宋体;mso-font-kerning:0pt;mso-bidi-font-weight:bold">18.<spanstyle="font-size:9.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt;mso-bidi-font-weight:bold">《死缓限制减刑的司法适用<spanlang="EN-US"style="font-size:9.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt">&mdash;<spanstyle="font-size:9.0pt;font-family:宋体;mso-bidi-font-family:
+宋体;mso-font-kerning:0pt;mso-bidi-font-weight:bold">最高人民法院第12号指导案例评析》，载《浙江社会科学》2013年第2期；
+<spanlang="EN-US"style="font-size:9.0pt;font-family:宋体;
+mso-bidi-font-family:宋体;mso-font-kerning:0pt;mso-bidi-font-weight:bold">19.<spanstyle="font-size:9.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt;mso-bidi-font-weight:bold">《宪政视野下的美国法人犯罪审前协议制度<spanlang="EN-US"style="font-size:9.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt">&mdash;<spanstyle="font-size:9.0pt;font-family:宋体;mso-bidi-font-family:
+宋体;mso-font-kerning:0pt;mso-bidi-font-weight:bold">以Stein案为中心》，载《浙江社会科学》2012年第4期；
+<spanlang="EN-US"style="font-size:9.0pt;font-family:宋体;
+mso-bidi-font-family:宋体;mso-font-kerning:0pt;mso-bidi-font-weight:bold">20.<spanstyle="font-size:9.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt;mso-bidi-font-weight:bold">《从吴英案看集资诈骗罪的司法认定》，载《法学》2012年第3期；
+<spanlang="EN-US"style="font-size:9.0pt;font-family:宋体;
+mso-bidi-font-family:宋体;mso-font-kerning:0pt;mso-bidi-font-weight:bold">21.<spanstyle="font-size:9.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt;mso-bidi-font-weight:bold">《将信用卡套现入罪是司法&ldquo;造法&rdquo;》，载《法学》2010年第9期；
+<spanlang="EN-US"style="font-size:9.0pt;font-family:宋体;
+mso-bidi-font-family:宋体;mso-font-kerning:0pt;mso-bidi-font-weight:bold">22.<spanstyle="font-size:9.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt;mso-bidi-font-weight:bold">《存与废：嫖宿幼女罪罪名设立之审视》，载《法学》2009年第6期；
+<spanlang="EN-US"style="font-size:9.0pt;font-family:宋体;
+mso-bidi-font-family:宋体;mso-font-kerning:0pt;mso-bidi-font-weight:bold">23.<spanstyle="font-size:9.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt;mso-bidi-font-weight:bold">《产品缺陷隐瞒与法人犯意认定<spanlang="EN-US"style="font-size:9.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt">&mdash;&mdash;<spanstyle="font-size:9.0pt;font-family:宋体;mso-bidi-font-family:
+宋体;mso-font-kerning:0pt;mso-bidi-font-weight:bold">从丰田&ldquo;召回门&rdquo;事件切入》，载《中国刑事法杂志》，2012年第5期；
+<spanlang="EN-US"style="font-size:9.0pt;font-family:宋体;
+mso-bidi-font-family:宋体;mso-font-kerning:0pt;mso-bidi-font-weight:bold">24.<spanstyle="font-size:9.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt;mso-bidi-font-weight:bold">《理性选择理论视角下经济犯罪罚金数额的确定》，载《中国刑事法杂志》2013年第5期；<spanlang="EN-US"style="font-size:9.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt">
+<spanlang="EN-US"style="font-size:9.0pt;font-family:宋体;
+mso-bidi-font-family:宋体;mso-font-kerning:0pt">25.<spanstyle="font-size:
+9.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:0pt">《通过程序实现刑法解释的正当性》，载《法令月刊》2013年第2期；
+<spanlang="EN-US"style="font-size:9.0pt;font-family:宋体;
+mso-bidi-font-family:宋体;mso-font-kerning:0pt">26.<spanstyle="font-family:
+宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;mso-hansi-font-family:&quot;TimesNewRoman&quot;">《<spanstyle="font-size:9.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt">法条何以会&ldquo;竞合&rdquo;?&mdash;一个概念上的澄清》，载《法律科学》2014年第1期。
+<spanlang="EN-US"style="font-size:9.0pt;font-family:宋体;
+mso-bidi-font-family:宋体;mso-font-kerning:0pt">&nbsp;<spanstyle="font-size:9.0pt;font-family:宋体;mso-bidi-font-family:
+宋体;mso-font-kerning:0pt">（二）著作类<spanlang="EN-US"style="font-size:12.0pt;
+font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:0pt">
+<spanstyle="font-size:9.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt;mso-bidi-font-weight:bold">《实行犯研究》，浙江大学出版社2007年12月出版（独著）；
+<spanstyle="font-size:9.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt;mso-bidi-font-weight:bold">《转型期刑事立法的宪政制约研究》，知识产权出版社2010年版（独著）；
+<spanstyle="font-size:9.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt;mso-bidi-font-weight:bold">《法律适用学》，浙江大学出版社2010年版（参著）。
+<spanlang="EN-US"style="font-size:9.0pt;font-family:宋体;mso-bidi-font-family:宋体;
+mso-font-kerning:0pt">&nbsp;<spanstyle="font-size:9.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt">（三）课题类<spanlang="EN-US"style="font-size:12.0pt;font-family:宋体;
+mso-bidi-font-family:宋体;mso-font-kerning:0pt">
+<spanlang="EN-US"style="font-size:9.0pt;font-family:宋体;mso-bidi-font-family:宋体;
+mso-font-kerning:0pt">1.<spanstyle="font-size:9.0pt;font-family:宋体;
+mso-bidi-font-family:宋体;mso-font-kerning:0pt">&ldquo;公益基金会信息披露法律制度研究&rdquo;，2010年民政部项目；
+<spanlang="EN-US"style="font-size:9.0pt;font-family:宋体;mso-bidi-font-family:宋体;
+mso-font-kerning:0pt">2.<spanstyle="font-size:9.0pt;font-family:宋体;
+mso-bidi-font-family:宋体;mso-font-kerning:0pt">&ldquo;&lsquo;枫桥经验&rsquo;与浙江社会治安综合治理&rdquo;，2009年浙江省社科项目；
+<spanlang="EN-US"style="font-size:9.0pt;font-family:宋体;mso-bidi-font-family:宋体;
+mso-font-kerning:0pt">3.<spanstyle="font-size:9.0pt;font-family:宋体;
+mso-bidi-font-family:宋体;mso-font-kerning:0pt">&ldquo;民政社会事务管理法律制度研究&rdquo;，2009年民政部课题；
+主要荣誉奖励
+
+
+1.论文《再论牵连犯》，2007年重庆市新闻出版局期刊好作品奖；
+<spanlang="EN-US"style="font-size:9.0pt;font-family:宋体;
+mso-bidi-font-family:宋体;mso-font-kerning:0pt">2.<spanstyle="font-size:9.0pt;font-family:宋体;
+mso-ascii-font-family:&quot;TimesNewRoman&quot;;mso-hansi-font-family:&quot;TimesNewRoman&quot;">论文<spanstyle="font-size:9.0pt;font-family:宋体;mso-bidi-font-family:宋体;mso-font-kerning:
+0pt">《实行过限之构成及其判定标准》，2008年浙江省法学会优秀成果奖；
+3.<spanstyle="font-size:9.0pt;font-family:宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;
+mso-hansi-font-family:&quot;TimesNewRoman&quot;">论文《论单位犯罪的形态结构&mdash;&mdash;兼论单位与单位成员责任分离论》，2010<spanstyle="font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;mso-hansi-font-family:
+&quot;TimesNewRoman&quot;">年浙江省社科联第三届社科研究优秀成果奖；
+4.<spanstyle="font-size:9.0pt;font-family:宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;
+mso-hansi-font-family:&quot;TimesNewRoman&quot;">研究报告&ldquo;殡葬立法若干重大疑难问题研究&rdquo;，2009<spanstyle="font-size:9.0pt;
+font-family:宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;mso-hansi-font-family:
+&quot;TimesNewRoman&quot;">年民政部科学技术研究成果奖；
+5.研究报告&ldquo;公益基金会信息披露制度研究&rdquo;，2010年中国社会组织建设与管理部级理论课题成果奖。
+
+&nbsp;
+
+			
+				
+			工作研究领域
+			
+			研究领域：刑法学、犯罪学；主要研究方向：刑事立法原理、公司犯罪与证券犯罪、知识产权犯罪等。
+
+			
+				
+			联系方式
+			
+						电子信箱：yelf@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：叶良芳
+		单位：光华法学院
+		职称：教授、博导
+		我的主页共被访问了4819次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

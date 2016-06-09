@@ -1,0 +1,218 @@
+
+
+
+
+
+周仁贤-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0084303";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	周仁贤
+
+
+	永久链接:http://mypage.zju.edu.cn/0084303&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			浙江大学教授，博士生导师
+1984.6毕业于原杭州大学化学系（本科）
+1984.7-1999.11原杭州大学、浙江大学化学系教师（助教、讲师、副教授）
+1999.12-浙江大学化学系教授
+主要的学术与社会兼职：中国稀土学会催化专业委员会常委,《化学通报》、《分子催化》杂志编委,《物理化学学报》、《精细化工》杂志特邀审稿人
+曾承担国家自然科学基金课题、国家863重点项目或课题、国家973项目课题、省自然科学重点基金及重大企业合作课题30余项；在国内外学术刊物上发表学术论文200余篇（其中SCI论文160余篇）、授权国家发明专利14项、省级鉴定成果5项和著书3本。环境催化专业是国内高校最具特色和优势的专业，产学研结合最紧密，国家973和863项目课题成果均已在浙江、北京等地多家企业产业化，基础研究成果在环境催化等领域最具影响力的Appl.Catal.B、Environ.Sci.Technol.、INT.J.HYDROGENENERG、J.PowerSources、J.Phys.Chem.C&nbsp;和Chem.Eng.Sci.&nbsp;等杂志上发表学术论文20余篇
+			
+				
+			工作研究领域
+			
+			1.机动车尾气净化催化剂（TWC、DOC、POC、SCR）的设计与制备
+2.工业排放VOCs净化催化剂的设计与制备
+3.稀土复合氧化物纳米材料
+4.催化化学
+
+			
+				
+			联系方式
+			
+			电话：13606600019			电子信箱：zhourenxian@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：周仁贤
+		单位：化学系
+		职称：教授
+		我的主页共被访问了32744次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	专利成果
+	奖励荣誉
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

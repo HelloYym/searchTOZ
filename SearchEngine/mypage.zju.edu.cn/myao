@@ -1,0 +1,221 @@
+
+
+
+
+
+九丝原-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0095361";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	九丝原
+
+
+	永久链接:http://mypage.zju.edu.cn/myao&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+1995年7月毕业于浙江大学，获工学博士学位，1999年12月晋升为教授。现为浙江大学计算机系统工程研究所副所长、博士生导师。担任IDA2014、ADMA2013程序委员会主席，担任ICCME2011、KaaS2010、IASP2009国际学术会议主席，担任历届PAKDD、ADMA、IEEEIEEM以及IEEERIKD2012&amp;2010、KICSS2010、IASP2010、GCIS2010&amp;2009、IEEEICIS2009等国际学术会议程序委员会委员。
+承担国家自然科学基金、973、863、国家支撑计划、核高基、博士点基金、浙江省自然科学基金、国家重点实验室开放课题基金项目多项。其中&ldquo;智能信息处理方法研究&rdquo;获2002年浙江省高校科研成果奖。获授权发明专利两项，出版学术专著一部，编著五部、译著两部，并于2000年获华东地区科技出版社优秀图书奖。发表学术论文一百多篇，其中大部分论文被SCI和EI收录，并获浙江省自然科学优秀论文二等奖两项、三等奖一项。
+首次提出了广义模糊熵、广义去模糊机制、模糊一致关系与模糊一致矩阵、最大关联隶属原则等有关模糊信息处理的理论与方法，为解决某些模糊系统问题提供了理论基础。特别是符合人类决策思维一致性的模糊一致矩阵，得到了广大学者的认同，并纷纷加以引用。同时，将模糊计算、符号计算、神经计算以及演化计算机制相结合，创造性地提出了广义计算、广义建模和广义学习理论，并取得了良好的计算机仿真结果。
+
+
+
+
+
+&nbsp;
+			
+				
+			工作研究领域
+			
+			计算智能，知识发现，知识服务，图像理解
+			
+				
+			联系方式
+			
+			电话：8657187951647			电子信箱：myao@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：姚敏
+		单位：计算机科学与技术学院
+		职称：教授
+		我的主页共被访问了33080次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	学术兼职
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	九丝原8
+自然空间
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

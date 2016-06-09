@@ -1,0 +1,247 @@
+
+
+
+
+
+姚文熙-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0006105";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	姚文熙
+电力电子技术研究所，副教授
+
+	永久链接:http://mypage.zju.edu.cn/ywxi&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			姚文熙，浙江海宁人，浙大副教授。
+2000<spanstyle="font-family:宋体;
+mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
+宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin">年，毕业于浙江大学应电系，获得学士学位。
+2006<spanstyle="font-family:宋体;
+mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
+宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin">年，获得浙江大学电力电子与电力传动专业博士学位，同年进入<spanstyle="font-family:宋体;
+mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
+宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin">浙江大学电气学院从事师资博士后工作。
+2008<spanstyle="font-family:宋体;
+mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
+宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin">年，博士后出站后留校任教至今，<spanstyle="font-family:宋体;
+mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
+宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin">2008年晋升为副教授。
+其中2010<spanstyle="font-family:宋体;
+mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
+宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin">年~2011年，在美国北卡州立大学的&ldquo;新能源利用研究中心（FREEDM）&rdquo;访问学习。
+<spanstyle="font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">主讲课程：
+<spanstyle="font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">&nbsp;《现代电力电子装置及系统》
+<spanstyle="font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">&nbsp;《电力电子系统计算机仿真》
+&nbsp;《开关电源设计与调试》
+
+专长：
+&nbsp;逆变（直流-交流）技术
+&nbsp;电力电子数字控制
+			
+				
+			工作研究领域
+			
+			1.节能驱动变流技术；
+2.新能源发电；
+3.智能电网中的变流技术。
+
+
+			
+				
+			联系方式
+			
+			电话：057187951950			电子信箱：ywxi@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：姚文熙
+		单位：电气工程学院
+		职称：副教授
+		我的主页共被访问了15993次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

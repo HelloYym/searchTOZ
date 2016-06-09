@@ -1,0 +1,298 @@
+
+
+
+
+
+WeiFang'swebpage-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0009204";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	WeiFang'swebpage
+
+
+	Permanentlink:http://mypage.zju.edu.cn/en/wfang&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			Blog
+
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			Education：
+
+2000－2006&nbsp;Ph.D.:Dept.ofPhysics,NorthwesternUniversity(Evanston,IL)1995－1999&nbsp;&nbsp;B.S.:Dept.ofPhysics,PekingUniversity(Beijing)
+
+Experience：
+
+2009－AssociateProfessor:Dept.ofOpticalEngineering,ZhejiangUniversity2006－2008Postdoc:NIST&amp;JQI(Gaithersburg,MD)
+Teaching：
+
+2010－《Nanophotonics》(Graduatecourse)
+2013－《PhysicalOptics》（Undergraduatecourse）
+
+Researchinterests：1.Nonlinearoptics&amp;quantumoptics2.Semiconductorquantumdots3.Microcavity(cavityQED,deformedcavities)&nbsp;Micro/nanofiber&nbsp;&nbsp;&nbsp;&nbsp;1-DMicro/nanostructuresStudythelight-matterinteractionina1-Dmciro/nano-waveguide(silicaorsemiconductor),suchasnonlinearoptics,quantumoptics,andoptomechanics.&nbsp;PRA83,053830(2011);OE20,8667(2012);OE21,22314(2013)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Quantumdots&nbsp;&nbsp;&nbsp;&nbsp;EntangledphotonpairgenerationPolarizationentangledphoton-pairsweremeasuredfromaself-assembledsemiconductorquantumdotusingACStarkeffect.&nbsp;PRL101,027401(2008);PRL103,217402(2009)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Microcavity&nbsp;&nbsp;&nbsp;&nbsp;CavityQEDTheexistingofmicrocavitywillchangetheopticaldensityofstates,andthusaffecttheemissionpropertyofaquantumdotthatiscoupledtothecavity.&nbsp;OL27,948(2002);PRL98,117401(2007)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dynamiclocalization&nbsp;&nbsp;Theroughnessontheboundaryofamicrodiskwillscatterthepropagatinglight,andthusdecreasetheQ-factorofthecavitymode.However,aneffectcalleddynamiclocalizationwillsuppressthelightdiffusionintheangularmomentumspace,whichresultsintheformingofrelativelyhigh-Qmodes.&nbsp;PNAS101,10498(2004);OE13,5641(2005)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ChaoticmicrocavityCavitywithstadiumshapehastheraydynamicspropertiyasfullychaotic.However,thereexistshigh-Qscarmodeswhichcorrespondtosingleormultipoleunstableperiodicorbits.Andsuchmodesexhibitinterestingbehaviorwiththechangeofthecavityshape.&nbsp;&nbsp;&nbsp;PRA72,023815(2005);APL90,081108(2007);APL91,041108(2007)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Microcavity&amp;applications2-Dand3-Dwhispering-gallerymodebasedmcircavitieswerefabricatedusingphotolithographyandfs-laserdirectwritingmethods.UVlaseronsiliconsubstratewasdemonstrated,anditsapplicationasactivechemicalsensorwasshown.&nbsp;&nbsp;APL84,2488(2004);APL85,3666(2004);OE20,8667(2012);OL38,1458(2013)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+&nbsp;
+
+SelectPublications：
+29.YizeLu,FuxingGu,ChaoMeng,HuakangYu,YaoguangMa,WeiFang,andLiminTong,&ldquo;Multicolourlaserfromasinglebandgap-gradedCdSSealloynanoribbon,&rdquo;Opt.Express.21,22314(2013)
+
+
+
+28.JintianLin,YingxinXu,JiangxinSong,BinZeng,FeiHe,HuailiangXu,KojiSugioka,WeiFang,andYaCheng,&ldquo;Low-thresholdwhispering-gallery-modemicrolasersfabricatedinaNd:glasssubstratebythree-dimensionalfemtosecondlasermicromachining,&rdquo;Opt.Lett.38,1458(2013)
+&nbsp;
+27.FuxingGu,HuakangYu,WeiFang,andLiminTong,&ldquo;Nanoimprintedpolymermicro/nanofiberbragggratingsforhigh-sensitivitystrainsensing,&rdquo;IEEEPhoto.Tech.Lett.25,22(2013)
+
+
+
+
+26.JintianLin,ShangjieYu,YaoguangMa,WeiFang,FeiHe,LinglingQiao,LiminTong,YaCheng,andZhizhanXu,&ldquo;On-chipthree-dimensionalhigh-Qmicrocavitiesfabricatedbyfemtosecondlaserdirectwriting,&rdquo;Opt.Express20,10212(2012)
+
+
+
+
+25.FuxingGu,&nbsp;HuakangYu,WeiFang,LiminTong,&ldquo;Low-thresholdsupercontinuumgenerationinsemiconductornanoribbonsbycontinuous-wavepumping,&rdquo;<istyle="mso-bidi-font-style:
+normal">Opt.Express20,8667(2012)
+&nbsp;
+24.Q.H.Song,LiGe,J.Wiersig,J.-B.Shim,J.Unterhinninghofen,A.Ebersp&auml;cher,W.Fang,G.S.Solomon,andHuiCao,&ldquo;Wavelength-scaledeformedmicrodisklasers,&rdquo;Phys.Rev.A84,063843(2011)
+&nbsp;
+23.FuxingGu,HuakangYu,WeiFang,andLiminTong,&ldquo;Broadspectralresponseincomposition-gradedCdSSesinglenanowiresviawaveguidingexcitation,&rdquo;Appl.Phys.Lett.99,181111(2011)
+&nbsp;
+22.FuxingGu;LeiZhang;HuakangYu;WeiFang;JimingBao;LiminTong,&ldquo;<bstyle="mso-bidi-font-weight:
+normal">Largedefect-inducedsub-bandgapphotoresponseinsemiconductornanowiresviawaveguidingexcitation,&rdquo;Nanotechnology22,425201(2011)
+&nbsp;
+21.HuakangYu,WeiFang,FuxingGu,MinQiu,ZongyinYang,andLiminTong,&ldquo;LongitudinalLorentzforceonasubwavelength-diameteroptical&#64257;ber,&rdquo;Phys.Rev.A83,053830(2011)
+&nbsp;
+20.Q.H.Song,L.Ge,A.D.Stone,H.Cao,J.Wiersig,J.-B.Shim,J.Unterhinninghofen,W.Fang,andG.S.Solomon,&ldquo;DirectionalLaserEmissionfromaWavelength-ScaleChaoticMicrocavity,&rdquo;<istyle="mso-bidi-font-style:
+normal">Phys.Rev.Lett.105,103902(2010)
+&nbsp;
+19.J.Fu,H.Dong,andW.Fang,&ldquo;Subwavelengthfocusingoflightbyataperedmicrotube,&rdquo;<istyle="mso-bidi-font-style:
+normal">Appl.Phys.Lett.97,041114(2010)
+&nbsp;
+18.P.S.Kuo,W.Fang,andG.S.Solomon,&ldquo;4-quasi-phase-matchedinteractionsinGaAsmicrodiskcavities,&rdquo;<istyle="mso-bidi-font-style:
+normal">OpticsLetters34,3580(2009)
+&nbsp;
+17.AndressMuller,WeiFang,JohnLawall,andGlennS.Solomon,&ldquo;<bstyle="mso-bidi-font-weight:
+normal">CreatingPolarization-EntangledPhotonPairsfromaSemiconductorQuantumDotUsingtheOpticalStarkEffect,&rdquo;<istyle="mso-bidi-font-style:
+normal">Phys.Rev.Lett.103,217402(2009)
+&nbsp;
+16.QinghaiSong,WeiFang,BoyangLiu,Seng-TiongHo,GlennS.Solomon,andHuiCao,&ldquo;Chaoticmicrocavitylaserwithhighqualityfactorandunidirectionaloutput,&rdquo;Phys.Rev.A80,041807(R)(2009)
+&nbsp;
+15.ShanshanWang,ZhifangHu,HuakangYu,WeiFang,MinQiu,andLiminTong,&ldquo;Endfacereflectivitiesofopticalnanowires&rdquo;,OpticsExpress<bstyle="mso-bidi-font-weight:
+normal">17,10881(2009)
+&nbsp;
+14.AndressMuller,WeiFang,JohnLawall,andGlennS.Solomon,&ldquo;<bstyle="mso-bidi-font-weight:
+normal">Emissionspectrumofadressedexciton-biexcitoncomplexinasemiconductorquantumdot,&rdquo;Phys.Rev.Lett.101,027401(2008)
+&nbsp;
+13.W.Fang,andH.Cao,&ldquo;Waveinterferenceeffectonpolymermicrostadiumlaser,&rdquo;Appl.Phys.Lett.91,041108(2007)
+&nbsp;
+12.Z.G.Xie,S.Goetzinger,W.Fang,H.Cao,andG.S.Solomon,&ldquo;<bstyle="mso-bidi-font-weight:
+normal">InfluenceofaSingleQuantumDotStateontheCharacteristicsofaMicrodiskLaser,&rdquo;Phys.Rev.Lett.98,117401(2007)
+&nbsp;
+11.W.Fang,H.Cao,andG.S.Solomon,&ldquo;Controloflasinginfullychaoticopenmicrocavitiesbytailoringtheshapefactor,&rdquo;Appl.Phys.Lett.<bstyle="mso-bidi-font-weight:
+normal">90,081108(2007)
+&nbsp;
+10.X.Wu,W.Fang,A.Yamilov,A.A.Chabanov,A.A.Asatryan,L.C.Botten,andH.Cao,&ldquo;Randomlasinginweaklyscatteringsystems,&rdquo;Phys.Rev.A.<bstyle="mso-bidi-font-weight:
+normal">74,053812(2006)
+&nbsp;
+9.W.Fang,A.Yamilov,andH.Cao,&ldquo;Analysisofhigh-qualitymodesinopenchaoticmicrocavities,&rdquo;<istyle="mso-bidi-font-style:
+normal">Phys.Rev.A72,023815(2005)
+&nbsp;
+8.W.Fang,H.Cao,ViktorPodolskiy,andEvgniiNarimanov,&ldquo;<bstyle="mso-bidi-font-weight:
+normal">Dynamicallocalizationinmicrodisklasers,&rdquo;<istyle="mso-bidi-font-style:
+normal">OpticsExpress13,5641(2005)
+&nbsp;
+7.Z.Xie,W.Fang,H.Cao,andG.S.Solomon,&quot;RegrowthdynamicsofInAsquantumdotsontheGaAscircularmesa,&quot;J.CrystalGrowth<bstyle="mso-bidi-font-weight:
+normal">278,342(2005)
+&nbsp;
+6.W.Fang,D.Buchholz,R.Bailey,J.Hupp,P.Chang,andH.Cao,&ldquo;<bstyle="mso-bidi-font-weight:
+normal">Detectionofchemicalspeciesusingultravioletmicrodisklasers,&rdquo;Appl.Phys.Lett.<bstyle="mso-bidi-font-weight:
+normal">85,3666(2004)
+&nbsp;
+5.V.A.Podolskiy,E.E.Narimanov,W.Fang,andH.Cao,&ldquo;<bstyle="mso-bidi-font-weight:
+normal">ChaoticMicrolasersbasedondynamicallocalization,&rdquo;Proc.Nat.Aca.Sci.101,10498(2004)
+&nbsp;
+4.X.Liu,W.Fang,Y.Huang,X.H.Wu,S.T.Ho,H.Cao,R.P.H.Chang,&ldquo;Optically-pumpedultravioletmicrodisklaseronasiliconsubstrate,&rdquo;Appl.Phys.Lett.84,2488(2004)
+
+
+3.W.Fang,J.Y.Xu,A.Yamilov,H.Cao,Y.Ma,S.T.Ho,andG.S.Solomon，&ldquo;LargeenhancementofspontaneousemissionratesofInAsquantumdotsinGaAsmicrodisks,&rdquo;OpticsLetters<bstyle="mso-bidi-font-weight:
+normal">27,948(2002)
+&nbsp;
+2.Y.C.Kong,D.P.Yu,B.Zhang,W.Fang,andS.Q.Feng,&ldquo;Ultraviolet-emittingZnOnanowiressynthesizedbyaphysicalvapordepositionapproach,&rdquo;Appl.Phys.Lett.<bstyle="mso-bidi-font-weight:
+normal">78,407(2001)
+&nbsp;
+1.BeiZhang;WeiFang;DajunWang;FengLuan,&ldquo;AnisotropicradiationpatternfromInGaAlPquantumwellmesa-likemicrodisks,&rdquo;SolidStateComm.<bstyle="mso-bidi-font-weight:
+normal">116,201(2000)
+			
+				
+			Contact
+			
+			Phone:086-571-87952016
+			E-mail:wfang08atzju.edu.cn
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:WeiFang
+		Units:Dept.ofOpticalEngineering
+		Title:AssociateProfessor
+		Myhomepagehasbeenvisited2362times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	Nanophotonicsgroup
+
+
+
+Youarevisitor:2362
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

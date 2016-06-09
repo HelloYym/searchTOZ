@@ -1,0 +1,212 @@
+
+
+
+
+
+孙优贤-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0064051";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	孙优贤
+孙优贤的主页
+
+	永久链接:http://mypage.zju.edu.cn/sunyouxian&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+孙优贤，工业自动化专家，中国工程院院士。浙江省诸暨市人。1959年考入浙江大学化学工程学系，毕业后留校任教；1982年晋升为副教授；1984年获德国洪堡研究奖学金，赴德国斯图加特大学进修；1988年晋升为教授；1991年晋升为博士生导师；1995年当选中国工程院院士。
+现任浙江大学工业控制研究所所长，工业自动化国家工程研究中心主任，中国自动化学会理事长，中国仪器仪表行业协会副理事长，中国化工学会自动化委员会主任，浙江省自动化学会理事长。曾任国际自动控制联合会（IFAC）制浆造纸委员会副主席。
+长期从事复杂工业过程建模、控制与优化，工厂综合自动化系统，大型装备自动化成套系统，鲁棒控制理论及应用等领域的研究，先后承担或主持了一大批国家重大科技项目，提出并建立了我国高校第一个国家工程研究中心，组织实施了&ldquo;中国工业过程自动化高技术产业化&rdquo;等两个重大专项，率先建立了现代控制工程应用理论体系，创造性地解决了制浆造纸过程控制中一系列关键问题，取得了诸如容错控制技术，故障诊断技术，多系统同时镇定技术，全集成新一代主控系统，智能变送器技术，无纸记录仪技术等一系列技术发明和技术创新。研究成果与实际应用紧密结合，并实现了产业化，取得了重大的经济效益和社会效益。1995年当选院士以来，获得重大科研成果25项，科技奖励20项，其中国家科技进步二等奖2项、三等奖1项，国家优秀教学成果奖2项，省部级科技进步一、二等奖20项，出版专著、编著18部，发表论文500余篇，授权专利20余项。先后获&ldquo;浙江省科学技术重大贡献奖&rdquo;、&ldquo;何梁何利科技进步奖&rdquo;、&ldquo;全国教育系统劳动模范&rdquo;、&ldquo;人民教师奖章&rdquo;、&ldquo;全国首届优秀科技工作者&rdquo;、&ldquo;国家有突出贡献中青年专家&rdquo;等称号。
+
+			
+				
+			工作研究领域
+			
+			1、复杂工业系统的建模、控制与优化
+2、工厂综合自动化系统
+3、大型装备自动化成套系统
+4、鲁棒控制理论及应用
+5、无线传感器网络
+
+			
+				
+			联系方式
+			
+			电话：0571-87951879			电子信箱：yxsun@iipc.zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：孙优贤
+		单位：控制科学与工程学系
+		职称：教授
+		我的主页共被访问了32272次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,225 @@
+
+
+
+
+
+金滔的个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0003256";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	金滔的个人主页
+浙江大学制冷与低温研究所
+
+	永久链接:http://mypage.zju.edu.cn/jintao&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;金滔，男，浙江永嘉人。2001年博士毕业于浙江大学（中法联合培养），2008年12月晋升教授，2010年3月获博士生指导教师资格。现任国际制冷学会A1委员会委员，中国制冷学会低温委员会委员，全国气体分离与液化设备标准化技术委员会副主任委员，浙江省阀门标准化技术委员会委员。曾任浙江大学制冷与低温研究所副所长，浙江大学驻京办主任（挂职）。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;多次承担国家自然科学基金基金、浙江省自然科学基金、教育部留学归国人员启动基金、教育部博士点基金以及第三世界科学院优秀青年基金等科研项目。近十年来，&nbsp;先后共发表学术论文100余篇（以第一作者发表50余篇），其中40余篇被SCI/EI收录，且被SCI引用138次，SCI他引70次。出版主编或合编教材4部，获授权中国发明专利14项。作为主要成员曾获国家技术发明二等奖（2014），浙江省科学技术奖一等奖（2006）和三等奖（2008），教育部提名国家自然科学奖二等奖（2004）和浙江省高校科研成果三等奖等科技成果奖，以及国家级高等教育教学成果奖二等奖（2009）和浙江省高等教育教学成果一等奖（2009）、二等奖（2014，负责人）等教学成果奖。2007年8月获国际制冷学会&ldquo;卡皮查奖&rdquo;（PeterKapitzaAward），这是国际制冷学会授予低温物理领域青年学者的最高荣誉。2010年入选浙江省&ldquo;新世纪151人才工程&rdquo;第二层次培养人员。2013年入选&ldquo;教育部新世纪优秀人才支持计划&rdquo;。
+
+Dr.Prof.JINTao&nbsp;
+InstituteofRefrigerationandCryogenics
+ZhejiangUniversity
+Hangzhou310027,China
+Tel/Fax:0571-87953233(O)
+Email:jintao@zju.edu.cn&nbsp;
+&nbsp;
+课题组近期计划招聘教师一名，热烈欢迎有志于低温传热/低温工程方向研究的海内外优秀人士加盟！
+
+友情链接：
+制冷与低温研究所(http://www.doe.zju.edu.cn/cryolab)
+能源工程学院(http://www.doe.zju.edu.cn/)
+浙江大学(http://www.zju.edu.cn/)
+			
+				
+			工作研究领域
+			
+			主要从事热声热机、低温制冷技术、气体分离与液化技术、低温泵阀及深冷工艺、流场仿真技术和低品位能利用等方面的研究。
+			
+				
+			联系方式
+			
+			电话：0571-87953233			电子信箱：jintao@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：金滔
+		单位：能源工程学院
+		职称：教授
+		我的主页共被访问了28855次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	出版著作
+	专利成果
+	奖励荣誉
+	课题组成员
+	学习和工作简历
+	主要学术兼职
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

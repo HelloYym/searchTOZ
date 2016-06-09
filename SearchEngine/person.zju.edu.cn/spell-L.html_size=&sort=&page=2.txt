@@ -1,0 +1,1 @@
+{'name': [u'\u6797\u798f\u5448'], 'title': [], 'photo': '', 'pos': './person.zju.edu.cn/spell-L.html?size=&sort=&page=2', 'blog': [], 'intro': '', 'department': [u'\u519c\u4e1a\u4e0e\u751f\u7269\u6280\u672f\u5b66\u9662\u5e94\u7528\u751f\u7269\u79d1\u5b66\u7cfb'], 'homepage': u'http://mypage.zju.edu.cn/fuchenglin'}

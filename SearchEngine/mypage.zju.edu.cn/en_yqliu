@@ -1,0 +1,215 @@
+
+
+
+
+
+BehavICM-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0097295";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	BehavICM
+futuremanagementforvegetable
+
+	Permanentlink:http://mypage.zju.edu.cn/en/yqliu&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			Blog
+
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			.
+Education
+
+
+PhD.:Entomology,2009,jointprogrambetweenZhejianguniversity,ChinaandtheuniversityofBremen,Germany
+
+
+M.Sc.:Entomology,1997,DepartmentofPlantProtection,ZhejiangAgriculturalUniversity,Hangzhou,China.
+
+
+B.Sc.:Horticulture,1994,DepartmentofHorticulture,LaiyangAgriculturalCollege,Shandong,China.
+
+
+
+			
+				
+			Researchwork
+			
+			Behavioralandchemicalecologyofinsects,invasivebiologyofpests,biologicalcontrolandintegretedpestmanagementofvegetablecrops
+			
+				
+			Contact
+			
+			Phone:008657186039565
+			E-mail:yqliu@zju.edu.cn
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:LIU,Yin-Quan
+		Units:InstituteofInsectSciences,ZhejiangUniversity
+		Title:AssociateProfessor
+		Myhomepagehasbeenvisited2748times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+Publications
+InternationalConferences
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	Labwebpage
+InstituteofInsectSciences
+
+
+
+Youarevisitor:2748
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

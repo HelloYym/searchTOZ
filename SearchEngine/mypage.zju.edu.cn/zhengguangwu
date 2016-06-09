@@ -1,0 +1,223 @@
+
+
+
+
+
+吴争光-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0011322";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	吴争光
+此刻的我站在路的尽头
+
+	永久链接:http://mypage.zju.edu.cn/zhengguangwu&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			A.&nbsp;学习经历
+2000年9月-2004年7月&nbsp;浙江师范大学数学与应用数学系理学学士
+2004年9月-2007年1月&nbsp;浙江师范大学数学与应用数学系理学硕士
+2007年9月-2011年3月&nbsp;浙江大学控制科学与工程学系工学博士
+B.工作经历
+2010年2月-2010年6月DepartmentofMathematics,CityUniversityofHongKong,HongKong,ResearchAssociate
+2010年12月-2011年2月DepartmentofMechanicalEngineering,&nbsp;The&nbsp;UniversityofHongKong,HongKong,Research&nbsp;Associate
+2011年9月-2013年8月&nbsp;DepartmentofElectricalEngineering,YeungnamUniversity,RepublicofKorea,Post-doctoralResearchAssociate
+2014年7月-2014年10月DepartmentofMechanicalandBiomedicalEngineering,CityUniversityofHongKong,SeniorResearchAssociate
+2015年3月-2015年6月DepartmentofMechanicalEngineering,TheUniversityofHongKong,HongKong,ResearchAssociate
+2011年5月-2014年12月&nbsp;浙江大学智能系统与控制研究所助理研究员、硕士生导师
+2015年1月-&nbsp;浙江大学智能系统与控制研究所研究员、博士生导师
+			
+				
+			工作研究领域
+			
+			HybridSystems(MarkovJumpSystems;Sampled-DataControlSystems);Time-DelaySystems;NetworkedControlSystems
+			
+				
+			联系方式
+			
+						电子信箱：nashwzhg@zju.edu.cn;nashwzhg@126.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：吴争光
+		单位：控制科学与工程学系
+		职称：研究员
+		我的主页共被访问了20482次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		出版著作
+	发表论文
+	学术兼职
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	IEEEXplore
+IEEETAC
+IEEETC
+IEEETNNLS
+IEEETFS
+Automatica
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

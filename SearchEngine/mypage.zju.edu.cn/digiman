@@ -1,0 +1,217 @@
+
+
+
+
+
+“大学”精神-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0004151";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	“大学”精神
+思想空间
+
+	永久链接:http://mypage.zju.edu.cn/digiman&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			沈华清，浙江台州人氏，毕业于杭州大学物理学系，90保送中国科学院沈阳金属腐蚀与防护研究所（现已归入金属所），93年获工学硕士学位。93年起从事影视与广告制作十年有余，擅长三维动画、影视广告、创意、电视制作等创作。2004年调入浙大艺术学系，主要从事计算机辅助设计、多媒体、动画、影视理论的教学工作。
+动画作品《水镇》曾获2004年法国昂西动画节提名，2005获得四川省人民政府和广电总局主办的&rdquo;四川电视节&rdquo;金熊猫奖最佳动画短片奖、亚洲最佳动画短片提名。
+2012年获得国家广电总局学院动画优秀奖励专项基金二等奖
+电视片头作品《风雅钱塘》获得2003文化部中外文化交流中心与中国电视艺术家协会举办的学术金蛙奖。
+合著有《动画制作利器》（重庆大学出版社）《影视广告》高等教育出版社
+&nbsp;
+&nbsp;
+			
+				
+			工作研究领域
+			
+			动画、影视、多媒体技术
+			
+				
+			联系方式
+			
+						电子信箱：digimanshq@126.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：沈华清
+		单位：人文学院艺术学系
+		职称：副教授
+		我的主页共被访问了11037次
+标签：photoshopAftereffectslightroomsoftimage影视多媒体动画VideoVue	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	发表论文
+	学术交流（讲座报告）
+	草民语录
+	“心”影像志
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	我的博客
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

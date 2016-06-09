@@ -1,0 +1,208 @@
+
+
+
+
+
+PublishinginDigitalAge-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0008279";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	PublishinginDigitalAge
+
+
+	永久链接:http://mypage.zju.edu.cn/publishing&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			陈洁，浙江大学人文学院中文系副教授、博士生导师，剑桥大学访问学者，浙江省第一批之江青年社科学者，求是青年学者，主要从事数字出版、媒介文化、出版产业等领域的研究。曾在《新华文摘》、人大复印资料《出版工作》、《中国出版》等重要学术期刊和知名国际期刊Publishing&nbsp;Research&nbsp;Quarterly上发表31篇有影响力的学术论文，参与中国数字出版蓝皮书撰写，出版论著1部。其相关论文成果荣获第十六届浙江省哲学社会科学优秀成果奖三等奖及省教育科研成果奖二等奖。独立主持国家社科基金项目以及教育部、国家新闻出版总署等5项国家级、省部级项目及其他4项数字出版研究课题，并作为骨干成员参与完成国家社科基金重大项目，其中多项已结题。先后被授予浙江大学优秀青年教师、优秀班主任、优秀青年岗位能手、优秀共产党员等荣誉称号。指导论文获未来编辑杯全国竞赛一等奖、指导网站设计作品获全国网络编辑大赛最佳设计奖。
+
+			
+				
+			工作研究领域
+			
+			DigitalPublishing,PublishingIndustry,CulturalTransmissionPatternandDigitalContent,InfluenceofDigitalMedia
+
+			
+				
+			联系方式
+			
+						电子信箱：purechenjie@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：陈洁
+		单位：人文学院
+		职称：副教授
+		我的主页共被访问了3992次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

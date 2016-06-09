@@ -1,0 +1,274 @@
+
+
+
+
+
+Biomaterials-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0096200";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	Biomaterials
+ChangyouGao'Group
+
+	永久链接:http://mypage.zju.edu.cn/biomaterials&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			高长有教授博士杰青长江特聘教授
+浙江大学生物医用大分子研究所
+浙江大学高分子科学与工程学系杭州310027,
+电话:+86-571-87951108
+传真:+86-571-87951108
+Email:cygao@mail.hz.zj.cn
+&nbsp;&nbsp;&nbsp;&nbsp;cygao@zju.edu.cn&nbsp;
+课题组主页：http://polymer.zju.edu.cn/biomaterials/Chinese/
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;高长有，男，1966生于吉林辉南。1986－1996年，在吉林大学化学系学习，获得高分子化学与物理博士学位。1996－1998在浙江大学高分子系做博士后。2001起任职教授；2002年起为博士生导师。1999年至今，作为高访学者每年在德国马普胶体与界面研究所进行合作研究2－3个月。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;主要研究方向是生物医用高分子，是材料学、化学与生命科学高度交叉的前沿研究领域。具体包括：组织工程与再生医学材料、纳米与胶体生物材料及其与细胞的相互作用。指导思想是采用材料和化学的手段和技术解决组织修复和再生的基础和应用问题，提供用于皮肤、软骨、骨和肝等治疗的材料与技术。
+课题组主要研究方向：
+（１）　组织修复与再生医用高分子材料
+（２）　细胞迁移与分化诱导材料
+（３）　纳米和胶体微粒与细胞的相互作用
+（４）　自组装微胶囊及其他新结构胶体和纳米材料
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在聚合物中空微胶囊的制备与性能研究方面取得了国际先进，在某些方面领先的成果；在组织工程支架的制备与表面相容性构建方面取得了创新性的研究成果。例如，解决了高完好率自组装聚电解质中空微胶囊的制备问题，获得了热和离子强度敏感的智能微胶囊；建立了基于连续介质理论和渗透压法测定纳米超薄膜机械强度方法，最先报道了聚电介质纳米超薄膜的弹性模量；发现了微胶囊热致尺寸变化现象；最早发现水溶性物质在微胶囊中的自沉积现象，并成功地用于酶、蛋白和药物（抗癌药）的包埋；较早建立了热致相分离技术制备聚合物组织工程支架的普适方法，制备了特定微结构的用于组织工程化软骨、皮肤和血管的多孔支架；较早报道了组织工程材料表面胺解、紫外光氧化接枝进而固定生物活性因子的新方法，及其有效促进软骨、成纤维和内皮细胞的生长作用。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;作为负责人先后承担国家自然科学基金面上项目5项，国家杰出青年科学基金1项，国家自然科学基金重点项目2项，国家自然科学基金重大国际合作项目1项，生物材料973计划课题2项，参与973计划&ldquo;组织工程的基本科学问题&rdquo;研究。在AngewandteChemie、AdvancedMaterials、ChemicalCommunications、Chemistry,aEuropeanJournal、ChemistryofMaterials、Macromolecules、JournalofPhysicalChemistryB、Biomacromolecules、Biomaterials和TissueEngineering等本学科国内外核心期刊发表SCI收录论文200余篇。多次参加国内外相关领域的学术会议并做邀请报告。编著有《医用生物材料》，参与撰写和编著专著多部。国家授权发明专利40余项。获2003年度浙江省首届优秀博士后；浙江省科技奖1等和2等各一项（2008、2010）；2003年度浙江省高等学校科研成果奖一等奖1项；浙江省151人才二层次入选者；国家杰出青年基金获得者；教育部长江特聘教授。现为中国生物材料学位理事，中国生物医学工程委员会生物材料分会、组织工程分会委员，中国复合材料学会生物复合材料专业委员会委员；《科学通报》、《中国科学B：化学》、《JournalofZhejiangUniversity》、《组织工程与重建外科》、《JournalofNanoscienceLetters》、《ColloidsandSurfacesB:Biointerfaces》、《化学进展》、《TheScientificWorldJOURNAL》、《ChineseJournalofPolymerScience》等杂志编委。&nbsp;课题组已先后培养博士和硕士各25名；当前在读博士和硕士研究生20余名。
+
+
+
+
+ChangyouGao,Prof.Dr.
+DepartmentofPolymerScienceandEngineering,
+CollegeofMaterialsScienceandChemicalEngineering,
+ZhejiangUniversity,Hangzhou310027,China&nbsp;
+
+Tel:+86-571-87951108
+Fax:+86-571-87951108
+Email:cygao@mail.hz.zj.cn,&nbsp;cygao@zju.edu.cn
+
+Education：
+Ph.D.ofPolymerChemistryandPhysics,JilinUniversity.China,July,1996
+Thesis:MoleculeDesignandSynthesesofHighPerformanceOpticalResins
+M.S.ofPolymerChemistryandPhysics,JilinUniversity,China,July,1993
+Thesis:PreparationandCharacterizationofOrgano-siliconeAbrasion-resistantFilms
+BachelorofPolymerMaterials,JilinUniversity.China,July,1990
+Thesis:InterpenetratingPolymerNetworkofPolyurethanes/Polyacrylates/EpoxyResins
+
+WorkingExperience：
+Dec.2001-present,ProfessorofMaterialsScience,DepartmentofPolymerScienceandEngineering,ZhejiangUniversity
+July1998-Dec.2001,AssociateprofessorofMaterialsScience,DepartmentofPolymerScienceandEngineering,ZhejiangUniversity
+Sep.1996-Sep.1998,Postdoctorfellowshipofpolymermaterials,DepartmentofPolymerScienceandEngineering,ZhejiangUniversity
+Oct.1999-Nov.1999,DeutscherAkademischerAustauschdienst(DAAD)fellowship,Germany
+1999-present&nbsp;&nbsp;VisitingprofessortoMax-Planck-InstituteofColloidsandInterfaces,Germany,2-3monthsperyear.
+
+ResearchFields
+1.Biointerfacesofpolymericmaterialsandbiologicalsystem.Aimingatmodulatingtheresponseofbiologicalsystemtothesyntheticpolymericmaterials,surfaceengineeringofthematerialsarebeingsystematicallyinvestigatedbyadvancedtechnologiessuchasconfocallaserscanningmicroscopy,scanningforcemicroscopy,scanningandtransmissionelectronmicroscopy,fluorescencespectroscopy,infraredspectroscopy,andcellcultureinvitro.Severalnoveltechniqueshavebeendevelopedtoincorporatebiologicalmoleculesintothesyntheticmaterials&rsquo;surfacestoobtainhybrids,suchasphoto-oxidationandphoto-inducedgrafting,controllableaminolysisandlayer-by-layerassemblyetc.
+
+2.Tissueengineeringandtissueengineeringmaterials.Theregenerationofdamagedordefectedtissuesbyatissueengineeringwayisverypromisingsincethisallowstherecoverynotonlythemacroscopiccontoursandfunctions,butalsothemicro-structureandnormalresponseofnaturaltissues.Constructionoftissue-engineeredorgansreliesonthebiodegradablescaffolds,seedcells,andthecombinationofthem.Severalmethodshavebeendevelopedtofabricateporouspolymericscaffoldswithcontrollablemicrostructure,includingthermallyinducedphaseseparation,andparaffinsphereleaching.Themicrostructuresuchastheporesize,porosity,poreshapeandinterconnectivityoftheporesiswellmodulatedbyfabricatingconditions.Speciallytailoredconditionscangenerateporesrangingfrommicrometerstohundredsofmicrometers.Seedingmammaliancellssuchasfibroblasts,chondrocytesandendothelialcellsintothescaffoldshaveobtainedhybridsofmaterialsandcells,whicharepromisingcandidatesforregenerationofthecorrespondingorgans,e.g.skin,cartilageandbloodvessel.
+
+3.Layer-by-layerassemblyandhollowcapsules.Theintegrityofthehollowcapsulesfabricatedbylayer-by-layerassemblyonsacrificialcoresandremovalofthecoresinfluencesgreatlythepropertieswhicharecrucialforthesubsequentstudies.Thefabricationofthehollowcapsuleshasbeenwellinvestigatedwithrespecttothequalityofthecapsules,resultingin&gt;90%ofintactcapsulesattheoptimalconditions.Themechanicalpropertyofthehollowcapsuleswasfirstlyexploredbyosmoticinducedcapsuledeformation,yieldingtheelasticityoftheLBLmultilayersconstitutingthecapsulewall.TheSurfacetextureofcapsulesandthethermallyandsaltinducedcapsuleshrinkingandswellingwerefound,andtheinherentmechanismwasdiscussed.Asurprisingphenomenonforthecapsuleswasrevealedthatcouldspontaneouslydepositmanywatersolublesubstancesintothecapsulesatmildconditions.Thedepositionamountwasquantified.Subsequentsustainedreleaseofthedepositedsubstanceswasfollowed;thereleasedanti-cancerdrugsretainedthefunctiontoinducecellapoptosis.AsmarterencapsulationandreleaseisunderinvestigationbyusingpHorthermalsensitivepolymers.
+Manynationalgrantshavebeenapprovedtosupporttheaboveresearch,includingtheNaturalScienceFoundationofChina(3projects,principleinvestigator),ExtinguishedYoungScientistAward(principleinvestigator)andKeyprojectfromtheNaturalScienceFoundationofChina(principleinvestigator),andBasicResearchProgramofChina(973project,co-investigator).
+Morethan100peer-reviewedscientificpapers,1book-chapter,and8authorizedpatentshavebeenpublished.Beingarefereeforseveralpeer-reviewedacademicjournalssuchasJournalofAmericanChemicalSociety,AdvancedMaterials,ChemistryofMaterials,Langmuir,Macromolecules,Polymer,TissueEngineering,Biomacromolecules,Biomaterials,MacromolecularBioscience,MacromolecularRapidCommunications,ColloidsandSurfaceA,JournalofAppliedPolymerScience,PolymerInternationaletc,andfortheNationalNaturalScienceFoundationofChina,theDoctoralFoundationofEducationMinistryofChina,andtheYoungTeacherAwardofChineseUniversities.
+			
+				
+			工作研究领域
+			
+			生物材料的表面与界面、聚合物组织工程材料（如皮肤和软骨）、聚合物中空微胶囊（基础研究与药物控释）、表面图案化和纳米生物材料等.
+
+SurfaceandInterfaceofBiomaterials,BiomaterialsforTissueEngineeringandRegenerativeMedicine,PolymericHollowMicrocapsules,SurfacePatterning,andNanobiomaterials.
+			
+				
+			联系方式
+			
+			电话：+86-571-87951108			电子信箱：cygao@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：高长有
+		单位：高分子科学与工程学系
+		职称：教授
+		我的主页共被访问了49483次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	学术交流（讲座报告）
+	研究成果
+	专利成果
+	奖励荣誉
+	实验室介绍
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	高长有教授课题组主页
+马列
+管建均教授－TheOhioStateUniversity
+8thWorldBiomaterialsCongress
+中国专利检索
+浙江省博士后联谊会
+國立浙江大學(NationalChekiangUniversityForum)
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,265 @@
+
+
+
+
+
+奇妙的深低温-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0005419";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	奇妙的深低温
+欢迎进入低温物理
+
+	永久链接:http://mypage.zju.edu.cn/zhangxiaobin&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+
+张小斌，1976.03，男，博士，浙江大学副教授，博士生导师，求是青年学者
+&nbsp;&nbsp;
+
+
+主要从事低温流体两相流动的理论分析、计算流体力学(CFD)方法数值建模及实验可视化研究，&nbsp;
+
+具体内容包括低温流体汽蚀机理，低温流体液泛机理，超导磁体低温冷却系统设计，空分用规&nbsp;
+
+整填料精馏塔流动和传热传质特性及塔式太阳能热电发电系统中熔融盐换热器传热特性等。&nbsp;
+
+2001年获黑龙江省优秀硕士论文。2002~2005年博士期间，主要参与了国家重大项目北京正负电&nbsp;
+
+子对撞机低温系统升级改造项目(BEPCⅡ)低温系统的设计，承担了三个超导磁体阀箱的管路优&nbsp;
+
+化设计、低温多通道传输管线优化设计、SCQ超导磁体冷却系统设计等工作。近5年来，作为负&nbsp;&nbsp;
+
+责人先后主持国家自然科学基金2项；国家973和863子课题各1项；省、部级项目2项，航天部、
+中石油等国有企业及国际大企业合作项目5项，内容涉及低温流体汽蚀分析、换热器和高压储罐&nbsp;
+放气过程优化设计，高压低温液体节流减压过程的流动及传热特性，液化天然气接收终端设计
+和仿真，低温环境装置设计及实验等。已发表SCI检索论文14篇，获得发明专利5项，合作出版
+论著1本（排名第二），获得省科学技术奖二等奖1次（排名第二）。&nbsp;
+
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+工作简历
+
+
+
+
+1995.09～1999.07&nbsp;&nbsp;&nbsp;哈尔滨工业大学&nbsp;热能动力工程本科
+1999.09～2001.07&nbsp;&nbsp;&nbsp;哈尔滨工业大学&nbsp;工程热物理&nbsp;硕士
+2001.09～2005.03&nbsp;&nbsp;&nbsp;哈尔滨工业大学&nbsp;制冷与低温工程博士
+2005.04～2005.08&nbsp;&nbsp;&nbsp;浙江大学&nbsp;&nbsp;制冷与低温工程&nbsp;学科博士后
+2005.09～2007.09&nbsp;&nbsp;&nbsp;浙江大学&nbsp;&nbsp;制冷与低温工程&nbsp;师资博士后
+2007.10～&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江大学&nbsp;制冷与低温研究所副教授，博士生导师，求是青年学者
+2008.09～2010.06&nbsp;&nbsp;&nbsp;美国宾夕法尼亚大学&nbsp;机械工程及应用力学系访问学者
+2012.10～2012.11&nbsp;&nbsp;&nbsp;澳大利亚南新威尔士大学&nbsp;&nbsp;中澳青年科学家交流学者
+
+&nbsp;
+&nbsp;
+			
+				
+			工作研究领域
+			
+			1.低温流体汽蚀特性理论、数值及可视化研究。（国家自然科学基金课题）
+汽蚀（cavitation）是指流体流动过程中压力降低到接近饱和压力而相变汽化的现象，根据形态，它可分为运动汽蚀、片状汽蚀、云状汽蚀、超空泡汽蚀及涡旋汽蚀等。由于气泡生成、发展及溃灭过程的自振荡，除了片状汽蚀可认为是类稳态，其他汽蚀形态都表现出强烈的非稳态特性。汽蚀现象非常普遍，几乎存在于一切运转在液体内部的装置中，如透平机械、泵等。在大多数情况下，汽蚀会引起系统负面影响，如减少泵的扬程，引起叶片振动和噪声，甚至断裂等，成为流体工程领域一个重要的研究问题。在以液氢/液氧为推进剂的大推力火箭系统中，汽蚀在文氏管、诱导轮及高速涡轮泵等部件中造成的影响更显著。随着我国以液氢/液氧为燃料的大推力火箭发动机的发展，低温流体汽蚀现象成为亟需解决的问题之一。
+
+2.低温精馏规整填料两相流动传热传质数值及可视化研究。（973课题）
+规整填料精馏塔也是大型空分系统的核心设备之一，是整个空分系统实现节能减排的主要组成部分。主要对以下内容进行了研究：（1）大流量规整填料塔内低温流体压降特性CFD及实验研究。研究不同填料结构低温流体干压降（氮气）及湿压降大小（液氮/氮气）并分析压降机理。（2）大流量规整填料塔内低温流体两相流动及传质特性CFD研究。（3）规整填料内低温流体液泛（Flooding）特性理论及实验研究。利用线性扰动理论构建液泛预测模型，并开展相应的低温流体液泛实验，研究液泛与倾角、气液相对流速的内在联系。
+
+3.10MW太阳能热发电技术-熔融盐蒸汽发生器性能模拟及蒸汽发生器初步设计。（863子课题）
+熔融盐蒸汽发生器性能模拟，研究不同熔融盐物性下的蒸发器流动和传热特性。建立管壳式换热器两相流动和换热数值模型，总结换热经验关联式。进行蒸汽发生器初步设计，实验测试熔融盐蒸汽发生器，验证换热公式，研究换热特性。
+
+
+
+			
+				
+			联系方式
+			
+			电话：0571-87953196			电子信箱：zhangxbin@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：张小斌
+		单位：能源工程学系，制冷与低温研究所
+		职称：副教授,博士生导师，求是青年学者
+		我的主页共被访问了10120次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+	专利成果
+	出版著作
+	奖励荣誉
+	研究成果
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	浙江大学制冷与低温研究所
+浙江大学
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

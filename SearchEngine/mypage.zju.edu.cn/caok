@@ -1,0 +1,216 @@
+
+
+
+
+
+caok-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0092049";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	caok
+飘一族
+
+	永久链接:http://mypage.zju.edu.cn/caok&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			曹堃，男，祖籍南通，生于杭州。1998年获浙江大学工学博士学位。现为化学工程国家重点实验室固定研究人员、浙江大学化工系聚合与聚合物工程研究所副所长。2001-2002年期间获德国克虏伯（Krupp）基金会资助在卡尔斯鲁厄大学（UniversityofKarlsruhe）从事博士后研究。曾先后访问过美国麻省理工、哈佛大学、佐治亚理工、里海大学，德国汉堡大学、弗莱堡大学，日本庆应大学、早稻田大学，法国南希大学、里昂国家科研中心，加拿大麦克玛斯特大学等。目前主要从事基于过程强化和系统集成的高分子先进制造技术及其产品工程应用开发，近年来作为主要骨干参加国家自然基金重大和重点项目各1项，负责国家自然基金面上项目4项，以及中国石化的多个百万级重大横向项目。在化工及高分子领域的SCI/TOP期刊如AIChE、CES、IECR、JSF、MRC等上发表论文30余篇，公开或已授权发明专利近20项。此外，兼任&ldquo;合成橡胶工业&rdquo;编委及美国塑料工程师协会成员，并担当下列学术期刊的长期审稿人：ChemicalEngineeringScience,Industrial&amp;EngineeringChemistryResearch,JournalofSupercriticalFluids,FluidPhaseEquilibria,MACROMOLECULARJournals,Polymer,PolymerEngineering&amp;Science,JournalofAppliedPolymerScience,PolymersforAdvancedTechnologies,化工学报,中国化学工程学报英文版等。
+			
+				
+			工作研究领域
+			
+			1.绿色高分子及环境友好技术
+2.智能高分子微球及应用技术
+3.可控聚合及过程强化集成技术
+4.超临界反应挤出及高分子复合材料加工
+5.微化工技术在高分子领域中的应用
+6.高粘非均相物系混合、分散及脱挥
+7.化工过程多尺度建模及控制策略优化
+8.反应系统非定态分析及事故诊断技术
+			
+				
+			联系方式
+			
+			电话：0571-87951832			电子信箱：kcao@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：曹堃
+		单位：化学工程与生物工程学系
+		职称：教授、博士生导师
+		我的主页共被访问了2114次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		专利成果
+	教学工作
+	工作研究项目
+	出版著作
+	奖励荣誉
+	实验室介绍
+	发表论文
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,203 @@
+
+
+
+
+
+陈新才-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0006315";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	陈新才
+环境与资源学院
+
+	永久链接:http://mypage.zju.edu.cn/chenxincai&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			2000年6月毕业于郑州大学环境工程系，2003年6月在武汉理工大学获环境工程硕士学位，2006年9月获浙江大学环境工程专业博士学位，2006年10月至今在浙江大学环境工程系工作，任副教授，现为美国微生物学会会员，入选浙江大学学术带头人后备人才出国研究专项计划（&quot;新星计划&quot;），2009年10月至今赴美国康奈尔大学（CornellUniversity）农业与生命科学学院微生物系开展访问研究。主要研究方向为环境微生物、环境污染模拟与控制、污染土壤修复与农产品安全。主持国家自然科学基金&quot;非饱和生物膜的时空变化及其结合重金属的分子形态研究&quot;，国家环保部项目、国家&quot;863&quot;重点项目子课题、浙江省科技厅公益性技术应用研究计划项目、浙江省自然科学基金、中国博士后科学基金和企业委托一般横向项目等多项课题研究。作为主要成员参加了国家&quot;863&quot;项目重点课题、国家自然科学基金重点项目（面上项目）、浙江省教育厅项目等多项课题研究。多次参加土壤修复与环境微生物等方面的国际国内学术会议并做报告。目前已在&quot;BioresourceTechnology&quot;,&quot;AppliedandEnvironmentalMicrobiology&quot;,&quot;AppliedMicrobiologyandBiotechnology&quot;,&quot;ColloidsandSurfacesB:Biointerfaces&quot;,&quot;CanadianJournalofMicrobiology&quot;,&quot;Chemosphere&quot;等国内外刊物上发表录用论文40余篇，其中SCI论文30余篇。
+			
+				
+			工作研究领域
+			
+			环境微生物、环境污染模拟与控制、污染土壤修复与农产品安全
+			
+				
+			联系方式
+			
+			电话：0571-88982017			电子信箱：chxc8008@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：陈新才
+		单位：环境与资源学院环境工程系
+		职称：副教授
+		我的主页共被访问了4978次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

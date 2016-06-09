@@ -1,0 +1,390 @@
+
+
+
+
+
+“大学”精神-博客
+
+
+
+
+
+
+varctxPath="http://mypage.zju.edu.cn";
+varb_handle="digiman";
+varcfg_weblog="http://mypage.zju.edu.cn/weblog";
+vard=newDate()
+varselyear=d.getFullYear();
+varselmonth=d.getMonth()+1;
+
+
+
+
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	color:#111;
+	margin-right:10px;	
+}
+#mainlinkullia,.tagsa:hover{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+.tagsa{
+	margin-right:10px;
+}
+img{
+	border:none;
+}
+
+
+
+
+
+
+
+
+
+
+	
+		首页
+		帮助
+		登录
+	
+
+
+
+
+
+
+	“大学”精神
+思想空间
+
+	永久链接:http://mypage.zju.edu.cn/weblog/digiman&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+
+
+	中文主页
+英文主页
+			博客
+
+
+
+
+
+
+
+
+
+
+			
+				
+
+	
+[1/1]
+首页	上一页下一页末页
+
+	
+
+浏览模式:普通|列表
+
+
+
+
+
+
+		科研与GDP时代——艺术“被科研”的悲哀
+
+作者:沈华清日期:2010-11-01Monday
+
+
+
+科研对于大学很重要，涉及学校的排名和项目资金申请，科研成绩对于学校管理者比教师更重要，因为数据能使管理者有业绩感，这有点像GDP之于政府。GDP时代因为其功利化过度的弊端不断严重暴露而在&ldquo;十二五规划&rdquo;被国家决策层摒弃，但是科研的业绩不知道何时有...
+查看更多...
+
+Tags:
+GDP科研悲哀被科研
+	
+
+
+
+分类:教育|			固定链接|评论总数0|
+			阅读次数45
+
+
+
+
+
+
+
+		“大师”饥渴症无助于高等教育改革
+
+作者:沈华清日期:2010-07-31Saturday
+
+
+
+&ldquo;大师&rdquo;饥渴症无助于高等教育改革&ldquo;钱学森之问&rdquo;和公共对于&ldquo;诺贝尔奖&rdquo;渴望都无可非议，也反映了作为走向发达国家过程中国人对于教育的期望，但是在目前整体教育存在着积重难返的状态下，这种期望&ldquo;大师再生&rdquo;的舆论很...
+查看更多...
+
+Tags:
+低薪改革饥渴症高等教育大师
+	
+
+
+
+分类:教育|			固定链接|评论总数0|
+			阅读次数60
+
+
+
+
+
+
+
+		北京的秋天不喜欢透明
+
+作者:沈华清日期:2010-10-10Sunday
+
+
+
+我花十来天上新浪微博，就说谎问题与陌生人沟通，却发现一种根植于很多人内心深处的无力感，他们宁可做白日梦，也不试图对现实想点办法，并采取行动，他们有种令我肃然起敬的逆来顺受的能力，这能力我不具备，他们把自己定义成村上春树所说的&ldquo;鸡蛋&rdquo;，...
+查看更多...
+
+Tags:
+石康现实历史书鸡蛋北京
+	
+
+
+
+分类:默认分类|			固定链接|评论总数0|
+			阅读次数39
+
+
+
+
+
+
+
+		从教育投入看教育制度改革
+
+作者:沈华清日期:2009-10-26Monday
+
+
+
+当下,教育问题已经成了国民议论纷纷的话题,这不仅在于教育对于国民素质以及能力培养的重要性，更表现了人们对教育的重视程度和关注度，但是这种重视明显的透着无奈，老百姓不能因为教育费用高就放弃子女的教育，也不可能因为痛恨现在的教育体制来拿自己的子女做...
+查看更多...
+
+Tags:
+制度改革教育投入
+	
+
+
+
+分类:默认分类|			固定链接|评论总数0|
+			阅读次数127
+
+
+			
+			
+		
+		
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+	
+	
+		姓名：沈华清
+		单位：人文学院艺术学系
+		职称：副教授
+		我共发表了4篇文章
+		共收到0条评论
+		我的主页共被访问了1054次
+	
+	
+	
+	
+
+
+我的文章分类
+
+	教育
+		
+默认分类
+		
+
+
+
+
+日历
+
+
+
+>>
+年月
+
+
+
+日
+一
+二
+三
+四
+五
+六
+
+
+
+
+
+
+
+
+
+
+
+我的最新文章
+
+
+		科研与GDP时代——艺术...
+“大师”饥渴症无助于高...
+北京的秋天不喜欢透明
+从教育投入看教育制度改...
+	
+
+
+
+
+我的热点文章
+
+
+				“大师”饥渴症无助于高...
+		科研与GDP时代——艺术...
+		从教育投入看教育制度改...
+		北京的秋天不喜欢透明
+
+	
+
+
+我收到的评论
+
+	
+	
+
+
+我的文章汇总
+
+		2010年11月[1]
+		2010年10月[1]
+		2010年7月[1]
+		2009年10月[1]
+		
+	
+
+
+链接
+
+
+
+
+
+
+检索
+
+
+
+
+-所有文章-
+教育
+默认分类
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+
+
+varflag=newArray();
+flag[0]='2009/10/26';
+flag[1]='2010/07/31';
+flag[2]='2010/10/10';
+flag[3]='2010/11/01';
+
+
+varcale=newCalendar("idCalendar",{
+SelectDay:newDate(),
+onSelectDay:function(o),
+onToday:function(o),
+onFinish:function(){
+$("idCalendarYear").innerHTML=this.Year;$("idCalendarMonth").innerHTML=this.Month;
+for(vari=0,len=flag.length;i<len;i++){
+//alert(flag[i]);
+	vard=newDate(flag[i]);
+	if(this.Year==d.getYear()){
+		if(this.Month==d.getMonth()+1)
+		{
+this.Days[d.getDate()].innerHTML=""+d.getDate()+"";
+			
+		}
+
+	}
+}
+}
+});
+$("idCalendarPre").onclick=function()
+$("idCalendarNext").onclick=function()
+
+
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));

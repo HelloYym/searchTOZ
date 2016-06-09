@@ -1,0 +1,203 @@
+
+
+
+
+
+化工环保-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0012828";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	化工环保
+
+
+	永久链接:http://mypage.zju.edu.cn/keyangb&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			杨彬，博士，讲师。2001年和2004年毕业于浙江大学环境工程专业，分别取得学士和硕士学位。2004年6月进入中国水电顾问集团华东勘测设计研究院，从事环境工程设计与环境影响评价工作。2012年毕业于香港科技大学（HKUST）环境工程专业，取得博士学位，同年在浙江大学化学工程系从事博士后科研工作。2014年12月留校从事环境化工领域教学与科研工作。目前正主持包括国家青年自然科学基金，国家重点实验室开放基金、中国博士后基金、浙江省博士后基金等科研项目，并同时主要参与完成多项企业攻关项目。至今已在RSC&nbsp;Advances，ChemicalEngineeringJournal，Chemosphere，SeparationandPurificationTechnology，JournalofEnvironmentalEngineering(ASCE)等国内外刊物发表学术论文10余篇，获得多项发明和实用新型专利。2007年全国优秀工程咨询成果二等奖一项。
+			
+				
+			工作研究领域
+			
+			目前主要研究方向为水处理电化学氧化技术、膜污染控制技术和新型吸附材料等，重点开展“载人航天器生命保障系统”中有关废水处理、密闭空间CO2气体吸附及转换和水质监测等方面研究工作。
+			
+				
+			联系方式
+			
+			电话：13606600990			电子信箱：keyangb@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：杨彬
+		单位：化学工程与生物工程学系
+		职称：讲师
+		我的主页共被访问了394次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

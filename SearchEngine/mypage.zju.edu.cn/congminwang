@@ -1,0 +1,209 @@
+
+
+
+
+
+王从敏-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0004120";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	王从敏
+
+
+	永久链接:http://mypage.zju.edu.cn/congminwang&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+王从敏，男，1975年出生，1996年本科毕业于浙江大学化工系，2002年获浙江大学物理化学博士学位，后在浙江大学化学系从事博士后研究，出站后留校从事教学与科研工作，2009年-2011年在美国橡树岭国家实验室进行访问学者研究。现为浙江大学化学系教授、博士生导师，国家自然科学基金优秀青年基金获得者。主要从事基于离子液体的绿色过程和清洁生产研究，在酸性气体捕集与分离中提出了多位点吸收、碱性调控、双重调控等新的酸性气体捕集策略，实现了CO2、SO2等气体的高效、可逆捕集；致力于将基于离子液体的绿色前沿技术转化为现实生产力，实现了离子液体的大规模产业化应用，产生了显著的经济和社会效益。负责国家自然科学基金项目4项、浙江省自然科学基金杰出青年项目1项。在J.Am.Chem.Soc.,Angew.Chem.Int.Ed.,Chem.Commun.,Chem.Eur.J.,GreenChem.等杂志上发表学术论文68篇，其中第一作者或通讯作者论文27篇，包括J.Am.Chem.Soc.1篇，Angew.Chem.Int.Ed.4篇，SCI他引840余次。申请国家发明专利45项，其中25项已授权。获国家技术发明二等奖1项，浙江省科学技术二等奖1项，教育部科学技术进步二等奖1项，获全国&ldquo;离子液体与绿色过程&rdquo;青年奖，并获国家自然科学基金优秀青年基金项目资助，获第十七届中国科协求是杰出青年成果转化奖，为浙江省重点创新团队核心成员。
+			
+				
+			工作研究领域
+			
+			我的研究兴趣是基于离子液体的绿色过程和清洁生产技术研究。主要针对碳捕集、脱硫等酸性气体捕集中普遍遇到的吸收容量低、能耗高、吸收速率慢等关键问题，提出了多位点吸收、碱性调控、双重调控等新的酸性气体捕集策略，实现了酸性气体CO2、SO2等高效、可逆、快速地捕集；并针对离子液体制备复杂、成本高、工业应用难等问题，创制了一类成本低廉、性能优异的简单胺型离子液体，作为溶剂和催化剂应用于万吨级维生素E、烯基醚、肉桂酸等产品的清洁生产中，实现了离子液体的大规模工业应用。这些工作为酸性气体的工业捕集提供了新的思路，为离子液体的大规模工业应用提供了很有前景的方法。
+			
+				
+			联系方式
+			
+			电话：0571-88273181（地址：浙江大学西溪校区西七517室）			电子信箱：chewcm@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：王从敏
+		单位：化学系
+		职称：教授
+		我的主页共被访问了38169次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		专利成果
+	工作研究项目
+	奖励荣誉
+	发表论文
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

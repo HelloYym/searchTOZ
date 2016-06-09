@@ -1,0 +1,214 @@
+
+
+
+
+
+兼容并蓄，博学笃行-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0005258";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	兼容并蓄，博学笃行
+Nano-SmallSensors
+
+	永久链接:http://mypage.zju.edu.cn/xishanguo&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			1994-1999，浙江大学生物医学工程与仪器科学学院，生物医学工程专业（5年制本科）；
+1999-2005，浙江大学生物医学工程系，生物传感器国家专业实验室，硕博，导师叶学松教授、陈裕泉教授；
+2002-2003，意大利比萨大学生物医学工程系E.Piaggio中心，博士论文课题研究，导师Prof.D.De.Rossi；
+2005-2007，浙江大学生物系统工程系，博士后，合作导师王立人教授；
+2009-2011，美国加州大学伯克利分校传感器与执行器中心访学，导师Prof.LiweiLin。
+&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2007-至今，浙江大学生物系统工程系，副教授。长期从事微纳传感器、食品安全快速检测、生化医疗检测、环境污染检测以及海洋监测传感器研制等研究工作。主持国家自然科学基金、863项目、国家科技支撑计划子课题、国家科学仪器重大专项子课题、浙江省自然科学基金和浙江省公益性项目10余项；已发表SCI/EI论文30余篇，其中在《BiosensorsandBioelectronics》、《SensorsandActuatorsB:Chemical》、《ElectrochemistryCommunications》、《Analyst》、《MicrochimicaActa》、《FoodControl》、《Sensors》、《FoodHydrocolloids》等期刊发表论文10余篇，有两篇论文被国际生物医学搜索引擎数据库BioMedLib评为相关研究领域Top10论文第一名；申请国家发明专利10余项，已获授权7项。目前担任国际期刊theJournalofSensorsandInstrumentation编委，《SensorsandActuatorsB:Chemical》长期特邀审稿人，美国纳米学会会员，中国仪器仪表学会快速检测技术及仪器分会会员等学术职务。指导的博士生获国家奖学金，指导的留学生关于致病菌微生物快速检测纳米传感器论文获2014年美国ASABE大会本科生组优秀论文奖第2名。
+			
+				
+			工作研究领域
+			
+			主要从事微纳生化传感器、农产品与食品安全快速检测、水质在线检测、环境污染检测、海洋环境监测传感器、水体电化学净化处理技术、鱼病早期诊断与控制、嵌入式仪器开发以及基于物联网与云服务的智能感知大数据平台的建构等研究工作。
+			
+				
+			联系方式
+			
+			电话：0571-88982186			电子信箱：guoxs@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：郭希山
+		单位：生物系统工程与食品科学学院
+		职称：副教授
+		我的主页共被访问了2216次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	发表论文
+	专利成果
+	奖励荣誉
+	实验室介绍
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

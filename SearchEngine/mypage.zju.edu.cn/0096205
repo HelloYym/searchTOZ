@@ -1,0 +1,199 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0096205";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0096205&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			1967年生于北京。1990年本科毕业于北京大学数学系，同年8月考入美国康涅狄格大学研究生院，1992年取得数学硕士学位，1996年获得数学博士学位。
+1996年底回国，进入浙江大学数学系任教。1999年转入浙江大学计算机系。
+主要研究方向：CAD&amp;CG、微分方程、数值计算等。
+先后主持过国家自然科学基金青年基金和面上基金项目、教育部优秀青年教师基金项目、与国内外企业合作项目等7项，发表学术论文14篇（2篇被SCI收录，1篇被EI收录），并著有教材和译著3部。
+教学经历：自1991年至今，先后在美国康涅狄格大学数学系、浙江大学数学系、浙江大学计算机学院和软件学院主讲课程15门，指导学生近4000人次，教学评估自1999年来保持成绩优秀。
+为浙江大学&ldquo;985工程&rdquo;一期40万元、二期25万元重点建设项目&ldquo;软件与网络学生创新实践开放中心&rdquo;负责人之一。自2000年来执教ACM国际大学生程序设计竞赛浙大代表队。
+曾获得03-04年度浙江省高校&ldquo;三育人&rdquo;先进个人及2005年浙江省高等教育教学成果一等奖（排名3/5）等多项奖励。
+
+			
+					
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：陈越
+		单位：计算机科学与技术学院
+		职称：教授
+		我的主页共被访问了11836次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,238 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0007108";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0007108&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+
+学历及工作经历
+
+1957年毕业于北京农业大学畜牧系，留校任教。
+
+1979&mdash;1981年在英国爱丁堡大学遗传系进修动物遗传育种学。
+
+1982&mdash;至今历任北京农业大学副教授、教授、畜牧系主任、动物科技学院院长。
+
+2000&mdash;至今任浙江大学动物科学学院院长。
+
+主要学术任职
+
+中国科学院院士
+
+&ldquo;世界遗传学应用于畜牧生产会议&rdquo;国际委员会委员
+
+世界家禽学会理事兼中国分会主席
+
+中国畜牧兽医学会理事长兼家禽学分会理事长
+
+中国马业协会理事长
+
+中国遗传学会副理事长
+
+数量遗传学分会理事长
+
+《遗传学报》、《遗传》、《中国畜牧杂志》三刊副主编
+
+《亚洲&mdash;澳大利亚畜牧科学》编委。
+&nbsp;
+当前主要研究工作&nbsp;
+
+1、畜禽对高原适应的生理学与遗传学基础研究；
+
+2、农业动物种质资源多样性及其保护与综合利用研究；
+
+3、以果蝇作为模式动物的遗传学与动物育种学研究，马属动物研究。
+
+
+			
+				
+			工作研究领域
+			
+			动物数量遗传学、动物比较育种学、动物遗传资源。
+
+			
+					
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：吴常信
+		单位：动物科学学院
+		职称：
+		我的主页共被访问了1203次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

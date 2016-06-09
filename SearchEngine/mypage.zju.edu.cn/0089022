@@ -1,0 +1,203 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0089022";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0089022&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			基本介绍&nbsp;&nbsp;&nbsp;&nbsp;1988年获得英国Bath（巴斯）大学哲学博士学位，浙江大学博士生导师，长江学者特聘教授，国家杰出青年基金获得者，国家重大基础研究（973）计划首席科学家，国家&ldquo;十一五&rdquo;863计划先进制造领域专家。1997年9月至2001年9月任浙江大学流体传动及控制国家重点实验室主任，2000年6月至今任浙江大学国家电液控制工程技术研究中心主任。
+&nbsp;&nbsp;&nbsp;&nbsp;学术兼职&nbsp;&nbsp;&nbsp;&nbsp;流体传动与控制国家重点实验室、机械传动国家重点实验室和机械系统与振动国家重点实验室学术委员会委员。中国机械工程学会高级会员，中国机械工程学会流体传动与控制分会理事；中国力学学会流体传动及控制分会常务委员；中国电梯协会理事；岩石力学与工程学会隧道掘进机工程应用分会理事；《机械工程学报》、《中国制造业信息化》、《机器人技术与应用》等杂志编委。
+&nbsp;&nbsp;&nbsp;&nbsp;承担项目&nbsp;&nbsp;&nbsp;&nbsp;作为负责人承担国家973项目1项，国家杰出青年基金项目1项，国家自然科学基金重点项目2项、面上项目4项，&ldquo;十五&rdquo;863计划项目1项，&ldquo;十五&rdquo;攻关计划2项，其他省部级项目25项，以及企业委托重大项目30余项。
+&nbsp;&nbsp;&nbsp;&nbsp;学术成果&nbsp;&nbsp;&nbsp;&nbsp;出版专著1本，在国内外学术刊物和重要国际学术会议上发表论文160余篇，其中SCI收录论文10篇，EI收录论文90余篇；获得国家发明专利授权43项。
+			
+				
+			工作研究领域
+			
+			主要有机电控制、电液系统节能、微流体器件与系统、以及重大装备电液系统集成。
+
+			
+					
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：杨华勇
+		单位：机械工程学系
+		职称：教授
+		我的主页共被访问了13128次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	实验室介绍
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

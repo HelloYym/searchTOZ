@@ -1,0 +1,210 @@
+
+
+
+
+
+浙江大学机械电子控制工程研究所测试与信号处理研究室-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0095052";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	浙江大学机械电子控制工程研究所测试与信号处理研究室
+
+
+	永久链接:http://mypage.zju.edu.cn/0095052&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			陈章位教授，男，1965年3月生，工学博士、博士生导师。1986年毕业于浙江大学科仪系，1995年获浙江大学流体传动和控制专业工学博士学位。中国振动工程学会常务理事，浙江省振动工程学会副理事长，全国机械振动与冲击标准化技术委员会委员，《振动与冲击》、《机床与液压》编委；曾先后主持各类项目三十余项，发表论文60余篇，其中EI收录20余篇，获授权发明专利和实用新型专利十多项。
+近年来，承担了省重点及一般科研项目，研发了单轴向液压振动试验系统，以及多轴液压振动试验系统，推出了系列化的液压振动台，在低频率、大推力、大位移、多自由度的电液伺服振动试验系统的研究方面取得了重大突破，研制出了用于多输入多输出振动控制的（MIMO）控制器PREMAX，被广泛应用于建筑结构及桥梁等模型的地震模拟试验、产品包装抗振试验、整车道路模拟试验以及拟动力试验。
+			
+				
+			工作研究领域
+			
+			数据采集、信号处理、多轴多点(MIMO)振动控制、液压振动台、可靠性环境试验、MIMO模态试验、生物医学仪器（PCR仪）等领域理论和工程应用的研究。
+			
+				
+			联系方式
+			
+						电子信箱：chenzw@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：陈章位
+		单位：机械工程学系
+		职称：教授
+		我的主页共被访问了7633次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+	研究成果
+	专利成果
+	实验室介绍
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

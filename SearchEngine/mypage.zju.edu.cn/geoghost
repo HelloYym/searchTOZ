@@ -1,0 +1,231 @@
+
+
+
+
+
+吴磊-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0011889";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	吴磊
+浙江大学地球科学系
+
+	永久链接:http://mypage.zju.edu.cn/geoghost&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			教育及工作经历
+2015.1至今，浙江大学地球科学系，副教授，博导
+2013.12-2014.12，浙江大学地球科学系，讲师
+2011.11-2013.12，浙江大学，博士后
+2012.10-2013.10，美国加州大学戴维斯分校，访问学者
+2012.7-2012.10，中海油上海分公司研究员
+2006.9-2011.6，浙江大学地球科学系，构造地质，博士
+2003.9-2006.3，浙江大学竺可桢学院，工程教育高级班&nbsp;
+2003.7-2006.6，浙江大学地球科学系&nbsp;，地质学专业，理学学士
+2002.10-2003.6，浙江大学计算机学院，工业设计专业，本科
+			
+				
+			工作研究领域
+			
+			综合利用野外地质填图、沉积学分析、地震解释和一些定年方法，来解决青藏高原北缘的中、新生代沉积和构造演化问题，今年来着重从定量的角度来解剖构造变形的机制问题。
+1.构造地质、盆地分析，包括：
+&nbsp;&nbsp;&nbsp;（1）青藏高原北缘柴达木盆地的中、新生代沉积演化和构造变形特征和机制；
+&nbsp;&nbsp;&nbsp;（2）柴达木盆地周缘阿尔金断裂、祁连山、东昆仑山的中、新生代隆升过程及其与柴达木盆地的耦合关系；
+
+2.活动构造与地表过程，包括：
+&nbsp;&nbsp;&nbsp;（1）柴达木盆地的活动断裂、活动背斜；
+&nbsp;&nbsp;&nbsp;（2）柴达木盆地内的风蚀作用及其对地质变形和地貌的影响；
+&nbsp;&nbsp;&nbsp;（3）祁连山、东昆仑山的构造地貌；
+			
+				
+			联系方式
+			
+			电话：0571-87952791			电子信箱：wulei@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：吴磊
+		单位：地球科学系
+		职称：副教授
+		我的主页共被访问了7200次
+标签：构造地质学风蚀浙江大学地质青藏高原柴达木	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	小木虫
+AsterGDEM
+全国地质资料馆
+阿果石油网
+TheTianShanMountains
+StructuralGeology
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,212 @@
+
+
+
+
+
+创新主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0003191";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	创新主页
+创新家园
+
+	永久链接:http://mypage.zju.edu.cn/gordon&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;&nbsp;1969年12月出生，博士（后），浙江大学教授、博士生导师，电气工程学院副院长，2007年入选教育部跨（新）世纪人才支持计划，2008年入选浙江省新世纪151人才第二层次，2010年入选浙江省新世纪151人才第一层次，是浙江省杰出青年基金获得者，CIGRE中国国家委员会委员，电力系统及其自动化学报副主任委员，电力系统保护与控制编委，电力科学与技术学报编委。2012年6月至11月美国华盛顿大学访问教授。曾任东方电子（上市公司）中心研究所副总工程师、副所长、所长，东方电子北京研究院院长（代），公司常务副总等职。近年来，申请人作为负责人主持国家级及重大横向项目40余项，其中国家自然科学基金2项（50677062、51177143），教育部新世纪（跨世纪）优秀人才计划支持（NCET-07-0745）项目1项，国家博士点基金1项（20090101110058），浙江省自然科学基金杰出青年团队项目1项（R107062），浙江省自然科学基金重点项目1项（LZ12E07002），国家863计划3项（2008AA05Z210、SQ2010AA0522555001、SQ2010AA0500165004），国家博士后基金1项，中科院重大咨询项目1项，国网重大科技合作项目3项，国际合作和重大横向合作项目6项，参加973项目2项（2013CB228206），国家基金重点项目1项，在《中国电机工程学报》、IEEETransonPowerSystems等杂志上发表学术论文220篇，其中SCI、收录26篇，EI收录158篇，论文引用次数1614次，其中他引次数1506次，单篇最大引用次数78次，&ldquo;基于多智能体技术的电力企业开放信息集成体系结构研究&rdquo;（排名第1）和&ldquo;一种适合于电力系统机组组合问题的混合粒子群优化算法&rdquo;（排名第2）等两篇论文获得首届《中国电机工程学报》百篇杰出学术论文（2010年）。申请专利12项，已授权发明专利6项，实用新型专利1项，软件著作权4项，作为副主编主编《现代信息技术理论与应用》，2005年&ldquo;复杂电力系统的稳定控制与智能优化理论与方法的研究&rdquo;项目获教育部自然科学一等奖，2006年&ldquo;电力系统稳定与经济运行的理论与方法研究&rdquo;项目获浙江省高校科研成果一等奖，2007年入选教育部&ldquo;新世纪优秀人才支持计划&rdquo;，2008年&ldquo;电力信息集成中的若干关键技术研究与开发&rdquo;项目获教育部科学进步一等奖。
+			
+				
+			工作研究领域
+			
+			1）电网智能调度控制与风险调度控制理论与应用；2）可再生能源接入与智能配电网技术；3）智能信息处理技术及在电力系统中的应用
+			
+				
+			联系方式
+			
+			电话：0571-87952869			电子信箱：guochuangxin@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：郭创新
+		单位：电气工程学院电机工程学系
+		职称：教授、博导
+		我的主页共被访问了36647次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	专利成果
+	奖励荣誉
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	浙江大学
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

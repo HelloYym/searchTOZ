@@ -1,0 +1,230 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0094334";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0094334&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;
+主要研究领域
+1、中国古代文学元明清文学
+2、中国古代文学先秦两汉文学
+3、中国古典文献学&nbsp;
+
+代表著作（论文）
+1、《晚明士人心态及文学个案》，东方出版社，1997年
+2、《全明词补编》，浙江大学出版社，2006年
+3、《楚辞集校集释&middot;离骚集校集释》（第二作者），湖北教育出版社，2003年
+4、《伍伦全备记》非丘浚所作考，《文史》第50辑，2000年
+5、《中国文学中的世代累积型集体创作》，社会科学战线，2005年
+
+承担课题
+&nbsp;1、《全明词》及相关问题的研究，国家社科基金，2006年
+2、《全明词》辑补和研究，教育部人文社科基金，2005年
+3、《全明词》辑补，全国高校古委会项目，2004年
+
+开设课程
+&nbsp;1、中国古代文学（元明清文学）
+2、中国古代文学史
+3、中国传统文学与文化
+
+
+			
+				
+			工作研究领域
+			
+			中国古代文学元明清文学、先秦文学及古典文献学。
+			
+				
+			联系方式
+			
+			电话：88273038			电子信箱：zhoumingchu@sina.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：周明初
+		单位：人文学院中国语言文学系
+		职称：教授
+		我的主页共被访问了14495次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

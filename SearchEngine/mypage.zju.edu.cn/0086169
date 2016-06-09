@@ -1,0 +1,199 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0086169";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0086169&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			张应杭教授，男，笔名张云和,夏雨等。1963生于浙江云和，1979年考入上海华东师大政教系，1983年师从著名中国哲学史专家冯契教授攻读硕士研究生，1986年毕业于该校哲学系，获哲学硕士学位。1986年应聘至浙大任教,&nbsp;曾于1989年获浙江大学本科教学一等奖，1991年获浙江省高校优秀青年教师奖，1992年获浙江大学&ldquo;亿利达&rdquo;优秀教师奖并获优秀青年教师特殊津贴（1992--1996）,2000年晋升教授。
+现为法学院教授。作为课题负责人，曾经承担过国家青年基金项目&ldquo;道德理想及教育&rdquo;（1991年&mdash;1993年）等多项课题研究。主要代表作有《中国传统文化概论》、《企业伦理学导论》等，迄今为止已在海内外公开发表著述200多万字。
+&nbsp;&nbsp;&nbsp;&nbsp;目前除了哲学和伦理学的教学外，主要从事企业伦理文化的教学与研究。此外，还应聘兼任复旦大学管理学院MBA培训中心主讲教授，浙江大学管理学院MBA教育中心主讲教授,美国南哥伦比亚大学MBA&nbsp;(中国)讲座教授、澳门科技大学MBA兼职导师等。
+主要学术兼职有国家教育部人文社会科学专家组成员，浙江省伦理学会副会长,中国经济与社会研究中心特约研究员.为北京&middot;中国企业文化促进会会员。
+			
+					
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：张应杭
+		单位：思想政治理论教学科研部
+		职称：教授
+		我的主页共被访问了6584次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

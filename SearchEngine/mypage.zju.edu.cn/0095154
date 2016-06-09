@@ -1,0 +1,202 @@
+
+
+
+
+
+徐新华-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0095154";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	徐新华
+
+
+	永久链接:http://mypage.zju.edu.cn/0095154&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1969年12月出生，浙江湖州人，1992毕业于北京大学应用化学专业获学士学位，1995毕业于北京大学环境化学专业获硕士学位。1995年开始任教于浙江大学环境工程研究所，2001年获化学工程博士学位；1999-2000在比利时安特卫普大学，2001-2002在美国加州大学劳伦斯伯克利国家实验室作访问学者；2000年晋升副教授，2005年晋升教授，2006年被评为博士生导师；曾任环境工程研究所副所长，环境与资源学院院长助理，2009年起任环境工程系常务副主任；1998年荣获浙江大学优秀青年教师，2004年荣获浙江大学优秀教师，2009年获浙江大学师德先进个人；2005年入选浙江省&ldquo;新世纪151人才工程&rdquo;，2006年入选教育部新世纪优秀人才。
+<pclass="MsoNormal"style="text-indent:42.0pt;mso-char-indent-count:3.0;
+line-height:150%">主要研究方向：污染控制化学、环境功能材料及应用、环境催化技术，包括：脱硫液中汞离子还原释放及二次污染控制、脱硫石膏中汞的赋存状态及资源化过程中的稳定性、含氯有机物催化还原脱氯、微量重金属离子的深度处理等研究。承担国家自然科学基金、国家863计划、国家重大水专项、国家科技支撑计划、教育部博士点基金、浙江省自然科学基金杰青团队等课题。<spanlang="EN-US"style="font-size:14.0pt;line-height:150%;mso-fareast-font-family:
+仿宋_GB2312;mso-font-kerning:0pt">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;至今已在EnvironmentalScience&amp;Technology、Industrial&amp;EngineeringChemistryResearch、Energy&amp;Fuels、Fuel、WaterResearch、BioresourceTechnology、JournalofHazardousMaterials、Chemosphere、催化学报、环境科学学报等国内外著名学术刊物上发表SCI论文100余篇，被引1300余次，H指数20，获发明专利5项，出版教材及著作8部。<spanstyle="font-size:14.0pt;line-height:150%;font-family:仿宋_GB2312;mso-ascii-font-family:
+&quot;TimesNewRoman&quot;;mso-font-kerning:0pt"/><spanlang="EN-US"style="font-size:14.0pt;line-height:150%;mso-fareast-font-family:仿宋_GB2312;
+mso-font-kerning:0pt">
+			
+					
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：徐新华
+		单位：环境与资源学院环境工程系
+		职称：教授
+		我的主页共被访问了9732次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

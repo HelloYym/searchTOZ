@@ -1,0 +1,270 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0096002";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0096002&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			赵高凌教授简介：1965年6月出生于浙江省宁波市。1995于浙江大学材料系获工学博士学位。现任浙江大学材料与化学工程学院教授、博士生导师。
+
+个人简历：
+1983年9月-1987年7月浙江大学材料系无机材料专业，获学士学位；
+1987年9月-1990年7月中国科学院上海光学精密机械研究所，获工学硕士学位；
+1990年9月-1995年10月浙江大学材料系无机材料专业，获工学博士学位；
+1992年9月-1995年5月&nbsp;日本京都大学化学研究所，中日联合培养博士生；
+1996年1月-1998年10月浙江大学材料系，博士后；
+1996年10月-1998年9月日本京都大学化学研究所，客座研究员；
+1998年10月-现在&nbsp;&nbsp;&nbsp;浙江大学材料系，从事教学科研工作
+
+研究方向：
+1)光电功能薄膜
+2)有机无机复合纳米材料
+3)新型玻璃及其表面改性
+
+成果论文：
+　　作为项目负责人承担了2项国家自然科学基金项目，1项浙江省自然科学基金项目，作为项目主要人员参加了国家自然科学基金重大项目、面上项目和863项目等项目多项。已先后在国内外核心刊物上发表60余篇学术论文，其中SCI收录论文30余篇。代表性论文有如下：
+1.G.Zhao,H.Kozuka,andS.Sakka,&ldquo;PreparationofTiO2coatingfilmscontainingPdfineparticlesbysol-gelmethod&rdquo;,J.Sol-GelSci.Tech.,4,37(1995).
+2.G.Zhao,H.Kozuka,andT.Yoko,&ldquo;Sol-gelpreparationandphotoelectrochemicalpropertiesofTiO2filmscontainingAuandAgmetalparticles&rdquo;,ThinSolidFilms,227,147(1996).
+3.G.Zhao,H.Kozuka,andT.Yoko,&ldquo;EffectofincorporationofsilverandgoldnanoparticlesonthephotoanodicpropertiesofrosebengalsensitizedTiO2filmelectrodespreparedbysol-gelmethod&rdquo;,SolarEnergyMater.SolarCell.,46,219(1997).
+4.G.Zhao,S.Utsumi,H.Kozuka,andT.Yoko,&ldquo;Photoelectrochemicalpropertiesofsol-gel-derivedanataseandrutileTiO2films&rdquo;,J.Mater.Sci.,33,3655(1998).
+5.G.Zhao,H.Kozuka,H.Lin,andT.Yoko,&ldquo;Sol-gelpreparationofasolidsolutionTi1-xVxO2filmelectrodewithconspicuousphotoresponseinvisibleregion&rdquo;,ThinsolidFilms,339,123(1999).
+6.G.Zhao,BinSong,GaorongHan,HiromituKozuka,andTosinobuYoko,Gradedbandgapsemiconductorthinfilmphotoelectrodes,ChineseScienceBulletin,46,914（2001).
+7.G.Zhao,M.Takahashi,G.R.Han,andT.Yoko,Photoelectrochemicalpropertiesofsol-gel-derivedTi1-xVxO2solidsolutionfilmphotoelectrodes,ThinSolidFilms,410,14(2002).
+8.G.Zhao,andGaorongHan,Studyofelectricalpropertiesofsol-gel-derivedTi1-xVxO2solidsolutionfilmphotoelectrodes,Inter.J.Modern.Phys.B16,4465(2002).
+9.J.X.Yao,G.ZhaoandG.R.Han,TheeffectoftheratioofthioureatoCd2+onthepropertiesofCdSnanoparticles,MicroelectronicEngineering,66,115(2003).
+10.J.X.Yao,G.ZhaoandG.R.Han,Synthesisandcharacterizationofpolymer-CdSnanocomposite,SPIE,5061,293(2003).
+11.Q.H.Tian,G.ZhaoandG.R.Han,MechanisminvestigationofinfluenceofHPConthemicrostructureofTiO2films,J.Inorg.Mater.,19,147(2004).
+12.Q.H.Liu,G.Zhao,W.J.Weng,P.Y.Du,G.ShenandG.R.Han,Influenceofhydroxypro-pylcelluloseonhydrophilicityandphotocatalyticactivityofTiO2films,J.ChineseCera.Soc.,32,1299(2004).
+
+联系方式：
+　　邮编310027浙江杭州市西湖区浙大路38号浙江大学材料系无机所
+　　办公室：曹光彪高科技大楼427室
+　　Tel&amp;Fax:0571-87952341&nbsp;
+　　E-mail:glzhao@zju.edu.cn
+
+Dr.GaolingZhao,&nbsp;
+Professor,InstituteofInorganicMaterials,
+DepartmentofMaterialsScienceandEngineering,
+CollegeofMaterialsScienceandChemicalEngineering,
+ZhejiangUniversity,Hangzhou310027,China
+Email:glzhao@zju.edu.cn
+Tel&amp;Fax:86-571-87952341
+
+Educations
+Ph.D.MaterialsScienceandEngineering,ZhejiangUniversity,China1995
+M.S.MaterialsScience,ShanghaiInstituteofOpticsandFineMechanics,ChineseAcademyofSciences,China1990
+B.S.MaterialsScienceandEngineering,ZhejiangUniversity,China1987
+
+ResearchExperiences
+Sept.1992-May1995researchstudent,InstituteforChemicalResearch,Kyotouniversity,Japan
+Oct.1996-Sept.1998guestresearcher,InstituteforChemicalResearch,Kyotouniversity,Japan
+July1998-Dec.2002associateprofessor,DepartmentofMaterialsScience,ZhejiangUniversity,China
+Dec.2002&ndash;currentprofessor,DepartmentofMaterialsScience,ZhejiangUniversity,China
+
+Researchfields
+1.Optoelectronicfilms
+2.Organic-inorganicnanocompositematerials
+3.Novelglasscoatings
+			
+				
+			工作研究领域
+			
+			1)光电功能薄膜
+2)有机无机复合纳米材料
+3)新型玻璃及其表面改性
+
+			
+				
+			联系方式
+			
+			电话：0571-87952341			电子信箱：glzhao@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：赵高凌
+		单位：材料科学与工程学系
+		职称：研究员（自然科学）
+		我的主页共被访问了22603次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	研究成果
+	专利成果
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

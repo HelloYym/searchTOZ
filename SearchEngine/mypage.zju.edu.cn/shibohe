@@ -1,0 +1,210 @@
+
+
+
+
+
+欢迎来到贺诗波的个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0014060";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	欢迎来到贺诗波的个人主页
+
+
+	永久链接:http://mypage.zju.edu.cn/shibohe&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			湖南衡阳人，2014年入选中组部&ldquo;青年千人&rdquo;计划、浙江大学百人计划，聘为研究员，具有博士生招生资格。2014.10-2014.12新加坡科技设计大学访问学者，2014.03-2014.05美国亚利桑那州立大学AssociateResearchscientist，2012.05-2014.02美国亚利桑那州立大学博士后。2012.06毕业于浙江大学控制系获工学博士学位，读博期间2010.11-2011.11在加拿大的滑铁卢大学联合培养；2008.07毕业于浙江大学数学系，获理学硕士学位；2006.07毕业于东北石油大学，获理学学士学位。
+发表（含接收）期刊论文25篇，包括国际知名期刊IEEEToN、IEEEJSAC、IEEETMC、IEEETWC等，会议论文22篇，包括旗舰会议ACMMobiHoc、IEEEINFOCOM、IEEESECON等。著有个人专著一本，并参与编著学术著作一本。至今研究成果被同行googlescholar引用540余次，其中SCI引用超过100次。获得中国自动化学会首届优秀博士学位论文奖、IEEEPIMRC最佳论文奖等多项荣誉。
+现任国际SCI期刊SpringerPeer-to-PeerNetworkingandApplications的编委以及ElsevierComputerCommunications、HindawiInternationalJournalofDistributedSensorNetworks的客座编委。受邀担任多个国际会议的大会组织委员会成员，例如ScalableComputingandCommunications（ScalCom）的大会程序委员会主席、无线网络领域顶级会议ACMInternationalSymposiumonMobileAdHocnetworkingandComputing(ACMMobiHoc)的Registration&amp;FinanceChair等。
+&nbsp;
+欢迎有志于科研的硕士生和博士生加入。详情请关注课题组主页:www.sensornet.cn。
+			
+				
+			工作研究领域
+			
+			信息物理系统资源优化；网络分布式优化；社会感知分析
+			
+				
+			联系方式
+			
+						电子信箱：s18he@iipc.zju.edu.cn;			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：贺诗波
+		单位：控制科学与工程学系
+		职称：研究员
+		我的主页共被访问了5076次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		出版著作
+	奖励荣誉
+	发表论文
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

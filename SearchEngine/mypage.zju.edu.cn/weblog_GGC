@@ -1,0 +1,335 @@
+
+
+
+
+
+WhyNotSeeGeorge-博客
+
+
+
+
+
+
+varctxPath="http://mypage.zju.edu.cn";
+varb_handle="GGC";
+varcfg_weblog="http://mypage.zju.edu.cn/weblog";
+vard=newDate()
+varselyear=d.getFullYear();
+varselmonth=d.getMonth()+1;
+
+
+
+
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	color:#111;
+	margin-right:10px;	
+}
+#mainlinkullia,.tagsa:hover{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+.tagsa{
+	margin-right:10px;
+}
+img{
+	border:none;
+}
+
+
+
+
+
+
+
+
+
+
+	
+		首页
+		帮助
+		登录
+	
+
+
+
+
+
+
+	WhyNotSeeGeorge
+LetGeorgeDoIt
+
+	永久链接:http://mypage.zju.edu.cn/weblog/GGC&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+
+
+	中文主页
+英文主页
+			博客
+
+
+
+
+
+
+
+
+
+
+			
+				
+
+	
+[1/1]
+首页	上一页下一页末页
+
+	
+
+浏览模式:普通|列表
+
+
+
+
+
+
+		分数是硬“要”来的？
+
+作者:陈刚日期:2008-12-22Monday
+
+
+
+分数是硬&ldquo;要&rdquo;来的？记者陈洁编者按：一门通识教育必修课程《中华文明通论》考试成绩的公布，引发了中国政法大学2007级同学大规模的&ldquo;要分风潮&rdquo;，近三百人次或电话或短信或电邮找到课程组负责人郭世佑老师，没及格的要求及格，及格的要求加分...
+查看更多...
+
+Tags:
+考试要分大学生素质教育通识教育政法大学中华文明通论
+	
+
+
+
+分类:教育改革|			固定链接|评论总数0|
+			阅读次数1217
+
+
+
+
+
+
+
+		应用翻译研究应是基于实践的研究——以旅游文本及翻译的多样性案例为例
+
+作者:陈刚日期:2008-12-22Monday
+
+
+
+应用翻译研究应是基于实践的研究&mdash;&mdash;以旅游文本及翻译的多样性案例为例[摘要]应用翻译研究应是基于实践的研究。若以旅游文本及翻译的多样性案例为例，有关实践研究证明：不少旅游文本翻译的原则性错误或问题不仅在于译者理论认识的不足，更在于译者...
+查看更多...
+
+Tags:
+应用翻译研究基于实践的研究旅游文本类型多样性译者的专业评价能力及翻译能力
+	
+
+
+
+分类:翻译理论与实践|			固定链接|评论总数0|
+			阅读次数1184
+
+
+			
+			
+		
+		
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+	
+	
+		姓名：陈刚
+		单位：浙江大学翻译学研究所
+		职称：教授译审国家特级导游
+		我共发表了2篇文章
+		共收到0条评论
+		我的主页共被访问了2611次
+	
+	
+	
+	
+
+
+我的文章分类
+
+	教育改革
+		
+分数是硬“要”来...
+		
+翻译理论与实践
+		
+
+
+
+
+日历
+
+
+
+>>
+年月
+
+
+
+日
+一
+二
+三
+四
+五
+六
+
+
+
+
+
+
+
+
+
+
+
+我的最新文章
+
+
+		应用翻译研究应是基于实...
+分数是硬“要”来的？
+	
+
+
+
+
+我的热点文章
+
+
+				分数是硬“要”来的？
+		应用翻译研究应是基于实...
+
+	
+
+
+我收到的评论
+
+	
+	
+
+
+我的文章汇总
+
+		2008年12月[2]
+		
+	
+
+
+链接
+
+
+
+
+
+
+检索
+
+
+
+
+-所有文章-
+教育改革
+分数是硬“要”来的？
+翻译理论与实践
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+
+
+varflag=newArray();
+flag[0]='2008/12/22';
+
+
+varcale=newCalendar("idCalendar",{
+SelectDay:newDate(),
+onSelectDay:function(o),
+onToday:function(o),
+onFinish:function(){
+$("idCalendarYear").innerHTML=this.Year;$("idCalendarMonth").innerHTML=this.Month;
+for(vari=0,len=flag.length;i<len;i++){
+//alert(flag[i]);
+	vard=newDate(flag[i]);
+	if(this.Year==d.getYear()){
+		if(this.Month==d.getMonth()+1)
+		{
+this.Days[d.getDate()].innerHTML=""+d.getDate()+"";
+			
+		}
+
+	}
+}
+}
+});
+$("idCalendarPre").onclick=function()
+$("idCalendarNext").onclick=function()
+
+
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));

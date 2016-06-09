@@ -1,0 +1,221 @@
+
+
+
+
+
+成有为-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0004496";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	成有为
+清洁的化工，美好的生活！
+
+	永久链接:http://mypage.zju.edu.cn/chengyouwei&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			主要从事多相体系化学反应工程基础研究，研究课题涉及碳负载金属催化加氢、烃类液相催化氧化、大规模二氧化碳回收利用、甲醇制烯烃（MTO）等煤化工过程的研究与技术开发。目前主要研究方向包括反应器技术、过程模拟与优化、清洁生产。
+所获学术成果在国内外学术期刊上发表论文30余篇，其中SCI和EI收录20余篇。主要工业应用成果包括百万吨PTA国产化技术、新型MC催化体系应用、新型芳香羧酸固体废弃物处理技术、芳香羧酸废水回收利用技术等，另有多项技术进入中试实施，目前相关成果已申请发明专利&nbsp;20&nbsp;余项，获授权&nbsp;10&nbsp;余项。
+&nbsp;
+工作与教育经历：
+2006年10月留校任教至今；
+2004年10月至2006年9月在浙江大学做博士后研究；
+2004年9月浙江大学化学工程系研究生毕业，获工学博士学位；
+1999年本科毕业于合肥工业大学，同年进入浙江大学化工系。
+			
+				
+			工作研究领域
+			
+			多相催化反应工程；
+化工清洁生产技术开发；
+			
+				
+			联系方式
+			
+			电话：0571-8795-2210；18668035853			电子信箱：ywcheng@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：成有为
+		单位：化学工程与生物工程学系
+		职称：副教授
+		我的主页共被访问了9901次
+标签：化工catalysisCO2CFD	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+	专利成果
+	实验室介绍
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	PatentSearchingandInventingResources
+中国专利检索
+李希教授
+李希教授
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

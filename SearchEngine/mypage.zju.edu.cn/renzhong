@@ -1,0 +1,215 @@
+
+
+
+
+
+任重副教授-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0010007";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	任重副教授
+浙江大学副教授/前微软亚洲研究院副研究员/2007年计算机应用博士
+
+	永久链接:http://mypage.zju.edu.cn/renzhong&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			工学博士，副教授，博士生导师，目前在浙江大学计算机辅助设计与图形学国家重点实验室工作，从事计算机图形学领域的研究和开发。2010年回浙大工作之前就职于微软亚洲研究院，获得3项渲染相关的美国专利，成功完成了1项XNA软件工具的技术转化。2010年全职回浙大工作，并和周昆教授、侯启明博士一起建立了图形与并行系统实验室。作为课题负责人完成国家自然科学青年基金项目一项，承担面上项目一项；2012年度作为课题负责人承担十二五863计划3D内容关键技术与应用系统主题项目的课题一项。在学术上，任重在计算机图形学的顶级会议ACMSIGGRAPH和顶级期刊ACMTransactionsonGraphics上发表真实感渲染相关论文五篇，在其他SCI索引的国际会议和期刊上发表论文十余篇。拥有美国专利4项，中国发明专利1项。担任第十八届太平洋图形学大会程序委员会成员和包括ACM&nbsp;Transactions&nbsp;on&nbsp;Graphics、IEEE&nbsp;Transactions&nbsp;on&nbsp;Visualization&nbsp;and&nbsp;Computer&nbsp;Graphics、SIGGRAPH在内的多个图形学顶级期刊和会议的审稿人。&nbsp;
+更多信息见个人主页。
+欢迎对计算机技术充满热情，对做出影响学术界和工业界的成果怀有梦想的同学申请实验室的研究生。详情见此处。
+			
+				
+			工作研究领域
+			
+			计算机图形学/真实感绘制/实时绘制/阴影绘制/体绘制/环境光照，并行计算
+			
+				
+			联系方式
+			
+						电子信箱：renzhong@cad.zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：任重
+		单位：计算机科学与技术学院
+		职称：副教授
+		我的主页共被访问了6894次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		发表论文
+	专利成果
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	个人主页
+周昆
+侯启明
+孙鑫
+SIGGRAPH
+CAD&CG国家重点实验室
+图形与并行系统实验室
+许威威
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

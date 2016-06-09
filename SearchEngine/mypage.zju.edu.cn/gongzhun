@@ -1,0 +1,208 @@
+
+
+
+
+
+宫准-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0012439";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	宫准
+心理学学者
+
+	永久链接:http://mypage.zju.edu.cn/gongzhun&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;&nbsp;宫准，男，1983年生，山东青岛人。临沂大学理学学士（2005）、天津师范大学发展与教育心理学硕士（2009）、中国科学院心理研究所应用心理学博士（2012），现为浙江大学公共管理学院助理研究员。
+国家二级心理咨询师，并获得国家劳动部颁发的心理咨询师师资培训认证资格。曾担任中科院心理所心理咨询社社长，现为中国管理研究国际学会(IACMR)、国际EAP协会中国分会（CEAPA）、中国社会工作教育协会会员。
+主要研究兴趣包括组织人力资源管理、EAP（员工帮助计划）、人才评价与人才战略等，目前正在开展企业员工心理资本形成机制、区域人才发展综合指数等研究。主持完成加快形成具有国际竞争力的人才制度优势研究、义乌国际贸易人才评价体系研究等多项政府课题。现主持国家社会科学基金青年项目&ldquo;基于积极情绪扩展建构理论视角的企业员工心理资本形成机制研究&rdquo;（项目号：14CGL073）、&ldquo;区域人才发展综合指数研究&rdquo;等多项研究课题。参与国家自然科学基金重点项目&ldquo;突发事件的群体心理反应特征、演化规律及管理干预&ldquo;、973项目&rdquo;面向长期空间飞行的航天员作业能力变化规律及机制研究&ldquo;、中国科学院知识创新工程重要方向项目&ldquo;社会变革时期公众的社会心理问题&rdquo;等多项国家级科研课题。
+&nbsp;&nbsp;&nbsp;合著有《人力资源管理理论与实践前沿量表手册》（待出版），参与编辑《浙江人才发展蓝皮书2013》。近年来，在《应用心理学》、《人类工效学》、《Trafficinjuryprevention》发表多篇学术论文，并在《浙江日报》、《浙江省公共政策内参》发表多篇评论文章。现在浙江大学公共管理学院合作讲授《公共政策学》课程。
+			
+				
+			工作研究领域
+			
+			人力资源管理、EAP（员工帮助计划）、人才评价与人才战略
+			
+				
+			联系方式
+			
+						电子信箱：gongzhun2001@163.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：宫准
+		单位：公共管理学院
+		职称：助理研究员
+		我的主页共被访问了833次
+标签：国家社会科学基金心理咨询师培训师国家二级心理咨询师心理学学者人力资源管理EAP（员工帮助计划）	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

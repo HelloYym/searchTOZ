@@ -1,0 +1,225 @@
+
+
+
+
+
+HongzhengChen'shomepage-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0094155";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	HongzhengChen'shomepage
+陈红征的个人主页
+
+	永久链接:http://mypage.zju.edu.cn/0094155&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+
+
+
+女,1966年12月生,理学博士
+电话：(0571)-87952557
+电子邮箱：hzchen@zju.edu.cn
+职称/职务：教授、博士生导师/高分子科学与工程学系副主任
+
+
+
+
+&nbsp;1988年浙江大学化学系学士，1994年浙江大学高分子系理学博士，1999年晋升为浙江大学教授。先后在香港科技大学（01~04/1999）、比利时Antewerp大学和欧洲高校联合微电子中心（11/1999~04/2001,07~10/2002,07~09/2003）、美国Stanford大学(02~08/2005,09~11/2007)进行合作研究。&ldquo;国家杰出青年基金&rdquo;获得者（2002），教育部《跨世纪优秀人才培养计划》基金获得者（2001），中国化学会&ldquo;青年化学&rdquo;奖获得者(2000)，浙江省&ldquo;151人才工程&rdquo;入选者（2000）。现任浙江大学高分子科学与工程学系系副主任和高分子复合材料研究所副所长,兼任国家自然科学基金委员会第十二届专家评审组成员、中国复印科学与工程学会常务理事、中国化学会有机固体专业委员会委员、上海复印学会理事会理事、浙江省复合材料学会副理事长、《材料科学与工程学报》编委。
+主要研究领域：有机光电功能材料、有机复合半导体材料与器件以及新型结构纳米材料的制备与功能化。先后负责国家自然科学基金重大国际合作、重点和面上项目共6项、国家杰出青年科学基金1项、国家科技部973子课题和863项目各1项、其它省/部项目共7项的研究；作为主要骨干参与国家自然科学基金重大、重点和两个基地项目共3项以及省部级和国际合作项目多项的研究。在Adv.Mater.,Chem.Mater.,Chem.Commun.,J.Phys.Chem.B等本领域著名学术刊物发表SCI收录论文160多篇，获国家授权发明专利6项。获国家教委科技进步三等奖及浙江省科委鉴定成果和验收成果各1项。
+
+
+
+
+			
+				
+			工作研究领域
+			
+			有机光电功能材料、有机复合半导体材料与器件以及新型结构纳米材料的制备与功能化。
+			
+				
+			联系方式
+			
+			电话：(0571)-87952557			电子信箱：hzchen@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：陈红征
+		单位：高分子科学与工程学系
+		职称：教授
+		我的主页共被访问了14640次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	研究成果
+	专利成果
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

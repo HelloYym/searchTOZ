@@ -1,0 +1,525 @@
+
+
+
+
+
+Welcometomyblogs!-博客
+
+
+
+
+
+
+varctxPath="http://mypage.zju.edu.cn";
+varb_handle="yangxu";
+varcfg_weblog="http://mypage.zju.edu.cn/weblog";
+vard=newDate()
+varselyear=d.getFullYear();
+varselmonth=d.getMonth()+1;
+
+
+
+
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	color:#111;
+	margin-right:10px;	
+}
+#mainlinkullia,.tagsa:hover{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+.tagsa{
+	margin-right:10px;
+}
+img{
+	border:none;
+}
+
+
+
+
+
+
+
+
+
+
+	
+		首页
+		帮助
+		登录
+	
+
+
+
+
+
+
+	Welcometomyblogs!
+Pleasefeelfreetowriteyourmessages.
+
+	永久链接:http://mypage.zju.edu.cn/weblog/yangxu&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+
+
+	中文主页
+英文主页
+			博客
+
+
+
+
+
+
+
+
+
+
+			
+				
+
+	
+[1/2]
+首页	上一页下一页末页
+
+	
+
+浏览模式:普通|列表
+
+
+
+
+
+
+		孟楠
+
+作者:徐杨日期:2013-10-24Thursday
+
+
+
+姓名孟楠电子邮件mengnan@zju.edu.cn教育背景孟楠，男，现为浙江大学信息与电子工程学系博士后。于2007年获得法国里尔科技大学（里尔一大）电子工程与通讯技术硕士，2011年获得里尔科技大学微电子与纳米技术研究所（IEMN）博士学位，在博士期间主要从事基...
+查看更多...
+
+
+
+
+
+分类:团队成员介绍|			固定链接|评论总数0|
+			阅读次数295
+
+
+
+
+
+
+
+		林晓
+
+作者:徐杨日期:2013-11-28Thursday
+
+
+
+姓名林晓E-mailXiaolinbnwj@gmail.com教育背景2013.07-2014.07于新加坡南洋理工大学做访问博士2007.09-2013.07就读于浙江大学AwardsNULResearchDirection石墨烯光学不可逆光学表面等离子体Papers3.XiaoLin,YangXu,BaileZhang,RanHa...
+查看更多...
+
+
+
+
+
+分类:团队成员介绍|			固定链接|评论总数0|
+			阅读次数111
+
+
+
+
+
+
+
+		何一超
+
+作者:徐杨日期:2013-10-24Thursday
+
+
+
+姓名何一超邮箱hyc369@gmail.com教育背景浙江大学大四在读本科生获奖情况2013-2014年浙江大学信电系学业优秀3等奖学金研究方向论文发表NameHeyichaoE-mailhyc369@gmail.comEducationalBackgoundUndergraduatestudentinZJUAwar...
+查看更多...
+
+
+
+
+
+分类:团队成员介绍|			固定链接|评论总数0|
+			阅读次数93
+
+
+
+
+
+
+
+		王锋
+
+作者:徐杨日期:2013-10-24Thursday
+
+
+
+姓名王锋邮箱Wangfeng878a1990@163.com教育背景哈尔滨工业大学电子信息科学与技术获奖情况校优秀论文；二等人民奖学金研究方向光电器件论文发表HaifengZhang,XiaoweiLiu,FengWang,etal.Controlofmorphologyandsurfacewettab...
+查看更多...
+
+
+
+
+
+分类:团队成员介绍|			固定链接|评论总数0|
+			阅读次数81
+
+
+
+
+
+
+
+		施添锦
+
+作者:徐杨日期:2013-10-24Thursday
+
+
+
+姓名施添锦邮箱tjshi@zju.edu.cn教育背景2009~2013在华中科技大学学习2013~2015在浙江大学学习获奖情况研究方向传感器，微机电系统论文发表NameShiTianjinE-mailtjshi@zju.edu.cnEducationalBackgound2009~2013studyatHu...
+查看更多...
+
+
+
+
+
+分类:团队成员介绍|			固定链接|评论总数0|
+			阅读次数88
+
+
+
+
+
+
+
+		陆薇
+
+作者:徐杨日期:2013-10-24Thursday
+
+
+
+姓名陆薇邮箱luwei-luwei@163.com教育背景本科：浙江大学信息与电子工程学系研究生：浙江大学信息与电子工程学系获奖情况研究方向氟化石墨烯研究论文发表NameWeiLuE-mailluwei-luwei@163.comEducationalBackgoundBachelor:Zhej...
+查看更多...
+
+
+
+
+
+分类:团队成员介绍|			固定链接|评论总数0|
+			阅读次数111
+
+
+
+
+
+
+
+		王雪
+
+作者:徐杨日期:2013-10-24Thursday
+
+
+
+姓名王雪邮箱jayaixuexue@126.com教育背景安徽大学应用物理学获奖情况学习优秀奖学金国元奖学金优秀团干研究方向金属与石墨烯的接触电阻论文发表NameWANGXueE-mailjayaixuexue@126.comEducationalBackgoundAnhuiuniversity...
+查看更多...
+
+
+
+
+
+分类:团队成员介绍|			固定链接|评论总数0|
+			阅读次数84
+
+
+
+
+
+
+
+		周瀚铭
+
+作者:徐杨日期:2013-10-24Thursday
+
+
+
+姓名周瀚铭邮箱283444045@qq.com教育背景本科就读于浙江大学物理系现在浙江大学信电系攻读硕士学位获奖情况研究方向第一原理计算研究论文发表Name周瀚铭E-mail283444045@qq.comEducationalBackgoundUndergraduatecourseinPhysics...
+查看更多...
+
+
+
+
+
+分类:团队成员介绍|			固定链接|评论总数0|
+			阅读次数79
+
+
+
+
+
+
+
+		AyazAliHakro
+
+作者:徐杨日期:2013-10-24Thursday
+
+
+
+NameAyazAliHakroE-mailhakroayaz@gmail.comEducationalBackgoundMS(Microelectronics&SolidStateElectronics),ZhejiangUniversity,Hangzhou,China(2013).BS(Electronics),UniversityofSindhJamshoro,Sindh,Pakistan...
+查看更多...
+
+
+
+
+
+分类:团队成员介绍|			固定链接|评论总数0|
+			阅读次数99
+
+
+
+
+
+
+
+		郭宏伟
+
+作者:徐杨日期:2013-10-24Thursday
+
+
+
+姓名郭宏伟邮箱hwguo_11@foxmail.com教育背景本科：东南大学研究生：浙江大学获奖情况研究方向石墨烯/氟化石墨烯电学热学特性论文发表HaoJin,JianZhou,XingliHe,WenboWang,HongweiGuo,ShurongDong,DemiaoWang,Ya...
+查看更多...
+
+
+
+
+
+分类:团队成员介绍|			固定链接|评论总数0|
+			阅读次数91
+
+
+			
+			
+		
+		
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+	
+	
+		姓名：徐杨
+		单位：信息与电子工程学系
+		职称：浙江大学求是青年学者（博士生导师）
+		我共发表了12篇文章
+		共收到0条评论
+		我的主页共被访问了2761次
+	
+	
+	
+	
+
+
+我的文章分类
+
+	默认分类
+		
+团队成员介绍
+		
+学术研究活动
+		
+
+
+
+
+日历
+
+
+
+>>
+年月
+
+
+
+日
+一
+二
+三
+四
+五
+六
+
+
+
+
+
+
+
+
+
+
+
+我的最新文章
+
+
+		孟楠
+林晓
+何一超
+王锋
+施添锦
+陆薇
+王雪
+周瀚铭
+AyazAliHakro
+郭宏伟
+	
+
+
+
+
+我的热点文章
+
+
+				孟楠
+		万霞
+		陆薇
+		林晓
+		AyazAliHakro
+		何一超
+		郭宏伟
+		施添锦
+		王雪
+		王锋
+
+	
+
+
+我收到的评论
+
+	
+	
+
+
+我的文章汇总
+
+		2013年11月[1]
+		2013年10月[11]
+		
+	
+
+
+链接
+
+
+
+
+
+
+检索
+
+
+
+
+-所有文章-
+默认分类
+团队成员介绍
+学术研究活动
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+
+
+varflag=newArray();
+flag[0]='2013/10/24';
+flag[1]='2013/11/28';
+
+
+varcale=newCalendar("idCalendar",{
+SelectDay:newDate(),
+onSelectDay:function(o),
+onToday:function(o),
+onFinish:function(){
+$("idCalendarYear").innerHTML=this.Year;$("idCalendarMonth").innerHTML=this.Month;
+for(vari=0,len=flag.length;i<len;i++){
+//alert(flag[i]);
+	vard=newDate(flag[i]);
+	if(this.Year==d.getYear()){
+		if(this.Month==d.getMonth()+1)
+		{
+this.Days[d.getDate()].innerHTML=""+d.getDate()+"";
+			
+		}
+
+	}
+}
+}
+});
+$("idCalendarPre").onclick=function()
+$("idCalendarNext").onclick=function()
+
+
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));

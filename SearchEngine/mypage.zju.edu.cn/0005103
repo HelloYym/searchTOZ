@@ -1,0 +1,213 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0005103";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0005103&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			四川简阳人（籍贯）
+1985年毕业于于南京铁道医学院医疗系；
+1988年（1985-1988）研究生毕业于南京铁道医学院，获病理学硕士学位；
+1998年（1995-1998）研究生毕业于德国弗莱堡大学，以优秀成绩获医学博士学位。
+1988.7-2004.12&nbsp;东南大学基础医学院工作,副教授，硕士生导师，学院优秀教师，铁道部青年科技拔尖人才，副院长,东南大学分子病理学研究所和肾脏病研究所副主任，东南大学医学实验中心主任，基础医学院党委委员，校教代会常委。中华医学会南京医学会病理科专科分会委员。
+2005.1&nbsp;调入浙江大学医学院病理学和病理生理学系工作，围绕学系研究重点，开展结直肠癌分子病理学实验研究。
+一直从事病理学教学、科研、诊断工作，主要研究方向：分子肾脏病理学和分子肿瘤病理学。
+教学工作：承担医学本科和研究生病理学教学工作，主讲《病理学》和《分子病理学》。培养研究生16名（毕业11名）。作为第一副主编，参与编写本专科教材3部。获东南大学2002年度教学一等奖。所负责的《病理学》课程2002年被评为东南大学一级优秀课程，2003年获江苏省二类优秀课程奖。
+科研工作：承担国家级2项（国家自然科学基金面上项目1项），省部级课题2项，参加国际会议４次（大会报告２次），已发表学术论文十余篇。
+			
+				
+			工作研究领域
+			
+			1．细胞间相互作用体外研究模型
+2．细胞间相互作用与糖尿病肾病
+3．细胞间相互作用与肿瘤侵袭转移、肿瘤血管形成
+
+			
+					
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：邓红
+		单位：基础医学系
+		职称：副教授
+		我的主页共被访问了7529次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	奖励荣誉
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

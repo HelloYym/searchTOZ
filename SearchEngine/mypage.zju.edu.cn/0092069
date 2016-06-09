@@ -1,0 +1,206 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0092069";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0092069&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			姚铮现任浙江大学管理学院教授、会计与财务管理系副主任、资本市场与会计研究中心副主任（主持）、企业投资研究所副所长。从事证券、金融、公司理财等方面的研究和教学工作。主持并已完成的主要研究课题有：上海证券交易所课题&ldquo;香港回归对大陆证券市场的影响与对策研究&rdquo;、国家社会科学基金课题&ldquo;一国两制下大陆证券市场发展战略研究&rdquo;、国家自然科学基金课题&ldquo;市场经济条件下企业体制抉择研究&rdquo;、国家自然科学基金课题&ldquo;企业金融工程管理技术研究&rdquo;、浙江省社会科学基金重点课题&ldquo;浙江省高新技术企业融资支持战略研究&rdquo;。已出版专著3本，主编教育部规划教材1本。在《新华文摘》、《经济理论与经济管理》、《数量经济技术经济研究》、《中国工业经济》、《经济学动态》、《国际金融研究》等杂志发表论文90多篇。曾获浙江省企业管理现代化成果奖3项，浙江大学优秀教学成果奖3项，浙江大学科学技术奖1项，浙江大学优秀教师奖1次。指导全日制硕士研究生33名、MBA学员70人。兼任国家自然科学基金委员会通信评议专家、《证券法律评论》编委、《管理学报》审稿专家。&nbsp;
+			
+				
+			工作研究领域
+			
+			1.商业银行业务管理与风险控制；2.证券与期货投资分析；3.资本运营与投资银行业务；4.金融工程与金融衍生产品；5.企业融资与项目投资管理；6.金融服务营销管理；7.金融企业战略管理。
+
+			
+				
+			联系方式
+			
+			电话：88206867			电子信箱：z.yao@cma.zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：姚铮
+		单位：管理学院会计与财务管理系
+		职称：教授
+		我的主页共被访问了4696次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+	出版著作
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

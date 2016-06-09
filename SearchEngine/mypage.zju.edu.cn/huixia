@@ -1,0 +1,257 @@
+
+
+
+
+
+寿惠霞-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0004101";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	寿惠霞
+
+
+	永久链接:http://mypage.zju.edu.cn/huixia&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+
+
+
+&nbsp;
+欢迎你来到寿惠霞教授实验室！&nbsp;
+
+&nbsp;本人1981年进入浙江农业大学农学系学习，1988年获植物遗传与育种学硕士学位；1998年赴美留学，学习植物分子生物学与转基因技术，2003博士毕业于美国爱荷华州立大学植物转基因研究中心。2004年回国任浙江大学生命科学学院教授、博士生导师、生物技术系主任，植物研究所副所长。2013年入选浙江大学&ldquo;求是特聘学者&rdquo;。
+&nbsp;&nbsp;多年来从事植物转基因和植物基因组研究，已在植物功能基因克隆、植物转基因技术体系研究、植物抗逆转基因及其分子机理研究等方面取得多项研究成果。04年回国后，在在PlantJournal、PlantPhysiology、Cell&nbsp;Research等杂志发表发表研究论文30余篇。&nbsp;&nbsp;实验室在植物功能基因研究方向承担国家重点基础研究计划项目、国家转基因专项、国家基金项目、国际Harvestplus项目等多项科研项目。
+主要研究方向包括：水稻、大豆磷铁吸收代谢关键基因的克隆及功能研究；大豆功能基因研究；抗除草剂大豆新种质创制研究。
+&nbsp;实验室现有副教授（副研究员）二名，博士后、博士、硕士研究生12名，技术员1名；实验室师生关系融洽，学习气氛浓郁。
+******************************************************************
+近五年发表的论文:&nbsp;&nbsp;
+1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Zhou&nbsp;L,Wang&nbsp;C,Liu&nbsp;RF,Han&nbsp;Q,RebeccaVK,JuanD,Tyerman&nbsp;S,Shou&nbsp;HX*.2014.ConstitutiveoverexpressionofsoybeanplasmamembraneintrinsicproteinGmPIP1;6conferssalttolerance.BMCPlantBiol.14:181&nbsp;&nbsp;doi:10.1186/1471-2229-14-181
+2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Zhou&nbsp;L,HeHL,LiuRF,HanQ,LiuB,ShouHX*.&nbsp;&nbsp;2014.OverexpressionofGmAKT2potassiumchannelenhancesresistancetosoybeanmosaicvirus.BMCPlantBiol14:154doi:10.1186/1471-2229-14-154
+3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;WangC,LiS,NgS,ZhangBC,&nbsp;ZhouYH,WhelanJ,WuP,&nbsp;&nbsp;ShouHX*.2014.Mutationinxyloglucan6-xylosytransferaseresultsinabnormalroothairdevelopmentinOryzasativa.J.Exp.Bot.&nbsp;doi:10.1093/jxb/eru189
+4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NarsaiR,DevenishJ,CastledenI,NarsaiK,XuL,ShouHX,WhelanJ.2013.RiceDB:anOryzaInformationPortallinkingannotation,subcellularlocation,function,expression,regulation,andevolutionaryinformationforriceandArabidopsis.PlantJ76:1057&ndash;1073
+5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SeccoD,ShouHX,WhelanJ,BerkowitzO.2014.RNA-seqanalysisidentifiesanintricateregulatorynetworkcontrollingclusterrootdevelopmentinwhitelupin.&nbsp;BMCGenom.15:230&nbsp;doi:10.1186/1471-2164-15-230
+6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SongZY,TianJL,FuWZ,LiL,LuLH,ZhouL,ShanZH,TangGX,ShouHX*.2013.ScreeningChinesesoybeangenotypesforAgrobacterium-mediatedgenetictransformationsuitability.JZhejiangUnivSciB.14:289-198
+7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;WuP,ShouHX,XuGH,LianXM,2013.Improvementofphosphorusefficiencyinriceonthebasisofunderstandingphosphatesignalingandhomeostasis.CurrOpinPlantBiol.16:205&ndash;212
+8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SeccoD,JabnouneM,WalkerH,ShouHX,WuP,PoirierY,WhelanJ,2013.Spatio-TemporalTranscriptProfilingofRiceRootsandShootsinResponsetoPhosphateStarvationandRecovery.&nbsp;PlantCell.25:4285-4304.
+9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;WangL,YingYH,NarsaiR,YeL,ZhengL,TianJ,WhelanJ,ShouHX*.2013.IdentificationofOsbHLH133asaregulatorofirondistributionbetweenrootsandshootsinOryzasativa.PlantCell&amp;Envir.&nbsp;doi:36:224-236
+10.&nbsp;&nbsp;&nbsp;&nbsp;WangC,HuangW,YingYH,LiS,SeccoD,TyermanS,WhelanJ,&nbsp;ShouHX*.2012.FunctionalcharacterizationofthericeSPX-MFSfamilyrevealsakeyroleofOsSPX-MFS1incontrollingphosphatehomeostasisinleaves.NewPhytol.196：139&ndash;148
+11.&nbsp;&nbsp;&nbsp;&nbsp;TianJL,WangC,ZhangQ,HeXW,WhelanJ,ShouHX*.2012.OverexpressionofOsPAP10a,aroot-associatedacidphosphatase,increasedextracellularorganicphosphorusutilizationinrice.J.Integr.PlantBiol.54(9):631&ndash;639
+12.&nbsp;&nbsp;&nbsp;&nbsp;SeccoD,WangC,ArpatBA,WangZY,PoirierY,TyermanSD,WuP,ShouHX,WhelanJ.2012.TheemergingimportanceoftheSPXdomain-containingproteinsinphosphatehomeostasis.NewPhyt.193:842&ndash;851
+13.&nbsp;&nbsp;&nbsp;&nbsp;SeccoD,WangC,ShouHX,WhelanJ.2012.PhosphatehomeostasisintheyeastSaccharomycescerevisiae,thekeyroleoftheSPXdomain-containingproteins.FEBSLetters586:289-295.(IF:3.5)
+14.&nbsp;&nbsp;WuJJ,WangC,ZhengLQ,WangL,&nbsp;ChenYR,WhelanJ,ShouHX*.2011.Ethyleneisinvolvedintheregulationofironhomeostasisinricebyregulatingtheexpressionofiron-acquisition-relatedgenesinOryzasativa.J.Exp.Bot.62：667-674.
+15.&nbsp;&nbsp;&nbsp;&nbsp;ZhengLQ,YingYH,WangL,WangF,WhelanJ,ShouHX*.2010.Identificationofanovelironregulatedbasichelix-loop-helixproteininvolvedinFehomeostasisinOryzasativa.BMCPlantBiol.10：166.
+16.&nbsp;&nbsp;&nbsp;&nbsp;ZhengLQ,ChengZQ,AiCX,JiangXH,BeiXS,ZhengY,JiangXH,GlahnRP,WelchRM,MillerDD,LeiXG,Shou&nbsp;HX*.2010.Nicotianamine,anovelenhancerofironbioavailabilitytohumansinricegrain.PLoSOne.2010;5:e10190.&nbsp;
+17.&nbsp;&nbsp;&nbsp;&nbsp;ZhangQ,WangC,TianJL,LiK,ShouHX*,2010.IdentificationofricepurpleacidphosphatasesrelatedtoPi-starvationsignaling.PlantBiol.13：7-15
+18.&nbsp;&nbsp;&nbsp;&nbsp;LiuSP,ZhengLQ,XueYH,ZhangQ,WangL,&nbsp;ShouHX*,2010.OverexpressionofOsVP1andOsNHX1increasestolerancetodroughtandsalinityinrice.J.PlantBiol.53:444-452
+19.&nbsp;&nbsp;&nbsp;&nbsp;LiK,WangC,YingS,ShouHX*.2010.ComparinggeneticcharacteristaicsofretrotransposonTOS17duringdifferenttissuecultureprocessesinricecultivarsNipponbareandShishoubaimao.&nbsp;AgriculturalSciencesinChina.9(2):157-162.
+20.&nbsp;&nbsp;&nbsp;&nbsp;WangC,YingS,HuangHJ,LiK,WuP,ShouHX*.2009.InvolvementofOsSPX1inphosphatehomeostasisinrice.PlantJ57:895-904
+21.&nbsp;&nbsp;&nbsp;&nbsp;ZhengLQ,HuangFL,NarsaiR,HeF,GiraudE,WuJJ,ChengLJ,WangF,WuP,WhelanJ,ShouHX*.(2009)Physiologicalandtranscriptomeanalysisofironandphosphorusinteractioninriceseedlings.PlantPhysiol.151:262-274
+22.&nbsp;&nbsp;&nbsp;&nbsp;ZhengY,HeXW,LuJF,YingYH,GelvinS,ShouHX*.2009.ExpressionoftheArabidopsisHTA1geneenhancesricetransformationefficiency.MolPlant.2:832-837
+23.&nbsp;&nbsp;&nbsp;&nbsp;LiuSP,&nbsp;WangJR,WangL,WangXF,XueYH,WuPandShouHX*,2009.AdventitiousrootformationinricerequiresOsGNOM1andismediatedbytheOsPINsfamily.CellRes.19:1110&ndash;1119
+24.&nbsp;&nbsp;&nbsp;&nbsp;WangC,ZhangQandShouHX*.2009.IdentificationandexpressionanalysisofOsHsfsinrice.JZhejiangUnivSciB10(4):291-300291
+&nbsp;&nbsp;
+&nbsp;诚邀有志于植物分子生物学、生理学基础研究及生物技术应用研究的博士后研究人员、博士和硕士研究生加入研究团队。
+2015年拟招收博士生1-2名、博士后二名。
+
+
+
+
+&nbsp;
+			
+				
+			工作研究领域
+			
+			植物分子生物学、植物营养遗传学、植物生物技术。
+《分子生物学》、《基因组学》教学
+			
+				
+			联系方式
+			
+			电话：0571-88206146			电子信箱：huixia@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：寿惠霞
+		单位：生命科学学院生物技术系
+		职称：教授
+		我的主页共被访问了51201次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	奖励荣誉
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	JointLaboratoryofPlantFunctionalBiologyandNutriomics
+包玉刚讲座教授Dr.Whelan
+科学网
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

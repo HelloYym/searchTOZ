@@ -1,0 +1,208 @@
+
+
+
+
+
+祝国群-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0097264";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	祝国群
+chinayouth
+
+	永久链接:http://mypage.zju.edu.cn/gqzhu&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;祝国群，男，硕士学位，现担任浙江大学团委常委、组织部长、学生科技指导中心主任、华家池校区团工委副书记等职务。先后在土化系、环资学院、原紫金港校区蓝田学园、动科学院担任学生辅导员、团委书记等职务，2005年12月至浙江大学团委工作。具体从事团的组织工作、学生科技、大学生创业创新等工作，组织和管理浙江大学&ldquo;挑战杯&rdquo;大学生课外学术科技作品竞赛、&ldquo;蒲公英&rdquo;学生创业计划竞赛、浙江省&ldquo;新苗人才计划&rdquo;等，发起和指导紫金港艺术团、学生科学技术协会等学生社团。
+&nbsp;
+
+			
+				
+			工作研究领域
+			
+			大学生创业创新教育、高校思想政治教育与管理、农业遥感与信息技术
+			
+				
+			联系方式
+			
+						电子信箱：gqzhu@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：祝国群
+		单位：团委组织部
+		职称：政工师
+		我的主页共被访问了4724次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		发表文章与研究成果
+	博客内容转贴
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

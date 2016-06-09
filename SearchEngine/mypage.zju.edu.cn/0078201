@@ -1,0 +1,234 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0078201";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0078201&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;
+叶云岳教授，现任浙江大学电气工程学院教授、博导，国家&ldquo;十五&rdquo;863高速磁浮交通技术重大专项总体专家组成员，中国电工技术学会直线电机专委主任，浙江大学航天电气与微特电机研究所所长。
+经历与主要成就
+&nbsp;&nbsp;&nbsp;&nbsp;●&ldquo;97国际磁悬浮技术与应用会议（SMLTA'97）&rdquo;技术程序委员
+&nbsp;&nbsp;&nbsp;&nbsp;●&ldquo;99年第三届国际电磁技术会议&rdquo;组织委员
+&nbsp;&nbsp;&nbsp;●2001年&ldquo;第五届国际电机会议（ICEMS'2001）&rdquo;组织委员
+&nbsp;&nbsp;&nbsp;●&ldquo;ICEMS'2003国际电机会议&rdquo;技术程序委员
+&nbsp;&nbsp;&nbsp;●&ldquo;LDIA2003国际工业应用直线驱动会议&rdquo;技术程序委员，曾代表我国在&ldquo;LDIA2003国际工业应用直线驱动会
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;议&rdquo;上作了&ldquo;中国直线驱动技术的研究与应用发展&rdquo;。
+&nbsp;&nbsp;&nbsp;●&ldquo;ICEMS'2004国际电机会议(韩国)&rdquo;技术程序委员
+&nbsp;&nbsp;&nbsp;●组织举办了全国首届、二届直线电机原理、设计与应用学习班
+&nbsp;&nbsp;&nbsp;●正式出版著作教材6部，主编出版文集、手册等3部。发表论文100余篇，获省部科技进步奖等10余项，授权
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;专利20余项，负责完成国家、省部科技项目及企业产品项目近百项。
+教学
+现指导硕士研究生7名，博士生6名，&nbsp;先后主讲研究生课程4门，本科生课程10余门，其中有：
+
+&nbsp;&nbsp;&nbsp;●《电机创新技术与方法》（研究生）
+&nbsp;&nbsp;&nbsp;●《直线电机理论与应用》（研究生）
+&nbsp;&nbsp;&nbsp;●《电气装备CAD与优化》（研究生）
+&nbsp;&nbsp;&nbsp;●《现代驱动技术与智能化系统》（研究生）
+&nbsp;&nbsp;&nbsp;●《电机学》、《电机设计》、《电机优化技术》、《计算机辅
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;助电机优化设计与制造》、《电力电子技术基础》、《电工材
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;料与应用》、《电工节能技术》、《科技文献检索》等(本科
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;生)。
+			
+				
+			工作研究领域
+			
+			1.直线电机及其控制技术
+2.航天电气与微特电机技术
+3.现代新颖驱动技术与智能化系统
+●磁悬浮驱动技术及控制●电机CAD与电工节能技术
+
+			
+				
+			联系方式
+			
+			电话：13906511336			电子信箱：Yeyy@sohu.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：叶云岳
+		单位：电气工程学院电机工程学系
+		职称：教授
+		我的主页共被访问了23194次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	专利成果
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

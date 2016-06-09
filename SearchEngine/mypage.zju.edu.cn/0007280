@@ -1,0 +1,213 @@
+
+
+
+
+
+化工新材料与反应工程研究室-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0007280";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	化工新材料与反应工程研究室
+
+
+	永久链接:http://mypage.zju.edu.cn/0007280&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			张庆华，男，博士，副教授，博士生导师。1976年10月生于湖北黄陂，2007年6月毕业于浙江大学化工系聚合反应工程方向，获工学博士学位，2007年7月至2009年9月在浙江大学材料科学与工程博士后流动站从事师资博士后研究工作，出站后受聘于浙江大学化工系任讲师，2010年12月晋升副教授，2012年3月至2013年3月受浙江大学&ldquo;新星计划&rdquo;资助赴美国华盛顿大学化工系访问研究一年。现任浙江大学化工系联合化学反应工程研究所副所长，兼任浙江省氟材料产业技术创新战略联盟秘书。
+研究工作集中体现在：（1）抗非特异性蛋白质粘附生物相容性材料基础理论与应用，研究蛋白质分子与各种表面层的作用机理，设计合成具有优异抗蛋白质吸附表面，应用于海洋防污涂料、生物传感器、组织工程等领域。（2）新型聚合物膜材料的结构设计与可控制备，膜分离材料的表面工程基础研究，涉及膜表面修饰与纳米结构仿生构建、膜表面抗污污染性能和生物相容性优化等。（3）新型含氟（硅）功能型聚合物材料的设计合成与结构性能，针对特殊性质的含氟（硅）功能性单体，开展功能化、高性能化含氟（硅）聚合物材料的分子设计、可控制备以及性能的应用基础研究和工业化应用。
+作为负责人已承担国家自然科学基金项目4项，省部级科研项目4相，重大横向科技应用开发项目多项，参与国家自然科学基金重点项目1项，参与浙江省重大科技专项计划2项。与中石化及其下属分公司、巨化集团等大型企业保持着长期合作关系，与美国华盛顿大学化工系等国际科研机构开展了良好的合作研究，已发表SCI论文40余篇，研究成果发表在Langmuir；Softmatter；JMaterChemA；RSCadv；IndEngChemRes；ColloidandSurfaceA;JPolymSciA等国际知名期刊上，已获中国发明专利20余项。
+课题组主页：www.cmce.zju.edu.cn
+			
+				
+			工作研究领域
+			
+			化工新材料的设计、制备与性能研究；聚合物/纳米复合膜材料结构与性能；聚合物材料表面与界面性能；氟硅功能高分子材料；抗生物蛋白质粘附生物材料。
+			
+				
+			联系方式
+			
+			电话：0571-87953382			电子信箱：qhzhang@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：张庆华
+		单位：化学工程与生物工程学系
+		职称：副教授
+		我的主页共被访问了11774次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+	教学工作
+	专利成果
+	研究生招生信息
+	实验室介绍
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

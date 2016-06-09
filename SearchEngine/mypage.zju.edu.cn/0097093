@@ -1,0 +1,208 @@
+
+
+
+
+
+宋开臣的主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0097093";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	宋开臣的主页
+
+
+	永久链接:http://mypage.zju.edu.cn/0097093&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			宋开臣，男，1965年9月生。1997年天津大学精密仪器工程系测试计量技术及仪器专业研究生毕业，获工学博士学位；1999年浙江大学博士后出站。现任浙江大学教授、博士生导师，浙江大学仪器科学工程系数字技术及仪器研究所副所长。
+
+主要研究方向为：传感技术及传感器；现代测试技术及信号处理；精密仪器系统设计理论及方法；先进惯性测量与导航技术。
+主要从事测试计量技术、传感器技术、信号分析与处理技术以及仪器系统设计与数字化技术等方面的教学和科研工作。尤其在惯性测量与导航技术、工业过程的测量控制技术及仪表、精密机械及机光电一体化系统和装备、微弱信号检测及精密仪器电路等方向有比较深入地研究。
+
+科研项目涉及计量测试仪器、汽车电子、航空航天和海洋资源勘测等领域。作为项目负责人和主要骨干多次参加国家&ldquo;863&rdquo;、&ldquo;973&rdquo;计划项目、国家自然科学基金项目。先后主持了国家&ldquo;863&rdquo;计划项目十余项，承担了30多项航天产品的研制工作，为企业研制了多种产品；在国内核心期刊和国内、外国际会议上发表学术论文五十余篇；拥有多项国家发明专利；获省部级科技进步二等奖两项，获得国务院颁发的2008年度国家科技进步特等奖；先后两次荣获总装备部某重大专项&ldquo;杰出贡献先进个人&rdquo;称号；杭州市新世纪&ldquo;131&rdquo;优秀中青年人才培养计划人选第一层次，浙江省新世纪&ldquo;151&rdquo;人才工程培养人员第二层次。
+			
+				
+			工作研究领域
+			
+			测试计量技术、传感器技术、信号分析与处理技术、仪器系统设计与数字化技术、惯性测量与导航技术、工业过程的测量控制技术及仪表、精密机械及机光电一体化系统和装备、微弱信号检测及精密仪器电路等
+			
+				
+			联系方式
+			
+			电话：87953234			电子信箱：kcsong@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：宋开臣
+		单位：生物医学工程与仪器科学学院
+		职称：教授
+		我的主页共被访问了10086次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

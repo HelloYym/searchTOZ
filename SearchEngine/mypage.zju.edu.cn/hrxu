@@ -1,0 +1,218 @@
+
+
+
+
+
+浙江大学徐惠荣-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0097259";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	浙江大学徐惠荣
+浙江大学徐惠荣
+
+	永久链接:http://mypage.zju.edu.cn/hrxu&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+主要从事农产品品质智能化检测技术与装备的科研和教学工作。近年来主持国家自然科学基金项目1项、&ldquo;十一五&rdquo;国家科技支撑计划项目1项，&ldquo;十二五&rdquo;国家科技支撑计划子项目1项，另外作为主要骨干还参加了国家&ldquo;863&rdquo;项目、国家农业科技成果转化基金项目、浙江省科技厅重大项目子项目等多项科研项目的研究工作。获国家发明专利16件（前3），其中以第5完成人完成的成果&ldquo;基于计算机视觉的水果品质智能化实时检测分级技术与装备研究&rdquo;2008年获国家技术发明二等奖，以第3完成人获国家教学成果一等奖和浙江省教学成果一等奖各1项。以第一作者或通讯作者发表SCI和EI收录论文16篇，参编著作1部《农产品品质无损检测技术》。并应邀担任了《JournalofFoodEngineering》、《FoodChemistry》等多本国际期刊和国内EI期刊《农业机械学报》、《农业工程学服》等的审稿人，2011年入选浙江省151人才工程第三层次培养人员。
+			
+				
+			工作研究领域
+			
+			（1）农产品品质无损检测技术及其装备研究
+（2）近红外光谱在线检测技术及应用研究
+（3）现代智能农业装备
+（4）小型检测仪的研发
+
+
+			
+				
+			联系方式
+			
+			电话：0571－88982282			电子信箱：hrxu@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：徐惠荣
+		单位：浙江大学智能生物产业装备创新团队
+		职称：教授
+		我的主页共被访问了17603次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		实验室介绍
+	工作研究项目
+	发表论文
+	出版著作
+	学术交流（讲座报告）
+	研究成果
+	专利成果
+	奖励荣誉
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

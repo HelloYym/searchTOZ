@@ -1,0 +1,221 @@
+
+
+
+
+
+陈新志-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0089086";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	陈新志
+
+
+	永久链接:http://mypage.zju.edu.cn/0089086&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			陈新志
+职称：教授
+学位：化学工程博士
+出生年月：1962年10月
+电话：13606505355，（0571）87951615
+e-mail：xzchen@zju.edu.cn
+地址：浙江大学（玉泉校区）化工系，杭州，310027
+
+研究方向&nbsp;
+1）精细化学品合成工艺研究（有机胺及含氮杂环产品，有机硫及其含硫杂环产品，含氟化学品，医药、农药、染料及其中间体）；
+2）新型合成手段研究（气固相固定床反应技术及其催化剂，高压管道化合成技术，对映体合成技术，光催化与电化学合成技术，反应-分离耦合技术）；
+3）应用热力学研究（状态方程及热力学模型研究，化工物性的测定、模型化及工业应用）；
+			
+				
+			工作研究领域
+			
+			化学工程与工艺，应用化学技术
+			
+				
+			联系方式
+			
+			电话：13606505355			电子信箱：xzchen@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：陈新志
+		单位：化学工程与生物工程学系
+		职称：教授，博士生导师
+		我的主页共被访问了36327次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	研究成果
+	专利成果
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

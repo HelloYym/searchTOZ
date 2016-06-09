@@ -1,0 +1,254 @@
+
+
+
+
+
+SaiWu'sHomepage-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0011057";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	SaiWu'sHomepage
+
+
+	Permanentlink:http://mypage.zju.edu.cn/en/wusai&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			EnglishHome
+			
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			DrWuisanassociateprofessorofZhejiangUniversity.HerecievedhisPh.DdegreeincomputersciencefromNationalUniversityofSingapore(NUS)in2011.HisadvisorisprofessorBengChinOoi.BeforejoiningNUS.HegothismasterandbachelordegreefromPekingUniversityin2005and2002,respectively.&nbsp;In2009,heworkedasaresearchinterninIBMTJ-Watson,NY,fortheS3project.
+HehasservedasPCformanytopconferences,suchasICDE2011,VLDB2010,CIKM2011,VLDB2014,ICDE2014,SIGMOD2014,SIGMOD2015,VLDB2016,IEEEBigData2016,&nbsp;.&nbsp;HeisaregularreviewerforjournalslikeTKDE,TODSandDPDBS.
+&nbsp;
+JournalPapers:
+
+SaiWu,GangChen,KeChen,FengLi,LidanShou:&nbsp;HM:AColumn-OrientedMapReduceSystemonHybridStorage.TKDE2015(toappear)
+DingyuYang,JianCao,SaiWu,JieWang:Progressiveonlineaggregationinadistributedstreamsystem.JournalofSystemsandSoftware102:146-157(2015)
+XiankeZhou,SaiWu,GangChen,LidanShou:kNNprocessingwithco-spacedistanceinSoLoMosystems.ExpertSyst.Appl.41(16):6967-6982(2014)
+XiankeZhou,SaiWu,ChunChen,GangChen,ShanshanYing:Real-timerecommendationformicroblogs.Inf.Sci.279:301-325(2014)
+FengLi,BengChinOoi,M.Tamer&Ouml;zsu,SaiWu:DistributeddatamanagementusingMapReduce.ACMComput.Surv.46(3):31(2014)
+GangChen,TianleiHu,DaweiJiang,PengLu,Kian-LeeTan,HoangTamVo,SaiWu:BestPeer++:APeer-to-PeerBasedLarge-ScaleDataProcessingPlatform.IEEETrans.Knowl.DataEng.26(6):1316-1331(2014)
+LidanShou,SaiWu:SupportingEfficientSocialMediaSearchinCyber-PhysicalWeb.IEEEDataEng.Bull.36(3):83-90(2013)
+SaiWu,XiaoliWang,ShengWang,ZhenjieZhang,AnthonyK.H.Tung:K-AnonymityforCrowdsourcingDatabase.IEEETransactionsonKnowledgeandDataEngineering,15May2013(preprint)
+GangChen,SaiWu,JingboZhou,AnthonyK.H.Tung:AutomaticItineraryPlanningforTravelingServices.IEEETransactionsonKnowledgeandDataEngineering,13March2013(preprint)
+GangChen,KeChen,DaweiJiang,BengChinOoi,LeiShi,HoangTamVo,SaiWu:E3:anElasticExecutionEngineforScalableDataProcessing.JIP20(1):65-76(2012)
+DalieSun,SaiWu,ShouxuJiang,JianzhongLi:ApproximateAggregationsinStructuredP2PNetworks.IEEETrans.Knowl.DataEng.23(11):1748-1752(2011)
+
+ConferencePapers:
+
+SaiWu,GangChen,XiankeZhou,ZhenjieZhang,AnthonyK.H.Tung,MarianneWinslett:&nbsp;PABIRS:Adataaccessmiddlewarefordistributedfilesystems.ICDE2015:113-124
+PengLu,GangChen,BengChinOoi,HoangTamVo,SaiWu:ScalaGiST:ScalableGeneralizedSearchTreesforMapReduceSystems[InnovativeSystemsPaper].PVLDB7(14):1797-1808(2014)
+DaweiJiang,GangChen,BengChinOoi,Kian-LeeTan,SaiWu:epiC:anExtensibleandScalableSystemforProcessingBigData.PVLDB7(7):541-552(2014)(BestPaperAward)
+SaiWu,GangChen,KeChen,LidanShou,HuiCao,HeBai:yzStack:ProvisioningCustomizableSolutionforBigData.PVLDB7(13):1778-1783(2014)
+PaiPeng,LidanShou,KeChen,GangChen,SaiWu:Theknowingcamera2:recognizingandannotatingplaces-of-interestinsmartphonephotos.SIGIR2014:707-716
+PaiPeng,LidanShou,KeChen,GangChen,SaiWu:TheKnowingCamera:RecognizingPlaces-of-InterestinSmartPhonePhotos(Poster),SIGIR2013
+XiankeZhou,KeChen,SaiWu,BingbingZhang:Crowd-AnsweringSystemviaMicroblogging.ICDE(DEMO)2013
+PengLu,SaiWu,LidanShou,Kian-LeeTan:AnEfficientandCompactIndexingSchemeforLarge-scaleDataStore.ICDE2013
+SaiWu,VibhoreKumar,Kun-LungWu,BengChinOoi:Parallelizingstatefuloperatorsinadistributedstreamprocessingsystem:how,shouldyouandhowmuch?DEBS2012:278-289
+ChenLiu,SaiWu,ShouxuJiang,AnthonyK.H.Tung:CrossDomainSearchbyExploitingWikipedia.ICDE2012:546-557
+GangChen,TianleiHu,DaweiJiang,PengLu,Kian-LeeTan,HoangTamVo,SaiWu:BestPeer++:APeer-to-PeerBasedLarge-ScaleDataProcessingPlatform.ICDE2012:582-593
+XuanLiu,MeiyuLu,BengChinOoi,YanyanShen,SaiWu,MeihuiZhang:CDAS:ACrowdsourcingDataAnalyticsSystemCoRRabs/1207.0143:(2012)
+XuanLiu,MeiyuLu,BengChinOoi,YanyanShen,SaiWu,MeihuiZhang:CDAS:ACrowdsourcingDataAnalyticsSystem.PVLDB5(10):1040-1051(2012)
+SaiWu,F.Li,S.Mehrotra,B.C.Ooi:QueryOptimizationforMassivelyParallelDataProcessing.ACMSymposiumonCloudComputing(SOCC).2011.
+YuCao,ChunChen,FeiGuo,DaweiJiang,YutingLin,BengChinOoi,HoangTamVo,SaiWu,QuanqingXu:ES2:AclouddatastoragesystemforsupportingbothOLTPandOLAP.ICDE2011:291-302
+ChunChen,FengLi,BengChinOoi,SaiWu:TI:anefficientindexingmechanismforreal-timesearchontweets.SIGMODConference2011:649-660
+YutingLin,DivyakantAgrawal,ChunChen,BengChinOoi,SaiWu:Llama:leveragingcolumnarstorageforscalablejoinprocessingintheMapReduceframework.SIGMODConference2011:961-972
+GangChen,HoangTamVo,SaiWu,BengChinOoi,M.Tamer&Ouml;zsu:AFrameworkforSupportingDBMS-likeIndexesintheCloud.PVLDB4(11):702-713(2011)
+JinbaoWang,SaiWu,HongGao,JianzhongLi,BengChinOoi:Indexingmulti-dimensionaldatainacloudsystem.SIGMODConference2010:591-602
+SaiWu,BengChinOoi,Kian-LeeTan:Continuoussamplingforonlineaggregationovermultiplequeries.SIGMODConference2010:651-662
+ChunChen,GangChen,DaweiJiang,BengChinOoi,HoangTamVo,SaiWu,QuanqingXu:ProvidingScalableDatabaseServicesontheCloud.WISE2010:1-19
+SaiWu,DaweiJiang,BengChinOoi,Kun-LungWu:EfficientB-treeBasedIndexingforCloudDataProcessing.PVLDB3(1):1207-1218(2010)
+DaweiJiang,BengChinOoi,LeiShi,SaiWu:ThePerformanceofMapReduce:AnIn-depthStudy.PVLDB3(1):472-483(2010)
+QuangHieuVu,MihaiLupu,SaiWu:SiMPSON:EfficientSimilaritySearchinMetricSpacesoverP2PStructuredOverlayNetworks.Euro-Par2009:498-510
+SaiWu,QuangHieuVu,JianzhongLi,Kian-LeeTan:AdaptiveMulti-joinQueryProcessinginPDBMS.ICDE2009:1239-1242
+SaiWu,Kun-LungWu:AnIndexingFrameworkforEfficientRetrievalontheCloud.IEEEDataEng.Bull.32(1):75-82(2009)
+SaiWu,ShouxuJiang,BengChinOoi,Kian-LeeTan:DistributedOnlineAggregation.PVLDB2(1):443-454(2009)
+DalieSun,SaiWu,JianzhongLi,AnthonyK.H.Tung:Skyline-joinindistributeddatabases.ICDEWorkshops2008:176-181
+SaiWu,JianzhongLi,BengChinOoi,Kian-LeeTan:Just-in-timequeryretrievaloverpartiallyindexeddataonstructuredP2Poverlays.SIGMODConference2008:279-290
+SaiWu,HongGao,BeiYu.SupportingHighDimensionalRangeQueriesinPeer-to-PeerSystemsDBISP2P2007.Austria
+
+&nbsp;
+			
+				
+			Researchwork
+			
+			DrWu'sPh.DthesisisonQueryProcessinginPeer-basedDataManagementSystem.HefocusedondevelopingtheefficientdistributeddatabasesystemsbyleveragingtheP2Ptechniques.Recently,hecombinedhisresearchexperiencewiththeCloudsystem,tryingtoaddressthebigdataproblem.Besides,heisalsointerestedinthedatamanagementofsocialnetworksandcrowdsourcingsystem.
+			
+				
+			Contact
+			
+			Phone:
+			E-mail:wusaiATzju.edu.cn
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:SaiWu
+		Units:CollegeofComputerScience,ZhejiangUniversity
+		Title:AssociateProfessor
+		Myhomepagehasbeenvisited10636times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+General
+ConferencePapers
+JournalPapers
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	ProfOoiBengChin
+epiCproject
+S3Project
+Hadoop
+Hadoop
+
+
+
+Youarevisitor:10636
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

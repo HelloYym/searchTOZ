@@ -1,0 +1,205 @@
+
+
+
+
+
+楼莉萍-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0003142";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	楼莉萍
+楼莉萍的个人主页
+
+	永久链接:http://mypage.zju.edu.cn/loulp&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1995年毕业于天津大学化学工程系，1995年至1998年在浙江省化工研究院从事有机农药的研制工作。1998年9月为浙江大学环境工程系硕博连读生，并于2003年3月获得博士学位，毕业后留校任教。在此期间主要从事流域与湖泊污染控制方向的研究，主持或参与了&ldquo;钱塘江流域水环境承载力和生态安全指标体系研究&rdquo;(浙江省政府重大委托课题2005C1007)、&ldquo;西湖千岛湖水生生态演变及调控技术研究&rdquo;(浙江省科技计划项目2005C33047)、&ldquo;四岭水库小流域农林结合型面源污染控制技术与示范&rdquo;（浙江省重大科技专项重点项目2007C13060），纳米催化剂对NOx的催化转化的实际应用性研究（杭州市科技局）等多项项目。已在国内外期刊上发表学术论文几十篇。授权国家发明专利三项。
+			
+				
+			工作研究领域
+			
+			水污染模拟与防治，沉积物污染控制，有机污染控制等
+			
+				
+			联系方式
+			
+						电子信箱：loulphusldd@hotmail.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：楼莉萍
+		单位：环境与资源学院环境工程系
+		职称：副教授
+		我的主页共被访问了1694次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		专利成果
+	发表论文
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

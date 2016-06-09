@@ -1,0 +1,218 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0082094";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0082094&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			1982年7月毕业于浙江农业大学畜牧兽医系，同年8月留校任教，历任助教、讲师、副教授和教授等职，主要从事动物遗传育种的教学及科研工作，1987年7月至1988年7月，在德国西柏林工业大学国际农业发展系进修猪的遗传育种，1995年至1997年在德国基尔大学动物遗传研究所从事数量性状基因座位定位的研究工作，并于同年获得基尔大学农学博士学位。主要从事动物遗传育种的研究工作，涉及的研究领域为数量遗传、分子遗传和家畜育种。曾参加了&ldquo;金华猪种质特性及金华猪的畜禽遗传规律及其应用研究&rdquo;等课题的研究工作。目前主要从事金华
+主要学术任职
+
+中国畜牧兽医学会动物遗传育种学分会理事
+
+中国畜牧兽医学会畜禽遗传标记学分会理事
+
+中国畜牧兽医学会养牛学分会理事
+
+浙江省畜牧兽医学会理事，《浙江畜牧兽医》副主编
+
+浙江省畜禽品种审定委员会副主任委员
+
+
+
+
+			
+				
+			工作研究领域
+			
+			1、动物分子数量遗传与动物育种2、猪的育种3、动物遗传资源的评价和开发利用
+			
+				
+			联系方式
+			
+						电子信箱：nxuzzhou@mail.hz.zj.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：徐宁迎
+		单位：动物科学学院动物科技系
+		职称：教授
+		我的主页共被访问了2145次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

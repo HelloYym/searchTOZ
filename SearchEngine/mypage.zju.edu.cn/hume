@@ -1,0 +1,209 @@
+
+
+
+
+
+徐向东-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0011173";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	徐向东
+
+
+	永久链接:http://mypage.zju.edu.cn/hume&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			徐向东，浙江大学哲学系教授。
+&nbsp;
+1986年获北京大学理学士学位，1989年获中国社会科学院研究生院哲学硕士学位，2002年获美国哥伦比亚大学哲学博士学位，2012年11月起担任浙江大学人文学院哲学系教授。
+&nbsp;
+徐向东主要从事伦理学、政治哲学、早期现代哲学以及分析哲学的教学和研究工作。
+&nbsp;
+目前的研究集中在如下几个方面：在伦理学领域，试图在全面考察规范伦理学中的核心争论的基础上，对人类道德的本质及其与人类条件的关系提出一种系统理解，并探究其政治哲学含义；在政治哲学领域，试图提出一个能够应用于国内社会正义和全球正义的正义观念，并考察这一观念与平等和自由的关系，与此同时，力图把形而上学自由与政治自由联系起来，并对后者的本质和条件提出一种理解；在道德心理学领域，目前主要在探究道德责任的条件及其对人类能动性的要求，并在此基础上发展一种对人类自我的理解；在早期现代哲学领域，试图对休谟哲学提出一个全面考察和理性重建，发展一种休谟式的自然主义，并进一步阐明这种自然主义在伦理学和政治哲学中的含义；在分析哲学领域，目前的兴趣主要集中在哲学心理学方面的一些问题，例如人类行动的本质及其说明、自由意志的形而上学、意志软弱和自我欺骗的可能性等。
+&nbsp;
+&nbsp;
+&nbsp;
+
+			
+				
+			工作研究领域
+			
+			伦理学，政治哲学，分析哲学核心领域，早期现代哲学及其历史
+
+			
+					
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：徐向东
+		单位：人文学院
+		职称：教授
+		我的主页共被访问了1704次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

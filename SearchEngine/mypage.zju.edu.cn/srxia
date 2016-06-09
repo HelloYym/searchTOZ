@@ -1,0 +1,222 @@
+
+
+
+
+
+HomepageofDr.ShunrenXia-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0092058";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	HomepageofDr.ShunrenXia
+FromBMEofZJU
+
+	永久链接:http://mypage.zju.edu.cn/srxia&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			夏顺仁，男，中共党员，1965年5月生。分别于1986年、1989年、1992年获得南京工学院（现为东南大学）无线电工程学系工学学士、工学硕士、工学博士学位。1992年3月进入浙江大学仪器仪表博士后流动站从事医学图像重建科学研究工作。1994年4月出站后留任浙江大学生物医学工程学系，从事教学和科研工作。
+2001年和2006年作为高级访问学者分别前往新加坡南洋理工大学生物医学工程研究中心和美国哈佛大学医学院生物信息学中心从事科研合作研究。担任多个国际学术会议程序委员会委员和分会场主席。
+从事教学和科研工作二十多年来，作为项目负责人或主要成员承担和完成了多项国家级、省部级科研与教学改革项目，包括973、863、国家自然科学基金、国防973、浙江省自然科学基金、国家博士后科学研究基金、浙江省新世纪教改项目等，迄今已获得军队科技进步奖三等奖3项、浙江省教学成果奖二等奖1项，发表了具有一定学术价值的学术论文160余篇，其中SCI、EI等收录50余篇。
+目前为《中国高校学术文摘&bull;电气与电子工程分册》编委、《生物医学工程学杂志》编委、《中华生物医学工程杂志》编委，国家自然科学基金生命科学部和信息学部通讯评审专家，《BiomedicalEngineeringOnline》、《电子学报》、《计算机辅助设计与图形学学报》、《中国生物医学工程学报》、《航天医学与医学工程》、《清华大学学报》、《上海交通大学学报》、《浙江大学学报》(工学版)、《浙江大学学报》(英文版)、《西安交通大学学报》、《东南大学学报》、《武汉理工大学学报》(英文版)、《东北大学学报》、《华南理工大学学报(自然科学版)》等刊物审稿人。&nbsp;
+现为浙江大学生物医学工程与仪器科学学院生物医学工程学系教授、博士生导师，全国生物医学工程学科工程硕士教学指导委员会副主任委员，IEEE高级会员，中国生物医学工程学会高级会员，浙江省生物医学工程学会副理事长、常务理事和信息专委会主任委员。&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Dr.ShunrenXiawasborninJiangsuProvince,China,in1965.HereceivedtheB.S.E.degreeinUnderwaterAcousticElectricalEngineeringandtheM.S.E.andPh.D.degreesinSignalandInformationprocessingfromSoutheastUniversity,Nanjing,China,in1986,1989and1992,respectively.&nbsp;
+In1992,hejoinedtheDepartmentofBiomedicalEngineeringofZhejiangUniversityasapostdoctorresearchfellowincooperationwithProf.LvWeixueanddidsomeresearchworksinthefieldofmedicalimagereconstructionfromincompleteprojections.In1994,Heformallyjoinedthisdepartmentasafaculty.HewasalsoaseniorvisitingscholaratBiomedicalEngineeringResearchCenterofNanyangTechnologicalUniversityofSingaporefromOct.2001toDec.2001,andtheCenterforBioinformaticsofHarvardMedicalSchool,USAfromAugust,2006toOctober,2006,respectively.NowheisafullprofessorofDepartmentofBiomedicalEngineering(BME),ZhejiangUniversity,Hangzhou,China.
+Dr.XiahasservedintheTechnicalProgramCommitteeofseveralinternationalconferencesorworkshopsandalsoservedasthegeneralsecretaryofIEEE-EMBSAsia-PacificConferenceonBiomedicalEngineering,in2000,Hangzhou,China.
+Dr.XiaisaseniormemberofIEEEandservedasaMemberofEditorialBoardofFrontiersofElectricalandElectronicEngineeringinChina,JournalofBiomedicalEngineeringandChineseJournalofBiomedicalEngineering,respectively.Heisalsothereviewersofsomejournals,suchasBiomedicalEngineeringOnline,ChineseJournalofElectronics,ChineseJournalofBiomedicalEngineering,SpaceMedicineandMedicalEngineering,JournalofTsinghuaUniversity,JournalofComputer-aidedDesignandGraphics,etc.
+Hismainresearchinterestsnowincludecomputer-aideddiagnosisonmedicalimages(suchasmammograms,colonscopicimages,microscopicimages,urinarysediment,etc.),medicalimageprocessingandanalysis,content-basedmedicalimageretrievalandcomputerapplicationandsoon.Hehasauthoredorco-authoredover160peer-reviewedtechnicalpublications,amongwhichmorethan50papershavebeenindexedbySCI(ScienceCitationIndex),EI(EngineeringIndex）.&nbsp;
+
+
+&nbsp;
+			
+				
+			工作研究领域
+			
+			生物医学信息、成像技术及图像处理、计算机辅助医学影像诊断技术、计算机在医学中的应用
+			
+				
+			联系方式
+			
+						电子信箱：srxia@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：夏顺仁
+		单位：生物医学工程与仪器科学学院生物医学工程学系
+		职称：教授，博导
+		我的主页共被访问了41395次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	奖励荣誉
+	实验室介绍
+	招生信息
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,220 @@
+
+
+
+
+
+浙江大学陈惠芳副教授的个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0000124";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	浙江大学陈惠芳副教授的个人主页
+宁静致远
+
+	永久链接:http://mypage.zju.edu.cn/chenhuifang&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			2000年4月获浙江大学通信与信息系统博士学位
+2000年7月~浙江大学信息与电子工程学系教学与科研工作
+2005年10月~2007年9月&nbsp;中国留学基金委公派日本文部科学省资助&nbsp;日本静冈大学博士后研究
+主要研究方向是无线网络、水声网络和网络安全，研究工作获国家自然科学基金、科技部863项目、工信部重大专项项目、浙江省科技计划项目、企事业单位合作研发项目等经费支持，详见&ldquo;工作研究项目&rdquo;。
+			
+				
+			工作研究领域
+			
+			无线网络，水声网络，网络安全
+			
+				
+			联系方式
+			
+			电话：87951820转217			电子信箱：chenhf@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：陈惠芳
+		单位：信息与电子工程学系
+		职称：副教授
+		我的主页共被访问了90484次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	专利成果
+	研制的原型/产品
+	奖励荣誉
+	实验室&课题组
+	指导研究生（在读）
+	指导研究生（毕业）
+	指导本科生毕业设计
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	XieLei'shomepage
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

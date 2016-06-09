@@ -1,0 +1,224 @@
+
+
+
+
+
+Hu,Peng-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0012120";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	Hu,Peng
+
+
+	Permanentlink:http://mypage.zju.edu.cn/en/penghu&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			
+2012.08-present,Lecturer,OceanCollege,ZhejiangUniversity,China
+Email:pengphu@zju.edu.cn
+Education
+2013.06,&nbsp;Ph.D.,HydraulicEngineering,WuhanUniversity,China
+2012.06,&nbsp;Ph.D.,CivilEngineering,Heriot-WattUniversity,UK
+2007.06,&nbsp;B.S.,&nbsp;HydraulicEngineering,WuhanUniversity,China
+Researchinterests:Fluvialandcoastalmorphodynamics,Nonuniformsedimenttransport,Turiditycurrents,&nbsp;Swashzone
+
+Journalpublications&nbsp;(*Correspondingauthor)
+
+*Li,Z.,Cao,Z.,Pender,G.,andHu,P.(2014).Numericalanalysisofadaptation-to-capacitylengthforfluvialsedimenttransport.JournalofMountainScience,inpress.(SCI).
+*Hu,P.,Cao,Z.,Pender,G.,Liu,H.(2014).NumericalModellingofriverbedgrainsizestratigraphicevolution.&nbsp;InternationalJournalofSedimentResearch,inpress.(SCI)
+李志晶,曹志先,胡鹏,GarethPender.(2013).风沙与水沙运动多重时间尺度与深度积分模式.力学学报,45(2),158-163.
+*Hu,P.,Cao,Z.,andPender,G.(2012).Well-balanced2Dcoupledmodellingofsubmarineturbiditycurrentsandtheirmorphologicaleffects.MaritimeEngineering,InstitutionofCivilEngineersUK,doi:10.1680/maen.2010.12.(SCI)
+*Hu,P.,Cao,Z.,Pender,G.,andTan,G.M.(2012).NumericalmodellingofturbiditycurrentsinXiaolangdiReservoir,YellowRiver,China.JournalofHydrology,Elsevier,464-465,41-53.(SCI,ZJUTop)
+*Cao,Z.,Li,Z.,Pender,G.,andHu,P.(2012).Non-capacityversuscapacitymodelforfluvialsedimenttransport.WaterManagement,InstitutionofCivilEngineersUK,165,193-211.(SCI)
+*Cao,Z.,Hu,P.,andPender,G.(2011).Multipletimescalesoffluvialprocesseswithbedloadsedimentandtheirimplicationsformathematicalmodelling.JournalofHydraulicEngineering,ASCE,137(3),267-276.(SCI,ZJU100)
+*Cao,Z.,Pender,G.,andHu,P.(2011).Multipletimescalesoffluvialprocesses-theoryandapplications.Theoretical&amp;AppliedMechanicsLetters,ChineseSocietyofTheoreticalandAppliedMechanics,1,DOI:10.1063/2.1105201.
+*Cao,Z.,Hu,P.,andPender,G.(2010).Reconciledbedloadsedimenttransportratesinephemeralandperennialrivers.EarthSurfaceProcessesandLandforms,Wiley,35(14),1655-1665.(SCI)
+Hu,P.,and*Cao,Z.(2009).Fullycoupledmathematicalmodellingofturbiditycurrents.AdvancesinWaterResources,Elsevier,32(1),1-15.(SCI,ZJUTop)
+*Cao,Z.,andHu,P.(2008).Commenton&lsquo;Longwavesinerodiblechannelsandmorphodynamicinfluence&rsquo;byStefanoetal.WaterResourcesResearch,AGU,44(W06601),DOI:10.1029/2006WR005829.(SCI,ZJUTop)
+
+
+
+
+
+Conference/Seminar/Workshop(*presenter)
+
+*Hu,P.,Cao,Z.,andPender,G.(2013).Physically-basedmodelingofturbiditycurrentsandsubmarinemorphologicalsignatures.The2013AGUFallMeeting,December09-13,SanFrancisco,USA.Posterpresentation,abstract.
+*胡鹏，曹志先，GarethPender.(2013).异重流内水跃的耦合数值模拟.中国力学学会年会,8月18日-21日,中国西安.口头报告,全文.
+*Li,Z.,Cao,Z.,Hu,P.,andPender,G.&nbsp;(2013).Adaptation-to-capacitylengthforfluvialsedimenttransport.The35thIAHRWorldCongress,September09-14,Chengdou,China.Oralpresentation,fullpaper.
+*胡鹏，曹志先，GarethPender.(2012).异重流演化机理与耦合数值模拟研究.全国环境力学学术研讨会暨专业委员会年会,9月13-17日，中国乌鲁木齐.口头报告,摘要.
+*Hu,P.,Cao,Z.,andPender,G.(2012).Coupledmodellingofturbiditycurrentsovererodiblebeds.The25thScottishFluidMechanicsMeeting,May30,Edinburgh,UK.Oralpresentation,abstract.
+*Li,Z.,Cao,Z.,Pender,G.,andHu,P.(2011).Acomparativestudyofcapacityandnon-capacitymodelsforbedloadsedimenttransportbyunsteadyflows.The34thIAHRWorldCongress,June26-July01,Brisbane,&nbsp;Australia.Oralpresentation,fullpaper.
+*Cao,Z.,Pender,G.,andHu,P.(2011).Multiscalesediment-ladenflowtheoryanditsapplicationinfloodriskmanagement.The6thInternationalConferenceonFluidMechanics&nbsp;Location,&nbsp;June30-July03,Guangzhou,China.Invitedoralpresentation,fullpaper.
+*Hu,P.(2009).Coupledtwodimensionalmathematicalmodellingofturbiditycurrentsovererodiblebed.TheIAHR&nbsp;UKSectionAnnualMeetingandYoungPersons'PaperCompetition,September09,MeresideConferenceSuite,UnitedUtilities,UK.Oralpresentation,fullpaper,winnerintheacedamiccategory.
+*Hu,P.,andCao,Z.(2008).Numericalmodellingofhyperconcentratedturbiditycurrents.The8thInternationalConferenceonHydroscience&amp;HydraulicEngineering,September8-12,Nagoya,Japan.Invitedhonorablepresention,fullpaper.
+Hu,P.,and*Cao,Z.(2008).Multipletimescalesofturbiditycurrentsandtheirimplicationsformathematicalmodelling.The3rdSino-AmericanWorkshoponAdvancedComputationalModellinginHydroscience&amp;Engineering,May10-15,Hawaii,USA.Oralpresentation,fullpaper.&nbsp;
+
+			
+					
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:Hu,Peng
+		Units:OceanCollege,ZhejiangUniversity
+		Title:Lecturer
+		Myhomepagehasbeenvisited1958times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	
+
+
+Youarevisitor:1958
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

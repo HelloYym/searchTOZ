@@ -1,0 +1,220 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0094473";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0094473&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			一、工作经历：
+1．1993年8月至今一直在浙江大学药学院药理与毒理研究室工作，从事肿瘤药理、中药药理、生殖药理以及药物毒理学等方面的研究。
+2．2002年9月－2003年10月，作为访问学者在美国南加州大学工作1年，主要进行细胞分化和细胞周期调控等方面的研究。
+二、教育经历：
+1．2001.3－2005.3，浙江大学生物医学工程与仪器科学学院，生物医学工程博士。
+2．1995.9－1999.7，浙江大学药学院，药理学硕士。
+3．1989.9－1993.7，原浙江医科大学药学系，药学学士。
+三、学术兼职：
+1.&nbsp;中国抗癌协会抗癌药物专业委员会委员。
+2.&nbsp;浙江省药学会药理专业委员会副主任委员兼秘书。
+3.&nbsp;《中华医药杂志》常务编委。
+			
+				
+			工作研究领域
+			
+			1、肿瘤分子药理学
+2、细胞分化与细胞周期调控
+3、各类中药与西药新药的研制开发
+
+			
+				
+			联系方式
+			
+			电话：87217206			电子信箱：qiaojun_he@yahoo.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：何俏军
+		单位：药学院药学系
+		职称：教授
+		我的主页共被访问了7977次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	专利成果
+	奖励荣誉
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,215 @@
+
+
+
+
+
+Livewithadream-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0003278";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	Livewithadream
+生活本身就是一个美丽的梦
+
+	永久链接:http://mypage.zju.edu.cn/yangweijuan&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+女，1976年出生。2003年毕业于浙江大学获博士学位，2008年晋升为副教授。2011-2012年在北京国家科技部高新司借调工作，2013.8-2014.8月在美国普渡大学化工系访学。
+主要从事能源与环境领域的基础及技术研究，具体包括煤粉清洁高效燃烧及氮氧化物控制、微尺度气体/液体燃料燃烧及能源系统，和镁、铝、锂金属在O2/Air/H2O等气氛下的燃料及能量利用三个主要方向。
+主持负责了国家自然科学基金、863项目、国防973项目专题、973课题子题、支撑计划课题子题、浙江省自然科学基金、浙江大学基本科研业务费专项、企业重大横向项目等10余项。获2006年度煤炭工业十大科学技术成果奖，2004年玉溪市科学技术奖二等奖，2007年浙江省科学技术奖一等奖，2009年国家科技进步奖二等奖。获发明专利20余项，计算机软件著作权2项，发表学术论文百余篇，其中SCI论文27篇，EI论文50余篇。指导&ldquo;全国大学生节能减排大赛&rdquo;项目1项并获二等奖，浙江大学2004～2005学年春夏学期优秀班主任，2013年入选浙江省151人才工程。
+&nbsp;联系信息：电话：0571-87952040，传真：0571-87951616，邮箱：yangwj@zju.edu.cn
+
+			
+				
+			工作研究领域
+			
+			煤粉清洁高效燃烧及氮氧化物控制；
+微尺度气体/液体燃料燃烧及能源系统；
+镁、铝、锂金属在O2/Air/H2O等气氛下的燃料及能量利用；
+			
+				
+			联系方式
+			
+						电子信箱：yangwj@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：杨卫娟
+		单位：能源工程学系
+		职称：副教授
+		我的主页共被访问了7049次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	专利成果
+	奖励荣誉
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

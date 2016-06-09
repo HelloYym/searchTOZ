@@ -1,0 +1,291 @@
+
+
+
+
+
+Yingzhu-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0010726";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	Yingzhu
+
+
+	Permanentlink:http://mypage.zju.edu.cn/en/yingzhu&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			WorkExperience
+2013&ndash;Present&nbsp;AssociateProfessor&nbsp;inAnalyticalChemistry,&nbsp;ZhejiangUniversity
+2015.3&ndash;2015.6VisitingResearchScientist&nbsp;inDepartmentofchemistryandappliedbioscience(AnalyticalChemistry),ETHZurich
+2012.1&ndash;2012.4VisitingResearchScientist&nbsp;inDepartmentofChemistry(PharmaceuticalChemistry),NationtialUniversity&nbsp;of&nbsp;Singapore
+&nbsp;
+EDUCATION
+&nbsp;
+2010&ndash;2013PostdoctoralResearcherinAnalyticalChemistry,ZhejiangUniversity
+&nbsp;
+Project:HighThroughputSingleCellAnalysisBasedonDropletMicrofluidicsandElectrosprayIonizationMass&nbsp;Spectrometry
+&nbsp;
+SupervisedbyProf.QunFang
+&nbsp;
+2005-2010&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PhDinAnalyticalChemistry,ZhejiangUniversity
+&nbsp;
+PhDThesis:MassSpectrometryandLiquidChromatographyAnalysisBasedonMicrofluidicDropletSystems
+&nbsp;
+SupervisedbyProf.QunFang
+&nbsp;
+2001-2004&nbsp;BachelorofChemistry,ZhejiangUniversity
+&nbsp;
+Graduationthesis:LED-inducedfluorescencedetectorformicrofluidicchip
+&nbsp;
+SupervisedbyProf.QunFang
+&nbsp;
+RESEARCHEXPERIENCES
+&nbsp;
+
+Droplet-BasedMicrofluidics
+
+&nbsp;
+
+
+Developmentofelectrosprayionizationmassspectrometry-basedmethodforlabel-freedetectionofdropletusinganintegratedglassmicrochip.
+Highthroughputandnano-volumescreeningofproteincrystallizationwithDropLab.
+Highthroughputandnano-volumescreeningofenzymeinhibitorswithsolution-phasemicroarray.
+Developmentoflaserinducedfluorescenceandfluorescenceimaging-basedmethodforhigh-throughputdetectingthedropletsinmicrocapillaryandmicroarray.
+Evaluationtheeffectoftheoilandsurfactantonthenano-volumedropletmicroreactions.
+Surfacemodificationforreliablegenerationandextractionaqueousdroplets.
+
+
+&nbsp;
+&nbsp;
+
+ElectrosprayIonizationMassSpectrometry
+
+&nbsp;
+
+
+FabricationofmonolithicelectrosprayemitteronglasschiptointerfacethechiptoESI-MS
+Developmentoflow-melting-pointmicroelectrodeonglasschiptoachievethehigh-voltagecontactofESI-MS
+DevelopmentofnovelnanospraycapillarytipstointegrateHPLCwithESI-MSforhighthroughputscreening
+
+
+&nbsp;
+&nbsp;
+
+Laser-InducedFluorescenceDetection
+
+&nbsp;
+
+
+Developmentofultra-sensitiveLIFdetectorbasedconfocalopticaldesign.
+Writingultra-highspeed(&gt;10kHz)dataacquisitionsoftwarewithLabviewforhigh-throughputdetectingthedroplets.
+MinimizationoftheLIFdetectorforportableanalyticaldevicebasedonorthogonalandconfocalopticaldesign.
+
+
+&nbsp;
+&nbsp;
+SKILLS
+&nbsp;
+
+FabricationofglassandPDMSmicrofluidicchips.
+Conductingelectrosprayionizationmassspectrometryanalysiswithmicrochipemittersortaperedcapillaryemitters&shy;&shy;.
+Design,mechanicalfabrication,andbuildingtheopticaldetectionsystems.
+
+
+Labviewprogrammingfordataandimageacquisition,instrumentcommunicationandcontrol,andonlineprocessing.
+Liquidchromatographyandcapillaryelectrophoresis-basedchemicalseparationwithmicrochipsorfused-silicacapillaries.
+Englishreading,writingandcommunicationskills.
+Multimediadesignsoftware(CorelDRAW,Photoshop,VideoStudio,SolidWorks).
+
+&nbsp;
+SUMMARYOFFUNDINGANDAWARDS
+&nbsp;
+[1].2011NaturalScienceFoundationofChinafundedproject
+Title:Singlecellenzymeassaybasedondropletmicrofluidicsandelectrosprayionizationmassspectrometry
+[2].2011ChinaPostdoctoralScienceFoundationfundedproject
+Title:Picoliter-scalehighthroughputscreeningsystembasedondropletmicrofluidics
+[3].2010BestPosterAwardsin&ldquo;The6thNationalConferenceonMicro-TotalAnalyticalSystems&rdquo;
+[4].2008FangZhao-LunYoungScientistBestPosterAwardsin&ldquo;The5thNationalConferenceonMicro-TotalAnalyticalSystems&rdquo;
+[5].2005Firstclassscholarship;All-roundstudent.
+[6].2002Secondclassscholarship;All-roundstudent.
+&nbsp;
+			
+				
+			Researchwork
+			
+			(1)Dropletbasedmicrofluidics;(2)ElectrosprayMS;(3)LIFdetector;(4)Singlecellanalysis
+			
+				
+			Contact
+			
+			Phone:
+			E-mail:yingzhu@zju.edu.cn
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:Yingzhu
+		Units:Departmentofchemistry
+		Title:AssociateProfessor
+		Myhomepagehasbeenvisited2314times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+Publication
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	
+
+
+Youarevisitor:2314
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

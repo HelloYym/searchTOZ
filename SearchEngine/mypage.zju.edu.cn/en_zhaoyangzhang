@@ -1,0 +1,340 @@
+
+
+
+
+
+ZhaoyangZhang'sHomepage-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0098198";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	ZhaoyangZhang'sHomepage
+Keepthinking...
+
+	Permanentlink:http://mypage.zju.edu.cn/en/zhaoyangzhang&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			Blog
+
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			&nbsp;
+ZhaoyangZHANG
+
+
+
+Professor,Dept.ofInformationScienceandElectronicEngineering,ZhejiangUniversity
+Director,Institute&nbsp;ofInformation&nbsp;andCommunicationEngineering,ZhejiangUniversity
+Director,ProvincialKeyResearchLabofInformationNetworks,Zhejiang,China
+
+
+
+Editor,IEEETransactionsonCommunications
+
+
+Editor,IETCommunications
+&nbsp;
+
+Address:No.38ZhedaRoad,Hangzhou310027
+Telephone:+86-571-87952060
+OfficeFax:&nbsp;+86-571-87952060
+Email:ning_ming@zju.edu.cn;&nbsp;&nbsp;zhaoyangzhang@ieee.org
+Homepage:http://mypage.zju.edu.cn/zhaoyangzhang&nbsp;(中文)
+
+
+&nbsp;
+
+&nbsp;
+Education
+
+Sept.1994&ndash;Oct.1998:&nbsp;&nbsp;Ph.D.&nbsp;inCommunicationandInformationSystems,ZhejiangUniversity,Hangzhou,China
+Sept.1990&ndash;Jul.1994:&nbsp;&nbsp;&nbsp;B.Sc.MajorinRadioTechnologyandMinorinComputerEngineering,ZhejiangUniversity,Hangzhou,China
+&nbsp;
+Honors&amp;Awards&nbsp;&nbsp;&nbsp;
+
+WinnerofZhejiangProvincial&nbsp;NewCentury&quot;151&quot;TalentProject(TopLevel),2014
+WinnerofZhejiangProvincialNaturalScience&nbsp;Fundfor&nbsp;DistinguishedYoung&nbsp;Scholar,&nbsp;2012
+Winnerofthe&nbsp;EducationMinistry's&nbsp;SupportingProgramfor&nbsp;NewCenturyExcellentTalentinUniversity,2009
+BestPaperAwards,&nbsp;Chinacom&rsquo;2008andWCSP&rsquo;2013
+BestStudentPaperAward(Supervisor),Chinacom&rsquo;2011
+3rd&nbsp;GradeAward&nbsp;for&nbsp;Advancementof&nbsp;ScienceandTechnology,MinistryofInformationIndustry,China,1999
+1st&nbsp;GradeAward&nbsp;for&nbsp;Advancementof&nbsp;ScienceandTechnology,EducationOfficeofZhejiangProvince,China,1999
+
+
+ResearchInterests
+
+
+
+
+
+Mainlyfocusedonthefundamentalaspects&nbsp;of&nbsp;wirelesscommunicationsandnetworking,&nbsp;signalandinformationprocessing,withemphasison
+
+Informationtheoryandcodingtheory
+Signalprocessingforcommunicationsandinnetworks
+5Gwirelessnetworking:&nbsp;smallcells,&nbsp;massive&nbsp;MIMO,andmassiveaccess
+Information-and-computation-theoreticanalysis
+Wirelessenergyandinformation&nbsp;transmission&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+SelectedJournalPublications
+
+
+
+
+
+
+
+
+
+
+J54.&nbsp;CaijunZhong,GanZheng,ZhaoyangZhang,andGeorgeKaragiannids,&ldquo;Optimumwirelesslypoweredrelaying,&rdquo;IEEESignalProcessingLetters,acceptedforpublication.
+J53.&nbsp;RuiYin,CaijunZhong,GuandingYu,ZhaoyangZhang,KaiKitWong,andXiaomingchen,&ldquo;JointSpectrumandPowerAllocationforD2DCommunicationsUnderlayingCellularNetworks,&rdquo;IEEETransactionsonVehicularTechnology,acceptedforpublication.
+
+J52.LiangZhang,ZhaoyangZhang,XianbinWang,CaijunZhong,andLiPing,&ldquo;SimplifiedSuccessive-CancellationDecodingUsingInformationSetReselectionforPolarCodeswithArbitraryBlock-Length,&rdquo;IETCommunications,acceptedforpublication(Jan27,2015).
+J51.&nbsp;GuangxuZhu,CaijunZhong,HimalSuraweera,GeorgeK.Karagiannids,ZhaoyangZhang,andTheodorosTsiftsis,&quot;Wirelessinformationandpowertransferinrelaysystemswithmultipleantennasandinterference,&quot;IEEETransactionsonCommunications,acceptedforpublication(Jan.21,2015).
+J50.XiaomingChen,ZhaoyangZhang,Hsiao-HwaChen,andHuaziZhang,&ldquo;EnhancingWirelessInformationandPowerTransferbyExploitingMulti-AntennaTechniques,&rdquo;IEEECommunicationsMagazine,acceptedforpublication(Jan.10,2015).
+J49.YuZhang,LiPing,ZhaoyangZhang,&ldquo;LowCostPre-coderDesignforMIMOAFTwo-wayRelayChannel,&rdquo;IEEESignalProcessingLetters,acceptedforpublication(Nov.19,2014).
+J48.RuiYin,GuandingYu,HuaziZhang,ZhaoyangZhang,andGeoffreyYeLi,&ldquo;Pricing-basedInterferenceCoordinationforD2DCommunicationsinCellularNetworks,&rdquo;IEEETransactionsonWirelessCommunications,acceptedforpublication(Oct.30,2014).
+J47.&nbsp;CaijunZhong,HimalA.Suraweera,GanZheng,IoannisKrikidis,andZhaoyangZhang,&ldquo;WirelessInformationandPowerTransferwithFullDuplexRelaying,&rdquo;IEEETransactionsonCommunications,acceptedforpublication(Sept7,2014).
+J46.ShengtianYang,ThomasHonold,YanChen,ZhaoyangZhang,andPeiliangQiu,&ldquo;ConstructingLinearEncoderswithGoodSpectra,&rdquo;IEEETransactionsonInformationTheory,acceptedforpublication(July9,2014).
+J45.GuangxuZhu,CaijunZhong,HimalA.Suraweera,ZhaoyangZhang,ChauYuen,andRuiYin,&quot;ErgodicCapacityComparisonofDifferentRelayPrecodingSchemesinDual-HopAFSystemsWithCo-ChannelInterference,&rdquo;IEEETransactionsonCommunications,acceptedforpublication(May27,2014).
+J44.YuyiMao,GuandingYu,andZhaoyangZhang,&ldquo;OntheOptimalTransmissionPolicyinHybridEnergySupplyWirelessCommunicationSystems,&rdquo;IEEETransactionsonWirelessCommunications,Vol.13,No.11,pp.6422-6430,Nov.2014.
+
+J43.NaveedUlHassan,ShayanSaeed,ChauYuen,andZhaoyangZhang,&ldquo;PowerControlforSumRateMaximizationonInterferenceChannelsUnderSumPowerConstraint,&rdquo;IEEETransactionsonVehicularTechnology,acceptedforpublication(May11,2014).
+
+J42.CaijunZhong,TharmRatnarajah,ZhaoyangZhang,Kai-KitWong,andMathiniSellathurai,&ldquo;PerformanceofRayleigh-ProductMIMOChannelswithLinearReceivers,&rdquo;IEEETransactionsonWirelessCommuications,acceptedforpublication(Jan.16,2014).
+J41.&nbsp;GuangxuZhu,CaijunZhong,HimalA.Suraweera,ZhaoyangZhang,andChauYuen,&ldquo;OutageProbabilityofDual-HopMultipleAntennaAFSystemswithLinearProcessinginthePresenceofCo-ChannelInterference,&rdquo;IEEETransactionsonWirelessCommunications,acceptedforpublication(Dec31,2013).
+J40.XiaomingChen,ZhaoyangZhang,andChauYuen,&ldquo;ResourceAllocationforCostMinimizationinLimitedFeedbackMU-MIMOSystemswithDelayGuarantee&rdquo;,IEEESystemsJournal,acceptedforpublication(Nov.5,2013).
+J39.XiaomingChen,ZhaoyangZhang,andChauYuen,&ldquo;AdaptiveModeSelectioninMultiuserMISOCognitiveNetworkswithLimitedCooperationandFeedback&rdquo;,IEEETransactionsonVehicularTechnology,acceptedforpublication(Oct.16,2013).
+
+J38.HuaziZhang,ZhaoyangZhang,andHuaiyuDai,&ldquo;Gossip-basedInformationSpreadinginMobileNetworks&rdquo;,IEEETransactionsonWirelessCommunications,Vol.12,No.11,pp.5918-5928,Nov.2013.
+J37.XiaomingChen,ChauYuen,andZhaoyangZhang,&ldquo;WirelessEnergyandInformationTransferTradeoffforLimitedFeedbackMulti-antennaSystemswithEnergyBeamforming,&rdquo;&nbsp;IEEETransactionsonVehicularTechnology,acceptedforpublication(24July,2013).
+J36.ChunguangLi,PengchengShen,YingLiu,andZhaoyangZhang,&ldquo;DiffusionInformationTheoreticLearningforDistributedEstimationoverNetwork,&rdquo;IEEETransactionsonSignalProcessing,Vol.61,No.16,pp.4011-4024,August2013.
+J35.YuZhang,ZhaoyangZhang,RuiYin,WeiWang,andGuandingYu,&ldquo;JointNetwork-ChannelCodingwithRatelessCodeinTwo-WayRelaySystems,&rdquo;IEEETransactionsonWirelessCommunications,Vol.12,No.7,pp.3158-3169,July2013.
+J34.&nbsp;ShaoleiChen,ZhaoyangZhang,LiangliangZhu,KediWu,andXiaomingChen,&ldquo;AccumulateRatelessCodesandTheirPerformancesoverAWGNChannel,&rdquo;IETCommunications,Vol.7,Iss.4,pp.372&ndash;381,Mar.2013.
+
+J33.&nbsp;&nbsp;HuaziZhang,ZhaoyangZhang,andHuaiyuDai,&ldquo;OntheCapacityRegionofCognitiveMultipleAccessoverWhiteSpaceChannels,&rdquo;IEEEJournalonSelectedAreasinCommunications,Vol.31,No.11,pp.2517-2527,Nov.2013.
+J32.&nbsp;YuZhang,andZhaoyangZhang,&ldquo;JointNetwork-ChannelCodingwithRatelessCodeoverMultipleAccessRelaySystem,&rdquo;IEEETransactionsonWirelessCommunications,Vol.12,No.1,pp.320-332,Jan.2013.&nbsp;&nbsp;
+J31.&nbsp;ShaoleiChen,ZhaoyangZhang,RuiYin,XiaomingChen,andWeiWang,&ldquo;ConcatenatedChannel-and-NetworkCodingSchemeforTwo-PathSuccessiveRelayNetwork,&rdquo;IETCommunications,Vol.7,No.1,pp.82-90,Jan.2013.
+J30.&nbsp;&nbsp;ShaoleiChen,ZhaoyangZhang,WentaoLou,andXiaomingChen,&ldquo;AdaptiveCodeSymbolAssignmentinARatelessCodedMulti-ChannelCognitiveRadioNetwork,&rdquo;acceptedbyInternationalJournalofCommunicationSystems(Oct.7,2012).
+J29.&nbsp;YuZhang,ZhaoyangZhang,andRuiYin,&ldquo;OntheCapacityBoundsofNon-RestrictedGaussianAmplify-and-ForwardTwo-WayRelayChannel,&rdquo;&nbsp;IEEECommunicationsLetters,Vol.16,Issue.10,pp.1540-1543,Oct.2012.
+
+J28.CaijunZhong,HimalA.Suraweera,AipingHuang,ZhaoyangZhang,andChauYuen,&ldquo;OutageProbabilityofDual-HopMultipleAntennaAFRelayingSystemswithInterference,&rdquo;IEEETransactionsonCommunications,Vol.61,No.1,pp.108-119,Jan.2013.
+
+J27.CaijunZhong,MichailMatthaious,AipingHuang,andZhaoyangZhang,&ldquo;OntheSumRateofMIMONakagami-mFadingChannelswithLinearReceivers,&rdquo;IEEETransactionsonWirelessCommunications,Vol.11,Issue.10,pp.3651-3659,Oct.2012.
+
+
+
+J26.&nbsp;YingLiu,ChunguangLi,WallaceKit-SangTang,andZhaoyangZhang,&ldquo;DistributedEstimationoverComplexNetworks,&rdquo;InformationSciences,Vol.197,pp.91-104,Aug.2012.
+J25.&nbsp;YingLiu,ChunguangLi,andZhaoyangZhang,&ldquo;DiffusionSparseLeast-MeanSquaresoverNetworks&rdquo;,IEEETransactionsonSignalProcessing,Vol.60,No.8,pp.4480-4485,Aug.2012.
+
+
+J24.RuiYin,ZhaoyangZhang,GuandingYu,YuZhang,andYanfangXu,&ldquo;PowerAllocationforRelay-AssistedTDDCellularSystemwithDynamicFrequencyReuse&rdquo;,IEEETransactionsonWirelessCommunications,Vol.11,No.7,pp.2424-2435,July2012.
+J23.ChauYuen,SumeiSun,MelHo,andZhaoyangZhang,&ldquo;BeamformingMatrixQuantizationwithVariableFeedbackRate,&rdquo;EURASIPJournalonWirelessCommunicationsandNetworking2012:200,doi:10.1186/1687-1499-2012-200,Jun.21,2012.
+
+J22.CaijunZhong,MichailMatthaiou,GeorgeK.Karagiannidis,AipingHuang,andZhaoyangZhang,&ldquo;CapacityBoundsforAFDual-hopRelayingin$$FadingChannels,&rdquo;IEEETransactionsonVehicularTechnology，Vol.61,No.4,pp.1730-1740,May2012.
+J21.XiaomingChen,ZhaoyangZhang,andShaoleiChen,&ldquo;Finite-SNRDiversity-Multiplexing-RateTradeoffinLimitedFeedbackBeamformingSystemswithImperfectCSI,&rdquo;IETCommunications,Vol.6,No.7,pp.751-758,May2012.
+
+J20.JianminZhang,ZhaoyangZhang,HaiyanLuo,WeiWang,andGuandingYu,&ldquo;InitialSpectrumAccessControlwithQoSProtectionforActiveUsersinCognitiveWirelessNetwork&rdquo;,InternationalJournalofCommunicationSystems,Vol.25,No.5,pp.636-651,May2012.
+J19.XiaomingChen,ZhaoyangZhang,ShaoleiChen,andChaoWang,&quot;AdaptiveModeSelectionforMultiuserMIMODownlinkEmployingRatelessCodeswithQoSProvisioning,&quot;IEEETransactionsonWirelessCommunications,Vol.11,No.2,pp.790-799,Feb.2012.
+J18.RuiYin,YuZhang,GuandingYu,ZhaoyangZhang,andJietaoZhang,&ldquo;ResourceAllocationinMulti-channelMulti-userRelaySystemwithFairnessConstraints&rdquo;,SpringerWirelessPersonalCommunications,Volume62,Number4,pp.831-858,Feb.2012.
+J17.ShengtianYang,ThomasHonold,YanChen,ZhaoyangZhang,andPeiliangQiu,&ldquo;WeightDistributionsofRegularLow-DensityParity-CheckCodesoverFiniteFields&rdquo;,IEEETransactionsonInformationTheory,Vol.57,No.11,pp.7507-7521,Nov.2011.
+J16.ZhaoyangZhang,HaiyanLuo,JianminZhang,WeiWang,andGuandingYu,&quot;CognitiveRadioTransmissionStrategiesExploitingthePrimaryLinkAdaptivity&quot;,IEEETransactionsonVehicularTechnology,Vol.60,No.8,pp.3805-3813,Oct.2011.
+J15.&nbsp;JianminZhang,ZhaoyangZhang,andAipingHuang,&quot;JointChannel,RateandPowerAllocationinOFDMA-basedCognitiveWirelessMeshNetwork,&quot;SpringerWirelessPersonalCommunications,Vol.57,No.4,pp.501-520,March2011.
+J14.&nbsp;XiaomingChen,andZhaoyangZhang,&ldquo;ExploitingChannelAngularDomainInformationforPrecoderDesigninDistributedAntennaSystems&rdquo;,IEEETransactionsonSignalProcessing,Vol.58,No.11,Nov.2010.
+J13.XiaomaoMao,HuifangChen,PeiliangQiu,andZhaoyangZhang,&ldquo;Energy-efficientschedulingformultipleaccessinwirelesssensornetworks:Ajobschedulingmethod&rdquo;,ElsevierComputerNetworks(2010),Vol.54,Issue.13,pp.2137-2146,Sept.2010.
+J12.HaiyanLuo,ZhaoyangZhang,YanChen,WeiWang,andShijuLi,&ldquo;OpportunisticCognitiveRelaying:AWin-WinSpectrumSharingScheme&rdquo;,EURASIPJournalonWirelessCommunicationsandNetworking,Volume2010,ArticleID263405,11pages,doi:10.1155/2010/263405,July2010.
+J11.XiaomingChen,ZhaoyangZhang,andHsiao-HwaChen,&ldquo;OnDistributedAntennaSystemswithLimitedFeedbackPrecoding&ndash;OpportunitiesandChallenges&rdquo;,IEEEWirelessCommunications,Vol.17,No.2,pp.80-88,April2010.
+J10.FangDong,PeiliangQiu,andZhaoyangZhang,&ldquo;AngleRandomForwardingforWirelessSensorNetworks:PerformanceandRealization&rdquo;,WirelessCommunicationsandMobileComputing,Vol.9,No.7,pp.988-1004,July2009.
+J09.ZhaoyangZhang,PengCheng,XiangweiZhou,andPeiliangQiu,&ldquo;SystemSynchronizationandChannelEstimationAnalysisforIEEE802.16eOFDMADownlinkSystem,&rdquo;InternationalJournalofCommunicationSystems,Volume22,Issue4,pp.375&ndash;398,April2009.
+J08.PengCheng,ZhaoyangZhang,GuandingYu,Hsiao-HwaChen,andPeiliangQiu,&ldquo;Cross-layerBandwidthandPowerAllocationforaTwo-hopLinkinWirelessMeshNetwork,&rdquo;WirelessCommunicationsandMobileComputing.Volume9,Issue2,pp.155-167,February2009.
+J07.YanChen,GuandingYu,ZhaoyangZhang,Hsiao-HwaChen,andPeiliangQiu,&ldquo;OnCognitiveRadioNetworkswithOpportunisticPowerControlStrategiesinFadingChannels&rdquo;,IEEETransactionsonWirelessCommunications，Vol.7,Issue.7,July2008.
+J06.ZhaoyangZhang,JingShi,Hsiao-HwaChen,MohsenGuizani,andPeiliangQiu,&ldquo;ACooperationStrategybasedonNashBargainingSolutioninCooperativeRelayNetworks&rdquo;,IEEETransactionsonVehicularTechnology,Vol.57,No.4,pp.2570-2577,July2008.
+J05.PengCheng,ZhaoyangZhang,Hsiao-HwaChen,andPeiliangQiu,&ldquo;OptimalDistributedJointFrequency,Rate,andPowerAllocationinCognitiveOFDMASystems,&rdquo;IETCommunications,vol.2,no.6,pp.815&ndash;826,July2008.
+J04.PengCheng,ZhaoyangZhang,Hsiao-HwaChen,andPeiliangQiu,&ldquo;AFrameworkofCross-layerDesignforMultipleVideoStreamsinWirelessMeshNetworks,&rdquo;ElsevierComputerCommunicationsSIonWirelessMeshNetworks,Volume31,Issue8,pp.1529-1539,May2008.
+J03.&nbsp;GuandingYu,ZhaoyangZhang,andPeiliangQiu,&ldquo;AdaptiveSubcarrierandBitAllocationinOFDMASystemsSupportingHeterogeneousServices&rdquo;,SpringerWirelessPersonalCommunications,Vol.43,No.4,pp.1057-1070,Dec.2007.
+J02.GuandingYu,ZhaoyangZhang,andPeiliangQiu,&ldquo;EfficientARQProtocolsforExploitingCooperativeRelayinginWirelessSensorNetworks&rdquo;,ElsevierComputerCommunications,Vol.30,No.14-15,pp.2765-2773,Oct.2007.&nbsp;
+
+
+J01.PengCheng,GuandingYu,ZhaoyangZhang,Hsiao-HwaChen,andPeiliangQiu,&ldquo;OntheAchievableRateRegionofGaussianCognitiveMultipleAccessChannel,&rdquo;IEEECommunicationsletters,vol.11,pp.384-386,May2007.
+
+
+
+
+
+
+
+
+&nbsp;
+&nbsp;
+
+&nbsp;
+			
+					
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:ZhaoyangZhang
+		Units:ZhejiangUniversity
+		Title:Professor
+		Myhomepagehasbeenvisited21788times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+ProfessionalServices
+Teaching
+StudentsandPostdocs
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	WCSP2013
+
+
+
+Youarevisitor:21788
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

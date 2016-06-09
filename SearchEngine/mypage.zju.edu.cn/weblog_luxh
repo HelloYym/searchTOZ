@@ -1,0 +1,336 @@
+
+
+
+
+
+陆璇辉的个人主页-博客
+
+
+
+
+
+
+varctxPath="http://mypage.zju.edu.cn";
+varb_handle="luxh";
+varcfg_weblog="http://mypage.zju.edu.cn/weblog";
+vard=newDate()
+varselyear=d.getFullYear();
+varselmonth=d.getMonth()+1;
+
+
+
+
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	color:#111;
+	margin-right:10px;	
+}
+#mainlinkullia,.tagsa:hover{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+.tagsa{
+	margin-right:10px;
+}
+img{
+	border:none;
+}
+
+
+
+
+
+
+
+
+
+
+	
+		首页
+		帮助
+		登录
+	
+
+
+
+
+
+
+	陆璇辉的个人主页
+浙大人
+
+	永久链接:http://mypage.zju.edu.cn/weblog/luxh&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+
+
+	中文主页
+英文主页
+			博客
+
+
+
+
+
+
+
+
+
+
+			
+				
+
+	
+[1/1]
+首页	上一页下一页末页
+
+	
+
+浏览模式:普通|列表
+
+
+
+
+
+
+		大学的人文精神
+
+作者:陆璇辉日期:2011-04-19Tuesday
+
+
+
+一所著名的大学应该有其独特的精神，教学风格，科研特点，学生的风貌，教授们的学识和风格，都会反映学校的人文精神。现在教育部搞考核评估，对那些刚刚成立的学校是管用的，但是全国所有的学校一刀切，就完全末杀了大学的个性和人文精神。哈佛因为有其精神而著名，M...
+查看更多...
+
+
+
+
+
+分类:默认分类|			固定链接|评论总数0|
+			阅读次数48
+
+
+
+
+
+
+
+		科研为了什么？
+
+作者:陆璇辉日期:2010-10-07Thursday
+
+
+
+科研为了什么？这个问题或许有许多答案。因为每个人都会从自身的动机出发，给出答案。有的为生存；有的为了出人头地；有的为了出名；有的为完成任务；有的为了好玩；有的是兴趣.........。其实不管什么动机都会出成果，只不过成果的水平和创新性会有很大的不同，如...
+查看更多...
+
+
+
+
+
+分类:默认分类|			固定链接|评论总数2|
+			阅读次数100
+
+
+			
+			
+		
+		
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+	
+	
+		姓名：陆璇辉
+		单位：物理学系
+		职称：教授
+		我共发表了2篇文章
+		共收到2条评论
+		我的主页共被访问了1073次
+	
+	
+	
+	
+
+
+我的文章分类
+
+	默认分类
+		
+xhlu
+		
+
+
+
+
+日历
+
+
+
+>>
+年月
+
+
+
+日
+一
+二
+三
+四
+五
+六
+
+
+
+
+
+
+
+
+
+
+
+我的最新文章
+
+
+		大学的人文精神
+科研为了什么？
+	
+
+
+
+
+我的热点文章
+
+
+				科研为了什么？
+		大学的人文精神
+
+	
+
+
+我收到的评论
+
+			
+
+	没有。所以大家都在...
+		
+
+	中国盼望大师出现。
+
+	
+
+
+我的文章汇总
+
+		2011年4月[1]
+		2010年10月[1]
+		
+	
+
+
+链接
+
+
+
+
+
+
+检索
+
+
+
+
+-所有文章-
+默认分类
+xhlu
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+
+
+varflag=newArray();
+flag[0]='2010/10/07';
+flag[1]='2011/04/19';
+
+
+varcale=newCalendar("idCalendar",{
+SelectDay:newDate(),
+onSelectDay:function(o),
+onToday:function(o),
+onFinish:function(){
+$("idCalendarYear").innerHTML=this.Year;$("idCalendarMonth").innerHTML=this.Month;
+for(vari=0,len=flag.length;i<len;i++){
+//alert(flag[i]);
+	vard=newDate(flag[i]);
+	if(this.Year==d.getYear()){
+		if(this.Month==d.getMonth()+1)
+		{
+this.Days[d.getDate()].innerHTML=""+d.getDate()+"";
+			
+		}
+
+	}
+}
+}
+});
+$("idCalendarPre").onclick=function()
+$("idCalendarNext").onclick=function()
+
+
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));

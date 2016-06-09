@@ -1,0 +1,249 @@
+
+
+
+
+
+浙江大学-李亚波-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0009059";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	浙江大学-李亚波
+YaboLi,ZhejiangUniversity
+
+	永久链接:http://mypage.zju.edu.cn/yaboli&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			本人已从浙江大学离职，目前在美国加州，继续从事无线通信相关领域研究，欢迎同学和朋友联系yaboli@gmail.com。
+李亚波博士，副教授，博士生导师，分别于1998年和2001年在西安交通大学获信息与通信工程学士和硕士学位，2005年在美国特拉华大学（UniversityofDelaware）获电子工程博士学位。2001年7月至2002年7月在朗讯科技北京贝尔实验室（Bell-Labs）任研究员（MemberofTechnicalStaff），2005年1月至2005年6月在美国三菱电子研究实验室（MERL：MitsubishiElectricResearchLabs）做研究实习，2005年12月至2007年5月在美国北电网络公司（NortelNetworks）任系统性能专家，2007年5月至2009年12月在美国SiBEAM公司任高级系统工程师。2011年5月至2011年8月在美国夏威夷大学（UniversityofHawaii）做访问教授。2009年12月起加入浙江大学信息与通信工程系任副教授。&nbsp;<spanstyle="font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin"/>
+<spanstyle="font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">&nbsp;&nbsp;&nbsp;主要研究领域为无线通信和通信信号处理，具体包括多天线MIMO<spanstyle="font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">和空时码，高性能调制解调理论和算法，射频非理想特性的基带校正，阵列信号处理，超大规模天线MIMO<spanstyle="font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">系统，协作通信系统，下一代移动通信系统和毫米波无线通信系统等。被公认为首次提出了&ldquo;延迟容忍空时码（Delay-TolerantSpace-TimeCode<spanstyle="font-family:宋体;
+mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
+宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin">）&rdquo;，并参与研制实现了世界上首个传输速率达4Gbps<spanstyle="font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+Calibri;mso-hansi-theme-font:minor-latin">，传输距离达15m<spanstyle="font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+Calibri;mso-hansi-theme-font:minor-latin">的毫米波无线通信产品。论文主要发表在IEEETransactionsonSignalProcessing,IEEETransactionsonCommunications,IEEETransactionsonWirelessCommunications<spanstyle="font-family:
+宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
+宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin">等国际期刊上，并已获得广泛引用。主要主持国家自然科学基金，国家科技重大专项，博士点基金等项目，同时也和国际知名企业有较广泛的合作。
+<spanstyle="font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">&nbsp;&nbsp;&nbsp;目前担任IEEECommunicationsLetters<spanstyle="font-family:宋体;
+mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
+宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin">编委（Editor<spanstyle="font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+Calibri;mso-hansi-theme-font:minor-latin">），长期担任各类IEEETransaction<spanstyle="font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">的审稿人，自2007<spanstyle="font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">年起一直担任通信领域主要国际会议（如IEEEGlobecome,IEEEICC<spanstyle="font-family:宋体;
+mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:
+宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin">等）的技术委员会成员（TPCMember<spanstyle="font-family:宋体;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+Calibri;mso-hansi-theme-font:minor-latin">）。
+
+
+			
+				
+			工作研究领域
+			
+			MIMOandSpace-TimeCoding;CooperativeCommunication;ChannelCodingandModulation;Millimeter-WaveCommunicationSystems;DigitalCompensationforDirtyRF;MassiveMIMO
+			
+				
+			联系方式
+			
+						电子信箱：yaboli@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：李亚波
+		单位：信电系
+		职称：副教授
+		我的主页共被访问了89589次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	发表论文
+	工作研究项目
+	研究生
+	学术服务
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

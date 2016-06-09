@@ -1,0 +1,223 @@
+
+
+
+
+
+XianLi-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0004290";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	XianLi
+FruitScienceInstitute
+
+	Permanentlink:http://mypage.zju.edu.cn/en/lx&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			Educationandworkingexperience:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1994.09-1998.07&nbsp;&nbsp;&nbsp;B.S.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ChinaAgriculturalUniversity&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1998.09-2001.07&nbsp;&nbsp;&nbsp;&nbsp;M.D.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ChinaAgriculturalUniversity&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2001.08-2004.12&nbsp;&nbsp;&nbsp;&nbsp;Ph.D.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;UniversityofIllinoisatUrbanaChampaign,USA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2004.12-now&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lecturer&nbsp;&amp;Assoc.Prof.&nbsp;&nbsp;&nbsp;&nbsp;ZhejiangUniversity&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2008.10-now&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Visiting&nbsp;Scholar&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;INP-ENSAT,France&nbsp;&nbsp;
+
+PublishedPaper(*&nbsp;CorrespondingAuthor)：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+LiX,WenZM,BohnertHJ,SchulerMA,KushadMM.Myrosinaseinhorseradish(Armoraciarusticana)root:Isolationofafull-lengthcDNAanditsheterologousexpressioninSpodopterafrugiperdainsectcells.PlantScience,2007,172(6):1095-1102&nbsp;&nbsp;&nbsp;
+LiX,KushadMM,Purificationandcharacterizationofmyrosinaseenzymefromhorseradish(Armoraciarusticana)root,PlantPhysiologyandBiochemistry,2005,43(6):503-511
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LiX,KushadMM,Correlationofglucosinolatecontenttomyrosinaseactivityinhorseradish(Armoraciarusticana),JournalofAgriculturalandFoodChemistry,2004,52(23):6950-6955
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ZhouCH,ChenKS,SunCD,ChenQJ,ZhangWS,LiX*.Determinationofoleanolicacid,ursolicacid,andamygdalinintheflowerofEriobotryajaponicaLindl.byHPLC.BiomedicalChromatography,2007,21(7):755-761
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ZhangB,YinXR,LiX,YangSL,FergusonIB,ChenKS.Lipoxygenasegeneexpressioninripeningkiwifruitinrelationtoethyleneandaromaproduction.JournalofAgriculturalandFoodChemistry,2009,DOI:10.1021/jf9000378
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LanLanShan,XianLi,PingWang,ChongCai,BoZhang,ChongDeSun,WangShuZhang,ChangJieXu,IanFergusonandKunSongChen.CharacterizationofcDNAsassociatedwithligniWcationandtheirexpressionproWlesinloquatfruitwithdiVerentligninaccumulation.Planta,2008,227:1243-1254
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;YangSL,SunCD,WangP,ShanLL,CaiC,ZhangB,ZhangWS,LiX,FergusonIB,ChenKS.Involvementofexpansingenesinpostharvestlignificationandsofteningof&lsquo;Luoyangqing'and&lsquo;Baisha'loquatfruitunderdifferentstorageconditions.PostharvestBiologyandTechnology,2008,49:46-53
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AbeysingheDC,LiX,SunCD,ZhangWS,ZhouCH,ChenKS.Bioactivecompoundsandantioxidantcapacityindifferentedibletissuesofcitrusfruitoffourcultivars,FoodChemistry,2007,104(4):1338-1344
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ZhouCH,XuCJ,SunCD,LiX,ChenKS.Carotenoidsinwhite-andred-fleshedloquatfruits.J.Agri.FoodChem,2007,55(19):7822-7830
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;YangSL,XuCJ,ZhangB,LiX,ChenKS.InvolvementofBothSubgroupsAandBofExpansinGenesinKiwifruitFruitRipening,HortScience,2007,42(2):315-319
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CaiC,ChenKS*,XuWP,ZhangWS,LiX,FergusonIB.Effectof1-MCPonpostharvestqualityofloquatfruit.PostharvestBiologyandTechnology,2006,40:155-162
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CaiC,XuCJ,LiX,FergusonIB,ChenKS.Accumulationoflignininrelationtochangeinactivitiesoflignificationenzymesinloquatfruitfleshafterharvest.PostharvestBiologyandTechnology,2006,40:163-169
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CaiC,XuCJ,ShanLL,LiX,ZhouCH,ZhangWS,FergusonIB,ChenKS.Lowtemperatureconditioningreducespostharvestchillinginjuryinloquatfruit.PostharvestBiologyandTechnology,2006,41:252-259
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CaiC,LiX,ChenKS.Acetylsalicylicacidalleviateschillinginjurypostharvestloquat(EriobotryajaponicaLindl.)fruit.EuropeanFoodResearchandTechnology,2006,223:533-539
+&nbsp;
+&nbsp;
+			
+				
+			Researchwork
+			
+			1.Biologicmechanismoffruitqualitychangeduringpostharvest
+
+2.Secondmetabolismmaterialsoffruitandhumanhealth
+
+			
+				
+			Contact
+			
+			Phone:
+			E-mail:xianli@zju.edu.cn
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:xianli
+		Units:ZhejiangUniversity
+		Title:Professor
+		Myhomepagehasbeenvisited2302times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	
+
+
+Youarevisitor:2302
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

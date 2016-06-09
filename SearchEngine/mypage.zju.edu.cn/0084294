@@ -1,0 +1,202 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0084294";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0084294&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			1955年6月20日出生于杭州。现任浙江大学英语系教授、世界文学与比较文学专业博士生导师、浙江大学外国文学研究所所长、浙江大学外国语学院副院长、浙江省外文学会常务副会长、上海外语教育出版社特邀编审。1987至1988年在美国太平洋大学进修英语语言文学。1989至1993年为杭州大学/英国苏塞克斯大学联合培养博士生。1999至2000年在英国牛津大学高访6个月。2000年1月在奥地利克拉根福特大学英语系讲学2周。2001年3月至8月被香港大学聘为客座研究员。2003年6月在奥地利克拉根福特大学英语系讲学4周。2004年10月至2005年3月在美国印第安那大学从事合作研究。
+			
+				
+			工作研究领域
+			
+			目前主持国家“十五”社科基金课题“英国小说与工业化进程中社会价值观的变迁”。曾经主持并完成了教育部九五规划课题成果《英国小说批评史》；该书是一部勾勒英国小说批评史全貌的专著，此前国内还无人写过同类作品，而且在国外也只有这方面的断代史。《中华读书报》曾两度载文（2002年3月27日第11版和2002年4月20日第7版），称该书为“一部开创性的学术论著”。此前发表的另一部专著《小说艺术管窥》也引起了国内学术界的关注──《文汇读书周报》、《当代学术信息》和《95浙江文坛》分别称该书为“中国文艺理论领域的一个新的突破”、“近年来对小说研究的一个可喜的贡献”以及“一本富有创见的高质量的学术专著”。
+此外主持并完成的课题有：1）国家教育部重大课题子项目“英语语言文学素材库翻译素材库”；2）浙江省社联重点课题“含英咀华──老浙大外语学科论文选”（成果即将由商务印书馆出版）。还曾获得加拿大政府设立的“专项研究奖”，应邀赴多伦多大学和渥太华大学等访学5周。
+
+
+			
+					
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：殷企平
+		单位：浙江大学英语文学研究所
+		职称：教授
+		我的主页共被访问了3435次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	出版著作
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,315 @@
+
+
+
+
+
+我的主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0087133";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	我的主页
+
+
+	永久链接:http://mypage.zju.edu.cn/0087133&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+
+
+
+
+
+
+姓&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;名
+董小燕&nbsp;
+
+
+性&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;别
+女&nbsp;
+
+
+民&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;族
+汉族&nbsp;
+
+
+所属单位、研究所
+人文学院历史学系
+
+
+职&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;称
+教授&nbsp;
+
+
+最后学历
+研究生&nbsp;
+
+
+最后学位
+历史学博士
+
+
+&nbsp;
+
+
+
+
+
+
+
+
+
+
+
+
+邮件地址
+dxy1808@163.com&nbsp;
+
+
+&nbsp;
+
+
+
+
+
+
+&nbsp;研究领域：历史学、政治学
+
+
+
+
+
+
+
+
+研究方向：
+西方文明研究、西方政治制度与政治文化
+
+
+
+承担主要科研项目：
+◆项目名称：公共领域视野下的城市社区自治研究
+&nbsp;&nbsp;&nbsp;&nbsp;项目类别：省社科规划重点项目
+&nbsp;&nbsp;&nbsp;&nbsp;起止时间：2006-10-09至...
+◆项目名称：保守的自由主义：严复政治思想研究的新视角
+&nbsp;&nbsp;&nbsp;&nbsp;项目类别：省社科规划一般项目
+&nbsp;&nbsp;&nbsp;&nbsp;起止时间：2006-09-05至2006-10-31
+◆项目名称：十八世纪法国社会精神与制度变迁
+&nbsp;&nbsp;&nbsp;&nbsp;项目类别：高等学校校内人文社会科学研究规划项目
+&nbsp;&nbsp;&nbsp;&nbsp;起止时间：2001-06-01至2003-12-31
+&nbsp;
+
+
+
+
+
+
+
+
+
+
+
+
+主要学术著作：
+
+
+《西方文明史纲》，浙江大学出版社2010
+《西方文明：精神与制度的变迁》，学林出版社2003
+《国际关系史》，浙江人民出版社2005
+《严复思想研究》，浙江大学出版社,2006
+《公共领域与城市社区自治》，社会科学文献出版社2010
+&nbsp;
+
+
+
+
+
+
+
+
+			
+				
+			工作研究领域
+			
+			西方文明研究、西方政治制度与政治文化
+			
+				
+			联系方式
+			
+						电子信箱：dxy1808@163.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：董小燕
+		单位：人文学院历史系
+		职称：教授
+		我的主页共被访问了6363次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

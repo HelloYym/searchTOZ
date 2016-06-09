@@ -1,0 +1,269 @@
+
+
+
+
+
+浙江大学沈建新的个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0004154";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	浙江大学沈建新的个人主页
+浙江大学电气工程学院沈建新的个人主页
+
+	永久链接:http://mypage.zju.edu.cn/jxs&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;www.icems2014.com,&nbsp;&nbsp;icems2014@zju.edu.cn
+&nbsp;
+&nbsp;&nbsp;
+
+&nbsp;
+&nbsp;
+
+【主要经历】
+-1991年和1994年分别获西安交通大学学士和硕士学位，1997年获浙江大学博士学位。
+-1997-1999年、1999-2002年、2002-2004年分别在新加坡南洋理工大学（NanyangTechnologicalUniversity）、英国谢菲尔德大学（TheUniversityofSheffield）、丰田集团爱信精机株式会社驻英国研究中心（IMRAEuropeSAS,UKResearchCentre）从事研究工作（期间于2003年从谢菲尔德大学获得第二个博士学位）。
+-自2004年起任职于浙江大学电气工程学院：教授（2004.7-），博士生导师（2006.9-），航天电气与微特电机研究所副所长（2006.2-2009.8）、所长（2009.8-），电机工程学系主任（2009.8-），电气工程学院院长助理（2012.12-2014.12），中共电气工程学院党委委员（2010.12-）。
+&nbsp;
+&nbsp;
+&nbsp;
+【学术兼职】
+-英国IET学会会士，美国IEEE学会高级会员，中国电工技术学会直线电机专业委员会委员，国家精密微特电机工程技术研究中心副主任兼浙江大学实验室主任，航空机电系统综合航空科技重点实验室学术委员会委员，浙江省电机动力学会副秘书长。
+-7部国际学术期刊和2部国内一级学术期刊的编委，32部国际学术期刊、21部国内学术期刊和20届国际学术会议的论文评阅人，1次国际学术会议的大会主席、1次国际学术会议的技术程序委员会主席、4次国际学术会议的国际指导委员会委员、6次国际学术会议的国际顾问委员会委员、20次国际学术会议的技术/程序/出版等委员会委员、11次国际学术会议的分会场主席/召集人、3次国际学术会议的大会主题报告人，3项国际、10项国家/省部级基金项目/奖励的评审人。
+&nbsp;
+&nbsp;
+&nbsp;
+【研究方向】
+电机拓扑与驱动控制、新能源技术。具体包括：
+&nbsp;&nbsp;&nbsp;&nbsp;高速电机与低速大转矩电机的设计、控制和应用；
+&nbsp;&nbsp;&nbsp;&nbsp;永磁无刷直流电机和永磁同步电机的设计、控制和应用；
+&nbsp;&nbsp;&nbsp;&nbsp;新型永磁电机（如永磁开关磁链电机、磁场调制型电机、多功率端口电机等）；
+&nbsp;&nbsp;&nbsp;&nbsp;宽速度范围永磁同步发电机及其控制系统；
+&nbsp;&nbsp;&nbsp;&nbsp;高效能感应电机；
+&nbsp;&nbsp;&nbsp;&nbsp;交通领域的电驱动技术；
+&nbsp;&nbsp;&nbsp;&nbsp;特殊用途的电动机、发电机及控制系统；
+&nbsp;&nbsp;&nbsp;&nbsp;微能量收集系统。
+详见《科研内容》栏目。
+&nbsp;
+&nbsp;
+&nbsp;
+【科研成果】
+-发表各类学术论文180余篇；
+-获授权国家专利共37项；
+-主持国家自然科学基金3项，参与973项目与863项目各1项;
+-作为主要科研人员和后期的课题组负责人，完成了&ldquo;飞天号&rdquo;舱外航天服配套产品的研制工作，产品成功应用于&ldquo;神舟七号&rdquo;航天员首次出舱任务。
+&nbsp;
+&nbsp;
+&nbsp;
+【学生培养】
+-主讲本科生专业课程2门、研究生课程2门；参讲本科生、博士生的讲座课（通识课、导论课）3门。&mdash;&mdash;详见《教学工作》栏目。
+-指导博士研究生14人（其中8人已毕业），硕士研究生38人（含留学生5人）（其中25人已毕业），&ldquo;导师制&rdquo;、毕业设计、各类科研项目的本科生123人（其中104人已毕业）。&mdash;&mdash;详见《为我的每一名学生感到骄傲》栏目。
+&nbsp;
+&nbsp;
+【部分荣誉】
+-浙江大学&ldquo;三育人&rdquo;先进个人、浙江大学师德先进个人、浙江大学本科生优秀导师、浙江大学奖教金、电气工程学院先进工作者、电气工程学院王国松奖教金、浙江省151人才第二层次等荣誉。
+-国际学术组织、会议授予的论文奖5次。
+&nbsp;
+&nbsp;
+&nbsp;
+【联系方式】
+电话：0571-87953094
+手机：13516720885
+电子信箱（常用）：J_X_Shen@zju.edu.cn
+LinkedIn/MSN/Skype/Email：J_X_Shen@hotmail.com
+QQ/微信：1740559160
+地址：浙江省杭州市浙大路38号浙江大学电气工程学院，邮编310027
+&nbsp;
+&nbsp;
+&nbsp;--Latestupdate:June2015--
+&nbsp;
+&nbsp;
+			
+					
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：沈建新
+		单位：电气工程学院电机工程学系
+		职称：教授
+		我的主页共被访问了70325次
+标签：电机与驱动电动汽车新能源可再生能源	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	科研内容
+	发表论文
+	专利成果
+	为我的每一名学生感到骄傲
+	Photos秀
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	Englishversion英文版网页
+ICEMS2014
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

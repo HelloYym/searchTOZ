@@ -1,0 +1,209 @@
+
+
+
+
+
+管成-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0005224";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	管成
+
+
+	永久链接:http://mypage.zju.edu.cn/gch&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			山东济宁人，工学博士，浙江大学机械工程学系副教授、硕士生导师。分别于1991年、2002年于浙江大学流体传动及控制国家重点实验室获学士、硕士学位，2005年于浙江大学控制理论与控制工程专业获博士学位，2005年到2006年在日本神钢建机公司研究中心进行了为期一年的合作研究，主要开展液压挖掘机油电混合动力系统关键技术的研究；2006年到2008年在浙江大学机械设计研究所从事博士后研究工作。1991年到1999年在山东山推工程机械集团产品开发部历任工程师、主管工程师，主要从事工程机械电液控制系统的研究开发工作。
+近年来，承担了国家科技支撑计划、863计划、以及浙江省的重点科技计划等科研项目，取得了多项原创性的研究成果，于国内外高水平期刊上发表SCI、EI论文30余篇。
+多次应邀为&ldquo;控制理论与应用&rdquo;、&ldquo;中国电机工程学报&rdquo;、&ldquo;IEEETransactionsonControlSystemsTechnology&rdquo;、&ldquo;IEEETransactionsonIndustrialElectronics&rdquo;、&ldquo;IEEE/ASMETransactionsonMechatronics&ldquo;、&ldquo;ControlEngineeringPractice&rdquo;、&ldquo;Mechatronics&rdquo;等国内外刊物投稿论文审稿。
+&nbsp;
+			
+				
+			工作研究领域
+			
+			工程机械动力节能控制；工程机械混合动力技术研究；工程机器人高性能运动控制等领域的研究；电液系统非线性控制理论研究；工程机械关键液压元器件研究。
+			
+				
+			联系方式
+			
+			电话：0571-87951210			电子信箱：guan@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：管成
+		单位：机械工程学系
+		职称：副教授
+		我的主页共被访问了4907次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		专利成果
+	工作研究项目
+	发表论文
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

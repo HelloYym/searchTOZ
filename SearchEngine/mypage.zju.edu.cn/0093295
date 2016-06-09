@@ -1,0 +1,206 @@
+
+
+
+
+
+肖文-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0093295";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	肖文
+
+
+	永久链接:http://mypage.zju.edu.cn/0093295&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			1952年5月出生，1989年获复旦大学经济学硕士学位，现为浙江大学教授、博士生导师。国际经济研究所副所长、欧洲研究中心副主任、应用经济研究中心副主任。多年来一直在国际经济学、技术经济学、欧洲区域经济研究等领域从事学术研究和教学工作。已在《InternationalBusinessReview》（SSCI）、《财贸经济》等核心刊物上发表论文70余篇，出版专著及教材8部，主持和完成国家社科基金课题、教育部重点基地重大课题、省部级课题以及国际合作项目近20项。获部级优秀成果三等奖、浙江省科技厅和教育厅优秀成果奖一、二、三等。曾多次到美国加州大学伯克利分校、英国皇家国际事务研究院、法国普瓦堤高等商学院、荷兰自由大学、日本立命馆大学、德国耶拿大学进行合作研究。现任中国世界经济学会理事、中国欧洲研究会理事、浙江省国际问题研究会常务理事、杭州市妇女研究会副会长。
+			
+				
+			工作研究领域
+			
+			1、跨国公司R&D国际化
+2、中国民营企业与欧盟经济互动
+3、FDI与自主创新
+			
+				
+			联系方式
+			
+						电子信箱：xiao_w80@hotmail.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：肖文
+		单位：经济学院国际经济系
+		职称：教授
+		我的主页共被访问了2737次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

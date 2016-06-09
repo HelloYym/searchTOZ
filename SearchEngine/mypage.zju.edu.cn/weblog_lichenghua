@@ -1,0 +1,336 @@
+
+
+
+
+
+李承华设猎-博客
+
+
+
+
+
+
+varctxPath="http://mypage.zju.edu.cn";
+varb_handle="lichenghua";
+varcfg_weblog="http://mypage.zju.edu.cn/weblog";
+vard=newDate()
+varselyear=d.getFullYear();
+varselmonth=d.getMonth()+1;
+
+
+
+
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	color:#111;
+	margin-right:10px;	
+}
+#mainlinkullia,.tagsa:hover{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+.tagsa{
+	margin-right:10px;
+}
+img{
+	border:none;
+}
+
+
+
+
+
+
+
+
+
+
+	
+		首页
+		帮助
+		登录
+	
+
+
+
+
+
+
+	李承华设猎
+艺术设计与生活
+
+	永久链接:http://mypage.zju.edu.cn/weblog/lichenghua&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+
+
+	中文主页
+英文主页
+			博客
+
+
+
+
+
+
+
+
+
+
+			
+				
+
+	
+[1/1]
+首页	上一页下一页末页
+
+	
+
+浏览模式:普通|列表
+
+
+
+
+
+
+		独立学科艺术学
+
+作者:李承华日期:2011-03-22Tuesday
+
+
+
+国务院学位委员会新年会议第一议程通过将艺术学科独立成为&ldquo;艺术门类&rdquo;：原归属05门类之&ldquo;文学门类&rdquo;的艺术学科告别和中国语言文学（0501）、外国语言文学（0502）、新闻传播学（0503）、艺术学（0504）四个并列一级学科，成为新的第十三个学科...
+查看更多...
+
+
+
+
+
+分类:行知|			固定链接|评论总数0|
+			阅读次数16
+
+
+
+
+
+
+
+		全国设计专业大学生网上调查问卷
+
+作者:李承华日期:2008-12-25Thursday
+
+
+
+以下是设计类大学生网上调查问卷的网址，在线提交不会耽误很多时间，请大家配合！谢谢了！http://spreadsheets.google.com/viewform?key=pxtsmBP20WFXGbOocksbeNQ&hl=zh_CN
+查看更多...
+
+Tags:
+设计，调查问卷，大学生
+	
+
+
+
+分类:生活|			固定链接|评论总数0|
+			阅读次数34
+
+
+			
+			
+		
+		
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+	
+	
+		姓名：李承华
+		单位：人文学院艺术学系
+		职称：
+		我共发表了2篇文章
+		共收到0条评论
+		我的主页共被访问了816次
+	
+	
+	
+	
+
+
+我的文章分类
+
+	生活
+		
+行知
+		
+设计
+		
+
+
+
+
+日历
+
+
+
+>>
+年月
+
+
+
+日
+一
+二
+三
+四
+五
+六
+
+
+
+
+
+
+
+
+
+
+
+我的最新文章
+
+
+		独立学科艺术学
+全国设计专业大学生网上...
+	
+
+
+
+
+我的热点文章
+
+
+				全国设计专业大学生网上...
+		独立学科艺术学
+
+	
+
+
+我收到的评论
+
+	
+	
+
+
+我的文章汇总
+
+		2011年3月[1]
+		2008年12月[1]
+		
+	
+
+
+链接
+
+我的搜狐博客
+
+
+
+
+
+检索
+
+
+
+
+-所有文章-
+生活
+行知
+设计
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+
+
+varflag=newArray();
+flag[0]='2008/12/25';
+flag[1]='2011/03/22';
+
+
+varcale=newCalendar("idCalendar",{
+SelectDay:newDate(),
+onSelectDay:function(o),
+onToday:function(o),
+onFinish:function(){
+$("idCalendarYear").innerHTML=this.Year;$("idCalendarMonth").innerHTML=this.Month;
+for(vari=0,len=flag.length;i<len;i++){
+//alert(flag[i]);
+	vard=newDate(flag[i]);
+	if(this.Year==d.getYear()){
+		if(this.Month==d.getMonth()+1)
+		{
+this.Days[d.getDate()].innerHTML=""+d.getDate()+"";
+			
+		}
+
+	}
+}
+}
+});
+$("idCalendarPre").onclick=function()
+$("idCalendarNext").onclick=function()
+
+
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));

@@ -1,0 +1,207 @@
+
+
+
+
+
+Lp's个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0088198";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	Lp's个人主页
+Lp's个人主页
+
+	永久链接:http://mypage.zju.edu.cn/0088198&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			目前主要开展的科研工作有国家863计划项目“面向平稳运行和节能降耗的高炉炼铁过程集成控制系统”、“基于自主无人飞行器的田间作物遥感信息采集系统的研制与应用”和“基于混杂模型与在线数据融合的城市交通仿真与评估技术”等。历年来承担了多项国家和省部级科研项目，包括国家攻关项目2项、国家863项目3项、国家自然科学基金项目3项、国家973项目子课题1项、省自然科学基金项目3项、教育部博士点基金项目1项，均取得较好成果，已发表学术论文近百篇，其中被SCI收录近10篇、EI收录30余篇。在科研工作中注重解决实际问题，
+			
+				
+			工作研究领域
+			
+			1、复杂工程过程综合自动化
+2、微小型无人飞行器导航与控制
+3、智能交通系统建模、仿真与优化
+
+			
+				
+			联系方式
+			
+						电子信箱：pli@iipc.zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：李平
+		单位：航空航天学院
+		职称：教授
+		我的主页共被访问了29932次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,205 @@
+
+
+
+
+
+浙江大学信电系王梁昊-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0011622";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	浙江大学信电系王梁昊
+3D多媒体信息系统与芯片
+
+	永久链接:http://mypage.zju.edu.cn/wanglh&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;王梁昊博士，副研究员，现任职于浙江大学信息与电子工程学系信息与通信工程研究所。分别于2005年和2010年在浙江大学信息与通信工程专业获得学士和博士学位。2011年1月-2013年5月浙江大学学科博士后。
+&nbsp;&nbsp;&nbsp;作为项目负责人承担国家自然科学基金项目（61401390）、浙江省自然科学基金项目（LQ14F010005）、浙江省重点科技创新团队项目（2011R09003-05）、中国博士后科学基金特别资助（2012T50545）、中国博士后科学基金面上资助（20110491804）、华为公司创新研究计划项目（YJCB2011042RE）等。
+&nbsp;&nbsp;&nbsp;研究方向主要侧重于计算机视觉、增强现实、智能硬件与智能多媒体等，作为主要作者在国际著名期刊和重要国际会议上公开发表SCI、EI论文40余篇，5项国家发明专利获授权，是美国电气和电子工程师协会会员（IEEEMember）、中国计算机学会（CCF）会员、中国立体（3D）视像产业联盟会员。&ldquo;2014中国3D产业年度优秀工作者&rdquo;、&ldquo;2013年度中国裸眼3D系统标准编制优秀工作者&rdquo;、&ldquo;信电系2010-2011学年优秀班主任&rdquo;。
+			
+				
+			工作研究领域
+			
+			计算机视觉、增强现实、智能硬件与智能多媒体
+			
+				
+			联系方式
+			
+			电话：0571-87952017,13968025840			电子信箱：wanglianghao@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：王梁昊
+		单位：信息与电子工程学系
+		职称：副研究员
+		我的主页共被访问了6849次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

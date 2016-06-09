@@ -1,0 +1,212 @@
+
+
+
+
+
+天蓝蓝天-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0094382";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	天蓝蓝天
+厚积而薄发
+
+	永久链接:http://mypage.zju.edu.cn/yjhuang&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+黄燕君，浙江大学经济学院教授、金融研究所副所长，兼任国家社科基金项目成果鉴定专家、杭州市纪委专家咨询委员会委员（经济）。主要研究领域为国际金融，金融理论与政策，外汇理论与实务。曾主持完成国家社科基金项目&ldquo;中国货币一体化的理论研究与前景探讨&rdquo;、浙江省社会科学基金项目&ldquo;人民币国际化与区域经济发展&rdquo;、浙江省自然科学基金项目&quot;新农村建设中的金融支撑问题研究&quot;等省部级以上科研项目8项，银行等企事业单位委托项目10多项。出版《新编国际金融》、《港币-人民币一体化：意义、条件、前景》、《我国利用外商直接投资对策研究》等著作7部。获教育部宝钢优秀教师奖、浙江省社会科学优秀成果二等奖、浙江省高校优秀成果奖等5项。在《金融研究》、《国际金融研究》、《财贸经济》等重要学术期刊上发表学术论文70余篇。
+
+
+			
+				
+			工作研究领域
+			
+			国际金融，金融理论与政策，外汇理论与实务
+			
+				
+			联系方式
+			
+						电子信箱：yjhuang88@zju.edu.cn;hyj153502@yahoo.com.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：黄燕君
+		单位：经济学院金融学系
+		职称：教授
+		我的主页共被访问了6612次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	奖励荣誉
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

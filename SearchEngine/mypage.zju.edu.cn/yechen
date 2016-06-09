@@ -1,0 +1,230 @@
+
+
+
+
+
+陈烨-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0013084";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	陈烨
+
+
+	永久链接:http://mypage.zju.edu.cn/yechen&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			陈烨，理学博士，现任浙江大学特聘研究员、博士生导师。长期从事人类重要疾病致病机制及转化应用的相关研究，主要研究方向包括人类遗传学、干细胞分化、细胞与微环境（microenvironment）的相互调控、以及实验动物疾病模型建立等。已在JournalofClinicalInvestigation、BLOOD、ClinicalCancerResearch等国际权威学术期刊发表研究论文20多篇。<spanstyle="font-size:11.0pt;
+mso-bidi-font-size:12.0pt;font-family:楷体_GB2312;mso-ascii-font-family:&quot;TimesNewRoman&quot;;
+mso-hansi-font-family:&quot;TimesNewRoman&quot;;mso-bidi-font-family:&quot;TimesNewRoman&quot;;
+mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA"/>
+
+
+
+教育和工作经历:
+2000/09&nbsp;-&nbsp;2004/07&nbsp;&nbsp;浙江大学生命科学学院生物科学专业&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;学士
+2004/09&nbsp;-&nbsp;2009/07&nbsp;&nbsp;浙江大学生命科学学院细胞生物学专业&nbsp;&nbsp;&nbsp;&nbsp;博士
+2009/09-2013/06&nbsp;&nbsp;美国&nbsp;MD.AndersonCancerCenter,&nbsp;&nbsp;DepartmentofStemCellTransplantation&amp;CellularTherapy,DepartmentofLeukemia&nbsp;博士后
+2013/07-2015/03&nbsp;&nbsp;浙江大学&nbsp;生命科学学院&nbsp;&nbsp;特聘研究员
+2015/03-迄今&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江大学医学院/生命科学学院&nbsp;遗传学研究所特聘研究员
+			
+				
+			工作研究领域
+			
+			（1）干细胞定向分化
+（2）细胞与微环境的相互作用
+（3）肿瘤细胞耐药性及其逆转途径
+（4）母系遗传性非综合症型耳聋发病机制
+			
+				
+			联系方式
+			
+			电话：0571-88206760			电子信箱：yechency@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：陈烨
+		单位：医学院/生命科学学院
+		职称：特聘研究员
+		我的主页共被访问了13918次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	研究成果
+	学术交流（讲座报告）
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	Gscholarcitations
+浙江大学遗传学研究所
+浙江大学图书馆
+浙江大学研究生院
+浙江大学科研院
+浙江大学教务管理系统
+浙江大学医学院
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

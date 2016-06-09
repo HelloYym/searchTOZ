@@ -1,0 +1,252 @@
+
+
+
+
+
+余学功的个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0009216";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	余学功的个人主页
+浙大硅材料国家重点实验室
+
+	永久链接:http://mypage.zju.edu.cn/yuxuegong&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;
+
+浙江大学，材料科学与工程学系/半导体材料研究所，副教授/博导
+&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;受教育经历
+2003/10-2004/06，浙江大学，材料科学与工程学系，博士研究生
+2002/10-2003/09，日本信州大学（ShinshuUniversity,Nagano），教育学部，联合培养
+1999/09-2002/09，浙江大学，材料科学与工程学系，博士研究生
+1995/09-1999/06，浙江大学，材料科学与工程学系，本科
+&nbsp;
+研究工作经历
+2009/02-现在，&nbsp;&nbsp;浙江大学，材料科学与工程学系，副教授/博导
+2007/11-2009/02，美国北卡州立大学（NorthCarolinaStateUniversity,Raleigh），材料科学与工程学系，助理研究员
+2004/10-2007/10，德国勃兰登堡工业大学（BrandenburgTechnologyUniversity,Cottbus），应用物理系，博士后
+&nbsp;
+主要学术任职和荣誉
+
+
+&nbsp;&nbsp;2014年国家自然科学优秀青年基金获得者
+
+
+&nbsp;2004年获得浙江省科学技术一等奖（排名第四）
+
+
+&nbsp;&nbsp;2005年获得国家自然科学二等奖（排名第四）
+
+
+&nbsp;&nbsp;2006年全国百篇优秀博士论文提名奖
+
+
+&nbsp;&nbsp;第11届半导体缺陷、认知、成像和物理(DRIP)国际会议最佳论文奖
+
+
+&nbsp;&nbsp;第22届PVSEC国际会议程序委员会委员
+
+&nbsp;&nbsp;浙江省太阳能光伏标准技术委员会委员
+&nbsp;浙江省可再生能源协会光伏科技委委员
+&nbsp;&nbsp;国际中文期刊《MaterialsScience》编委&nbsp;&nbsp;&nbsp;
+&nbsp;JournalofPhotoenergy期刊的Leadingguesteditor&nbsp;
+&nbsp;ProgressinPhotovoltaics、SolarEnergyMaterials&amp;SolarCells、AppliedPhysicsLetter、&nbsp;Journalof&nbsp;AppliedPhysics、ScriptaMaterialia、JournalofAlloyandCompound、JournalofCrystalGrowth等专业杂志审稿人
+
+			
+				
+			工作研究领域
+			
+			半导体晶体材料及器件
+			
+				
+			联系方式
+			
+			电话：0571-87953003			电子信箱：yuxuegong@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：余学功
+		单位：材料科学与工程学系
+		职称：副教授
+		我的主页共被访问了18634次
+标签：天道酬勤	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	研究成果
+	专利成果
+	奖励荣誉
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

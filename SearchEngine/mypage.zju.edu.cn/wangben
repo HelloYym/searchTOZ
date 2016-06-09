@@ -1,0 +1,217 @@
+
+
+
+
+
+王本-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0011757";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	王本
+生物界面工程
+
+	永久链接:http://mypage.zju.edu.cn/wangben&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			王本，男，浙江大学转化医学研究院及浙二医院肿瘤研究所恶性肿瘤预警与干预教育部重点实验室双聘副教授，求是青年学者。
+&nbsp;&nbsp;&nbsp;&nbsp;浙江大学和哈佛大学联合培养博士。2008年至2009年在美国哈佛大学医学院－MIT健康科技中心任研究员，2010年至2011年在美国哈佛大学Wyss生物启发工程研究所任研究员。近几年在包括化学、生物材料等领域著名期刊上发表SCI论文20篇&nbsp;(总影响因子&gt;90，第一作者6篇，通信作者3篇)，论文被引660余次。受邀撰写细胞界面工程在生物医学领域的展望文章以及细胞界面工程专著章节，将细胞界面工程在转移性癌症早期诊断、干预和个性化治疗方面的潜在应用做了全面阐释。研究工作被美国化学会（ACS）、英国皇家化学会（RSC）、自然&bull;中国（NatureChina）以及路透社（Reuters）等国际学术界和媒体报道，并被国际生物医学评论机构Faculty1000推荐。担任ACSNano、AngewChemIntEd、CurrPharmDes、&nbsp;JControlRelease等国际著名期刊审稿人。2009年获美国百人会英才奖。
+教育背景
+2006年-2011年浙江大学&amp;哈佛大学博士，化学&amp;生物医学工程专业（国家公派博士生项目）
+2004年-2006年浙江大学硕士研究生，生物学专业（优秀毕业生）
+2000年-2004年曲阜师范大学学士，化学工程与工艺专业（优秀毕业生）
+工作经历
+2013年07月-至今浙江大学转化医学研究院，副教授，博士生导师
+2011年07月-2013年07月浙江大学生物医学工程与仪器科学学院，研究员
+2010年01月-2011年01月哈佛大学Wyss生物启发工程研究所，研究员
+2009年01月-2010年01月哈佛大学-MIT健康科技中心（HST），研究员
+2006年12月-2008年12月浙江大学生物物质与信息调控研究中心，助研
+2006年09月-2007年07月浙江大学化学系，助教
+			
+				
+			联系方式
+			
+						电子信箱：bwang@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：王本
+		单位：医学院
+		职称：副教授
+		我的主页共被访问了3076次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		实验室介绍
+	发表论文
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	WangLab
+BenWang@ScholarGoogle
+WyssInstitute@Harvard
+Harvard-MITHST
+转化医学研究院
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

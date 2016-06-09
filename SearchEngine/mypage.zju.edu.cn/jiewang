@@ -1,0 +1,219 @@
+
+
+
+
+
+王杰的空间-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0009050";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	王杰的空间
+智能材料与结构
+
+	永久链接:http://mypage.zju.edu.cn/jiewang&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			王杰，博士，浙江大学副教授，博士生导师。1998年获得西安交通大学工程力学学士学位，随后在南昌飞机设计研究所工作一年。2002年获得兰州大学固体力学硕士学位(导师为周又和教授)，2006年获得香港科技大学机械工程博士学位(导师为张统一院士)。2007年获得德国洪堡基金(Humboldtfellow)，2007年至2009年在德国卡尔斯鲁厄理工大学从事研究工作。2009年回国后进入浙江大学航空航天学院从事教学与科研工作。2010年入选浙江省钱江人才计划，2011年获得浙江省杰出青年基金，2012年获得日本文部省JSPS研究奖学金(JSPSfellow)，2012年至2014年在日本京都大学从事访问研究。应邀在国际学术会议和国内外高校及科研院所做邀请报告二十余次，担任浙江省力学学会秘书长、常务理事。研究兴趣为铁性智能材料的多场耦合力学、材料微结构演化的相场模拟、多铁性材料的第一性原理计算、铁电材料的断裂力学等。在NanoLetters,ActaMaterialia,PRB,APL,IJSS等国际权威期刊上发表SCI论文50余篇，被引用500余次(WebofScience)。
+			
+				
+			工作研究领域
+			
+			智能材料与结构力学;材料微结构演化动力学;
+材料的多尺度模拟（第一性原理计算、相场模拟和有限元分析）;
+铁电、铁磁以及多铁性薄膜与纳米结构;铁电/压电材料的断裂;
+材料微结构与性能的关联。
+
+欢迎力学、材料、物理、机械类等相关专业的本科生和研究生加盟!
+			
+				
+			联系方式
+			
+			电话：0571-87953110			电子信箱：jw@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：王杰
+		单位：航空航天学院
+		职称：副教授
+		我的主页共被访问了38545次
+标签：铁电材料，相场法，铁磁材料，微结构演化，第一性原理，有限元，智能材料与结构，多场耦合力学，多铁性材料	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		发表论文
+	教学工作
+	奖励荣誉
+	工作研究项目
+	学术交流（讲座报告）
+	实验室介绍
+	小组成员
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	浙江大学
+浙江大学应用力学所
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

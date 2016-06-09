@@ -1,0 +1,204 @@
+
+
+
+
+
+浙江大学王灿-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0003144";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	浙江大学王灿
+浙江大学计算机学院王灿
+
+	永久链接:http://mypage.zju.edu.cn/wangcan&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			王灿，男，博士，浙江大学计算机学院副教授。主要研究方向为数据挖掘、信息检索、机器学习、残疾人信息无障等。先后作为项目负责人承担国家自然科学基金面上项目1项，浙江省自然科学基金重点项目1项，国家科技支撑计划子项2项，国际和企业合作项目10多项。主持开发了“中国残疾人数据分析与挖掘”系统、“中国盲人数字图书馆”等，在数据挖掘与信息检索领域有着丰富的研究与应用积累。发表相关学术论文30多篇；包括ACMMultimedia、SIGIR、SIGKDD、WWW、AAAI、CIKM等顶级国际会议的长文和高水平SCI国际学术期刊IEEETransactionsonImageProcessing，PatternRecognition，Neurocomputing等。授权发明专利多项。曾获2011年度浙江省科学技术一等奖、AAAI'2012最佳论文奖等奖项。2007.8---2008.1期间在加拿大SimonFrasor大学（SFU）做访问学者与交换教师，在SFU执教《InformationSystemsManagement》课程并与数据挖掘领域的知名专家、SimonFrasor大学的JianPei教授开展数据挖掘领域的合作研究。同时，他还是浙江大学程序设计竞赛队总教练，曾于2011年5月率浙江大学代表队在美国奥兰多夺得ACM国际大学生程序设计大赛全球总冠军。
+			
+				
+			工作研究领域
+			
+			信息检索、数据挖掘、信息无障碍
+			
+				
+			联系方式
+			
+						电子信箱：wcanATzju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：王灿
+		单位：计算机软件研究所
+		职称：副教授
+		我的主页共被访问了4426次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

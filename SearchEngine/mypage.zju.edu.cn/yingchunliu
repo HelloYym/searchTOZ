@@ -1,0 +1,213 @@
+
+
+
+
+
+宁静的港湾-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0004445";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	宁静的港湾
+刘迎春课题组
+
+	永久链接:http://mypage.zju.edu.cn/yingchunliu&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+1993年7月毕业于内蒙古师范大学化学系获学士学位，1999年7月毕业于内蒙古大学化学系获硕士学位，2001年9月进入浙江大学化学系攻读博士学位，2004年6月获博士学位。2004年6月至2006年5月在浙江大学化学工程博士后流动站从事博士后研究，出站后留校任教。2007年10月-2009年10月赴美国北卡罗莱纳州立大学化学与生物工程系从事博士后研究。近几年来，主要从事受限体系的传递性质以及功能材料设计的计算机建模研究，包括具有催化活性的能源材料和具有生物相容性的纳米结构材料。在J.Phys.Chem.B,J.Chem.Phys.,Appl.Phys.Lett.,Langmuir,Biomaterials,Phys.Rev.B等期刊上共发表论文20余篇。获得的主要奖励有2004年博士学位论文被评为浙江大学优秀博士学位论文，2006年获浙江大学优秀博士后称号，2007年入选浙江大学&ldquo;新星计划&rdquo;人才。
+			
+				
+			工作研究领域
+			
+			1.	能源与生物材料设计
+2.	流体在微孔材料中传递性质及机制的分子建模
+3.	能源应用领域受限空间内扩散控制的化学反应
+
+
+
+			
+				
+			联系方式
+			
+			电话：0571-87952424			电子信箱：liuyingch@zju.edu.cn欢迎感兴趣的各位与我们联系！			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：刘迎春
+		单位：化学系
+		职称：副研究员（自然科学）
+		我的主页共被访问了4423次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	奖励荣誉
+	学术交流（讲座报告）
+	发表论文
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

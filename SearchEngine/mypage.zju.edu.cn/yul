@@ -1,0 +1,223 @@
+
+
+
+
+
+Prof.LuYU'shomepage-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0096107";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	Prof.LuYU'shomepage
+虞露教授主页
+
+	永久链接:http://mypage.zju.edu.cn/yul&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			虞露，女，浙江大学信息与电子工程学系教授、博士生导师。
+2007年入选教育部新世纪优秀人才支持计划。2006年入选浙江省&ldquo;新世纪151人才工程&rdquo;第二层次培养计划，2010年入选第一层次培养计划，2014年入选为重点资助培养人员。
+1996年毕业于浙江大学，获电子与通信系统博士学位。现任浙江大学信息与通信工程研究所副所长，国家数字音视频编解码技术标准工作组（AVS）视频组组长，全国信息技术标准化技术委员会多媒体分委会委员，IEEE视频信号处理和通信技术委员会（VSPC）委员，SignalProcessing:ImageCommunication(ELSEVIER)杂志编委，曾担任2006年第15届WorkshoponPacketVideo大会主席、2007年、2010年、2012年、2013年PictureCodingSymposium国际咨询委员会委员等。
+虞露教授主持完成视频编码及相关专用集成电路设计的国家自然科学基金半导体集成化芯片系统重大研究计划课题、国家自然科学基金高技术探索项目课题、国家自然科学基金重点项目子课题，国家863集成电路重大专项计划课题，浙江省重大科技技术项目多项。虞露教授参与组织国内视频编码标准的制定，是AVS标准视频部分的主要起草人之一和主要技术提供人之一；同时还积极参与国际电信联盟（ITU）和国际标准组织/国际电工委员会（ISO/IEC)有关视频与多媒体通信标准的制定。发表学术论文百余篇，已授权国家发明专利40项。2012年获得国家科技进步二等奖、中国科协求是杰出青年成果转化奖。2009年获得ISO、IEC联合颁发的标准制定工作嘉奖状。2007年获得国家&ldquo;信息产业重大技术发明奖&rdquo;；2007年获得国家质量监督检验检疫总局和国家标准化管理委员会颁发的&ldquo;中国标准创新贡献奖&rdquo;一等奖；2006年获得由国家知识产权局、全国妇联、中国发明协会评选的&ldquo;第三届新世纪巾帼发明家&rdquo;创新奖。
+			
+				
+			工作研究领域
+			
+			视频编码和多媒体通信理论、方法及标准化；
+专用集成电路及片上系统设计及优化方法学。
+			
+				
+			联系方式
+			
+			电话：0571-87953107			电子信箱：yul@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：虞露
+		单位：信息与电子工程学系
+		职称：教授
+		我的主页共被访问了129099次
+标签：VideoCoding	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		主要研究方向
+	实验室介绍
+	发表论文
+	研究成果
+	教学工作
+	毕业生
+	招聘
+	相关国际期刊及国际会议
+	专利数据库
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	AVS
+MPEG
+ITU
+PCS
+AVS高清视频实验网
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

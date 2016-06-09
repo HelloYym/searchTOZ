@@ -1,0 +1,211 @@
+
+
+
+
+
+张继才-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0013099";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	张继才
+浙江大学海洋学院
+
+	永久链接:http://mypage.zju.edu.cn/jicai&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			张继才，男，1981年8月生，副教授，博士生导师，浙江大学求是青年学者。研究方向为近海动力过程、数据同化及海洋数值建模。自主开发了二维和三维非线性潮波伴随同化模型，在近海动力过程等领域进行了大量的工作，主要体现在：（1）基于卫星高度计同化，建立并实现了海洋模式空间分布参数设置，可合理改进模型内在机理，其思想已被成功借鉴到风暴潮和生态系统动力学模型；（2）建立的方法可有效提取海洋表层物理场所蕴含的有效信息，达到合理反演海洋三维垂直结构的目的，对于卫星遥感和海洋动力机制研究具有重要意义；（3）针对南黄海辐射沙脊群、台湾浅滩以及舟山群岛的水动力、泥沙和地貌机制，正在进行研究工作。已发表论文20篇左右，其中超半数发表于国际SCI期刊。目前承担国家自然科学基金、省自然科学基金、教育部留学归国人员科研启动基金及数项地方科研项目，并以骨干身份参与国家重大科学研究计划。（内容更新至2015年2月18日）
+			
+				
+			工作研究领域
+			
+			物理海洋学，数值模拟，数据同化（PhysicalOceanography,NumericalSimulation,DataAssimilation）
+			
+				
+			联系方式
+			
+						电子信箱：jicai_zhang@163.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：张继才
+		单位：浙江大学海洋学院
+		职称：副教授
+		我的主页共被访问了15671次
+标签：物理海洋学数值模型海洋动力过程数据同化	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		学习工作经历
+	工作研究项目
+	发表论文
+	教学工作
+	奖励荣誉
+	最新动态
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

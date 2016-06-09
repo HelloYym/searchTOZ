@@ -1,0 +1,215 @@
+
+
+
+
+
+黄平捷-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0004460";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	黄平捷
+自动化仪表研究所，新型检测、计算机控制
+
+	永久链接:http://mypage.zju.edu.cn/huangpingjie&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			近些年来主要从事新型检测技术、先进传感技术、计算机控制技术以及综合自动化系统等领域的研究工作。&nbsp;
+（1）自2001年以来一直进行电涡流、声发射、电磁超声等无损检测理论和技术的研究，主持或参与基于新型无损检测技术的国家自然科学基金和国防军工预研项目2项。近3年在国际国内学术期刊发表（录用）电涡流、声发射及信号处理等相关学术论文17篇（SCI、EI刊源11篇），其中已被SCI、EI收录6篇；申请发明专利4项（授权1项，公开2项，受理1项），实用新型专利1项；出国参加国际学术会议并宣读论文1次，在国内参加国际学术研讨会1次。&nbsp;
+（2）2004年以来，参与和承担计算机控制和综合自动化系统项目6项，其中浙江省科技厅重点项目1项，重大横向项目1项，企业科技项目4项，主要涉及制造业物流智能配送、生产过程计算机控制及自动化等应用领域。
+			
+				
+			工作研究领域
+			
+			●检测技术与自动化装置
+1.新型检测技术
+2.电涡流检测
+3.电磁超声检测
+●计算机控制技术
+1.计算机控制系统
+2.工业过程控制
+
+
+			
+				
+			联系方式
+			
+						电子信箱：vamadis@yahoo.com.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：黄平捷
+		单位：控制科学与工程学系
+		职称：副研究员（自然科学）
+		我的主页共被访问了5105次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	浙江大学
+浙江大学控制科学与工程学系
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

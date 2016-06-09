@@ -1,0 +1,205 @@
+
+
+
+
+
+费金华主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0093310";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	费金华主页
+
+
+	永久链接:http://mypage.zju.edu.cn/feijinhua&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			1988年本科毕业于杭州师范学院，1993年杭州大学硕士研究生毕业获硕士位，2000年浙江大学博士研究生毕业获理学博士学位。主要从事与能源有关的多相催化基础和应用研究。承担包括国家自然科学基金、国家重点基础研究发展计划（973计划）和国家高技术研究发展计划（863计划）和国家科技创新基金等研究课题6项，发表学术论文60多篇，获国家发明专利4项，完成国家级鉴定/验收成果2项，获浙江省科技进步奖1次。
+			
+				
+			工作研究领域
+			
+			1、催化材料制备及表征：主要为功能性催化材料的无机合成及其相应的结构、表面性质及反应特性等研究；
+2、能源催化转化研究：主要为化石燃料、含碳生物质催化转化为清洁能源产品和天然气定向转化及二氧化碳资源化利用等研究；
+3、催化工业化过程研究：主要为合成气催化转化为清洁液体/液化燃料工业化过程中关键技术的研究。
+
+			
+				
+			联系方式
+			
+			电话：13626718308			电子信箱：fjh210@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：费金华
+		单位：化学系
+		职称：教授
+		我的主页共被访问了4778次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

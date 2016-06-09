@@ -1,0 +1,252 @@
+
+
+
+
+
+沧海一粟-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0098443";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	沧海一粟
+ProfTingzhongYANG
+
+	永久链接:http://mypage.zju.edu.cn/yang&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+杨廷忠:男,1982年毕业于山西医科大学卫生系。1994年被评为江苏省有突出贡献的中青年专家。1998-2000年为美国SanDiego加州大学助理研究员(AssistantResearchScientist)。目前为浙江大学医学部控烟研究中心教授、主任。美国西佛吉尼亚大学伤害控制研究中心研究职员。中国控烟协会常务理事和专家委员会成员。曾被聘为世界卫生组织健康专业学生控烟政策与方案咨询专家。已完成多项国际和国家研究课题，其中&ldquo;倡导促动能力建设&rdquo;项目覆盖全国所有省、直辖市和自治区，涉及70多个城市。已发表论文140余篇。中文论文曾被确认为2008年度临床学科类被高引作者（中国科学和技术信息研究所发布）。近年来以第一作者或通讯作者发表的群体性研究的国际论文30多篇，数篇论文被世界卫生组织《全球控烟报告》等国际组织的官方和技术文件所引用。担任AmericanJournalofHealthBehavior亚洲编审（AsianEditor）；JournalofBiosafety&amp;HealthEducation和AddictionMedicine&nbsp;&amp;Therapy杂志&nbsp;编委，并为TobaccoControl,Nicotine&amp;TobaccoResearch,HealthandPlace等20多个杂志的审稿人。
+代表性PI课题<spanstyle="font-size:12.0pt;font-family:
+楷体;mso-bidi-font-family:&quot;TimesNewRoman&quot;">
+1.社会转型中城市人群心理压力研究，国家社科基金,2001-2002
+2.AnationalsurveyoffarmerssmokinginChina,WHO,2003-2004
+3.艾滋病性危险行为扩散的社会学研究，国家社科基金,2003-2004
+4.BuildingadvocacycapacityfortobaccocontrolamongthepublichealthworkforceinChina，theUnion,2007-2009
+5.Buildingadvocacycapacityfortobaccocontrolinsmoke-freeuniversitieswithpublichealthfacultiesinChina,theUnion,2011-2012
+6.FacilitateMOHendorsementoftobaccocontrolimplementationthroughpromotingtobaccocontroladvocacycapacityinmedicalschools,theUnion,2012-2014
+7.GlobalHealthProfessionsStudentSurvey,China,WHO,2013-2014
+8.自主戒烟的人群模式：基于群体的政策证据研究，国家自然基金，2015-2018
+9.BuildingTobaccoDependenceTreatmentCapacityinMedicalUniversitiesandAffiliatedHospitalsinChina，GlobalBridgestone/IGLC,2015-2016<spanstyle="font-size:12.0pt;font-family:楷体;
+mso-ansi-language:EN-GB">
+
+代表性论文<spanstyle="font-size:12.0pt;
+font-family:楷体;mso-bidi-font-family:&quot;TimesNewRoman&quot;">
+1.YangT,YangX,LvQ,ZhaoQ,KeX.China&rsquo;sfirsthistoriceffortstodevelopatobaccocontroladvocacyworkforceviaschoolsofpublichealth.TobaccoControl,2009；18:422-424.
+2.YangT,AbdullahAS,RockettIR,LiM,ZhouY,MaJ,ZhengZ,ZhangY,wangL.AssessmentofTobaccoControlAdvocacyBehavioralCapacityamongStudentsatSchoolsofPublicHealthinChina.TobaccoControl,2011;20:20-25.
+3.YangT,XuX,LiM,RockettIR,ZhuW,Ellison-BarnesA.MentalhealthstatusandrelatedcharacteristicsofChinesemale.Communitymentalhealthjournal.2010;48:342-351.
+4.YangT,ShiffmanS,RockettIR,CuiX,CaoR.NicotinedependenceamongChinesecitydwellers:apopulation-basedcross-sectionalstudy.NicotineTobRes,2011;13(17):556-564.
+5.YangT,XuX,RockettIR,GuoW,ZhouH.EffectsofHousehold,Workplace,andPublicPlaceSmokingRestrictionsonSmokingCessation.Health&amp;Place,2011;17:956-960.
+6.YangT,RockettIRH,LiM,XuX,GuY.Tobaccoadvertising,environmentalsmokingbans,andsmokinginChineseurbanareas.DrugandAlcoholdependence,2012;124:121-127.
+7.YangT,MaoA,FengX.,JiangS,WuD,BottorffJ,SarbitG.,WangX.SmokingCessationinanUrbanPopulationinChina.AmJHealthBehav.2014;38(6):933-941.
+8.YangX,KellyBC,YangT.Theinfluenceofself-exemptingbeliefsandsocialnetworksondailysmoking:Amediationrelationshipexplored.PsychologyofAddictiveBehaviors,2014,28(3):921-927.
+
+代表性著作
+1.杨廷忠、李鲁、王伟。艾滋病危险行为扩散的社会学研究。中国社会科学出版社，2006年
+2.杨廷忠。健康行为理论与研究。北京：人民卫生出版社,2007年
+3.杨廷忠。控烟理论与实施。北京：人民卫生出版社,1010年
+
+
+联络方式
+
+杭州市：浙江大学紫金港校区医学院控烟研究中心，310058
+电话:86-571-88208219
+Email:Tingzhongyang@zju.edu.cn<spanlang="EN-US"style="font-size:12.0pt;mso-bidi-font-size:
+11.0pt">
+网页：http://www.tfcampuschina.com/
+
+&nbsp;
+			
+				
+			工作研究领域
+			
+			1、烟倡导促动理论与方法（Tobaccocontroladvocacy）
+2、心理压力社会机制（stress）
+
+
+			
+				
+			联系方式
+			
+			电话：88208219			电子信箱：Tingzhongyang@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：杨廷忠
+		单位：公共卫生系
+		职称：教授
+		我的主页共被访问了16204次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	研究成果
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

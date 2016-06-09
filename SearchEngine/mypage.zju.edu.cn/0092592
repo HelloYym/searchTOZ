@@ -1,0 +1,208 @@
+
+
+
+
+
+袁弘主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0092592";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	袁弘主页
+
+
+	永久链接:http://mypage.zju.edu.cn/0092592&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			主要从事脂质纳米给药系统、靶向共聚物胶束给药系统等新型药物制剂的研究。在此基础上，开展了难溶性药物、多肽蛋白类药物的口服给药，抗肿瘤安全、高效治疗和逆转肿瘤耐药的研究，研究成果已被《Biomaterials》、《ACSNano》、《MolecularPharmaceutics》、《Mcaromolecules》、《Nanotechnology》、《InternationJournalofPharmaceutics》等高水平SCI期刊录用、发表。主持完成国家自然科学基金项目《细胞核靶向载体的设计与抗肿瘤药效学研究》、浙江省科学技术厅重大科技攻关项目《口服制剂纳米载体研究及其在多肽新药开发中的应用》，目前正在承担国家重大科学研究计划（973）项目子课题《纳米技术改善难溶性药物功效的研究》的研究。已发表SCI、EI收录论文叁十余篇；获得国家发明专利授权13项，获得新药证书2项、临床批件1项；获得浙江省科技进步二等、三等奖各1项、教育部自然科学二等奖1项。
+			
+				
+			工作研究领域
+			
+			1．脂质纳米给药系统的研究开发
+2．亚细胞靶向胶束给药系统的研究
+
+			
+				
+			联系方式
+			
+			电话：0571-88208439						
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：袁弘
+		单位：药学院药物制剂研究所
+		职称：教授
+		我的主页共被访问了4650次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+	专利成果
+	奖励荣誉
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,209 @@
+
+
+
+
+
+计算电磁学-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0004135";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	计算电磁学
+让我们的计算机懂得麦克斯韦定律！
+
+	永久链接:http://mypage.zju.edu.cn/cemwang&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			王浩刚，浙江大学副教授，博士生导师，主要从事计算电磁学及其在无线通信，射频集成电路，目标电磁散射，遥感，和纳米光学仿真中的应用基础研究。本科（1992-1996）和博士（1996-2001）分别就读于电子科技大学电子材料专业和电子工程专业。在电子科技大学博士期间在国内率先实现了C语言版适用于大规模电磁散射高效计算如战斗机RCS的多层快速多极子算法。在2006年获得教育部提名国家科学技术进步一等奖（排名第6）。2002年赴香港城市大学电子工程系作为期两年访问学者。在此期间国际首创了适合于多平面分层结构物体电磁散射快速计算的多层格林函数插值方法(MLGFIM)。该算法适合于高效计算复杂媒质电磁问题和低频问题，如多平面分层天线阵辐射问题和射频电路参数提取问题等，已被国内外多所高校采用。2006年起，作为课题负责人或子课题负责人先后承担了和正在承担国家973项目，国家863项目，国家自然科学基金重点项目和面上项目，以及浙江省自然科学基金等多项项目。2009年入选浙江大学新星计划作为浙江大学后备青年骨干教师赴美国西雅图华盛顿大学电机工程系进修两年，主要从事纳米光学透镜的优化及仿真算法研究以及随机粗糙面散射研究等。现担任中国计算物理学会计算电磁学专委会会员，以及IEEE成员，为国内外多个著名学术期刊的审稿人，中国国家自然科学基金以及浙江省自然科学基金评审人。至今在计算电磁学及相关应用领域发表学术论文30余篇。指导的学生论文在国际通信会议ICCT2012上获得最佳论文奖。
+			
+				
+			工作研究领域
+			
+			电磁散射和辐射计算的快速算法的开发，无线通信，微波和射频集成电路电磁仿真,纳米等离子体光学仿真研究，随机散射研究。
+			
+				
+			联系方式
+			
+						电子信箱：hgwang@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：王浩刚
+		单位：信息与电子工程学系
+		职称：副教授
+		我的主页共被访问了17593次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+	奖励荣誉
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	浙江大学网址
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

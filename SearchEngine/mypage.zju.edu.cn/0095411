@@ -1,0 +1,201 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0095411";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0095411&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			陈云龙，博士，副教授，1967年3月生，主要从事天然产物的活性成分分离提取及药理活性功能开发研究。1989年7月在华中农业大学食品科技系获工学学士。1989年8月至1992年8月在浙江金华奥托康制药公司工作，负责产品开发和质量控制。1995年7月在华中农业大学获食品化学专业硕士学位，学位论文题目为《银杏叶黄酮糖苷化合物及其应用研究》。1995年8月分配至浙江大学生命科学学院生物工程系工作，主持浙江省自然科学基金项目&ldquo;银杏愈伤组织中黄酮糖苷、内酯含量的研究&rdquo;（1998－2000）。作为主要完成人之一的&ldquo;银杏叶提取物新生产工艺研究&rdquo;成果，于1997年7月4日通过湖北省科委、湖北省医药管理局组织的成果鉴定，并应用于工业化生产，取得了良好的效果，获湖北省人民政府科技进步二等奖（2000年12月）。2000年开始从事石斛等植物多糖的提取分离、结构鉴定和生物免疫活性研究。2003年六月获浙江大学食品化学与天然产物化学博士学位。目前主要从事天然产物中抗肿瘤、抗菌活性成分的分离、鉴定及药理活性方面的基础和应用研究（863计划内容）。
+			
+				
+			联系方式
+			
+			电话：88206287			电子信箱：chenyl_zd@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：陈云龙
+		单位：生命科学学院
+		职称：副教授
+		我的主页共被访问了6590次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	奖励荣誉
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

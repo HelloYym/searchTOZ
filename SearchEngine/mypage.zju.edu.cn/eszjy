@@ -1,0 +1,214 @@
+
+
+
+
+
+张建英-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0091315";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	张建英
+环境科学与工程
+
+	永久链接:http://mypage.zju.edu.cn/eszjy&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			博士，副教授、硕士生导师，浙江大学环境科学研究所副所长、浙江大学环境与资源实验教学中心主任。主要从事污染生态化学、生态毒理、环境与健康评价研究工作。已主持完成&ldquo;卤代芳烃在蔬菜中的分布规律及安全性研究&rdquo;、&ldquo;饮用水消毒副产物与淡水微囊藻毒素复合污染的细胞毒性效应及污染化学机制&rdquo;、&ldquo;生活小区饮用水有机微污染净化系统研究&rdquo;、&ldquo;杭州生态市建设规划&rdquo;、&ldquo;典型区土壤和作物中PCBs的时空分布规律和风险预测&rdquo;、&ldquo;湖库微囊藻毒素监控及饮用水安全保障技术&rdquo;等课题。
+			
+				
+			工作研究领域
+			
+			环境科学专业
+
+1、污染生态化学。重点研究区域典型污染物对淡水藻类及水生态的化学过程行为与毒效应机理。
+
+2、城市生态环境技术与政策。重点研究城市生态管理政策、饮用水安全保障技术政策、流域生态健康风险预测技术，开展环境影响评价与生态规划科技服务。
+
+			
+				
+			联系方式
+			
+			电话：88982056			电子信箱：zjy@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：张建英
+		单位：环境与资源学院环境科学系
+		职称：副教授
+		我的主页共被访问了12008次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		发表论文
+	专利成果
+	工作研究项目
+	教学工作
+	奖励荣誉
+	研究成果
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

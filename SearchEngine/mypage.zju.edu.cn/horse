@@ -1,0 +1,224 @@
+
+
+
+
+
+逃离-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0088260";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	逃离
+horse
+
+	永久链接:http://mypage.zju.edu.cn/horse&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			浙江大学历史系教授兼系主任，浙江大学中国古代史研究所所长，浙江省历史学会会长，省级重点学科带头人，自1988年以来，研究工作集中在宋代史、中国古代经济史及近代东南区域史研究等方面。代表作《宋代地方财政史研究》（上海古籍出版社2001年）、《江南市镇及其近代命运》。曾多次到欧美亚各国讲学、研究。
+
+代表著作（论文）
+1、《宋代地方财政史研究》（上海古籍出版社2001年）
+2、《江南市镇及其近代命运》（知识出版社1998年）
+3、《试论宋代城市发展中的新问题》，载韩国《中国史研究》第40辑（2006年2月，235-266页）
+4、《宋代的粮食贸易》，载《中国社会科学》1991年第2期
+
+承担课题
+1、8-13世纪中国传统社会转轨研究&nbsp;
+
+开设课程
+1、宋史专题研究（本科生选修课）
+2、海外中国学文献选读（本科生选修课）
+3、唐宋史专题研究（博士研究生选修课）
+
+
+			
+				
+			工作研究领域
+			
+			宋代史、中国古代经济史、东南区域史
+
+			
+				
+			联系方式
+			
+			电话：0571-88273291			电子信箱：bweimin@gmail.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：包伟民
+		单位：人文学院历史学系
+		职称：教授
+		我的主页共被访问了30521次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	出版著作
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

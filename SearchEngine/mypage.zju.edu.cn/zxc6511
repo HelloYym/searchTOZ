@@ -1,0 +1,221 @@
+
+
+
+
+
+章孝灿-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0091088";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	章孝灿
+浙江大学
+
+	永久链接:http://mypage.zju.edu.cn/zxc6511&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			章孝灿，男，汉族，浙江富阳人，1965年11月生。浙江大学计算机学院计算机应用专业毕业，研究生学历，博士，教授，博士生导师。
+
+&nbsp;&nbsp;&nbsp;&nbsp;1984.9-1988.7&nbsp;浙江大学地球科学系遥感专业学习，获学士学位。
+&nbsp;&nbsp;&nbsp;&nbsp;1988.9-1991.7&nbsp;浙江大学地球科学系遥感专业学习，获硕士学位。
+&nbsp;&nbsp;&nbsp;&nbsp;1991.8-至今&nbsp;&nbsp;&nbsp;&nbsp;浙江大学地球科学系空间信息技术研究所任教。
+&nbsp;&nbsp;&nbsp;&nbsp;1996.3-2002.12&nbsp;浙江大学计算机学院计算机应用专业学习，获博士学位。
+&nbsp;&nbsp;&nbsp;&nbsp;1996.10-1997.10&nbsp;日本国立福井大学计算机系人工智能研究所高级访问学者。
+&nbsp;
+&nbsp;
+			
+				
+			工作研究领域
+			
+			1、遥感理论及遥感技术在土地、地质灾害、水利等领域的应用
+2、地理信息系统原理、算法研究及应用
+3、大洋科学考察信息化技术
+
+
+			
+				
+			联系方式
+			
+			电话：0571-88211302			电子信箱：zxc1121@zju.edu.cn;zxc@daditech.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：章孝灿
+		单位：地球科学系
+		职称：教授
+		我的主页共被访问了19676次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	奖励荣誉
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

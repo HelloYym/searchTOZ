@@ -1,0 +1,212 @@
+
+
+
+
+
+余官定-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0006240";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	余官定
+余官定
+
+	永久链接:http://mypage.zju.edu.cn/yuguanding&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+余官定，男，1980年10月出生，浙江乐清人，工学博士，副教授，硕士生导师。2001年6月毕业于浙江大学信息与电子工程学系，获本科学位，同年保送本系直接攻读博士学位，2006年6月于浙江大学信息与电子工程学系研究生毕业，获博士学位。毕业后留校工作，并于2006年7月至2008年8月在浙江大学信息与通信工程研究所从事博士后研究工作，2007年获得浙江大学信息学院先进工作者称号，2008年获得浙江大学优秀青年教师计划资助，2009年12月被评为副教授。主要研究方向为无线通信、无线网络和信息论。曾主持国家重大专项项目子课题，国家自然科学基金项目，浙江省自然科学基金项目，中国博士后科学基金项目和企业委托开发项目。作为学术骨干参与包括两项国家&ldquo;973&rdquo;项目在内的10余项科研项目。在IEEETransactiononWirelessCommunications等国内外期刊和会议上发表50余篇论文，被国内外同行引用600余次，h-index=13(GoogleScholar数据)，申请PCT国际专利1项，国内发明专利9项，获得授权3项。为国内外多个学术期刊和会议的论文评审专家，包括IEEETCOM，TWireless，TVT，CL，WCL，ICC，Globecom，电子学报，通信学报，电子与信息学报等。曾担任CRNet2010Generalco-chair，Chinacom2013symposiumco-chair和多个IEEE会议的TPCMember。
+
+			
+				
+			工作研究领域
+			
+			信息论，无线通信与无线网络。目前的主要研究方向是绿色通信(Greencommunications)，终端直通(Device-to-devicecommunications)和小基站技术(Smallcell)
+			
+				
+			联系方式
+			
+						电子信箱：yuguanding@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：余官定
+		单位：信息与电子工程学系
+		职称：副教授
+		我的主页共被访问了28990次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	专利成果
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

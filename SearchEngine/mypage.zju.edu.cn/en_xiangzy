@@ -1,0 +1,205 @@
+
+
+
+
+
+ZhiyuXiang-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0004280";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	ZhiyuXiang
+Theworldofcomputervisionandintelligentrobots!
+
+	Permanentlink:http://mypage.zju.edu.cn/en/xiangzy&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			Blog
+
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			&nbsp;&nbsp;ZhiyuXiangReceived&nbsp;hisPh.Ddegreein2002fromZhejiangUniversity.HewasthePostdoctorial&nbsp;fellowinAveiroUniversity(Portugal)during2002-2003,andtheresearchfellowinTheOhioStateUniversity(USA)during2003-2004,respectively.HehasbeenWorkinginZhejiangUniversityasanassociateprofessorsinceOct.2004.&nbsp;
+&nbsp;&nbsp;&nbsp;Asthe&nbsp;projectcoordinator,heisconductingorhasbeenconducted&nbsp;severalresearch&nbsp;projectsincluding2fromNationalScienceFoundationofChina(NSFC),3fromstatemilitarydepartmentsandprovincialtechnologydepartments.Asthemainmemberoftheresearchteam,heattended1KeyProjectsfromNSF.
+&nbsp;&nbsp;&nbsp;HehasPublishedmorethan30paperinsomerefereedjournalsandProceeedings.Heisalsothereviewerof&nbsp;some&nbsp;peerreviewedacademicjournals.&nbsp;&nbsp;
+
+
+			
+				
+			Researchwork
+			
+			Computervision,Robotnavigation,Embeddedsystem,IntelligentTransportationSystem
+			
+				
+			Contact
+			
+			Phone:
+			E-mail:xiangzy@zju.edu.cn
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:ZhiyuXiang
+		Units:DepartmentofInformationScienceandElectronicEngineering
+		Title:AssociateProfessor
+		Myhomepagehasbeenvisited4344times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+ReserachProjects
+teaching
+Publication
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	
+
+
+Youarevisitor:4344
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

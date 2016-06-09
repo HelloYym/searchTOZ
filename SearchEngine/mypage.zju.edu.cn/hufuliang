@@ -1,0 +1,220 @@
+
+
+
+
+
+胡福良-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0085115";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	胡福良
+个人主页
+
+	永久链接:http://mypage.zju.edu.cn/hufuliang&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			胡福良，男，理学博士，研究员，博士生导师。1964年6月出生，浙江东阳人，汉族，1985年7月毕业于浙江农业大学畜牧兽医系畜牧专业，同年留校任教。先后担任政治辅导员、团委书记、助教、助理研究员，1997年晋升为副研究员，2005年晋升为研究员。其间，1993年9月至1997年7月在浙江农业大学植物保护系攻读昆虫学硕士学位，获理学硕士。2002年2月至2005年4月在南非罗德斯大学（RhodesUniversity）动物与昆虫学系攻读博士学位，获理学博士。曾任浙江大学动物科学学院院长助理（2009-2014）、特种经济动物科学系副主任（1999-2009）。现任浙江大学蚕蜂研究所所长，兼任中国养蜂学会副理事长、中国蜂产品协会名誉副会长、浙江省蜂业协会理事长，国家蜂产业技术体系产品加工与产业经济研究室主任、岗位科学家。&nbsp;
+长期从事蜜蜂科学及功能性食品科学的科研与教学工作。先后主持国家自然科学基金、科技部、教育部、浙江省等各级各类课题50余项；获国家技术发明二等奖1项、国家科技进步三等奖1项，省部级奖5项；获得授权国家发明专利28项、申请11项；主编、副主编专著7部；发表学术论文300余篇，其中，SCI收录40余篇；培养蜂学博士15人、硕士18人。
+在蜜蜂生物学、行为学、蜂产品的化学成分、生物学活性、质量控制及深加工技术等领域有较深入的研究，取得了多项原创性成果。采用生物诱导与环境诱导相结合的方法，在国内外率先成功组建无障碍同巢意蜂多王群，并且开创了多王同巢越冬的成功先例，既为养蜂业创立了独特的饲养管理方式，又为社会性昆虫的研究提供了新的生物模式；系统研究了蜜蜂基因组中的miRNA，尤其是蜂王幼虫和工蜂幼虫的mRNA和miRNA的表达差异，获得了267个新的蜜蜂miRNA，为miRBase数据库中蜜蜂miRNA贡献了大部分的数据；对蜂胶的植物来源、功效成分、生物学活性、质量控制及深加工技术进行了系统的研究，解决了蜂胶水提的难题，并将纳米技术和酶解技术应用于蜂胶的深加工，出版了我国第一部蜂胶基础研究专著；率先提出了蜂胶新鲜度的指标，创立了基于水杨苷的HPLC蜂胶与杨树胶的鉴别方法与行业标准；率先对工蜂胎的营养价值、生物学活性及开发利用价值进行了较系统研究，开辟了一条新的蜂产品综合利用途径；对蜂王浆的质量控制尤其是新鲜度指标与评定方法进行了系统研究，从微观到宏观，从定性、半定量到定量建立了多种评判蜂王浆新鲜度的方法。在社会化服务方面，主持建设了杭州蜂业科技创新服务平台，主持完成了多项与企业合作的重大项目，取得了十分显著的社会经济效益。先后荣获国务院颁发的&ldquo;政府特殊津贴&rdquo;以及&ldquo;浙江省优秀教师&rdquo;、&ldquo;浙江省青少年英才&rdquo;、&ldquo;浙江省151人才&rdquo;、&ldquo;杭州市钱江特聘专家&rdquo;等称号。
+积极参与国际蜂业学术交流与合作。先后赴南非、日本、美国、加拿大、法国、意大利、韩国、澳大利亚、新西兰、俄罗斯、土耳其、台湾等国家和地区进行学术交流与合作研究，与南非、瑞士、法国、美国、日本、英国、澳大利亚等多所大学及科研机构建立了良好的合作关系。
+			
+				
+			工作研究领域
+			
+			主要从事蜜蜂生物学、蜂产品学及功能性食品学的科研与教学工作。
+			
+				
+			联系方式
+			
+			电话：0571-88982952,88982840			电子信箱：flhu@zju.edu.cn;fulianghu@yahoo.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：胡福良
+		单位：动物科学学院
+		职称：研究员（自然科学）
+		我的主页共被访问了51948次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	专利成果
+	学术兼职
+	奖励荣誉
+	团队成员
+	培养毕业研究生
+	国际合作网络
+	国际会议论文
+	产学研合作企业
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

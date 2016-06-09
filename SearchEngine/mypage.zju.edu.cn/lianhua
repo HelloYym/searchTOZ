@@ -1,0 +1,225 @@
+
+
+
+
+
+许莲花-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0012079";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	许莲花
+WelcometoLianhuaXU'shomepage
+
+	永久链接:http://mypage.zju.edu.cn/lianhua&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			教育背景
+&bull;&nbsp;1997.9-2001.7&nbsp;&nbsp;&nbsp;沈阳农业大学本科
+&bull;&nbsp;2003.4-2004.3&nbsp;&nbsp;&nbsp;东京大学（硕士预科）
+&bull;&nbsp;2004.4-2006.3&nbsp;&nbsp;&nbsp;东京大学硕士
+&bull;&nbsp;2006.4-2009.3&nbsp;&nbsp;&nbsp;东京大学博士
+&nbsp;工作经历
+&bull;&nbsp;2009.4-2012.3&nbsp;&nbsp;&nbsp;东京大学博士后
+&bull;&nbsp;2013.3-2013.5&nbsp;&nbsp;&nbsp;东京大学访问学者
+&bull;&nbsp;2012.6-now&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江大学讲师
+
+
+&nbsp;
+VisitorInformation&nbsp;
+&nbsp;
+var_clustrmaps=;(function())();
+&nbsp;
+			
+				
+			工作研究领域
+			
+			1.海洋天然产物生合成途径及相关酶的功能与晶体结构研究
+
+2.利用细胞色素P450的天然产物生物转化及生物催化研究
+			
+				
+			联系方式
+			
+			电话：0571-88208540			电子信箱：lianhuaxu（at）zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：许莲花
+		单位：海洋学院海洋生物研究所
+		职称：讲师
+		我的主页共被访问了6549次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		研究成果
+	工作研究项目
+	发表论文
+	奖励荣誉
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	东京大学酵素学研究室
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

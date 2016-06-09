@@ -1,0 +1,227 @@
+
+
+
+
+
+行云流水-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0099215";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	行云流水
+冯雷
+
+	永久链接:http://mypage.zju.edu.cn/fenglei&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+浙江大学生物系统与食品科学学院生物系统工程系副主任，副教授，硕士生导师，国家自然科学基金地球科学类、浙江省自然科学基金重点项目评审专家，国家高科技研究发展计划（863计划）&ldquo;多尺度农田信息获取与融合技术&rdquo;(千万级)课题负责人，所在的&ldquo;数字农业与农业物联网&rdquo;团队是浙江大学十佳&ldquo;五好&rdquo;导学团队之一。
+
+近五年，还主持国家自然科学基金等十余项课题，获得教育部（科学技术）科技进步一等奖（排名第2）、浙江省科技发明一等奖（排名第4），浙江省科技进步二等奖（排名第4）等奖励，发表被SCI和EI收录论文20余篇。主编出版了国家十一五规划教材《精细农业》、浙江省十一五重点建设教材《地球空间信息学基础》等科技著作。已经毕业的硕士研究生4名，目前指导博士研究生1名、硕士研究生3名；主讲研究生课程《精细农业专题》，本科生课程《全球定位系统与地理信息系统》、《精细农业》、《农业与生物系统工程导论》。
+
+喜好足球、排球等体育运动，曾获学院乒乓球男子单打冠军、围棋业余3段。&nbsp;
+
+
+&nbsp;
+&nbsp;
+
+&nbsp;
+			
+				
+			工作研究领域
+			
+			1、光谱分析和多光谱成像技术在植物营养和病虫害早期检测和诊断研究
+2、病害逆境胁迫下植物防御酶活性信息快速检测与可视化表达机理和方法研究
+3、设施栽培物联网智能监控与精准管理关键技术与装备
+4、无人机航空遥感在农业检测中的应用
+5、基于全球定位系统GPS和传感技术的农用车辆自动导航系统的研究
+
+
+			
+				
+			联系方式
+			
+			电话：0571-88982881			电子信箱：Lfeng@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：冯雷
+		单位：生物系统工程与食品科学学院生物系统工程系
+		职称：副教授
+		我的主页共被访问了8960次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	专利成果
+	奖励荣誉
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

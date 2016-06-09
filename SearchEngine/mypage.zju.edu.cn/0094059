@@ -1,0 +1,202 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0094059";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0094059&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			从事量子规范场理论、超对称理论、统一场理论和高精度弱电实验分析等方面的研究。主要成果有：(1)证明标准模型三种重整化方案的等同性；提出系统分析高精度弱电实验理论方案。(2)根据弱中性流实验和W-Z粒子性质，确定弱电混合角和当时尚未被发现的顶夸克质量上限。指出现有实验否定一般的SU(5)统一场论，但强烈支持超对称统一场论。由这些结果形成的论文是90年代粒子物理学最具有影响力的著作之一，被SCI列为HotPaper，已被引用超过750次。根据斯坦福大学http://www-spires.slac.stanford.edu数据库统计，所有论文被D0,CDF,CHARM-II,ALEPH,L3,CCFR,E744和E770等八个重要实验组和500多位作者(在上述八个实验组中列名的作者除外)引用，被引用总数超过950次。中国物理学会高能物理分会理事。中国科学院理论物理研究所客座教授。
+			
+				
+			工作研究领域
+			
+			量子规范场理论和统一场论/超对称理论/高精度弱电实验分析
+			
+				
+			联系方式
+			
+			电话：87951592			电子信箱：luo@zimp.zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：罗民兴
+		单位：物理学系
+		职称：教授
+		我的主页共被访问了5078次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

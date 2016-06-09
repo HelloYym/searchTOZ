@@ -1,0 +1,209 @@
+
+
+
+
+
+文学教授-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0001043";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	文学教授
+
+
+	永久链接:http://mypage.zju.edu.cn/0001043&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			何辉斌（1968&nbsp;&ndash;&nbsp;&nbsp;），男，教授，1993年华东师大英文研究生毕业，2001年获北京大学中文博士，07－08年在哈佛大学访学，具有良好的中西文学功底，主要研究领域为中西戏剧的比较研究、外国文学研究史和文学认知批评。出版专著3部：《戏剧性戏剧与抒情性戏剧&mdash;&mdash;中西戏剧比较研究》，中国社会科学出版社，2004年版；《西方悲剧的中国式批判》，中国社会科学出版社，2007年版；《20世纪浙江省外国文学研究史》（合著），浙江大学出版社出版，2009年版。主编教材2部：《西方思想经典选读》，北京大学出版社，2007年版；《艺术学经典文献导读书系&middot;戏剧卷》，北京师大出版社，2010年版。发表论文40余篇，完成省部级课题3个。
+&nbsp;
+			
+				
+			工作研究领域
+			
+			主要从事英美文学、中西戏剧比较研究、外国文学研究史和文学认知批评
+			
+				
+			联系方式
+			
+						电子信箱：hehuibin@163.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：何辉斌
+		单位：浙江大学英语文学研究所
+		职称：教授
+		我的主页共被访问了6964次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	奖励荣誉
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

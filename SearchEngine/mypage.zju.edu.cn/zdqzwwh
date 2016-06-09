@@ -1,0 +1,213 @@
+
+
+
+
+
+zdwanghui-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0091230";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	zdwanghui
+秋高气爽
+
+	永久链接:http://mypage.zju.edu.cn/zdqzwwh&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+分别于1982年、1988年获浙江大学工学学士，硕士学位；于1989年、1995年、2002年被聘任为讲师、副教授、教授。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;研究工作：截至2008年底，被SCI、EI检索论文约40篇，ISTP检索20余篇，在国内外学术刊物和国际会议上发表论文90余篇。作为撰稿人参与编著＜过程控制手册＞、＜化工大百科全书＞、＜计算机科学技术百科全书＞等辞典，并作为主编编著了教材＜计算机控制系统＞（国家十一五规划教材），＜控制系统数字仿真与计算机辅助设计＞（国家十一五规划教材），参与编辑＜系统工程导论＞教材。曾获省部级科技进步一等奖1次，三等奖2次。长期从事复杂系统的建模、控制、仿真和优化的研究和产业化工作。作为项目负责人承担的国家项目有：&ldquo;八五&rdquo;、&ldquo;九五&rdquo;、&ldquo;十一五&rdquo;攻关项目，863项目，省自然科学基金1项等。
+　　研究方向：目前的研究兴趣除了面向工业对象以外，还扩展到了面向智能交通系统，正承担国家863高科技项目&ldquo;基于混杂模型与在线数据融合的城市交通仿真与评估技术&rdquo;。
+　　教学工作：承担了多门本科生的课程：如自动控制理论。
+
+
+			
+				
+			工作研究领域
+			
+			1.复杂工程系统的建模、控制与优化
+2.智能交通系统工程
+3.工业过程的建模、控制与优化
+			
+				
+			联系方式
+			
+			电话：0571－87951970－403			电子信箱：hwang@iipc.zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：王慧
+		单位：控制科学与工程学系
+		职称：教授
+		我的主页共被访问了20766次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,231 @@
+
+
+
+
+
+邓见(J.Deng)-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0007240";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	邓见(J.Deng)
+
+
+	永久链接:http://mypage.zju.edu.cn/dengjian&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			邓见，男，浙江大学力学系流体工程研究所副教授。研究方向为流体力学。已承担国家自然科学基金二项、浙江省自然科学基金一项。
+【工作与学习经历】
+1998年9月~2002年7月，浙江大学，工程力学系，本科/学士
+2002年9月-2007年3月，浙江大学，力学系流体工程研究所，博士
+2007年5月-2009年5月，浙江大学，工程与科学计算研究中心，博士后，讲师
+2013年1月-2014年12月，剑桥大学应用数学与理论物理系，访问学者ResearchStaff
+2014年3月-2014年12月，剑桥大学丘吉尔学院VisitingBy-Fellow
+2009年5月-至今，浙江大学，航空航天学院，副教授
+			
+				
+			工作研究领域
+			
+			(1)鱼游推进机理及应用研究；
+(2)海流能量采集系统研究；
+(3)流动稳定性，湍流转捩研究；
+(4)流动减阻研究。
+			
+				
+			联系方式
+			
+						电子信箱：zjudengjian@gmail.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：邓见
+		单位：航空航天学院
+		职称：副教授
+		我的主页共被访问了16430次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	工程与科学计算研究中心
+流体中文网
+傲雪论坛
+蓝色流体
+中国国防科技论坛
+cfd-online
+OpenFOAM
+dolfyn
+SAMRAI
+Saturne
+OpenFVM
+OpenFlower
+iNavier
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

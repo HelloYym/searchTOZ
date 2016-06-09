@@ -1,0 +1,220 @@
+
+
+
+
+
+周云亨-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0012721";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	周云亨
+
+
+	永久链接:http://mypage.zju.edu.cn/zhouyunheng&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江大学公共管理学院专职科研人员，博士，浙江大学环境与能源政策研究中心秘书长。曾任上海市美国问题研究所专职研究人员、中华能源基金委员会研究人员，主持国家社科基金青年项目、教育部人文社科基金青年项目、中国博士后科研基金等项目，参与中欧重金属污染防治计划、全球可持续能源竞争力报告等研究课题，已在中文核心期刊发表论文二十余篇，多篇文章被《中国社会科学文摘》或《人大复印资料》转载。曾被评为复旦大学优秀毕业生，专著《中国能源安全中的美国因素》被评为第十七届浙江省哲学社会科学优秀成果三等奖。
+职业经历：
+2014年10月至今助理研究员浙江大学公共管理学院政府管理系；
+2012年6月&mdash;2014年10月博士后浙江大学公共管理学院政府管理系；
+2011年6月&mdash;2012年6月助理研究员上海市美国问题研究所。
+教育背景：
+2011年复旦大学，法学博士，学位论文方向：能源政策与能源安全；
+2008年上海外国语大学，法学硕士，学位论文方向：石油安全；
+2005年浙江大学，学士。
+当前研究：
+1.&nbsp;&nbsp;新型城镇化背景下我国清洁能源发展战略、激励机制与政策工具研究，国家社科基金青年项目，主持人；
+2.&nbsp;美国&ldquo;能源独立战略&rdquo;前景评估及对中国的影响研究，教育部人文社科基金青年项目，主持人；
+3.&nbsp;中国油气企业实施&ldquo;走出去&rdquo;战略面临的风险及对策研究，北大世界新能源战略研究中心，主持人。
+			
+				
+			工作研究领域
+			
+			能源安全、能源公共政策、中美关系以及新兴能源环保产业发展研究
+			
+				
+			联系方式
+			
+						电子信箱：yunhengzhou@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：周云亨
+		单位：公共管理学院
+		职称：助理研究员
+		我的主页共被访问了2746次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	出版著作
+	奖励荣誉
+	发表论文
+	国际会议
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,212 @@
+
+
+
+
+
+吕旭东个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0003440";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	吕旭东个人主页
+HomepageofXudongLu
+
+	永久链接:http://mypage.zju.edu.cn/0003440&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;&nbsp;教授，博士生导师,浙江大学生物医学工程与仪器科学学院院长助理。荷兰艾因霍芬科技大学客座教授，中国生物医学工程学会医学物理分会医学影像物理专业委员会常务理事，中华医学会数字医学分会青年委员，中国医院协会信息管理专业委员会青年委员，《中国生物医学工程学报》、《中国医疗器械杂志》审稿专家。
+&nbsp;&nbsp;2001年获浙江大学生物医学工程专业博士学位，2002年赴日与日本光电工业株式会社开展合作研究，研制出基于集成视图的综合生理检查信息系统，目前已在日本300余家大型医疗机构应用，在日本同类产品的市场占有率位居第一。2003年起在国内开展新型医疗信息技术的研究，研发出影像归档与通讯系统、心电诊断信息系统、重症监护信息系统等多个系统。2007年研发出国内领先的电子病历系统，并在解放军总医院建立示范工程，项目成果已经在近300家国内大中型医院推广。2007年与荷兰埃因霍芬科技大学和飞利浦公司开展国际合作，在国内率先开展医疗工作流及过程挖掘方面的研究，研究成果已在国外重要学术期刊上发表。2010年参与国家医疗信息技术领域十二五科技发展规划的编写以及国家卫生部多项医疗信息相关标准的拟定，是十二五&ldquo;863&rdquo;重大项目的课题负责人。
+&nbsp;&nbsp;在医疗信息技术领域承担及参与了多个国家、省部级以及国际合作项目，申请并获得了多项计算机软件著作版权。近几年来在国内外重要期刊和会议上发表学术论文一百余篇。
+&nbsp;
+			
+				
+			工作研究领域
+			
+			医疗信息系统，临床决策支持，医疗数据挖掘，医疗工作流技术
+
+			
+				
+			联系方式
+			
+			电话：0571-87951792			电子信箱：xudonglu@bme.zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：吕旭东
+		单位：生物医学工程与仪器科学学院
+		职称：教授
+		我的主页共被访问了15270次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+	实验室介绍
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

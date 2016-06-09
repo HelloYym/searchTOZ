@@ -1,0 +1,225 @@
+
+
+
+
+
+gengwd-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0095152";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	gengwd
+capg
+
+	永久链接:http://mypage.zju.edu.cn/capggeng&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			教授，计算机应用专业和数字化艺术设计专业的博士生导师，香港理工大学设计学院兼职副教授，2004年入选浙江省新世纪151人计划第二层次，2007年入选国家新世纪人才计划。
+近年来，曾先后在德国信息技术国家研究中心媒体通讯研究所、香港理工大学多媒体创新中心等大学和研究机构访问进修。
+
+主要学习经历：
+1989年7月于南京大学计算机系获学士学位
+1992年4月于国防科技大学计算机系获硕士学位
+1995年6月于浙江大学计算机系获博士学位
+
+主要研究工作经历：
+2003年1月至现在：浙江大学计算机科学与技术学院
+目前从事动作捕捉技术及计算机动画，计算机辅助美术动画的绘制等方面的基础研究工作，以及鞋类产品的个性化设计系统的研制和开发
+2002年1至2002年12月：香港理工大学多媒体创新中心
+主要从事动作捕捉技术及计算机动画方面的研究工作，包括动作捕捉数据的编辑，合成及动画制作中的动作数据重用等。
+2000年4月至2001年12月：德国信息技术国家研究中心媒体通讯研究所
+参加了两个欧盟的研究项目，从事电子商务，普适计算及基于感知的人机交互技术，实时情感计算等方面的研究工作。
+1995年7月至2000年3月：浙江大学计算机系
+			
+				
+			工作研究领域
+			
+			主要研究专长为计算机辅助设计、计算机动画与数字娱乐、人工智能/认知科学。
+目前从事动作捕捉技术及计算机动画，计算机辅助美术动画的绘制等方面的基础研究工作，以及网络游戏引擎、鞋类产品的个性化设计系统的研制和开发
+
+
+			
+				
+			联系方式
+			
+			电话：87951656			电子信箱：gengwd@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：耿卫东
+		单位：计算机科学与技术学院计算机科学与工程学系
+		职称：教授
+		我的主页共被访问了26191次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	出版著作
+	发表论文
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

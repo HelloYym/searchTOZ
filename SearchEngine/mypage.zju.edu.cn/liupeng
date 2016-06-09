@@ -1,0 +1,269 @@
+
+
+
+
+
+PengLiu'sHomepage-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0099051";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	PengLiu'sHomepage
+刘鹏--先进计算体系结构和集成电路系统
+
+	永久链接:http://mypage.zju.edu.cn/liupeng&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+
+
+
+
+
+
+刘鹏博士，博士生导师。
+&nbsp;
+&nbsp;&nbsp;&nbsp;1988年9月-1992年7月于浙江大学光学仪器系获光学仪器学士学位。
+&nbsp;&nbsp;&nbsp;1993年9月-1996年1月于浙江大学光学与科学仪器系获光学仪器硕士学位（导师刘向东教授）。
+&nbsp;&nbsp;&nbsp;1996年2月-1999年2月于浙江大学信息与电子工程学系获通信与电子系统博士学位（导师姚庆栋教授）。
+&nbsp;&nbsp;&nbsp;&nbsp;1999年4月至今任职于浙江大学信息与电子工程学系。
+&nbsp;&nbsp;&nbsp;&nbsp;2009-2010学年于UniversityofRochester作为访问学者，在Prof.MichaelC.Huang负责的先进计算机体系结构实验室（ACAL）学习高性能计算机体系结构。
+&nbsp;&nbsp;&nbsp;&nbsp;2011年和2013年作为短期访问学者同IBM中国系统与技术研发中心进行事务存储和高速互连的合作研究。
+&nbsp;&nbsp;&nbsp;&nbsp;中国计算机学会（CCF）和IEEE会员。
+
+
+
+
+2003年主持设计了国内首款RISC/DSP媒体数字信号处理器（&ldquo;浙大数芯&rdquo;）。2004年主持设计了国内大学首款异构双处理器核系统芯片，包括自主设计的RISC核和浙大数芯处理器。现浙大数芯系列IP核包括：媒体数字信号处理器，32位RISCIP核（已经授权合作企业生产销售了350万颗系统芯片）。
+&nbsp;
+目前指导7名博士生，6名硕士生。已单独培养了王小航，刘扬帆，方磊等3名博士，协助指导了高丰，顾雄礼等14名博士，培养了吴皓，余巧艳，江国范，辛愿等40余名硕士，指导了50余名本科毕业设计。
+
+
+近期论文发表于《IEEETransactionsonComputers》，《ElectronicsLetters》，《JournalofComputerScienceandTechnology》，《ParallelComputing》，《ACMTransactionsonArchitectureandCodeOptimization》等国际期刊；ICCD,PACT,ISCA等国际会议。已获得授权中国发明专利22项。
+
+
+
+
+
+&nbsp;
+&nbsp;&nbsp;
+
+研究基金(ResearchSponsors)
+
+国家自然科学基金NSFC
+国家高技术研究发展计划（863计划）
+霍英东教育基金
+国际商业机器（中国）投资有限公司,IBM中国系统与技术研发中心
+杭州士兰微电子股份有限公司
+华为技术有限公司
+数学工程与先进计算国家重点实验室
+高效能服务器和存储技术国家重点实验室
+
+
+
+我正在寻找具有强上进心的博士生和硕士生同我一起工作。
+			
+				
+			工作研究领域
+			
+			计算机体系结构及微体系结构,集成电路设计,大数据.
+
+			
+				
+			联系方式
+			
+			电话：+86-571-87953170			电子信箱：liupeng@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：刘鹏
+		单位：信息与电子工程学系
+		职称：副教授，博士生导师
+		我的主页共被访问了148985次
+标签：Dr.
+LIU	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		实验室新闻
+	发表论文
+	专利成果
+	学术交流（讲座报告）
+	教学工作
+	实验室介绍
+	博士生
+	硕士生
+	本科生
+	办公室
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	ComputerArchitecture
+IA-COMA
+VLSI-Stanford
+ColumbiaLightwave
+ParallelComputing
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,208 @@
+
+
+
+
+
+段会龙-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0091070";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	段会龙
+
+
+	永久链接:http://mypage.zju.edu.cn/0091070&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			研制出我国第一台诱发电位分析仪，与日本光电工业株式会社合作，设计并研制出动态心电分析系统；与日本脑机能研究所合作，开发出最新一代脑功能分析仪；承担国家自然科学基金科学仪器专项《双激光共聚焦生物芯片荧光分析仪》的研究工作，研制出具有国际先进水平并拥有自主知识产权的新一代双波长激光共聚焦生物芯片荧光分析仪。承担&ldquo;十一五&rdquo;863计划目标导向课题《医疗信息融合与临床支持系统》，系统地提出了数字化医疗的概念、主要内容和技术框架，为我国该领域的建立和发展做出了贡献；承担载人航天项目《航天员无创心功能监测仪》、浙江省重大专项《先进医用电子内窥镜关键技术及设备研发》、《基于电子病历的区域远程医疗》、中国工程院与国家自然科学基金委联合基金《国家电子健康档案基础信息构架战略研究》等多个项目；2011年起，主持或参与《1.5T超导磁共振研发》、《先进医用电子内窥镜》等国家科技支撑计划项目。2012年，承担生物和医药技术领域国家&ldquo;863计划&rdquo;《数字化医疗工程技术开发》重大项目《医疗信息集成与融合技术研发》课题（已立项）。参与国际蛋白组计划《心血管生物医学数据库》并担任中方负责人。
+			
+				
+			工作研究领域
+			
+			生物医学信号处理、医学图像处理分析与可视化、医学信息学、医学专家系统、医疗信息系统、临床决策支持等。
+			
+				
+			联系方式
+			
+			电话：87951791			电子信箱：duanhl@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：段会龙
+		单位：生物医学工程与仪器科学学院生物医学工程学系
+		职称：教授
+		我的主页共被访问了37965次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		实验室介绍
+	教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	专利成果
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

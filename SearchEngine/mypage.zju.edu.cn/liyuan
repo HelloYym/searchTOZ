@@ -1,0 +1,212 @@
+
+
+
+
+
+李媛老师的主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0096077";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	李媛老师的主页
+李媛老师的主页
+
+	永久链接:http://mypage.zju.edu.cn/liyuan&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			1989-1996年在上海外国语大学攻读德语语言文学专业，先后获得本科和硕士学位。1996年4月进入浙江大学工作。1997年8月至1998年2月参加国家教育部和德国歌德学院联合举办的全国德语青年骨干教师教学理论培训班。1998年8月获歌德学院奖学金赴德国亚琛参加&ldquo;德国与欧盟&rdquo;国际研讨班。1999年10月至2000年4月柏林工业大学教育系专业教学论研究所访问学者。2002年8月获德意志学术交流中心（DAAD）奖学金赴德国埃森大学参加&ldquo;跨文化教育&rdquo;国际研讨班。2003年2月至2006年9月获柏林工业大学奖学金，师从UlrichSteinmueller教授，在柏林工大人文学院语言与交际研究所攻读博士，在该所教授&ldquo;国际视野中的外语教学论&rdquo;和&ldquo;国情学教学论导论&rdquo;两门专业课程并受聘于柏林工大继续教育中心为全校教师开设&ldquo;跨文化交际培训&rdquo;课程。2006年7月以优异成绩获得柏林工业大学博士学位。2006年起任教育部专业外语指导委员会德语分会和教育部大学外语指导委员会德语分会兼职培训专家，参与培训全国专业德语和大学德语教师。2008年浙江省151人才第三层次人员。2008年10月至2009年11月持洪堡奖学金在柏林工业大学做博士后研究。
+在本科和硕士期间两次获得全国中德翻译比赛大奖。参加工作以来出版《形同实异-中德民间文学中的动物母题及渊薮》和《整合国情学》学术专著两部、《当代艺术的哲学分析》等学术译著近十部，参与主编《国际视野下的德语作为外国语研究的新发展和新动向》，参与编写国家&ldquo;普通高等教育&lsquo;十五&rsquo;国家级规划教材&rdquo;和&ldquo;普通高等教育&lsquo;十一五&rsquo;国家级规划教材&rdquo;《新编大学德语》及《新编大学德语修订版》教材。负责两项国家教育部项目，一项省社科项目，两项省厅级项目，主持横向课题若干并作为主要人员参加数项国家、部、省和校级科研课题，在国内外学术刊物上发表学术论文20余篇。
+&nbsp;
+			
+				
+			工作研究领域
+			
+			德语教学论、跨文化交际、中德比较文学、德语国家国情学、媒体学
+
+
+			
+				
+			联系方式
+			
+			电话：88206031			电子信箱：liyuan_hz@msn.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：李媛
+		单位：浙江大学德国学中心
+		职称：副教授
+		我的主页共被访问了11390次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	学术交流（讲座报告）
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

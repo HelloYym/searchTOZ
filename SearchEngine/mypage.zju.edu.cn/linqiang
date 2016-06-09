@@ -1,0 +1,204 @@
+
+
+
+
+
+林强的个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0088287";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	林强的个人主页
+有光，就有希望
+
+	永久链接:http://mypage.zju.edu.cn/linqiang&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			林强（QiangLIN），1964年7月出生，理学博士，德国洪堡基金获得者。现任浙江大学光学研究所所长、教授、博士生导师。兼任中国致公党中央委员、浙江省人大常委、致公党浙江省副主委、浙江大学主委。浙江省自然科学基金青年人才专项基金获得者、浙江省151人才工程第一层次人员。曾获得国家技术发明三等奖、国务院特殊津贴、全国高等学校自然科学二等奖、浙江省高校优秀科研成果一等奖等多项奖励。主持国家重大科学研究计划、国家自然科学基金、省自然科学基金等课题10余项，已在国内外学术刊物上发表论文170余篇。有100余篇论文被SCI收录。所培养的博士生获得全国&ldquo;百篇&rdquo;优秀博士学位论文。
+			
+				
+			工作研究领域
+			
+			量子光学/冷原子物理/激光物理/电磁波和物质波的传输
+			
+				
+			联系方式
+			
+						电子信箱：qlin@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：林强
+		单位：物理学系
+		职称：教授
+		我的主页共被访问了8010次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	个人简历
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,213 @@
+
+
+
+
+
+高超超的个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0011084";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	高超超的个人主页
+
+
+	永久链接:http://mypage.zju.edu.cn/chaochaogao&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			高超超，女，1978年生。博士，副教授，博士生副导师，&ldquo;求是青年学者&rdquo;。2000年获浙江大学环境科学系学士学位；2008年获美国新泽西州立大学环境科学博士学位。博士期间作为主要研究人员完成美国国家海洋大气局和新泽西州立环保局科研项目各一项。2008年至2011年分别担任美国北卡州立大学讲师、纽约州立大学助理教授工作；2011年9月进入浙江大学环境与资源学院从事科研和教学工作。2006年获国际START(GlobalChangeSystemforAnalysis,Research,andTraining)组织青年科学家称号；2010年获UUP（UnitedUniversityProfessions）SUNY个人成长奖。
+研究方向为全球气候变化与古气候学，主要研究全球和区域气候变化对农业生产，水资源等环境和社会经济影响，探索人类应对气候变化理论和技术。在J.Geophys.Res.等国际学术期刊发表SCI，EI论文10余篇，其中一篇被自然杂志评为科研亮点（ResearchHighlightinNature,July6,2006）；另一篇被美国地球物理学会选为科研亮点（ResearchSpotlightinAGU,Augest5,2014）。目前主持浙江省自然科学基金、美国布朗大学高等研究院种子基金、浙江大学青年科研创新专项，紫金计划等项目。
+			
+				
+			工作研究领域
+			
+			火山活动序列重建与气候效应研究
+地球工程机理与气候效应研究
+区域应对气候变化战略研究
+			
+				
+			联系方式
+			
+			电话：0571-88982489			电子信箱：gaocc@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：高超超
+		单位：环境与资源学院
+		职称：副教授
+		我的主页共被访问了5447次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		研究成果
+	发表论文
+	学术交流（讲座报告）
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	布朗大学WatsonInstitute的报道
+AlanRobock
+RutgersClimateandEnvironmentalChangeInitiative
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

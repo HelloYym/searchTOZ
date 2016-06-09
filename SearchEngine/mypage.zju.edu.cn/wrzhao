@@ -1,0 +1,217 @@
+
+
+
+
+
+赵伟荣-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0004196";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	赵伟荣
+环境工程系
+
+	永久链接:http://mypage.zju.edu.cn/wrzhao&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			1、个人简介
+作为项目负责人，正主持承担国家级科研项目3项；在国内外重要刊物上发表科学论文42篇，其中SCI论文32篇；已授权43项相关国家发明专利；在化工出版社出版编著4部。其中，近5年以来，已发表SCI论文13篇，已获授权26项国家发明专利。
+2、研究工作经历
+&nbsp;2004年－2006年，浙江大学，环境工程系，讲师
+&nbsp;2006年－至今，浙江大学，环境工程系，副教授
+&nbsp;2010年－2011年，美国Auburn大学，访问学者
+联系地址与方式：
+杭州市余杭塘路866号浙江大学农生环组团B233，浙江大学环境工程研究所
+邮编：310058；
+电话：0571-88982032，13805799467
+			
+				
+			工作研究领域
+			
+			环境催化技术、大气污染控制技术、水污染控制工程
+			
+				
+			联系方式
+			
+			电话：0571-88982032			电子信箱：weirong@mail.hz.zj.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：赵伟荣
+		单位：环境与资源学院环境工程系
+		职称：副教授
+		我的主页共被访问了10557次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		发表论文
+	出版著作
+	专利成果
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

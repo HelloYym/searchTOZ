@@ -1,0 +1,239 @@
+
+
+
+
+
+盛建中-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0009006";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	盛建中
+
+
+	永久链接:http://mypage.zju.edu.cn/shengjz&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			1982年获浙江医科大学医学学士学位
+1988年获浙江医科大学医学硕士学位
+1998年获香港大学博士学位
+1998－2005，美国辛辛那提大学，加拿大卡尔加里大学博士后
+2005－2008，加拿大卡尔加里大学AssistantProfessor
+2009年至今浙江大学教授，博士生导师
+在Diabetes,MolecularAspectsofMedicine,FASEBJournal,JournalofBiologicalChemistry,JournalofMolecularMedicine,AmericanJournalofPhysiology,JournalofPharmacology&amp;ExperimentalTherapeutics,BiophysicalJournal,BritishJournalofPharmacology,JournalofClinicalEndocrinology&amp;Metabolism,BiologyofReproduction,HumanReproduction,Fertility&amp;Sterility等SCI杂志发表论文数十篇。
+主要研究兴趣：FSHR与更年期血管功能紊乱；胚胎着床机制；胚胎干细胞分化
+主要研究平台：实验室隶属生殖遗传教育部重点实验室。拥有离子荧光成像，荧光显微镜，膜片钳，细胞内微注射，小血管收缩，无创伤小动物动脉血压检测，实时RNA检测，酶标仪，以及其它分子生物学，生物化学和生理学实验设备。
+在研基金：
+1.国家重点基础研究发展计划（973计划）：辅助生殖诱发胚胎源性疾病的风险评估和机制研究No.2012CB944900-2012CB944903，250万，2012.1-2016.12。子项目研究ART出生子代心血管疾病相关因子表达异常的分子调控机制研究。
+2.国家重点基础研究发展计划（973计划）：雌性生育力维持调节机制研究及生殖资源库建立No.2011CB944500-2011CB944502，250万，2011.1-2015.12。子项目研究卵母细胞中水通道在卵母细胞冰冻保存中的作用。
+3.国家自然科学基金:血管内皮细胞FSH受体介导的更年期血管功能紊乱的分子机制研究。No.81070268，32万，2011.1-2013.12。
+4.浙江省自然科学基金:No.Y2100452,10万，2010.10-2013.9。
+5.教育部博士点基金：6万，2011-2013
+6.浙江省卫生厅生殖医学研究团队建设基金：50万，2010-2014。
+2009年后发表SCI论文
+1.&nbsp;DingGL,WangFF,ShuJ,TianS,JiangY,ZhangD,WangN,LuoQ,ZhangY,JinF,LeungPCK,ShengJZ（共同通讯作者）,HuangHF.TransgenerationalGlucoseintolerancewithIgf2/H19epigeneticalterationsinmouseisletinducedbyintrauterinehyperglycemia.Diabetes2012March[Epubaheadofprint].doi:10.2337/db11-1314（SCI收录，IF8.889）
+2.&nbsp;ZhangRJ,ZouLB,ZhangD,TanYJ,WangTT,LiuAX,QuF,MengY,DingGL,LuYC,LvPP,ShengJZ（共同通讯作者）,HuangHF.FunctionalExpressionofLarge-ConductanceCalcium-ActivatedPotassiumChannelsinHumanEndometrium:ANovelMechanismInvolvedinEndometrialReceptivityandEmbryoImplantation.JClinEndocrinolMetab.2012Feb;97(2):543-53（SCI收录，IF6.495）
+3.&nbsp;ZhangD,TanYJ,QuF,ShengJZ,HuangHF.Functionsofwaterchannelsinmaleandfemalereproductivesystems.MolecularAspectsofMedicine2012March&nbsp;[Epubaheadofprint]，doi.org/10.1016/j.mam.2012.02.002（SCI收录，IF10.552）
+4.&nbsp;QuF,WangFF,YinR,DingGL,El-princeM,GaoQ,ShiBW,PanHH,HuangYT,JinM,LeungPCK,ShengJZ,HuangHF.Amolecularmechanismunderlyingovariandysfunctionofpolycysticovarysyndrome:Hyperandrogenisminducesepigeneticalterationsinthegranulosacells.JMolMed.2012March[Epubaheadofprint]，doi:10.1007/s00109-012-0881-4（SCI收录，IF5.192）
+5.&nbsp;LuYC,DingGL,YangJ,ZhangYL,ShiS,ZhangRJ,ZhangD,PanJX,ShengJZ,HuangHF.Small-conductancecalcium-activatedK+channels3(SK3)regulateblastocysthatchingbycontrolofintracellularcalciumconcentration.HumReprod.2012March[Epubaheadofprint]，doi:10.1093/humrep/des060（SCI收录，IF4.357）
+6.&nbsp;ZouLB,ZhangRJ,TanYJ,DingGL,ShiS,ZhangD,HeRH,LiuAX,WangTT,LeungPC,ShengJZ（共同通讯作者）,HuangHF.Identificationofestrogenresponseelementintheaquaporin-2genethatmediatesestrogen-inducedcellmigrationandinvasioninhumanendometrialcarcinoma.JClinEndocrinolMetab.2011Sep;96(9):E1399-408.（SCI收录，IF6.495）
+7.&nbsp;LiuAX,HeWH,YinLJ,LvPP,ZhangY,ShengJZ,LeungPC,HuangHF.Sustainedendoplasmicreticulumstressasacofactorofoxidativestressindecidualcellsfrompatientswithearlypregnancyloss.JClinEndocrinolMetab.2011Mar;96(3):E493-7.（SCI收录，IF6.495）
+8.&nbsp;RaqeebA,ShengJ,AoN,BraunAP.PurinergicP2Y2receptorsmediaterapidCa(2+)mobilization,membranehyperpolarizationandnitricoxideproductioninhumanvascularendothelialcells.CellCalcium.2011Apr;49(4):240-8.（SCI收录，IF3.553）
+9.&nbsp;FengC,TianS,ZhangY,HeJ,ZhuXM,ZhangD,ShengJZ,HuangHF.Generalimprintingstatusisstableinassistedreproduction-conceivedoffspring.FertilSteril.2011Dec;96(6):1417-1423.e9.（SCI收录，IF3.958）
+10.&nbsp;ZhangD,LvP,ZhangR,LuoQ,DingG,YinL,LiJ,XuG,QuF,ShengJ,HuangH.Anewmodelforembryoimplantation:cocultureofblastocystsandIshikawacells.GynecolEndocrinol.2011Nov22.[Epubaheadofprint]（SCI收录，IF1.461）
+11.&nbsp;WangN,WangL,LeF,ZhanQ,ZhengY,DingG,ChenX,ShengJ,DongM,HuangH,JinF.AlteredexpressionofArmetandMrlp51intheoocyte,preimplantationembryo,andbrainofmicefollowingoocyteinvitromaturationbutpostnatalbraindevelopmentandcognitivefunctionarenormal.Reproduction.2011Sep;142(3):401-8.（SCI收录，IF3.049）
+12.&nbsp;LiL,WangL,XuX,LouH,LeF,LiL,ShengJ,HuangH,JinF.Genome-wideDNAmethylationpatternsinIVF-conceivedmiceandtheirprogeny:aputativemodelforART-conceivedhumans.ReprodToxicol.2011Jul;32(1):98-105.（SCI收录，IF3.137）
+13.&nbsp;LiL,WangL,LeF,LiuX,YuP,ShengJ,HuangH,JinF.EvaluationofDNAmethylationstatusatdifferentiallymethylatedregionsinIVF-conceivednewborntwins.FertilSteril.2011May;95(6):1975-9.（SCI收录，IF3.958）
+14.&nbsp;WangTT,WuYT,DongMY,ShengJZ,LeungPC,HuangHF.G546Apolymorphismofgrowthdifferentiationfactor-9contributestothepooroutcomeofovarianstimulationinwomenwithdiminishedovarianreserve.FertilSteril.2010Nov;94(6):2490-2.（SCI收录，IF3.958）
+15.&nbsp;QuF,WangFF,LuXE,DongMY,ShengJZ,LvPP,DingGL,ShiBW,ZhangD,HuangHF.Alteredaquaporinexpressioninwomenwithpolycysticovarysyndrome:hyperandrogenisminfollicularfluidinhibitsaquaporin-9ingranulosacellsthroughthephosphatidylinositol3-kinasepathway.HumReprod.2010Jun;25(6):1441-50.（SCI收录，IF4.357）
+16.&nbsp;YangY,WuX,GuiP,WuJ,ShengJZ,LingS,BraunAP,DavisGE,DavisMJ.Alpha5beta1integrinengagementincreaseslargeconductance,Ca2+-activatedK+channelcurrentandCa2+sensitivitythroughc-src-mediatedchannelphosphorylation.JBiolChem.2010Jan1;285(1):131-41.（SCI收录，IF5.520）
+17.&nbsp;TangL,ZhangY,PanH,LuoQ,ZhuXM,DongMY,LeungPC,ShengJZ,HuangHF.InvolvementofcyclinB1inprogesterone-mediatedcellgrowthinhibition,G2/Mcellcyclearrest,andapoptosisinhumanendometrialcell.ReprodBiolEndocrinol.2009Dec7;7:144.（SCI收录，IF1.695）
+18.&nbsp;ShengJZ,EllaS,HillM,DavisM,BraunA.OpenersofSKCaandIKCaChannelsEnhanceAgonist-evokedEndothelialNitricOxideSynthesisandArteriolarVasodilation.FASEBJ.2009Apr;23(4):1138-45.（SCI收录，IF7.049）
+			
+				
+			工作研究领域
+			
+			主要研究方向：1.更年期血管功能紊乱的分子机制
+	2.胚胎着床机制
+
+			
+				
+			联系方式
+			
+			电话：0571-88208803			电子信箱：shengjz@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：盛建中
+		单位：基础医学系
+		职称：教授
+		我的主页共被访问了951次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

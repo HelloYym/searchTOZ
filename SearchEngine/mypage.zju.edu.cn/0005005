@@ -1,0 +1,337 @@
+
+
+
+
+
+0005005-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0005005";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	0005005
+Onelab,onedream
+
+	永久链接:http://mypage.zju.edu.cn/0005005&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			姓名：周天华
+浙江大学求是特聘教授、博士、博士生导师
+&ldquo;国家杰出青年基金&rdquo;获得者
+教育部&ldquo;新世纪优秀人才计划&rdquo;获得者
+浙江省&ldquo;钱江人才计划&rdquo;获得者
+医学细胞生物学主讲教师
+信件地址：杭州市余杭塘路866号浙江大学医学院80号信箱，邮编：310058
+办公室：浙江大学医学院科研楼B－703室（紫金港校区）
+办公室电话：0571－88208009
+实验室电话：0571－88208257
+电子邮件：tzhou@zju.edu.cn
+个人网站：http://www.cmm.zju.edu.cn/chinese/scholar.php?uid=17
+实验室网站：http://www.cmm.zju.edu.cn/molecule/GroupServe234.aspx
+课程网站：http://10.71.121.158/G2S/Template/View.aspx?action=view&amp;courseType=1&amp;courseId=27337&amp;ZZWLOOKINGFOR=G
+
+
+所属学科：细胞生物学、病理学与病理生理学
+学科专长：分子细胞生物学和肿瘤分子生物学
+研究方向：细胞运动和细胞周期分子调控及其在癌症发病中的作用
+&nbsp;
+国际研究合作者：
+美国普林斯顿大学讲席教授YibinKang博士
+美国科学院院士，哈佛大学讲席教授Ray&nbsp;Erikson博士&nbsp;
+&nbsp;
+简历：
+2012-至今：&nbsp;&nbsp;浙江大学医学部副主任
+2012-至今：&nbsp;&nbsp;浙江大学医学部分子医学中心主任
+2009-2012：浙江大学基础医学系系副主任
+2007-2011：浙江大学实验动物中心主任
+2006-2013：浙江大学细胞生物学研究所副所长
+2005-至今：&nbsp;浙江大学疾病模型与模拟交叉研究中心主任，教授
+2000-2005：美国哈佛大学分子与细胞生物学系博士后
+1996-1999：中国科学院上海生命科学研究院博士研究生（细胞生物学）
+1993-1996：浙江大学医学院硕士研究生（临床医学）
+1988-1993：浙江大学医学院本科生（临床医学）
+&nbsp;
+主要学术兼职：
+CellResearch（最新影响因子10.5）编委
+中国细胞生物学学会理事
+中国细胞生物学学会青年委员会副主任委员
+中国细胞生物学学会细胞结构与功能分会秘书长
+浙江大学青年教授联谊会副会长
+浙江省细胞生物学学会常务理事
+&nbsp;
+近年来发表主要SCI论文：
+作为通讯作者和第一作者的主要论文（*通讯作者）：
+1.ShenM,CaiY,YangY,YanX,LiuXandZhouT*.(2013).CentrosomalProteinFOR20isessentialforS-phaseprogressionbyRecruitingPlk1toCentrosomes.CellResearch23(11):1284-1295.doi:10.1038/cr.2013.127（最新影响因子:10.526）
+2.DengY,HuangZ,XuY,JinJ,ZhuoW,ZhangC,ZhangX,ShenM,YanX,WangL,WangX,KangY,SiJ*andZhouT*.(2013).MiR-215modulatesgastriccancercellproliferationbytargetingRB1.CancerLettersAug24.doi:10.1016/j.canlet.2013.08.033.（最新影响因子:4.23）.
+3.LiuY,YanXandZhouT*.(2013).TBCKInfluencesCellProliferation,CellSizeandmTORSignalingPathway.PLOSONE8(8):e71349.doi:10.1371/journal.pone.0071349(最新影响因子3.73).
+4.XuY,DengY,YanXandZhouT*.(2011).TargetingmiR-375ingastriccancer.ExpertOpiniononTherapeuticTargets15(8):961-972.（当年影响因子:3.716）
+5.ZhuX,LiuX,JinQ,CaiY,YangYandZhouT*.(2010).TheL279PMutationofNuclearDistributionGeneC(NudC)InfluencesItsChaperoneActivityandLIS1Stability.JournalofBiologicalChemistry285(39):29903-29910.(当年影响因子:5.328)
+6.DingL,XuY,ZhangW,DengY,SiM,DuY,HaoH,LiuX,SiJ*andZhouT*.(2010).MiR-375FrequentlyDown-regulatedinGastricCancerInhibitsCellProliferationbyTargetingJAK2.CellResearch20(7):784-793.（当年影响因子:9.417)
+7.YangY,YanX,CaiY,LuY,SiJandZhouT*.(2010).NudC-likeprotein2regulatestheLIS1/dyneinpathwaybystabilizingLIS1withHsp90.ProceedingsoftheNationalAcademyofSciencesoftheUnitedStatesofAmerica107(8):3499-3504.（当年影响因子:9.771)
+8.CaiY,YangY,ShenMandZhouT*.(2009)InhibitionofcytokinesisbyoverexpressionofNudCLthatislocalizedtothecentrosomeandmidbody.CellResearch19(11):1305-1308.（当年影响因子:8.151）
+9.DuY,XuY,DingL,YaoH,YuH,ZhouT*andSiM*.(2009)Down-regulationofmiR-141ingastriccanceranditsinvolvementincellgrowth.JournalofGastroenterology44(6):556&ndash;561.（当年影响因子:2.909）
+10.ZhouT,ZimmermanW,LiuXandEriksonRL.(2006).AMammalianNudC-LikeProteinEssentialforDyneinStabilityandCellViability.ProceedingsoftheNationalAcademyofSciencesoftheUnitedStatesofAmerica103(24):9039-9044.（当年影响因子:9.643）
+11.ZhouT,*AumaisJ,LiuX,Yu-Lee,LYandErikson,RL.(2003).AroleforPlk1phosphorylationofNudCincytokinesis.DevelopmentalCell5(1):127-138.（当年影响因子:14.807）
+12.ZhouTH,LingK,GuoJ,ZhouH,WuY,JingQ,MaLandPeiG.(2000).Identificationofahumanbrain-specificisoformofmammalianSTE20-likekinase3thatisregulatedbycAMP-dependentproteinkinase.JournalofBiologicalChemistry275(4):2513-2519.（当年影响因子:7.368））
+13.WuGX,#LinYM,#ZhouTH,#GaoHandPeiG.(2000).Significantdown-regulationofalpha-albumininhumanhepatomaanditsimplication.CancerLetters160(2),229-236.（#共同第1作者，当年影响因子:1.517）
+14.ZhouTH,RenXH,YinDL,WuYL,LiM,LuCZ,WuDC,WuYQ,PengYQ,WangYP,MaLandPeiG.(1997).Retardationofpaindevelopment:acaseofrecoveryfromcongenitalinsensitivitytopain.ActaAnaesthesiologicaScandinavica41,1077-1079.（2010年影响因子:1.953）&nbsp;
+作为合作作者的主要论文：
+15.ShaoCY,ZhuJ,XieYJ,WangZ,WangYN,WangY,SuLD,ZhouL,ZhouTHandShenY.(2013).DistinctFunctionsofNuclearDistributionProteinsLIS1,Ndel1andNudCLinRegulatingAxonalMitochondrialTransport.Traffic14:785-797.（最新影响因子:4.919）
+16.WangL,ChenS,XueM,ZhongJ,WangX,GanL,LamEK,LiuX,ZhangJ,ZhouT,YuJ,JinHandSiJ.(2012).HomeoboxD10gene,acandidatetumorsuppressor,isdownregulatedthroughpromoterhypermethylationandassociatedwithgastriccarcinogenesis.MolecularMedicine18(3):389-400（最新影响因子:3.757）
+17.YinY,LiJ,ChenS,ZhouTandSiJ.(2012).MicroRNAsasDiagnosticBiomarkersinGastricCancer.IntJMolSci.13(10):12544-12555.（最新影响因子:2.598）
+18.GanL,ChenS,ZhongJ,WangX,EKLam,LiuX,ZhangJ,ZhouT,YuJ,SiJ,WangL,andJinH.(2011).ZIC1isdownregulatedthroughpromoterhypermethylation,andfunctionsasatumorsuppressorgeneincolorectalcancer.PloSOne6(2):e16916.（当年影响因子:4.092）
+19.ZhouQ,LuX,GanL,ChenS,ZhouT,WangLandSiJ.(2010).RoleofREGI&alpha;ingastriccarcinogenesis:Gastrin-associatedproliferativeandanti-apoptoticactivities.MolecularMedicineREPORORTS3(6):999-1005.（当年影响因子:0.307）
+20.LiA,ZhouT,GuoL,SiJ.(2010)CollagentypeIregulatesbeta-catenintyrosinephosphorylationandnucleartranslocationtopromotemigrationandproliferationofgastriccarcinomacells.OncologyReports23(5):1247-1255.（当年影响因子:1.686）
+21.ZhaoY,ZhouT,YaoH,HeiF,WangLandSiJ.(2009)APotentialRoleofCollagensExpressioninDistinguishingbetweenPremalignantandMalignantLesionsinStomach.TheAnatomicalRecord292(5):692-700.（当年影响因子:1.490）
+22.ChenY,ChenY,LiuWL,ZhouTH,CaiJT,DuQ,WangLJ,WuJGandSiJM.(2009).Therapeuticeffectsofrectaladministrationofmuscoviteonexperimentalcolitisinrats.JournalGastroenterologyandHepatology24(5):912-919.（当年影响因子:2.317）
+23.PanH,ShengJZ,TangL,ZhuR,ZhouTHandHuangHF.(2008).Increasedexpressionofc-fosproteinassociatedwithincreasedmatrixmetalloproteinase-9proteinexpressionintheendometriumofendometrioticpatients.Fertility&amp;Sterility90(4):1000-1007.（当年影响因子:4.167）
+24.LiM,ZhouTH,GaoY,ZhangNandLiJC.(2007).Ultrastructureandestrogenregulationofthelymphaticstomataofovarianbursainmice.TheAnatomicalRecord290(10):1195-1202.（当年影响因子:1.800）
+25.LiuWL,ChenSJ,ChenY,SunLM,ZhangW,ZengYM,ZhouTHandSiJM.(2007).Protectiveeffectsofheatshockprotein70inducedbygeranylgeranylacetoneinatrophicgastritisinrats.ActaPharmacologySinica28(7):1001-1006.（当年影响因子:1.67）
+26.LiuAX,JinF,ZhangWW,ZhouTH,ZhouCY,YaoWM,QianYLandHuangHF.(2006).Proteomicanalysisonthealterationofproteinexpressionintheplacentalvilloustissueofearlypregnancyloss.BiologyofReproduction75(3):414-420.（当年影响因子:3.498）
+27.LiuX,LinCY,LeiM,YanS,ZhouTandEriksonRL.(2005).CCTchaperonincomplexisrequiredforthebiogenesisoffunctionalPlk1.MolecularandCellularBiology25(12):4993-5010.（当年影响因子:7.093）
+28.LiuX,ZhouT,YanSandEriksonRL.(2004).Molecularinteractionofpolo-likekinase1withmitotickinesin-likeproteinCHO1/MKLP-1.JournalofCellScience117(15):3233-3246.（当年影响因子:6.910）
+29.LiuX,YanS,ZhouT,TeradaYandEriksonRL.(2004).TheMAPkinasepathwayisrequiredforentryintomitosisandcellsurvival.Oncogene23(3):763-776.（当年影响因子:6.318）
+30.WangP,WuY,ZhouTH,SunYandPeiG.(2000).IdentificationofalternativesplicingvariantsofthebetasubunitofhumanCa(2+)/calmodulin-dependentproteinkinaseIIwithdifferentactivities.FEBSLetters475(2):107-110.（当年影响因子:3.440）
+31.YuQM,ChengZJ,ZhouTH,CenB,GuoSQandPeiG.(1999).Molecularcloningofhumanbetaarrestin1cDNA,expressionandfunctionstudy.ActaBiochimicaetBiophysicaSinica31(3):344-346.（2010年影响因子:1.547）
+32.LouLG,ZhouT,WangPandPeiG.(1999).ModulationofCa2+/Calmodulin-DependentProteinKinaseIIActivitybyAcuteandChronicMorphineAdministrationinRatHippocampus:DifferentialRegulationof&#61537;and&#61538;Isoforms.MolecularPharmacology55(3):557-563.（2010年影响因子:4.725）
+33.YuQM.,ChengZJ,ZhaoJ,ZhouTH,WuYLMaLandPeiG.(1998).Carboxylterminalofrhodopsinkinaseisrequiredforthephosphorylationofphoto-activatedrhodopsin.CellResearch8(4),:303-310.（2010年影响因子:9.417）
+34.FanGH,ZhouTH,ZhangWBandPeiG.(1998).SuppressionofPhospholipaseCblocksGi-mediatedinhibitionofadenylylcyclaseactivity.EuropeanJournalofPharmacology341(2),317-322.（2010年影响因子:2.737）
+35.WuYL,FanGH,ZhaoJ,ZhouTH,MaLandPei,G.(1997).FunctionalexpressionofOpioidreceptor-likeReceptoranditsendogenousspecificagonistNociceptin/OrphaninFQduringMouseembryogenesis.CellResearch7(2):207-215.（2010年影响因子:9.417）
+&nbsp;
+主要科研项目：
+1.&nbsp;国家杰出青年科学基金项目：细胞生物学；2012年1月－2015年12月，负责人。
+2.&nbsp;国家自然科学基金重大项目：微环境诱导细胞极性转换与迁移的新机制及新技术研究（细胞迁移的在体多维显微成像与蛋白活性光学操纵技术研究及应用）；2012年1月－2016年12月，子课题负责人。
+3.&nbsp;国家自然科学基金面上项目：新型中心体蛋白LisH1在细胞迁移中的作用及分子机制；2011年1月－2013年12月，负责人。
+4.&nbsp;国家自然科学基金面上项目：人类细胞核分离基因C家族新成员NUDCL2的克隆和功能鉴定的系统研究；2007年1月-2009年12月，负责人。
+5.&nbsp;国家自然科学基金面上项目：细胞周期重要蛋白激酶PLK家族新成员的基因克隆和功能鉴定；2008年1月-2010年12月，负责人。
+6.&nbsp;国家科技部973计划（重大科学研究计划）：上皮组织细胞的迁移与癌症（上皮组织的形成、更新及其调节机理研究）；2012年1月－2016年8月，课题负责人。
+7.&nbsp;国家科技部973计划（重大科学研究计划）：神经前体细胞命运决定、分化及环路形成的调控机制（神经环路发育形成的分子细胞基础）；2013年1月－2017年8月，子课题负责人。
+8.&nbsp;国家973计划重大科学问题导向项目：诱导多功能干细胞（iPS）猪与小型猪疾病模型（生殖嵌合iPS细胞系的创建和重编程机制研究）；2011年1月－2015年12月，子课题负责人。
+9.&nbsp;国家科技部973计划（重大科学研究计划）：蛋白质复合物动态变化的分子机制与功能；2008年1月－2012年12月，子课题负责人。
+10.&nbsp;国家高技术研究发展计划（863计划）：胃癌前病变的癌变监测、干预阻断研究和若干诊疗品开发；2006年12月－2009年9月，课题副组长（子课题负责人）。
+11.&nbsp;浙江省自然科学基金重点项目：NudC/LIS1/Dynein通路在细胞迁移中的作用及分子机制研究。2011年1月－2013年12月，负责人。
+12.&nbsp;教育部博士点基金：FOR20&nbsp;蛋白在细胞运动中的作用及其分子机制研究；2012年1月－2014年12月，负责人。
+13.&nbsp;教育部与国家外专局&ldquo;高等学校学科创新引智计划&rdquo;：细胞-微环境互作创新引智基地；2013年1月－2017年12月，子课题负责人。
+14.&nbsp;浙江省卫生厅：胃癌相关miRNA的鉴定及其在临床诊疗中的应用研究；浙江省卫生高层次创新人才培养对象。2010年-2014年。
+15.&nbsp;浙江大学&ldquo;研究生全英文课程建设&rdquo;项目，起止日期：2011-2012年，负责人。
+16.&nbsp;2006年国家教育部新世纪优秀人才支持计划：人类细胞核分离基因C家族的系统研究；2007年1月-2009年12月，负责人。
+17.&nbsp;卫生部科学研究基金：PLK1小分子抑制剂的筛选及其靶向抗胃癌作用的研究；2006年7月-2009年6月，负责人。
+18.&nbsp;浙江省钱江人才计划：哺乳动物类细胞核分离基因C家族的系统研究；2008年1月-2010年12月，负责人。
+19.&nbsp;浙江省自然科学基金青年人才培养项目：周天华研究小组；起止日期：2006年1月－2008年12月，负责人。
+20.&nbsp;浙江大学2006年学科交叉预研基金：PLK1小分子抑制剂的筛选及其靶向抗胃癌作用的研究；起止日期：2006年1月－2008年12月，负责人。
+&nbsp;
+英文著作：
+1.Zhou,T.andErikson,R.L.AroleofPolo-likekinase1phosphorylationofNudCincytokinesis.InSignalTransductionofCellDivision,T.Miki,ed.(ResearchSignpost).(2005).
+&nbsp;
+在美国基因数据库(GenBank)登录的基因:
+FJ215684(HomosapiensNudC-likeprotein2),
+AF083420(homosapiensbrain-specificSTE20-likeproteinkinase3,MST3b),
+AF078803(homosapienscalcium/calmodulin-dependentproteinkinase2betasubunit),
+AF081924(homosapienscalcium/calmodulin-dependentproteinkinase2beta6subunit),
+AF140350(Homosapienscalcium/calmodulin-dependentproteinkinaseIIbeta7subunit),
+AF083419(homosapienscalcium/calmodulin-dependentproteinkinasebeta2esubunit),
+AF081572(homosapienscalcium/calmodulin-dependentproteinkinase2betae&rsquo;subunit),
+AF091486(homosapienscalcium/calmodulin-dependentproteinkinase2alphasubunit),
+AF084040(homosapiensbeta-arrestin1A),
+AF084940(homosapiensbeta-arrestin1B),
+AF106941(homosapiensbeta-arrestin2).
+&nbsp;
+相关获奖成果：
+1.胃癌前病变癌变准确监测和有效阻断技术体系的建立（2012年浙江省科技进步一等奖，排名第3/11）
+2.&nbsp;胃癌前病变癌变准确监测和有效阻断技术体系的建立（2009年浙江省医药卫生科技创新一等奖、排名第3/11）
+3.&nbsp;胃癌前病变癌变准确监测和有效阻断技术体系的建立（2009年中华医学科技三等奖、排名第3/11）
+4.&nbsp;浙江省第六届青年教师教学技能比赛优秀奖（2011年，浙江省青年教师大会特邀报告）
+5.&nbsp;浙江大学青年教师教学技能比赛一等奖
+&nbsp;
+相关专利：
+1.&nbsp;美国专利&ldquo;Methodfordetectinglivercellinperipheralblood&rdquo;（专利证书号：CN1331417-A，排名第三）
+2.&nbsp;中国专利：一种检测用生物标志物及应用（专利证书号：ZL200810163151.3，排名第二）
+&nbsp;
+			
+				
+			工作研究领域
+			
+			1、细胞周期与细胞运动的分子调控机制
+2、胃癌发病机理及其分子靶向治疗研究
+3、非编码RNA在癌症中的作用及机制
+
+			
+				
+			联系方式
+			
+			电话：0571-88208258			电子信箱：tzhou@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：周天华
+		单位：医学部基础医学系
+		职称：求是特聘教授
+		我的主页共被访问了15943次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

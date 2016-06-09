@@ -1,0 +1,202 @@
+
+
+
+
+
+王匡-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0095003";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	王匡
+
+
+	永久链接:http://mypage.zju.edu.cn/wangkuang&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			王匡教授长期从事数字信号处理、信息传输、芯片设计等方面的研究开发工作。1996年7月参加国家数字高清晰度电视总体组，负责国家&ldquo;八五&rdquo;攻关项目&ldquo;高清晰度电视软件研究&rdquo;和&ldquo;九五&rdquo;国家重点科技攻关项目&ldquo;数字高清晰度电视功能样机系统&rdquo;项目中&ldquo;信道编解码器与调制解调器&rdquo;专题，获浙江省教委科技进步一等奖，&ldquo;九五&rdquo;攻关重大科技成果奖，并荣获&ldquo;九五&rdquo;攻关重大科技攻关计划先进个人奖。参与国庆五十周年庆典高清晰度电视现场转播项目，并获广电总局科技进步二等奖。王匡教授参与研发的&ldquo;高清晰度数字电视关键技术与设备&rdquo;项目获国家科技进步二等奖，&ldquo;数字高清晰度电视系统关键技术与设备&rdquo;获国家科技进步二等奖，另外还荣获2008年信息产业重大技术发明（卫星数字电视接收一体化SOC芯片）、浙江省科技技术一等奖（卫星数字电视接收一体化SOC芯片）、浙江省科学技术二等奖（卫星/有线数字电视信道接收集成电路）、上海市科技进步一等奖（高清晰度数字电视关键技术与设备）、电子学会优秀科技工作者等荣誉。
+			
+				
+			工作研究领域
+			
+			1、数字通信2、数字信号处理3、集成电路设计与应用
+			
+				
+			联系方式
+			
+						电子信箱：wangk@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：王匡
+		单位：信息与电子工程学系
+		职称：教授
+		我的主页共被访问了8515次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

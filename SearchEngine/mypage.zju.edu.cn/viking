@@ -1,0 +1,257 @@
+
+
+
+
+
+余春江的网上家园-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0000137";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	余春江的网上家园
+基本情况
+
+	永久链接:http://mypage.zju.edu.cn/viking&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			EDUCATION:
+2000年于浙江大学获得工程热物理专业工学博士学位
+1995年于浙江大学获得热能工程专业学士学位
+&nbsp;
+WORKINGEXPERIENCE:
+教授2015.1至今，浙江大学热能工程研究所（能源清洁利用国家重点实验室）
+副教授2002.1-2014.12，浙江大学热能工程研究所（能源清洁利用国家重点实验室）
+讲师2000.9-2002.9，浙江大学热能工程研究所
+访问学者1999.2-2000.2瑞典中部大学应用科学系（参与欧盟JOULEⅢ计划资助课题，&ldquo;生物质循环流化床气化/燃烧过程模拟&rdquo;合同号：JOR3CT980306）
+R&amp;DExperience:
+作为主要参加人员承担科研项目多项，其中作为项目负责人负责20余项科研项目，研究范围涵盖煤洁净利用、生物质热解/燃烧和火灾着火机理等方面。
+&nbsp;
+作为课题负责人负责的项目如下:
+
+1&nbsp;H20051746&nbsp;&nbsp;&nbsp;&nbsp;煤焦混烧循环流化床锅炉的工艺优化&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;横向项目企事业单位委托科技项目&nbsp;
+2&nbsp;H20060163&nbsp;&nbsp;&nbsp;&nbsp;循环流化床生物质秸秆直燃发电锅炉技术开发&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;横向项目企事业单位委托科技项目&nbsp;
+3&nbsp;H20061495&nbsp;&nbsp;&nbsp;&nbsp;秸秆原料分析测试&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;横向项目企事业单位委托科技项目&nbsp;
+4&nbsp;I20010014&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;生物流化床气化炉内碱金属迁移规律建模&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;纵向项目国际合作项目&nbsp;
+5&nbsp;I20050084&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;大型燃煤锅炉汞形态及排放测试方法研究&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;纵向项目国家科技部&nbsp;
+6&nbsp;J20010018&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;生物质热化学转化中碱金属相关问题的机理和实验研究&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;纵向项目省、市、自治区科技项目&nbsp;
+7&nbsp;H20080931&nbsp;&nbsp;&nbsp;&nbsp;广西柳城2&times;75T/H流化床生物质直燃发电锅炉设计开发&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;横向项目企事业单位委托科技项目&nbsp;
+8&nbsp;H20070935&nbsp;&nbsp;&nbsp;&nbsp;河南栾川石煤循环流化床燃烧技术开发&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;横向项目企事业单位委托科技项目&nbsp;
+9&nbsp;G20070095-01煤矸石资源化关键技术研究&nbsp;&nbsp;纵向项目&nbsp;国家科技支撑计划&nbsp;
+10&nbsp;H20072032&nbsp;&nbsp;大型燃煤电厂烟气脱硝关键技术的研究&nbsp;横向项目&nbsp;企事业单位委托科技项目&nbsp;
+11&nbsp;J20080189-03&nbsp;生物质液化过程耦合集成优化理论和模型研究&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;纵向项目&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&ldquo;９７３&rdquo;计划&nbsp;
+12&nbsp;J20080321&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;生物质转化为高品位燃料的基础问题研究&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;纵向项目&nbsp;&nbsp;&nbsp;&ldquo;９７３&rdquo;计划&nbsp;
+13&nbsp;&nbsp;H20081589&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;生物质锅炉炉前料仓系统开发&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;横向项目&nbsp;企事业单位委托科技项目&nbsp;
+14&nbsp;&nbsp;&nbsp;H20082632&nbsp;&nbsp;&nbsp;&nbsp;广东粤电湛江生物质直燃项目硫排放特性研究&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;横向项目&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;企事业单位委托科技项目&nbsp;
+15&nbsp;&nbsp;&nbsp;H20082633&nbsp;&nbsp;&nbsp;&nbsp;湛江生物质直燃项目前期工作技术服务&nbsp;横向项目&nbsp;企事业单位委托科技项目&nbsp;
+16&nbsp;J20091061&nbsp;&nbsp;基于拟流体特性的生物质流态化燃烧聚团趋势研究&nbsp;&nbsp;&nbsp;&nbsp;纵向项目&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;国家自然科学基金项目&nbsp;
+17&nbsp;&nbsp;&nbsp;H20102345&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CFB脱硫性能对比优化试验&nbsp;横向项目&nbsp;企事业单位委托科技项目&nbsp;
+18&nbsp;&nbsp;&nbsp;&nbsp;G20100216-02&nbsp;&nbsp;&nbsp;生物质能清洁利用创新团队&nbsp;&nbsp;纵向项目&nbsp;省、市、自治区科技项目&nbsp;
+19&nbsp;H20103223&nbsp;&nbsp;&nbsp;&nbsp;江苏汉天水泥有限公司（5000t/d）水泥生产线余热发电系统整体性能测试横向项目&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;企事业单位委托科技项目&nbsp;
+20H20103317&nbsp;&nbsp;&nbsp;第二代75t/h级生物质循环流化床锅炉开发&nbsp;横向项目&nbsp;&nbsp;&nbsp;企事业单位委托科技项目&nbsp;
+21&nbsp;&nbsp;&nbsp;H20110239&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RDF燃料循环流化床混烧实验横向项目&nbsp;企事业单位委托科技项目&nbsp;
+论文:
+发表超过50篇科研论文，其中与生物质利用相关的文章列表如下：
+1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;秸秆成型燃料双胆反烧炉的设计,动力工程,2005.6
+2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;生物质颗粒流化床闪速热解制取生物油,Chinaparticuology,2005.2
+3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;杉木热解及燃烧特性热天平模拟试验研究,燃料化学学报,2005.2
+4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;典型建筑装潢板材的着火特性试验研究,浙江大学学报（工学版）,2005.2
+5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;稻秆热解碱金属转化过程试验研究,ProceedingsofWorldRenewableEnergyCongressVIII,2004.9
+6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;硬木热解过程中颗粒内部二次反应的数值研究下篇：数值模拟结果,燃料化学学报,2002.10
+7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;硬木热解过程中颗粒内部二次反应的数值研究上篇：单颗粒热解模型的构建,燃料化学学报,2002.8
+8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一种改进的纤维素热解动力学模型,浙江大学学报(工学版),2002.8
+9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;流化床中单颗粒纤维素热解模型研究,太阳能学学报，2002.1
+10.&nbsp;&nbsp;&nbsp;&nbsp;GreenhouseEffectandutilizationofBiomassEnergyResources,TheSymp.OfRegionalSeminaronCommercializationofBiomassTechnologyR&amp;DTechnologyinSouth-eastAsia,2001.6
+11.&nbsp;&nbsp;&nbsp;&nbsp;碱金属及相关无机元素在生物质热解中的转化析出,燃料化学学报,2000.10
+12.&nbsp;&nbsp;&nbsp;&nbsp;稻壳气力给料装置试验研究,农业机械学报,2000.9
+13.&nbsp;&nbsp;&nbsp;&nbsp;ModelingPotassiumReleaseinbiomasspyrolysis,Progressinthermochemicalbiomassconversion,,2000.9
+14.&nbsp;&nbsp;&nbsp;&nbsp;Amodelingstudyoncelluloseparticlepyrolysisunderfluidized-bedconditions,Progressinthermochemicalbiomassconversion,2000.9
+15.&nbsp;&nbsp;&nbsp;&nbsp;Astudyonkineticmodelforcellulosepyrolysismodeling,WorldrenewableenergyCongressVI(WREC2000),2000.7
+16.&nbsp;&nbsp;&nbsp;&nbsp;秸秆中碱金属相关无机元素的测定和分布,农机化研究,2000.1
+&nbsp;
+			
+				
+			工作研究领域
+			
+			能源洁净利用，流态化燃烧技术，生物质燃烧利用，生物质气化，燃烧污染物排放控制，煤炭低污染燃烧气化
+
+			
+				
+			联系方式
+			
+			电话：0571-87953129			电子信箱：chunjiang@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：余春江
+		单位：能源工程学院
+		职称：教授
+		我的主页共被访问了446次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

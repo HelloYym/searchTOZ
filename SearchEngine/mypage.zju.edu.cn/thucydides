@@ -1,0 +1,210 @@
+
+
+
+
+
+苦难与伟大-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0010731";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	苦难与伟大
+幸福的秘密是自由，而自由的秘密是勇气
+
+	永久链接:http://mypage.zju.edu.cn/thucydides&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			白春晓，男，汉族，上海人，生于1983年。浙江大学求是青年学者、希腊奥纳西斯学者。2001年毕业于同济大学第一附属中学，同年进入复旦大学文科基地班学习。2005年本科毕业后，直升复旦大学历史学系博士研究生，学习古希腊语言和历史。攻读博士学位期间，曾于2008年夏前往哈佛大学驻希腊暑期学校进修，并于2008年9月至2009年8月在伦敦大学国王学院古典学系接受联合培养。2010年6月获得复旦大学历史学博士学位。2010年7月至2012年9月在浙江大学世界历史研究所从事博士后工作，任助理研究员，并于2011年10月至2012年3月获得希腊奥纳西斯基金会的资助，前往雅典希腊国家研究基金会与纳夫普里昂哈佛大学希腊研究中心担任访问学者。2012年9月起在浙江大学历史学系担任讲师。2013年9月至2014年9月再次到希腊担任访问学者。主要研究领域为古希腊史和修昔底德研究。已发表《后冷战时代我们为何阅读修昔底德？》、《苦难与真相：修昔底德“雅典瘟疫叙事”的修辞技艺》、《运气、希望、恐惧与爱欲：修昔底德历史叙事中的人性思考》等论文数篇。
+
+
+			
+				
+			工作研究领域
+			
+			古希腊史，修昔底德研究
+			
+				
+			联系方式
+			
+						电子信箱：baichunxiao1983@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：白春晓
+		单位：人文学院历史学系世界历史研究所
+		职称：讲师
+		我的主页共被访问了1777次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	奖励荣誉
+	学术交流（讲座报告）
+	发表论文
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,214 @@
+
+
+
+
+
+李东晓-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0004112";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	李东晓
+DongxiaoLI
+
+	永久链接:http://mypage.zju.edu.cn/lidx&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			李东晓，男，信息与通信工程专业工学博士，浙江大学副教授，硕士生导师。中国通信学会高级会员，浙江省信号处理学会会员，IEEE信号处理学会和计算机学会会员。承担了《数字图像处理》、《数据分析与算法设计》等课程的教学。主要研究兴趣包括图像处理、计算机视觉、混合现实，近年来主要从事3DTV、3D虚实混合与交互关键技术的研发。作为负责人承担了浙江省自然科学基金面上项目、浙江省&ldquo;集成电路与信息系统&rdquo;重点科技创新团队立项项目、国家自然科学基金青年基金项目、国家自然科学基金面上项目、国家&ldquo;核心电子器件、高端通用芯片及基础软件产品&rdquo;科技重大专项和&ldquo;新一代宽带无线移动通信网&rdquo;科技重大专项的联合承担分课题。
+			
+				
+			工作研究领域
+			
+			图像处理，计算机视觉，混合现实
+			
+				
+			联系方式
+			
+			电话：+86-571-87952017			电子信箱：lidx@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：李东晓
+		单位：信息与电子工程学系
+		职称：副教授
+		我的主页共被访问了28459次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	学术交流（讲座报告）
+	研究成果
+	专利成果
+	奖励荣誉
+	实验室介绍
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

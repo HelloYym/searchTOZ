@@ -1,0 +1,203 @@
+
+
+
+
+
+ShijianLi'sHomepage-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0006292";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	ShijianLi'sHomepage
+
+
+	Permanentlink:http://mypage.zju.edu.cn/en/lishijian&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			Blog
+
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			Dr.ShijianLireceivedhisPh.D.degreefromCollegeofComputerScience,ZhejiangUniversity(2006).In2006~2008,heworkedasaPostdoctoralFellowinDepartmentofControlScienceandEngineering,ZhejiangUniversity.In2010,hehasworkedinInstituteTELECOMSudParis,France,asavisitingscholar.HeiscurrentlyanassociateprofessorinCollegeofComputerScience,ZhejiangUniversity.
+HisresearchinterestsincludeSensorNetwork,UbiquitousComputing,andSocialComputing.Bynowhehasparticipatedinsomenationalprojectsaboutabovedomans,includingTheNationalBasicResearchProgramofChina(973Program),theNationalHighTechnologyResearchandDevelopmentProgramofChina(863Program),NationalNaturalScienceFoundationofChina,etc..NowheworksasthePIofaNSFCprojectaboutsensornetwork.Recently,Hehaspublishedover30papersonabovedomains.
+&nbsp;
+			
+				
+			Researchwork
+			
+			UbiquitousComputing,MobileInternetandSocialComputing
+			
+				
+			Contact
+			
+			Phone:
+			E-mail:ShijianliATzju.edu.cn
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:ShijianLi
+		Units:CollegeofComputerScience
+		Title:AssociateProfessor
+		Myhomepagehasbeenvisited7849times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+ProfessionalActivities
+Publications
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	CCNTLab
+
+
+
+Youarevisitor:7849
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

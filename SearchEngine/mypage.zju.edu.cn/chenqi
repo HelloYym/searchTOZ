@@ -1,0 +1,204 @@
+
+
+
+
+
+陈琪-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0095117";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	陈琪
+制冷与低温、暖通空调技术
+
+	永久链接:http://mypage.zju.edu.cn/chenqi&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			浙江诸暨人，工学博士，副教授，主要从事空调、制冷和低温技术的研究，重点关注低品位、可再生能源的开发利用。博士期间从事新型制冷工质的基础物性及其热力学性质的研究；2009.02-2010.04在美国伊利偌伊大学香槟分校（UIUC）做访问学者，对制冷与空调、两相流等复杂流动的传热传质、热系统和能量系统的模拟等领域进行了深入研究。在科研方面，先后主持与参与科研项目10多项，包括国家重点基础研究发展计划课题（973计划）、国家科技支撑计划项目课题、国家自然科学基金重大项目课题、国家高技术研究发展计划（863计划）课题、国家自然科学基金面上项目、教育部留学回国人员科研启动基金、浙江省重大科技专项项目等，以及一系列与企业的合作项目。发表被SCI收录的科技论文有10余篇，申请中国发明专利10余项。
+			
+				
+			工作研究领域
+			
+			制冷与低温、暖通空调技术、节能与低品位能源利用，热泵技术、以及流体热物性
+			
+				
+			联系方式
+			
+			电话：0571-87951738			电子信箱：zjuchenqi@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：陈琪
+		单位：能源工程学系
+		职称：副教授
+		我的主页共被访问了6837次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

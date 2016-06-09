@@ -1,0 +1,304 @@
+
+
+
+
+
+数字视频图像工程(DVIE)-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0009079";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	数字视频图像工程(DVIE)
+DigitalVideo&ImageEngineering
+
+	永久链接:http://mypage.zju.edu.cn/DVIE&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+
+
+
+
+博士，副教授，博士生导师
+
+
+
+&nbsp;1974年7月生，山东青岛人。浙江大学超大规模集成电路设计研究所副教授。先后主持或参与国家核高基科技重大专项、国家高技术研究发展计划（863计划）和国家科技支撑计划等多项科研项目，发表SCI/EI收录学术论文50余篇，申请国家发明专利近40项，专利授权20余项。获得&ldquo;中国电子学会电子信息科学技术二等奖&rdquo;和&ldquo;中国专利优秀奖&rdquo;等多项科技奖励。指导和协助指导博士研究生3名，硕士研究生21名。
+&nbsp;在视频图像处理、可重构计算和SoC设计与验证等领域，拥有十年多的研究积累和产业经验，先后在海信集团研发中心和美国OmniVision公司主持多款高端SoC芯片的研发，并在市场中大批量应用，取得良好的市场效益和社会效益。
+
+
+
+
+工作经历
+
+
+
+
+
+2000-2006
+海信集团研发中心
+主任设计师
+
+
+2006-2009
+Omnivision
+资深主管
+
+
+2009-
+浙江大学
+副教授
+
+
+2011
+国立莫斯科大学
+访问学者
+
+
+2015-2016
+伊利诺伊理工大学
+访问学者
+
+
+
+
+社会兼职&nbsp;
+
+
+
+IEICE会员
+
+
+合肥工业大学兼职硕士生导师
+
+
+杭州中天微系统有限公司副总经理
+
+
+嵌入式系统教育部工程研究中心珠海分中心副主任
+
+
+国家国际科技合作计划项目评审专家
+
+
+浙江省电子信息产业重点项目评审专家
+
+
+EI国际期刊编委：InternationalJournalofDigitalContentTechnologyanditsApplications
+
+
+期刊审稿专家：SCIENCECHINAInformationSciences,IETETechnicalReview
+
+
+
+国际会议审稿专家：ICCDA2010、CSQRWC2011、EMEIT2011、EEESYM2013、ICBEB2014、CSPR2014、ICBEB2015
+
+
+
+国际会议TPC：ICOEIS2011、ICCEA2014
+
+
+
+&nbsp;
+			
+				
+			工作研究领域
+			
+			(1)视频处理及SoC芯片设计
+(2)医学图像处理与智能诊断
+(3)视频/图像质量客观评价
+(4)多媒体可重构计算研究
+			
+				
+			联系方式
+			
+			电话：86-571-87951071			电子信箱：dingy@vlsi.zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：丁勇
+		单位：浙江大学超大规模集成电路设计研究所
+		职称：副教授
+		我的主页共被访问了17719次
+标签：image/videoSoC	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		发表论文
+	专利成果
+	教学工作
+	工作研究项目
+	奖励荣誉
+	招生信息
+	实验室介绍
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	LIVE
+钱大宏教授
+徐阳教授
+牛田野教授
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

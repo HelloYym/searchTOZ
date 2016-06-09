@@ -1,0 +1,214 @@
+
+
+
+
+
+陆林宇-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0013244";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	陆林宇
+
+
+	永久链接:http://mypage.zju.edu.cn/lulinyu&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			1998.9-1999.6，	南京大学生物化学系，后转学至香港大学
+1999.9-2002.6，	香港大学生物化学系，学士
+2003.1-2007.4，	香港大学生物化学系，博士
+2007.5-2012.4，	密歇根大学医学院，ResearchFellow
+2012.5-2014.8，	密歇根大学医学院，ResearchInvestigator
+2014.9-至今，&nbsp;&nbsp;&nbsp;浙江大学转化医学研究院/附属妇产科医院，教授，博士生导师
+2014.11&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;入选2014年浙江省&ldquo;千人计划&rdquo;
+实验室招收2015年入学硕士生、博士生，欢迎报考！
+实验室招收博士后，进站时间灵活，欢迎联系！
+实验室招收研究助理/技术员，欢迎联系！
+			
+				
+			工作研究领域
+			
+			DNA损伤修复、减数分裂及精子发育、DNA甲基化
+			
+				
+			联系方式
+			
+						电子信箱：lulinyu@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：陆林宇
+		单位：浙江大学转化医学研究院、浙江大学附属妇产科医院
+		职称：教授
+		我的主页共被访问了2186次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

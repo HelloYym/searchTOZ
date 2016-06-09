@@ -1,0 +1,205 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0089205";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0089205&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			工学博士，教授，博士生导师，全国高校制造技术及机床研究会理事，中国机械工程学会高级会员，浙江大学现代制造工程研究所CAD/CAM及数控技术研究室主任。1982年入浙江大学机械系精密机械专业,1989年浙大CAD/CAM研究中心研究生毕业同年留校任教至今。博士学位论文【多面形非圆曲面成形原理及数控精密加工技术研究】获浙江大学优秀博士学位论文。主要研究方向为：机电一体化数控技术；超磁致伸缩智能材料精密微驱动技术；计算机辅助CAD/CAE/CAM与集成技术。近年来，负责和为主参加国家自然科学基金【超磁致伸缩复
+			
+				
+			工作研究领域
+			
+			1、机电一体化数控技术(含高速高精数控系统技术、微细加工技术、特种数控装备)
+2、精密微驱动技术（超磁致伸缩等新智能材料微驱动机构及应用技术）
+3、产品设计制造自动化与集成技术（计算机辅助CAD/CAE/CAM与集成技术）
+
+			
+				
+			联系方式
+			
+						电子信箱：wyj1116@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：邬义杰
+		单位：机械工程学系
+		职称：教授
+		我的主页共被访问了2985次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,231 @@
+
+
+
+
+
+泽龙的个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0014924";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	泽龙的个人主页
+
+
+	永久链接:http://mypage.zju.edu.cn/zelong&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;泽龙，工学博士，2013年3月毕业于日本国立京都大学工学研究科材料工程专业，获博士学位。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2008年4月至2010年3月，在日本国立岐阜大学硕士期间从事环境扫描电子显微镜显微分析工作。辅助日本气象局观测大气污染。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;博士期间在京都大学从事材料工程专业，环境化学专业，精密仪器研发等分析化学研究领域，主要SEM-EDX绝缘体样本分析和微领域分析研究。在BUNSEKIKAGAKU、ADVANCESINX-RAYCHEMICALANALYSIS,JAPAN等期刊及国际会议发表论文17篇，其中SCI收录5篇，EI收录12篇。
+受教育经历
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2000.09～2004.07内蒙古工业大学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;精细化工&nbsp;&nbsp;&nbsp;&nbsp;大学
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2004.09～2005.09日本朝日大学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;日本语
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2005.10～2006.09日本IIHARA国际专门学校&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;日本产业国际化
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2008.04～2010.03日本国立岐阜大学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;大气环境&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;硕士
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2010.04～2013.03日本国立京都大学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;材料工程&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;博士
+&nbsp;
+主要研究领域，SEM-EDX分析绝缘体材料研究。
+&nbsp;
+
+&nbsp;
+			
+				
+			工作研究领域
+			
+			1.SEM-EDX分析绝缘体材料研究
+
+2.绝缘体材料微区元素分析研究
+
+3.精密仪器小型化研究
+
+			
+				
+			联系方式
+			
+			电话：137-3557-1682			电子信箱：zelong@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：泽龙
+		单位：浙江大学科研院
+		职称：
+		我的主页共被访问了11827次
+标签：浙江大学，科研院，纳米院	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		奖励荣誉
+	学术交流（讲座报告）
+	发表论文
+	图片故事
+	研究团队
+	联络地址
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	京都大学
+岐阜大学
+浙江大学
+浙江加州国际纳米技术研究院
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

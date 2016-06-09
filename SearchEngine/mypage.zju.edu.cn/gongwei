@@ -1,0 +1,204 @@
+
+
+
+
+
+龚薇-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0013281";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	龚薇
+浙江大学神经科学研究所，生物医学成像研究组
+
+	永久链接:http://mypage.zju.edu.cn/gongwei&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			龚薇，特聘研究员，博士生导师。本科及硕士毕业于浙江大学信息与电子工程学系；博士毕业于新加坡国立大学生物工程系，导师为ColinJ.R.Sheppard教授（共聚焦显微技术的奠基人之一）。2010年进入新加坡-美国麻省理工学院（MIT）联合研究所（SMART）从事博士后研究，之后赴美国霍华德休斯医学研究所（HHMI）继续从事生物医学影像研究。2013年底加盟浙江大学医学院神经科学研究所，担任生物医学成像研究组组长。主要研究成果发表在JournalofBiophotonics,Opticsletters,OpticsExpress,AppliedPhysicsletters等国际著名期刊上。
+
+本实验室正在招收博士、硕士研究生、博士后、技术员，欢迎加盟！
+			
+				
+			工作研究领域
+			
+			主要研究工作方向为：生物医学成像（包括改进型共聚焦显微成像，多光子深层高分辨荧光成像、饱和激发高分辨荧光成像、自适应高分辨成荧光像、超分辨成像等），以及各种先进的成像手段在生物医学上的研究与应用，尤其是神经环路中的应用，如活体钙离子成像以研究神经信号的传递等。
+			
+				
+			联系方式
+			
+			电话：0571-88208005			电子信箱：weigong@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：龚薇
+		单位：基础医学系
+		职称：特聘研究员、博士生导师
+		我的主页共被访问了2505次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

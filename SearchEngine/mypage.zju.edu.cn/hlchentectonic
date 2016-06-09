@@ -1,0 +1,211 @@
+
+
+
+
+
+陈汉林-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0089060";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	陈汉林
+Tectonics
+
+	永久链接:http://mypage.zju.edu.cn/hlchentectonic&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			陈汉林，现为浙江大学求是特聘教授、博士研究生导师、地球科学学院院长，教育部含油气盆地构造研究中心副主任，国务院学位委员会学科评议组成员，教育部高等学校教学指导委员会委员，浙江省石油学会副理事长、浙江省青年地质工作者委员会主任。1986年毕业于南京大学地球科学系获学士学位，1989毕业于浙江大学地球科学系获硕士学位，1998年毕业于中国科学院地质研究所获博士学位，1997年晋升为教授，2000年被评为博士生导师，1999年和2002年分别在美国斯坦福大学地质与环境科学系和美国哈佛大学地球与行星科学系开展访问学者研究。曾获&ldquo;全国优秀科技工作者&rdquo;、教育部&ldquo;高校优秀青年教师奖&rdquo;、浙江省151人才第一层次、&ldquo;浙江省高校优秀青年教师&rdquo;、&ldquo;浙江省优秀科技工作者&rdquo;、中国地质学会&ldquo;银锤奖&rdquo;等荣誉称号，享受国家政府特殊津贴。多年来一致活跃在地质学的教学和科研第一线，主讲本科生课程《板块构造学》，研究生课程《大地构造学》和《高等构造地质学》等课程，培养博士研究生、硕士研究生50余人，获得浙江省优秀教学成果奖二等奖1项、浙江大学研究生&ldquo;良师益友&rdquo;称号。在科学研究方面，长期从事造山带与盆地构造演化、构造变形分析和复杂构造建模、活动构造与地质灾害方面的研究，负责科研项目40余项，其中国家油气重大专项专题5项，国家自然科学基金重点项目1项，国家自然科学基金面上项目4项，国家科技攻关项目7项，&ldquo;973&rdquo;一级课题2项，大型石油企业项目和地方政府项目20余项；发表论文197篇，其中SCI、EI收录论文79篇，论文总引用次数达2489次，其中被SCI论文引用1328次（SCI论文他引960次）；参与撰写著作7部；国际会议作特邀报告6次；获得省部级一等奖3项、二等奖2项、三等奖4项。
+			
+				
+			工作研究领域
+			
+			造山带与盆地构造/构造解析与建摸/活动构造与地质灾害
+			
+				
+			联系方式
+			
+			电话：057187952791			电子信箱：hlchen@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：陈汉林
+		单位：地球科学学院
+		职称：教授
+		我的主页共被访问了39048次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	研究成果
+	奖励荣誉
+	实验室介绍
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

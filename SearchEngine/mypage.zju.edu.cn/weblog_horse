@@ -1,0 +1,333 @@
+
+
+
+
+
+逃离-博客
+
+
+
+
+
+
+varctxPath="http://mypage.zju.edu.cn";
+varb_handle="horse";
+varcfg_weblog="http://mypage.zju.edu.cn/weblog";
+vard=newDate()
+varselyear=d.getFullYear();
+varselmonth=d.getMonth()+1;
+
+
+
+
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	color:#111;
+	margin-right:10px;	
+}
+#mainlinkullia,.tagsa:hover{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+.tagsa{
+	margin-right:10px;
+}
+img{
+	border:none;
+}
+
+
+
+
+
+
+
+
+
+
+	
+		首页
+		帮助
+		登录
+	
+
+
+
+
+
+
+	逃离
+horse
+
+	永久链接:http://mypage.zju.edu.cn/weblog/horse&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+
+
+	中文主页
+英文主页
+			博客
+
+
+
+
+
+
+
+
+
+
+			
+				
+
+	
+[1/1]
+首页	上一页下一页末页
+
+	
+
+浏览模式:普通|列表
+
+
+
+
+
+
+		告考生
+
+作者:包伟民日期:2007-11-12Monday
+
+
+
+鄙校新法：自2007年起，招收硕、博士研究生，研究生与指导教师均须向校方缴钱，前者称&ldquo;学费&rdquo;，后者称&ldquo;助研经费&rdquo;。&ldquo;助研经费&rdquo;数额，按招收研究生人数多寡翻倍递增。本人近年偶承青年学子缪爱，或有投考，然因不合时宜，无法缴...
+查看更多...
+
+Tags:
+告考生
+	
+
+
+
+分类:默认分类|			固定链接|评论总数1|
+			阅读次数704
+
+
+
+
+
+
+
+		我们如何创办“世界一流大学”
+
+作者:包伟民日期:2007-11-12Monday
+
+
+
+我们如何创办&ldquo;世界一流大学&rdquo;近一二十年的经济增长，教育&ldquo;市场&rdquo;的持续发热，以及政府部门的慷慨解囊，加大投入，我们的大学校长们就觉得底气蛮足了。于是，有一个话题被经常提起：要创办世界一流大学。前些日子国内一些名校的校长来到杭...
+查看更多...
+
+Tags:
+我们如何创办“世界一流大学”
+	
+
+
+
+分类:默认分类|			固定链接|评论总数0|
+			阅读次数599
+
+
+			
+			
+		
+		
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+	
+	
+		姓名：包伟民
+		单位：人文学院历史学系
+		职称：教授
+		我共发表了2篇文章
+		共收到1条评论
+		我的主页共被访问了11012次
+	
+	
+	
+	
+
+
+我的文章分类
+
+	默认分类
+		
+文章
+		
+
+
+
+
+日历
+
+
+
+>>
+年月
+
+
+
+日
+一
+二
+三
+四
+五
+六
+
+
+
+
+
+
+
+
+
+
+
+我的最新文章
+
+
+		我们如何创办“世界一流...
+告考生
+	
+
+
+
+
+我的热点文章
+
+
+				告考生
+		我们如何创办“世界一流...
+
+	
+
+
+我收到的评论
+
+			
+
+	
+
+
+我的文章汇总
+
+		2007年11月[2]
+		
+	
+
+
+链接
+
+
+
+
+
+
+检索
+
+
+
+
+-所有文章-
+默认分类
+文章
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+
+
+varflag=newArray();
+flag[0]='2007/11/12';
+
+
+varcale=newCalendar("idCalendar",{
+SelectDay:newDate(),
+onSelectDay:function(o),
+onToday:function(o),
+onFinish:function(){
+$("idCalendarYear").innerHTML=this.Year;$("idCalendarMonth").innerHTML=this.Month;
+for(vari=0,len=flag.length;i<len;i++){
+//alert(flag[i]);
+	vard=newDate(flag[i]);
+	if(this.Year==d.getYear()){
+		if(this.Month==d.getMonth()+1)
+		{
+this.Days[d.getDate()].innerHTML=""+d.getDate()+"";
+			
+		}
+
+	}
+}
+}
+});
+$("idCalendarPre").onclick=function()
+$("idCalendarNext").onclick=function()
+
+
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));

@@ -1,0 +1,223 @@
+
+
+
+
+
+飞扬空间-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0000141";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	飞扬空间
+王飞的个人主页
+
+	永久链接:http://mypage.zju.edu.cn/wangfei&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+
+王飞教授，男，1972年生，1995年本科毕业于上海交通大学，同年保送进入浙江大学工程热物理专业攻读博士学位，2000年获博士学位，2002年-2003年在法国国家科学研究中心CORIA从事博士后研究，2007年晋升为教授，2009年任博导。
+
+美国ASME会员，中国动力工程学会国际合作委员会委员、秘书长，中国计量测试学会多相流专业委员会委员。入选浙江省&ldquo;新世纪151人才工程&rdquo;。《中国电机工程学报》、《燃烧科学与技术》特约审稿专家，国际期刊《InternationalJournalofHeatandMassTransfer》、《Energy》、《NumericalHeatTransfer》、《WasteandBiomassValorization》、《AppliedEnergy》、《ChineseOpticsLetters》、《AppliedMathematicalModelling》审稿人。
+主要研究领域：利用可调谐半导体激光吸收技术测量气体组分，火焰辐射的反问题重建，污泥等固体废弃物的热处置技术。作为项目负责人承担国家自然科学基金2项，国家自然科学基金重点项目子课题1项，国家高技术研究发展计划项目（863计划）课题1项、子课题1项，国家重点基础研究发展规划项目（973计划）子课题2项，国家重大科技专项子课题1项，教育部留学回国人员科研启动基金项目1项，浙江省重大科技专项子课题2项，浙江省自然科学基金项目1项，浙江省杰出青年基金1项，日本富士电机国际合作项目2项，企业合作项目22项。获国家科技进步二等奖2项，省部级奖励3项。在国内外期刊共发表论文近50篇，其中SCI收录26篇，EI收录15篇。获发明专利6项，实用新型专利5项。
+在燃烧测量方面与美国斯坦福大学、日本富士电机公司等长期合作。在固体废弃物热处置方面，与法国阿尔比矿业大学有紧密合作关系，并进行研究生联合培养。
+
+&nbsp;
+欢迎优秀同学联系、报考研究生。
+			
+				
+			工作研究领域
+			
+			基于可调谐半导体激光吸收光谱的气体测量技术；
+火焰温度场的反辐射重建；
+固体废弃物（污泥）热处置技术
+
+			
+				
+			联系方式
+			
+			电话：0571-87952628			电子信箱：wangfei@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：王飞
+		单位：能源工程学系
+		职称：教授
+		我的主页共被访问了11894次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	专利成果
+	奖励荣誉
+	实验室介绍
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

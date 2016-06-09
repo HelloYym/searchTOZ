@@ -1,0 +1,213 @@
+
+
+
+
+
+个人基本信息-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0092012";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	个人基本信息
+
+
+	永久链接:http://mypage.zju.edu.cn/0092012&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			徐岱，男，1957年10月出生于上海，成长于浙江省舟山市定海县。曾当过码头工人、体校教练、报社记者等。现为浙江大学文科资深教授。浙江大学人文学部主任、浙江大学文艺学研究所所长。兼任“中国文艺理论学会副会长”、“中国中外文艺理论学会副会长”、“浙江省美学学会会长”。曾任原浙江大学中文系主任和人文学院常务副院长。1993年获“国务院政府津贴”。2000年获“浙江省有突出贡献中青年专家”荣誉。
+曾赴美国哥伦比亚大学、耶鲁大学、普林斯顿大学、哈佛大学、宾西法尼亚州立大学、科罗拉多大学、杜克大学、芝加哥大学、马里兰大学、斯莫斯沃学院和布利莫学院，德国柏林工业大学、意大利都灵大学、俄罗斯莫斯科大学和彼得堡大学、乌克兰基辅大学、丹麦哥本哈根大学和澳胡斯大学等作学术访问，赴日本神户大学、香港浸会大学、香港科技大学、香港中文大学、香港树人大学以及台湾孙中山纪念馆等参加国际学术会议。自1981年起，陆续在《文艺研究》、《文学评论》、《外国文学评论》、《文艺理论研究》、《外国文学研究》、《社会科学战线》、《学术月刊》等著名学术期刊发表论文近二百篇。已完成国家社科基金2007年度项目、教育部1999年度重点项目、浙江省人文社会科学重点项目等，获省部级政府一、二、三等奖10余项。
+自1981年起，已陆续撰写了1、《艺术文化论》2、《艺术的精神》3、《美学新概念》4、《艺术新概念》5、《基础诗学》6、《批评美学》7、《小说叙事学》8、《小说形态学》9、《边缘叙事》10、《体验自由》11、《感悟存在》12、《什么是好艺术》13、《侠士道》14、《审美正义论：伦理美学基本问题研究》15、《故事的诗学》16、《基础美学：从知识论到价值观》等个人研究著作十六部。并在相关学术领域发表了两百多篇研究论文。
+
+			
+				
+			工作研究领域
+			
+			1、美学理论与艺术哲学
+2、文艺学与中国现当代文学
+3、文化研究与中国思想史
+4、小说理论与批评
+
+			
+				
+			联系方式
+			
+						电子信箱：xudai@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：徐岱
+		单位：传媒与国际文化学院院机关
+		职称：教授、博导
+		我的主页共被访问了9025次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		出版著作
+	研究成果
+	个人专访
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

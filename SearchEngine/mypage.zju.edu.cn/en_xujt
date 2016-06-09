@@ -1,0 +1,202 @@
+
+
+
+
+
+ZJU-XUJT-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0096101";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	ZJU-XUJT
+PolymerCrystallization
+
+	Permanentlink:http://mypage.zju.edu.cn/en/xujt&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			Blog
+
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			Prof.Jun-TingXu,male,bornin1969.10,&nbsp;receivedB.S.degree&nbsp;fromDepartmentofChemistry,ZhejiangUniversityin1991.HegotPhDdegreeatDepartmentofPolymerScience&amp;Engineering,ZhejiangUniversityin1996.Hebecameanassociateprofessorandafullprofessorin1998.07and2004.12,respectively,intheDepartmentofPolymerScienceandEngineering,ZhejiangUniversity.During2001.01-2002.12and2006.7-2006.12,hewasavisitingscholarofTheUniversitySheffield(UK)andTheUniversityofAkron(USA),respectively.Hewasawarded&ldquo;YouthChemistAward&rdquo;byChineseChemicalSocietyin2003andwasselectedinto&ldquo;NewCenturySupportingProgramfortheTalents&rdquo;(MinistryofEducation,China)in2004.
+			
+				
+			Researchwork
+			
+			1.Self-assemblyofblockcopolymerasistedbyotherdrivingforce
+2.Polymercrystallizationunderconfinedenvironment
+3.Structureandpropertoesofpolyolefins;
+4.Synthesisofpolymerswithregularstructure
+			
+				
+			Contact
+			
+			Phone:+86-571-87953164
+			E-mail:xujt@zju.edu.cn
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:JuntingXu
+		Units:DepartmentofPolymerScience&Engineering
+		Title:Professor
+		Myhomepagehasbeenvisited5795times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+EducationandWorkexperience
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	
+
+
+Youarevisitor:5795
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

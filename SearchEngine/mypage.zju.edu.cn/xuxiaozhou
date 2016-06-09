@@ -1,0 +1,214 @@
+
+
+
+
+
+徐小洲的个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0095349";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	徐小洲的个人主页
+
+
+	永久链接:http://mypage.zju.edu.cn/xuxiaozhou&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;&nbsp;徐小洲，男，1964年出生。1994年获教育学博士学位，2002年在韩国完成博士后研究。现任浙江大学教育学院院长、浙江大学发展战略研究院副院长、教授、博士生导师。入选&ldquo;新世纪百千万人才工程&rdquo;国家级人才、教育部新世纪优秀人才支持计划、浙江省新世纪151人才工程重点资助培养人员、享受国务院特殊津贴。兼任联合国教科文组织创业教育讲座教授、联合国教科文组织教育研究机构网络指导委员会委员、世界大学网络（WUN）指导小组成员、香港大学荣誉教授、韩国首尔大学兼职教授、浙江省高等教育学研究会理事长、浙江省教育学教学指导委员会主任、浙江省创新创业教育教学指导委员会副主任等职。任国内外多家学术期刊编委。主要研究领域：比较教育、高等教育、创新创业教育。主持联合国教科文组织、世界银行、国家社科基金重点项目、全国教育科学规划重点课题等国际、国家和省部级课题。主编《高等教育政策变革研究丛书》、《中国教育六十年》、《创业教育研究丛书》、《中国教育系列丛书》（英文版）、《汉译世界高等教育名著丛书》等，出版《高等教育论》、《当代欧美高教结构改革研究》、《自主与制约：高校自主办学政策研究》、《高等教育理念与现实》、《当代韩国高等教育研究》等著作十多部。在国内外学术刊物发表论文100多篇。研究成果获得省部级一、二、三等奖多项。
+&nbsp;
+			
+				
+			工作研究领域
+			
+			1、比较教育
+2、高等教育
+3、创新创业教育
+			
+				
+			联系方式
+			
+						电子信箱：xxiaozhou@163.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：徐小洲
+		单位：浙江大学教育学院
+		职称：教授
+		我的主页共被访问了40712次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	奖励荣誉
+	学术成果获奖
+	学术兼职
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

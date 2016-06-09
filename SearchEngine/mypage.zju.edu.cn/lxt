@@ -1,0 +1,210 @@
+
+
+
+
+
+人生天地间-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0091219";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	人生天地间
+我只是一粒芝麻，被风吹离了茎的故乡...
+
+	永久链接:http://mypage.zju.edu.cn/lxt&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+				
+			工作研究领域
+			
+			　　(1)光学系统设计与分析及光学仪器设计。包括常规光学系统、非球面光学系统、付里叶变换光学系统、光谱分析系统、各类变焦距系统、激光与红外光学系统等，光学系统无热化设计。
+　　(2)光学系统杂散光分析，包括多次反射、多级衍射及漏光杂散光，提取危害较大的鬼像并获知来源。
+　　(3)光学系统温度效应分析，可以对存在轴向和径向温度梯度的光学系统进行温度效应分析与像质评价输出。
+　　(4)无规则非均匀介质的光传输仿真计算，实现了像质评价输出与图像仿真。
+　　(5)FFR车灯CAD软件及设计，所设计车灯配光满足国家标准要求。
+　　完成的成果包括著作、论文、专利与软件登记等。
+			
+				
+			联系方式
+			
+			电话：057187952302			电子信箱：lixt@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：李晓彤
+		单位：光电信息工程学系
+		职称：教授
+		我的主页共被访问了24789次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	出版著作
+	专利成果
+	读书共享
+	有关说明
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

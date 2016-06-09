@@ -1,0 +1,559 @@
+
+
+
+
+
+Spring-博客
+
+
+
+
+
+
+varctxPath="http://mypage.zju.edu.cn";
+varb_handle="Spring";
+varcfg_weblog="http://mypage.zju.edu.cn/weblog";
+vard=newDate()
+varselyear=d.getFullYear();
+varselmonth=d.getMonth()+1;
+
+
+
+
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	color:#111;
+	margin-right:10px;	
+}
+#mainlinkullia,.tagsa:hover{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+.tagsa{
+	margin-right:10px;
+}
+img{
+	border:none;
+}
+
+
+
+
+
+
+
+
+
+
+	
+		首页
+		帮助
+		登录
+	
+
+
+
+
+
+
+	Spring
+
+
+	永久链接:http://mypage.zju.edu.cn/weblog/Spring&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+
+
+	中文主页
+英文主页
+			博客
+
+
+
+
+
+
+
+
+
+
+			
+				
+
+	
+[1/1]
+首页	上一页下一页末页
+
+	
+
+浏览模式:普通|列表
+
+
+
+
+
+
+		T检验和卡方检验
+
+作者:杨春玲日期:2012-11-21Wednesday
+
+
+
+T检验　　T检验（TTest）是最常见的一种假设检验类型，主要验证总体均值间是否存在显著性差异。T检验属于参数假设检验，所以它适用的范围是数值型的数据，在网站分析中可以是访问数、独立访客数、停留时间等，电子商务的订单数、销售额等。T检验还需要符合一个条...
+查看更多...
+
+Tags:
+卡方检验T检验
+	
+
+
+
+分类:科研点滴|			固定链接|评论总数0|
+			阅读次数30
+
+
+
+
+
+
+
+		教育信息化开源项目
+
+作者:杨春玲日期:2012-03-20Tuesday
+
+
+
+sakai,Moodle
+查看更多...
+
+Tags:
+开源
+	
+
+
+
+分类:工作简记|			固定链接|评论总数0|
+			阅读次数25
+
+
+
+
+
+
+
+		2008EI收录国外英文期刊（计算机类）
+
+作者:杨春玲日期:2011-09-29Thursday
+
+
+
+1.ACMJOURNALONEMERGINGTECHNOLOGIESINCOMPUTINGSYSTEMSQuarterlyISSN:1550-4832ASSOCCOMPUTINGMACHINERY,1515BROADWAY,NEWYORK,USA,NY,100362.ACMTRANSACTIONSOFINFORMATIONSYSTEMSQuarterlyISSN:ASSOCCOMPUTINGMACHINERY,1515...
+查看更多...
+
+Tags:
+计算机类
+	
+
+
+
+分类:默认分类|			固定链接|评论总数0|
+			阅读次数25
+
+
+
+
+
+
+
+		MIT十条
+
+作者:杨春玲日期:2011-09-27Tuesday
+
+
+
+MIT十条1.每天七个小时坐在书桌前。2.学你觉得学不会的东西。3.知其所以然。4.没有人能骗太久。5.做有创造性的工作。6.对自己高标准严要求。7.学那些坚实恒久的学科，少赶时髦。8.你永远赶不上进度，别人也一样。9.留意正发生在你的身边的...
+查看更多...
+
+
+
+
+
+分类:科研点滴|			固定链接|评论总数0|
+			阅读次数51
+
+
+
+
+
+
+
+		计算机网络相关发文级别
+
+作者:杨春玲日期:2011-09-26Monday
+
+
+
+Category0SIGCOMMOSDIMobiComCategory1INFOCOMSIGMODHotnetsSigmetricsSensysPerComPODCAAAIUSENIXSupercomputingICDCSIEEECommunicationsSocietyConferenceonSensorandAdHocCommunicationsandNetworks(SECON)Internat...
+查看更多...
+
+
+
+
+
+分类:科研点滴|			固定链接|评论总数0|
+			阅读次数24
+
+
+
+
+
+
+
+		计算机网络方向投稿期刊会议
+
+作者:杨春玲日期:2011-09-26Monday
+
+
+
+MOBICOMSIGCOMMINFOCOMSIGMETRICSICDCSIWQoSGLOBECOMICCCNICCIEEE/ACMTransactionsonNetworkingIEEEJournalonSelectedAreasinCommunications(JSAC)ElsevierComputerCommunicationsElsevierComputerNetworksIEEECommunicati...
+查看更多...
+
+Tags:
+会议期刊网络
+	
+
+
+
+分类:科研点滴|			固定链接|评论总数0|
+			阅读次数27
+
+
+
+
+
+
+
+		ThoughtExperiments
+
+作者:杨春玲日期:2011-09-21Wednesday
+
+
+
+FirstpublishedSatDec28,1996;substantiverevisionFriJul29,2011Thoughtexperimentsaredevicesoftheimaginationusedtoinvestigatethenatureofthings.Thoughtexperimentingoftentakesplacewhenthemethodofvariationisemployedi...
+查看更多...
+
+
+
+
+
+分类:科研点滴|			固定链接|评论总数0|
+			阅读次数23
+
+
+
+
+
+
+
+		面朝大海
+
+作者:杨春玲日期:2011-07-21Thursday
+
+
+
+我们对大海知道多少？只是在海边走走跳跳，在海面上打打捞捞它的远处，是个什么样的世界它的深处，都生存着什么生物是什么，推动着它，一波又一波，带来了贝壳到沙滩是什么，净化着它，一股又一股，恶流变清泉它是母亲吗？想要什么给我什么它是恶魔吗？一个浪...
+查看更多...
+
+Tags:
+大海
+	
+
+
+
+分类:生活随感|			固定链接|评论总数0|
+			阅读次数31
+
+
+
+
+
+
+
+		共享大任几何重？
+
+作者:杨春玲日期:2010-12-09Thursday
+
+
+
+无论是对于知识还是对于资源，作为一个信息化职业人员，是这么认为的：开发一个共享的系统容易，使拥有知识和资源的单位或人共享他们的拥有困难，请需要这些知识和资源的人群或单位分享这些拥有是难上加难。不是因为平台不够好，不是由于资源不够有吸引力，更不是渴望...
+查看更多...
+
+Tags:
+知识资源信息化共享
+	
+
+
+
+分类:工作简记|			固定链接|评论总数0|
+			阅读次数54
+
+
+
+
+
+
+
+		所得非所见
+
+作者:杨春玲日期:2010-10-31Sunday
+
+
+
+试想，有这么个图片：蔚蓝的天空中浮着几朵白云，有一只燕子轻盈地飞过。从这张图片中你能知道什么？知道的这些信息对你有什么用？你还能从中读到什么信息？
+查看更多...
+
+Tags:
+小鸟蓝天
+	
+
+
+
+分类:生活随感|			固定链接|评论总数0|
+			阅读次数46
+
+
+			
+			
+		
+		
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+	
+	
+		姓名：杨春玲
+		单位：浙江大学信息中心
+		职称：
+		我共发表了10篇文章
+		共收到0条评论
+		我的主页共被访问了826次
+	
+	
+	
+	
+
+
+我的文章分类
+
+	默认分类
+		
+科研点滴
+		
+工作简记
+		
+新潮通迅
+		
+生活随感
+		
+
+
+
+
+日历
+
+
+
+>>
+年月
+
+
+
+日
+一
+二
+三
+四
+五
+六
+
+
+
+
+
+
+
+
+
+
+
+我的最新文章
+
+
+		T检验和卡方检验
+教育信息化开源项目
+2008EI收录国外英文期...
+MIT十条
+计算机网络相关发文级别
+计算机网络方向投稿期刊...
+ThoughtExperiments
+面朝大海
+共享大任几何重？
+所得非所见
+	
+
+
+
+
+我的热点文章
+
+
+				共享大任几何重？
+		MIT十条
+		所得非所见
+		面朝大海
+		T检验和卡方检验
+		计算机网络方向投稿期刊...
+		教育信息化开源项目
+		2008EI收录国外英文期...
+		计算机网络相关发文级别
+		ThoughtExperiments
+
+	
+
+
+我收到的评论
+
+	
+	
+
+
+我的文章汇总
+
+		2012年11月[1]
+		2012年3月[1]
+		2011年9月[5]
+		2011年7月[1]
+		2010年12月[1]
+		2010年10月[1]
+		
+	
+
+
+链接
+
+百万册数字图书馆
+科学网
+浙江省高校数字图书馆
+
+
+
+
+
+检索
+
+
+
+
+-所有文章-
+默认分类
+科研点滴
+工作简记
+新潮通迅
+生活随感
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+
+
+varflag=newArray();
+flag[0]='2012/03/20';
+flag[1]='2011/07/21';
+flag[2]='2010/10/31';
+flag[3]='2010/12/09';
+flag[4]='2011/09/21';
+flag[5]='2011/09/26';
+flag[6]='2011/09/27';
+flag[7]='2011/09/29';
+flag[8]='2012/11/21';
+
+
+varcale=newCalendar("idCalendar",{
+SelectDay:newDate(),
+onSelectDay:function(o),
+onToday:function(o),
+onFinish:function(){
+$("idCalendarYear").innerHTML=this.Year;$("idCalendarMonth").innerHTML=this.Month;
+for(vari=0,len=flag.length;i<len;i++){
+//alert(flag[i]);
+	vard=newDate(flag[i]);
+	if(this.Year==d.getYear()){
+		if(this.Month==d.getMonth()+1)
+		{
+this.Days[d.getDate()].innerHTML=""+d.getDate()+"";
+			
+		}
+
+	}
+}
+}
+});
+$("idCalendarPre").onclick=function()
+$("idCalendarNext").onclick=function()
+
+
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));

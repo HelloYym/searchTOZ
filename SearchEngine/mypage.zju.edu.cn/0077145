@@ -1,0 +1,234 @@
+
+
+
+
+
+楼辉课题组-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0077145";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	楼辉课题组
+
+
+	永久链接:http://mypage.zju.edu.cn/0077145&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;楼辉，男，1956年2月生，浙江大学教授，博士生导师。
+　　现任催化研究所所长、浙江大学可持续能源研究院副院长、浙江省应用化学重点研究实验室主任，中国化学会催化专业委员会委员、浙江省化学会副理事长。&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;三十多年来一直从事多相催化的教学和科研工作。1989年曾赴英国作访问学者一年。主持过&quot;973计划&quot;课题、&quot;863计划&quot;项目、国家自然科学基金项目、浙江省自然科学基金项目、浙江省科技厅重点及计划项目等多项。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;分别获得过浙江省科技进步二等奖、浙江省高校自然科学三等奖、浙江省高校科技进步一、三等奖等。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2000年被选为浙江省&quot;151人才工程&quot;培养人员，2010年被评为全国先进科技工作者。
+&nbsp;
+			
+				
+			工作研究领域
+			
+			　　1.生物质的催化转化及利用
+　　2.介孔材料合成及其在催化中的应用
+　　3.固体酸碱催化剂的研究
+　　4.一代、二代生物柴油的制备与利用
+			
+				
+			联系方式
+			
+			电话：13606629891			电子信箱：hx215@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：楼辉
+		单位：化学系
+		职称：教授
+		我的主页共被访问了50605次
+标签：生物质，生物柴油，超临界，纳米催化	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		实验室介绍
+	工作研究项目
+	发表论文
+	专利成果
+	教学工作
+	出版著作
+	奖励荣誉
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	浙江大学催化所
+浙江省应用化学重点实验室
+浙江大学可持续能源研究院
+化学--学科资源导航(ChemistryLibGuides)
+ACS
+Wiley
+WebofScience
+Elsevier
+RSC
+Springer
+PNAS
+Science
+Nature
+浙大图书馆
+维普
+CNKI
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,221 @@
+
+
+
+
+
+李凯个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0005002";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	李凯个人主页
+EMwavesandapplications
+
+	永久链接:http://mypage.zju.edu.cn/Likai&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+&nbsp;李凯，博士，教授博导。1968年2月生于安徽省萧县，1994年3月获得西安电子科技大学无线电物理专业理学硕士学位，1998年5月获得中国科学院陕西天文台天体力学专业理学博士学位。1990年8月至2000年12月期间，在中国电波传播研究所工作。1999年12月晋升为高级工程师。2001年1月至2002年12月，在韩国情报通信大学从事博士后研究工作。2003年1月至2005年1月，在新加坡南洋理工大学电子与电气工程学院工作。2004年12月在浙江大学晋升为研究员。2005年1月开始，供职于浙江大学信息与电子工程学系。2010年12月转聘为教授。先后在IEEETAP等国际著名期刊发表多篇学术论文，出版及即将出版英文学术专著2部。李凯的专著（KaiLi,ElectromagneticFieldsinStratifiedMedia,ZJUPressandSpringer,March2009）总结了近10年来在分层媒质中的电磁场方面的研究成果。合著的著作（WeiYanPan,KaiLi,PropagationofSLF/ELFElectromagneticWaves,ZJUPressandSpringer,&nbsp;2013）总结了李博士及合作者在超低频极低频波传播的研究成果。李博士是中国电子学会高级会员和空间科学学会会员。
+
+
+---------------------------------------------------------
+(1)欢迎在电波传播、电磁理论、电磁兼容等方面的同学报考硕士、博士研究生。
+(2)课题组诚聘电波传播、电磁理论、电磁兼容等相关方向博士后。
+&nbsp;&nbsp;&nbsp;浙江大学博士后政策请参考http://hr.zju.edu.cn/postdoctor/，
+&nbsp;&nbsp;&nbsp;课题组将根据具体业绩情况提供额外补助。
+(3)欢迎对相关方向感兴趣的国内外同行与我们开展合作研究。
+--------------------------------------------------------
+			
+				
+			工作研究领域
+			
+			研究领域包括电波传播和应用、电磁理论、电磁兼容等方面的研究工作。
+
+
+			
+				
+			联系方式
+			
+			电话：0571-87952012			电子信箱：kaili@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：李凯
+		单位：信息与电子工程学系
+		职称：教授
+		我的主页共被访问了20962次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		出版著作
+	教学工作
+	发表论文
+	工作研究项目
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

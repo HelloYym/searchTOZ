@@ -1,0 +1,249 @@
+
+
+
+
+
+WEIQIUZHU-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0075074";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	WEIQIUZHU
+ZhejiangUniversity
+
+	Permanentlink:http://mypage.zju.edu.cn/en/zhuweiqiu&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			Blog
+
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			
+
+BasicInformation
+
+
+
+W.Q.Zhu(ZhuWeiqiu)
+Member,ChineseAcademyofSciences
+Professor,DepartmentofMechanics,ZhejiangUniversity
+Tel.(86-571)87953102(O),(86-571)87991150(H)
+Fax:(86-571)87952651
+Email:wqzhu@yahoo.com
+
+&nbsp;
+EDUCATION
+&nbsp;
+GraduatedfromGraduateSchoolofNorthwesternPolytechnicUniversity(Xi&rsquo;an,China)in1964withamajorinNonlinearVibration
+GraduatefromNorthwesternPolytechnicUniversityin1961withamajorinEngineeringMechanics
+&nbsp;
+EXPERIENCE
+&nbsp;
+2007.2-6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DistinguishedProfessor,AcademicSinica,Taiwan,China
+2006-present&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Professor,DirectorofAppliedMechanicsInstitute,ZhejiangUniversity,China
+2004.3-4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;VisitingProfessor,SchoolofAerospace,MechanicalandMechatronicEngineering,TheUniversityofSydney,Australia
+2000.8&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SchmidtDistinguishedVisitingProfessor,FloridaAtlanticUniversity,BocaRaton,USA
+2000.4-present&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Professor,DepartmentofMechanics,ZhejiangUniversity,Hangzhou,China
+1999.6-2000.3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;VisitingProfessor,DisasterPreventionResearchInstitute,KyotoUniversity,Kyoto,Japan
+1999.3-1999.4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;VisitingProfessor,Lab.deMathAppliquecs,UniversiteBlaisePascaletCNRS,Clermout-Ferrand,France
+1997-1999.3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Professor,DepartmentofMechanics,ZhejiangUniversity,Hangzhou,China
+1996.7-12&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ResearchProfessor,DepartmentofCivilEngineering,StateUniversityofNewYorkatBuffalo,NY,USA
+1992.7-1996.6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Professor,DepartmentofMechanics,ZhejiangUniversity,Hangzhou,China
+1991-1992.6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ResearchAssociateProfessor,DepartmentofCivilEngineering,StateUniversityofNewYorkatBuffalo,NY,USA
+1989.10-1990.12&nbsp;&nbsp;&nbsp;&nbsp;VisitingAssociateProfessor,CenterforAppliedStochasticResearch,FloridaAtlanticUniversity,BocaRaton,FL,USA
+1985-1989.9&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AssociateProfessor,DepartmentofMechanics,ZhejiangUniversity,Hangzhou,China
+1983.6-1985&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SeniorLecturer,DepartmentofMechanics,ZhejiangUniversity,Hangzhou,China
+1981.9-1983.5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;VisitingScientist,DepartmentofMechanicalEngineering,MassachusettsInstituteofTechnology,Cambridge,MA,USA
+1981.2-8&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;VisitingScholar,DepartmentofEngineeringMechanics,UniversityofWiscosin-Madison,Madison,WI,USA
+1975-1980&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lecture,DepartmentofMechanics,ZhejiangUniversity,Hangzhou,China
+1967-1975&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ResearchEngineer,InstituteofAircraftStructuralStrength,Shanxi,China
+1965-1967&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ResearchAssociate,VibrationResearchGroup,NorthwesternPolytechnicUniversity,Xi&rsquo;an,China
+&nbsp;
+COURSESTAUGHT
+&nbsp;
+UndergraduateCourses:ProbabilityandStatistics,MechanicalVibration,TheoryofElasticity
+GraduateCourses:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AdvancedDynamics,RandomVibration,NonlinearVibration,Elastodynamics,StructuralDynamics,NonlinearDynamicalSystems,RandomDataAnalysis
+&nbsp;
+&nbsp;
+
+
+			
+				
+			Researchwork
+			
+			NonlinearStochasticDynamicsandControl
+			
+				
+			Contact
+			
+			Phone:057187991150
+			E-mail:wqzhu@yahoo.com
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:WeiqiuZhu
+		Units:ZhejiangUniversity
+		Title:Professor;Member,ChineseAcademyofSciences
+		Myhomepagehasbeenvisited1904times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+Publications
+ProjectsandUndertaken
+PrizesandAwards
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	
+
+
+Youarevisitor:1904
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

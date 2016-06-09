@@ -1,0 +1,210 @@
+
+
+
+
+
+简介-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0098075";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	简介
+
+
+	永久链接:http://mypage.zju.edu.cn/0098075&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			李伟，教授，博士生导师。1986年7月获得华东理工大学化学工程学士学位，1991年3月和1998年6月分别获得浙江大学化工学院环境化工硕士和生物化工博士学位。2000年3月至2001年4月在美国加州大学伯克利分校，劳伦斯伯克利国家实验室做访问学者。现任工业生态与环境研究所所长，兼任国家环境保护燃煤大气污染控制工程技术中心副主任、浙江省环保公共科技创新服务平台大气子平台理事、《高校化学工程学报》编委等职。曾任环境工程研究所所长，入选浙江省&ldquo;新世纪151人才工程&rdquo;。目前的主要研究方向为生态化工、污染控制与资源化，重点开展大气污染控制与治理、环境生物技术、生物质资源化利用等方面研究工作，包括化学-生物耦合净化烟气中NOx新技术，SCR烟气脱硝治理技术，CO2的减排与捕集技术，燃料油生物脱硫，有机废气治理等。近年来主持过多项科研项目，包括863计划、国家自然科学基金、浙江省科技攻关计划重大、重点项目等。至今已在Environ.Sci.Technol.、Bioresour.Technol.、Appl.Microbiol.Biotechnol.等国内外著名学术刊物和国际会议上发表学术论文100余篇，其中被SCI收录50余篇，出版著作4本，获多项发明和实用新型专利。获浙江省科学技术奖（一等）、高等学校科学研究优秀成果奖（二等）等奖励。
+			
+				
+			工作研究领域
+			
+			工业生态、大气污染控制与治理、环境生物技术、生物质资源化。
+
+欢迎化工、环境、化学、生物等相关学科加盟，攻读硕士、博士学位，开展博士后研究或合作科研。
+			
+				
+			联系方式
+			
+			电话：0571-87952513			电子信箱：w_li@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：李伟
+		单位：化学工程与生物工程学院
+		职称：教授
+		我的主页共被访问了17695次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+	出版著作
+	专利成果
+	奖励荣誉
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

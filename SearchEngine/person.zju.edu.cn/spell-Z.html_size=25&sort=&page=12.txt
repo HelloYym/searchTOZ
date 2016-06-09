@@ -1,0 +1,1 @@
+{'name': [u'\u5f20\u6cbb\u56fd'], 'title': [], 'photo': '', 'pos': './person.zju.edu.cn/spell-Z.html?size=25&sort=&page=12', 'blog': [], 'intro': '', 'department': [u'\u5316\u5b66\u5de5\u7a0b\u4e0e\u751f\u7269\u5de5\u7a0b\u5b66\u9662'], 'homepage': u'http://mypage.zju.edu.cn/zhiguo_zhang'}

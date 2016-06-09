@@ -1,0 +1,210 @@
+
+
+
+
+
+wanzhanhong-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0006211";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	wanzhanhong
+
+
+	永久链接:http://mypage.zju.edu.cn/wanzhanhong&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+2006年毕业于浙江大学机械与能源工程学院，获得博士学位；2006年至2008年在浙江大学建筑工程学院做师资博士后；之后，留校工作。2009年晋升副教授。2011年至2012年在美国WoodsHoleOceanographicInstitution（MIT）进行学术访问。
+主持和作为骨干参与完成国家自然科学基金、浙江省自然科学基金、中国博士后基金、重点实验室开放基金、公益专项等项目。申请发明专利多项。已在国内外发学术期刊上发表SCI论文20余篇。
+
+&nbsp;
+
+
+&nbsp;
+&nbsp;
+			
+				
+			工作研究领域
+			
+			主要研究兴趣：（1）船舶与海洋结构物系统及其动力分析；（2）海洋流体动力及其物质输运；（3）多相流；（4）海-气相互作用。
+			
+				
+			联系方式
+			
+						电子信箱：wanzhanhong@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：万占鸿
+		单位：浙江大学海洋学院
+		职称：副教授
+		我的主页共被访问了118次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,209 @@
+
+
+
+
+
+周永广-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0003173";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	周永广
+旅游资源开发与规划，旅游社会学
+
+	永久链接:http://mypage.zju.edu.cn/yongguang&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			男，1967年出生，安徽黄山人，浙江大学&nbsp;旅游管理系副教授，1990年毕业于杭州大学城市规划专业，1997年至2003年留学日本福井大学环境设计工学科，获都市系统设计课程（建築都市システム設計课程）工学博士学位。2003年浙江大学旅游系任教，旅游研究所副所长。2005.12-2008.05赴遂昌挂职县长助理。2006年任日本造园家集团顾问，2008.11任浙大城乡规划设计研究院交通与旅游所所长。2009.12挂职庆元县县长助理。
+			
+				
+			工作研究领域
+			
+			规划学博士，副教授，浙大旅游研究所副所长，浙大城乡规划设计研究院旅游所所长，浙大亚太休闲教育研究中心专家、浙江旅游职业技术学院学术委员会委员、兼任日本地域环境研究所研究员，日本造园家集团顾问，克拉玛依、武义县、庆元县等政府顾问。
+2006-2008挂职遂昌县县长助理期间，遂昌旅游开始从零起步，连年大幅跃进，2007、2008两年游客增长18倍，成功书写了山区县的“旅游传奇”，省、市领导提出“浙江旅游看遂昌”、“丽水旅游学遂昌”。
+主持过黄山乡村旅游国家示范区、杭州市水旅游、大运河杭州段、温州乡村旅游、龙泉市青瓷园、余杭超山等重要规划设计。其中大运河杭州段、湘湖、余杭超山等方案为国际竞标第一名。
+			
+				
+			联系方式
+			
+			电话：0571-87176753			电子信箱：eikou67@163.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：周永广
+		单位：管理学院旅游管理系
+		职称：副教授
+		我的主页共被访问了12116次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

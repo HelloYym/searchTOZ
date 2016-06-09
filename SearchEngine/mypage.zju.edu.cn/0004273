@@ -1,0 +1,223 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0004273";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0004273&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			顾正华，男，江苏海安人，工学博士，水利工程专业，1974年11月出生。1993年9月考入成都科技大学（现在的四川大学）水利系水利水电工程建筑专业，在校期间获得多次奖励，并获得四川省水利学会&ldquo;李冰奖学金&rdquo;，1997年7月作为优秀毕业生本科毕业。1997年9月考取南京水利科学研究院水力学及河流动力学专业研究生，研究方向为通航水力学，2000年8月获得工学硕士学位，硕士论文题目为《升船机承船厢水动力特性试验研究》，2000年8月留院水工研究所从事生产科研工作，2001年2月考取河海大学水电学院水力学及河流动力学专业博士研究生，研究方向为水信息学，在校期间获得两次&ldquo;河海大学三好研究生&rdquo;表彰，获得河海大学研究生优秀奖学金（一等）一次，并被推荐为河海大学&ldquo;优秀研究生&rdquo;，2004年6月获得工学博士学位，博士论文题目为《水流智能模拟理论及其应用研究》。2004年9月进入浙江大学水利与海洋工程学系工作。目前主要从事水信息与系统工程、水文水资源、水力学及河流动力学等方面的教学与研究工作，已经负责和参加科研项目15项，发表学术论文近20篇。（更新日期为2005年5月）
+			
+				
+			工作研究领域
+			
+			1、水信息与系统工程
+（1）神经网络、遗传算法等计算智能方法的改进与应用
+（2）水信息学与水信息工程的应用基础研究
+（3）“3S”技术在水科学与环境科学中的应用
+（4）水流智能模拟理论及其工程应用
+（5）水利工程中信息系统开发，等
+2、水文水资源
+（1）水资源承载力
+（2）水资源优化配置
+（3）水灾害与水安全，等
+3、水力学及河流动力学
+（1）通航水力学
+（2）河网水力学
+（3）环境水力学
+（4）水工、河工模型试验，等
+
+
+
+			
+				
+			联系方式
+			
+			电话：0571-81838151			电子信箱：WISE@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：顾正华
+		单位：建筑工程学院水利与海洋工程学系
+		职称：副教授
+		我的主页共被访问了4320次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	发表论文
+	研究成果
+	实验室介绍
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

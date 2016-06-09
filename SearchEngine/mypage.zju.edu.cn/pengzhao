@@ -1,0 +1,224 @@
+
+
+
+
+
+浙江大学赵朋-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0010601";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	浙江大学赵朋
+
+
+	永久链接:http://mypage.zju.edu.cn/pengzhao&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			赵朋，男，博士，副教授，求是青年学者。
+&nbsp;
+2000.09~2004.07华中科技大学工学学士学位
+2004.09~2009.12华中科技大学工学博士学位（材料加工工程）
+2010.01~2011.12浙江大学机械工程学院博士后
+2012.01~2013.12浙江大学机械工程学院助理研究员
+2013.06~至今UW-Madison机械工程学院VisitingScholar
+2014.01~至今浙江大学机械工程学院副教授
+&nbsp;
+&nbsp;&nbsp;&nbsp;本人一直从事聚合物先进成形工艺与装备的研究工作，在成形机理建模与仿真，成形过程检测与工艺优化，缺陷形成机理与避免，制品微观形态结构与高性能化等方面有深入系统的研究。主持多项国家和省部级项目，包括：国家自然科学基金(No.51105334&amp;No.51475420)、浙江省自然科学基金(No.LY14E050017)、国家博士后科学基金特别资助(No.201104674)和面上资助(No.0100481403)等。在国内外重要期刊上已发表SCI论文14篇，EI论文11篇；申请国家发明专利11项，其中9项已授权；参编十一五规划教材《塑料注射成型工艺及模具设计》（机械工业出版社出版）和外文专著《ComputerModelingforInjectionMolding:Simulation,OptimizationandControl》（JohnWiley&amp;Sons,Inc.出版）。入选浙江大学&ldquo;新星计划&rdquo;和&ldquo;求是青年学者&rdquo;人才项目。
+
+&nbsp;
+			
+				
+			工作研究领域
+			
+			聚合物成形加工的数字化与智能化；
+新型聚合物器件的设计与制造。
+			
+				
+			联系方式
+			
+			电话：0571-87952436			电子信箱：pengzhao@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：赵朋
+		单位：机械工程学院
+		职称：副教授
+		我的主页共被访问了8884次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		发表论文
+	专利成果
+	出版著作
+	奖励荣誉
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	浙江大学
+傅建中教授
+Researchgate
+GoogleScholar
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

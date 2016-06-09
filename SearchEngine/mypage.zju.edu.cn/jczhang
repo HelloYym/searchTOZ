@@ -1,0 +1,208 @@
+
+
+
+
+
+张家成的个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0089138";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	张家成的个人主页
+空空如也
+
+	永久链接:http://mypage.zju.edu.cn/jczhang&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;
+&nbsp;
+张家成，男,籍贯浙江省浦江县，1965年9月生于安徽宁国。1989年7月华东师范大学哲学系中国哲学史专业研究生毕业，同年8月至浙江大学哲学社会学系任教。1996年晋升为副教授。现为浙江大学人文学院哲学系副教授，兼任浙江大学中国思想文化研究所副所长，浙江大学佛教文化研究中心执行主任。曾访问美国Indiana大学（2005年9至2006年3月）、比利时Ghent大学（2008年9月至11月）。已出版有《中国佛教文化》、《虚云》等著作4部，在《哲学研究》、《中国哲学史》等刊物上发表学术论文50余篇。
+现为浙江大学本科生及研究生开设的课程有：中国哲学,中国佛教哲学，佛教文化专题等课程。
+			
+				
+			工作研究领域
+			
+			中国古代哲学及宗教，侧重于儒、道、佛三教关系及中国佛教文化研究。
+			
+				
+			联系方式
+			
+			电话：057188273350			电子信箱：jczhang1997@163.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：张家成
+		单位：人文学院哲学系
+		职称：副教授
+		我的主页共被访问了13624次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

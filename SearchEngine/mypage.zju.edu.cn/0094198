@@ -1,0 +1,211 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0094198";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0094198&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			男，1967年9月出生，研究员、博导。国际科技促进协会(IASTED,InternationalAssociationofScienceandTechnologyforDevelopment)控制技术委员会委员
+
+1967年9月生；分别在1989年和1994年于华中理工大学控制系获学士和博士学位；1994年至1996年浙江大学工业控制技术研究所博士后；1996年博士后出站留校任教至今。现为浙江大学信息学院控制系先进控制研究所研究员、博士生导师、国际科技促进协会（IASTED，International&nbsp;Association&nbsp;of&nbsp;Science&nbsp;and&nbsp;Technology&nbsp;for&nbsp;Development）控制技术委员会委员。作为项目负责人先后承担3项国家自然科学基金项目；参与写作英文专著2本；在国内外期刊和国际会议上发表论文50余篇，其中获1997/1998&nbsp;IEE&nbsp;Heaviside&nbsp;Premium奖论文1篇、SCI收录论文20篇、EI收录论文25篇。2002年获（英国）王宽诚皇家学会奖学金，2004年获霍英东教育基金会第九届高等院校青年教师（研究类）2等奖，2004年入选教育部新世纪优秀人才支持计划。
+
+
+			
+				
+			工作研究领域
+			
+			l1控制；混合H2/l1控制；数字控制器有限字长实现；网络控制；模型降阶
+			
+				
+			联系方式
+			
+			电话：0571－87952369			电子信箱：jwu@iipc.zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：吴俊
+		单位：控制科学与工程学系
+		职称：教授
+		我的主页共被访问了11354次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

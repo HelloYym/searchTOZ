@@ -1,0 +1,238 @@
+
+
+
+
+
+张惜丽-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0012016";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	张惜丽
+
+
+	永久链接:http://mypage.zju.edu.cn/xlzhang&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+工作经历
+
+
+2012.2-至今&nbsp;&nbsp;&nbsp;浙江大学管理学院&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;会计与财务管理&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;讲师
+
+
+
+学习经历：
+
+
+2009.9-2011.9&nbsp;滑铁卢大学组合优化系&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;投资组合优化&nbsp;&nbsp;&nbsp;&nbsp;联合培养博士生
+
+
+2007.9-2011.12华南理工大学工商管理学院&nbsp;管理决策与系统理论&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;博士生
+
+
+2005.9-2007.6&nbsp;华南理工大学数学科学学院&nbsp;数理统计及经济信息管理&nbsp;&nbsp;硕士生
+
+
+2001.9-2005.6&nbsp;华南理工大学应用数学系&nbsp;&nbsp;&nbsp;应用数学与应用软件&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本科生
+
+
+
+&nbsp;
+			
+				
+			工作研究领域
+			
+			财务计量、资产定价、投资组合优化
+			
+				
+			联系方式
+			
+						电子信箱：xlzhang@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：张惜丽
+		单位：管理学院会计与财务管理系
+		职称：
+		我的主页共被访问了7729次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	发表论文
+	学术交流（讲座报告）
+	工作研究项目
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	浙大管院
+金融工程与金融风险管理分会
+不确定系统分会
+国家自然科学基金
+模糊信息与工程分会
+中国金融学术研究网
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

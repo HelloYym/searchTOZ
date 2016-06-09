@@ -1,0 +1,226 @@
+
+
+
+
+
+施耀教授的主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0091103";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	施耀教授的主页
+个人简介及科研教学情况
+
+	永久链接:http://mypage.zju.edu.cn/119&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			施耀：
+工业生态与环境研究所书记、副所长
+SustainableEnvironmentResearch杂志编委
+&nbsp;
+博士、硕士招生专业：化学工程（生态化工）、环境科学（跨学科），欢迎各位同学报考
+&nbsp;
+&nbsp;&nbsp;&nbsp;1991年获浙江大学化学工程博士学位后留校任教。2002年起任浙江大学教授，2003年被批准为博士生导师。曾任化工系环境化工研究室副主任、主任，浙江大学环境科学与工程所副所长。曾获1998年浙江大学竺可桢优秀教师奖，获浙江大学2007年暑期大学生社会实践活动十佳优秀指导教师奖。1998年浙大四校合并后任教于浙江大学环境资源学院，环境工程系及环境科学系；2009年回归化学工程与生物工程系任教，从事大气污染控制与资源化，工业生态，环境安全过程等方面的研究。
+&nbsp;
+&nbsp;&nbsp;有多年国外研究的经历，1993.12，1999.8，2001.1三次赴美国加州大学伯克利分校，劳伦斯伯克利国家实验室，做高级访问研究，主要从事美国能源部的科研项目，电厂锅炉烟气中脱硫、脱氮、脱CO2及美国NASA的宇宙长途飞行的生命支持系统中的废气处理系统的研究。
+&nbsp;
+&nbsp;&nbsp;作为负责人完成了国家自然科学基金，省自然科学基金，国家教育部留学基金等多项，参与并完成863项目两项。国内外发表各类科学论文130余篇（H指数16），主编出版著作1本，参加编著2本，并取得中国专利15项，美国专利1项；获教育部和省环保、省教育厅科技进步奖各1项。已负责和参与完成有关烟气脱硫、除尘、脱硝工程、有机废气等50余项工程。
+&nbsp;
+			
+				
+			工作研究领域
+			
+			大气污染控制与资源化,包括CO2富集分离及处置技术（CCS）；烟气脱硝（氮）技术；脉冲等离子体复合技术处理有机废气；工业废气综合利用和治理新技术开发，固废综合利用与新技术开发；PM2.5源解析与减排
+
+工业生态过程，环境安全系统
+
+
+			
+				
+			联系方式
+			
+			电话：0571-88273591			电子信箱：shiyao@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：施耀
+		单位：化学工程与生物工程学系
+		职称：教授
+		我的主页共被访问了23380次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	专利成果
+	实验室介绍
+	研究生培养
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

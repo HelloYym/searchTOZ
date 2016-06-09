@@ -1,0 +1,224 @@
+
+
+
+
+
+欢迎访问王华军的主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0007618";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	欢迎访问王华军的主页
+求是物探
+
+	永久链接:http://mypage.zju.edu.cn/whj&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+
+
+王华军，男，副教授,&nbsp;硕士研究生导师，浙江大学地球科学系实验室主任、浙江省地质学会浙江大学联系秘书。长期从事应用地球物理电磁法理论、方法及应用研究，曾负责863子课题两项，省部级课题两项（其中一项属国际合作项目），博士后基金项目一项，横向课题一项；参加国家重点科研项目一项，重大横向课题二项。发表论文20余篇，其中5篇被SCI收录，他引次数达到16次。曾参加中国第四次北极科学考察，加拿大雷索卢特湾海冰冰情联合考察，赴美国德克萨斯大学圣安东尼奥分校访问，与国际同行建立了友好合作关系；在地球物理数值计算方面有较深入的研究，开发过常规直流电法、高密度电法及瞬变电磁法等多套电法勘探实用软件，其中&ldquo;中心回线瞬变电磁野外数据采集、处理解释软件&rdquo;已有数十家单位使用。
+经历：
+2009.06&mdash;今：浙江大学地球科学系工作。
+&nbsp;2013.05.17-2013.08.01&nbsp;加拿大约克大学（YU）访问学者，其中于05.18-05.24到加拿大RESOLUTEBAY联合开展北极考察。
+&nbsp;2011.10.29-2012.02.01：美国德克萨斯大学圣安东尼奥分校（UTSA）访问学者。
+&nbsp;2010.07.01-2010.09.19：参加中国第四次北极科学考察。
+2007.03&mdash;2009.05：浙江大学理学院地球科学系做学科博士后。
+2001.07&mdash;2007.02：福建泉州华侨大学信息科学与工程学院任教。
+1998.09&mdash;2001.06：中国地质大学(武汉)研究生院攻读博士学位。
+1997.07&mdash;1998.08：中国地质大学(武汉)电法科研组工作。
+
+
+			
+				
+			工作研究领域
+			
+			高维瞬变电磁正反演研究、瞬变电磁高精度数据采集与处理、地面、矿用、航空电磁勘探理论研究与软件研发、极地海冰厚度电磁探测方法研究。
+
+欢迎对地球物理电磁法感兴趣，数理基础好的同学报考研究生。
+			
+				
+			联系方式
+			
+			电话：057162068453			电子信箱：wanghj@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：王华军
+		单位：地球科学系
+		职称：副教授,硕导
+		我的主页共被访问了10173次
+标签：地球物理	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	研究成果
+	发表论文
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,228 @@
+
+
+
+
+
+郭国骥-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0014098";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	郭国骥
+
+
+	永久链接:http://mypage.zju.edu.cn/ggj&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			教育工作经历
+2001.9-2005.7&nbsp;&nbsp;武汉大学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;学士
+2005.8-2010.7&nbsp;&nbsp;新加坡国立大学&nbsp;&nbsp;&nbsp;博士
+2010.8-2010.10&nbsp;新加坡基因研究所&nbsp;&nbsp;博士后
+2010.11-2014.9&nbsp;美国哈佛大学医学院&nbsp;ResearchFellow
+2014.10-Current&nbsp;浙江大学医学院&nbsp;&nbsp;&nbsp;教授，博士生导师
+&nbsp;
+个人介绍
+郭国骥，男，1983年4月12日出生于武汉。现任浙江大学医学院教授，博士生导师，&ldquo;国家青年千人计划&rdquo;入选者。2014年由浙江大学高层次人才引进计划从哈佛大学医学院引进并全职回国，成为浙江大学最年轻的教授之一。其主要利用单细胞分析技术研究干细胞的再生和分化机制，并在胚胎干细胞和成体干细胞领域有突出贡献。
+
+
+&nbsp;
+
+科研成就
+首次利用单细胞基因表达谱分析的手段来研究干细胞的分化路径和分化机制，开辟了单细胞系统生物学新领域。建立并优化了高通量单细胞定量PCR的基本实验方法，以及数据分析手段。在胚胎期干细胞系统和成体造血干细胞系统中发现了谱系基因预表达的现象，解析了这一现象的分子机制，并进一步阐明了其对干细胞终端分化的影响。五年内在Cell(IF=32.5),CellStemCell(IF=27.5),DevelopmentalCell(IF=14.2)等著名期刊发表学术论文10余篇，总影响因子180分，总引用率650余次。
+			
+				
+			工作研究领域
+			
+			研究领域：
+干细胞再生和分化以及成体细胞去分化和转分化机制，优化干细胞的体外获取和扩增方法。
+
+研究方法：
+单细胞分析技术，CRISPR/Cas9基因组编辑技术，小分子化合物组合筛选等。
+
+			
+				
+			联系方式
+			
+			电话：13750802684			电子信箱：ggj@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：郭国骥
+		单位：浙江大学医学院
+		职称：教授
+		我的主页共被访问了9223次
+标签：干细胞，单细胞分析，分子调控，分化，去分化，转分化，CRISPR/Cas9，基因组编辑	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	奖励荣誉
+	学术交流（讲座报告）
+	实验室介绍
+	发表论文
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

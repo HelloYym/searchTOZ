@@ -1,0 +1,225 @@
+
+
+
+
+
+天柱山闲人-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0098043";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	天柱山闲人
+苟利天下生死以，岂因祸福避趋之！
+
+	永久链接:http://mypage.zju.edu.cn/xucj&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			个人简介：安徽省潜山人，1972年生，主要从事饱和土及非饱和土中的波的传播及动力响应、移动荷载下饱和土及轨道响应、土体固结、丁坝动力响应等方面的研究，发表100余篇SCI、EI检索论文，获省部级一、二等奖共5项，负责、参与完成科研项目50项，其中负责A类科研项目3项。在非饱和土及准饱和土中波的传播及动力响应方面取得了多项创新性成果，近年来对移动荷载下饱和土及轨道响应有较系统的研究。固结方面，研究了任意动力荷载作用下土体线性、非线性固结问题，并对GIBSON地基展开了相应的研究。作为项目负责人，在丁坝研究方面，首次对对涌潮作用力在时间、空间上分布及涌潮作用下丁坝动力响应进行了研究。另外，承担了多项工程项目的设计、咨询、检测工作，结合大量的工程实践，对桩基承载力、基坑开挖、强夯加固地基的机理等工程课题也做了一些研究，为工程界提供了有益的参考。
+
+&nbsp;
+
+社会学术兼职：
+中国岩石力学与工程学会工程安全与防护分会理事
+
+主要学习、工作经历：
+1990-1994:就读于浙江大学土木工程系工业及民用建筑专业，1994年7月毕业并获工学学士学位；
+1994-1998:就读于浙江大学岩土工程研究所，直接攻读岩土工程专业博士学位。研究方向为土动力学及地震工程，于1997年12月获博士学位；
+&nbsp;&nbsp;&nbsp;1998.3-1999.06:留浙江大学工作,从事工程设计、咨询及科研、教学工作。
+&nbsp;&nbsp;&nbsp;1999.06-2000.06:西班牙马德里&ldquo;西班牙公共建筑研究所&rdquo;博士后。
+&nbsp;&nbsp;&nbsp;2000.06-:回浙江大学工作,从事工程设计、咨询及科研、教学工作。
+&nbsp;&nbsp;&nbsp;2001.06:特评为副教授，2002年初评为硕导。2004获得注册岩土工程师执业资格。
+2008.12:聘为教授。2009.12:评为博士生导师。
+2010.03-2011.02:挂职浙江省建设厅综合计划与财务处副处长。
+			
+				
+			工作研究领域
+			
+			岩土工程土动力学及软土力学
+			
+				
+			联系方式
+			
+			电话：86050581			电子信箱：xucj@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：徐长节
+		单位：建筑工程学院土木工程学系
+		职称：教授
+		我的主页共被访问了8791次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	奖励荣誉
+	实验室介绍
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

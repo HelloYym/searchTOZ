@@ -1,0 +1,211 @@
+
+
+
+
+
+朱善安个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0098009";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	朱善安个人主页
+
+
+	永久链接:http://mypage.zju.edu.cn/0098009&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;78年3月-84年12月浙大电机系工业自动化专业本科生，硕士生;85年1月-87年12月浙大机械系流体传动与控制专业博士生；87年12月-90年2月浙大机械系流体传动与控制专业讲师；90年3月-90年11月英国曼切斯特理工学院(UMIST)机械系博士后；90年11月-92年3月英国牛津大学工程科学系博士后助研；92年4月-94年11月美国阿岗国家实验室访问学者；94年11月-95年11月美国犹他大学电机系ResearchAssociate；95年12月&ndash;&nbsp;98年12月&nbsp;&nbsp;新加坡国立大学电机系访问学者；共八年国外研究工作经历。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1998年回国至今，先后开设3门英语授课的专业课程，主持电工电子网络实验室、脑电、图像视频处理等多项科研项目，并与美国明尼苏达大学合作进行&ldquo;脑生物电磁系统&rdquo;国际合作项目研究。曾担任NFSI&amp;ICFBI&rsquo;07(2007JointMeetingofthe6thInternationalSymposiumonNoninvasiveFunctionalSourceImagingintheBrainandHeartandtheInternationalConferenceonFunctionalBiomedicalImaging)大会联席主席。并作为7名成员之一，代表中国进入了国际生物医学功能成像协会第一届筹划指导委员会。
+&nbsp;
+			
+				
+			工作研究领域
+			
+			1、生物电系统
+2、图像处理
+3、系统辨识与自适应控制
+
+			
+				
+			联系方式
+			
+						电子信箱：zsa@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：朱善安
+		单位：继续教育管理处
+		职称：教授
+		我的主页共被访问了19653次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+	奖励荣誉
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

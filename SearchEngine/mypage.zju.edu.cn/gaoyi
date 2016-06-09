@@ -1,0 +1,213 @@
+
+
+
+
+
+高艺的个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0014455";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	高艺的个人主页
+
+
+	永久链接:http://mypage.zju.edu.cn/gaoyi&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			2005年9月至2009年6月，于浙江大学软件学院就读本科并获优秀毕业论文。2009年9月至2014年12月，于浙江大学计算机学院直接攻博，连续5年获得优秀研究生一等荣誉，获研究生国家奖学金。2011年10月至2012年10月，由国家留学基金委资助赴加拿大麦吉尔大学（McGillUniversity）访问研究。2014年博士毕业后加入浙江大学计算机学院软件研究所，主要研究方向包括嵌入式软件、无线和移动计算、传感网、软件定义网络等。参与国家973基础研究项目、国家自然科学基金等多项国家级省级科研项目。在国际顶级期刊IEEE/ACMToN,IEEETC,IEEETPDS,IEEETMC,IEEETII以及国际顶级会议ACMSIGMETRICS,IEEEICNP,IEEEINFOCOM,IEEEICDCS等发表20余篇高质量论文。
+Publications
+GoogleScholarProfile
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+			
+				
+			工作研究领域
+			
+			嵌入式软件、无线与移动计算、传感器网络、物联网大数据挖掘、软件定义网络等
+			
+				
+			联系方式
+			
+						电子信箱：gaoyi@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：高艺
+		单位：浙江大学计算机学院
+		职称：
+		我的主页共被访问了1971次
+标签：计算机网络，传感网，无线与移动计算	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		发表论文
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	Emnets研究小组
+Eagle实验室
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

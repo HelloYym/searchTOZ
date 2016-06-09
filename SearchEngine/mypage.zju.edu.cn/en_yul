@@ -1,0 +1,212 @@
+
+
+
+
+
+LuYU'sHomepage-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0096107";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	LuYU'sHomepage
+
+
+	Permanentlink:http://mypage.zju.edu.cn/en/yul&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			Blog
+
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			Prof.LuYu&nbsp;ZhejiangUniversity,China
+&nbsp;
+ShereceivedherB.Eng.degree(Honor.)onRadioEngineeringandPh.DdegreeonCommunicationandElectronicSystemsfromZhejiangUniversity,Chinain1991and1996,respectively.NowsheisaprofessorintheInstituteofInformationandCommunicationEngineering,ZhejiangUniversity.ShewasaseniorvisitingscholarinUniversityHannoverin2002supportedbyChinaScholarshipCouncilandGermanResearchFoundation(DFG).ShewasaseniorvisitingscholarinTheChineseUniversityofHongKongsupportedbytheUnitedCollegeResidentFellowSchemein2004.
+&nbsp;
+Herresearchareaisvideocoding,multimediacommunicationandrelativeASICdesign,inwhichsheisprincipalinvestigatorofnationalR&amp;DprojectssuchasNaturalScienceFoundationofChina,863Hi-techProgramandinventororco-inventorof40grantedpatents.Shepublishedmorethan&nbsp;100technicalpapersandcontributed120+proposalstointernationalandnationalstandardsintherecentyears.
+&nbsp;
+ShenowactsastheChairoftheVideo-SubgroupofAudioVideocodingStandard(AVS)ofChinaandshealsowastheCo-ChairofImplementation-SubgroupofAVS.
+&nbsp;
+SheorganizedtheInternationalWorkshoponPacketVideo&rsquo;2006asaGeneralChair,andhostthe78thISO/IECJTC1SC29WG11(MPEG)and21stJVTmeeting.&nbsp;&nbsp;
+			
+				
+			Researchwork
+			
+			videocoding,multimediacommunicationandrelativeASICdesign
+			
+				
+			Contact
+			
+			Phone:+8657187953107
+			E-mail:yul@zju.edu.cn
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:LuYu
+		Units:InstituteofInformationandCommunicationEngineering
+		Title:Professor
+		Myhomepagehasbeenvisited18952times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+Research
+Publications
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	AVSworkinggroup
+MPEGHomePage
+GoogleScholarCitation
+PCS2013
+
+
+
+Youarevisitor:18952
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

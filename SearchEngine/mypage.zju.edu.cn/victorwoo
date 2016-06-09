@@ -1,0 +1,206 @@
+
+
+
+
+
+吴赟的主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0007292";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	吴赟的主页
+victor'shomepage
+
+	永久链接:http://mypage.zju.edu.cn/victorwoo&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			吴赟，浙江大学传媒与国际文化学院副教授，管理学博士，传播学博士后，浙江大学求是青年学者，入选浙江大学新星计划、浙江省首批“之江青年社科学者”、浙江省151人才工程。已在权威、核心学术期刊上发表《新中国出版业变迁的政治经济学动因》《中国新闻出版体制改革“三问”》《传播学理论研究的东方版本》《从传播理论视域看新环境下的编辑把关》《中国编辑出版研究学术史简论》《欧美出版研究的发展路径与特色》，"AComparativeStudyofMagazineAdvertisingofChinaandWesternCountries"，"PublishingResearchinChina:History,Characteristics,andChallenges"等60余篇论文，其中10余篇论文被中国人民大学复印报刊资料全文转载。出版《文化与经济的博弈：出版经济学理论研究》（独著，2009年）、《比较出版学》（合著，2006年）、《出版学基础》（第二作者，2005年）、《出版学基础研究》（副主编，2005年）、《成功出版完全指南》（合译，2004年）等著作。主持国家社科基金项目等国家级、省部级项目，参与其他研究项目多项。曾获教育部第六届中国高等学校科学研究优秀成果奖（人文社会科学）（三等奖/2013年）、浙江省哲学社会科学优秀成果奖（二等奖/2012年）、浙江省高等学校优秀科研成果奖一等奖（2008年，2011年）、浙江省社科联青年社会科学优秀成果奖（2010年）、第二届中华优秀出版物奖（全国优秀出版科研论文奖）（2008年）、首届中国传媒经济与管理学会优秀科研成果奖（论文奖）（2012年）、美国华人图书馆协会纪念奖（CALAResearchMemorialFundandScholarships）（2004年）等学术奖励。
+			
+				
+			工作研究领域
+			
+			传播与社会转型研究、出版研究、文化产业研究、版权研究、阅读研究。
+			
+				
+			联系方式
+			
+						电子信箱：victor222@126.com，victorwoo222@gmail.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：吴赟
+		单位：传媒与国际文化学院新闻与传播学系
+		职称：副教授
+		我的主页共被访问了11825次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

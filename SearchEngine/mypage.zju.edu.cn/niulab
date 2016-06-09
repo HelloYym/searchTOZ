@@ -1,0 +1,263 @@
+
+
+
+
+
+医学物理与工程实验室-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0013250";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	医学物理与工程实验室
+CT成像技术及临床应用
+
+	永久链接:http://mypage.zju.edu.cn/niulab&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			<spanstyle="font-size:12.0pt;font-family:宋体;
+mso-ascii-font-family:&quot;TimesNewRoman&quot;;mso-bidi-font-family:&quot;TimesNewRoman&quot;;
+mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;
+mso-bidi-language:AR-SA">牛田野，浙江大学转化医学研究院和附属邵逸夫医院特聘研究员，博士生导师。<spanlang="EN-US"style="font-size:12.0pt;font-family:&quot;TimesNewRoman&quot;,&quot;serif&quot;;
+mso-fareast-font-family:宋体;mso-hansi-font-family:宋体;mso-font-kerning:1.0pt;
+mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA">2003<spanstyle="font-size:12.0pt;font-family:宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;
+mso-bidi-font-family:&quot;TimesNewRoman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA">年毕业于中国科技大学近代物理系，被授予理学学士学位，并获&ldquo;郭沫若&rdquo;奖学金。同年保送本校物理电子学专业攻读直博，于<spanlang="EN-US"style="font-size:12.0pt;font-family:&quot;TimesNewRoman&quot;,&quot;serif&quot;;
+mso-fareast-font-family:宋体;mso-hansi-font-family:宋体;mso-font-kerning:1.0pt;
+mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA">2008<spanstyle="font-size:12.0pt;font-family:宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;
+mso-bidi-font-family:&quot;TimesNewRoman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA">年毕业被授予工学博士学位。<spanlang="EN-US"style="font-size:12.0pt;font-family:&quot;TimesNewRoman&quot;,&quot;serif&quot;;
+mso-fareast-font-family:宋体;mso-hansi-font-family:宋体;mso-font-kerning:1.0pt;
+mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA">2009<spanstyle="font-size:12.0pt;font-family:宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;
+mso-bidi-font-family:&quot;TimesNewRoman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA">年至<spanlang="EN-US"style="font-size:12.0pt;font-family:&quot;TimesNewRoman&quot;,&quot;serif&quot;;
+mso-fareast-font-family:宋体;mso-hansi-font-family:宋体;mso-font-kerning:1.0pt;
+mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA">2012<spanstyle="font-size:12.0pt;font-family:宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;
+mso-bidi-font-family:&quot;TimesNewRoman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA">年在美国乔治亚理工大学医学物理专业做博士后，从事医学影像引导治疗系统的硬件建设与研究工作。<spanlang="EN-US"style="font-size:12.0pt;font-family:&quot;TimesNewRoman&quot;,&quot;serif&quot;;
+mso-fareast-font-family:宋体;mso-hansi-font-family:宋体;mso-font-kerning:1.0pt;
+mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA">2013<spanstyle="font-size:12.0pt;font-family:宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;
+mso-bidi-font-family:&quot;TimesNewRoman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA">年在乔治亚理工大学晋升研究员并兼客座助理教授，负责医学影像实验室科研与建设，协助本系构建医学物理实验教学体系。<spanlang="EN-US"style="font-size:12.0pt;font-family:&quot;TimesNewRoman&quot;,&quot;serif&quot;;
+mso-fareast-font-family:宋体;mso-hansi-font-family:宋体;mso-font-kerning:1.0pt;
+mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA">2014<spanstyle="font-size:12.0pt;font-family:宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;
+mso-bidi-font-family:&quot;TimesNewRoman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA">年起任浙江大学转化医学研究院和附属邵逸夫医院研究员，开展医学物理与工程的教学科研工作。已发表国际一级期刊学术论文<spanlang="EN-US"style="font-size:12.0pt;font-family:&quot;TimesNewRoman&quot;,&quot;serif&quot;;
+mso-fareast-font-family:宋体;mso-hansi-font-family:宋体;mso-font-kerning:1.0pt;
+mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA">20<spanstyle="font-size:12.0pt;font-family:宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;
+mso-bidi-font-family:&quot;TimesNewRoman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA">余篇，国际会议报告<spanlang="EN-US"style="font-size:12.0pt;font-family:&quot;TimesNewRoman&quot;,&quot;serif&quot;;
+mso-fareast-font-family:宋体;mso-hansi-font-family:宋体;mso-font-kerning:1.0pt;
+mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA">20<spanstyle="font-size:12.0pt;font-family:宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;
+mso-bidi-font-family:&quot;TimesNewRoman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA">余次，拥有美国专利<spanlang="EN-US"style="font-size:12.0pt;font-family:&quot;TimesNewRoman&quot;,&quot;serif&quot;;
+mso-fareast-font-family:宋体;mso-hansi-font-family:宋体;mso-font-kerning:1.0pt;
+mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA">2<spanstyle="font-size:12.0pt;font-family:宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;
+mso-bidi-font-family:&quot;TimesNewRoman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA">项，研究专利受到医科达和瓦里安等国际一流医疗器械公司关注。近年来担任美国卫生研究所（<spanlang="EN-US"style="font-size:12.0pt;font-family:&quot;TimesNewRoman&quot;,&quot;serif&quot;;
+mso-fareast-font-family:宋体;mso-hansi-font-family:宋体;mso-font-kerning:1.0pt;
+mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA">NIH<spanstyle="font-size:12.0pt;font-family:宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;
+mso-bidi-font-family:&quot;TimesNewRoman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA">）项目合作研究员，同时任医学物理领域顶级期刊<spanlang="EN-US"style="font-size:12.0pt;font-family:&quot;TimesNewRoman&quot;,&quot;serif&quot;;
+mso-fareast-font-family:宋体;mso-hansi-font-family:宋体;mso-font-kerning:1.0pt;
+mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA">MedicalPhysics<spanstyle="font-size:12.0pt;font-family:宋体;mso-ascii-font-family:
+&quot;TimesNewRoman&quot;;mso-bidi-font-family:&quot;TimesNewRoman&quot;;mso-font-kerning:1.0pt;
+mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA">和<spanlang="EN-US"style="font-size:12.0pt;font-family:&quot;TimesNewRoman&quot;,&quot;serif&quot;;
+mso-fareast-font-family:宋体;mso-hansi-font-family:宋体;mso-font-kerning:1.0pt;
+mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA">PhysicsinMedicineandBiology<spanstyle="font-size:12.0pt;font-family:宋体;
+mso-ascii-font-family:&quot;TimesNewRoman&quot;;mso-bidi-font-family:&quot;TimesNewRoman&quot;;
+mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;
+mso-bidi-language:AR-SA">资深审稿人，<spanlang="EN-US"style="font-size:12.0pt;
+font-family:&quot;TimesNewRoman&quot;,&quot;serif&quot;;mso-fareast-font-family:宋体;mso-hansi-font-family:
+宋体;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;
+mso-bidi-language:AR-SA">ComputationalandMathematicalMethodsinMedicine<spanstyle="font-size:12.0pt;font-family:宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;
+mso-bidi-font-family:&quot;TimesNewRoman&quot;;mso-font-kerning:1.0pt;mso-ansi-language:
+EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA">期刊客座主编。获一系列研究奖项，包括国际电气电子工程师协会医学影像分会新人奖和美国医学物理学会科学论坛最佳报告。
+			
+				
+			工作研究领域
+			
+			1）新一代锥形束CT系统性能提升：锥束X射线探测器广泛用于病床边图像引导，但其成像质量受到散射污染等因素影响较差，无法满足定量应用需要。本项目借助数学物理模型估计散射信号并从投影中修正，以改善成像质量。
+2）低剂量计算机断层重建：锥束CT在治疗引导中要进行重复扫描，累积剂量较高。为降低高剂量对人体损伤，本项目设计新型CT重建算法，加入数学物理先验信息到重建过程中，在保持成像质量同时抑制辐射剂量。
+3）锥束引导的自适应放射治疗：锥束CT的在线监控特性使其适合自适应放射治疗，即根据锥束CT图像在治疗中修正计划，以提高治疗效果。
+4）特种锥束CT应用：基于锥束CT核心模块衍生出的各类专用型CT机，如微锥束CT、乳腺锥束CT和移动锥束CT设备等。
+			
+				
+			联系方式
+			
+			电话：0571-88981576			电子信箱：tyniu@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：牛田野
+		单位：医学院
+		职称：正高
+		我的主页共被访问了3389次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		发表论文
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

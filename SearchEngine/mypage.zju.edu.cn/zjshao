@@ -1,0 +1,222 @@
+
+
+
+
+
+邵之江的个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0097101";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	邵之江的个人主页
+认识世界改造世界
+
+	永久链接:http://mypage.zju.edu.cn/zjshao&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			教授、博导
+浙江大学控制系副系主任
+工业控制研究所常务副所长
+杭州市钱江特聘专家、浙江省新世纪151人才工程第二层次培养人员、教育部新世纪优秀人才
+1992.6年本科毕业于浙江大学化工系；1997.6年获浙江大学控制系博士学位并留校任教。1999年晋升副教授；2004年晋升教授。
+
+&nbsp;
+			
+				
+			工作研究领域
+			
+			复杂化工和能源系统的精确建模和智能决策、大规模系统动态优化、流程重构与切换优化、多阶段复杂状态约束下的动态优化
+			
+				
+			联系方式
+			
+			电话：0571-8795306813003635218校园网短号622502			电子信箱：zjshao@iipc.zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：邵之江
+		单位：控制科学与工程学系
+		职称：教授
+		我的主页共被访问了60198次
+标签：建模	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	研究方向
+	工作研究项目
+	发表论文
+	学术交流（讲座报告）
+	奖励荣誉
+	实验室介绍
+	PSE2009,8.16-8.20,Salvodor,Brazil
+	指导研究生、本科生
+	学术兼职
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	forEnglish,presshere
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

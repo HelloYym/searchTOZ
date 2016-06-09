@@ -1,0 +1,213 @@
+
+
+
+
+
+徐向阳的个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0091290";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	徐向阳的个人主页
+HomepageofXuxiangyang
+
+	永久链接:http://mypage.zju.edu.cn/xuxy&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;博士、教授、博士生导师。1964年5月出生，浙江人，汉族。1985年7月毕业于浙江农业大学环境保护专业，获学士学位；1999年2月获浙江大学工学博士学位。历任浙江农业大学、浙江大学环境工程系副主任（1997-2000，2000-2009）、环保研究所副所长、常务副所长（2006-2009）、环境与资源学院院长助理（2006-2009）；现任学院副院长（2009-）、浙江大学-西澳大学水环境综合管理与保护联合研究中心主任（2009-）。兼任浙江省环境科学学会副理事长、中国生物工程学会工业及环境生物技术专业委员会委员、国际水协会（IWA）中国厌氧消化专业委员会委员。
+			
+				
+			工作研究领域
+			
+			科研领域：废水生物处理、环境微生物、流域水环境安全等研究。
+
+教学主讲：本科生废水生物处理专题、硕士研究生学位课环境污染控制技术、废水处理生化反应工程学等课程。
+
+			
+				
+			联系方式
+			
+			电话：0571-88982648			电子信箱：xuxy@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：徐向阳
+		单位：环境与资源学院环境工程系
+		职称：教授
+		我的主页共被访问了10016次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	学术交流（讲座报告）
+	研究成果
+	专利成果
+	奖励荣誉
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

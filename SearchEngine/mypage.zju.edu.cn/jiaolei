@@ -1,0 +1,219 @@
+
+
+
+
+
+焦磊实验室-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0005176";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	焦磊实验室
+流体机械实验室
+
+	永久链接:http://mypage.zju.edu.cn/jiaolei&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			焦&nbsp;磊，男，1977年生，山东青岛人。2000年获山东工业大学化工设备与机械专业学士学位，2005年获浙江大学化工过程机械专业博士学位，同年留在浙江大学化工机械研究所任教,2007年晋升为化工过程机械学科副教授，近年来一直从事特种流体输送设备内部流动分析、流体工程等方面的研究工作，发表论文10余篇，获省部级奖励3项。
+近期发表的相关论文如下：
+[1]焦磊，吴大转，王乐勤，小型轴流管路液力涡轮的试验研究，工程热物理学报，2007，28(2)：241-243.
+&nbsp;
+[2]焦磊,吴大转，王乐勤,徐如良.两种喷嘴喷射性能的试验研究.工程热物理学报,2006,27(6):962-964.
+[3]王乐勤,焦磊,徐如良,李江云.脉冲射流作用下驻点压力特性的实验研究.工程热物理学报,2005,26(1):69-71.
+[4]焦磊,王乐勤,徐如良,李江云.冲击高度对淹没冲击射流影响的数值预测.工程热物理学报,2005,26(5):773-775.
+[5]焦磊,王乐勤,徐如良.雷诺数对淹没冲击射流流场影响的数值预测.农业机械学报,2005,36(4):75-77.
+[6]王循明,焦磊,王乐勤.自激脉冲发生机理数值模拟及参数影响分析.浙江大学学报工学版,2005,39(9):1450-1454.
+[7]徐如良,焦磊,王乐勤.离心机在油罐底泥综合处理中的优化配置研究.流体机械,2002,30(5):13-15
+[8]徐如良,韩子兴,焦磊.原油储存沉降规律及罐底油泥形成机理研究.油气储运,2004,23(7):46-52
+[9]ChenSongying,WangLeqin,JiaoLei.ThecomputationoftheJintegralwiththetractionboundaryintegralequation.InterJournalforNumericalMethodinEngineering,2004,59(3):1137-1146.
+近期获得3项省部级科技进步奖：
+⑴新型整体式氯气透平压缩机研制与工业应用，2006年获浙江省科技进步三等奖(第一完成者)；
+⑵L4型液氯液下泵，2004年获中国机械工程学会科技进步叁等奖（第五完成者）；
+⑶直埋式ZMQ系列石油、天然气管道球阀，2001年获浙江省科技进步叁等奖（第七完成者）。
+			
+				
+			工作研究领域
+			
+			流体机械内流机理研究及结构优化设计
+			
+				
+			联系方式
+			
+			电话：0571-88141027			电子信箱：jiaolei@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：焦磊
+		单位：OceanCollege,ZhejiangUniversity
+		职称：副教授
+		我的主页共被访问了3792次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

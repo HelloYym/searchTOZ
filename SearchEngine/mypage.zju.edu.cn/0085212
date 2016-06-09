@@ -1,0 +1,210 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0085212";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0085212&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			1980.9-1984.8北京国际政治学院亚欧语系德语语言文学专业学习,获文学学士学位
+1984.8-1985.10杭州市公安局外事处工作
+自1985.11至今浙江大学外语系德语中心任教
+1984.6-1985.1在德国柏林工业大学现代语言中心进修德语教学法
+1998.8-1999.1参加歌德学院北京分院现代德语教学法教师研讨班
+1999.8-1999.9在歌德学院法兰克福分院参加德语多媒体教学研讨
+班
+2001.4-2001.11在德国柏林工业大学人文社科学院德语作为外语教学法研究所进修德语教学法
+2004.8-2004.9在德国慕尼黑歌德学院参加初中级德语教学法进
+班
+自1999.3至今多次担任高校德语教师短期进修班主讲教师并且参加编写(新编大学德语)和(大学德语阅读教程)等全国统编教材
+			
+				
+			工作研究领域
+			
+			自1986.2至今一直担任公共外语德语选修课,科技德语辅修专业德语课程和德语专业基础德语课程的教学课程的教学工作.开设了基础德语,科技德语,经济德语等大量课程并且多次担任由歌德学院北京分院组织的高校德语教师短期进修班的主讲教师.参与编写(新编大学德语),(新编大学德语教师手册)和(大学德语阅读教程)等全国统编教材.主要工作和研究领域为德语教学法,应用语言学和翻译学等.
+
+			
+					
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：邵勇
+		单位：浙江大学德国学中心
+		职称：讲师
+		我的主页共被访问了4088次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	出版著作
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

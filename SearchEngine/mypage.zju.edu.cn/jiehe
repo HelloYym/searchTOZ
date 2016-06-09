@@ -1,0 +1,207 @@
+
+
+
+
+
+何洁-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0009693";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	何洁
+儿童心理学玩家
+
+	永久链接:http://mypage.zju.edu.cn/jiehe&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			何洁，浙江大学心理与行为科学系副教授，博士生导师。1980年2月生于杭州。2003年毕业于浙江大学心理与行为科学系，获得学士学位。同年报送浙江大学心理与行为科学系研究生，2009年毕业获得博士学位。2007-2008年美国马里兰大学联合培养博士。2009年在浙江大学心理与行为科学系做博士后研究工作，2011年留系任教。作为课题负责人承当了国家自然基金青年基金和中国博士后基金等项目。先后在JournalofExperimentalChildPsychology,&nbsp;Infancy,SocialDevelopment，心理学报等国内外权威刊物中发表论文。作为儿童发展研究组织(SRCD)会员和儿童行为发展国际组织(ISSBD)会员，多次参加SRCD和ISSBD等国际学术会议，并作大会交流，获得广泛好评。
+			
+				
+			工作研究领域
+			
+			长期从事儿童心理发展与教育的研究和教学工作，尤其擅长婴幼儿情绪、认知和社会适应相关的研究。主要研究的领域包括：1）婴幼儿气质和人格发展；2）儿童情绪能力发展；3）婴幼儿社会认知发展及社会适应。
+			
+				
+			联系方式
+			
+						电子信箱：jiehe@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：何洁
+		单位：心理与行为科学系
+		职称：副教授
+		我的主页共被访问了5159次
+标签：心理学儿童报考博士研究生	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

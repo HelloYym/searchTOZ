@@ -1,0 +1,259 @@
+
+
+
+
+
+motor'sspace-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0006296";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	motor'sspace
+max
+
+	Permanentlink:http://mypage.zju.edu.cn/en/motor&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			Blog
+
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			
+
+
+
+
+Education
+Ph.D.&ndash;ZhejiangUniversity,ElectricalEngineering,2006
+B.S.&ndash;ZhejiangUniversity,ElectricalEngineering,2001
+
+
+
+
+WorkingExperience
+2011-,Associateprofessor,SchoolofElectricalEngineering,ZhejiangUniversity
+2008-2010,&nbsp;Lecturer,SchoolofElectricalEngineering,ZhejiangUniversity
+2006-2008,Post-doctoralresearch,SchoolofEnergyEngineering,ZhejiangUniversity
+
+
+
+
+ResearchInterests
+Permanentmagnetelectricalmachinedesignanddrive
+Powerelectronicsapplication
+
+
+
+
+CurrentProjects
+1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BLDCmotorusedinpetroleumdrillingsystem
+A3000Nm,38rpmBLDCmotorandthederrickcontrolsystem.
+2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HighspeedPMmotorBLDCmotorwithsensorlesscontroller.
+3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Multi-Power-TerminalPermanentMagnetMachine
+Magnetgearwithcoilsinsidetocontroltheenergyflowinginmulti-directions.
+
+
+
+
+RecentPublicationList
+Journalpapers
+1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;M.J.Jin,Y.Wang,J.X.Shen,P.C.K.Luk,W.Z.Fei,C.F.Wang,Coggingtorquesuppressioninapermanentmagnetflux-switchingintegrated-starter-generator,&nbsp;IETonElectricPowerApplications&nbsp;&nbsp;Vol.4(8),Sep.2010,pp.647-656
+2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Y.Wang,M.J.Jin,W.Z.Fei,J.X.Shen&nbsp;&nbsp;&nbsp;&nbsp;Coggingtorquereductioninpermanentmagnetflux-switchingmachinesbyrotorteethaxialpairing,IETonElectricPowerApplications&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vol.4(7),Aug.2010,pp.500-506
+3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;K.Wang,M.J.,JinJ.X.Shen,H.Hao&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;,Studyonrotorstructurewithdifferentmagnetassemblyinhigh-speedsensorlessbrushlessDCmotors,IETonElectricPowerApplications&nbsp;&nbsp;Vol.4(4),Apr.2010,pp.241-248
+4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;K.Wang,M.J.Jin,andJ.X.Shen.Studyonrotorconfigurationinthirdharmonicbasedhigh-speedBLDCmotor.JournalofZhejiangUniversity(EngineeringScience).Vol.44(3),Mar.2010,pp.557-562.
+5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;M.J.Jin,C.F.Wang,J.X.Shen,B.Xia,AModularPermanent-MagnetFlux-SwitchingLinearMachineWithFault-TolerantCapability,IEEETransactionsonmagneticsVol.45(8),Aug.2009,pp.3179-3186
+6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C.F.Wang,J.X.Shen,Y.Wang,L.L.Wang,M.J.Jin&nbsp;ANewMethodforReductionofDetentForceinPermanentMagnetFlux-SwitchingLinearMotors,IEEETransactiononmagneticsVol.45(6),Jun.2009,pp.2843-2846
+7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;M.J.Jin,J.Q.Qiu,C.W.Shi,andR.G.Lin.Studyonresistanceestimationtodirecttorquecontrolledpermanentmagnetsynchronousmachines.ProceedingsoftheChineseSocietyofElectricalEngineering,Vol27(6),Feb.2007,pp.17-20,
+8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;M.J.Jin,J.Q.Qiu,C.W.Shi,andR.G.Lin.Directtorquecontrolofpermanentmagnetsynchronousmotorbasedonfluxerrorvectorestimation.JournalofZhejiangUniversity(EngineeringScience),Vol39(10),Oct.2005,pp.1644-1647
+9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;M.J.Jin,J.Q.Qiu,C.W.Shi,andR.G.Lin.Novelstatorfluxestimatorfordirecttorquecontrolledmagnetsynchronousmotordrives.ProceedingsoftheChineseSocietyofElectricalEngineering,Vol25(24),Dec.2005,pp.139-143
+10.&nbsp;&nbsp;&nbsp;&nbsp;C.W.Shi,J.Q.Qiu,andM.J.Jin,andF.W.Fuchs.Studyontheperformanceofdifferentdirecttorquecontrolmethodsforpermanentmagnetsynchronousmachines.ProceedingsoftheChineseSocietyofElectricalEngineering,Vol25(16),Aug.2005,pp.141-146
+Conferencepapers
+1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B.Xia,M.J.Jin,J.X.ShenandA.G.Zhang,DesignandAnalysisofanAir-CoredAxialFluxPermanentMagnetGeneratorforSmallWindPowerApplication,2010IEEEInternationalConferenceonSustainableEnergyTechnologies(ICSET),Dec.2010,Kandy,SriLanka
+2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;H.Hao,M.J.Jin,J.X.Shen,andW.Z.Fei.SensorlessOperationofHigh-SpeedPMBLDCMachineUsingFullHardwareRotor-Flux-Observe.ConferenceProceedings-EVER2010,Mar.2010,Monaco(awardofbestpaperinelectricalmachines)
+3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C.F.Wang,P.C.K.Luk,J.X.Shen,W.Z.Fei,andM.J.Jin,DesignIssuesofanIPMBLACMotorUsedforElectricPowerSteering,ConferenceProceedings-EVER2010,Mar.2010,Monaco
+4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;M.J.Jin,P.C.K.Luk,J.Q.Qiu,C.W.Shi,andR.G.Lin.Aneuralnetworkbasedinitialpositiondetectionmethodtopermanentmagnetsynchronousmachines.IPEMC2006,Vol3,pp.1878-1882,2007,Shanghai,China
+5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;J.Q.Qiu,C.W.Shi,M.J.Jin,andR.G.Lin.Counter-rotatingpermanentmagnetbrushlessDCmotorforunderwaterpropulsionSource,IPEMC2006Vol2,pp.885-889,2007Shanghai,China
+6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;M.J.Jin,C.W.Shi,J.Q.Qiu,andR.G.Lin.Statorfluxestimationfordirecttorquecontrolledsurfacemountedpermanentmagnetsynchronousmotordrivesoverwidespeedregion.ICEMS2005,Vol1,pp.350-354,2005,Nanjing,China
+7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;M.J.Jin,J.Q.Qiu,C.W.Shi,andR.G.Lin.AfuzzyDTCmethodwithaSVMdefuzzificationtopermanentmagnetsynchronousmachine.ProceedingsofIndustrialElectronicsConference,Vol3,pp.3196-3199,2004,Pusan,Korea
+
+
+
+
+
+			
+				
+			Researchwork
+			
+			Specialpermanentmagnet(PM)machinedesignanddrives;Multi-Power-TerminalPermanentMagnetMachine;LowspeedhightorquePMmachines;HighspeedPMmachine;
+			
+				
+			Contact
+			
+			Phone:+86-571-87953094
+			E-mail:m_j_jin@zju.edu.cn
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:JinMengjia
+		Units:CollegeofElectricalEngineeringZhejiangUniversity
+		Title:Associateprofessor
+		Myhomepagehasbeenvisited2966times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	
+
+
+Youarevisitor:2966
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

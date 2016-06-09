@@ -1,0 +1,241 @@
+
+
+
+
+
+HomepageofXudongLu-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0003440";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	HomepageofXudongLu
+
+
+	Permanentlink:http://mypage.zju.edu.cn/en/0003440&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			Blog
+
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			
+PersonalDetails:<spanlang="EN-US"style="font-size:11.0pt;font-family:
+&quot;Arial&quot;,&quot;sans-serif&quot;">
+Name:XudongLU&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Title:Professor&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Organization:ZhejiangUniversity
+Gender:Male&nbsp;&nbsp;DateofBirth:06/06/1973&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nationality:P.R.China
+Address:&nbsp;&nbsp;DepartmentofBiomedicalEngineering,ZhejiangUniversity,
+&nbsp;ZhedaRoad38,Hangzhou,310027,P.R.China
+
+
+Education:
+&Oslash;&nbsp;&nbsp;&nbsp;&nbsp;09/1998-09/2001ZhejiangUniversity,Hangzhou,P.R.China
+Ph.D.degreeinBiomedicalEngineering
+&Oslash;&nbsp;&nbsp;&nbsp;&nbsp;09/1995-06/1998ZhejiangUniversity,Hangzhou,P.R.China
+M.Sc.degreeinBiomedicalEngineering
+&Oslash;&nbsp;&nbsp;&nbsp;09/1993-07/1997ZhejiangUniversity,Hangzhou,P.R.China
+B.Sc.degreeinBiomedicalEngineering
+
+
+
+AcademicActivitiesandMemberships:
+Dr.LUisaMemberofAmericanMedicalInformaticsAssociationandHospitalInformationManagementSystemSocietysince2007.Hewasinvitedtoreviewmanuscriptsforvarious&nbsp;journalsandconferencesincludingInternationalJournalofEngineering,ScienceandTechnology,ChineseJournalofMedicalInstrumentation,ChineseJournalofBiomedicalEngineering,InternationalConferenceonBioinformaticsandBiomedicalEngineering.&nbsp;
+
+TeachingExperience:<spanlang="EN-US"style="font-size:11.0pt;font-family:
+&quot;Arial&quot;,&quot;sans-serif&quot;">
+PrincipleofDatabaseSystem,Undergraduatecourse,2004-2007,48hours/year<spanlang="EN-US"style="font-size:11.0pt;
+font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">
+BasicsofComputerSoftwareTechnologies,Undergraduatecourse,2008-2010,80hours/year<spanlang="EN-US"style="font-size:11.0pt;
+font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">
+OverviewofMedicalInformatics,Graduatecourse2004-2010,32hours/year<spanlang="EN-US"style="font-size:11.0pt;
+font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">
+
+
+Achievements
+Combiningtechniquesofbusinessprocessmanagementwithmedicalintelligence.Since2007,Dr.LuhasfocusedonusinghisexpertiseinmedicalintelligencetoimproveclinicalprocessmanagementthroughtwoBBprojectscooperatingamongtri-partiesofPhilips,TU/e,andZJU.From2007to2010,astheprojectleader,Dr.LustudiedmethodologiesofimprovinghealthcareprocessesusingtheYAWLandProMtoolkits.TheprojectwaswellmanagedandanexchangePh.DstudentaccomplishedhistaskoftransferringknowledgefromChinatoEuropeandviceversa.Over10internationaljournalandconferencepapershavebeenpublishedandonesuccessfulcasestudyinChinesehospitalisconducted.AnewBBPprojectof&ldquo;Aprocessanalysisandprocessminingtoolkitforclinicalpathwaymanagement&rdquo;wasinitiatedfrom06/2011andtakenasthecontinuationofthepreviousone,tofurtherimprovethecooperationandknowledgetransfer.
+DevelopmentofGuideline-basedClinicalDecisionSupportSystem.FromJan.2007toDec.2008,Dr.LuwasinchargeofdevelopingGuideline-basedCDSSfundedbythe&ldquo;863&rdquo;PrograminChina.Anintegratedmethodologyofknowledgemodelling,inference,recommendation,andanalysishasbeenworkedoutandevaluatedinbothhospitalsandcommunities.Theprojecthasbeenrankedfirstamongallthenational&ldquo;863&rdquo;projectsinthemedicalITfieldsbytheMinistryofScienceandTechnologyofChinain2009.&nbsp;Thesuccesshasledtoanew&ldquo;863&rdquo;projectof&ldquo;MedicalKnowledgeBaseandClinicalDecisionSupportSystem&rdquo;initiatedfromJan.2011.&nbsp;&nbsp;
+DevelopmentofintegratedEMR-SinChina.FromJune2006toJune2008,astheleaderofaR&amp;Dteamofover40researchersandengineers,Dr.LuwasinchargeofdevelopingthefirstintegratedEMR-SinChinafundedbytheChineseCentralMilitaryCommission.ThepilothasbeenimplementedinChinesePLAGeneralHospital.ThesystemhasbeenenteredthemassmarketinChinaandbeenimplementedinover30hospitalsinChinasofar.Thesuccesshasledtoanew&ldquo;863&rdquo;projectof&ldquo;High-endElectronicMedicalRecordSystemanditspilotinHospital&rdquo;initiatedfromJan.2011.
+DevelopmentofIntegratedPhysiologyInformationSystemthroughKnowledgeTransfer.FromApril2002toJune2003,Dr.LuworkedinNihonKohdenCorporation(NKC)ofJapanasavisitor.Duringthisperiod,Dr.LuproposedthedevelopmentofanintegratedphysiologyinformationsystemandcreatedanarchitecturaldesignbasedonhisknowledgeandexperienceinhealthcareIT.ThecollaborationbetweenZJUandNKChasbeenestablishedafterDr.LureturnChinaandfinallythesystemwasreleasedin2006.Ithasbeenappliedinmorethan300hospitalsthusfar,andwonthefirstmarketshareinJapan.&nbsp;
+
+
+<pclass="MsoNormal"style="margin-top:6.0pt;mso-para-margin-top:.5gd;text-align:
+justify;text-justify:inter-ideograph;mso-layout-grid-align:none;text-autospace:
+none">
+			
+				
+			Researchwork
+			
+			MedicalInformatics,ArtificialIntelligenceinMedicine,HealthcareProcessManagement
+			
+				
+			Contact
+			
+			Phone:+86-571-87951792
+			E-mail:xudonglu@bme.zju.edu.cn
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:XudongLu
+		Units:SchoolofBiomedicalEngineering&Instrumentation
+		Title:Professor
+		Myhomepagehasbeenvisited4254times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+ResearchExperience
+Publications
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	
+
+
+Youarevisitor:4254
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

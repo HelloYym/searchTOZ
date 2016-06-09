@@ -1,0 +1,214 @@
+
+
+
+
+
+成长是金-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0084177";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	成长是金
+在波动中寻找机会
+
+	永久链接:http://mypage.zju.edu.cn/lxj001&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+
+
+李兴建,男,1963年7月出生。1987年留校任教至今。目前就职于浙江大学经济学院金融系证券期货研究所。
+承担完成了上海证券交易所上证联合研究课题&ldquo;境外上市企业国内融资机制研究&rdquo;、&ldquo;公司治理与并购动机研究&rdquo;以及&ldquo;浙江证券期货蓝皮书---2003年浙江省证券期货市场发展报告&rdquo;等多项研究课题。
+&nbsp;
+&nbsp;
+
+
+
+			
+				
+			工作研究领域
+			
+			主要从事投融资理论的研究和实务运作。
+1992年开始关注中国资本市场的发展,专注于中国资本市场投融资体制的研究,尤其注重投融资实务的运作,有丰富的金融投资的经验。擅长行业分析和公司研究,对企业的投融资机制有较深入的研究
+			
+				
+			联系方式
+			
+						电子信箱：li13357108588@163.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：李兴建
+		单位：经济学院金融学系
+		职称：讲师
+		我的主页共被访问了1007次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

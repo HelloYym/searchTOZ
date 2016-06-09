@@ -1,0 +1,208 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0004498";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0004498&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			吴小刚同学自1995年以来一直在浙江大学攻读学士、硕士、博士学位，现在浙江大学生工食品学院&ldquo;农业水土保持&rdquo;一级学科博士后流动站工作。吴小刚同学在校期间学习刻苦努力，曾获一次校一等奖学金、两次校二等奖学金、两次单项奖学金、一次学科优秀奖等，积极参与班级管理事务，担任班长、团支书期间，曾获得优秀学生干部、三好学生等称号多次,并荣获浙江大学2004届优秀毕业研究生荣誉称号；到目前为止，已经参与发表了《交通荷载下管道疲劳寿命的模糊可靠度方法》、《垂直荷载作用下地管道纵向受力分析模式初探》、《浙江省实施不良行为记录及公示制度》、《水资源流域管理实施中的相关问题探讨》等论文19篇，录用《Fighting&nbsp;corrosion&nbsp;in&nbsp;coastal&nbsp;cities(a&nbsp;research&nbsp;work&nbsp;on&nbsp;shang-hai&nbsp;china&rsquo;s&nbsp;industrial&nbsp;&amp;&nbsp;commercial&nbsp;city)》、《Study&nbsp;on&nbsp;the&nbsp;Emergency&nbsp;Mechanism&nbsp;for&nbsp;Paroxysmal&nbsp;Pollution&nbsp;of&nbsp;the&nbsp;Water&nbsp;Resource》等论文14篇，参与《交通荷载作用下软土地基中管道的力学性状研究》等2项国家自然科学基金项目以及多项省部级课题。吴小刚同学在勤奋学习的同时，坚持理论联系实际，参与多项科研与实际工程，包括：乐清市软基处理咨询与监测、钱江三桥井点降水测试以及丽水市供水工程、富阳人民医院病房大楼等的建设监理和相关招投标工作，并获监理员证书。&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;目前吴小刚同学曾担任多项浙江大学社团兼职，曾获社会实践奖一次。吴小刚同学主要研究方向为：市政工程、水工结构工程、交通荷载下管道的力学性状、管土相互藕合作用、建设监理、水资源规划与管理等，目前，还担任北京大学图书馆《中文核心期刊要目总览》编委会组织的中文核心期刊的评审专家职务。
+			
+				
+			工作研究领域
+			
+			1、市政工程、交通工程
+2、岩土工程
+3、建筑管理与水资源规划
+
+
+			
+				
+			联系方式
+			
+						电子信箱：wxg1669@sohu.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：吴小刚
+		单位：生物系统工程与食品科学学院
+		职称：助理研究员（自然科学）
+		我的主页共被访问了2979次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		发表论文
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

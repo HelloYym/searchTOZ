@@ -1,0 +1,217 @@
+
+
+
+
+
+乔旭升-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0007238";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	乔旭升
+
+
+	永久链接:http://mypage.zju.edu.cn/qxs&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;乔旭升，男，1980年出生，工学博士，浙江大学材料系副教授，副博导，浙江省&ldquo;纳米材料与器件&rdquo;重点创新团队成员。2007年于浙江大学博士毕业后留校任教，已经指导或协助指导博士生6名、硕士生11名、本科生20多名。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;主要从事发光功能材料方面的教学与科研工作。作为项目负责人先后承担了1项国家自然科学基金青年基金项目、1项教育部博士点基金项目、1项浙江省重大科技攻关项目子项目和1项浙江省&ldquo;纳米材料与器件&rdquo;重点创新团队资助项目，作为项目主要人员参加了多项国家自然科学基金面上项目，军工项目、国际合作项目和省科技计划项目。在AppliedPhysicsLetters,Journalof&nbsp;MaterialsChemistryA和JournaloftheAmericanCeramicSociety等国际期刊已发表SCI收录论文50多篇，SCI论文他人引用500多次。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2008年赴法国RennesI大学玻璃与陶瓷实验室访问交流，主要从事新型LED照明材料的合作研究。2010年赴德国Kiel大学访问交流，主要采用HRTEM和STEM等手段合作研究光功能微晶玻璃的微观结构。2012年在国家留学基金委&ldquo;中法蔡元培项目&rdquo;资助下，赴法国从事新型太阳能电池材料的合作研究。2013-2014年赴美国从事有关玻璃与玻璃陶瓷微结构分子动力学模拟计算的合作研究。
+			
+				
+			工作研究领域
+			
+			1.发光功能材料:(1)无机玻璃与玻璃陶瓷；(2)半导体纳米材料；(3)荧光粉材料。
+
+2.材料合成与制备：(1)无机玻璃中微纳结构设计与原位生长；(2)纳米材料的湿化学合成方法(3)溶胶-凝胶方法。
+
+3.材料发光机理研究：(1)光谱学分析；(2)发光动力学研究；(3)材料计算。
+
+			
+				
+			联系方式
+			
+						电子信箱：qiaoxus@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：乔旭升
+		单位：材料科学与工程学系
+		职称：副教授
+		我的主页共被访问了8188次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		科研项目
+	教学工作
+	专利成果
+	出版著作
+	奖励荣誉
+	研究成果
+	实验室介绍
+	发表论文
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

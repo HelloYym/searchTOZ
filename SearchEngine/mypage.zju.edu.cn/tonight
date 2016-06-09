@@ -1,0 +1,210 @@
+
+
+
+
+
+TONIGHT-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0094136";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	TONIGHT
+FOREDAWN
+
+	永久链接:http://mypage.zju.edu.cn/tonight&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			童晓明，1972年12月19日生，1992年12月8日加入中国共产党，浙江临安人。
+现任浙江大学继续教育学院（远程教育学院、成人教育学院、职业技术教育学院）党委书记、副院长兼全国干部教育培训浙江大学基地副主任。
+
+
+
+工作简历：
+1994年6月-1996年6月，浙江大学对外经贸学院分团委副书记、书记。
+1996年6月-2004年10月，浙江大学党委办公室秘书、党委秘书。
+2004年10月-2005年8月，浙江大学党委书记秘书。
+2005年8月-2009年12月，浙江大学党委书记秘书兼党委办公室副主任。
+2009年12月-2011年4月，浙江大学党委书记秘书兼党委办公室副主任、校长办公室副主任。
+2011年4月至今，浙江大学继续教育学院（远程教育学院、成人教育学院、职业技术教育学院）党委书记、副院长兼全国干部教育培训浙江大学基地副主任。
+			
+				
+			联系方式
+			
+						电子信箱：txm@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：童晓明
+		单位：继续教育学院
+		职称：副研究员
+		我的主页共被访问了5292次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		太阳出世
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

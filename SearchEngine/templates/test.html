@@ -1,0 +1,27 @@
+{% load staticfiles %}
+<html>
+<head>
+    <title>Search</title>
+</head>
+<body>
+    <form action="/search/" method="get">
+        <input type="text" name="query">
+    </form>
+    {% for item in result %}
+	<div class="post-single">
+		<h2><a href={{item}}>{{ item }}</a></h2>
+	</div>
+	{% endfor %} 
+
+	<img src =  {{timg}} /> 
+
+	{% for item in teacher %}
+	<div>
+		<p>{{item.0}}</p>
+		<p>{{item.1}}</p>
+	</div>
+	{% endfor %} 
+</body>
+</html>
+	
+	

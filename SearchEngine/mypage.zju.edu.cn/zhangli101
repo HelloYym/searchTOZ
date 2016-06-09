@@ -1,0 +1,235 @@
+
+
+
+
+
+张立的个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0003339";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	张立的个人主页
+个人主页
+
+	永久链接:http://mypage.zju.edu.cn/zhangli101&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			张立（1975－），祖籍湖南浏阳。
+
+1997年7月，在武汉大学科技信息专业获理学学士学位；
+2000年7月，在武汉大学情报学专业获管理学硕士学位；
+2003年8月，在北京大学科技哲学专业获哲学博士学位；
+2003年9月至今，任教于浙江大学哲学系。
+
+代表著作
+《从传统走向近代&mdash;&mdash;中国科学文化史上的阮元》（专著），安徽教育出版社，2005
+《神经科学的哲学基础》（译著），浙江大学出版社，2008
+
+承担课题
+科学道德伦理对现代社会的介入和渗透（教育部重大攻关项目子课题，2012.6-）
+中医传统养育观念与实践（贝因美亲子文化研究基金课题，2010.3-）
+宋元时期浙江科技史研究（浙江省社会科学规划重点项目，2006.1-）
+明末至清中叶浙江科技史研究（浙江省社会科学规划重点项目，2006.1-2008.4）
+
+开设课程
+科学思想史导论（硕博课程），自然辩证法（硕士课程）
+中国科学文化史专题（硕士课程），科技史（本科课程）&nbsp;&nbsp;
+当代科技哲学（本科课程），科技社会学（本科课程）
+
+学术兼职
+中国自然辩证法研究会方法论委员会委员
+中国科技史学会科技史教育专业委员会委员
+			
+				
+			工作研究领域
+			
+			科学文化史
+
+科技哲学
+
+科技与社会
+			
+				
+			联系方式
+			
+						电子信箱：nigaud@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：张立
+		单位：哲学系，科技与社会发展研究所
+		职称：副教授
+		我的主页共被访问了9623次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	出版著作
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

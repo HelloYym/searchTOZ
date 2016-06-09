@@ -1,0 +1,266 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0000035";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0000035&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			2000.3～今浙江大学动物科学学院副研究员
+
+1998.10～2000.2浙江农科院畜牧兽医研究所副研究员
+
+1993.7～1998.9浙江农科院畜牧兽医研究所助理研究员
+
+1990.7～1993.6浙江农科院畜牧兽医研究所研究实习员
+
+1987.9～1990.7浙江农业大学畜牧兽医系动物营养硕士研究生
+
+1983.9～1987.7河南农业大学畜牧兽医系本科
+
+
+
+其中：
+
+1999.2～1999.7美国加州大学戴维斯分校陪读
+
+2002.3～今浙江大学动物科学学院在职博士研究生
+
+学术兼职
+
+
+
+1.中国畜牧兽医学会养猪学分会常务理事
+
+2.浙江畜牧兽医学会养猪与猪病防治分会秘书长
+
+3.《猪业科学》（原动物科学与动物医学）杂志编委
+
+所获荣誉与主要奖励
+
+1.科研成果获奖情况
+
+非常规动物蛋白饲料资源开发及优化利用
+1996年浙江省科技进步一等奖
+排名第10
+
+蛋鸡抗热应激饲料添加剂（ASA）及其效果研究
+1997年浙江省科技进步三等奖
+排名第2
+
+中国瘦肉猪新品系选育及配套研究
+1998年农业部科技进步一等奖，1999年国家科技进步二等奖
+参加
+
+规模养猪产业化配套技术研究及试验基地建设
+2003年浙江省科技进步二等奖
+主要完成人
+
+
+
+
+2.荣誉称号
+
+1997年获浙江省工会优秀女职工工作者荣誉称号
+
+1998年入选浙江省151人才工程第二层次
+
+2003年获浙江大学优秀学生工作定向奖
+
+
+			
+				
+			工作研究领域
+			
+			
+
+主要从事母猪繁殖与泌乳的营养调控技术；猪的营养需要；绿色猪肉生产配套技术；抗应激和提高免疫力的绿色饲料添加剂研究；仔猪超早期断奶配套技术；分子遗传标记与猪肉品质等领域的研究。
+
+			
+				
+			联系方式
+			
+			电话：0571-86971805						
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：张金枝
+		单位：动物科学学院动物科技系
+		职称：副研究员（自然科学）
+		我的主页共被访问了1790次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

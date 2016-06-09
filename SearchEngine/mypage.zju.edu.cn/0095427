@@ -1,0 +1,215 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0095427";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0095427&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			浙江大学地球科学系副教授，硕士生导师。中国地理学会水文专业委员会委员、中国地理学会持续农业与乡村发展专业委员会委员，浙江省地理学会秘书长。
+九十年初任黑龙江水利高等专科学校水资源与农田水利工程系副主任，其间留学加拿大，获加拿大阿尔伯特高等教育奖。九十年任杭州大学地理系副主任，杭州大学资源与海洋工程系副主任。
+现为浙大硕士研究生开设《区域水资源分析与计算》、《水资源利用与规划》、《综合自然地理学》、《现代自然地理学》等课程。
+为本科生开设的《水文水资源》与《综合自然地理学》已做成CAI（项目负责人，已通过验收获奖），现已列入浙大教学资源网，成为网上课程。近年来在国内外一级学术刊物及浙大学报发表论文十余篇，其中涉及水资源利用、规划与保护方面有多篇。2000年由浙江大学出版社出版本人著作《综合自然地理学》，计32.6万字，此书被列为浙江大学&ldquo;211工程百课工程项目&rdquo;。曾主持小流域水土保持综合规划十余项，近年来主持水利景区规划十余项。
+			
+				
+			工作研究领域
+			
+			现为自然地理硕士点导师，从事资源开发与利用方向．现在主要从事水资源研究．为浙大硕士研究生开设《区域水资源分析计算与制图》、《水资源利用与规划》、《综合自然地理学》、《现代自然地理学》等课程。
+近年来在国内外一级学术刊物及浙大学报发表论文十余篇，其中涉及水资源利用、规划与保护方面有多篇。2000年由浙江大学出版社出版本人著作《综合自然地理学》，计32.6万字，此书被列为浙江大学“211工程百课工程项目”，曾主持小流域水土保持综合规划十余项，近年来主持浙江省水利景区规划十余项。
+
+
+			
+				
+			联系方式
+			
+			电话：88801792			电子信箱：mmh@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：毛明海
+		单位：地球科学系
+		职称：副教授
+		我的主页共被访问了15816次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	学术交流（讲座报告）
+	研究成果
+	奖励荣誉
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

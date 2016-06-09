@@ -1,0 +1,211 @@
+
+
+
+
+
+程乐鸣-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0087155";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	程乐鸣
+浙江大学程乐鸣
+
+	永久链接:http://mypage.zju.edu.cn/lemingc&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;&nbsp;1987年毕业于浙江大学热能专业，1996年在浙江大学获工学博士学位，1998年在加拿大达尔豪斯大学(Dalhousie&nbsp;University)作为博士后进行科研工作，现为浙江大学机械与能源学院教授，博士生导师。
+&nbsp;&nbsp;&nbsp;&nbsp;近年来，主要从事煤和天然气的洁净燃烧、传热和产物生成与控制的理论和实践研究，包括循环流化床燃烧、传热和污染物控制、压力流化床燃烧与传热、灰渣冷却、新型分离器、旧锅炉改造、烟气脱硫、燃气多孔介质燃烧、高温空气发生、脉动燃烧等理论和技术。发表学术论文90余篇，其中作为第一、二作者SCI、EI收录论文10余篇，合写专著2本，合译专著1本，协助编写英文专著《Boilers&nbsp;and&nbsp;Burners》。参加科研项目50余项，作为项目负责人负责15项科研项目，包括国家重点基础研究发展项目子课题（973）1项，国家自然科学基金项目2项，国家教育部留学回国基金项目1项，国家&rdquo;九&bull;五&rdquo;攻关项目1项，浙江省自然科学基金项目1项。编写《工业锅炉设计计算方法-层状燃烧及流化床燃烧工业锅炉热力计算方法》中的&Prime;循环流化床锅炉传热计算导则&Prime;，提出换热式方型分离器，获国家发明专利。
+			
+				
+			工作研究领域
+			
+			近年来，主要从事煤和天然气的洁净燃烧、传热和产物生成与控制的理论和实践研究，包括循环流化床燃烧、传热和污染物控制、压力流化床燃烧与传热、灰渣冷却、新型分离器、旧锅炉改造、烟气脱硫、燃气多孔介质燃烧、高温空气发生、脉动燃烧等理论和技术。
+
+			
+				
+			联系方式
+			
+			电话：(571)8795-2802			电子信箱：lemingc@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：程乐鸣
+		单位：能源工程学系
+		职称：教授
+		我的主页共被访问了13444次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	专利成果
+	奖励荣誉
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

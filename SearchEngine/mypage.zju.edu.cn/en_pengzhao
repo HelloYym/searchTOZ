@@ -1,0 +1,232 @@
+
+
+
+
+
+ZhejiangUniversity,PengZhao-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0010601";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	ZhejiangUniversity,PengZhao
+
+
+	Permanentlink:http://mypage.zju.edu.cn/en/pengzhao&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			
+
+Education
+Ph.D.,HuazhongUniversityofScienceandTechnology&nbsp;2004-2009&nbsp;StateKeyLaboratoryofMaterialProcessingandDie&amp;MoldTechnology
+&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Supervisor:Prof.HuaminZhou
+&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DissertationTitle:On-lineoptimizationanddetectionofprocessparametersforplasticinjectionmoldingmachine
+
+BachelorofEngineering,HuazhongUniversityofScienceandTechnology&nbsp;2000-2004&nbsp;CollegeofMaterialScienceandEngineering
+&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Supervisor:Prof.DequnLi
+&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DissertationTitle:Theapplicationofartificialintelligenceinnumericalsimulationforplasticinjectionmolding
+&nbsp;
+ResearchExperience:
+ResearchAssociateintheStateKeyLaboratoryofFluidPowerandMechatronicSystems,ZhejiangUniversity&nbsp;&nbsp;&nbsp;2010-Present
+Researchonultrasonicmeasuringoflayeredcrystalbehaviorforpolymersduringinjectionmolding:Finalproducts&rsquo;qualityiscloselyrelatedtotheir&quot;skin-core&quot;crystalstructures,whichareformedandeventuallyfrozeninthefinalproductsduringinjectionmoldingprocess.However,uptonow,theresearchapproachesoncrystallizationbehaviorforpolymersarestillbasedonoff-linemeasurementsoron-linemeasurementsundersimplemoldingprocess.
+&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Investigateatime-domainacousticmodelofultrasoundpropagationinlayeredmedia,revealingthemechanismoflayeredcrystalstructureonultrasonicsignalsduringinjectionmoldingprocess.
+&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Establishanadaptivenoisefilteringmethodforultrasonicsignalsbasedonsplitspectrumprocessingtechnique,eliminatingthenoisescausedbythedefectsofpolymers.
+&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Constructalayeredcrystalstructure(crystallinity)inversionmethod,byusingtheoverallspectralcharacteristicsofultrasonicsignals.
+&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exploreanon-isothermalshear-inducedcrystallizationmodel,andanalyzecrystallizationkineticsbehaviorsofpolymersduringinjectionmoldingbasedontheevolutiondataofcrystallinity.
+&nbsp;
+ResearchInternintheStateKeyLaboratoryofMaterialProcessingandDie&amp;MoldTechnology,&nbsp;HuazhongUniversityofScienceandTechnology&nbsp;&nbsp;2005-2009
+Researchonintelligentinjectionmoldingmachine:Traditionally,thetuningofparametersforinjectionmoldingmachineisaprocedureoftrial-and-error,whichhasmanydisadvantages,suchastimeconsuming,expensivecostandpoorqualityetc.Regardingthekeenglobalcompetitionininjectionmoldingindustry,usingthisempiricalapproachtodeterminetheprocessparametersofinjectionmoldingmachineisnolongergoodenough.
+&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Inventedafaststripanalysismodelasasurrogatemodeltodescribethecomplicatedrelationshipsamongprocessparameters,plasticpropertiesandcavitygeometries.
+&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Presentedafastoptimizationmethodforinjectionvelocityprofilingbasedongraphtheory,whichaimsataconstantmelt-front-velocitythroughoutthefillingstage.
+&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Developedalow-cost,large-capacityandreal-timeportabledatacollectingsystemforinjectionmoldingmachine
+&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Proposedanon-destructivecharacterizationmethodforon-linemeasurementofthepolymerstatusinsidetheinjectionmoldbasedonultrasonictechnique.
+&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Establishedahybridintelligentmodelforautomaticoptimizationofprocessparameterstoachievedefect-freeproduction,itconsistsofcase-basedreasoning,surrogatemodelandfuzzyinference.
+&nbsp;
+ResearchInternintheStateKeyLaboratoryofMaterialProcessingandDie&amp;MoldTechnology,&nbsp;HuazhongUniversityofScienceandTechnology&nbsp;&nbsp;2003-2004
+Researchonknowledge-basedCAEsimulationsoftware:TheintelligentizationhasbecomeanimportantdevelopmenttrendforCAEsoftware.Knowledge-basedCAEsimulationsoftwarecanhelpuserstooptimizeprocessparametersintelligentlyandobtainimprovementsuggestionsautomatically,whichwilldecreasethemanipulatingdifficultyforusersandwillincreasetheapplicationareaoftheCAEsoftware.
+&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Appliedartificialneuralnetworkforoptimizinginjectiontimeandinjectionpressureparameters.
+&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Employedexpertsystemanddata-miningmethodforanalyzingCAEsoftware&rsquo;smassresults,andtherebygivingimprovementsuggestions.
+			
+				
+			Researchwork
+			
+			1)Injectionmoldingprocessmonitoring,optimizationandcontrol;
+2)Microscopicmorphologyofpolymermaterialanditsinfluenceonthefinalproductquality
+
+			
+				
+			Contact
+			
+			Phone:(+86)057187952436
+			E-mail:pengzhao@zju.edu.cn
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:Pengzhao
+		Units:DepartmentofMechanicalEngineering
+		Title:AssociateProfessor
+		Myhomepagehasbeenvisited3589times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+Publications
+Patents
+ActiveProjects
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	
+
+
+Youarevisitor:3589
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

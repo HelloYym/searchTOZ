@@ -1,0 +1,202 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0095444";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0095444&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;吴晓博，汉族，1960年12月生人。1984年毕业于黑龙江大学俄语系，大学本科学历。1995年至1997年在爱沙尼亚共和国筹建中国驻爱沙尼亚大使馆经济商务参赞处，任俄语翻译;1997年至今在浙江大学外国语言文化与国际交流学院，任俄语教师，讲师职称；2003年9月至2004年8月在俄罗斯莫斯科国立大学进修，访问学者，在莫斯科大学学习期间，进修了5门研究生课程。担任俄语专业三、四年级专业课程有：经贸俄语应用文、经贸俄语文选、经贸俄语口语、俄译汉、汉译俄、俄语精读及全校俄语公选课等课程。
+&nbsp;&nbsp;&nbsp;&nbsp;研究方向：俄罗斯语言与文化。
+&nbsp;&nbsp;&nbsp;&nbsp;主要的科研成果有：主编了两本全国高校俄语专业教材《经贸俄语文选》、《经贸俄语函电》，在国内外学术刊物上发表了数篇俄语学术论文。
+			
+				
+			联系方式
+			
+			电话：88206228			电子信箱：wuxiaobo102@hotmail.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：吴晓博
+		单位：浙江大学俄罗斯语言文化研究所
+		职称：讲师
+		我的主页共被访问了2953次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	发表论文
+	出版著作
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

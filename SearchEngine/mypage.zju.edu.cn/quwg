@@ -1,0 +1,224 @@
+
+
+
+
+
+QuWenGuang'sHomePage-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0009664";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	QuWenGuang'sHomePage
+
+
+	永久链接:http://mypage.zju.edu.cn/quwg&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			博士加拿大McGill大学管理学院信息系统专业
+硕士浙江大学管理学院管理科学与工程专业
+本科浙江大学竺可桢学院（混合班）、计算机学院
+
+主要论文：
+Qu,W.G.,Pinsoneault,A.,Tomiuk,D.,Wang,S.,andLiu,Y.&quot;TheimpactsofsocialtrustonopenandclosedB2Be-commerce:AEurope-basedstudy,&quot;Information&amp;Management,2015,(52:2),pp.151-159.&nbsp;(SSCI)
+
+Qu,W.G.,andYang,Z.Y.&quot;Theeffectofuncertaintyavoidanceandsocialtrustonsupplychaincollaboration,&quot;JournalofBusinessResearch,2015,(68:5),pp.911-918.&nbsp;(SSCI)
+
+Qu,W.G.,Ding,Y.,Shou,Y.,Zhou,H.,andDu,H.&quot;Theimpactofenterprisesystemsonprocessflexibilityandorganizationalflexibility,&quot;EnterpriseInformationSystems,2014,(8:5),pp.563-581.(SCI)
+
+Qu,W.G.,Pinsonneault,A.,andOh,W.&quot;InfluenceofIndustryCharacteristicsonInformationTechnologyOutsourcing,&quot;JournalofManagementInformationSystems,2011,(27:4),pp.99-127.(SSCI)
+
+Qu,W.G.,YangZ.Y.,andWang,Z.M.&quot;Multi-LevelFrameworkofOpenSourceSoftwareAdoption,&quot;JournalofBusinessResearch,2011,(64:9),pp.997-1003.(SSCI)
+
+Qu,W.G.andWang,Z.M.&quot;ImpactofExperienceonOpenInter-OrganizationalSystemsAdoption,&quot;IndustrialManagement&amp;DataSystems,2011,(111:3),pp.432-447.(SSCI)
+
+Qu,W.G.andPinsonneault,A.&quot;CountryEnvironmentsandtheAdoptionofITOutsourcing,&quot;JournalofGlobalInformationManagement,2011,(19:1),pp.30-50.(SSCI)
+
+Qu,W.G.,Oh,W.,andPinsonneault,A.&quot;TheStrategicValueofITInsourcing:AnIT-EnabledBusinessProcessPerspective,&quot;JournalofStrategicInformationSystems,2010,(19:2),pp.96-108.(SSCI)
+
+Chen,J.andQu,W.G.&quot;ANewTechnologicalLearninginChina,&quot;Technovation,2003,(23:11),pp.861-867.(SSCI)
+			
+				
+			工作研究领域
+			
+			信息技术商业价值、信息技术外包、跨组织信息系统、信息技术全球化问题
+			
+				
+			联系方式
+			
+						电子信箱：quwg@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：瞿文光
+		单位：管理学院
+		职称：副教授
+		我的主页共被访问了3993次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

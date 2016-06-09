@@ -1,0 +1,269 @@
+
+
+
+
+
+吴嘉平-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0003012";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	吴嘉平
+博学儒雅
+
+	永久链接:http://mypage.zju.edu.cn/jpwu&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+
+
+
+教育经历
+
+
+
+1997年5月至1999年5月，美国Cornell大学博士后
+
+
+1997年5月，美国Kansas州立大学土地资源/地理信息系统/遥感，博士，
+
+论文题目：Soils,Groundwater,andLand-UseRelationsforFinneyCounty,Kansas:AGISandRemoteSensingApproach&nbsp;&nbsp;&nbsp;
+1986年7月，浙江农业大学土壤与遥感专业，硕士
+论文题目：LandsatMSS数据的计算机处理及土地利用分类&nbsp;&nbsp;&nbsp;
+1983年7月，浙江农业大学土壤农化系，学士
+
+
+
+
+
+
+
+
+工作经历
+
+
+2013年至今：教授，浙江大学海洋学院
+
+2003年～2013年：教授，浙江大学环境与资源学院
+
+&nbsp;
+
+
+1999年～2003年：ResearchAssociateScientist,CornellUniversity,USPlant,Soil&amp;NutritionLab.
+1997年～1999年：PostdocResearchAssociate,CornellUniversity,USPlant,Soil&amp;NutritionLab.
+1993年～1997年：ResearchAssistant，KansasStateUniversity,GeographicInformationSystemandSpatialAnalysislab.,andRemoteSensinglab.&nbsp;&nbsp;&nbsp;
+1988年～1993年：讲师，浙江农业大学土壤农化系及农业遥感技术应用研究室&nbsp;&nbsp;&nbsp;
+1986年～1988年：助教，浙江农业大学土壤农化系及农业遥感技术应用研究室
+
+
+
+
+
+海洋学院海岛海岸带研究所人才招聘
+
+
+
+&nbsp;
+
+地址：浙江杭州余杭塘路866号，310058
+&nbsp;&nbsp;&nbsp;浙江大学海洋学院
+
+&nbsp;
+			
+				
+			工作研究领域
+			
+			环境资源遥感与信息；海岛海岸带环境生态；空间过程与系统模拟;
+			
+				
+			联系方式
+			
+			电话：（0571）88982813（办公室）13968029606			电子信箱：jw67@zju.edu.cn；jw67@cornell.edu			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：吴嘉平
+		单位：浙江大学海洋学院
+		职称：教授
+		我的主页共被访问了31400次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	人才招聘
+	发表论文
+	出版著作
+	博士生招生信息
+	学术交流（讲座报告）
+	专利成果
+	奖励荣誉
+	学术、行政兼职
+	近期主要课题
+	浙江省土壤
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

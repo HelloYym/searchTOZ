@@ -1,0 +1,205 @@
+
+
+
+
+
+黄铭枫的个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0009703";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	黄铭枫的个人主页
+
+
+	永久链接:http://mypage.zju.edu.cn/mf_huang&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			男,博士，浙江诸暨人。浙江大学土木系副教授，入选浙江大学求是青年学者。1999年和2002年先后获得华中科技大学结构工程专业本科和硕士学位。2002至2004年期间分别就职于阿特金斯（ATKINS深圳）顾问公司和深圳市建筑科学研究院，任职结构工程师。2008年6月获得香港科技大学博士学位。自2004年以来一直从事风工程、结构可靠度和抗风性能优化设计理论等研究。完成多个风洞试验项目和重大工程的设计优化咨询分析工作，已在国内外学术期刊和学术会议上发表相关论文40余篇，其中SCI收录文章18篇，并主持和参加有关风工程、结构优化和防灾减灾等领域的国家自然科学基金、香港研资局等部门项目课题多项。
+			
+				
+			工作研究领域
+			
+			结构风工程、结构动力可靠度、结构性能优化设计
+			
+				
+			联系方式
+			
+						电子信箱：mfhuang@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：黄铭枫
+		单位：结构工程研究所
+		职称：副教授
+		我的主页共被访问了3256次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	发表论文
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

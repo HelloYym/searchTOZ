@@ -1,0 +1,208 @@
+
+
+
+
+
+张新樟-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0093361";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	张新樟
+浙江大学国际政治研究所，浙江大学全球化文明研究中心
+
+	永久链接:http://mypage.zju.edu.cn/0093361&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			学科专长为古代宗教、马克思主义哲学、宗教与国际政治，对中国传统养生学有浓厚兴趣和长期的研修。主持国家社会科学基金项目&Prime;诺斯替典籍的翻译及其当代诠释&Prime;，主持省教育厅项目&Prime;认知疗法在思想政治教育中的应用&Prime;&nbsp;。主要著作和译著有：《&ldquo;诺斯&rdquo;与拯救&mdash;&mdash;古代诺斯替主义的神话、哲学、精神修炼》、《神圣的罪业》、《诺斯替宗教》、《施特劳斯与古典政治哲学》等。
+
+&nbsp;
+			
+				
+			工作研究领域
+			
+			诺斯替宗教，马克思主义哲学，国际政治中的宗教
+			
+				
+			联系方式
+			
+						电子信箱：rangfay@163.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：张新樟
+		单位：思想政治理论教学科研部
+		职称：副教授
+		我的主页共被访问了6159次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

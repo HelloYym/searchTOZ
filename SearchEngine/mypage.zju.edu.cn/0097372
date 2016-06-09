@@ -1,0 +1,203 @@
+
+
+
+
+
+边红武的主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0097372";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	边红武的主页
+有守、有为、有趣
+
+	永久链接:http://mypage.zju.edu.cn/0097372&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			边红武，1969年生，博士，浙江大学生命科学学院副教授，主讲本科生专业必修课《遗传学》，全校本科生通识课《基因突变与进化》等。主要从事植物分子遗传学与基因工程研究。2003年在英国曼切斯特理工大学进修学习，2011年在美国宾夕法尼亚州立大学生命科学学院访问学者一年。科研方向主要为植物miRNA及其发育相关基因表达调控与功能研究。我们的研究发现miR393家族在单子叶模式植物水稻中呈现明显的组织特异性表达，并负调控了2个auxin受体基因OsTIR1和OsAFB2。过量表达miR393导致auxin受体基因表达水平的下降，进而增强对auxin的抗性，出现剑叶角度增加、主根长度增长、侧根数目减少和种子开颖等典型的auxin反应异常的特征，严重干扰了植物正常的生长发育。miR393在单、双子叶植物中的表达差异暗示着miRNA调控在物种进化过程中的潜在作用。同时miR393与靶基因调控模块互作机制的保守性强调了miR393介导auxin信号传导在植物生长发育中的基础性重要作用（发表在NewPhytologist，2012，196(1):&nbsp;149&ndash;161）。已主持国家自然科学基金项目3项（OsmiR393/靶基因互作模块对水稻剑叶角度和种子发育的调控机理研究，项目编号31171615；植物低温驯化过程中microRNA介导的基因调控机制的探索，编号30400253；miR159介导的GAMYB转录因子表达对大岩桐花期调控的研究，编号30972016），浙江省自然科学基金一项（作物抗逆基因工程的新探索：将凋亡基因导入水稻），参与完成863科技项目、国家、省自然科学基金等多项。主持在研国家自然科学基金项目一项。在NewPhytologist,JournalofExperimentalBotany，PlantMolecularBiology，AnnalsofBotany,Planta，JournalofPlantPhysiology等SCI杂志上发表论文20余篇。
+			
+				
+			工作研究领域
+			
+			microRNA介导的基因表达与功能研究，以及DNA微小变异检测。
+			
+				
+			联系方式
+			
+			电话：88206535			电子信箱：hwbian@zju.edn.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：边红武
+		单位：生命科学学院生物技术系
+		职称：副教授
+		我的主页共被访问了5722次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,232 @@
+
+
+
+
+
+徐雷的个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0085063";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	徐雷的个人主页
+上善若水
+
+	永久链接:http://mypage.zju.edu.cn/xlei&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			1978－1982，东南大学本科，获建筑学工学学士学位
+1982－1985，东南大学硕士研究生，获建筑学工学硕士学位
+1997－2004，浙江大学博士研究生，获建筑学工学博士学位
+1993－1995，公派赴德国柏林工业大学建筑系进修
+1985年5月起至今在浙江大学任教,曾任建筑系系主任助理（1990年－1995年）、副系主任（1995年－1999年）、建筑工程学院副院长（1999年－2005年），2005年至今任浙江大学建筑设计及其理论研究所所长，教授，博士生导师
+正在主持承担的纵向课题有：
+国家&ldquo;十一五&rdquo;科技支撑项目1项，重点研究国家绿色建筑示范工程的实施；
+建设部科技项目1项，重点研究绿色建筑激励机制的研究；
+浙江省重大科技项目1项；
+浙江省科技项目2项，重点研究浙江省建筑节能与绿色建筑的应用研究；
+杭州市重大科研项目1项，重点研究杭州市近十年城市建设的理论与实践体系。
+同时承担若干城市设计和建筑设计的横向研究与设计项目。
+2000年以来在国内外学术刊物和国际学术会议发表论文近80篇，专著两部。
+担任的社会学术团体职务有：
+中国土木建筑学会会员浙江省建筑师学会会员
+中国城市科学研究会绿色建筑与节能委员会常务委员
+全国高等学校建筑学专业指导委员会委员
+国家自然科学基金委员会评议专家
+浙江省建筑节能协调工作小组成员
+浙江省建设厅科技委员会委员
+浙江省建筑节能与绿色建筑学术委员会副主任委员
+浙江省建筑师学会城市设计学术委员会副主任委员
+浙江大学&ldquo;绿色建筑研究工作小组&rdquo;组长
+浙江大学建筑设计研究院城市设计工作室主任
+杭州浙大境界城市建筑设计有限公司董事长
+&ldquo;LOWLANDTECHNOLOGY&rdquo;编委
+《华中建筑》、《浙江建筑》编委
+&nbsp;
+			
+				
+			工作研究领域
+			
+			1、建筑设计及其理论
+2、城市设计理论与实践
+3、绿色建筑理论与实践
+			
+				
+			联系方式
+			
+			电话：13905817233			电子信箱：zdjj@vip.163.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：徐雷
+		单位：建筑工程学院建筑学系
+		职称：教授
+		我的主页共被访问了5477次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

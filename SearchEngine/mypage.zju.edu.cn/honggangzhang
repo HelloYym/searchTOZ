@@ -1,0 +1,409 @@
+
+
+
+
+
+张宏纲(HonggangZHANG)-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0008016";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	张宏纲(HonggangZHANG)
+CROWN-CognitiveRadioOrientedWirelessNetworks
+
+	永久链接:http://mypage.zju.edu.cn/honggangzhang&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+&nbsp;
+=====================================================================
+HonggangZHANG,Ph.D.
+1.Professor
+&nbsp;&nbsp;&nbsp;DepartmentofInformationScience&amp;ElectronicEngineering(ISEE)
+&nbsp;&nbsp;&nbsp;ZhejiangUniversity
+&nbsp;&nbsp;&nbsp;ZhedaRoad38,Hangzhou310027,CHINA
+2.InternationalChairProfessorofExcellence(12/2012-12/2014)
+&nbsp;&nbsp;&nbsp;CominLabsExcellenceCenter(Laboratoired'Excellence)-http://www.cominlabs.ueb.eu/
+&nbsp;&nbsp;&nbsp;Universit&eacute;Europ&eacute;ennedeBretagne(UEB)-http://www.ueb.eu/
+&nbsp;&nbsp;&nbsp;Supelec-http://www.rennes.supelec.fr/ren/rd/scee/chaire/scee_chaire-ueb.en.html&nbsp;
+&nbsp;&nbsp;&nbsp;Rennes,FRANCE
+
+3.HonoraryVisitingProfessor
+
+
+
+&nbsp;&nbsp;&nbsp;TheUniversityofYork-http://www.york.ac.uk/
+&nbsp;&nbsp;&nbsp;York,UK
+
+
+
+Tel:+86-571-87952022
+Email:honggangzhang@zju.edu.cn
+MyLinkedinwebsite:http://www.linkedin.com/in/Honggangzhang
+MyGooglewebsite:http://sites.google.com/site/honggangzhanglabs/
+(注：2015年1月更新)
+=====================================================================
+&nbsp;
+
+
+
+
+
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;张宏纲，浙江大学信息与电子工程学系教授、博士生导师，法国大学联盟UEB（Universit&eacute;Europ&eacute;ennedeBretagne,http://www.ueb.eu/）暨法国高等电力学院（Supelec）杰出讲座教授（InternationalChairProfessorofExcellence），英国约克大学名誉客座教授（HonoraryVisitingProfessor，http://www.york.ac.uk/），约克大学-浙江大学认知网络与绿色通信联合实验室共同主任。
+&nbsp;&nbsp;&nbsp;&nbsp;1989年7月毕业于华中科技大学（华中理工大学）电子与信息工程系，获学士学位。1992年6月毕业于兰州理工大学自动控制系，获工学硕士学位。1999年3月毕业于日本国立鹿儿岛大学(KagoshimaUniversity)理工学研究科通信与信息工学专攻，获工学博士学位。自1999年9月至2002年3月，加入日本国立通信放送机构（TAO）新川崎研究中心，担任TAO研究员。自2002年4月至2002年11月，加入日本丰田汽车总公司东京IT研究中心，从事下一代软件无线电(SDR)在智能运输系统（ITS）中的应用研究与开发工作。自2002年12月至2004年8月，加入日本国立情报通信研究机构（NICT）横须贺无线通信研究中心UWB（超宽带）集结型特别研究室，从事IEEE802.15无线个域网（UWB-WPAN）的国际标准化作业、超宽带无线通信及网络、无线1394智能家庭网络及&Prime;1394-over-UWB&Prime;的研究。2004年9月至2008年2月，加入欧盟（意大利）CREATE-NET研究中心（http://www.create-net.org/），担任其无线通信及网络部门资深研究员(终身)，负责并领导该部门中下一代认知无线电与超宽带（UWB）技术有机融合的研究(CR-UWB:Ultra-WidebandCognitiveRadio)，同时具体负责该部门参与及实施欧盟第六(FP6)及第七框架(FP7)跨国研究项目中有关超宽带及认知无线通信技术的各项研究课题（FP7EUWB、FP6PULSERS2等）。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;长期从事无线通信与网络技术的研究，近年来在各种国际核心学术期刊及国际学术会议上合作发表论著及论文计170篇以上，提出IEEE802.15国际标准提案达16项，并拥有3项国际专利。参与并领导了IEEE802.15超宽带(UWB)无线通信及个人局域网络(WPAN)国际标准的制定，是其中DS-UWB标准提案的主要提案人及贡献者之一；该DS-UWB标准提案现已成为相关通信产业界内两种主流国际标准(即DS-UWB及MB-OFDM)之一。在动态频谱共享与超宽带无线通信研究中，提出软频谱自适应技术(SSA：Soft-SpectrumAdaptation)；该技术已被采用到IEEE802.15UWB-WPAN标准之中，随后在欧洲倡导并开拓了有关超宽带认知无线通信的研究。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;曾任IEEE通信学会认知网络技术委员会主席(IEEEComSocTCCNChair)，并曾担任IEEEGlobecom2008Symposium、IEEEGreenCom2010、IEEEISWCS2010、IEEEISCIT2011、IEEEICUWB2013、IEEEICC2013Symposium、IEEEOnlineGreenComm2014等一系列国际会议共同主席或TPC主席；是2006年IEEE国际认知无线网络及通信大会（CrownCom2006)TPC主席，也是2006年至2009年IEEE国际认知无线网络及通信大会（CrownCom2006-2009)SteeringCommittee委员。2009年8月，担任国家科技部国际科技合作计划评议专家（同行专家、国际科技合作管理专家）。2014年1月，获选为浙江省第四批“浙江省重点科技创新团队”，被命名为“软件定义网络技术与应用创新团队”，担任团队负责人。
+
+&nbsp;
+
+
+
+
+
+
+
+[主要学术活动及社会服务](2015年1月更新)
+
+
+
+2014年，担任中国通信学会与IEEE通信学会（IEEEComSoc）联合国际期刊《中国通信》(ChinaCommunications,http://www.china-cic.cn/)副主编(AssociateEditor-in-Chief).
+
+
+2010年12月-2012年12月，担任IEEE通信学会（IEEECommunicationsSociety）认知网络技术委员会主席(IEEETCCN:IEEETechnicalCommitteeonCognitiveNetworks，Chair)
+
+
+2007年5月-2010年11月，担任IEEE通信学会（IEEECommunicationsSociety）认知网络技术委员会(IEEETCCN:IEEETechnicalCommitteeonCognitiveNetworks)副主席(Vice-Chair)
+
+
+2014年4月，担任国际期刊IEEECommunicationsMagazine编委(SeriesEditors，GreenCommunicationsandComputingNetworksSeries)
+
+
+2014年4月，IEEEOnlineGreenComm2014(The2014IEEEOnlineConferenceonGreenCommunications,http://www.ieee-onlinegreencomm.org/)，担任TPC(TechnicalProgramCommittee)Co-Chairs.
+
+
+2012年7月，IEEEICC2013CognitiveRadioandNetworksSymposium(http://www.ieee-icc.org/2013/tpc.html)，担任共同主席(Co-Chairs)
+
+
+2012年9月，IEEEICUWB2013(The2013IEEEInternationalConferenceonUltra-Wideband,http://www.icuwb2013.org/)，担任TPC(TechnicalProgramCommittee)Co-Chairs.
+
+
+2010年4月，IEEE/ACM2010年第一届绿色计算与绿色通信国际会议IEEE/ACMGreenCom2010（The2010IEEE/ACMInternationalConferenceonGreenComputingandCommunications，http://cse.stfx.ca/~GreenCom2010/），担任大会主席（GeneralChairs）
+
+
+2011年1月，担任IEEE第二届及第三届绿色计算与绿色通信国际会议（IEEEGreenCom2011-2012）SteeringCommitteeMember（The2011-2012IEEEInternationalConferenceonGreenComputingandCommunications，http://greencom.univ-fcomte.fr/）
+
+
+2009年11月，IEEE-VTS第7届无线通信系统国际大会IEEEISWCS2010(TheSeventhIEEE&nbsp;InternationalSymposiumonWirelessCommunicationSystems,http://www.iswcs.org/iswcs2010/)，担任大会技术委员会主席(TPCChair)
+
+
+2007年11月，IEEEGlobecom2008SymposiumonSelectedAreasinCommunications(http://www.ieee-globecom.org/2008/sympchairs.html)，担任共同主席(Co-Chairs)
+
+
+2009年7月，担任IEEEDySPAN2010(TheIEEEInternationalSymposiumonNewFrontiersinDynamicSpectrumAccessNetworks,http://www.ieee-dyspan.org/2010/)大会PublicityChair
+
+
+2009年11月，担任国际期刊IEEECommunicationsMagazine(http://www.comsoc.org/ci1)&nbsp;&nbsp;&quot;绿色通信&quot;特辑首席编委(IEEECommunicationsMagazineSpecialIssueon&quot;GreenCommunications&quot;,LeadGuestEditor)
+
+
+2011年4月，担任国际期刊EURASIPJournal(http://www.hindawi.com/journals/wcn/si/gr/)&quot;绿色通信&quot;特辑编委(EURASIPJournalonWirelessCommunications&amp;Networking,SpecialIssueon&quot;GreenRadio&quot;,GuestEditors)
+
+
+2010年4月，担任国际期刊IETCommunicationsJournal&nbsp;&nbsp;(http://www.ietdl.org/journals/doc/IEEDRL-home/info/pdf/com_cogc_cfp.pdf)&nbsp;&quot;认知通信&quot;特辑编委(IETCommunicationsJournalSpecialIssueon&quot;CognitiveCommunications&quot;,GuestEditors)
+
+
+2009年8月，入选国家科技部国际科技合作计划评议专家（同行专家、国际科技合作管理专家）
+
+
+2008年10月，担任国际期刊IEEETransactionsonVehicularTechnology(http://transactions.vtsociety.org/)特辑编委(IEEETVTSpecialIssueon&quot;AchievementsandtheRoadAhead:TheFirstDecadeofCognitiveRadio&rdquo;,&nbsp;&nbsp;GuestEditors)
+
+
+2011年9月，担任国际期刊EuropeanTransactionsonTelecommunications(ETT)编委(http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1541-8251)
+
+
+2007年1月，担任国际期刊InternationalJournalofPeer-to-PeerNetworkingandApplications编委(Springer出版社,http://www.springer.com/engineering/signals/journal/12083?detailsPage=editorialBoard)
+
+
+2009年3月，担任欧盟匈牙利通信学会国际期刊InfocommunicationsJournal
+（http://www.hiradastechnika.hu/）InternationalAdvisoryCommitteeMember
+
+
+2009年3月，共同创立世界大学联盟（WUN:WorldwideUniversitiesNetwork,http://www.wun.ac.uk/）认知无线通信研究会（CogCom,http://www.wun-cogcom.org/）并担任SteeringGroupMember
+
+
+2008年10月，担任中国-苏格兰信号图像研究院创始成员(http://www.china-scotland-sipra.org/Pages/Home.aspx)
+
+
+2005年9月，创立CrownCom2006(http://www.crowncom.org/2006)并担任大会程序委员会主席(FoundingTPCCo-Chairs)及相关CrownCom2006-2009(http://www.crowncom2009.org)大会监督委员会成员(SteeringCommitteeMember)
+
+
+2005年9月，担任IEEEISCIT2006(The6thIEEEInternationalSymposiumonCommunicationsandInformationTechnologies)大会程序委员会主席(TPCCo-Chairs)以及IEEEISCIT2007-2010大会监督委员会成员(InternationalSteeringCommitteeMember)
+
+
+2006年10月至2007年7月，担任欧盟EW2007(The13thEuropeanWirelessConference)大会TutorialChair
+
+
+2006年10月至2007年9月，主持ChinaCom2007(TheSecondInternationalConferenceon&nbsp;CommunicationsandNetworkinginChina)担任大会副主席(GeneralViceCo-Chairs)
+
+
+2007年1月，担任国际期刊ACM/SpringerMobileNetworksandApplications(MONET)特邀编委(GuestEditor,MONETSpecialIssueonCognitiveRadio&nbsp;&nbsp;OrientedWirelessNetworksandCommunications)
+
+
+2006年1月至2007年1月，担任国际期刊ACM/SpringerWirelessNetworks(WINET)特邀编委(GuestEditor,WINETSpecialIssueforChinaCom2006)
+
+
+2004年3月至2005年3月，担任国际期刊IEICETransactionsonFundamentalsofElectronics,CommunicationsandComputerSciences特邀编委&nbsp;(GuestEditor,IEIECSpecialIssueonUltraWidebandSystems)
+
+
+2005年1月，担任中国通信学会《中国通信（英文版）》双月刊编委
+
+
+2003年3月，担任IEEE802国际标准委员会IEEE802.15UWB标准工作组有权投票人(VotingMember)
+
+
+2003年7月至2004年8月,担任日本电波产业会(ARIB)所属MMAC(MultimediaMobileAccess&nbsp;&nbsp;CommunicationsForum)Wireless1394工作组主任
+
+
+担任IEEEDySPAN2010,IEEEGlobecom2008,IEEEICC2008,IEEEICME2008,IEEEPIMRC2008,IEEECCNC2008,IEEEVTC2008,IEEEGlobecom2007,IEEEICC2007(CogNet),IEEECCNC2007,IEEEVTC2007,IEEEICCCN2007,UWB2007,IEEEGlobecom2006,IWCMC2006,AICCSA-06,IEEEICU2005,NEUWB22005等各类学术会议程序委员会成员(TPCMember)
+
+
+
+
+&nbsp;
+			
+				
+			工作研究领域
+			
+			移动通信，绿色无线通信（GreenCommunications&Networks，GreenInternet，GreenSpectrum），认知无线通信，认知网络(e.g.,CognitiveMesh)，超宽带(UWB)无线通信
+
+=====[ResearchAreas]=====
+
+(1)GreenCommunications,GreenNetworks&GreenSpectrum,(2)Cognitiveradioandcognitivenetworks,(3)UltraWideband(UWB)communicationandnetworks,(4)Cognitivewirelessmeshnetworks(CognitiveMesh-CogMesh),(5)Consumercommunicationsandsmarthomenetworking,(6)WPAN/WMAN/WRAN,(7)Wirelesssensornetworks,(8)Peer-to-Peer(P2P)networkingandapplications,(9)Advancedradiopropagationchannelmodellingandmeasurements,(10)Soft-SpectrumAdaptation(SSA),(11)DynamicSpectrumAccess(DSA),(12)VehicularCommunicationsandNetworking
+
+
+
+			
+				
+			联系方式
+			
+			电话：+86-(0)571-87952022			电子信箱：honggangzhang@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：张宏纲
+		单位：信息与电子工程学系
+		职称：教授
+		我的主页共被访问了143107次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+	出版著作
+	奖励荣誉
+	CogMesh:认知无线Mesh网络及其融合演进
+	IEEE通信学会绿色通信(GreenCommunications)特别专辑
+	绿色通信、绿色网络、绿色频谱、G-RAN与未来可持续通信网络技术
+	IEEE-VTS认知无线电及认知无线网络特辑
+	IEEE802.15超宽带无线网络(UWB-WPAN)国际标准提案
+	IEEE-VTS第7届无线通信系统国际会议ISWCS2010
+	世界大学联盟(WUN)暨认知无线通信研究联盟(CogCom)
+	IETCommunicationsJournal认知无线通信特辑
+	英国约克大学-浙江大学认知网络与绿色通信联合实验室
+	2010年“英中认知无线通信技术”学术研习班
+	EURASIPJournal绿色通信特别专辑(2011-2012)
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	MyGoogleWebsite
+世界大学联盟(WUN)CogCom
+中国-苏格兰研究院
+IEEEComSocTCCN
+IEEEComSoc
+CognitiveRadio(I)
+CognitiveRadio(II)
+欧盟2008年ICT大会
+CrownCom2009
+COMNETS2008
+IEEEGlobecom2008
+IEEEDySPAN2008
+IEEEDySPAN2010
+IEEEISWCS2010
+SpringerP2PJournal
+IEEESpecialIssue
+CrownCom2006
+CrownCom2007
+CrownCom2008
+USA海军SBIR项目
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

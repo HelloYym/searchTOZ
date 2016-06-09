@@ -1,0 +1,207 @@
+
+
+
+
+
+浙江大学杨小虎个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0094048";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	浙江大学杨小虎个人主页
+YangXiaohu'sHomepage,ZhejiangUniversity
+
+	永久链接:http://mypage.zju.edu.cn/xiaohu&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			浙江大学软件学院常务副院长，浙江大学计算机软件研究所副所长，研究员，博士。
+中国对美软件外包的开拓者和软件人才创新培养的先行者。2001年起与全球金融服务巨头&mdash;&mdash;美国道富银行（StateStreetCorporation）合作成立浙江大学道富技术中心并担任中心主任，开展全球化金融软件系统研发，从十几人发展到上千人，成为浙江大学规模最大的国际合作项目，开发的上百个大规模金融软件在美国、欧洲、亚洲等市场投入运行，取得了很大成功，在国内外引起广泛注意，中央电视台、人民日报、美国《BostonGlobe》、《CIOMagazine》、《GartnerIndustryResearch》等媒体均有报道，成为国际化产学研合作成功案例。基于这一产学研平台，在浙江大学软件学院设立&ldquo;金融信息技术系&rdquo;，培养了数百名软件技术和金融知识兼具的工程型、复合型、国际化人才。基于技术中心发展产生的道富信息科技（浙江）有限公司和网新恒天软件有限公司（美国道富和浙大网新的合资公司），成为面向美国市场金融软件外包的著名企业，在杭州形成数千人的全球化大规模软件研发团队。
+长期从事软件工程、云计算、大规模全球化金融软件系统等方面的研发工作，先后承担了国家支撑计划、国家863计划项目、省部级项目和国际合作重大项目等20余项，在国内外核心刊物、国际会议发表学术论文近50篇。曾获得国家科技进步三等奖一项、国家级教学成果二等奖一项。
+&nbsp;
+			
+				
+			工作研究领域
+			
+			金融信息技术，云计算，软件工程，大数据
+			
+				
+			联系方式
+			
+			电话：0571-87952694			电子信箱：yangxh@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：杨小虎
+		单位：软件学院
+		职称：研究员
+		我的主页共被访问了6094次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	我的实验室
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

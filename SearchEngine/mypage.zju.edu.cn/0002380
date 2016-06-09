@@ -1,0 +1,212 @@
+
+
+
+
+
+主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0002380";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	主页
+
+
+	永久链接:http://mypage.zju.edu.cn/0002380&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			蔡亮，1976年8月生，浙江大学计算机学院副教授。软件工程系主任。1997年在浙江大学计算机系获学士学位，2002年在浙江大学计算机系获博士学位。长期从事数据库安全、网络安全和金融信息处理系统的研究。在国防军工预研基金的支持下，对信息战环境下的数据库安全问题进行了深入研究，在信息战环境中的数据库威胁模型、对抗措施的参考模型、可行的对抗技术、攻防的原型系统方面进行了大量的研究和试验工作，在国家级核心期刊和国际会议上发表了十多篇论文。此外，在国家创新基金和国家级重点火炬计划的支持下，对金融领域的信息安全关键技术进行了深入的研究，研究成果通过了国家密码管理委员会、中国人民银行的技术鉴定。近年来，参加了国防军工预研基金项目&Prime;工程信息安全系统研究&Prime;、国家创新基金项目&Prime;支付密码系统&Prime;、863项目&Prime;金融票据自动处理系统&Prime;、863&nbsp;CIMS主题攻关项目&Prime;西湖电视机厂CIMS工程&Prime;、航天&Prime;十五&Prime;核心计划项目&Prime;企业级协同产品研制管理软件&Prime;等。在美国道富银行的支持下，参与了大量国际金融信息处理系统的研究与设计。获得浙江省科技进步一等奖一次，三等奖一次。研究成果在国防、金融行业得到了广泛应用，取得了显著的社会效益和经济效益。
+&nbsp;
+			
+				
+			工作研究领域
+			
+			云计算平台及其安全技术研究
+金融业务处理的核心技术研究
+数据库安全与网络安全技术研究
+
+			
+				
+			联系方式
+			
+						电子信箱：leoncai@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：蔡亮
+		单位：计算机科学与技术学院计算机科学与工程学系
+		职称：副教授
+		我的主页共被访问了4580次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	专利成果
+	奖励荣誉
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

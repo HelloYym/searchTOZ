@@ -1,0 +1,219 @@
+
+
+
+
+
+清明，强力，平和-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0008273";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	清明，强力，平和
+老和山下一野少
+
+	永久链接:http://mypage.zju.edu.cn/jshao&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+<spanstyle="mso-bidi-font-size:10.5pt;line-height:120%;font-family:宋体;mso-ascii-font-family:
+&quot;TimesNewRoman&quot;;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;
+mso-hansi-font-family:&quot;TimesNewRoman&quot;;mso-bidi-font-family:&quot;TimesNewRoman&quot;">邵健，博士，副教授，硕士生导师，主要研究领域为海量计算、非结构化数据分析与智能服务。2003年6月于南京大学获理学学士学位，2008年6月于中科院声学所获博士学位，2012年7月加盟浙江大学，曾获&ldquo;微软学者&rdquo;与&ldquo;中科院院长奖&rdquo;。近年来参加了NSFC、973、863、核高基等多个项目，在ACMMultimedia、SIGIR、CVPR等国际顶级会议及SCI期刊上发表论文近20篇，担任T-CSVT、Neurocomputing等国际期刊的审稿人；在信息系统研制方面取得一批重要成果，包括非结构化数据管理系统D-Ocean、流式计算系统D-Stream、面向公共安全的跨媒体计算验证平台D-Insight，获发明专利10余项，软件登记7项。
+<pclass="MsoNormal"style="margin-top:6.0pt;margin-right:0cm;margin-bottom:6.0pt;
+margin-left:0cm;mso-para-margin-top:.5gd;mso-para-margin-right:0cm;mso-para-margin-bottom:
+.5gd;mso-para-margin-left:0cm;text-indent:21.1pt;mso-char-indent-count:2.0;
+line-height:120%">
+&nbsp;
+			
+				
+			工作研究领域
+			
+			海量计算、非结构化数据分析与智能服务
+			
+				
+			联系方式
+			
+						电子信箱：jshao@cs.zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：邵健
+		单位：计算机科学与技术学院
+		职称：副教授
+		我的主页共被访问了16854次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	专利成果
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	DCD
+UDMS
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

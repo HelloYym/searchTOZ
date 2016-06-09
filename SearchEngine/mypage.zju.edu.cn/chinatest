@@ -1,0 +1,210 @@
+
+
+
+
+
+杨世锡-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0097063";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	杨世锡
+机械工程测试
+
+	永久链接:http://mypage.zju.edu.cn/chinatest&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			杨世锡,浙江大学博士、教授。主要从事大型旋转机械状态监测与故障诊断、智能检测与信号分析技术等方向的教学与科研工作。作为项目负责人主持2项国家基金项目和863等其它10多项相关项目的研究工作。兼任中国振动工程学会理事、动态测试委员会常务委员、秘书长等学术兼职。在《机械工程学报》、《振动工程学报》等期刊上发表研究论文73篇，其中SCI、EI收录论文17篇，一级刊物论文14篇，获得国家发明专利2项，实用新型专利4项，软件著作权登记8项，主编参编教材及参考书3本。作为第一完成人完成的&ldquo;大型旋转机械状态监测与故障诊断方法和系统&rdquo;成果2005年通过浙江省科技厅主持的项目鉴定，鉴定意见为：&ldquo;研究难度大，技术复杂，创新明显，总体技术达到国际先进水平&rdquo;，已经推广应用，经济效益和社会效益明显，获浙江省2005年科技进步二等奖。
+			
+				
+			工作研究领域
+			
+			大型旋转机械状态监测与故障诊断
+智能检测技术
+			
+				
+			联系方式
+			
+			电话：87951924			电子信箱：yangsx@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：杨世锡
+		单位：机械工程学系
+		职称：教授
+		我的主页共被访问了17720次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	专利成果
+	奖励荣誉
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

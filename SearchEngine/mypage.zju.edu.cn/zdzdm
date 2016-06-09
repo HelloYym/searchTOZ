@@ -1,0 +1,238 @@
+
+
+
+
+
+张德明-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0088202";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	张德明
+坚守一些东西，放弃一些东西，培育一些东西
+
+	永久链接:http://mypage.zju.edu.cn/zdzdm&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;
+主要研究领域
+比较文学与世界文学
+文化批评与文化研究
+世界文学史
+翻译
+
+&nbsp;
+&nbsp;
+
+代表著作（论文）
+
+《人类学诗学》，浙江文艺出版社，1998年。
+《批评的视野》，上海社会科学院出版社，2004年。
+《流散族群的身份建构》，浙江大学出版社，2007年。
+《世界文学史》，浙江大学出版社，2006，2007，2008年。
+《西方文学与现代性的展开》，中国社会科学出版社，2009年。
+&nbsp;在国家核心期刊上发表论文40多篇，篇名从略&hellip;&hellip;
+&nbsp;
+&nbsp;翻译：《勃朗特姐妺全集》（诗歌卷），河北教育出版社，1998年。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《天堂与地狱的婚姻&mdash;布莱克诗选》，中国文联出版公司，1994年。
+&nbsp;创作：个人诗集《打水漂》，华艺出版社，2003年。
+
+承担课题
+合作主持
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;国家八五重点出版项目：世界诗库（1991-1995）（任常务副主编）
+独立主持
+&nbsp;&nbsp;&nbsp;&nbsp;国家九五社科基金项目：人类学诗学研究（1997-1999）
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;国家十五社科基金项目：加勒比英语文学及文化特性研究（2003-2006）
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;国家十一五社科基金项目：近现代英语旅行文学研究（2008-2011）
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江省教育厅重点教材出版资助项目：世界文学史(2003-2006)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江省文化厅非物质文化保护项目：《绍兴社戏研究》（2007-2008）
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江省文化厅与绍兴市文广局委托项目：《绍兴越文化保护区研究》（2007-2008）
+			
+				
+			工作研究领域
+			
+			比较文学与世界文学、文化研究、西方文论、非物质文化遗产
+			
+				
+			联系方式
+			
+			电话：88273320			电子信箱：zdzdm@163.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：张德明
+		单位：人文学院中国语言文学系
+		职称：教授
+		我的主页共被访问了19716次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		出版著作
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

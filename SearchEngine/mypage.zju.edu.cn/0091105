@@ -1,0 +1,221 @@
+
+
+
+
+
+何潮洪-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0091105";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	何潮洪
+
+
+	永久链接:http://mypage.zju.edu.cn/0091105&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+
+&nbsp;
+男，1965年出生，分别于1985年、1991年获浙江大学化工系高分子化工专业学士学位、化学工程专业博士学位。1991年9月分配到浙江大学化工系化工所从事&ldquo;化工原理&rdquo;、&ldquo;传递过程和单元操作&rdquo;课程的教学及相关科研工作，1993年12月晋升为副教授，1998年7月晋升为教授。
+在科研上，主要从事传质与分离、传热过程强化、特种反应器设计及相关开发研究。作为项目负责人承担过国防973课题1项、国家自然科学基金项目6项、国家科技攻关计划项目1项、中英政府间国际合作项目1项、浙江省科技计划重点项目4项及企业合作项目多项。开发成功适用于强放热反应的特种反应器、脉冲萃取塔成套工业设备及油田用大型油/水/气三相分离器；获浙江省科学技术一等奖1项、二等奖2项；获工信部国防技术发明一等奖1项；获授权发明专利40多项；发表SCI、EI收录论文90多篇；出版书籍6本。
+&nbsp;
+			
+				
+			工作研究领域
+			
+			1.反应器中速度场、温度场的计算机模拟及反应器的优化设计；
+2.微管中的传递及反应过程；
+3.离子液体参与的萃取过程；
+4.天然产物中有效成分的提取分离及化学修饰；
+5.传质与分离的相关基础研究（含基础物性数据的测定、关联及预测）。
+
+本课题组与澳大利亚昆士兰大学相关课题组有良好的科研合作关系，拟在2015-2019年间与昆士兰大学相关课题组联合培养博士生3-4位（以直博生为主，研究方向为微管中的传递及反应过程，其中在昆士兰大学进行0.5-2年的科研工作，然后回国继续攻读，并申请浙江大学博士学位）。
+
+			
+				
+			联系方式
+			
+			电话：0571-87952709			电子信箱：chhezju@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：何潮洪
+		单位：化学工程与生物工程学院
+		职称：教授
+		我的主页共被访问了30906次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	研究成果
+	专利成果
+	奖励荣誉
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

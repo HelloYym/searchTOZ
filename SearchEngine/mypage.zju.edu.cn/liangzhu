@@ -1,0 +1,213 @@
+
+
+
+
+
+朱亮-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0008276";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	朱亮
+浙江大学
+
+	永久链接:http://mypage.zju.edu.cn/liangzhu&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;浙江大学环境与资源学院副教授，浙江大学&ldquo;求是青年学者&rdquo;，2012.09-2012.12美国密苏里大学哥伦比亚分校访问学者，2013.09-2015.08美国莱斯大学访问学者。
+&nbsp;&nbsp;&nbsp;主要从事废水生物处理与资源化、饮用水安全保障和环境微生物学研究，主持国家基金面上项目&ldquo;强化城镇污水新型有机物去除与颗粒结构稳定的好氧颗粒污泥工艺基础研究&rdquo;、国家科技支撑课题&ldquo;区域典型行业循环经济与节能减排适用技术集成示范与应用&rdquo;、国家科技支撑课题&ldquo;水源污染地区村镇安全供水技术集成示范&rdquo;、国家科技重大专项子课题&ldquo;滨湖城镇污水生物生态处理与农业回用技术&rdquo;等国家与省部级课题10余项，在环境科学与工程相关领域的国际主流SCI刊物上发表论文30余篇，申请/获得发明专利20余项。
+&nbsp;&nbsp;&nbsp;主讲《环境工程CAD》，参讲国家精品课程《环境微生物学》、《环境生物学》、《环境与人类文明》等；担任九三学社浙江大学委员会参政议政专委会副主任，国际水协IWA、美国化学学会ACS、美国微生物学会ASM、环境工程与科学学会AEESP等会员，WaterRes、BioresourTechnol、JHazardMater、ApplMicrobiolBiotech等期刊审稿人。
+			
+				
+			工作研究领域
+			
+			废水生物处理与资源化;
+饮用水安全保障;
+环境微生物学
+			
+				
+			联系方式
+			
+			电话：057188982343			电子信箱：felix79cn@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：朱亮
+		单位：环境与资源学院
+		职称：副教授
+		我的主页共被访问了594次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		发表论文
+	专利成果
+	教学工作
+	工作研究项目
+	学术交流（讲座报告）
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

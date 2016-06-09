@@ -1,0 +1,1 @@
+{'name': u':', 'title': u':', 'photo': u'http://mypage.zju.edu.cn/attachments/59/0607042954-832093183.jpg', 'pos': './mypage.zju.edu.cn/en|xinluphy', 'intro': [u'\n\t\t                \t\t\t\n\t'], 'department': u':', 'homepage': 'http://mypage.zju.edu.cn/en/xinluphy'}

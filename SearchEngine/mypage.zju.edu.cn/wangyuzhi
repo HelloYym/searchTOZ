@@ -1,0 +1,199 @@
+
+
+
+
+
+王玉芝-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0077054";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	王玉芝
+王玉芝的主页
+
+	永久链接:http://mypage.zju.edu.cn/wangyuzhi&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;王玉芝，女，汉族，江苏南京人，1949年10月生，1968年12月参加工作，1974年10月加入中国共产党。原浙江大学力学系流体力学专业毕业，研究生学历，硕士，研究员。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1968年12月至1974年10月在江苏省江浦县插队，任团支部书记。1974年10月至1977年7月在原浙江大学力学系流体力学专业学习，任校团委副书记。1977年8月至1984年3月在原浙江大学力学系任教，历任力学系分团委书记、力学系党总支委员、原浙江大学团委副书记、原浙江大学第六届党委委员、第七届共青团浙江省委委员。1984年4月至1989年1月任力学系党总支副书记，其中1987年9月至1989年1月在力学系流体力学专业学习，获硕士学位。1989年2月至1992年8月任原浙江大学力学系总支副书记（主持工作）、书记、原浙江大学第十届党委委员。1992年9月至1993年12月赴日本福井大学研究进修（保留正处级）。1994年3月至1998年9月任原浙江大学党委组织部部长、原浙江大学第十一届党委委员。1998年12月任党委组织部部长，在教育经济与管理研究所任教，1999年12月晋升研究员。2005年2月任浙江大学党委副书记。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江省第十次、第十一次党代会代表
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;业务专长：流体力学、高等教育学
+			
+					
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：王玉芝
+		单位：党委办公室
+		职称：研究员（高教）
+		我的主页共被访问了6834次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

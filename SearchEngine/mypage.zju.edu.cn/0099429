@@ -1,0 +1,245 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0099429";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0099429&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			学习经历
+1996年09月―1999年07月在吉林大学化学系攻读博士，1999年9月获理学博士学位
+1993年09月―1996年07月&nbsp;在吉林大学化学系攻读硕士，1996年7月获理学硕士学位
+1982年09月―1986年07月&nbsp;在吉林大学化学系读书，1986年6月获理学学士学位
+
+研究简历
+2006年12月－现在&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江大学材料与化工学院高分子科学与工程学系，教授
+2001年08月－2006年12月&nbsp;浙江大学材料与化工学院高分子科学与工程学系，副教授
+2003年08月－2004年08月&nbsp;在比利时高校联合微电子研究中心做访问研究
+2002年02月－2002年08月&nbsp;在香港城市大学物理与材料系做高级研究员
+1999年09月－2001年07月&nbsp;在浙江大学材料与化工学院高分子科学与工程学系，博士后
+1986年07月－1993年09月&nbsp;在中石化辽阳石油化纤公司工作
+
+研究兴趣
+1.&nbsp;基于三键单体的共轭聚合物的设计合成
+2.&nbsp;有机&pi;-共轭基元与无机半导体纳米结构的复合
+3.&nbsp;荧光探针分子在化学检测与生物技术领域的应用
+4.&nbsp;有机半导体的载流子光生、光导与传输理论
+
+在研项目
+1.项目名称:新型炔类高分子的研究
+&nbsp;&nbsp;批准经费:98.00万元(2007年01月至2010年12月)
+项目类型:国家自然科学基金重点项目(批准号:20634020)
+2.项目名称:有机电致发光材料、载流子注入、传输材料
+&nbsp;&nbsp;批准经费:60.00万元(2003年01月至2007年12月)
+&nbsp;&nbsp;项目类型:国家科技部973项目(批准号:2002CB613401)
+3.项目名称:生物分子诱导有机-无机纳米有序复合光伏材料
+&nbsp;&nbsp;批准经费:28.00万元(2006年01月至2008年12月)
+&nbsp;&nbsp;项目类型:国家自然科学基金面上项目(批准号:50573065)
+4.项目名称:基于官能化聚乙炔与无机半导体纳米结构的组装体的光电功能材料
+&nbsp;&nbsp;批准经费:25.00万元(2006年07月至2009年6月)
+&nbsp;&nbsp;项目类型:国家自然科学基金&quot;两个基地&quot;项目(批准号:50740460164)
+
+近三年来主要开展共轭大分子的结构与功能的设计与合成方面的研究，在可组装的官能化聚炔、聚炔与光电功能无机纳米结构的杂化、聚集诱导发光（AIE）原理在超分子体系和生物检测中的应用等方面取得了创新性的研究成果。例如：利用两性离子[Rh]催化体系实现了带巯基、氨基、吡啶基、羧基的炔类单体的聚合，开拓出用共轭聚炔大分子通过自组装构筑超分子体系的新路，并成功地用这些Buildingblock制备了一系列聚炔/无机纳米结构（碳纳米管、ZnO、CdS、Ag）杂化材料。建立了用AIE分子便捷检测阴、阳离子表面活性剂、两亲性嵌段大分子的临界胶束浓度的新方法，并利用AIE原理实现了DNA、BSA（牛血清蛋白）等生物分子的检测。五年来，负责（包括已完成）国家自然科学基金面上项目2项，负责浙江省自然科学基金重点项目1项，作为浙江大学方负责人参与国家自然科学基金重点项目1项；参与973课题1项；已发表论文50余篇，其中于聚炔类共轭高分子结构与性能、纳米光电功能材料领域在Macromolecules、ChemicalCommunications、AdvancedMaterials等影响因子大于3的期刊上发表论文12篇。
+&nbsp;
+
+			
+				
+			工作研究领域
+			
+			(1)基于三键单体的共轭聚合物的设计合成
+(2)有机π-共轭基元与无机半导体纳米结构的复合
+(3)荧光探针分子在化学检测与生物技术领域的应用
+(4)有机半导体的载流子光生、光导与传输理论
+			
+				
+			联系方式
+			
+			电话：87953797			电子信箱：sunjz@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：孙景志
+		单位：高分子科学与工程学系
+		职称：教授
+		我的主页共被访问了7585次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	研究成果
+	专利成果
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

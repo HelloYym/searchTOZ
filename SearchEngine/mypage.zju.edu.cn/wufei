@@ -1,0 +1,236 @@
+
+
+
+
+
+wufei-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0002353";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	wufei
+Wufei'sWebpage
+
+	永久链接:http://mypage.zju.edu.cn/wufei&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;
+
+博士，教授，博士生导师。于1996年、1999年和2002年分别于兰州大学、澳门大学和浙江大学取得学士、硕士和博士学位。主要研究领域为多媒体分析与检索、稀疏表达和统计学习理论。浙江大学人工智能研究所副所长、视觉感知教育部-微软重点实验室（浙江大学）副主任、浙江大学数字媒体计算与设计实验室（DigitalMediaComputing　andDesignLab，www.dcd.zju.edu.cn）骨干教师。教育部新世纪优秀人才支持计划入选者（2011年度）、浙江省151人才工程第二层次培养人员（2012年）、浙江省151人才工程第三层次培养人员（2007年度）。
+&nbsp;
+
+
+在浙江大学新星计划资助下，于2009年10月至2010年8月在美国科学院院士、加州大学伯克利分校统计系郁彬（BinYu）教授课题组做访问学者。
+
+
+
+2002年博士毕业留校工作，2004年晋升为副教授，2010年晋升为教授，2011年6月获得博士生导师资格。更多信息请访问浙江大学数字媒体计算与设计实验室(http://www.dcd.zju.edu.cn/)。
+
+学术兼职：
+
+中国图象图形学会计算机动画与数字娱乐专委会副主任委员兼学术秘书
+MultimediaSystem:AssociateEditor（2014年3月起）
+MemberoftheEditorialBoard,FrontiersofInformationTechnology&amp;ElectronicEngineering(formertitle:JZUS-C)(sinceFeb,2015)
+ACMMultimedia程序委员会委员(2012,&nbsp;2013and2014)
+AAAI程序委员会委员(2012,&nbsp;2013and&nbsp;2014)
+Co-chairsofICME2014specialsessionofcross-mediacomputing
+OrganizingCo-chairsof19thinternationalconferenceonmultimediamodeling(MMM2013)
+2011年统计机器学习和跨媒体搜索（StatisticalMachineLearningandCross-mediaRetrieval）暨第三届许宝禄国际学术会议组委会成员
+2006年度环太平洋多媒体国际会议(Pacific-RimConferenceonMultimedia2006)组织委员会副主席
+
+<pclass="MsoNormal"style="text-indent:21.0pt;line-height:125%;layout-grid-mode:
+char"><spanstyle="font-family:
+宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;mso-hansi-font-family:&quot;TimesNewRoman&quot;"/>
+			
+				
+			工作研究领域
+			
+			多媒体分析与检索，稀疏表达，统计学习理论
+			
+				
+			联系方式
+			
+						电子信箱：wufei@cs.zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：吴飞
+		单位：浙江大学计算机学院人工智能研究所
+		职称：教授
+		我的主页共被访问了42199次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	奖励荣誉
+	实验室介绍
+	FromBigDatatoKnowledgeWorkshop
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

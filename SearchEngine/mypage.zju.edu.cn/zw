@@ -1,0 +1,213 @@
+
+
+
+
+
+钟崴的主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0004507";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	钟崴的主页
+热能动力系统模拟与综合
+
+	永久链接:http://mypage.zju.edu.cn/zw&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;
+钟崴，男，1975年6月生，浙江杭州人，中共党员，浙江大学热工与动力系统研究所副教授，硕士生导师，研究所党支部书记，副所长。2002年毕业于浙江大学，获工学博士学位。2002-2004年在深圳雅都图形软件股份有限公司从事基于地理信息系统的输配电网管理系统研究。2008年于澳大利亚昆士兰大学机械工程系做短期访问学者。
+
+长期专注于锅炉性能计算技术研究，主持研发了通用型、图形化、模块化的锅炉热力计算、水动力计算、烟风阻力计算、强度计算等软件系统。该系统是我国哈尔滨锅炉厂有限责任公司、无锡华光锅炉股份有限公司、杭州锅炉集团有限公司、济南锅炉集团有限公司、江西江联能源环保股份有限公司、四川川润动力股份有限公司、东方日立锅炉有限公司等近50家大中型A级锅炉制造企业的主要产品设计工具。此外，还与中国国电集团有限公司合作研发了面向大型火力发电厂的超（超）临界锅炉机组性能分析系统。
+
+作为项目负责人承担重大横向项目4项，承担浙江省科技攻关重点科研项目1项，参与&ldquo;十一五&rdquo;国家科技支撑计划项目1项。先后获浙江省科学技术进步一等奖1项，二等奖1项，中国机械工业科学技术奖二等奖1项，新疆维吾尔族自治区科学技术进步三等奖1项，发表EI收录论文10余篇。
+			
+				
+			工作研究领域
+			
+			计算机辅助过程工程（CAPE），热力系统模拟与综合，能量系统分析与优化，智能化计算机辅助设计技术，流场数值模拟与分析。
+			
+				
+			联系方式
+			
+			电话：13989882228			电子信箱：zhongw@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：钟崴
+		单位：能源工程学系
+		职称：副教授
+		我的主页共被访问了12831次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		发表论文
+	研究生招生方向
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	Engisim工程计算与模拟研发组
+我的博客
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

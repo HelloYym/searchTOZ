@@ -1,0 +1,218 @@
+
+
+
+
+
+甘德强-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0002021";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	甘德强
+
+
+	永久链接:http://mypage.zju.edu.cn/0002021&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			甘德强目前主要从事电力系统小干扰稳定及其相关问题研究。他1994年获西安交通大学电气工程博士学位，94年2月至98年4月在日本茨城大学，美国中佛罗里达大学，美国康乃尔大学从事研究工作。98年4月至02年4月在美国新英格兰独立调度公司（东北六州电网调度中心）任分析员，高级分析员。02年4月起奉职浙江大学，2009～2013年任电气学院副院长。甘德强是EuropeanTransactionsonElectricalPower编辑(Editor，2007～2014)，中国电机工程学会常务理事（2009～2014）。
+<spanstyle="mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:Arial;
+mso-hansi-font-family:Arial;mso-bidi-font-family:Arial">甘德强长期坚持电力系统稳定研究，研究课题涉及暂态稳定、电压稳定、小干扰稳定、以及大停电，参加了浙江电网，国家电网，华东电网，华中电网，华北电网，云南电网等许多电网公司资助的研究项目。此外，他的研究还得到了Alstom<spanstyle="mso-bidi-font-size:10.5pt;font-family:宋体;mso-ascii-font-family:Arial;
+mso-hansi-font-family:Arial;mso-bidi-font-family:Arial">，FujiElectricalSystems<spanstyle="mso-bidi-font-size:10.5pt;font-family:
+宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+Arial">等知名国际公司的资助。
+<spanstyle="mso-bidi-font-size:10.5pt;font-family:
+宋体;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:
+Arial"/>甘德强亲历了美国新英格兰电力市场的创建，编写了市场监管程序，应用于市场结算。他还参与了浙江、华东、华中、西北电力市场研究，研究课题覆盖市场设计、博弈分析、风险抑制，并著有英文电力市场专著ElectricityMarketsandPowerSystemEconomics,Taylor&amp;FrancisLLC,BocaRaton,Florida,U.S.A.,January2014。
+
+&nbsp;
+
+&nbsp;办公地点：（浙大玉泉校区）电机工程楼303房间
+			
+				
+			工作研究领域
+			
+			电力系统稳定分析与控制
+			
+				
+			联系方式
+			
+						电子信箱：deqiang.gan@ieee.org;dgan@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：甘德强
+		单位：电气工程学院电机工程学系
+		职称：教授
+		我的主页共被访问了31654次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		发表论文
+	工作研究项目
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

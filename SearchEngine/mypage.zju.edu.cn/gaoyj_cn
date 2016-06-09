@@ -1,0 +1,208 @@
+
+
+
+
+
+欢迎来到高云君的个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0010006";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	欢迎来到高云君的个人主页
+
+
+	永久链接:http://mypage.zju.edu.cn/gaoyj_cn&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;
+
+高云君，海归博士后，副教授，博士生导师。2008年3月获浙江大学计算机科学与技术专业工学博士学位。2005年3月至7月在香港城市大学电脑科学系做访问研究，2008年3月至2010年3月在新加坡管理大学信息系统学院做博士后研究，2012年8月在加拿大西蒙菲沙（SimonFraser）大学计算机科学系做访问研究，2010年3月以&ldquo;海外引进&rdquo;人才到浙江大学计算机科学与技术学院任教。研究方向主要包括：空间/时空数据库、移动/普适计算、海量数据挖掘、基于位置的服务等，尤其是各种静态/移动的空间/时空对象的查询处理与优化技术等。已在国内外Top/重要学术期刊TODS、VLDBJournal、TKDE、DKE、GeoInformatica、InformationSciences、KAIS等和国际会议SIGMOD、VLDB、ICDE、SIGIR、EDBT、SIGSPATIALGIS等发表论文50余篇。据不完全统计，本人已以第一/通讯作者发表SCI国际期刊论文的影响因子累计总量近40，GoogleScholar他引300余次，SCI他引60余次。部分研究成果得到了国内外学术界的认可，已被学术专著、计算机科学专业博/硕士学位论文、数据库原型系统和国内外知名高校的研究生课程引用/讲授。目前负责国家自然科学基金项目2项、浙江省自然科学基金项目1项，浙江大学优秀青年教师资助计划（紫金计划）重点项目1项，中央高校基本科研业务费专项资金资助项目3项，留学人员科技活动项目择优资助（启动类）项目1项。现为中国计算机学会（CCF）数据库专委会委员，CCF高级会员，ACM、ACMSIGMOD、IEEE、IEEETCPP会员。担任IJSSOE期刊副主编，JCIT期刊编委，WAIM2013Workshop共同主席（PCCo-Chairs），MDSP2013、TMSN2013、MDSP2012专题会议共同主席，WAIM2010国际会议论文集出版主席（PublicationChair），ICDE、DASFAA、WAIM、NDBC等多个国际会议分会场主席（SessionChair），VLDBJournal、TKDE、InformationSciences、InformationSystems、GeoInformatica、DAPD、JCST等10余个国内外Top/重要学术期刊评审专家（Reviewer），ACMSIGSPATIALGIS、DASFAA、DEXA、MDM、APWeb、WAIM、WISE、ICWE、COMPSAC、ICEBE、CNCC、NDBC等40余个国内外重要学术会议程序委员会委员（PCMember），VLDB、ICDE、EDBT、ICDM、ER等多个国际会议外围评审员（ExternalReviewer）。曾获DASFAA2012服务奖、2011年浙江省科学技术一等奖、WAIM2010服务奖、ACMSIGMOD/PODS2007国际会议参会A级奖和JICC2004最佳论文奖，并入围2009年度CCF优秀博士学位论文。
+			
+				
+			工作研究领域
+			
+			空间/时空数据库、移动/普适计算、海量数据挖掘、基于位置的服务等
+			
+				
+			联系方式
+			
+			电话：+86-139-5716-7510			电子信箱：gaoyj@zju.edu.cn/raygaoyj@gmail.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：高云君
+		单位：计算机软件研究所
+		职称：副教授
+		我的主页共被访问了7929次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	EnglishVersion
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

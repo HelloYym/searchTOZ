@@ -1,0 +1,228 @@
+
+
+
+
+
+周展-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0014170";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	周展
+
+
+	永久链接:http://mypage.zju.edu.cn/zhanzhou&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+
+教育经历&nbsp;
+
+2003.09－2007.07&nbsp;&nbsp;浙江大学&nbsp;化学工程与生物工程学院生物工程&nbsp;&nbsp;工学学士
+2007.09－2012.07&nbsp;&nbsp;浙江大学&nbsp;生命科学学院生物化学与分子生物学&nbsp;&nbsp;理学博士
+2010.11－2011.12&nbsp;&nbsp;德州大学圣安东尼奥分校&nbsp;生物系联合培养博士生(国家公派)
+
+工作经历
+
+2012.07－2014.11&nbsp;&nbsp;复旦大学&nbsp;生命科学学院&nbsp;遗传工程国家重点实验室&nbsp;现代人类学教育部重点实验室&nbsp;博士后
+2014.11-&nbsp;至今&nbsp;&nbsp;&nbsp;浙江大学&nbsp;药学院&nbsp;药物代谢和药物分析研究所&nbsp;讲师
+
+
+			
+				
+			工作研究领域
+			
+			比较与进化基因组学；
+药物基因组学；
+基于肿瘤体细胞突变的分析，研究癌症基因组进化及预测癌症特异性治疗靶点;
+利用比较与进化基因组学研究基因转录调控网络的进化及与疾病的相关性.
+			
+				
+			联系方式
+			
+			电话：0571-88208410			电子信箱：zhouzhan@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：周展
+		单位：药学院
+		职称：讲师
+		我的主页共被访问了370次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	学术交流（讲座报告）
+	奖励荣誉
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	浙江大学
+药学院
+NCBI
+Ensembl
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

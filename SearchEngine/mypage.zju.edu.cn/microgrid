@@ -1,0 +1,396 @@
+
+
+
+
+
+电机及其控制研究所-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0009605";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	电机及其控制研究所
+不忘初心，方得始终
+
+	永久链接:http://mypage.zju.edu.cn/microgrid&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			<spanstyle="font-size:14.0pt;mso-bidi-font-size:
+11.0pt;line-height:125%;font-family:宋体;mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-fareast-theme-font:
+minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">杨欢，博士，副教授
+<spanlang="EN-US"style="font-size:12.0pt;mso-bidi-font-size:11.0pt;line-height:125%;
+font-family:&quot;TimesNewRoman&quot;,&quot;serif&quot;">2003<spanstyle="font-size:12.0pt;
+mso-bidi-font-size:11.0pt;line-height:125%;font-family:宋体;mso-ascii-font-family:
+&quot;TimesNewRoman&quot;;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;
+mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+&quot;TimesNewRoman&quot;">年<spanlang="EN-US"style="font-size:12.0pt;mso-bidi-font-size:
+11.0pt;line-height:125%;font-family:&quot;TimesNewRoman&quot;,&quot;serif&quot;">6<spanstyle="font-size:12.0pt;mso-bidi-font-size:11.0pt;line-height:125%;font-family:
+宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;mso-fareast-font-family:宋体;
+mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+minor-latin;mso-bidi-font-family:&quot;TimesNewRoman&quot;">月于浙江大学电气工程学院电气工程及其自动化专业获学士学位；<spanlang="EN-US"style="font-size:12.0pt;mso-bidi-font-size:11.0pt;line-height:125%;
+font-family:&quot;TimesNewRoman&quot;,&quot;serif&quot;">2008<spanstyle="font-size:12.0pt;
+mso-bidi-font-size:11.0pt;line-height:125%;font-family:宋体;mso-ascii-font-family:
+&quot;TimesNewRoman&quot;;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;
+mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+&quot;TimesNewRoman&quot;">年<spanlang="EN-US"style="font-size:12.0pt;mso-bidi-font-size:
+11.0pt;line-height:125%;font-family:&quot;TimesNewRoman&quot;,&quot;serif&quot;">12<spanstyle="font-size:12.0pt;mso-bidi-font-size:11.0pt;line-height:125%;font-family:
+宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;mso-fareast-font-family:宋体;
+mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+minor-latin;mso-bidi-font-family:&quot;TimesNewRoman&quot;">月于浙江大学电气工程学院获工学博士学位，师从赵荣祥教授；<spanlang="EN-US"style="font-size:12.0pt;mso-bidi-font-size:11.0pt;line-height:125%;
+font-family:&quot;TimesNewRoman&quot;,&quot;serif&quot;">2009<spanstyle="font-size:12.0pt;
+mso-bidi-font-size:11.0pt;line-height:125%;font-family:宋体;mso-ascii-font-family:
+&quot;TimesNewRoman&quot;;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;
+mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+&quot;TimesNewRoman&quot;">年<spanlang="EN-US"style="font-size:12.0pt;mso-bidi-font-size:
+11.0pt;line-height:125%;font-family:&quot;TimesNewRoman&quot;,&quot;serif&quot;">1<spanstyle="font-size:12.0pt;mso-bidi-font-size:11.0pt;line-height:125%;font-family:
+宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;mso-fareast-font-family:宋体;
+mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+minor-latin;mso-bidi-font-family:&quot;TimesNewRoman&quot;">月至<spanlang="EN-US"style="font-size:12.0pt;mso-bidi-font-size:11.0pt;line-height:125%;font-family:
+&quot;TimesNewRoman&quot;,&quot;serif&quot;">2011<spanstyle="font-size:12.0pt;mso-bidi-font-size:
+11.0pt;line-height:125%;font-family:宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;
+mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&quot;TimesNewRoman&quot;">年<spanlang="EN-US"style="font-size:12.0pt;mso-bidi-font-size:11.0pt;line-height:125%;
+font-family:&quot;TimesNewRoman&quot;,&quot;serif&quot;">3<spanstyle="font-size:12.0pt;
+mso-bidi-font-size:11.0pt;line-height:125%;font-family:宋体;mso-ascii-font-family:
+&quot;TimesNewRoman&quot;;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;
+mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+&quot;TimesNewRoman&quot;">月于浙江大学电子科学与技术博士后流动站从事研究工作，合作导师为中国工程院院士汪槱生教授；<spanlang="EN-US"style="font-size:12.0pt;mso-bidi-font-size:11.0pt;line-height:125%;
+font-family:&quot;TimesNewRoman&quot;,&quot;serif&quot;">2011<spanstyle="font-size:12.0pt;
+mso-bidi-font-size:11.0pt;line-height:125%;font-family:宋体;mso-ascii-font-family:
+&quot;TimesNewRoman&quot;;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;
+mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+&quot;TimesNewRoman&quot;">年<spanlang="EN-US"style="font-size:12.0pt;mso-bidi-font-size:
+11.0pt;line-height:125%;font-family:&quot;TimesNewRoman&quot;,&quot;serif&quot;">3<spanstyle="font-size:12.0pt;mso-bidi-font-size:11.0pt;line-height:125%;font-family:
+宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;mso-fareast-font-family:宋体;
+mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+minor-latin;mso-bidi-font-family:&quot;TimesNewRoman&quot;">月留任浙江大学；<spanlang="EN-US"style="font-size:12.0pt;mso-bidi-font-size:11.0pt;line-height:125%;
+font-family:&quot;TimesNewRoman&quot;,&quot;serif&quot;">2012<spanstyle="font-size:12.0pt;
+mso-bidi-font-size:11.0pt;line-height:125%;font-family:宋体;mso-ascii-font-family:
+&quot;TimesNewRoman&quot;;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;
+mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+&quot;TimesNewRoman&quot;">年<spanlang="EN-US"style="font-size:12.0pt;mso-bidi-font-size:
+11.0pt;line-height:125%;font-family:&quot;TimesNewRoman&quot;,&quot;serif&quot;">12<spanstyle="font-size:12.0pt;mso-bidi-font-size:11.0pt;line-height:125%;font-family:
+宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;mso-fareast-font-family:宋体;
+mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+minor-latin;mso-bidi-font-family:&quot;TimesNewRoman&quot;">月晋升副教授；<spanlang="EN-US"style="font-size:12.0pt;mso-bidi-font-size:11.0pt;line-height:125%;
+font-family:&quot;TimesNewRoman&quot;,&quot;serif&quot;;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+minor-latin">2014<spanstyle="font-size:12.0pt;mso-bidi-font-size:11.0pt;
+line-height:125%;font-family:宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;
+mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&quot;TimesNewRoman&quot;">年入选浙江大学&ldquo;求是青年学者&rdquo;。<spanlang="EN-US"style="font-size:12.0pt;mso-bidi-font-size:11.0pt;line-height:125%;
+font-family:&quot;TimesNewRoman&quot;,&quot;serif&quot;">2012<spanstyle="font-size:12.0pt;
+mso-bidi-font-size:11.0pt;line-height:125%;font-family:宋体;mso-ascii-font-family:
+&quot;TimesNewRoman&quot;;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;
+mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+&quot;TimesNewRoman&quot;">年<spanlang="EN-US"style="font-size:12.0pt;mso-bidi-font-size:
+11.0pt;line-height:125%;font-family:&quot;TimesNewRoman&quot;,&quot;serif&quot;">4<spanstyle="font-size:12.0pt;mso-bidi-font-size:11.0pt;line-height:125%;font-family:
+宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;mso-fareast-font-family:宋体;
+mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+minor-latin;mso-bidi-font-family:&quot;TimesNewRoman&quot;">月受日本新能源产业技术综合开发机构（<spanlang="EN-US"style="font-size:12.0pt;mso-bidi-font-size:11.0pt;line-height:125%;
+font-family:&quot;TimesNewRoman&quot;,&quot;serif&quot;">NEDO<spanstyle="font-size:12.0pt;
+mso-bidi-font-size:11.0pt;line-height:125%;font-family:宋体;mso-ascii-font-family:
+&quot;TimesNewRoman&quot;;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;
+mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+&quot;TimesNewRoman&quot;">）邀请与资助，开始为期一年的国际合作<spanlang="EN-US"style="font-size:
+12.0pt;mso-bidi-font-size:11.0pt;line-height:125%;font-family:&quot;TimesNewRoman&quot;,&quot;serif&quot;">&ldquo;<spanstyle="font-size:12.0pt;mso-bidi-font-size:11.0pt;line-height:125%;font-family:
+宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;mso-fareast-font-family:宋体;
+mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+minor-latin;mso-bidi-font-family:&quot;TimesNewRoman&quot;">基于新能源的海岛分散型智能电网稳定化系统的研究<spanlang="EN-US"style="font-size:12.0pt;mso-bidi-font-size:11.0pt;line-height:125%;
+font-family:&quot;TimesNewRoman&quot;,&quot;serif&quot;">&rdquo;<spanstyle="font-size:12.0pt;
+mso-bidi-font-size:11.0pt;line-height:125%;font-family:宋体;mso-ascii-font-family:
+&quot;TimesNewRoman&quot;;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;
+mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+&quot;TimesNewRoman&quot;">。主研方向为电力电子与电力传动、微电网与并网变换器控制。<spanlang="EN-US"style="font-size:12.0pt;mso-bidi-font-size:11.0pt;line-height:125%;font-family:
+&quot;TimesNewRoman&quot;,&quot;serif&quot;;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+minor-latin">
+<spanstyle="font-size:12.0pt;mso-bidi-font-size:11.0pt;line-height:125%;font-family:
+宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;mso-fareast-font-family:宋体;
+mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+minor-latin;mso-bidi-font-family:&quot;TimesNewRoman&quot;">近五年主持国家自然科学基金项目、国家<spanlang="EN-US"style="font-size:12.0pt;mso-bidi-font-size:11.0pt;line-height:125%;
+font-family:&quot;TimesNewRoman&quot;,&quot;serif&quot;">863<spanstyle="font-size:12.0pt;
+mso-bidi-font-size:11.0pt;line-height:125%;font-family:宋体;mso-ascii-font-family:
+&quot;TimesNewRoman&quot;;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;
+mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+&quot;TimesNewRoman&quot;">主题项目子课题等纵向项目<spanlang="EN-US"style="font-size:12.0pt;
+mso-bidi-font-size:11.0pt;line-height:125%;font-family:&quot;TimesNewRoman&quot;,&quot;serif&quot;">4<spanstyle="font-size:12.0pt;mso-bidi-font-size:11.0pt;line-height:125%;font-family:
+宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;mso-fareast-font-family:宋体;
+mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+minor-latin;mso-bidi-font-family:&quot;TimesNewRoman&quot;">项，国内与国际横向合作项目<spanlang="EN-US"style="font-size:12.0pt;mso-bidi-font-size:11.0pt;line-height:125%;
+font-family:&quot;TimesNewRoman&quot;,&quot;serif&quot;;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+minor-latin">4<spanstyle="font-size:12.0pt;mso-bidi-font-size:11.0pt;
+line-height:125%;font-family:宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;
+mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&quot;TimesNewRoman&quot;">项。发表（含录用）<spanlang="EN-US"style="font-size:12.0pt;mso-bidi-font-size:11.0pt;line-height:125%;
+font-family:&quot;TimesNewRoman&quot;,&quot;serif&quot;">SCI/EI<spanstyle="font-size:
+12.0pt;mso-bidi-font-size:11.0pt;line-height:125%;font-family:宋体;mso-ascii-font-family:
+&quot;TimesNewRoman&quot;;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;
+mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+&quot;TimesNewRoman&quot;">收录论文<spanlang="EN-US"style="font-size:12.0pt;
+mso-bidi-font-size:11.0pt;line-height:125%;font-family:&quot;TimesNewRoman&quot;,&quot;serif&quot;">40<spanstyle="font-size:12.0pt;mso-bidi-font-size:11.0pt;line-height:125%;font-family:
+宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;mso-fareast-font-family:宋体;
+mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+minor-latin;mso-bidi-font-family:&quot;TimesNewRoman&quot;">余篇，申请中国发明专利<spanlang="EN-US"style="font-size:12.0pt;mso-bidi-font-size:11.0pt;line-height:125%;
+font-family:&quot;TimesNewRoman&quot;,&quot;serif&quot;">6<spanstyle="font-size:12.0pt;
+mso-bidi-font-size:11.0pt;line-height:125%;font-family:宋体;mso-ascii-font-family:
+&quot;TimesNewRoman&quot;;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;
+mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+&quot;TimesNewRoman&quot;">项，已获授权<spanlang="EN-US"style="font-size:12.0pt;
+mso-bidi-font-size:11.0pt;line-height:125%;font-family:&quot;TimesNewRoman&quot;,&quot;serif&quot;">3<spanstyle="font-size:12.0pt;mso-bidi-font-size:11.0pt;line-height:125%;font-family:
+宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;mso-fareast-font-family:宋体;
+mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+minor-latin;mso-bidi-font-family:&quot;TimesNewRoman&quot;">项，完成技术转让<spanlang="EN-US"style="font-size:12.0pt;mso-bidi-font-size:11.0pt;line-height:125%;
+font-family:&quot;TimesNewRoman&quot;,&quot;serif&quot;">1<spanstyle="font-size:12.0pt;
+mso-bidi-font-size:11.0pt;line-height:125%;font-family:宋体;mso-ascii-font-family:
+&quot;TimesNewRoman&quot;;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;
+mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+&quot;TimesNewRoman&quot;">项。<spanlang="EN-US"style="font-size:12.0pt;
+mso-bidi-font-size:11.0pt;line-height:125%;font-family:&quot;TimesNewRoman&quot;,&quot;serif&quot;">IEEE<spanstyle="font-size:12.0pt;mso-bidi-font-size:11.0pt;line-height:
+125%;font-family:宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;mso-fareast-font-family:
+宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&quot;TimesNewRoman&quot;">会员；<spanlang="EN-US"style="font-size:12.0pt;mso-bidi-font-size:11.0pt;line-height:125%;
+font-family:&quot;TimesNewRoman&quot;,&quot;serif&quot;">IEEEPower&amp;EnergySociety<spanstyle="font-size:12.0pt;mso-bidi-font-size:11.0pt;line-height:125%;font-family:
+宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;mso-fareast-font-family:宋体;
+mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+minor-latin;mso-bidi-font-family:&quot;TimesNewRoman&quot;">会员；<spanlang="EN-US"style="font-size:12.0pt;mso-bidi-font-size:11.0pt;line-height:125%;font-family:
+&quot;TimesNewRoman&quot;,&quot;serif&quot;">IEEETransactionsonPowerElectronics,IEEETransactionsonIndustrialInformatics,IETPowerElectronics<spanstyle="font-size:12.0pt;mso-bidi-font-size:11.0pt;line-height:125%;font-family:
+宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;mso-fareast-font-family:宋体;
+mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+minor-latin;mso-bidi-font-family:&quot;TimesNewRoman&quot;">，<spanlang="EN-US"style="font-size:12.0pt;mso-bidi-font-size:11.0pt;line-height:125%;font-family:
+&quot;TimesNewRoman&quot;,&quot;serif&quot;">EuropeanTransactionsonElectricalPower<spanstyle="font-size:12.0pt;mso-bidi-font-size:11.0pt;line-height:125%;font-family:
+宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;mso-fareast-font-family:宋体;
+mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+minor-latin;mso-bidi-font-family:&quot;TimesNewRoman&quot;">等重要国际期刊审稿人；<spanlang="EN-US"style="font-size:12.0pt;mso-bidi-font-size:11.0pt;line-height:125%;
+font-family:&quot;TimesNewRoman&quot;,&quot;serif&quot;">APEC<spanstyle="font-size:12.0pt;
+mso-bidi-font-size:11.0pt;line-height:125%;font-family:宋体;mso-ascii-font-family:
+&quot;TimesNewRoman&quot;;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;
+mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+&quot;TimesNewRoman&quot;">、<spanlang="EN-US"style="font-size:12.0pt;mso-bidi-font-size:
+11.0pt;line-height:125%;font-family:&quot;TimesNewRoman&quot;,&quot;serif&quot;">ICEMS<spanstyle="font-size:12.0pt;mso-bidi-font-size:11.0pt;line-height:125%;font-family:
+宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;mso-fareast-font-family:宋体;
+mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+minor-latin;mso-bidi-font-family:&quot;TimesNewRoman&quot;">，<spanlang="EN-US"style="font-size:12.0pt;mso-bidi-font-size:11.0pt;line-height:125%;font-family:
+&quot;TimesNewRoman&quot;,&quot;serif&quot;">ISIE<spanstyle="font-size:12.0pt;mso-bidi-font-size:
+11.0pt;line-height:125%;font-family:宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;
+mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&quot;TimesNewRoman&quot;">等著名国际会议审稿人；<spanlang="EN-US"style="font-size:12.0pt;mso-bidi-font-size:11.0pt;line-height:125%;
+font-family:&quot;TimesNewRoman&quot;,&quot;serif&quot;">2012<spanstyle="font-size:12.0pt;
+mso-bidi-font-size:11.0pt;line-height:125%;font-family:宋体;mso-ascii-font-family:
+&quot;TimesNewRoman&quot;;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;
+mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+&quot;TimesNewRoman&quot;">年度<spanlang="EN-US"style="font-size:12.0pt;
+mso-bidi-font-size:11.0pt;line-height:125%;font-family:&quot;TimesNewRoman&quot;,&quot;serif&quot;">ICEMS<spanstyle="font-size:12.0pt;mso-bidi-font-size:11.0pt;line-height:125%;font-family:
+宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;mso-fareast-font-family:宋体;
+mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+minor-latin;mso-bidi-font-family:&quot;TimesNewRoman&quot;">国际会议分会主席<spanstyle="font-size:12.0pt;mso-bidi-font-size:11.0pt;line-height:125%;font-family:
+宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;mso-fareast-font-family:宋体;
+mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+minor-latin;mso-bidi-font-family:&quot;TimesNewRoman&quot;">；<spanlang="EN-US"style="font-size:12.0pt;mso-bidi-font-size:11.0pt;line-height:125%;font-family:
+&quot;TimesNewRoman&quot;,&quot;serif&quot;;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+minor-latin">2014<spanstyle="font-size:12.0pt;mso-bidi-font-size:11.0pt;
+line-height:125%;font-family:宋体;mso-ascii-font-family:&quot;TimesNewRoman&quot;;
+mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:
+Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&quot;TimesNewRoman&quot;">年度<spanlang="EN-US"style="font-size:12.0pt;mso-bidi-font-size:11.0pt;line-height:125%;
+font-family:&quot;TimesNewRoman&quot;,&quot;serif&quot;">ICEMS<spanstyle="font-size:12.0pt;
+mso-bidi-font-size:11.0pt;line-height:125%;font-family:宋体;mso-ascii-font-family:
+&quot;TimesNewRoman&quot;;mso-fareast-font-family:宋体;mso-fareast-theme-font:minor-fareast;
+mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+&quot;TimesNewRoman&quot;">国际会议组织委员会副主席。<spanlang="EN-US"style="font-size:12.0pt;
+mso-bidi-font-size:11.0pt;line-height:125%;font-family:&quot;TimesNewRoman&quot;,&quot;serif&quot;;
+mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin">
+			
+				
+			工作研究领域
+			
+			电力电子与电力传动，微电网与并网变换器控制。
+
+
+var_clustrmaps=;(function())();
+
+			
+				
+			联系方式
+			
+			电话：0571-87951519-131			电子信箱：yanghuan@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：杨欢
+		单位：电气工程学院
+		职称：副教授
+		我的主页共被访问了9303次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	专利成果
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	电气学院主页
+赵荣祥教授
+ICEMS2014
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

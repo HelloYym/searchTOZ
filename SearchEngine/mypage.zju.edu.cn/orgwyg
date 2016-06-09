@@ -1,0 +1,213 @@
+
+
+
+
+
+王彦广的个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0093200";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	王彦广的个人主页
+HomepageofYanguangWang
+
+	永久链接:http://mypage.zju.edu.cn/orgwyg&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			兰州大学化学系学士（1981-1985)、硕士（1985-1988)和博士（1990-1993)，浙江大学博士后（1994-1995)及香港中文大学博士后（1997-1998)。1988-1993年任天津大学化学系教师，1993年晋升为副教授。1995年10月至今任浙江大学化学系教师，1998年晋升为教授。曾任浙江大学化学系主任（1999-2005)，浙江大学理学院副院长（2005-2009），浙江省化学会副理事长（2002-2010)。现任浙江大学化学系主任（2010-迄今)，兼任浙江省化学会理事长（2010-迄今)，中国化学会理事，《高等学校化学学报》、《ChemicalResearchinChineseUniversities》和《应用化学》编委，国家自然科学基金委员会专家评审组成员，教育部高等学校化学类专业教学指导委员会委员。主要从事有机合成化学以及药物化学研究,在JACS、CC、EJC、JOC、OL等国际著名期刊上发表论文120余篇。获浙江省高等学校教学名师奖（2011）、宝钢优秀教师奖(2009)、教育部高校青年教师奖（2003)和中国化学会青年化学奖（1999）等奖励，以及国务院政府特殊津贴（2013）。
+			
+				
+			工作研究领域
+			
+			（1）有机合成新反应和新方法研究
+（2）生物活性天然产物及其类似物的合成
+（3）药物化学
+
+			
+				
+			联系方式
+			
+			电话：0571-87951512;13588861496			电子信箱：orgwyg@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：王彦广
+		单位：化学系
+		职称：教授
+		我的主页共被访问了67608次
+标签：Ocean	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		发表论文
+	出版著作
+	学术交流（讲座报告）
+	专利成果
+	奖励荣誉
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

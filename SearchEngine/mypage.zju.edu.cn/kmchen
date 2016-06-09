@@ -1,0 +1,208 @@
+
+
+
+
+
+陈坤明-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0005202";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	陈坤明
+宁静致远
+
+	永久链接:http://mypage.zju.edu.cn/kmchen&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			陈坤明，男，博士，副教授，甘肃天水人。1992年6月毕业于天水师范学院生物系，后留校任教，从事植物生理学的教学、实验及研究工作。1997年9月考取兰州大学生命科学学院研究生，从事植物生长物质与环境生理学研究工作，2000年6月获植物学硕士学位，2003年6月获植物学理学博士学位，同年7月到中科院植物研究所植物生殖与发育中心做博士后，2005年7月到浙江大学农业与生物技术学院作物所工作；2007年5月赴芬兰图尔库大学访问，2009年5月回国。2003年12月获得副教授职称，2006年4月获农学硕士生导师资格。曾先后参加并完成省部国家级项目多项，发表学术论文30余篇，其中SCI索引刊物论文10多篇。曾主持完成国家博士后资助项目一项和国家自然科学基金项目一项，现主持一项国家自然科学基金和一项浙江省自然科学基金。浙江大学&Prime;紫金&ldquo;计划和&ldquo;新星&rdquo;计划项目获得者，浙江省&ldquo;151&rdquo;人才工程第三梯队培养人员。现主要从事水稻抗逆性与光合高效的生理分子基础研究，利用现代分子生物学、细胞生物学和植物生理学的方式方法，进行涉及水、旱稻逆境ROS信号、NADPH氧化酶基因表达与调控、逆境基因网络与蛋白表达，以及光合高效机构组装与调控机理等方面的研究工作。
+			
+				
+			工作研究领域
+			
+			研究方向：作物逆境分子与生理调控，植物逆境信号传导
+
+内容：
+1.	水稻抗逆的分子生理机制与调控研究：主要利用现代分子生物学、细胞生物学的方式方法，用运反向遗传学的方法，采用T-DNA插入突变体等进行水稻抗旱、抗盐与抗高温等的分子生理调控机制研究，特别是涉及ROS信号途径关键酶和因子基因表达、克隆、调控等方面的研究。
+2.	水、旱稻光合机构组装与光合高效机理研究：主要是通过高光效水、旱稻品系筛选，构建水、旱稻光合高效高产和抗逆回交导入系群体，从中筛选并鉴定优异新种质；同时利用双向电泳、基因芯片、Blue-NativePAGE等手段进行水稻光合高效机构组装与调控机制研究。
+
+			
+				
+			联系方式
+			
+			电话：0571-86971905			电子信箱：kunmingchen@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：陈坤明
+		单位：农业与生物技术学院农学系
+		职称：副教授
+		我的主页共被访问了4246次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

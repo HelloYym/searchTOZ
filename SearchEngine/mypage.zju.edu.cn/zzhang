@@ -1,0 +1,213 @@
+
+
+
+
+
+张泽的个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0010292";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	张泽的个人主页
+
+
+	永久链接:http://mypage.zju.edu.cn/zzhang&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			材料科学和晶体结构专家。1980年毕业于吉林大学物理系，1987年在中国科学院金属研究所获博士学位。1987和1990年分别被晋升为副研究员和研究员。2001年当选为中国科学院院士。全国政协第九届、第十届、第十一届委员。2003年2月-2009年9月任北京工业大学副校长（正校级）。2010年3月-至今浙江大学研究员，博导。
+张泽院士现任国家重大基础研究项目（973）首席科学家、国家自然科学基金委员会数学物理科学部第四届专家咨询委员会委员、中国分析测试协会理事长、中国电子显微镜学会理事长、中国物理学会、中国材料研究学会和中国创新方法研究会副理事长、中国晶体学会常务理事。曾任中国科学院北京电子显微镜开放研究实验室主任、亚洲晶体学会主席、国际晶体学会执委，中国科协党组成员、书记处书记等职务。
+张泽院士长期从事准晶、低维纳米材料等电子显微结构研究，科研能力强，学风严谨，学术造诣深。他将原子层次显微结构分析与材料科学中重要问题相结合，系统研究和解决了准晶、低维纳米材料等国际材料科学的一些重要问题，取得了创造性研究成果。
+1984至1985年在晶体研究领域，他首次发现钛镍钒急冷合金中的五次对称准晶体，并在准晶体的结构、相变、缺陷等方面取得新的突破，取得了一系列具有较高创新性的研究成果，研究水平居国际领先地位，得到国际同行科学家的称赞，被认为是&quot;国际准晶体领域研究的早期工作者&quot;。
+张泽院士在国际知名学术刊物上发表论文220余篇，被国际同行引用2000余次；合作编著《高分辨电子显微学在材料科学中应用》和《纳米结构及纳米材料》英文专著两部。曾获&quot;国家自然科学一等奖&quot;、首届&quot;吴健雄物理奖&quot;、首届&quot;青年科技奖&quot;、首届&quot;中国青年科学家奖&quot;、&quot;何梁何利奖&quot;、&quot;求是&quot;奖等9项国家及部委级奖励；承担多项国家重大和其它基金研究项目，并获得突出研究成果。其主要学术成果被写进多本国内外学术专著及教科书中。
+&nbsp;
+			
+				
+			工作研究领域
+			
+			低维纳米材料的显微结构与性能关系研究
+			
+					
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：张泽
+		单位：材料科学与工程学系
+		职称：院士
+		我的主页共被访问了2859次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	北京工业大学固体微结构与性能研究所
+中国科学院物理所
+中国分析测试协会
+电子显微学报
+中国物理学会
+中国材料研究学会
+浙江大学
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

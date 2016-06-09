@@ -1,0 +1,206 @@
+
+
+
+
+
+白志红-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0011146";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	白志红
+开心工作，健康生活！
+
+	永久链接:http://mypage.zju.edu.cn/bzh&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			博士，硕士生导师。
+2008年12月毕业于浙江大学电气工程学院电力电子与电力传动专业，获工学博士学位。2009年至2010年期间在华中科技大学电气与电子工程学院应用电子工程系从事博士后研究工作；2012年5月至8月赴加拿大RyersonUniversity开展交流访问和研究。至今，已发表SCI、EI收录论文20多篇；已主持完成国家自然科学基金项目1项、中国博士后科学基金面上项目和特别资助项目各1项。IEEE会员，IEEETrans.onPowerElectron.，IEEETrans.onInd.Electron.，IEEETrans.onCircuitsandSystems，以及电工技术学报等国际和国内重要期刊审稿人。
+&nbsp;
+			
+				
+			工作研究领域
+			
+			1、多电平变流技术；2、可再生能源发电、并网控制技术。
+var_clustrmaps=;(function())();
+			
+				
+			联系方式
+			
+						电子信箱：baizhihong@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：白志红
+		单位：浙江大学电气工程学院
+		职称：副教授
+		我的主页共被访问了3653次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

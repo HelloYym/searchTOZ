@@ -1,0 +1,222 @@
+
+
+
+
+
+浙江大学光电系李海峰-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0091120";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	浙江大学光电系李海峰
+
+
+	永久链接:http://mypage.zju.edu.cn/0091120&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			近年来主要从事的科研工作包括：1、显示技术，包括三维显示的原理及系统研究，显示系统的人机交互技术，液晶、DLP、LCOS投影显示系统及元部件的研究。2、液晶空间光调制器研究，可调谐光学滤光器件研究等3、光学测量仪器研究，包括大口径光学元部件的光学性能测量仪器、光学元件的光谱透过率测量仪器、光合作用荧光检测仪器研究。
+主要在研项目：
+国家自然基金：可探入式三维显示技术研究
+国家863项目：1、大尺度三维显示技术研究；2、叶绿素荧光和高光谱检测系统；
+国家973项目：1、增强现实型虚拟环境研究；2、光场三维显示方法及关键器件；
+研究成果：国家科技进步二等奖1项；浙江省科技进步一等奖1项；省部级二等奖2项；
+近期发表论文：
+1.YifanPeng,HaifengLi,QingZhong,andXuLiu,Liquid-crystal-display-basedtouchablelightfieldthree-dimensionaldisplayusingdisplay-capturemappingcalibration,APPLIEDOPTICS,Vol.51,No.25,2012
+2.JiaHou,HaifengLi,ZhenrongZheng,XuLiu,Distortioncorrectionforimagingonnon-planarsurfaceusingfreeformlens,OpticsCommunications,285(2012)986&ndash;991
+3.RengmaoWu,ZhenrongZheng,HaifengLi,andXuLiu,OptimizationdesignofirradiancearrayforLEDuniformrectangularillumination,APPLIEDOPTICS,51(13),2012
+4.PengLIU,Reng-maoWU,Zhen-rongZHENG,Hai-fengLI,XuLIU,OptimizationdesignofLEDfreeformlensforuniformcircularillumination*,JZhejiangUniv-SciC
+5.CaijieYan,XuLiu,DiLiu,JingXie,XinXingXia,andHaifengLi,Omnidirectionalmultiviewthree-dimensionaldisplaybasedondirection-selectivelight-emittingdiodearray,OpticalEngineering,50(3),034003,2011.
+6.ZhenrongZheng,GuoweiYang,HaifengLi,andXuLiu,Three-stageFabry&ndash;Perotliquidcrystaltunablefilterwithextendedspectralrange,OpticsExpress,19(3),2158-2164,2011
+7.ShuaiLi,HaifengLi,ZhenrongZheng,YifanPeng,ShicongWang,andXuLiu,Full-parallaxthree-dimensionaldisplayusingnewdirectionaldiffuser,ChineseOpticsLetters,9(8),081202,2011
+
+8.YifanPeng,HaifengLi,ShuaiLi,andXuLiu,MeasurementandAnalysisofaNovelFull-ParallaxThreeDimensionalDisplaySystem，SocietyforInformationDisplay2011InternationalSymposiumDigest,pp1105-1108
+
+&nbsp;
+			
+				
+			工作研究领域
+			
+			1、光电显示
+2、光学与光电子薄膜
+3、光学检测仪器
+
+			
+				
+			联系方式
+			
+			电话：0571-87951758			电子信箱：lihaifeng@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：李海峰
+		单位：光电信息工程学系
+		职称：教授
+		我的主页共被访问了10942次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

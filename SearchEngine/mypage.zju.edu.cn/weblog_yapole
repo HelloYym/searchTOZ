@@ -1,0 +1,406 @@
+
+
+
+
+
+行走的城市MOBILECITY-博客
+
+
+
+
+
+
+varctxPath="http://mypage.zju.edu.cn";
+varb_handle="yapole";
+varcfg_weblog="http://mypage.zju.edu.cn/weblog";
+vard=newDate()
+varselyear=d.getFullYear();
+varselmonth=d.getMonth()+1;
+
+
+
+
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	color:#111;
+	margin-right:10px;	
+}
+#mainlinkullia,.tagsa:hover{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+.tagsa{
+	margin-right:10px;
+}
+img{
+	border:none;
+}
+
+
+
+
+
+
+
+
+
+
+	
+		首页
+		帮助
+		登录
+	
+
+
+
+
+
+
+	行走的城市MOBILECITY
+浙大ZJU
+
+	永久链接:http://mypage.zju.edu.cn/weblog/yapole&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+
+
+	中文主页
+			博客
+
+
+
+
+
+
+
+
+
+
+			
+				
+
+	
+[1/1]
+首页	上一页下一页末页
+
+	
+
+浏览模式:普通|列表
+
+
+
+
+
+
+		中国模式的土地空间逻辑（五)
+
+作者:韦亚平日期:2011-02-10Thursday
+
+
+
+得过且过的哲学对于中国改革开放的先后有序、层次井然的区域推进格局，今天的人们已经习惯了给予下意识的盛赞，却很少愿意从问题的起点上检讨这其中不断收紧的土地空间张力。不可否认，土地空间发展之所以在战略行动上谨小慎微，关键就是因为&ldquo;人-地&rdq...
+查看更多...
+
+Tags:
+小城镇城市规模摊大饼圈地人居环境
+	
+
+
+
+分类:规划与政策评论|			固定链接|评论总数0|
+			阅读次数72
+
+
+
+
+
+
+
+		中国模式的土地空间逻辑（四）
+
+作者:韦亚平日期:2011-02-10Thursday
+
+
+
+冰冻三尺尖锐的评论家从来就没有停止过对中国模式的质疑。尤其是2007年以来，全球金融危机的连锁反应更加突显了我们所面临的一系列社会重大矛盾。城乡差距、区域不协调、两极分化、社群利益冲突激化、社会保障体系不健全&hellip;&hellip;，这些问题总是这样的熟悉...
+查看更多...
+
+Tags:
+土地征用空间增长路径依赖城镇化拆迁安置
+	
+
+
+
+分类:规划与政策评论|			固定链接|评论总数0|
+			阅读次数52
+
+
+
+
+
+
+
+		中国模式的土地空间逻辑（三）
+
+作者:韦亚平日期:2011-02-10Thursday
+
+
+
+管制与反管制回望来路，中国这艘经济巨舰尽管一直磕磕碰碰，但在每一个转折点上又总是能够重新校准到新的合适航向。不过，并不能因此而过分夸大政府的主动干预作用，虽然中国政府拥有一个高度集中的层级体系，但层级之间的运作绝不是令出行止那么简单。中国经济的...
+查看更多...
+
+Tags:
+城市经营圈地制度创新土地管制
+	
+
+
+
+分类:规划与政策评论|			固定链接|评论总数0|
+			阅读次数36
+
+
+
+
+
+
+
+		中国模式的土地空间逻辑（二）
+
+作者:韦亚平日期:2011-02-10Thursday
+
+
+
+内在的逻辑中国模式中的集体土地远不止是充当了各级城镇化增长的原始资本，更为重要的角色是由特定区域和区位的土地空间充当媒介，把劳动力、产业资本、技术等要素快速集结起来，并迅速形成了巨大的空间产能。而这一切之所以能够实现，又在于土地管制工具与各级政...
+查看更多...
+
+Tags:
+土地财政二元土地管制gdp考核分税制
+	
+
+
+
+分类:规划与政策评论|			固定链接|评论总数0|
+			阅读次数38
+
+
+
+
+
+
+
+		中国模式的土地空间逻辑（一）
+
+作者:韦亚平日期:2011-02-10Thursday
+
+
+
+中国模式的空间视角中国经济的长期高速发展显化了&ldquo;中国模式&rdquo;这一概念范畴。分析家们认为，中国模式是混合型所有权制度、基本的财产所有权，以及政府的主动干预等因素的综合。事实上，自1992年以来中国就已确立了这一模式的发展目标&mdash;&mdash;中国...
+查看更多...
+
+Tags:
+城镇化集体土地制度中国模式
+	
+
+
+
+分类:规划与政策评论|			固定链接|评论总数0|
+			阅读次数52
+
+
+			
+			
+		
+		
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+	
+	
+		姓名：韦亚平
+		单位：建筑工程学院区域与城市规划系
+		职称：副教授
+		我共发表了5篇文章
+		共收到0条评论
+		我的主页共被访问了1940次
+	
+	
+	
+	
+
+
+我的文章分类
+
+	规划与政策评论
+		
+
+
+
+
+日历
+
+
+
+>>
+年月
+
+
+
+日
+一
+二
+三
+四
+五
+六
+
+
+
+
+
+
+
+
+
+
+
+我的最新文章
+
+
+		中国模式的土地空间逻辑...
+中国模式的土地空间逻辑...
+中国模式的土地空间逻辑...
+中国模式的土地空间逻辑...
+中国模式的土地空间逻辑...
+	
+
+
+
+
+我的热点文章
+
+
+				中国模式的土地空间逻辑...
+		中国模式的土地空间逻辑...
+		中国模式的土地空间逻辑...
+		中国模式的土地空间逻辑...
+		中国模式的土地空间逻辑...
+
+	
+
+
+我收到的评论
+
+	
+	
+
+
+我的文章汇总
+
+		2011年2月[5]
+		
+	
+
+
+链接
+
+
+
+
+
+
+检索
+
+
+
+
+-所有文章-
+规划与政策评论
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+
+
+varflag=newArray();
+flag[0]='2011/02/10';
+
+
+varcale=newCalendar("idCalendar",{
+SelectDay:newDate(),
+onSelectDay:function(o),
+onToday:function(o),
+onFinish:function(){
+$("idCalendarYear").innerHTML=this.Year;$("idCalendarMonth").innerHTML=this.Month;
+for(vari=0,len=flag.length;i<len;i++){
+//alert(flag[i]);
+	vard=newDate(flag[i]);
+	if(this.Year==d.getYear()){
+		if(this.Month==d.getMonth()+1)
+		{
+this.Days[d.getDate()].innerHTML=""+d.getDate()+"";
+			
+		}
+
+	}
+}
+}
+});
+$("idCalendarPre").onclick=function()
+$("idCalendarNext").onclick=function()
+
+
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));

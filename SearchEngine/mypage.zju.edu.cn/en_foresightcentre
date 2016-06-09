@@ -1,0 +1,250 @@
+
+
+
+
+
+ForesightCentreforOptimizationandControl-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0002023";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	ForesightCentreforOptimizationandControl
+DepartmentofControlScience&Engineering
+
+	Permanentlink:http://mypage.zju.edu.cn/en/foresightcentre&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			Blog
+
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			
+.zxtz_title{
+	font-size:15pt;
+	font-weight:bold;
+	color:#d97547;
+	height:29px;
+	padding-top:3px;
+	padding-left:38px;
+	padding-bottom:8px;
+
+border-right-width:2px;
+	border-left-width:2px;
+border-right-style:solid;
+	border-left-style:solid;
+border-right-color:rgb(44,146,172);
+	border-left-color:rgb(44,146,172);
+	
+
+
+
+}
+.zxtz_bg{
+	border-right-width:2px;
+	border-left-width:2px;
+	border-bottom-width:2px;
+	border-right-style:solid;
+	border-left-style:solid;
+	border-bottom-style:solid;
+	border-right-color:rgb(44,146,172);
+	border-left-color:rgb(44,146,172);
+	border-bottom-color:rgb(44,146,172);
+}
+.line{
+	background-image:url(http://docs.google.com/File?id=d7f3m34_8gbzgdxjd_b);
+	background-repeat:repeat-x;
+	background-position:leftbottom;
+}
+Welcometoourwebsite!
+Researchactivities:
+
+Complexindustrialprocessmodeling,controlandoptimization;
+
+Nonlinearprogrammingalgorithms;
+
+Dynamicoptimization.
+
+Newopenresourcesonline:
+
+Cath&nbsp;Testset
+
+Anewtestset(with&nbsp;MATLABcodes)named&nbsp;Cathtestsetfornonlinearprogrammingispublished.&nbsp;Thisset&nbsp;isanovelconstrainednonlinearprogramming(NLP)testsetforoptimizationmethods,wheretheproblemsgatheredinthetestsetarefromengineeringapplication,economicandmathematicalproblems.Thefirsteditionof&nbsp;CathTestSetispublished,userscandownloaditfromthecolomnof&nbsp;CathTestSet.
+Howtocontactus:
+Prof.XinggaoLiu
+StateKeyLaboratoryofIndustrialControlTechnology,
+DepartmentofControlScience&amp;Engineering,
+ZhejiangUniversity,
+Hangzhou310027,
+PR.China
+Tel:+(86)57187988336(Fax),+(86)013588085886(Mobile)
+Email:liuxg@iipc.zju.edu.cn
+
+&nbsp;
+			
+					
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:ForesightCentreforOptimizationandControl
+		Units:StateKeyLaboratoryofIndustrialControlTechnology
+		Title:
+		Myhomepagehasbeenvisited2731times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+CathTestSet
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	刘兴高个人主页
+COAP
+
+
+
+Youarevisitor:2731
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

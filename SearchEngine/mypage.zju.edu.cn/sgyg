@@ -1,0 +1,212 @@
+
+
+
+
+
+上官勇刚的主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0005223";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	上官勇刚的主页
+在耕耘后期待收获，在平淡中体会幸福！
+
+	永久链接:http://mypage.zju.edu.cn/sgyg&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1999年毕业于大连理工大学高分子化工专业，获工学学士学位；2005年毕业于浙江大学材料学专业，获工学博士学位。2005年8月至2007年12月在浙江大学高分子复合材料研究所从事博士后研究。2007年12月晋升副教授，留校任教，2012年入选浙江大学求是青年学者。2011年11月至2013年5月在香港中文大学进行访问学者研究（合作教授吴奇院士）。现任高分子科学与工程学系副教授、博士生导师，高分子复合材料研究所副所长。先后参加国家重大基础研究计划（973）子课题、国家杰出青年科学基金、国家自然科学基金重点/面上项目研究工作，主持国家自然科学基金、浙江省自然科学基金、浙江省重点科技创新团队子课题等项目。已在Macromolecules、SoftMatter、Polymer、J.Phys.Chem.B、J.Polym.Sci.Polym.Phys.、高分子学报等期刊上发表学术论文60余篇，授权发明专利3项。获第七届中国流变学青年奖（2012）、教育部高等学校自然科学二等奖（2009,5/10）、浙江省高等学校教学成果奖一等奖（2009,8/10）、浙江省科学技术一等奖（2014）。
+			
+				
+			工作研究领域
+			
+			多相多组分高分子材料结构与性能/通用高分子材料功能化与高性能化/聚电解质功能材料/高分子流变学
+
+			
+				
+			联系方式
+			
+			电话：0571-87953075			电子信箱：shangguan@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：上官勇刚
+		单位：高分子科学与工程学系
+		职称：副教授
+		我的主页共被访问了19478次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	奖励荣誉
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	浙江大学功能材料与流变学实验室
+浙江大学功能材料与流变学实验室
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

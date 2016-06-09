@@ -1,0 +1,230 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0083113";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0083113&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			代表著作（论文）
+1、《外国音乐欣赏》浙江省教委重点教材教材2004、6、浙江大学出版社
+2、《视唱练耳通用教程》教材2004、9、浙江大学出版社
+3、《声乐基础通用教程》教材2003、6、浙江大学出版社
+4、论文《综合性大学的&ldquo;外国音乐欣赏&rdquo;教学》
+所载刊物浙江大学学报
+发表2006年5月
+本人排名/总人数1/1
+
+5、论文《论全国普通高校音乐教育的发展方向》
+所载刊物浙江大学学报、中国人民大学&ldquo;高等教育&rdquo;
+发表1994年
+本人排名/总人数1/1
+
+承担课题
+1、成人高等艺术专业教育的定位、改革和发展
+
+开设课程
+1、《外国音乐欣赏》
+2、《歌唱艺术》
+3、《外国音乐剧舞剧欣赏》
+&nbsp;
+联系地址杭州市南都德加公寓西区8栋3单元201室
+电子邮箱Zhangchonghui1@yahoo.com.cn联系电话13858108571
+
+			
+				
+			工作研究领域
+			
+			1、音乐学
+2、艺术学
+3、成人教育
+
+			
+				
+			联系方式
+			
+			电话：13858108571			电子信箱：zhangchonghui1@yahoo.com.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：张重辉
+		单位：人文学院艺术学系
+		职称：副教授
+		我的主页共被访问了3858次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

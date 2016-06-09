@@ -1,0 +1,239 @@
+
+
+
+
+
+吴金龙的个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0097188";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	吴金龙的个人主页
+球-棒戏耍人
+
+	永久链接:http://mypage.zju.edu.cn/chjlwu&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			学习简历：
+1978年10月-1982年7月杭州大学,理学学士；
+1986年9月-1989年7月杭州大学,理学硕士；
+1994年9月-1997年6月杭州大学（1996年6月-1997年3月香港科技大学）,理学博士。
+&nbsp;
+&nbsp;
+工作简历：
+1982年8月-1986年8月水电部华东勘测设计院；
+1989年9月-1992年7月杭州有机硅新材料研究所，工程师；
+1992年8月-1994年8月杭州国森化学工业有限公司；
+1997年9月-1999年6月浙江大学，博士后；
+1999年6月至今浙江大学，博士后出站后留校工作，从事有机化学的教学与研究工作.
+&nbsp;
+&nbsp;
+&nbsp;
+出国（境）进修情况：
+199606-199703,200902-200908&nbsp;香港科技大学&nbsp;&nbsp;&nbsp;
+&nbsp;
+&nbsp;
+			
+				
+			工作研究领域
+			
+			研究领域：
+1.水相中有机反应的研究；2.可控温、控压微波辐射条件下的快速、高效有机合成方法的研究；3.天然生物活性复杂大分子的全合成研究；4.自由基自旋捕捉剂的合成及应用研究；5.药物合成与开发，杂质分离和结构测定。
+
+			
+				
+			联系方式
+			
+			电话：86-571-87953128			电子信箱：wyz@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：吴金龙
+		单位：化学系
+		职称：副教授
+		我的主页共被访问了34237次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	专利成果
+	图片欣赏
+	红景天苷
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	AmericanChemicalSociety
+ScienceDirect
+WileyInterScience
+WebofScience
+RCS
+SDBS
+Informaworld
+国家知识产权局
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

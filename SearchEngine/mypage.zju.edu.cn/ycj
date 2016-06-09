@@ -1,0 +1,212 @@
+
+
+
+
+
+杨灿军-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0098008";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	杨灿军
+杨灿军主页
+
+	永久链接:http://mypage.zju.edu.cn/ycj&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			杨灿军，教授、工学博士、博士研究生导师，1997年毕业于浙江大学获工学博士学位，1998年留校从事教学科研活动。2004年访问美国明尼苏达大学，参加美国AT11-07航次深海科学考察活动，开展深海热液探测技术合作研究。2011年访问美国MBARI海洋工程研究所，开展海底观测网络合作研究，将课题组研制的海底观测网络次级接驳盒与美国MARS网实现了成功对接，并稳定无故障运行6个月。2013年访问美国华盛顿大学APL实验室、美国WHOI海洋工程研究所、美国康涅狄格大学，开展合作研究与学术交流。主要研究领域包括，深海机电装备技术与人机智能机电系统技术。在深海机电装备技术方向，主要开展海底观测网接驳盒技术、深海极端环境探测技术，深海水体（含热液）保真采样技术，深海非接触式电能及信号传输技术、水下机器人技术等；在人机智能机电系统技术方向，主要开展人机一体化理论方法，上肢外骨骼遥操作控制，下肢增力外骨骼技术、医疗康复训练外骨骼机器人技术等。作为项目负责人承担国家自然科学基金项目2项、国家863计划项目5项，参加国家级、省部级各类研究项目20余项，合作出版著作3部，发表学术论文150余篇，其中SCI、EI收录论文50多篇。获授权国家发明专利20多项。获国家科学技术发明二等奖1项（排名第2）、国家教育部高校科学技术奖技术发明一等奖1项（排名第1）、浙江省科学技术奖一等奖1项（排名第2）、浙江省青年科技奖1项（单独获得）。入选国家“万人计划”专家、国务院特殊津贴专家、国家科技部中青年科技创新领军人才、国家教育部新世纪优秀人才、浙江省“新世纪151人才工程”第一层次和重点资助培养人员。现任浙江大学机械工程学院副院长，全国潜水器标准化技术委员会委员，国家康复辅具产业技术创新战略联盟理事会理事，国际个人护理机器人安全标准化委员会（ISO/TC184/SC2/WG7）专家委员，国际应用机器人技术的医疗设备安全标准化委员会（ISO/TC184/SC2JWG9JointISO/TC184/SC2-IEC/SC62A）专家委员，联合国电信联合会（ITU）绿色海底观测网络（ITU-WMO-UNESCOIOCJointTaskForce）专家工作组成员。
+&nbsp;
+			
+				
+			工作研究领域
+			
+			人机智能机电系统、深海机电装备技术
+			
+				
+			联系方式
+			
+			电话：87951271-6318			电子信箱：ycj@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：杨灿军
+		单位：机械工程学院
+		职称：教授
+		我的主页共被访问了18802次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	研究成果
+	专利成果
+	奖励荣誉
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	杨灿军
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

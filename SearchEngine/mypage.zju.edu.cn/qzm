@@ -1,0 +1,220 @@
+
+
+
+
+
+QZM-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0061244";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	QZM
+MainActivities&Achievements
+
+	永久链接:http://mypage.zju.edu.cn/qzm&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			1961年毕业于浙江大学无线电技术专业，1984&mdash;89年在比利时天主教鲁汶大学及比利时高校微电子中心进修学习，获博士学位。现任职于浙江大学电力电子技术研究所，曾任所长，现任浙江大学电力电子应用技术国家工程研究中心副主任，电力电子技术国家专业实验室学术委员会常务副主任，中国电工技术学会常务理事,&nbsp;IEEE高级会员，在多个国际重要学术会议上任重要职务,如在1994，1997，2000，2004和2006年分别任电力电子及运动控制国际会议(IPEMC)组织委员会主席，大会总主席，国内指导委员会主席，和国际指导委员会主席；现任欧洲电力电子专家国际会议（EPE）及欧洲电力电子及运动控制国际会议（PEMC）国际指导委员会委员；美国电力电子应用国际会议（APEC），国际电力电子专家会议(PESC),IEEETransaction特约审稿人;MemberoftheeditorialboardoftheInternationalReviewofElectricalEngineering(IREE)等。专业特长为：电力电子器件及其应用技术，电源技术，电力电子系统集成及电磁兼容设计等。
+领导、主持或参加的重大课题与项目有:&nbsp;浙江大学电力电子国家专业实验室的筹建；浙江大学电力电子应用技术国家工程研究中心的立项申请和筹建;&nbsp;负责完成国家自然科学基金重点项目1项,&nbsp;面上项目5项;&nbsp;&rdquo;八五&rdquo;攻关项目2项,&nbsp;国际合作项目十余项。
+代表性论著有:《电力电子系统电磁兼容设计及干扰抑制技术基础》,&nbsp;已在国内外学术刊物上发表论文181篇，其中SCI:28篇；EI:36篇;国内一级学术期刊及国外学术期刊:41篇。在国外重要国际学术会议上发表论文201篇，其中EI:141篇;ISTP:29篇。已授权实用新型专利21项，发明专利7项。1993年起享受国务院政府特殊津贴，曾获国家教委科技进步奖三等奖一项，教育部科技进步奖二等奖一项，浙江省高校科研成果奖一等奖两项，中国电工技术学会、浙江省自然科学优秀论文奖七项，浙江大学优秀导师奖两项。
+
+			
+				
+			工作研究领域
+			
+			在国外进修期间主要从事同质化学气相沉积含氢非晶硅材料及相关器件的研究工作。
+回国后从事的专业学科为电力电子技术。专业特长为：电力电子器件及其应用技术，电源技术，电力电子在电力系统中的应用，电磁兼容设计及电力电子系统集成等。
+领导主持或参加的课题与项目有：国家自然科学基金重点项目“电力电子系统集成”；面上项目“阻抗型变流器”，“功率变换器的EMI建模和PCB板布置优化设计”；“硅片－硅片直接键合界面特性及应用于快速电力电子器件”；“逆变桥模块吸收电路的无源能量回馈技术”等。省部级项目：“串联型有源滤波器理论模型及最优化设计”；“快速GTO及小功率直流斩波器用GTO组件”；“快速GTO及新型感应加热电源”等。重大横向项目：“高功率交直交高压变流器”；“高功率软开关逆变器”；“高效臭氧发生器污水处理技术研究”；“30kW异步电动机变频装置谐波抑制器研制”等。国际合作项目：“新一代微处理器用电压调节模块”；“高效、高频直流变换器研究”；“Saber,Simplore电路建模”；“新型金属卤化物灯电子钲流器”等。
+
+
+
+			
+				
+			联系方式
+			
+			电话：0571-87951891			电子信箱：qian@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：钱照明
+		单位：电气工程学院应用电子学系
+		职称：教授
+		我的主页共被访问了40499次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	学术交流（讲座报告）
+	研究成果
+	专利成果
+	奖励荣誉
+	实验室介绍
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

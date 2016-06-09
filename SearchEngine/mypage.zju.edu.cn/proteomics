@@ -1,0 +1,216 @@
+
+
+
+
+
+韩兵男-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0009112";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	韩兵男
+
+
+	永久链接:http://mypage.zju.edu.cn/proteomics&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			于2005年，在美国俄勒冈州立大学药学院获天然产物药学博士,对热带蓝绿藻等多种海洋生物的次生代谢物的分子结构及生物活性做过深入地研究。其中在semiplenamides的项目中发现了多种具有脑内大麻素（Endocannabinoid）活性的脂链肽小分子，这是首次在海洋藻类中发现，并对该资源的开发应用提供了一定的药用价值。另外在对海藻生物毒素的提取、结构鉴定，及机制方面做过深入研究，并发表过高质量的学术论文。其中所有活性分子都被天然产物领域的国际权威评论杂志《NaturalProductsReport》充分肯定和高度评价。
+其后在本校的LinusPaulingInstitute和质谱中心从事博士后研究工作。期间，利用化学合成和蛋白组学技术平台来研究心肌线粒体蛋白氧化修饰和心脏等慢性老年疾病的关系。其中首次在国际上采用独立合成的生物素为基础的同位素化学探针来定量研究氧化脂蛋白的体外和体内修饰程度。该研究成果发表在分析化学及蛋白组学领域的国际权威杂志《AnalyticalChemistry》，《JournalofProteomics》，&nbsp;并且在多次国际会议上做过报告和摘要，得到同行的高度认同和关注。
+
+于2008-2010年期间，在美国国立癌症研究院（NCI）做研究员，主要负责研究抗癌创新药物，拓扑异构酶抑制剂，Indenoisoquinolin的作用机理。本人负责的相关生物标记物(biomarker)筛选子课题。发现该药物的耐药性与在DNA修复中的几个关键酶的表达有密切联系。该成果对研究以DNA为靶向的抗癌药物的耐药性有指导性的意义。该结果发表在蛋白组学领域的国际权威杂志《JournalofProteomeResearch》，对癌细胞凋亡及信号传导途径的分析和验证提供了深入的理论基础和实践经验。&nbsp;
+
+现与普渡大学药学院副院长教授EricBarker和普度大学心理系教授JuliaChester进行合作研究。主要研究内容为精神性疾病的药理分析。作为主要参与者参加了&ldquo;内源性大麻素代谢产物的靶向性代谢组学及药理研究&rdquo;课题，并做出了卓有成效的贡献。
+
+			
+				
+			工作研究领域
+			
+			1.海洋蓝藻的次生代谢物的分子结构及生物活性机理。
+2.利用化学生物学和蛋白组学技术平台来研究心肌线粒体蛋白氧化修饰和心脏等慢性老年疾病。
+3.脑内大麻素（Endocannabinoid）等活性脂链肽小分子的抗炎，抗焦虑药理研究。
+			
+				
+			联系方式
+			
+			电话：15257165115			电子信箱：hanbingnan@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：韩兵男
+		单位：海洋科学与工程学系
+		职称：副教授（自然科学),硕导
+		我的主页共被访问了9774次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	学术交流（讲座报告）
+	发表论文
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

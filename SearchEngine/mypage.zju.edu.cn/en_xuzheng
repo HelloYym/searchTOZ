@@ -1,0 +1,214 @@
+
+
+
+
+
+HomepageofProfessorZhengXU-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0086075";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	HomepageofProfessorZhengXU
+HVDCandFACTSGroupofZhejiangUniversity
+
+	Permanentlink:http://mypage.zju.edu.cn/en/xuzheng&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			Blog
+
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			BriefIntroductionofZhengXU
+（+8657187952074;xuzheng007@zju.edu.cn;www.hvdc.cn）
+&nbsp;
+ZhengXuwasborninZhejiang,China,inSeptember1962.HereceivedtheBS,MSandPh.D.degreesfromZhejiangUniversity,Chinain1983,1986and1993respectively,allinElectricalEngineering.HehasbeenwiththeElectricalEngineeringDepartmentofZhejiangUniversitysince1986andbecameaprofessorofZhejiangUniversityin1998.FromJune1995toJune1996hewasavisitingscholarinCanterburyUniversity,NewZealand.In1998hewasavisitingresearcherinSiemensGermany.Hehaspublishedmorethan200technicalpapersincoremagazinesofelectricalengineering.Hehasbeeninchargeofmorethan30scientificresearchprojects,including2projectssupportedbyNationalNaturalScienceFoundationofChinaand1projectsupportedbyNationalKeyBasicResearchSpecialFundofChinaand3projectssupportedbytheNationalEleventh-FiveYearResearchProgramofChina.Hehasreceivedseveralscientificawards,includingNationalNaturalScienceAwardandNationalScienceandTechnologyProgressAward.HisresearchareaincludesHVDC,FACTS,powerharmonicsandpowerquality.Hehaswritten2booksandtranslated9books.
+WrittenBooks:
+(1)&nbsp;&nbsp;&nbsp;ZhengXU.DynamicPerformanceAnalysisofAC/DCPowerSystems,PublishedbyChinaMachinePressin2004,Beijing.(InChinese)
+(2)&nbsp;&nbsp;&nbsp;ZhengXU.GuideforPowerSystemAnalysisStudy,PublishedbyChinaMachinePressin2004,Beijing.(InChinese)
+TranslatedBooks:
+(1)&nbsp;&nbsp;&nbsp;&ldquo;EHVACUndergroundingElectricalPower&ndash;PerformanceandPlanning&rdquo;(EnglisheditionpublishedbySpringerPress,2010.TheauthorsareR.Benato,A.Paolucci.TranslatedbyZhengXu,ChineseeditionpublishedbyChinaMachinePressin2012,Beijing)
+(2)&nbsp;&nbsp;&nbsp;&ldquo;WindEnergyGeneration&ndash;ModellingandControl&rdquo;(EnglisheditionpublishedbyWileyPress,2009.TheauthorsareOlimpoAnaya-Lara,NickJenkins,JanakaEkanayake,PhillCartwrightandMikeHughes.TranslatedbyZhengXu,ChineseeditionpublishedbyChinaMachinePressin2011,Beijing)
+(3)&nbsp;&nbsp;&nbsp;&ldquo;PowerElectronicsinSmartElectricalEnergyNetworks&rdquo;(EnglisheditionpublishedbySpringerPress,2008.TheeditorsareR.StrzeleckiandG.Benysek.TranslatedbyZhengXu,ChineseeditionpublishedbyChinaMachinePressin2010,Beijing)
+(4)&nbsp;&nbsp;&nbsp;&ldquo;InstantaneousPowerTheoryandApplicationstoPowerConditioning&rdquo;(EnglisheditionpublishedbyIEEEPress,2007.TheauthorsareHirofumiAkagi,EdsonHirokazuWatanabeandMauricioAredes.TranslatedbyZhengXu,ChineseeditionpublishedbyChinaMachinePressin2009,Beijing)
+(5)&nbsp;&nbsp;&nbsp;&ldquo;DistributionReliabilityandPowerQuality&rdquo;(EnglisheditionpublishedbyCRCPress,2006.TheauthorisT.A.Short.TranslatedbyZhengXu,ChineseeditionpublishedbyChinaMachinePressin2008,Beijing)
+(6)&nbsp;&nbsp;&nbsp;&ldquo;PowerSystemCapacitors&rdquo;(EnglisheditionpublishedbyCRCPress,2005.TheauthorisRamasanyNatarrajan.TranslatedbyZhengXu,ChineseeditionpublishedbyChinaMachinePressin2007,Beijing)
+(7)&nbsp;&nbsp;&nbsp;&ldquo;HVDCandFACTSControllers-ApplicationsofStaticConvertersinPowerSystems&rdquo;(EnglisheditionpublishedbyKluwerAcademicPublishers,2004.TheauthorisVijayK.Sood.TranslatedbyZhengXu,ChineseeditionpublishedbyChinaMachinePressin2006,Beijing)
+(8)&nbsp;&nbsp;&nbsp;&ldquo;Thyristor-BasedFACTSControllersforElectricalTransmissionsystems&rdquo;(EnglisheditionpublishedbyIEEEPress,2002.TheauthorsareR.MohanMathurandRajivK.Varma.TranslatedbyZhengXu,ChineseeditionpublishedbyChinaMachinePressin2005,Beijing)
+(9)&nbsp;&nbsp;&nbsp;&ldquo;PowerSystemsHarmonics:Fundamentals,AnalysisandFilterDesign&rdquo;(EnglisheditionpublishedbySpringerPress,2001.TheauthorisGeorgeJ.Wakileh.TranslatedbyZhengXu,ChineseeditionpublishedbyChinaMachinePressin2003,Beijing)
+			
+				
+			Researchwork
+			
+			HVDC,FACTS,andgridintegrationofrenewableenergy
+			
+				
+			Contact
+			
+			Phone:+8657187952074
+			E-mail:xuzheng007@zju.edu.cn
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:ZhengXU
+		Units:CollegeofElectricalEngineering
+		Title:Professor
+		Myhomepagehasbeenvisited4730times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	
+
+
+Youarevisitor:4730
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

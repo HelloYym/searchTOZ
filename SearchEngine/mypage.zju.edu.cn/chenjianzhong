@@ -1,0 +1,232 @@
+
+
+
+
+
+陈建忠-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0094427";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	陈建忠
+浙江大学免疫学研究所
+
+	永久链接:http://mypage.zju.edu.cn/chenjianzhong&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			各位朋友，大家好！
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;欢迎访问我的主页！
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这里我将向大家介绍医学免疫学的一些研究进展和教学、科研的心得。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;学习经历：
+&nbsp;&nbsp;&nbsp;1994年7月毕业于湖南医科大学免疫学研究室,获得硕士学位。2000年7月毕业于浙江大学传染病研究所，获得内科学（传染病学）博士学位。2001年10月-2003年9月日本东京大学免疫学研究室博士后。2010年1月-2011年7月在美国加州大学圣地亚哥分校访问学者。
+&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;工作经历：
+&nbsp;&nbsp;&nbsp;&nbsp;1986.07-1991.07宁波妇女儿童医院检验科，检验士
+&nbsp;&nbsp;&nbsp;&nbsp;1994.08-1998.07&nbsp;浙江医科大学免疫学教研室&nbsp;助教、讲师
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1998.08-2001.09&nbsp;浙江大学医学院免疫学教研室&nbsp;讲师
+&nbsp;&nbsp;&nbsp;&nbsp;2003.10-2004.09&nbsp;&nbsp;浙江大学医学院免疫学教研室&nbsp;副教授
+&nbsp;&nbsp;&nbsp;&nbsp;2004.10-2005.12&nbsp;西藏自治区卫生厅&nbsp;&nbsp;厅长助理
+&nbsp;&nbsp;&nbsp;&nbsp;2006.01-2006.02&nbsp;&nbsp;浙江大学医学院免疫学教研室&nbsp;副教授
+&nbsp;&nbsp;&nbsp;&nbsp;2006.03-2007.02&nbsp;&nbsp;教育部高等教育司农林医药教育处&nbsp;干部
+&nbsp;&nbsp;&nbsp;&nbsp;2007.03-现在&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江大学医学院免疫学研究所&nbsp;副教授
+&nbsp;&nbsp;
+&nbsp;
+&nbsp;
+			
+				
+			工作研究领域
+			
+			研究方向：感染免疫学
+主要方向：1，病毒性肝炎发病机制以及免疫学防治；2，感染性疫苗的研究；3，固有免疫应答与感染免疫;4，肿瘤免疫学治疗
+			
+				
+			联系方式
+			
+			电话：0571-88208286			电子信箱：chenjianzhong@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：陈建忠
+		单位：基础医学系
+		职称：副教授
+		我的主页共被访问了26036次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	生活思考
+	开心一笑
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	2014临床医学五年制《医学免疫学》课件
+医学免疫学书籍
+免疫学成绩
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

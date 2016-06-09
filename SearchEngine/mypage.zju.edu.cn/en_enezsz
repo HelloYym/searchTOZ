@@ -1,0 +1,235 @@
+
+
+
+
+
+Theapplicationofcryogenicsinmedicine-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0098049";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	Theapplicationofcryogenicsinmedicine
+
+
+	Permanentlink:http://mypage.zju.edu.cn/en/enezsz&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			Education
+Ph.D.&ndash;ZhejiangUniversity,EngineeringThermodynamic,2003
+M.S&ndash;ZhejiangUniversity,RefrigerationandCryogenicEngineering,1998
+B.S.&ndash;ZhejiangUniversity,RefrigerationandCryogenicEngineering,1993
+&nbsp;
+WorkingExperience
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2004-,&nbsp;&nbsp;&nbsp;Associateprofessor,DepartmentofEnergyEngineering,ZhejiangUniversity
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2003-2004,VisitingScholar,YorkUniversity,UK
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1998-2004,Assistantprofessor,DepartmentofEnergyEngineering,ZhejiangUniversity
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1993-1995,AssistantEngineer,WuxiAutomationResearchInstitute,Wuxi
+&nbsp;
+
+CurrentProjects
+&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Studyontheabsorptionheatoffreeze-driedhumanplatelets,NaturalScienceFoundationofZhejiangProvince
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Studyonthefreeze-dryingoflargevolumeofhumanplatelets,incorporationwith117th&nbsp;hospitalofpeople&rsquo;sliberation
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;army
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Testrigfortheheatandflowcharacteristicsofhighperformanceheatexchangertubeusedinairconditioner,in
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;corporationwithafactory
+&nbsp;
+PublicationList
+1Meng-jieXU,Guang-mingCHEN,Ju-liFAN1,Jin-huiLIU,Xian-guoXU,Shao-zhiZHANG,Moisturesorptioncharacteristicsoffreeze-driedhumanplatelets,JZhejiangUniv-SciB(Biomed&amp;Biotechnol)201112(3):210-218
+2Shao-zhiZhang,HuanQian,ZhenWang,Ju-liFan,QianZhou,Guang-mingChen,RuiLi,ShanFu,JieSun,Preliminarystudyonthefreeze-dryingofhumanbonemarrow-derivedmesenchymalstemcells,JournalofZhejiangUniversitySCIENCEB,2010,11(11):889-894
+3ShaozhiZhang,HaiyingWangandGuangmingChen,Additionofice-nucleationactivebacteria:Pseudomonassyringaepv.panicionfreezingofsolidmodelfood,LWT-FoodScienceandTechnology,2010,43(9):1414-1418
+4CHENGuangMing,GAOXu,ZHANGShaoZhi,CHENQi,TANGLiMing&amp;LANYuQi,&nbsp;&nbsp;&nbsp;Developmentofanautomaticcalibrationdeviceforhigh-accuracylowtemperaturethermometers
+SCIENCECHINATechnologicalSciences(ScienceinChinaSeriesE),2010Vol.53(9):2404-2407
+5Shao-zhiZHANG,Dong-boWU,GeYANG,Guang-mingCHEN,Experimentalstudyonacryosurgeryapparatus,JournalofZhejiangUniversity-SCIENCEA(AppliedPhysicsandEngineering),2010,11(2):128-131
+6ZhangShaozhi,WangHaiying,ChenGuangming,EffectsofPseudomonassyringaeasbacterialicenucleatoronfreezingofmodelfood,JournalofFoodEngineering,2009,94(3-4):248-253
+7ShaoZhiZhang,JuLiFan,etc.,AnexperimentalstudyoftheuseofultrasoundtofacilitatetheloadingoftrehaloseintoplateletsCryobiology,2009,59(2):135-140
+9Ju-liFAN,Xian-guoXU,etc.,Experimentalstudyonrehydrationconditionsoffreeze-driedplatelets,JournalofZhejiangUniversity-SCIENCEA,2009,10(5):697-703
+10H.Y.Wang,S.Z.ZhangandG.M.Chen,glasstransitionandstatediagramforfreshandfreeze-driedChinesegooseberry,JournalofFoodEngineering,2008,84:307-312
+11Xin-LiZhou,HongZhu,Shao-ZhiZhang,etal.Freeze-dryingofhumanplatelets:influenceofsaccharide,freezingrateandcellconcentration.CryoLetters,2007,28(3):187-196
+12S.Z.ZhangandD.E.Pegg,Analysisofthepermeationofcryoprotectantsincartilage,Cryobiology,2007,54(1):146-153
+13H.Y.Wang,S.Z.ZhangandG.M.Chen,Experimentalstudyonthefreezingcharacteristicsoffourkindsofvegetables,LWT-FoodScienceandTechnology,2007,40:1112-1116
+14Xin-LiZhou,HongZhu,Shao-ZhiZhang,etal.Freeze-dryingofhumanplatelets:influenceofintracellulartrehaloseandextracellularprotectants.CryoLetters,2006,27(1):43-50
+15S.Z.ZhangandG.M.Chen,Analyticalsolutionfortheextremumsofcellwatervolumeandcellvolumeusingatwo-parametermodel,Cryobiology,2002,44(3):204-209
+			
+				
+			Researchwork
+			
+			Heatandmasstransferincryopreservationofbiomaterials
+Freezedryingofhumanplatelets
+Automationofrefrigerationandcryogenicdevice
+
+			
+				
+			Contact
+			
+			Phone:86-571-87952464
+			E-mail:enezsz@zju.edu.cn
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:zhangshaozhi
+		Units:RefrigerationandCryogenicEngineeringInstitute
+		Title:associateprofessor
+		Myhomepagehasbeenvisited2947times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	
+
+
+Youarevisitor:2947
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

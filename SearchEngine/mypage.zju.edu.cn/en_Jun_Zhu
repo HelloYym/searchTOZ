@@ -1,0 +1,350 @@
+
+
+
+
+
+Jun_Zhu-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0082003";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	Jun_Zhu
+StatisticalGeneticsandBioinformatics
+
+	Permanentlink:http://mypage.zju.edu.cn/en/Jun_Zhu&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			Blog
+
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			ZHU,Jun
+
+
+
+
+[PRESENTPOSITION]
+DirectorandProfessor,InstituteofBioinformaticsatZhejiangUniversity(2001-Current).
+
+
+
+
+[FORMERPOSITION]
+VicePresidentofZhejiangUniversity(2005-2009).
+Dean,CollegeofAgriculturalandBiotechnologyatZhejiangUniversity(1999-2005).
+VicePresidentofZhejiangAgriculturalUniversity(1994-1998).
+
+
+
+
+[DEGREES]
+Ph.D.inStatisticsandGenetics,NCState,USA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1989).
+M.S.inAgronomy,ZhejiangAgriculturalUniversity(1982).
+
+
+
+
+[FIELDOFRESEARCHACTIVITIES]
+Developinggeneticmodelsandanalysismethodsforcomplextraits.
+DevelopingsearchtoolsinBioinformatics.
+Thereare96paperspublishedinSCIjournalswith1820citations(1430citedbyothers).
+
+
+
+
+[SELECTEDPUBLICATIONS]&nbsp;
+E1.&nbsp;&nbsp;LisaA.Levin,J.Zhu,andElizabethL.Creed(1991).Thegenetic　basisoflife-historycharactersinapolychaeteexhibitingplanktotrophyandlecithothrophy.Evolution,45(2):380-397.&nbsp;
+E2.&nbsp;&nbsp;ShiC.H.,andJ.Zhu.(1993).Analysisofseedandmaternalgeneticeffectsonmillingqualitycharactersinindicahybridrice.RiceGeneticsNewsletter,10:110-111.
+E3.&nbsp;&nbsp;ZhuJ.andB.S.Weir.(1994).Analysisofcytoplasmicandmaternaleffects:I.ageneticmodelfordiploidplantseedsandanimals.Theor.Appl.Genet,89:153-159.
+E4.&nbsp;&nbsp;ZhuJ.andB.S.Weir.(1994).Analysisofcytoplasmicandmaternaleffects:II.geneticmodelsfortriplodendosperms.Theor.Appl.Genet,89:160-166.
+E5.&nbsp;&nbsp;ZhuJ.(1995).Analysisofconditionaleffectsandvariancecomponentsindevelopmentalgenetics.Genetics,141(4):1633-1639.&nbsp;
+E6.&nbsp;&nbsp;ShiC.H.,andJ.Zhu.(1995).Analysisofseedandmaternalgeneticeffectsfornutritivequalitytraitsofgraininindicarice.(ChineseJournalofGenetics,20(3):173-180.
+E7.&nbsp;&nbsp;LiuS.S.,G.-M.Zhang,andJ.Zhu.(1995).Theinfluenceoftemperaturevariationsuponrateofdevelopmentininsects:ananalysisofcasestudiesfromtheentomologicalliterature.AnnalsoftheEntomologicalSocietyofAmerica,88(2):107-119&nbsp;
+E8.&nbsp;&nbsp;ShiC.H.,andZhuJun(1995).Analysisofseed,cytoplasmic,andmaternalgeneticeffectsonricequalitytraits.InternationalRiceResearchNotes,20(2):4.
+E9.&nbsp;&nbsp;Zhu,J.(1996).AnalyticMethodsforseedmodelswithgenotype&acute;environmentinteraction.ChineseJournalofGenetics23(1):11-22.
+E10.&nbsp;ZhuJ.andB.S.Weir.(1996).Diallelanalysisforsex-linkedandmaternaleffects.Theor.Appl.Genet,92(1):1-9.&nbsp;
+E11.&nbsp;ZhuJ.andB.S.Weir.(1996)Mixedmodelapproachesfordiallelanalysisbasedonabio-model.GeneticalResearch,68:233-240.
+E12.&nbsp;ShiC.H.,J.M.Xue,Y.G.Yu,X.E.Yang,andJ.Zhu(1996).Analysisofgeneticeffectsfornutrientqualitytraitsinindicarice.Theor.Appl.Genet.,92(8):1099-1102.&nbsp;
+E13.&nbsp;YanJ.Q.,Q.Z.XueandJ.Zhu,(1996).Geneticstudiesofanthercultureabilityinrice(OryzasativaL.).PlantCell,TissueandOrganCultural,45(3):253-258Fu.
+E14.&nbsp;ShiC.HandJ.Zhu.(1996).Studyonendomsperm,cytoplasmicandmaternalplantgeneticeffectsfornutritivequalitytraitsinindicarice.RiceGeneticsNewsletter,12:224-225.
+E15.&nbsp;AtchleyW.R.andJ.Zhu.(1997).Developmentalquantitativegenetics,conditionalepigeneticvariabilityandgrowthinmice.Genetics147:765-776.
+E16.&nbsp;ShiC.H.,J.Zhu,R.C.ZangandG.L.Chen.(1997).Geneticandheterosisanalysisforcookingqualitytraitsofindicariceindifferentenvironments.Theor.Appl.Genet.,95:294-300.&nbsp;
+E17.&nbsp;ShiC.H.,J.Zhu(1997).Analysisofgeneticandgenotypeenvironmentinteractioneffectsonheterosisofnutrientqualitytraitsininindicahybridrice.InternationalRiceResearchNotes,22(3):7.
+E18.&nbsp;YanX.F.,S.Y.Xu.Y.H.Xu.J.Zhu(1998).Geneticinvestigationofcontributionsofembryoandendospermgenestomaltkolbachindex,alpha-amylaseactivityandwortnitrogencontentinbarley.Theor.Appl.Genet.,96:(5):709-715.
+E19.&nbsp;Yan,J.Q.,J.Zhu,C.X.He,M.Benmoussa,andP.Wu(1998).Quantitativetraitlocianalysisfordevelopmentalbehavioroftillernumberinrice(OryzasativaL.)Theor.Appl.Genet.,97:267-274.
+E20.&nbsp;Yan,J.Q.,J.Zhu,C.X.He,M.Benmoussa,andP.Wu(1998)Moleculardissectionofdevelopmentalbehaviorofplantheightinrice(OryzasativaL.).Genetics150：1257-1265.&nbsp;
+E21.&nbsp;Shappley,Z.W.,JohnieN.Jenkins,J.Zhu,andJackC.McCarty,Jr.1998.QuantitativetraitlociassociatedwithagronomicandfibertraitsofUplandcotton.J.CottonScience2(4):153-163.
+E22.&nbsp;McCarty,Jr.,J.C.,J.N.JenkinsandJ.Zhu.1998.Introgressionofday-neutralgenesinprimitivecottonaccessions:I.geneticvariancesandcorrelations.CropSci.38:1425-1428.
+E23.&nbsp;McCarty,Jr.,J.C.,J.N.JenkinsandJ.Zhu.1998.Introgressionofday-neutralgenesinprimitivecottonaccessions:II.predictedgeneticeffects.CropSci.38:1428-1431.
+E24.&nbsp;ShiC.H.,andJ.Zhu.(1998).Analysisofseedandmaternalgeneticeffectsfornutritivequalitytraitsofgraininindicarice.SeedScienceandTechnique,26(2):481-488.&nbsp;
+E25.&nbsp;ZhuJ.andB.S.Weir(1998).Mixedmodelapproachesforgeneticanalysisofquantitativetraits.InAdvancedTopicsinBiomathematics:ProcceedingsofInternationalConferenceonMathematicalBiology.pp:321~330.EditedbyL.S.Chen,S.G.Ruan,andJ.Zhu,WorldScientificPublishingCo.,Singapore.
+E26.&nbsp;Benmoussa,M.,J.Zhu,J.Q.Yan,C.X.He,andP.Wu(1998).QTLmappingforyieldcomponentsacrossenvironmentsinrice(OryzasativaL.).InAdvancedTopicsinBiomathematics:ProcceedingsofInternationalConferenceonMathematicalBiology.pp:15-20.EditedbyL.S.Chen,S.G.Ruan,andJ.Zhu,WorldScientificPublishingCo.,Singapore.
+E27.&nbsp;Yan,J.Q.,J.Zhu,C.X.He,M.Benmoussa,andP.Wu(1998).QTLanalysisfordevelopmentalbehaviorofplantheightinrice(OryzasativaL.).InAdvancedTopicsinBiomathematics:ProcceedingsofInternationalConferenceonMathematicalBiology.pp:285-290.EditedbyL.S.Chen,S.G.Ruan,andJ.Zhu,WorldScientificPublishingCo.,Singapore.&nbsp;
+E28.&nbsp;Wu,J.X.,H.M.Xu,J.Zhu(1998).Anapproachtoeliminatingsystematicerrorsingeneticanalysis.InAdvancedTopicsinBiomathematics:ProcceedingsofInternationalConferenceonMathematicalBiology.PP:265-270.EditedbyL.S.Chen,S.G.Ruan,andJ.Zhu,WorldScientificPublishingCo.,Singapore.&nbsp;
+E29.&nbsp;Lou,X.Y.,J.Zhu,Q.D.Zhang,R.C.ZangandY.Cheng.(1998).AgeneticstudyontheeffectsofOpaque-2andpolygenesonkernelqualitytraitsinmaize.InAdvancedTopicsinBiomathematics:ProcceedingsofInternationalConferenceonMathematicalBiology.pp:143-148.EditedbyL.S.Chen,S.G.Ruan,andJ.Zhu,WorldScientificPublishingCo.,Singapore.&nbsp;
+E30.&nbsp;Yan,X.F.,J.Zhu,S.Y.XuandY.H.Xu.(1999).Geneticeffectsofembryoandendospermforfourmaltingqualitytraitsofbarley.Euphytica,106:27-34&nbsp;
+E31.&nbsp;Shi,C.H.,J.Zhu,X.Yang,Y.G.YuandJ.G.Wu.(1999).Geneticanalysisforproteincontentinindicarice.Euphytica,107:135-140&nbsp;
+E32.&nbsp;Chen,J.G.andJ.Zhu.(1999).Geneticeffectsandgenotype&acute;environmentinteractionsforcookingqualitytraitsinindica-japonicacrossesofrice(OryzasativaL.).Euphytica,109:9-15&nbsp;
+E33.&nbsp;Xu,Z.C.,J.Zhu.(1999).Anapproachforpredictingheterosisbasedonanadditive,dominanceandadditive&acute;additivemodelwithenvironmentinteraction.Heredity,82(5):510-517.
+E34.&nbsp;Yan,J.Q.,J.Zhu,C.X.He,M.Benmoussa,P.Wu.(1999).Molecularmarker-assisteddissectionofgenotypebyenvironmentinteractionforplanttypetraitsinrice(OryzasativaL.).CropSci.39(2):538-544.&nbsp;
+E35.&nbsp;Wang,D.L.,J.Zhu,Z.K.Li,andA.H.Paterson.(1999).MappingQTLswithepistaticeffectsandQTL&acute;environmentinteractionsbymixedlinearmodelapproaches.Theor.Appl.Genet.,99:1255-1264.
+E36.&nbsp;Shi,C.W.,J.Zhu,J.G.Wu,X.E.YangandY.G.Yu.(1999).Analysisofembryo,endosperm,cytoplasmicandmaternaleffectsforheterosisofproteinandlysinecontentinindicahybridrice.PlantBreeding,1999,118(6)574-576
+E37.&nbsp;Shi,C.H.,J.Zhu,andY.G.Yu,(2000).Genotype&times;environmentinteractioneffectsandgenotypiccorrelationsfornutrientqualitytraitsofIndicarice(OryzasativaL.).IndianJournalofAgriculturalScience,70(2):85-89.
+E38.&nbsp;Hu,J.,J.Zhu,andH.M.Xu.(2000).Methodsofconstructingcorecollectionsbystepwiseclusterwiththreesamplingstrategiesbasedongenotypicvaluesofcrops.Theor.Appl.Genet.,101:264-268.
+E39.&nbsp;Shi,C.H.,J.Zhu,J.G.WuandF.LFan.(2000).Geneticandgenotype&times;environmentinteractioneffectsfromembryo,endospermandmaternalplantforricegrainshapetraitsofIndicarice.FieldCropResearch68:191-198.
+E40.&nbsp;WuJ.,J.N.,Jenkins,J.C.McCarty,Jr.,andJ.Zhu.(2000).ComparisonofQTLmappingpropertiesfortwomethodsofRIdevelopment.P.DuggerandD.RichterP565.Proc.BeltwideCottonConf.Jan.4-8.SanAntonio,TX.
+E41.&nbsp;WuJ.,J.JenkinsJ.,P.Tan,J.McCartyJr.,J.Zhu,andS.Saha.(2001).GeneticmappingofQTLandDNAmarkersinUplandcotton(Gossypiumhirsutum)usingrecombinantinbredlines.P218.TheInternationalConferenceonPlantandAnimalGenomeIXJanuary13-17,SanDiego,CA.
+E42.&nbsp;Cao,G.Q,J.Zhu,C.X.He,Y.M.Gao,J.Q.Yan,andP.Wu.(2001).ImpactsofEpistasisandQTL&acute;EnvironmentInteractionforDevelopmentalBehaviorofPlantHeightinRice(OryzasativaL.).Theor.Appl.Genet.,103:153-160.
+E43.&nbsp;ShiC.H.,J.G.Wu,L.J.Fan,J.Zhu,andP.Wu.(2001).Developmentalgeneticanalysisofbrownriceweightunderdifferentenvironmentalconditionsinindicarice.ActaBotanicaSinica,43(6):603-609.&nbsp;
+E44.&nbsp;Wu,R.L.,C.X.Ma,J.Zhu,andG.Casella.(2002).Mappingepigeneticquantitativetraitloci(QTL)alteringadevelopmentaltrajectory.Genome45:28-33.
+E45.&nbsp;Lou,X.Y.,J.Zhu.(2002).Analysisofgeneticeffectsofmajorgenesandpolygenesonquantitativetraits:I.Geneticmodelfordiploidplantsandanimals.Theor.Appl.Genet.,104(2-3):414-421.
+E46.&nbsp;Lou,X.Y.,J.Zhu.(2002).Analysisofgeneticeffectsofmajorgenesandpolygenesonquantitativetraits:II.Geneticmodelforseedtraitsofcrops.Theor.Appl.Genet.,105:964-971.
+E47.&nbsp;Shi,C.H.,J.G.Wu,X.B.Lou,J.ZhuandP.Wu.(2002).Geneticanalysisoftransparencyandchalkinessareaatdifferentfillingstagesofrice(OryzasativaL.).FieldCropResearch,76:1-9.
+E48.&nbsp;Ye,Z.H.,Z.Z.LuandJ.Zhu.(2003).Geneticanalysisfordevelopmentalbehaviorofsomeseedqualitytraitsinuplandcotton(GossypumhirsutumL.).Euphytica,129(2):183-191.
+E49.&nbsp;Liu,P.Y.,J.Zhu,X.Y.LouandY.Lu.(2003).Amethodformarker-assistedselectionbasedonQTLswithepistaticeffects.Genetica,119:75-86.&nbsp;
+E50.&nbsp;Wu,J.,J.N.Jenkins,J.Zhu,J.C.McCartyJr.,andC.E.Watson.(2003).Comparisonsofquantitativetraitlocusmappingpropertiesbetweentwomethodsofrecombinantinbredlinedevelopment.Euphytica,132:159-166.&nbsp;
+E51.&nbsp;Wu,J.,J.N.Jenkins,J.Zhu,J.C.McCartyJr.,andC.E.Watson.(2003).MonteCarlosimulationsonmarkergroupingandordering.TheoreticalandAppliedGenetics,107:568-573.&nbsp;
+E52.&nbsp;Liu,P.,J.Zhu,andL.Yan,(2004).Marker-assistedselectioninsegregatinggenerationsofself-fertilizingcrops.TheoreticalandAppliedGenetics,109(2):370-376.
+E53.&nbsp;Zhao,W.,J.Zhu,G.M.MariaandR.Wu.(2004).Aunifiedstatisticalmodelforfunctionalmappingofenvironment-dependentgeneticexpressionandgenotype&times;environmentinteractionsforontogeneticdevelopment.Genetics,168(3):1751-1762.
+E54.&nbsp;Wu,J.,J.N.Jenkins,J.C.McCartyJr.,andJ.Zhu.(2004).Geneticassociationofyieldwithitscomponenttraitsinarecombinantinbredlinepopulationofcotton.Euphytica,140:171-179.&nbsp;
+E55.&nbsp;Lu,Y.J.Zhu,andP.Liu.(2005).Atwo-stepstrategyfordetectingdifferentialgeneexpressionofcDNAmicroarraydata.CurrentGenetics.47:121-131.&nbsp;
+E56.&nbsp;Yang,J.,andJ.Zhu.(2005).MethodsforpredictingsuperiorgenotypesundermultipleenvironmentsbasedonQTLeffects.THeoreticalandAppliedGenetics,110:1268-1274.&nbsp;
+E57.&nbsp;WangX.S.,W.R.Wu,G.L.Jin,andJ.Zhu.(2005).Genome-wideidentificationofRgenesandexploitationofcandidateRGAmarkersinrice.ChineseScienceBulletin,50(11):1120-1125.&nbsp;
+E58.&nbsp;LouX.Y,,J.Zhu,Q.D.Zhang,R.C.Zang,Y.B.Chen,Z.L.Yu,andY.J.Zhao,(2005).Geneticcontroloftheopaque-2geneandbackgroundpolygenesoversomekerneltraitsinmaize(ZeamaysL.).Genetica124(2):291-300.&nbsp;
+E59.WangX.S.,X.Q.Zhao,J.Zhu,andW.RW-(2005).Genome-wideInvestigationofIntronLengthPolymorphismsandTheirPotentialasMolecularMarkersinRice(OryzasativaL.).DNAResearch12,417-427.
+E60.XuH.M.,Y.J.Mei,J.Hu,J.Zhu,&nbsp;andP.Gong.(2006).Samplingacorecollectionofislandcotton(GossypiumbarbadenseL.)basedonthegenotypicvaluesoffibertraits.GeneticResourcesandCropEvolution53(3):515-521.&nbsp;
+E61.Lou,X.Y.,J.Z.Ma,M.C.K.Yang,J.Zhu,P.Y.Liu,H.W.Deng,R.C.Elston,andM.D.Li.(2006).Improvementofmappingaccuracybyunifyinglinkageandassociationanalysis.Genetics172:647-661.&nbsp;
+E62.PanG.,X.Y.Zhang,K.D.Liu,J.W.Zhang,X.Z.Wu,J.Zhu,J.M.Tu.(2006).Map-basedcloningofanovelricecytochromeP450geneCYP81A6thatconfersresistancetotwodifferentclassesofherbicides.PlantMolBiol61:933-943.&nbsp;
+E63.CuiY.H.,J.Zhu,andR.L.Wu.(2006).Functionalmappingforgeneticcontrolofprogrammedcelldeath.PhysiolGenomics25:458-469.&nbsp;
+E64.CuiY.H.,D.Y.Kim,andJ.Zhu.(2006).OnthegeneralizedPoissonregressionmixturemodelformappingquantitativetraitlociwithcountdata.Genetics174(4):2159-2172.&nbsp;
+E65.Xiao,B.G.，J.Zhu,X.P.Lu,Y.F.Bai,Y.P.Li.(2007).Analysisongeneticcontributionofagronomictraitstototalsugarinflue-curedtobacco(NicotianatabacumL.).FieldCropsResearch.102(2):98-103.&nbsp;
+E66.WangX.S.,H.B.Zhu,G.L.Jin,H.L.Liu,W.R.Wu,andJ.Zhu.(2007).Genome-scaleidentificationandanalysisofLEAgenesinrice(OryzasativaL.).PlantScience172(2):414-420.&nbsp;
+E67.Lou,X.Y.,G.B.Chen,L.Yan,J.Z.Ma,J.Zhu,R.C.Elston,andM.D.L.(2007).Ageneralizedcombinatorialapproachfordetectinggene-by-geneandgene-by-environmentinteractionswithapplicationtonicotinedependence.TheAmericanJournalofHumanGenetics,80:1125-1137.&nbsp;
+E68.Yang,J.,J.Zhu,andR.W.Williams.(2007).Mappingthegeneticarchitectureofcomplextraitsinexperimentalpopulations.Bioinformatics,23:1527-1536.&nbsp;
+E69.Gao，M.,andJ.Zhu,(2007).MappingQTLswithdigenicepistasisundermultipleenvironmentsandpredictingheterosisbasedonQTLeffects.TheoreticalandAppliedGenetics,115(3):325-333.&nbsp;
+E70.Wu,J.S.,B.Zhang,CuiYH,etal.,(2007).Geneticmappingofdevelopmentalinstability:Design,modelandalgorithm.Genetics,176(2):1187-1196.&nbsp;
+E71.Wu,J.S.,Y.R.Zeng,J.Q.Huang,etal.,(2007).Functionalmappingofreactionnormstomultipleenvironmentalsignals.GeneticalResearch,89(1):27-38.&nbsp;
+E72.Cui,Y.H.,R.L.Wu,G.Casella,andJ.Zhu,(2008).Nonparametricfunctionalmappingofquantitativetraitlociunderlyingprogrammedcelldeath.StatisticalApplicationsinGeneticsandMolecularBiology,7(1):1-30.&nbsp;
+E73.Liu,G.F.,J.Yang,H.M.Xu,Y.Hayat,andJ.Zhu,(2008).Geneticanalysisofgrainyieldconditionedonitscomponenttraitsinrice(OryzasativaL.).AustralianJournalofAgriculturalResearch,59:189&ndash;195.&nbsp;
+E74.Yang,J.,C.C.Hu,H.Hu,R.D.Yu,Z.Xia,X.Z.Ye,andJ.Zhu,(2008).QTLNetwork:mappingandvisualizinggeneticarchitectureofcomplextraitsinexperimentalpopulations.Bioinformatics&nbsp;24(5):721-723.&nbsp;
+E75.Yang,J.,W.R.Wu,andJ.Zhu,(2008).Mappinginterspecificgeneticarchitectureinahost&ndash;parasiteinteractionsystem.Genetics,178:1737-1743.&nbsp;
+E76.Han,L,D.,H.M.Xu,J.Zhu,andX,Y,Lou,(2008).Analysisofgeneticeffectsofnuclear-cytoplasmicinteractiononquantitativetraits:Geneticmodelsforseedtraitsofplants.TheoreticalandAppliedGenetics,116(6):769-776.&nbsp;
+E77.Wang,X.,M.Zhang,J.Zhu,S.Geng.(2008).SpectralpredictionofPhytophthorainfestansinfectionontomatoesusingartificialneuralnetwork(ANN).InternationalJournalofRemoteSensing,29(6):1693-1706.&nbsp;
+E78.Han,L.D.,J.Zhu.(2008).Usingmatrixofthresholdingpartialcorrelationcoefficientstoinferregulatorynetwork.Biosystems,91(1):158-165.&nbsp;
+E79.Cui,Y.H.,R.L.Wu,G.Casella,andJ.Zhu.(2008).Nonparametricfunctionalmappingofquantitativetraitlociunderlyingprogrammedcelldeath.StatisticalApplicationsinGeneticsandMolecularBiology,7(1):Article4.&nbsp;
+E80.Lou,X.Y.,G.B.Chen,L.Yan,J.Z.Ma,J.Zhu,R.C.Elston,andM.D.Li,(2008).Acombinatorialapproachtodetectinggene-geneandgene-environmentinteractionsinfamilystudies.TheAmericanJournalofHumanGenetics,83:457-467.&nbsp;
+E81.Chen,G.B.,T.J.Payne,X.Y.Lou,J.Z.Ma,JZhu,andM.D.Li.(2008).Associationofamyloidprecursorprotein-bindingprotein,familyB,member1withnicotinedependenceinAfricanandEuropeanAmericansmokers.HumGenet,124:393&ndash;39.&nbsp;
+E82.Hayat,Y.,J.Yang,H.M.Xu,andJ.Zhu.(2008).InfluenceofoutliersonQTLmappingforcomplextraits.JournalofZhejiangUniversity(SCIENCE)B,9(12):931-937.&nbsp;
+E83.Wu,J.X.,O.A.Gutierrez,J.N.Jenkins,J.C.McCarty,andJ.Zhu.(2009).QuantitativeanalysisandQTLmappingforagronomicandfibertraitsinanRIpopulationofuplandcotton.EUPHYTICA,165(2):231-245.&nbsp;
+E84.Yang,J.,Y.Y.Zou,andJ.Zhu.(2009).IdentifyingdifferentiallyexpressedgenesinhumanacuteleukemiaandmousebrainmicroarraydatasetsutilizingQTModel.Functional&amp;IntegrativeGenomics,9(1):59-66.&nbsp;
+E85.Zhang,W.Y.,H.M.Xu,andJ.Zhu.(2009).Indexselectiononseedtraitsunderdirect,cytoplasmicandmaternaleffectsinmultipleenvironments.JournalofGeneticsandGenomics,36(1):41-4.&nbsp;
+E86.Xia,Z.,Z.H.Zhu,J.Zhu,andR.H.Zhou.(2009).RecognitionmechanismofsiRNAbyViralp19suppressorofRNAsilencing:Amoleculardynamicsstudy.BiophysicalJournal,96:1761-1769.
+E87.Weir,B.S,W.G.Hill,J.Zhu,andZ.B.Zeng.(2009).Thethirdinternationalconferenceofquantitativegenetics.Genetica,136(2):211-212.
+E88.Gong,Y.G.,C.N.Wue,Q.H.Xing,X.Z.Zhao,J.Zhu,andL.He.(2009).Atwo-methodmeta-analysisofNeuregulin1(NRG1)associationandheterogeneityinschizophrenia.SchizophreniaResearch,111(1-3):109-114.
+E89.Xia,Z.,G.L.Jin,J.Zhu,andR.H.Zhou.(2009).UsingamutualinformationbasedsitetransitionnetworktomapthegeneticevolutionofinfluenzaA/H3N2virus.Bioinformatics,25(18):2309&ndash;2317.
+E90.Shen,Y.F.andJ.Zhu.(2009).Poweranalysisofprincipalcomponentsregressioningeneticassociationstudies.JournalofZhejiangUniversity-ScienceB,10(10):721-730.
+E91.GongY.G.,C.N.Wue,Q.H.Xing,X.Z.Zhao,J.Zhua,andL.He.(2009).Atwo-methodmeta-analysisofNeuregulin1(NRG1)associationandheterogeneityinschizophrenia.SchizophreniaResearch,111(1-3):109-114.
+E92.Zhao,M.,H.G.Yu,andJ.Zhu.(2009).Effectsofapopulationflooronthepersistenceofchaosinamutualinterferencehost-parasitoidmodel.ChaosSolitons&amp;Fractals,42:1245-1250.&nbsp;
+E93.Zheng,W.J.,J.Yang,andJ.Zhu.(2010).QTLNetworkR:aninteractiveRpackageforQTLvisualization.JournalofZhejiangUniversity-ScienceB,11(7):512-515.&nbsp;
+E94.Liu,H.L.,J.Zhu.(2010).Analysisofthe3'endsoftRNAasthecauseofinsertionsitesofforeignDNAinProchlorococcus.JournalofZhejiangUniversity-ScienceB,11(9):708-718.&nbsp;
+E95.Zhao,M.,L.M.Zhang,andJ.Zhu.(2010).Dynamicsofahost-parasitoidmodelwithprolongeddiapauseforparasitoid.CommunicationsinNonlinearScienceandNumericalSimulation,16(1):455-462.&nbsp;
+E96.Shen,Y.F.,Z.Y.Lin,andJ.Zhu.(2011).Shrinkage-basedregularizationtestsforhigh-dimensionaldatawithapplicationtogenesetanalysis.ComputationalStatistics&amp;DataAnalysis,55(7):2221-2233.&nbsp;
+E97.ChenG.P.,Y.Xu,H.M.Xu,M.D.Li,J.Zhu,andX.Y.Lou.(2011).PracticalandTheoreticalConsiderationsinStudyDesignforDetectingGene-GeneInteractionsUsingMDRandGMDRApproaches.PLoSONE,6(2):e16981.
+E98.LiuY,H.Xu,S.Chen,X.Chen,Z.Zhang,Z.H.Zhu,X.Y.Qin,L.Hu,J.Zhu,G.P.Zhao,andX.Y.Kong.(2011).Genome-wideinteraction-basedassociationanalysisidentifiedmultiplenewsusceptibilitylociforcommondiseases.PLoSGenet,7(3):e1001338.&nbsp;
+E99.YeC.Y.,Y.H.Cui,C.S.Wei,R.C.Elston,J.Zhu,andQ.Lu.(2011).Anon-parametricmethodforbuildingpredictivegenetictestsonhigh-dimensionaldata.HumanHeredity,71:161-170.&nbsp;
+E100.ShenY.F.,Z.Y.Lin,andJ.Zhu(2011)Penalizedindependencerulefortestinghigh-dimensionalhypotheses.CommunicationsinStatistics-TheoryandMethods,40:13,2424-2435&nbsp;&nbsp;
+E101.Wu,C.,Li,G.X.Zhu,J.andCui,Y.H.(2011).Functionalmappingofdynamictraitswithrobustt-distribution.PLoSONE,6(9):e24902.
+E102.ChenG.P.,J.Zhu,andX.Y.Lou.(2011).Afasterpedigree-basedgeneralizedmultifactordimensionalityreductionmethodfordetectinggene-geneinteractions.(2011).StatInterface.1;4(3):295-304
+E103.XuL.,M.Henke,J.Zhu,W.Kurth,andG.Buck-Sorlin.(2011).Afunctional-structuralmodelofricelinkingquantitativegeneticinformationwithmorphologicaldevelopmentandphysiologicalprocesses.(2011).AnnalsofBotany,107(5),817-828
+E104.ZhaoM.,X.Wang,H.Yu,andJ.Zhu.(2011).Dynamicsofanecologicalmodelwithimpulsivecontrolstrategyanddistributedtimedelay.MathematicsandComputersinSimulation,82(8):1432-1444
+E105.CaoP.,K.H.Jung,D.Choi,D.Hwang,J.Zhu,andPCRonald.(2012).Thericeoligonucleotidearraydatabase:anatlasofricegeneexpression.Rice,doi:10.1186/1939-8433-5-17&nbsp;
+E106.ZhuZ.H.,C.H.Zhang,X.S.Wang,M.N.Cook,R.Williams,L.Lu,andJ.Zhu.(2012).Dissectinganxiety-relatedQTLsinmicebyunivariateandmultivariatemapping.ChineseScienceBulletin,57(21),2727-2732
+E107.YangD.G.,C.Y.Ye,X.F.Ma,Z.H.Zhu,X.J.Zhou,H.F.Wang,Q.Q.Meng,X.Y.Pei,S.X.Yu,andJ.Zhu.(2012).Anewapproachtodissectingcomplextraitsbycombiningquantitativetraittranscript(QTT)mappinganddiallelcrossanalysis.ChineseScienceBulletin,57(21),2695-2700.
+E108.ChenG.B.,Z.X.Zhu,F.T.Zhang,andJ.Zhu.(2012).Quantitativegeneticanalysisstationforthegeneticanalysisofcomplextraits.ChineseScienceBulletin,57(21),2721&#61485;2726
+E109.XuH.M.andJ.Zhu.(2012).StatisticalapproachesinQTLmappingandmolecularbreedingforcomplextraits.57(21),ChineseScienceBulletin,57(21),2637-2644
+E110.L.F.Xu,W.L.Ding,M.Henke,W.Kurth，J.Zhu，andG.B.Sorlin.(2012).SimulatingSuperiorGenotypesforPlantHeightbasedonQTLs:TowardsVirtualBreedingofRice.IEEE4thInternationalSymposiumonPlantGrowthModeling,Simulation,VisualizationandApplications.&nbsp;
+E111.ZhuZ.X.,X.R.Tong,Z.H.Zhu,M.M.Liang,W.Y.Cui,K.K.Su,M.D.Li,J.Zhu.(2013).&nbsp;DevelopmentofGMDR-GPUforgene-geneinteractionanalysisanditsapplicationtoWTCCCGWASdatafortype2diabetes.PLoSONE,8(4)e61943
+E112.WeiH.L.,LiW.,SunX.W.,ZhuS.J.,J.Zhu.(2013).Systematicanalysisandcomparisonofnucleotide-bindingsitediseaseresistancegenesinadiploidcottonGossypiumraimondii.PLoSONE,8(8):e68435
+E113.ZhouL.Y.,LiR.Y.,FanL.J.,ShiY.W.,WangZ.H.,XieS.D.,GuiY.J.,RenX.L.,J.Zhua.2013.Mappingepistasisandenvironment&times;QTXinteractionbasedonfour-omicsgenotypesforthedetectedQTXlocicontrollingcomplextraitsintobacco.TheCropJournal.http://dx.doi.org/10.1016/j.cj.2013.09.001
+&nbsp;
+			
+				
+			Researchwork
+			
+			Genetics&PlantBreeding-StatisticGenetics-Bioinformatics-ComplexTraits
+			
+				
+			Contact
+			
+			Phone:+86-571-88982731
+			E-mail:jzhu@zju.edu.cn
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:JunZhu
+		Units:InstituteofBioinformatics,ZhejiangUniversity
+		Title:Professor
+		Myhomepagehasbeenvisited9005times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+Books
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	JunZhu
+ChineseWebsiteofJunZhu
+JunZhuSCICitation
+
+
+
+Youarevisitor:9005
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

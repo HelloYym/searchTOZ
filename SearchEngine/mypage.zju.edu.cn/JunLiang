@@ -1,0 +1,261 @@
+
+
+
+
+
+HomepageofProf.JunLiang（梁军）-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0093182";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	HomepageofProf.JunLiang（梁军）
+浙江大学
+
+	永久链接:http://mypage.zju.edu.cn/JunLiang&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;
+&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;1963年5月生。1984年在清华大学自动化系获工业自动化专业工学学士学位。1988年进入浙江大学工业控制技术研究所攻读硕士学位并提前攻博，1993年获工学博士学位。毕业后留校工作至今，现为浙江大学控制科学与工程学系教授、博士生导师。
+&nbsp;
+学习经历：
+&nbsp;
+1988.9&ndash;1993.11&nbsp;&nbsp;&nbsp;&nbsp;浙江大学控制科学与工程学系硕士生、博士生
+1979.9&ndash;1984.7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;清华大学自动化系本科
+&nbsp;
+工作经历：
+&nbsp;
+1993.12&ndash;至今&nbsp;&nbsp;&nbsp;&nbsp;浙江大学控制科学与工程学系副教授（1997）、教授（2003）、博导（2004）
+1984.8&ndash;1988.8&nbsp;&nbsp;&nbsp;&nbsp;南京工业大学助教、讲师
+
+&nbsp;
+教学经历：
+&nbsp;
+研究生教学：
+（1）自1996年以来，共承担研究生课程两门，其中主讲研究生学位课程一门，参讲研究生必修课程一门，授课学生超过500人次；（2）自2004年以来，共培养博士研究生11名；（3）自1997年以来，共培养硕士研究生30名；（4）2001~2011年，担任博士生德育导师。
+&nbsp;
+本科生教学：
+（1）自2000年以来，一直主讲一门本科生专业课程，授课学生超过1000人次；（2）自2011年以来，主讲浙江大学竺可桢学院核心通识课一门和浙江大学全校性核心通识课一门；（3）自2012年以来，主讲浙江大学控制系本科生专业课一门；（4）自1999年以来，指导本科生毕业设计30人次。
+
+
+&nbsp;研究经历：
+&nbsp;
+&nbsp;&nbsp;&nbsp;近年来，（1）作为项目负责人主持国家自然科学基金项目二项，国家863计划项目二项，国家教育部博士点专项基金二项（含优先发展领域一项），浙江省公益性技术应用研究计划项目一项，中国石化集团公司科技攻关项目子课题一项，中广核工程有限公司科技攻关课题二项，中国石化齐鲁分公司科技攻关项目四项，中国石化扬子分公司、天津分公司、广州分公司、茂名分公司、中原乙烯分公司科技攻关项目各一项，中国石油辽阳公司鞍山分公司科技项目一项和横向科技开发课题若干项。（2）作为主要研究成员承担并完成了国家&lsquo;973&rsquo;项目、国家863项目、国家科技攻关计划项目、以及其它省部级科研项目和横向委托课题十几项。（3）主要研究方向为故障检测与诊断、故障恢复控制、复杂工业系统建模/控制/优化、工业软测量技术、工业过程监控软件平台的设计与开发、石油化工过程和能源（电力）系统先进控制与实时操作优化等，在上述领域发表学术论文90余篇（其中SCI/EI论文50余篇），出版教材两本（其中主编一本）、参与编著辞书一部，国家发明专利五项，有九项鉴定成果，以第一完成人获省部级科技进步三等奖一项。
+&nbsp;
+联系方式：
+&nbsp;
+梁军&nbsp;&nbsp;&nbsp;博士、教授、博士生导师
+电话/Fax：&nbsp;&nbsp;&nbsp;0571-87953883
+Email：jliang@iipc.zju.edu.cn
+办公地址：浙江大学玉泉校区新工控大楼404室
+实验室地址：浙江大学玉泉校区新工控大楼407室，浙江大学玉泉校区教九218室
+邮寄地址：浙江省杭州市西湖区浙大路38号，浙江大学玉泉校区控制系工业控制研究所，
+邮编：310027
+&nbsp;
+			
+				
+			工作研究领域
+			
+			[1]一般性复杂系统的故障检测与诊断、故障恢复控制策略；
+
+[2]基于数据驱动技术的复杂工业系统一体化建模、控制和优化方法；
+
+[3]复杂工业系统软测量技术及实现；
+
+[4]实际工业现场的多控制回路性能评价与智能化整定技术；
+
+[5]工业过程监控软件平台的设计与开发；
+
+[6]石油化工过程和能源（电力）系统先进控制与实时操作优化。
+
+			
+				
+			联系方式
+			
+			电话：0571-87953883			电子信箱：jliang@iipc.zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：梁军
+		单位：控制科学与工程学系
+		职称：教授
+		我的主页共被访问了31328次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		研究方向
+	教学工作
+	工作研究项目
+	著作出版与论文发表
+	发明专利、软件著作权、奖励
+	指导研究生
+	欢迎加入！
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	浙江大学
+浙江大学控制科学与工程学系
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

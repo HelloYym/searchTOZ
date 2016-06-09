@@ -1,0 +1,210 @@
+
+
+
+
+
+朱龙观教授-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0095107";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	朱龙观教授
+
+
+	永久链接:http://mypage.zju.edu.cn/0095107&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			1981.9-1985.7北京师范大学化学系学习；1989.9-1991.12杭州大学化学系读硕士研究生；1992.9-1995.6浙江大学化学系攻读博士学位．1999.1-2000.1,2000.12-2001.6京都大学访学、台湾大学博士研究员。
+1996年晋升副教授，2000年晋升教授，1997年为硕士生导师，2002年为博士生导师。
+&nbsp;
+			
+				
+			工作研究领域
+			
+			（1）金属串分子导线：利用三核和五核多吡啶胺金属串作为起始合成原料，通过对轴向二个配位点的改造设计，引入各种扩展配体，合成长度各异（可按需设计）、连接点不同的新型金属串分子导线材料。
+（2）磺基苯甲酸配合物：制备第一过渡族以及贵金属磺基苯甲酸配合物，研究其结构，尤其是作为催化、导电以及荧光材料的应用。
+			
+				
+			联系方式
+			
+			电话：0571-87963867			电子信箱：chezlg@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：朱龙观
+		单位：化学系
+		职称：教授
+		我的主页共被访问了26787次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	发表论文
+	出版著作
+	化学家看世界
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,217 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0086353";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0086353&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			许建宇，男，生于1965年1月，浙江余姚人，汉族
+&nbsp;浙江大学法学院法律系副教授，硕士生导师
+
+&nbsp;1986年毕业于北京大学法律学系经济法专业，获法学学士学位，随即开始教师生涯，执教期间又在职攻读浙江大学法学院法律系经济法学专业硕士研究生，2004年获法学硕士学位
+
+现任职：
+&nbsp;浙江大学法学院本科生党总支副书记
+&nbsp;浙江大学法学院工会委员会副主席兼法律系工会小组负责人
+&nbsp;浙江省人事争议仲裁委员会兼职仲裁员
+&nbsp;浙江泽大律师事务所兼职律师
+学术兼职：
+&nbsp;中国法学会财税法学研究会理事
+&nbsp;中国劳动法学研究会理事、学术委员会委员
+&nbsp;浙江省劳动和社会保障学会理事、专家委员会组成人员
+
+&nbsp;先后为本科生、研究生、专科生等开设《劳动法》（又名《劳动与社会保障法》）、《经济法》、《财政金融法》、《合同法》等课程
+
+&nbsp;主要研究劳动法学和经济法学，代表性著作有《劳动法新论》、《经济法学》等，参与普通高等教育&ldquo;十五&rdquo;国家级规划教材《劳动法学》的编写，参编各类书籍30余本，在国家一、二级学术刊物及其他报刊上发表论文40余篇，获得过若干奖项
+&nbsp;主持过省级研究课题若干项，并参与过国家社会科学基金项目的研究
+			
+				
+			工作研究领域
+			
+			主攻劳动法学、经济法学
+尤以劳动法学领域的科研成果居多，在国内劳动法学界有一定影响力
+
+			
+					
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：许建宇
+		单位：光华法学院法律系
+		职称：副教授
+		我的主页共被访问了1910次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

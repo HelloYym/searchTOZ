@@ -1,0 +1,214 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0092426";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0092426&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			吴红瑛，女，1963年8月出生，汉族，浙江义乌人，中共党员，西南政法学院法学学士、浙江大学经济法学硕士。现任浙江大学法学院副教授、思政系总支副书记、法律基础教研室主任，并兼任浙江省浙经律师事务所律师。
+&nbsp;&nbsp;&nbsp;&nbsp;1987年毕业于西南政法学院法律系，分配至浙江省金华市中级人民法院，先在金华市婺城区婺南人民法庭基层锻炼一年，此后一直在金华市中级人民法院民事审判庭工作；1992年12月调入浙江大学从事法律教学与研究工作，除了负责全校公共基础课&mdash;&mdash;法律基础课程的教学、组织和管理工作外，还曾主办两届法律专业的辅修班，主讲过法律基础、民法学、经济法学、金融法学、诉讼法学、律师制度与律师实务等6门课程，具有丰富的教学经验和管理经验，尤其是根据自身特长（曾任法官和兼任律师的实际工作经历）采用的案例教学法深受学生欢迎和好评，教学效果在历年课程评估中均获优良，并曾获浙江大学优秀教学成果二等奖。发表论文、调查报告等10余篇，主编或参加编著教材、著作10部，主持学校课题5项、省教育厅课题2项、教育部课题1项，作为主要成员参加省社科规划课题2项。
+&nbsp;&nbsp;&nbsp;&nbsp;此外，曾在浙江省知识产权局挂职（局长助理）锻炼一年半，分管专利行政执法工作，取得了知识产权法律业务培训的结业证。
+			
+				
+			工作研究领域
+			
+			法律基础教学
+民法
+经济法基础理论
+公司法
+知识产权法
+
+
+			
+				
+			联系方式
+			
+			电话：88273008			电子信箱：why1963@sohu.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：吴红瑛
+		单位：校长办公室
+		职称：副教授
+		我的主页共被访问了4707次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

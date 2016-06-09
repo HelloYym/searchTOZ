@@ -1,0 +1,207 @@
+
+
+
+
+
+蒋斌波-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0004108";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	蒋斌波
+
+
+	永久链接:http://mypage.zju.edu.cn/jiangbb&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			主要在聚合反应工程，过程信息工程、优化与强化和烯烃配位聚合等方面开展科研工作，并为此先后承担了国家自然科学基金、国家863计划课题、中国石油化工集团公司和中国石油天然气集团公司基础研究等多项项目，研究成果已在Chem.Eng.Sci.，Ind.Eng.Chem.Res.，JournalofPolymerSciencePartB-PolymerPhysics，JournalofAppliedPolymerScience，Carbon，PolymerInternational，Surface&amp;CoatingsTechnology等著名期刊发表论文多篇。在研究过程中取得了一系列的成果，如开发了面向流程工业的过程监控软件，并在中国石化集团下属全部六套气相法聚乙烯装置上整体推广，取得了良好的社会、经济效益；为&ldquo;十一五&rdquo;国家科技支撑计划课题&ldquo;30万吨/年气相法聚乙烯成套技术开发及工业应用&rdquo;承担监控软件包的开发任务。
+			
+				
+			工作研究领域
+			
+			聚合反应工程，过程信息工程，烯烃配位聚合
+			
+				
+			联系方式
+			
+			电话：0571-87952254			电子信箱：jiangbb@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：蒋斌波
+		单位：化学工程与生物工程学系
+		职称：副教授
+		我的主页共被访问了2950次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		专利成果
+	教学工作
+	工作研究项目
+	发表论文
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

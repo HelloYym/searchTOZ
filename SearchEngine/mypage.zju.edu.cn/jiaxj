@@ -1,0 +1,233 @@
+
+
+
+
+
+和梦想跳舞-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0008437";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	和梦想跳舞
+
+
+	永久链接:http://mypage.zju.edu.cn/jiaxj&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+贾晓静,浙江大学地球科学系，教授，博士生导师。1994年9月-1998年7月，中国海洋大学，本科，海洋气象专业。1998年9月-2001年7月，中国气象科学研究院，硕士，气候专业。2002年9月-2007年3月，加拿大McGill大学大气海洋系，博士，气候动力学。2007年3月-2008年8月，加拿大McGill大学大气海洋系，博士后。2008年11月-至今，浙江大学地球科学系任教。
+
+
+
+
+
+
+
+
+主要发表文章：
+Jia,X.J*.andH.Lin,TheinfluenceoftropicalPacificSSTanomalyonsurfaceairtemperatureinChina.JournalofClimate,27(4),1425-1444,2014.
+Jia,X.J.,June-YiLee*,H.Lin,AndreaAlessandri,InterdecadalchangeintheNorthernHemisphereseasonalclimatepredictionskill:PartII.Predictabilityandpredictionskill.ClimateDynamics,DOI10.1007/s00382-014-2084-x,2014.
+Jia,X.J.,June-YiLee*,H.Lin,AndreaAlessandri,InterdecadalchangeintheNorthernHemisphereseasonalclimatepredictionskill:PartI.Theleading&nbsp;forcedmodeofatmosphericcirculation,ClimateDynamics,DOI10.1007/s00382-013-1988-1，2013.
+Jia,X.J*.andH.Lin,ThePossibleReasonsfortheMisrepresentedLong-TermClimateTrendsintheSeasonalForecastsofHFP2.MonthlyWeatherReview,&nbsp;141(9),3154-3169,2013.
+Jia,X.J.,H.Lin,J-YLeeandB.Wang,Season-dependentforecastskilloftheleadingforcedatmosphericcirculationpatternovertheNorthPacificandNorthAmericanregion.JournalofClimate,25(20),7248-7265,2012.
+Jia,X.J.andH.Lin，Influenceofforcedlarge-scaleatmosphericpatternsonsurfaceairtemperatureinChina.MonthlyWeatherReview,139(3),830-852,2011.
+Jia,X.J.andZhuPeiJun,ImprovingseasonalforecastskillofsummerprecipitationinChinausingadynamical-statisticalapproach.AtmosphericandOceanicScienceLetters,3(2):100-105,2010.
+Jia,X.J.,H.LinandJ.Derome，ImprovingseasonalforecastskillofNorthAmericansurfaceairtemperatureinfallusingapost-processingmethod,MonthlyWeatherReview,138(5):1843-1857,2010.
+Jia,X.J.,H.LinandJ.Derome,TheinfluenceoftropicalPacificforcingontheArcticOscillation,ClimateDynamics,32(4),495-509,2009.
+Jia,X.J.,J.DeromeandH.Lin,ComparisonofthelifecycleoftheNAOusingdifferentdefinitions,JournalofClimate,20(24):5992-6011,2007.&nbsp;
+程慧萍，贾晓静*，印度洋冬季海温异常对中国春季降水的影响，高原气象，inpress,2014.
+贾晓静*，韩启群，气候长期变化对地面气温季节预报的影响，气候与环境研究，16（6）：1-7,2010.
+Feng,G..L,Dong,W.J,Jia,X.J,Applicationofretrospectivetimeintegrationschemetothepredictionoftorrentialrain,ChinesePhysics&nbsp;,13(3),413-422,2004.
+贾晓静*,封国林,曹鸿兴,2003,中尺度自忆模式在强降水预报中的应用.大气科学,27(2),65-272.12
+贾晓静*,曹鸿兴,封国林,2002,一种动态数据的新建模法及其预报应用.应用气象学报,13(1),96-101.
+Feng,G..L,Dong,W.J,Jia,X.J,Onthedynamicsbehavourandinstabilityevolutionofair-seaoscialltor,ACTAPHYSICASINICA,51(6),1181-1185,2002.
+			
+				
+			工作研究领域
+			
+			气候动力，短期气候预测
+			
+				
+			联系方式
+			
+						电子信箱：jiaxiaojing@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：贾晓静
+		单位：理学院
+		职称：教授
+		我的主页共被访问了17036次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		发表论文
+	教学工作
+	工作研究项目
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

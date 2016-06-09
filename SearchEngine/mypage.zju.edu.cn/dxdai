@@ -1,0 +1,243 @@
+
+
+
+
+
+Prof.DaoxinDai'sHomepage/SiliconIntegratedNanophotonicsGroup(SING)-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0005179";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	Prof.DaoxinDai'sHomepage/SiliconIntegratedNanophotonicsGroup(SING)
+
+
+	永久链接:http://mypage.zju.edu.cn/dxdai&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;
+News/动态&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;发表论文&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Googlescholar/ResearcherID
+&nbsp;&nbsp;戴道锌，1979年出生，浙江大学光电信息工程学系教授、博士生导师，国家优秀青年基金获得者。现为中国光学学会-纤维光学与集成光学专业委员会委员，任国际SCI期刊《IEEEPhotonicsTechnology&nbsp;Letters》AssociateEditor、国际SCI期刊《OpticalandQuantumElectronics》执行主编（ExecutiveEditor）、OSA-CPL期刊《PhotonicsResearch》AssociateEditor、《中国光学》青年编委会委员。
+2000年6月毕业于浙江大学获学士学位，同年免试提前攻读博士学位，于2004年初赴瑞典皇家工学院电子工程学系学习与研究，并于2005年6月获博士学位。之后受聘于浙江大学历任助理研究员/师资博士后、副教授，于2011年12月晋升为教授。曾赴香港中文大学(2005年8月-12月)、韩国仁荷大学(2007年7月-8月)、美国加州大学圣巴巴拉分校UCSB（2008年11月-2011年9月）等机构访问研究。
+目前主要研究硅基集成光子器件及其在光通信/光互连、光传感等方面的应用，主持了国家自然科学基金（优青/面上）、浙江省杰出青年基金、国家863计划课题等项目，在Laser&amp;PhotonicsReviews、ACSNano、Light:Science&amp;Applications、OpticsLetters、IEEEPTL等著名国际光学期刊发表论文120余篇，已授权国家发明专利11项（第一发明人或唯一发明人10项）、美国发明专利1项（US8693509）。在Laser&amp;PhotonicsReviews、Light:Science&amp;Application（http://www.nature.com/lsa）、Nanophotonics、IEEEJSTQE等发表了7篇特邀综述长文（第一或通讯作者）。研究成果先后5次被《SPIENewsroom》、《IEEEPhotonicsSocietyNews》等专文报道，论文入选TopDownloadArticles、FeaturedArticle或SelectedArticle等10余次。全部论文被引2940余次(Googlescholar).
+&nbsp;在IPR、PhotonicsWest、PhotonicsAsia等重要国际学术会议上作特邀报告20余次；多次受邀担任本领域顶级会议美国光纤通信会议（OFC2013/2014/2015）、亚洲通信与光子会议（ACP2012/2013）、国际光子光学与激光技术会议（PHOTOPTICS2013/2014/2015）等技术程序委员会委员；任OFC2013、GFP2009、ACP2012等国际学术会议分会主席（SessionChair）；
+获得奖励或荣誉：
+国家自然科学基金优秀青年基金（2014年）
+浙江省高等院校科研成果一等奖（2012年）
+浙江省新世纪151人才工程培养计划(第二层次，2012年)
+&ldquo;十一五&rdquo;浙江省自然科学基金优秀项目奖（2012年）
+浙江省青年科技奖（2009年）
+首届金国藩青年学子奖（2008年）
+浙江省科学技术奖（一等，2007年）
+首批浙江省钱江人才计划（2006年）
+浙江大学优秀青年教师资助计划&mdash;&mdash;&ldquo;紫金计划&rdquo;首批重点资助（2006年）
+浙江大学优秀博士后奖（2006年）、浙江大学优秀教师（2006年）
+浙江省自然科学优秀论文一等奖（2003年）
+第38批中国博士后科学基金（一等，2005年）
+&nbsp;
+			
+				
+			工作研究领域
+			
+			硅基集成光子器件及其在光通信、光互连、光传感等方面的应用
+/Silicon-basedphotonicintegratedcircuitsforopticalcommunications,opticalinterconnects,andopticalsensing.
+
+			
+				
+			联系方式
+			
+			电话：0571-88206516-215			电子信箱：dxdai@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：戴道锌
+		单位：光电信息工程学系
+		职称：教授
+		我的主页共被访问了98445次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		动态/News
+	Highlights
+	发表论文
+	研究项目
+	奖励/荣誉
+	发明专利
+	book/著作
+	学术活动
+	教学/课程
+	研究方向
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	ZJU
+COER
+IEEE
+WebofScience
+OSA
+ZJUlib
+Bowersgroup@UCSB
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

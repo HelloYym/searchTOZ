@@ -1,0 +1,236 @@
+
+
+
+
+
+MengmengTong-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0012118";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	MengmengTong
+DOSE,ZhejiangUniversity
+
+	Permanentlink:http://mypage.zju.edu.cn/en/mengmengtong&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			Blog
+
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			Researchinterests
+Phytoplanktonphysiologicalecology;dinoflagellatetoxins;Morphologyandtaxonomyofharmfulalgae;Eutrophication;prevention,control,andmitigationstrategiesforharmfulalgalblooms;transformationsandfateofinorganicandorganicnitrogeninmarineandfreshwatersystems.
+Skills
+Establishedphytoplanktonandciliateculturingsystems;Algaltoxinextraction(sonication),purification(solidphaseextraction)anddetection(HighPerformanceLiquidChromatography-massspectrometer,HPLC-MS/MS);Scanningelectronmicroscope(SEM);FlowCytometry;DNAextraction;FIReFluorometer;Databasemanagementandstatisticalanalysis(SAS,Excel,Origin,Matlab);Officesoftware(Word,Powerpoint,Endnote,Illustrator)
+ProfessionalPreparation
+GuilinUniversityofElectronicTechnology,China,EnvironmentalEngineering&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2000-2004
+JinanUniversity,Guangzhou,China,EnvironmentalScience&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MS&nbsp;&nbsp;&nbsp;2004-2006
+NankaiUniversity,Tianjin,China,EnvironmentalScience&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PhD&nbsp;&nbsp;&nbsp;2006-2010
+WoodsHoleOceanographicInstitution,MA,USA,MarineBiology&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Visitingstudent&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2007-2010
+&nbsp;&nbsp;
+Appointments
+2010-2012&nbsp;VisitingScholar,BiologyDept.,WoodsHoleOceanographicInstitution(WHOI),USA
+2012-Present&nbsp;AssistantProfessor,InstituteofMarineBiology,ZhejiangUniversity,Hangzhou,China
+Publications
+Tong,M.*,J.L.Smith,D.M.Kulis,D.M.Anderson,inpress.RoleofdissolvednitrateandphosphateinisolatesofMesodiniumrubrumandtoxin-producingDinophysisacuminata.AquaticMicrobialEcology.
+QuP,Y.Xu,JYang,H.Gao,M.Tong*,inpress.Applicationofsolidphaseadsorptiontoxintracking(SPATT)intheEastChinaSea.ICHA-16proceedings.
+GaoH,Y.Xu,P.Qu,J.Yang,M.Tong*,inpress.RoleoforganicnutrientsoriginatedfromMesodiniumrubrumandTeleaulaxamphioxeiaculturesinthegrowthandtoxinproductionofDinophysisacuminata.ICHA-16proceedings.
+Tong,M.*,J.L.Smith,M.Richlen,K.A.Steidinger,D.M.Kulis,E.Fux,D.M.Anderson,2015,Characterizationandcomparisonoftoxin-producingisolatesofDinophysisacuminatafromNewEnglandandCanada.JPhycol51,66-81.DOI:10.1111/jpy.12251
+Smith,J.L*,M.Tong*,E.Fux,D.M.Anderson,2012.Toxinproduction,retention,andextracellularreleasebyDinophysisacuminataduringextendedstationaryphaseandculturedecline.HarmfulAlgae,19:125-132.DOI:10.1016/j.hal.2012.06.008
+Fux,E.,J.L.Smith,M.Tong,L.Guzm&aacute;n,D.M.Anderson*,2011.ToxinprofilesoffivegeographicalisolatesofDinophysisspp.fromNorthandSouthAmerica.Toxicon,57(2):275-287.DOI:10.1016/j.toxicon.2010.12.002
+Tong,M.,D.M.Kulis,J.L.Smith,E.Fux,P.Hess,Q.X.Zhou,D.M.Anderson*,2011.TheeffectsofgrowthstageandlightintensityonthetoxicityofDinophysisacuminatainthenortheastU.S.HarmfulAlgae,10(3):254-264.DOI:10.1016/j.hal.2010.10.005
+Tong,M.,Q.X.Zhou*,D.M.Kulis,T.J.Jiang,Y.Qi,D.M.Anderson,2010.TheculturingtechniquesandgrowthcharacteristicofDinophysisauminataanditsprey.ChineseJournalofOceanologyandLimnology,28(6):1230-1239.DOI:10.1007/s00343-010-9960-y
+Hackett,J.D.,M.Tong,D.M.Kulis,E.Fux,P.Hess,R.Bire,D.M.Anderson*,2009.DSPtoxinproductiondenovoinculturesofDinophysisacuminata(Dinophyceae)fromNorthAmerica.HarmfulAlgae,8:873-879.DOI:10.1016/j.hal.2009.04.004
+Project:
+&bull;&nbsp;NationalNaturalScienceFoundationofChina(NSFC)foryoungscientists2014.
+&bull;&nbsp;ResearchonPublicWelfareTechnologyApplicationProjectsofZhejiangProvince2013
+
+Presentations:
+Apr.20149thIOC/WESTPACInternationalScientificSymposiumatNhaTrang,Vienam.Oral.
+Jan.20132013SKLMPAnnualandAcademiccommitteemeetingatShenzhen,China.Oral.
+Nov.20123rdinternationalconferenceonpollutionecologyatTianjin,China.Oral.
+Oct.201215thInternationalConferenceonHarmfulAlgaeatChangwon,Gyeongnam,Korea.Oral.
+Oct.2012China-ASEAN(TheAssociationofSoutheastAsianNations)atHangzhou,China.Oral.
+Jun.2011Mycotoxins&amp;PhycotoxinsGordonResearchSeminaratWaterville,ME,USA.Oral.
+Jun.2011Mycotoxins&amp;PhycotoxinsGordonResearchConferenceatWaterville,ME,USA.Poster.
+Nov.2009FifthSymposiumonHarmfulAlgaeintheU.S.atSeattle,WashingtonUSA.Poster.
+Oct.2009GlobalEcologyandOceanographyofHarmfulAlgalBlooms(GEOHAB)SecondOpenScienceMeetingonHarmfulAlgalBloomsandEutrophicationatBeijingChina.Oralpresentation.
+Jun.2009Mycotoxins&amp;PhycotoxinsGordonResearchConferenceatNewLondon,NH,USA.Poster.
+&nbsp;
+			
+				
+			Researchwork
+			
+			Phytoplanktonphysiologicalecology;dinoflagellatetoxins;Morphologyandtaxonomyofharmfulalgae;Eutrophication;prevention,control,andmitigationstrategiesforharmfulalgalblooms;transformationsandfateofinorganicandorganicnitrogeninmarineandfreshwatersystems.
+			
+				
+			Contact
+			
+			Phone:18858160402
+			E-mail:mengmengtong@zju.edu.cn
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:佟蒙蒙
+		Units:海洋学院
+		Title:
+		Myhomepagehasbeenvisited1523times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	
+
+
+Youarevisitor:1523
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

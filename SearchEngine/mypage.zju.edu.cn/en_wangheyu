@@ -1,0 +1,214 @@
+
+
+
+
+
+Dr.WangHeyu-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0098326";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	Dr.WangHeyu
+Welcome!
+
+	Permanentlink:http://mypage.zju.edu.cn/en/wangheyu&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			Blog
+
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			Education
+
+Sept.2004-Sept.2007,DepartmentofMathematics,HongKongBaptistUniversity,DoctorofPhilosophy.
+Sept.2001-Aug.2003,DepartmentofMathematics,ZhejiangUniversity,MasterofScience.
+Sep.1994-June1998,DepartmentofMathematics,ZhejiangUniversity,BachelorofScience.
+
+WorkingExperience
+
+March2003-present,Lecturer,DepartmentofMathematics,ZhejiangUniversity.
+Dec.2003-March2008,Lecturer,CollegeofComputerScienceandTechnology,ZhejiangUniversity.
+July1998-Dec.2003,TeachingAssistant,ComputingCenterofZhejiangUniversity.
+
+ResearchInterests
+
+ScientificComputing,NumericalMethodofPartialDifferentialEquations,AdaptiveMethod,FoundationofNumericalAnalysis
+
+			
+				
+			Contact
+			
+			Phone:+86-13456940632
+			E-mail:wangheyu@zju.edu.cn
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:WangHeyu
+		Units:DepartmentofMathematics
+		Title:AssociateProfessor
+		Myhomepagehasbeenvisited5044times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+PublicationList(RecentYears)
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	Math.ofZJU
+MathofHKBU
+ZJU
+HKBU
+Prof.TTANG
+
+
+
+Youarevisitor:5044
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,211 @@
+
+
+
+
+
+精细化工实验室-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0003218";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	精细化工实验室
+
+
+	永久链接:http://mypage.zju.edu.cn/chemistry&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1994年考入浙江工业大学化工系学习，1998年进入浙江大学化工系攻读硕士学位，2000年转为硕博连读，2003年获工学博士学位，而后从事博士后研究，2005年留校任教至今。一直从事以染料和医药及其中间体为主的应用化学研究，自2008年开始研究萃取和特殊精馏等分离过程。先后主持并参与了涉及精细化学品合成、萃取、特殊精馏、清洁生产工艺开发、工程放大等领域的科研项目10余项，指导或协助指导硕士和博士研究生10余名，已先后发表学术论文30余篇，被SCI、EI收录10余篇，授权国家发明专利5项。目前主要从事精细化学品合成、分离工程、清洁生产工艺开发、工程放大等方向的研究工作。每年计划招收化学工程或应用化学方向硕士生1～2名。
+			
+				
+			工作研究领域
+			
+			（1）精细化学品合成
+（2）分离工程
+（3）清洁生产工艺开发
+（4）工程放大
+			
+				
+			联系方式
+			
+			电话：87951620			电子信箱：ysf@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：袁慎峰
+		单位：化学工程与生物工程学系
+		职称：副教授
+		我的主页共被访问了1815次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	专利成果
+	发表论文
+	实验室介绍
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	浙大新和成联合研发中心
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,1 @@
+{'name': u':CHEN Hong', 'title': u':Engineer', 'photo': u'http://mypage.zju.edu.cn/teacherimage/0708003.jpg', 'pos': './mypage.zju.edu.cn/en|chenhong', 'intro': [u'\n\t\t                \t\t\t\n\t'], 'department': u':College of Electrical Engineering', 'homepage': 'http://mypage.zju.edu.cn/en/chenhong'}

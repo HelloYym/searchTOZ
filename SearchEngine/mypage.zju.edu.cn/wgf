@@ -1,0 +1,210 @@
+
+
+
+
+
+wgf-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0085424";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	wgf
+wugenfu
+
+	永久链接:http://mypage.zju.edu.cn/wgf&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			1981-1985：杭州大学生物系本科
+1985-1996杭州大学生命科学学院教师（1990年获微生物遗传学硕士）
+1996-1997日本国静冈县立大学生活健康科学研究科Rotarystudent（国际亲善大使）
+1998-&nbsp;浙江大学生科学学院副教授（2004年获博士学位）
+2006-2007美国路易斯安娜州立大学生物科学系博士后
+			
+				
+			工作研究领域
+			
+			微生物------浙江省农业微生物开发利用重点实验室
+浙江省农业微生物开发利用重点实验室以构建浙江高效生态农业体系所需的基础理论和关键技术为主要目标，针对作物病虫害和畜禽疫病防治、农产品残留污染控制、高附加值微生物制剂以及农业生态环境修复的重大科技需求，通过农业微生物及其基因资源的开发利用，开展高效生态农业所需的新理论、新技术、新工艺及新产品的基础与应用研究，为实现农业生产的高产、优质、高效、生态、安全的要求提供科学依据和技术支撑。
+具体研究方向：1.农业微生物基因工程研究方向；2.微生物农药研究方向；3.微生物制品与菌肥研究方向；4.农业微生物发酵工程研究方向。
+
+			
+				
+			联系方式
+			
+			电话：88206626			电子信箱：wugenfu@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：吴根福
+		单位：生命科学学院生物科学系
+		职称：副教授
+		我的主页共被访问了7597次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

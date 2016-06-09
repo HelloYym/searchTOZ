@@ -1,0 +1,206 @@
+
+
+
+
+
+Zhongxuan'Space-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0007248";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	Zhongxuan'Space
+Afantasticdomain
+
+	永久链接:http://mypage.zju.edu.cn/zxyang&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			杨仲轩，现任职于浙江大学建工学院交通工程研究所，博士，教授，博士生导师。1998年浙江大学结构工程专业本科毕业，2001年获得浙江大学岩土工程硕士学位，2005年获得香港科技大学岩土工程博士学位。分别于2006～2007年和2008～2009年在香港大学土木系和英国帝国理工学院土木与环境系从事博士后研究工作。2009年晋升为副教授，2011年起获得博士研究生指导资格，2014年晋升为教授。
+			
+				
+			工作研究领域
+			
+			土的本构特性；宏微观力学和数值模拟；桩基工程；近海工程
+			
+				
+			联系方式
+			
+			电话：0571-88208476			电子信箱：zxyang@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：杨仲轩
+		单位：建筑工程学院土木工程学系
+		职称：教授
+		我的主页共被访问了16360次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		代表性论文和项目
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

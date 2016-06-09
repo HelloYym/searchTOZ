@@ -1,0 +1,218 @@
+
+
+
+
+
+刘龙孝-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0091013";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	刘龙孝
+LiuLongxiao
+
+	永久链接:http://mypage.zju.edu.cn/Liulx&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			1979.9－1983.7武汉化工学院化工系学习，获学士学位
+1983.7－1988.8湖北宜昌市树脂厂工作，晋升至工程师，任车间技术组长
+1988.9－1991.1浙江大学化工系学习，获硕士学位，获吕氏研究生奖学金
+1991.3－2003.3浙江大学化工系工作，晋升至副教授，任高分子科学与工程研究所实验室副主任
+2003.3－至今浙江大学药学院工作
+1996.4－1999.10韩国，全北大学/韩国化学研究院学习，获博士学位
+2000.9－2001.6新加坡，材料研究院工作，做博士后研究工作
+2001.12－2003.1美国，哈佛大学医学院，以高级访问学者身份从事研究工作
+
+
+			
+				
+			工作研究领域
+			
+			药物新剂型，控制释放，生物医药用高分子
+
+			
+				
+			联系方式
+			
+						电子信箱：liulx@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：刘龙孝
+		单位：药学院药物制剂系
+		职称：教授
+		我的主页共被访问了7363次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	专利成果
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

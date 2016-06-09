@@ -1,0 +1,214 @@
+
+
+
+
+
+王学德教授的主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0097000";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	王学德教授的主页
+
+
+	永久链接:http://mypage.zju.edu.cn/0097000&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			欢迎报考博士、硕士研究生！做博士后科研！
+王学德，浙江上虞人，中共党员，农学博士，教授，硕士生和博士生导师。1982年，在原浙江农业大学农学系本科毕业，获学士学位；1987年和1994年，在南京农业大学农学系研究生毕业，分别获硕士和博士学位；1982~1984年和1987~1990年，在浙江省农业科学院作物所工作，任助理研究员；1995~1996年，在武汉大学遗传学系从事博士后科研工作，任副教授。1997年至今，在浙江大学农业与生物技术学院农学系任教，2000年12月任教授，期间（2003.11-2004.2）在美国加州大学戴维斯分校做高级访问学者。主要研究领域为植物形态发生与发育的遗传学和育种学，侧重于棉花杂种优势的形成、纤维的生长发育、抗病、抗衰老等方面的分子机理研究，以及在棉花等作物育种中的应用研究。1990~2001年《棉花细胞质雄性不育机理的研究和转GST基因恢复系的选育》等4项科研成果获省（部）级科技进步二等奖，2004年《转基因三系杂交棉育种的方法》和《提高三系杂交棉制种产量的方法》获中国发明专利，2011年和2013年《三系杂交棉&mdash;&mdash;棉花细胞质雄性不育的研究与利用》和《彩色棉》两部专著在科学出版社出版，迄今发表学术论文100余篇。1999年被评为&ldquo;浙江省跨世纪学术和技术带头人&rdquo;。
+			
+				
+			工作研究领域
+			
+			主要研究领域为植物遗传学和育种学。研究方向主要有：（1）棉花细胞质雄性不育与杂种优势的形成机理，以及在三系杂交棉育种中的应用；（2）彩色棉纤维色素和品质的形成机理，以及在棉花品质育种中的应用；（3）棉花抗病和抗衰老的分子机理，以及在棉花抗逆育种中的应用。主要研究工作是：棉花重要性状的遗传研究，有用基因的克隆与转化，种质的创新与利用，新品种的选育与推广等。
+
+
+			
+				
+			联系方式
+			
+			电话：0571-88982683，13616554443			电子信箱：xdwang@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：王学德
+		单位：农业与生物技术学院农学系
+		职称：教授
+		我的主页共被访问了9161次
+标签：硕士生招生，博士生招生，博士后科研，植物遗传学，植物育种学，三系杂交棉，彩色棉	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	研究成果
+	专利成果
+	实验室介绍
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

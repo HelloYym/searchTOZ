@@ -1,0 +1,237 @@
+
+
+
+
+
+李铎个人网页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0004005";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	李铎个人网页
+黄土高坡男
+
+	永久链接:http://mypage.zju.edu.cn/duoli&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+营养学博士（澳大利亚RMIT大学），浙江大学食品科学与营养系教授、博士生导师。
+WHO营养专家咨询委员会委员、联合国粮农组织和世界卫生组织（FAO/WHO）营养专家组专家、亚太临床营养学会主席、亚太素食联盟前任主席、亚太临床营养学会营养与食品安全中心主任、中国科协基础营养学首席科学传播专家、中国保健食品安全专家委员会委员、中国营养学会常务理事。
+《AsiaPacificJournalofClinicalNutrition》联合主编（SCI）、《JournalofNutrigenetics&amp;Nutrigenomics》副主编（SCI）、《VegetarianNutritionJournal》主编、《AnnalsNutrition&amp;Metabolism》(SCI)、《Food&amp;Function》（SCI）以及《ScientificWorldJournal》（SCI）等8份国际和《中国糖尿病杂志》、《浙江大学学报（农业与生命科学版）》等5份国内学术期刊编委。
+共发表论文420余篇(SCI收录文章160余篇)，著作9部/章，发明专利18项。
+
+
+近5年h-指数：25
+近5年i10-指数：78
+近5年文章引用：2500余次
+RGScore：42.59
+
+
+13度被美国Who'sWho（世界名人录）收录；获亚太临床营养学会2007年度奖；获英国剑桥国际传记中心授予的2005年度健康工作者年度奖；获中国学生营养与健康促进会授予的学生营养与健康工作贡献奖（2004）；获浙江省科学技术协会2002-2003年度先进工作者。
+
+&nbsp;
+			
+				
+			工作研究领域
+			
+			从事学科：食品营养学。研究领域：营养与食品安全。研究内容：1.通过营养流行病学、体外实验、动物模型以及人体临床试验研究其营养素、食品成分、保健食品、功能性食品的功能（抗炎、抗糖尿病、抗高血压、抗肿瘤、降血脂、降血糖等）以及安全评价；2.研究营养素、食物成分以及天然产物与非传染性流行病相关基因之间的相互作用；3.功能性成分的提取、分离、鉴定及快速检测技术；4.传统食品改造、新型食品以及天然营养素源的开发。
+			
+				
+			联系方式
+			
+			电话：0571-88982024			电子信箱：duoli@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：李铎
+		单位：生物系统工程与食品科学学院食品科学与营养系
+		职称：教授
+		我的主页共被访问了45018次
+标签：DuoLi李铎	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	发表论文
+	出版著作
+	研究生招生
+	诚招博士后
+	中国大学视频公开课
+	中央电视台讲座
+	通讯地址
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	亚太临床营养学会
+亚太临床营养学杂志
+营养遗传学和营养基因组学杂志
+素食营养杂志
+国际营养遗传学和营养基因学会
+中国营养学会
+国际营养科学联盟
+世界卫生组织
+联合国粮农组织
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

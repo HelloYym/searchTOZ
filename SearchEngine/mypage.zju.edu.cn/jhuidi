@@ -1,0 +1,224 @@
+
+
+
+
+
+蒋惠娣-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0086519";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	蒋惠娣
+个人主页
+
+	永久链接:http://mypage.zju.edu.cn/jhuidi&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			教育经历
+1982.8～1986.7&nbsp;浙江医科大学药学系，理学学士
+1988.9～1992.7&nbsp;浙江医科大学药学系，药物分析学硕士
+2000.9～2004.6&nbsp;&nbsp;浙江大学医学院，生理学博士
+&nbsp;
+国外学习与研究经历
+1998.9～1999.2&nbsp;&nbsp;日本歧阜药科大学研修
+2007.1～2008.12&nbsp;美国密歇根大学药学院访问学者
+&nbsp;
+工作经历
+1986.8～1992.12&nbsp;&nbsp;浙江医科大学药学系，助教
+1992.12～1997.12&nbsp;浙江医科大学药学系，讲师
+1997.12～2005.12&nbsp;浙江医科大学、浙江大学药学院，副教授
+2005.12～&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江大学药学院，教授
+			
+				
+			工作研究领域
+			
+			药物转运与代谢、创新药物非临床药代动力学研究.
+
+			
+				
+			联系方式
+			
+			电话：0571-88208408			电子信箱：hdjiang@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：蒋惠娣
+		单位：药学院
+		职称：教授
+		我的主页共被访问了16867次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	发表论文
+	出版著作
+	研究成果
+	专利成果
+	实验室介绍
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

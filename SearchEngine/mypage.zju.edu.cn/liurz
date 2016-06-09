@@ -1,0 +1,207 @@
+
+
+
+
+
+清风-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0098191";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	清风
+清らかな風
+
+	永久链接:http://mypage.zju.edu.cn/liurz&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;刘瑞芝，女，教授，硕士生导师，中国日本文学研究会理事。在上海外国语学院日语系毕业后，曾于1987年初至1998年底，在日本早稻田大学、实践女子大学等校留学、任教。回国后，在浙江大学日本语言文化研究所讲授日本语言及文学。曾任早稻田大学外国人研究员、交换研究员。主要研究方向为中日比较文学、日本古典文学、文学翻译。近年来，在《外国文学评论》、《外国文学研究》、《浙江大学学报》上发表了关于日本文学研究的系列论文，著作有《日本古典文学读本》（浙江古籍出版社）《最新日语外来语词典》（东方出版中心）、《詩情の江南水墨の浙江》（台湾墨刻出版社）等，译著有《我的读书观》(亀井勝一郎，漓江出版社)、《鲁迅》（竹内好，浙江文艺出版社）、《地狱思想》（梅原猛，四川人民出版社）等。主持并完成了日本国菊池育英基金会&ldquo;日本古典文学与语言研究&rdquo;以及浙江省哲学社会科学规划项目&ldquo;狂言绮语观研究&rdquo;等科研项目。目前，正在主持浙江省重点教材项目《实用大学日语》。
+			
+				
+			工作研究领域
+			
+			主要工作领域为本科生及研究生日语与日本文学教学。主要研究领域为中日比较文学、日本古典文学、日本文论及中日文互译
+			
+				
+			联系方式
+			
+						电子信箱：liurz2003@yahoo.com.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：刘瑞芝
+		单位：外国语言文化与国际交流学院日本文化研究所
+		职称：教授
+		我的主页共被访问了5740次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

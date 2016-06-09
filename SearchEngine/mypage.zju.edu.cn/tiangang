@@ -1,0 +1,231 @@
+
+
+
+
+
+浙大田钢-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0004016";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	浙大田钢
+随我一起探索地球!
+
+	永久链接:http://mypage.zju.edu.cn/tiangang&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			学习工作：
+1959年生于安徽省合肥市，籍贯湖北省汉川市，合肥市第十高级中学毕业。
+1978年考入长春地质学院物探系石油及天然气地球物理勘探专业，1982年留在本校任教。
+1985年考取长春地质学院应用地球物理专业在职研究生，1988年获得工学硕士并任讲师。
+1992年获中英友好奖学金赴英国Durham大学攻读博士学位，1995年获得哲学博士学位。
+1996年回到长春地质学院任副教授及地质矿产部开放实验室副主任，同年在地质工程博士后流动站开展研究。
+1997年任长春科技大学地球探测与信息技术学院副院长，主管教学科研；1999年博士后出站并被聘任为教授。
+2001年起任吉林大学地球探测科学与技术学院副院长，主管学科建设与研究生工作。
+2001-2002年获留学基金委资助在美国Kansas大学做访问教授，2002年被吉林大学聘任为博士导师。
+2004年作为引进人才到浙江大学理学部地球科学系任教，被聘为教授、博士生导师。
+现任浙江大学地质与地球物理研究所副所长、浙江大学文化遗产研究院物探考古研究室主任、浙江大学地质学博士后流动站副主任。
+学术兼职：
+目前是中国地球物理学会理事，中国地球物理学会浅地表地球物理专业委员会副主任，浙江省地球物理学会副理事长，浙江省信号处理学会副理事长，美国勘探地球物理学家（SEG）、欧洲地学与工程师学会（EAGE）等国际学术组织的会员；《AppliedGeophysics》和《吉林大学学报（地球科学版）》以及《石油物探》杂志的编委，2013年获聘教育部地球物理学类专业教学指导委员会委员。
+学术成果：
+编著有《环境地球物理教程》（地质出版社），在国内外学术刊物和大型学术会议上发表论文140多篇，其中被SCI、EI和ISTP等三大检索机构收录的论文有50多篇。
+以第一获奖人获得省级优秀教学成果三等奖一项，浙江大学首届林百欣高科技三等奖一项，2014年获得海洋科学技术奖二等奖一项（排名第五），2014年被浙江大学授予&ldquo;优秀班主任&rdquo;。
+已培养博士后研究人员5名（包括1名外国研究人员），博士研究生13名，硕士研究生20人，目前有博士生6名（包括2名外国留学生），硕士生3名在读。
+科学研究：
+承担了国家863项目、国家863专题、国防973专题、国家重大专项子课题、国家社科基金重大（招标）项目以及教育部博士点基金等国家和省部级科研项目多项，同时主持负责了中石油、中石化、中铁隧道等大型企业的技术开发项目多项，各类项目总经费超过1000万元。
+			
+				
+			工作研究领域
+			
+			油气地震勘探采集与处理；工程与环境地球物理勘察；
+极地与海洋地球物理监测；考古地球物理调查。
+			
+				
+			联系方式
+			
+			电话：13588154791			电子信箱：tiangang@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：田钢
+		单位：地球科学系
+		职称：教授
+		我的主页共被访问了30843次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	研究成果
+	专利成果
+	奖励荣誉
+	实验室介绍
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

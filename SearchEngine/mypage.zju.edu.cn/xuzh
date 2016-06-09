@@ -1,0 +1,216 @@
+
+
+
+
+
+徐祖华-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0006303";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	徐祖华
+预测控制、迭代学习控制
+
+	永久链接:http://mypage.zju.edu.cn/xuzh&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			1999.9-2004.6&nbsp;&nbsp;&nbsp;浙江大学&nbsp;&nbsp;控制科学与工程学系&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;博士
+2004.7-2006.8&nbsp;&nbsp;&nbsp;石化盈科信息技术有限责任公司&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;高级项目经理
+2006.9-2008.9&nbsp;&nbsp;&nbsp;浙江大学&nbsp;&nbsp;控制科学与工程学系&nbsp;&nbsp;&nbsp;&nbsp;博士后
+2008.10-2011.12&nbsp;&nbsp;浙江大学&nbsp;&nbsp;控制科学与工程学系&nbsp;&nbsp;助理研究员
+2011.2-2011.5&nbsp;&nbsp;&nbsp;香港科技大学&nbsp;&nbsp;访问学者
+2012.1-至今浙江大学控制科学与工程学系副教授，博士生导师
+			
+				
+			工作研究领域
+			
+			面向石化、钢铁、电力等行业平稳运行、节能降耗的重大需求，针对复杂工业过程的参数时变、非线性、变工况等控制难题，重点开展基础理论方法、关键共性技术、工业示范应用
+			
+				
+			联系方式
+			
+						电子信箱：xuzh@iipc.zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：徐祖华
+		单位：控制科学与工程学系
+		职称：副教授,博士生导师
+		我的主页共被访问了16328次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		研究方向
+	发表论文
+	工作研究项目
+	教学工作
+	专利成果
+	奖励荣誉
+	研究成果
+	学生培养
+	软件产品
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

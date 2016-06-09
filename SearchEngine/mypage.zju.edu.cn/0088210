@@ -1,0 +1,212 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0088210";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0088210&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			沈满洪，男，1963年2月出生，浙江东阳人，现为浙江大学党委研究生工作部部长、浙江大学研究生管理处处长，兼任浙江大学可持续发展研究中心副主任，浙江大学农业与农村现代化研究中心区域经济研究所副所长，教授，博士，西方经济学专业博士生导师（2004年12月起），研究方向为资源与环境经济学、区域经济可持续发展。社会兼职有：中国生态经济学会理事、中国生态经济学会教育委员会副会长、中国环境科学学会环境经济学专业委员会常务委员、浙江省循环经济学会副理事长、杭州市城市规划专家咨询委员会委员、《生态经济学报》编委。
+			
+				
+			工作研究领域
+			
+			主持党委研究生工作部、研究生管理处全面工作，分管学籍管理工作。工作地址：玉泉教11—225。
+从事资源与环境经济学、区域经济可持续发展等方面的研究，在环境经济手段、环境经济政策、环境经济制度、水权交易制度等方面有所建树。
+从事现代经济学、微观经济学、宏观经济学、资源与环境经济学的教学，在本科生、研究生、研究生课程进修班、中央党校领导干部研究生班等多次讲学，受到学生广泛好评。
+
+
+
+
+			
+				
+			联系方式
+			
+			电话：87951868			电子信箱：smhsmh@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：沈满洪
+		单位：研究生工作部
+		职称：教授
+		我的主页共被访问了6760次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,214 @@
+
+
+
+
+
+金小刚-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0096364";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	金小刚
+0096364
+
+	永久链接:http://mypage.zju.edu.cn/0096364&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;&nbsp;金小刚，男，1988年毕业于扬州大学数学系，1996年毕业于浙江大学数学系基础数学专业，获得理学博士学位。毕业至今为浙江大学计算机科学与技术学院人工智能研究所讲师、副教授，2001年至2002年在韩国Sejong大学从事博士后研究，2004年5月2011年6月兼任浙江大学宁波理工学院信息科学与工程分院副院长。为中国计算机学会会员、杭州市人工智能学会副理事长、中国青年科技工作者协会（第四届）会员、宁波市电子行业协会副会长，2005年入选浙江省&ldquo;新世纪151人才工程第三层次&rdquo;，杭州士兰微电子股份有限公司独立董事。
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;主讲本科生、研究生课程《离散数学》和《计算理论》，受到广大学生的喜爱，担任课程的所有教学评价均为优秀，其中《离散数学》被评为浙江大学精品课程、计算机学院精研课程、竺可桢学院核心课程，《计算理论》为浙江大学研究生示范课程。2006年度被评为浙江大学竺可桢学院最佳任课教师，获得第四届浙江大学青年教师教学技能大赛二等奖和浙江省第四届青年教师教学技能大赛优秀奖。曾在多所高校开设讲座，如浙江大学、中国科技大学、西南交通大学、江苏大学等。
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;先后主持国家自然科学基金3项、浙江省自然科学基金重点项目与面上项目各一项、教育部回国留学人员启动基金、省浙江回国留学人员启动基金各1项和横向项目多项。以第一作者或通信作者在国内外学术刊物PLoSONE、JournalofTheoreticalBiology、PhysicaA、InternationalJ.ofModernPhysicsB、Chaos、JournalofSystemScienceandComplexity、EnvironmentalModelling&amp;Software、LectureNotesinComputerScience、系统科学与数学、浙江大学学报（英文版）等上发表论文四十余篇，其中SCI检索15篇和EI检索10篇，他引100余次，拥有软件著作权1项。担任教育部留学回国人员科研启动基金评审专家，2010InternationalConferenceonIntelligentSystemsandKnowledgeEngineering（ISKE2010）组委会主席，2011/2012/2013InternationalConferenceonIntelligentSystemsandKnowledgeEngineering程序委员，曾经受邀为国际学术ISCST2009，ISCST2011做邀请报告，CCFYOCSEF&ldquo;社会计算环境下的电子商务&rdquo;的特邀讲者。
+			
+				
+			工作研究领域
+			
+			复杂网络与网络动力学、机器学习、计算社会学、计算生态学
+			
+				
+			联系方式
+			
+						电子信箱：xiaogangj@cise.zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：金小刚
+		单位：计算机科学与技术学院人工智能研究所
+		职称：副教授
+		我的主页共被访问了18961次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

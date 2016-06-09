@@ -1,0 +1,208 @@
+
+
+
+
+
+金浩-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0007388";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	金浩
+信息与电子工程学系
+
+	永久链接:http://mypage.zju.edu.cn/hjin&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			金浩，博士，男，1979年10月生，浙江大学信息与电子工程学系副教授、博士生导师，浙江大学&ldquo;求是青年学者&rdquo;，英国曼彻斯特大学访问学者，《真空科学与技术学报》副主编，中国电子学会真空电子学分会委员，中国真空学会薄膜专业委员会委员，2001、2006年于浙江大学分别获得电子科学与技术专业学士学位和博士学位，2006－2007先后在中芯国际集成电路制造（上海）有限公司、卓胜微电子（上海）有限公司工作，主要负责CMOS射频集成电路的器件建模与电路设计，2007－2009年在浙江大学信息与电子工程学系任教，并从事博士后研究，2009年受聘为浙江大学特聘副研究员，主要从事磁控溅射工艺与FBAR/SAW器件的研究，2011年受英国EPSRC项目资助在曼彻斯特大学和剑桥大学进行学术访问，合作从事FBAR传感器的研究，2012年晋升副教授，2013年获博导资格。已承担2项国家自然科学基金项目和多项重大产学研项目的研究，曾获2008年中华人民共和国教育部科学技术进步奖二等奖（排名：2/8）、2008年浙江省科学技术奖二等奖（排名：2/9），在ScientificReports(Nature旗下综合性期刊),&nbsp;&nbsp;Sensor.Actuat.B.-Chem.,&nbsp;J.Mater.Chem.C,&nbsp;ElectronDeviceLett.,Appl.Phys.Lett.,J.Appl.Phys.,ThinSolidFilms,J.Micromech.Microeng.,Electron.Lett.等国际主流期刊与会议上发表学术论文30余篇，其中关于FBAR高精度等效电路模型的论文被Electron.Lett.作为封面推荐论文(featuredpaper)发表，已授权国家发明专利4项。
+&nbsp;
+			
+				
+			工作研究领域
+			
+			薄膜电子学、真空科学与技术、电子专用装备、传感器、射频器件、柔性电子学
+			
+				
+			联系方式
+			
+			电话：87951710			电子信箱：hjin@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：金浩
+		单位：信息与电子工程学系
+		职称：副教授
+		我的主页共被访问了19035次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		2014秋冬－微电子器件与电路
+	2015夏－电子电路基础II
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

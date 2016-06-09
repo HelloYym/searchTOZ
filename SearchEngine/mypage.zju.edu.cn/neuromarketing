@@ -1,0 +1,243 @@
+
+
+
+
+
+王小毅-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0009652";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	王小毅
+神经营销学、神经经济学
+
+	永久链接:http://mypage.zju.edu.cn/neuromarketing&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			浙江大学管理学院管理科学与工程系
+浙江大学神经管理学实验室主任助理
+浙江大学技术创新与科技产业发展研究中心主任助理
+主要学术成果：
+[1]马庆国，王小毅，认知神经科学、神经经济学与神经管理学，管理世界（权威一级），2006年10期，p139-149
+[2]马庆国，王小毅，从神经经济学和神经营销学到神经管理学，管理工程学报（核心期刊），2006年03期，p129-132
+[3]马庆国，戴珅懿，王小毅，网瘾概念的定义研究&nbsp;&nbsp;&nbsp;管理工程学报（核心期刊），2006年02期，p151-154
+[4]马庆国，舒良超，王小毅，创新营销思维，神经营销发现&ldquo;购买按钮&rdquo;，企业管理（A类），2007年04月308期，p10-13
+[5]周艺，王小毅，假如韦尔奇在中国&mdash;&mdash;论韦尔奇管理方法在中国的适用性（新华文摘2004年20期，p48-50；人大复印资料2004年12月，p35-37）（权威一级）
+[6]马庆国，楼阳生，王小毅等，区域软实力理论与实施，中国社会科学出版社，2007年4月
+[7]QingguoMa，XiaoyiWang，ShenyiDai，LiangchaoShu，&nbsp;Event-RelatedPotentialN270CorrelatesofBrandExtension.NeuroReport.2007:18（10）（SCI检索，影响因子2.2）2007.6
+[8]LiuYuan,，WangXiaoyi，AComprehensiveModeloftheFactorsAffectingUserAcceptanceofOfficeAutomationSystem（OAS）inChineseGovernmentEnvironment.JournalofComputationalInformationSystems(2007)（EI期刊），（通讯作者）
+[9]&nbsp;WangXiaoyi，TheTechnology&ldquo;ValueCharged&rdquo;PreconditionofValueEngineering(ISTP收录)，The2004InternationalConferenceProceedingofValueEngineeringandTechnologyInnovation（1/1）p148-153
+[10]WangXiaoyi,YangWei,AnEmpiricalStudyofCapitalBudgetBehaviorofSMEsinZHEJIANGProvince,China(ISTP收录)，The2004InternationalConferenceProceedingofValueEngineeringandTechnologyInnovation
+[11]周晓宏，王小毅，谢荷锋区域软实力及其综合评价体系研究,技术经济，2007年6月
+[12]柳宏志，王小毅，浙商创牌思维与品牌管理之道，商业经济与管理，2007.8
+[13]刘渊，王小毅，政府门户网站绩效管理（一）～（三），信息化建设，2007年3月、4月、5月分三期连载
+承担课题：
+2006年浙江省社科基金，浙商成长与新浙商培育机制研究：基于商帮潜规则视角（06CGGL27YBB）
+2007年浙江省社科联社会科学普及课题，走进消费者大脑,探索理性消费奥秘：做一个和谐消费者
+所获奖励：
+浙江省教育厅，二等奖（区域软实力的理论与实施）
+其他各类项目：
+（1）纵向和政府课题：
+浙江杭州市滨江区文化发展十一五规划（负责人），2005～2006
+内蒙古省中医药产业中长期发展规划（医药文化规划负责人），2006
+浙江丽水市软实力研究规划（总负责人），2005～2006年，丽水市委专项
+浙江苍南县科技发展十一五规划（总负责人），2005～2006年
+（2）企业课题：
+[1]&nbsp;连云港康缘药业战略咨询（总体战略负责人），2003
+[2]&nbsp;新疆华世丹药业战略诊断（总体战略负责人），2003
+[3]&nbsp;嘉善龙鼎管桩厂成本控制和组织设计咨询（总负责人），2003
+[4]&nbsp;浙江南洋药业人事考核咨询（总负责人），2004～2005
+[5]&nbsp;绍兴华联三鑫ERP项目咨询（前期总负责人），2004
+[6]&nbsp;珠海和佳医疗战略诊断（负责人），2005
+
+
+			
+				
+			工作研究领域
+			
+			神经营销学：品牌认知、广告评估、消费者决策
+神经经济与神经决策：风险决策，思维，创业
+神经工业心理与设计：用户体验，交互设计，可用性测评
+其他研究兴趣：电子商务，信息化与组织变革，企业战略与思维，浙商成长与制度变革
+
+			
+				
+			联系方式
+			
+			电话：057187951838			电子信箱：kevinwxy@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：王小毅
+		单位：管理学院
+		职称：
+		我的主页共被访问了8020次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

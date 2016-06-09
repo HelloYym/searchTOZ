@@ -1,0 +1,216 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0085492";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0085492&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			俞萍,&nbsp;女,&nbsp;浙江温州人。1962年3月出生于山西省太原市，以后分别在陕西省西安市和宝鸡市就读小、中学，1981年考入兰州大学生物学系。1985年分配至原浙江医科大学生物学教研室工作。
+教育经历：
+1985年毕业于兰州大学生物学系，获学士学位。
+2000年毕业于浙江大学医学院细胞生物学专业，获理学硕士学位。
+工作经历：
+1985年至1992年，在原浙江医科大学生物学教研室工作从事医学遗传学及细胞生物学教学及科研工作，任助教。1993年至今，在浙江大学医学院医学遗传学教研室工作，任讲师。
+			
+				
+			工作研究领域
+			
+			科研上主要从事遗传性疾病相关基因定位、基因多态性分析、疾病基因突变位点筛查以及疾病相关基因功能研究等分子生物学方面的研究。
+主要研究兴趣：
+1.遗传性疾病的分子遗传学研究
+2.细胞培养和人类染色体
+3.分子生物学和生物信息学
+4.蛋白组学
+
+			
+				
+			联系方式
+			
+			电话：0571-87217443			电子信箱：yp102@yahoo.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：俞萍
+		单位：基础医学系
+		职称：讲师
+		我的主页共被访问了3435次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

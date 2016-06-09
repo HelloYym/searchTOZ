@@ -1,0 +1,230 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0094089";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0094089&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			长期从事控制理论、优化控制、离散事件系统和复杂系统等方面的理论及应用研究。分别在1986年、1991年和1994年获浙江大学学士、硕士和博士学位，1996年6月在浙江大学电工学流动站完成博士后工作后留校工作，现为浙江大学电气学院教授，电气自动化研究所副所长和系统科学与工程系副主任。2001年到2002在英国Cranfield作访问学者，主要从事基于LMI方法的低阶控制器设计和多目标优化领域的工作，在不到一年的时间里完成八篇高质量的论文，受到国外同行专家的很高评价。
+
+&nbsp;&nbsp;&nbsp;&nbsp;近年来，参加了国家攻关项目&mdash;&ldquo;大型纸厂的计算机控制与优化&rdquo;，获国家科技进步奖；作为项目第二负责人主持完成浙江省科委项目&mdash;&ldquo;智能模糊控制在集散控制中的应用&rdquo;，并获2002浙江省科技进步奖；2004年主持国家自然科学基金资助项目的研究。编著&ldquo;智能预测控制及其应用&rdquo;(浙江大学出版社，2002.4)和主编&ldquo;控制理论CAI教程&rdquo;(科学出版社，2002.9)。在国内外一级杂志和核心杂志发表论文40余篇，其中二十篇被SCI、EI索引。同时是IEEE&nbsp;Trans.&nbsp;AC.&nbsp;等杂志的审稿人，国家自然科学基金评审。
+
+&nbsp;&nbsp;&nbsp;&nbsp;浙江省自动化学会常务理事，全国高等学校教学研究会电气工程及自动化专业委员会委员。
+			
+				
+			工作研究领域
+			
+			系统与控制：
+(1)最优控制与鲁棒控制
+(2)智能控制与优化
+(3)混杂系统的建模、控制与故障诊断
+(4)过程的建模、仿真和实施
+(5)基于微机的控制系统结构与综合
+(6)专用仪器、仪表的研发
+
+机器人：
+(1)工业机器人
+(2)家用机器人
+(3)信息融合与虚拟环境
+
+混杂系统：
+(1)结合离散事件系统监控理论的混杂系统新方法
+(2)混杂系统的故障检测与诊断技术
+
+
+			
+				
+			联系方式
+			
+			电话：87953204			电子信箱：yanwenjun@zju.edu.cn;wj.yan@126.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：颜文俊
+		单位：电气工程学院系统科学与工程学系
+		职称：教授
+		我的主页共被访问了18110次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	奖励荣誉
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

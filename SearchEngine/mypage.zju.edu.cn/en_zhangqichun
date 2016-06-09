@@ -1,0 +1,228 @@
+
+
+
+
+
+Zhanglucy-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0005177";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	Zhanglucy
+
+
+	Permanentlink:http://mypage.zju.edu.cn/en/zhangqichun&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			&nbsp;
+Currentposition&amp;job:AssociateProf.Dept.ofCollegeofEnvironmentalandResourceSciences,ZhejiangUniversity,Hangzhou,P.RChina.
+RESEARCHPROJECTSCHAIR:
+&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MicrobialmechanismofsoilnitrogentransformationinPaddyfield&nbsp;(973nationalresearchproject,China.)
+&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;StudyonPakistan&rsquo;sWheatandBrassicaGermplasm,toleranttoabioticstressesandthedemonstrationofagro-biotechnologies&quot;&nbsp;(ThenationalresearchprojectMinistryofScienceandTechnology,China.)
+&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BambooForestecosystemcarbonsource/sinkfunctionandregulationtechnologyresearch(TheScienceandTechnologyDepartmentofZhejiangProvinceproject,China),
+&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Biologicalmechanismofpaddysoilnitrogensupplycapacity(Ministryofeducation,youthdoctoralspecialfund,China)
+&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Antibioticsonsoilmicrobialcommunitystructure(Zhejiangprovincialnaturalsciencefundproject,China)
+&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Paddysoilnitrogenandmicrobialcommunityrelationsresearch(Zhejiangprovincialnaturalsciencefundproject,China)
+&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Microbialmechanismoforganicnitrogentransformationinpaddysoil(ThenationalnaturalsciencefoundationofChina)
+&nbsp;
+SCIENTIFICPUBLICATIONS,SCI:
+1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ZhangQC，WangGH.AdsorptionofdissolvedorganiccarbonanddissolvedorganicnitrogenfromorganicmanureonUltisols.Chemosphere,2014,107:432-438
+2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ZhangQC,WangJW,WangGH.SitespecificnutrientmanagementinabambooforestinsoutheastChina.Agriculture,EcosystemsandEnvironment.2014,197:264-270
+3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ZhangQC,DickWA.Growthofsoilbacteria,onpenicillinandneomycin,notpreviouslyexposedtotheseantibiotics.ScienceoftheTotalEnvironment.2014,493:445-453
+4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ZhangQC,ShamsiIH,WangJW,SongQ,XueQ,YuY,LinXY.Surfacerunoffandnitrogen(N)lossinabamboo(phyllostachyspubescens)forestunderdifferentfertilizationregimes.EnvironmentalScienceandPollutionResearch,2013,20(7):4671-4688
+5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ZhangQC,ShamsiIH,XuDT,WangGH,LinXY.Chemicalfertilizerandorganicmanureinputsinsoilexhibitaviceversapatternofmicrobialcommunitystructure.AppliedSoilEcology,2012,57:1-8
+6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ZhangQC,WangGH.EffectofKFertilizationonSoilKPoolsandRiceResponseinanIntensiveCroppingSysteminChina.JournalofPlantNutritionandSoilScience,2011,174(1):73-80.
+7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ZhangQC,LangYY,ShamsiIH,WangGH,LouLP.SurfacerunoffandphosphoruslossfrombambooforestecosysteminsoutheastChina.AfricanJournalofBiotechnology.2011,10(47):9631-9639
+8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GeCR,ZhangQC.Microbialcommunitystructureandenzymeactivitiesinasequenceofheavymetal-pollutedsoils.Pedosphere.2011,21(2):164-169
+9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ZhangQC,WangGH,YaoHY.Phospholipidfattyacidpatternsofmicrobialcommunitiesinpaddysoilunderdifferentfertilizertreatments.JournalofEnvironmentalScience.2007,19(1):55-59.
+10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ZhangQC,WangGH,DobermannA.Dynamicsofsoilphosphoruspoolsinacalcareouspaddysoilunderintensivericecropping.PlantandSoil.2006.288:141-155.
+11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ZhangQC,WangGH.ChangesinsoilorganicNformsandNsupplyunderintensiverice.Pedosphere.2006,16(3):345-353.
+12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ZhangQC,WangGH.Studiesonnutrientuptakeofriceandcharacteristicsofsoilmicroorganismsinalong-termfertilizationexperimentsforirrigatedrice.JournalofZhejiangUniversityScience.2005,6B:147-154.
+13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ZhangQC,WangGH.Effectofdifferentfertilizationtreatmentsonecologicalcharacteristicsofmicroorganisminpaddysoil.JournalofZhejiangUniversityScience.2006,7Suppl.II:376-380.
+14.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;WangGH,ZhangQC,WittCandDobermannA.Opportunitiesforyieldincreasesandenvironmentalbenefitsthroughsite-specificnutrientmanagementinricesystemsofZhejiangProvince,China.Agriculturalsystems,2007.94:801-806.
+PATENT
+l&nbsp;ZhangQC,WangGH,YaoHY.AnapplicationofrecycledwasteionexchangeresinballdeterminationmethodofavailablePinsoil.PATENTNO：ZL200810059342.5Authorizationdate：2009.11.11,China
+l&nbsp;ZhangQC,LouLP,WangGH.Anapplicationofrecycledwasteionexchangeresinballtoanalyzequalityofwater.PATENTNO：ZL201310112063.1Authorizationdate：2012.4.1,China
+l&nbsp;ZhangQC,WangJW,WangGH.Amethodofsloperunofffieldconstruction.PATENTNO：ZL200910154666.1Authorizationdate：2012.11.14,China
+l&nbsp;ZhangQC,HouCP.Aresistanceelementasthecarbonsourceseparationmethodsofsoilmicrobialgrowth.PATENTNO：201310092849.1,China
+l&nbsp;ZhangQC,WangGH,XuDT.Awaytousewasteionexchangeresinballawatertestmethod.PATENTNO：201310112063.1,China
+			
+				
+			Researchwork
+			
+			SoilMicroorganismsDiversity/SoilNutrition/SoilChemistry&EnvironmentalSciences
+			
+				
+			Contact
+			
+			Phone:88982413
+			E-mail:qczhang@zju.edu.cn
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:QichunZhang
+		Units:ZhejiangUniversity
+		Title:AssociateProf.
+		Myhomepagehasbeenvisited8times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	
+
+
+Youarevisitor:8
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

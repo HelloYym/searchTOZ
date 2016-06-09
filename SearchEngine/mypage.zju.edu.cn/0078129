@@ -1,0 +1,205 @@
+
+
+
+
+
+陈隆道-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0078129";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	陈隆道
+
+
+	永久链接:http://mypage.zju.edu.cn/0078129&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			目前正在进行的科研项目有：上海宝钢设备检修有限公司的&ldquo;电机与变压器试验台数字化技术开发&rdquo;，浙江省电力公司的&ldquo;面向市场的快速反应机制&rdquo;，江苏如皋皋鑫电子股份公司的&ldquo;高压硅堆自动测试系统&rdquo;，江苏如皋大昌电子股份公司的&ldquo;高压二极管快速自动测试系统&rdquo;，江苏如皋大昌电子股份公司的&ldquo;高压二极管反向漏电流自动测试系统&rdquo;等。成果简介：获浙江省科技进步三等奖3项，专利1项，获浙江大学各类奖教金8项，发表学术论文50余篇。
+			
+				
+			工作研究领域
+			
+			1、电力信号监测与分析
+2、智能仪器与智能监测系统
+3、噪音背景信号的监测和分析
+
+			
+				
+			联系方式
+			
+						电子信箱：chen_longdao@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：陈隆道
+		单位：电气工程学院电工电子基础教学中心
+		职称：教授
+		我的主页共被访问了8323次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

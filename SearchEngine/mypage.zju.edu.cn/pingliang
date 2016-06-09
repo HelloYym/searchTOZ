@@ -1,0 +1,250 @@
+
+
+
+
+
+梁平浙江大学-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0013242";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	梁平浙江大学
+Ifweknewwhatweweredoing,itwouldn'tbecalledResearch.
+
+	永久链接:http://mypage.zju.edu.cn/pingliang&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			教育背景
+2005.09-2010.06，北京大学，神经科学，博士（导师：王克威教授）
+2008.01-2009.01，加州大学戴维斯分校，生理与膜生物学，访问学者（导师：郑劼教授）
+2000.09-2005.06，中国医科大学，临床医学，学士
+&nbsp;
+工作经历
+2014.04-至今，浙江大学转化医学研究院，教授
+2011.05-2014.04，斯坦福大学，心血管研究所，博士后（导师：JosephWu教授）
+2010.09-2011.04，百泰生物药业有限公司，医学研发部，项目经理
+
+
+
+
+
+
+
+主要学术成绩
+主要致力于应用&ldquo;病人特异性&rdquo;iPSC来源的心肌细胞（iPSC-CM）进行心血管疾病研究，特别擅长于应用膜片钳电生理，并结合功能性细胞内钙成像检测、分子生物学、生物化学、细胞生物学、生物物理等多种功能学检测技术，进行重大、复杂性心律失常病（携带离子通道基因突变）、遗传性心肌病等疾病的分子和细胞机制研究、以及药物筛选。代表性论文发表在CellStemCell、Circulation、JACC、JBC、BiophysicalJournal等杂志；合作论文发表在ScienceTranslationalMedicine、JACC、CirculationResearch、JournalofNeuroscience等杂志。
+
+&nbsp;
+代表性论文
+1）WangY*,&nbsp;LiangP*,&nbsp;LanF*,WuH*,LisowskiL,GuM,HuS,KayM,UrnovF,ShinnawiR,GoldJ,GepsteinL,WuJC.GenomeeditingofisogenichumaninducedpluripotentstemcellsrecapitulatesLongQTphenotypefordrugtesting.&nbsp;JACC&nbsp;2014;&nbsp;64(5):451-9(*并列第一作者)
+
+2）LiangP,DuJ.Humaninducedpluripotentstemcellformodelingcardiovasculardiseases.&nbsp;RegenerativeMedicineResearch&nbsp;2014;2:4&nbsp;
+3）NavarreteEG*,&nbsp;LiangP*,LanF*,Sanchez-FreireV,SimmonsCS,GongT,SharmaA,BurridgePW,PatlollaB,LeeAS,BeyguiRE,BersDM,WuJC.Screeningdrug-inducedarrhythmiaeventsusinghumaninducedpluripotentstemcell-derivedcardiomyocytesandlow-impedancemicroelectrodearrays.&nbsp;Circulation&nbsp;2013;128:S3-S13&nbsp;(*并列第一作者)
+
+4）LiangP*,LanF*,LeeAS*,GongT,SanchezVF,WangY,DieckeS,SallamK,KnowlesJW,WangPJ,NguyenPK,BersDM,RobbinsRC,WuJC.Drugscreeningusingalibraryofhumaninducedpluripotentstemcellderivedcardiomyocytesrevealsdiseasespecificpatternsofcardiotoxicity.&nbsp;Circulation&nbsp;2013;127(16):1677-1691&nbsp;(由DanRoden和CharlesHong配发评论)(2013&nbsp;年度基础研究领域最佳论文)&nbsp;(*并列第一作者)
+5）LanF*,LeeAS*,&nbsp;LiangP*,SanchezVF,NguyenPK,WangL,HanL,YenM,WangY,SunN,AbilezOJ,HuS,EbertAD,NavarreteEG,SimmonsCS,WheelerM,PruittB,LewisR,YamaguchiY,AshleyEA,BersDM,RobbinsRC,LongakerMT,WuJC.Abnormalcalciumhandlingpropertiesunderliefamilialhypertrophiccardiomyopathypathologyinpatient-specificinducedpluripotentstemcells.CellStemCell&nbsp;2013;12(1):101-13&nbsp;(Faculty1000推荐&ldquo;必读&rdquo;文章)&nbsp;(*并列第一作者)
+
+6）LiangP,ChenH,CuiY,WangK.FunctionalrescueofKv4.3channeltetramerizationmutantsbyKChIP4a.&nbsp;BiophysicalJournal&nbsp;2010;98(12):2867-76
+
+7）LiangP*,WangH*,ChenH*,CuiY,GuL,ChaiJ,WangK.StructuralinsightsintoKChIP4amodulationofKv4.3inactivation.&nbsp;JBiolChem&nbsp;2009;284(8):4960-4967&nbsp;(*并列第一作者)
+
+欢迎访问梁平实验室网页www.lianglab.org。
+
+			
+				
+			工作研究领域
+			
+			干细胞生物学，心血管疾病，心脏电生理学，离子通道学，生物物理学
+			
+				
+			联系方式
+			
+			电话：0571-86971872			电子信箱：pingliang@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：梁平
+		单位：医学院
+		职称：教授
+		我的主页共被访问了4633次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		实验室介绍
+	工作研究项目
+	奖励荣誉
+	学术交流（讲座报告）
+	发表论文
+	专利成果
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	浙江大学
+浙江大学医学院
+StanfordCVI
+WuLabatStanford
+ZhengLabatUCDavis
+WangLabatBJMU
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

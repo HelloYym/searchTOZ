@@ -1,0 +1,213 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0087248";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0087248&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;&nbsp;李伯耿，男，1958年9月生，汉族，1982年1月毕业于浙江大学化工系，1984和1987年先后在该校获工学硕士和博士学位；曾先后在英国Loughborough大学化工系、美国麻省理工学院化工系作普通和高级访问学者，1994年起任浙江大学教授，1995年被批准为博士导师；现受聘为教育部&quot;长江学者奖励计划&quot;浙江大学化学工程学科特聘教授，任浙江大学材料与化学工程学院常务副院长、化学工程国家重点实验室（浙江大学）主任，兼任国务院学位委员会化学工程与技术学科评议组成员、教育部化学化工教学指导委员会化学工程与工艺分委员会委员、中国化工学会常务理事兼化学工程专业委员会副主任委员、浙江省化工学会理事长、浙江省高等学校化学化工教学指导委员会主任委员等职务。
+&nbsp;&nbsp;&nbsp;&nbsp;在聚合反应工程领域开展聚合动力学、聚合工艺与聚合反应器、聚合物成粒机理与颗粒形貌、聚合过程建模与仿真、聚合物绿色制造过程等基础与应用研究，先后负责承担国家自然科学基金重大项目、重点项目，国家重点基础研究发展规划项目，国家科技攻关项目等研究课题，在国内外学术刊物上发表论文200余篇，获鉴定成果10余项、发明专利16项、省部级科技进步奖6项。
+&nbsp;&nbsp;&nbsp;&nbsp;1994年入选原国家教委&quot;跨世纪优秀人才培养计划&quot;；1995年获国务院特殊津贴；1999年入选国家&quot;百千万人才工程&quot;；2001年获国家杰出青年科学基金的资助，并受聘为教育部&quot;长江学者计划&quot;浙江大学化学工程学科特聘教授。
+
+			
+				
+			工作研究领域
+			
+			[1]非均相聚合动力学与聚合物多层次结构的调控；
+[2]烯烃催化聚合方法、聚合动力学与聚合物原生态结构；
+[3]高转化本体聚合动力学与聚合反应器的选型与放大；
+[4]聚合物合金及复合材料的原位聚合及反应挤出法制备；
+[5]环境友好的聚合过程与聚合物。
+
+			
+				
+			联系方式
+			
+			电话：0571-87952623（O）			电子信箱：bgli@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：李伯耿
+		单位：化学工程与生物工程学系
+		职称：教授
+		我的主页共被访问了10370次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		发表论文
+	研究成果
+	专利成果
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

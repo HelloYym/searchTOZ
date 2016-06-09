@@ -1,0 +1,212 @@
+
+
+
+
+
+医学信息学-医学图像处理及可视化-刘济全-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0003203";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	医学信息学-医学图像处理及可视化-刘济全
+
+
+	永久链接:http://mypage.zju.edu.cn/liujiquan&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;2003年3月毕业于浙江大学生物医学工程专业，获工学博士学位。
+2003年6月至2005年6月在浙江大学博士后流动站、深圳博士后工作站安科公司分站从事博士后研究工作。
+2005年7月受聘浙江大学生物医学工程与仪器科学学院，承担教学以及科研工作。
+2009年3月至2011年1月赴美国MayoClinic医学中心交流访问并开展合作研究。
+现研究方向为医学图像处理和可视化，主要涉及医学图像显示、处理及分析，医学图像可视化，医学虚拟现实，计算机辅助诊断和手术，影像介入等手术导航等。
+近年来，承担了国家自然科学青年基金《基于网格模型和胃镜视频图像序列的胃内壁动态表面建模研究》的研究，参与了国家&ldquo;863&rdquo;计划《胃癌前病变的癌变监测、干预阻断研究和若干诊疗品开发》、国家&ldquo;十二五&rdquo;科技支撑计划《MRI脉冲系列线圈设计与系统软件开发》等项目的研发，与美国MayoClinic合作参与了美国NIH资助的重点课题《5DImageGuidedCardiacAblation，多维影像引导心脏消融》。
+目前已在国内外发表学术论文近二十篇，获国家发明专利一项。
+			
+				
+			工作研究领域
+			
+			医学图像处理及可视化、医学虚拟现实、手术介入及导航
+			
+				
+			联系方式
+			
+			电话：87951792			电子信箱：liujq(at)zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：刘济全
+		单位：生物医学工程与仪器科学学院仪器科学与工程学系
+		职称：副研究员（自然科学）
+		我的主页共被访问了7554次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		实验室介绍
+	发表论文
+	工作研究项目
+	专利成果
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

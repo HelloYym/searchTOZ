@@ -1,0 +1,211 @@
+
+
+
+
+
+董平的主頁-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0002034";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	董平的主頁
+修辭立誠，知類通達
+
+	永久链接:http://mypage.zju.edu.cn/dongping&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;&nbsp;自从1986年在《学术月刊》、《哲学研究》最早发表文章以来，一直用&ldquo;董平&rdquo;署名，与身份证上的名字不符，造成许多不便，非常抱歉，不过名字只是一个符号而已。
+&nbsp;&nbsp;&nbsp;&nbsp;我出生在浙江省衢县（现在叫衢州市了），那一天是1959年9月4日。1975年高中毕业后，打工三年。1978年考进杭州大学中文系，1983年再考入杭州大学古籍研究所，是该所第一届硕士研究生的六分之一。1986年进入浙江省社会科学院哲学研究所工作，始从事中国哲学的研究。曾经做过省社科院哲学研究所的所长。我是2002年才正式调到浙江大学哲学系来工作的。
+&nbsp;&nbsp;&nbsp;在学术上，我自以为兴趣广泛，算是&ldquo;杂家&rdquo;，不是&ldquo;专家&rdquo;，到现在为止，写过几本书：《陈亮评传》，1996年由南京大学出版社出版，1999年得了省政府二等奖；《天台宗研究》，2002年由上海古籍出版社出版；《浙江思想学术史&mdash;&mdash;从王充到王国维》，2005年由中国社会科学出版社出版，2008年得了省政府一等奖；《王阳明的生活世界》2005年就写成了，但到今年2009年10月才由中国人民大学出版社出版。编选注释了《陈亮文粹》，2006年由浙江古籍出版社出版，还有《浙江思想的哲学本源》，也由浙江古籍出版社出版。有不少古籍整理方面的著作，如《王阳明全集》（合作，1992），《敬斋集》（儒藏本，2008），《邹守益集》（二册，凤凰出版社，2007），《甘泉先生文集内外编》（儒藏本）、《万斯大经学著作五种》（清史项目），目前还在整理《杨简全集》、《王袆全集》。此外还有一些翻译作品，最早的是《东方宗教与哲学》（1988年可能）、《文化与自我》（合作，1991年好象）、《世界名人论中国文化》（湖北人民出版社，1992年好象，后来此书更名为《中国印象》，分为二册，由广西师大出版社出版了，版权页上的译者项中没有了我的名字），现在也还在做一些翻译的工作，主要是关于印度哲学的。
+&nbsp;&nbsp;&nbsp;1994年12月至1995年11月，曾在印度浦那大学高级梵文研究中心进修印度哲学；1995年12月至1997年8月在美国；1998年9月至2001年7月在复旦大学哲学系读博士；2006年8月至10月在哈佛大学哈佛燕京学社访问。
+&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;
+&nbsp;
+			
+				
+			工作研究领域
+			
+			宋明哲学，浙东学派，中国佛教哲学
+			
+				
+			联系方式
+			
+			电话：13336097857			电子信箱：pingdong@21cn.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：董平
+		单位：人文学院哲学系
+		职称：研究员（社会科学）
+		我的主页共被访问了36686次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		发表论文
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

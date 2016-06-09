@@ -1,0 +1,209 @@
+
+
+
+
+
+周耐明-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0006010";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	周耐明
+
+
+	永久链接:http://mypage.zju.edu.cn/znm&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			周耐明，博士，教授，博士生导师，生化所副所长。
+1992年9月获浙江农业大学博士学位。1993年9月获得比利时鲁汶大学青年学者基金赴鲁汶大学作博士后研究；1997年1月至2006年9月先后在美国ThomasJefferson大学和Incyte制药公司从事以GPCR为靶点的新药研发研究。2006年9月作为浙江大学引进人才回国工作，创建分子和细胞生物学实验室。
+			
+				
+			工作研究领域
+			
+			我们实验室主要研究G蛋白偶联受体(GPCR)及其信号的转导。GPCR是细胞表面最大的受体家族,代表着药物研发的一个重要领域.GPCR担负着把细胞外信号传递到细胞内从而改变细胞功能活性的重要作用，对生长发育、生殖、免疫细胞迁移、神经传导、代谢以及行为起到调控作用，与人类疾病如肿瘤发生、炎症、肥胖和糖尿病、骨质疏松甚至HIV病毒感染等密切相关。所以GPCR一直是新药研发最主要的药靶，近20年来，大约有40％的处方药是针对GPCR。我们实验室把研究重点放在G蛋白偶联受体的研究上，并结合诸如癌症、心血管疾病和爱滋病等重大疾病相关的受体，在基础研究方面，着重于受体的结构功能和信号转导分子机制的研究，和孤儿受体新配体的发现和鉴定；同时在应用研究方面，研发具有自主知识产权的细胞水平高通量药物筛选模型，建立一个GPCR基础和应用基础研究的平台，并结合我国的中药宝库和化学合成，经筛选得到相应的激动剂或拮抗剂，并进一步开发为创新药。我们的研究主要由国家自然科学基金，国家科技部863计划和浙江省自然科学基金等资助。
+			
+				
+			联系方式
+			
+			电话：0571-88206748			电子信箱：znm2000@yahoo.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：周耐明
+		单位：生命科学学院生物技术系
+		职称：教授，博士生导师
+		我的主页共被访问了40813次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+	实验室介绍
+	实验室成员
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,235 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0095353";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0095353&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+主要研究领域
+1、文学理论
+2、文艺美学
+3、文化研究
+
+
+代表著作（论文）
+&nbsp;1、显现与对话；百花文艺出版社1993
+2、意义阐释；敦煌文艺出版社1999
+3、文论的现代性与文学理性；浙江大学出版社2005
+4、表征（译著）；商务印书馆2003
+5、泛文学时代的文艺学；《新华文摘》2002年第四期
+
+承担课题
+1、文学理性问题研究；国家社科基金
+2、文学的泛化与文艺学的发展；教育部
+3、文学的越界与文艺学的边界；浙江省社会科学规划重点项目&nbsp;
+&nbsp;
+&nbsp;
+近五年来，出版研究性专著二十多部；在《中国社会科学》、《文学评论》、《新华文摘》等权威刊物上发表论文十多篇，在国内一二级刊物发表论文上百篇。成果获得省部级以上奖励十来项。
+
+
+
+			
+				
+			工作研究领域
+			
+			本人工作领域为美学和文艺学，具体学术兴趣：
+1、文艺美学。主要研究现代主义美学，艺术本体论。代表作《显现与对话》针对传统文艺理论“再现论”和“表现论”共有的形而上学及他律论弊病，提出应把艺术看作一种显现和对话的活动。
+2、现代批评理论。代表作《文论的现代性与文学理性》（第一作者，浙江大学出版社2005年）全面清理现代以来文论在理性与文学的关系问题上的得失，提出“文学理性”的概念，以抵制当代相对主义和虚无主义思潮。
+3、文学阐释学。代表作《意义阐释》从阐释学的角度研究文学文本，提出从看护与表达两方面阐释文学的观点。
+4、文化研究。代表作“泛文学时代的文艺学”（《新华文摘》2002年第四期）提出当代文学越界和泛化现象，指出文艺学必须作出应对和发展。当前主持的教育部十五规划项目“文学的泛化趋势与文艺学的发展”将对此做进一步深入研究。
+
+			
+				
+			联系方式
+			
+			电话：88975644			电子信箱：zjdxxuliang@163.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：徐亮
+		单位：人文学院中国语言文学系
+		职称：教授
+		我的主页共被访问了16243次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

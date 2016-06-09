@@ -1,0 +1,211 @@
+
+
+
+
+
+浙江大学吴健-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0004274";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	浙江大学吴健
+
+
+	永久链接:http://mypage.zju.edu.cn/0004274&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			吴健教授/博导，于浙江大学计算机学院获得学士、博士学位，2004年起在该学院任教至今。浙江大学电子服务研究中心副主任，中国计算机学会青工委委员，中国计算机学会服务计算专委会委员，中国计算机学会计算机应用专委会委员，浙江省151人才，科技部重点领域创新团队成员，曾任YOCSEF杭州主席，浙江省计算机学会青工委主任。担任IJSC杂志编委，PAKDD2013/2014、ICESS2013、ADMA2013等国际学术会议程序委员会委员，TKDE、KAIS、TSMC、TSC、JWSR等学术期刊的审稿专家。研究兴趣集中在服务计算、数据挖掘等方面。近年来承担国家科技支撑项目1项，国家自然科学基金项目4项，浙江省自然科学基金1项，863计划3项，浙江省重大科技攻关1项。先后在IEEEIntelligentSystems、IEEETKDE、IEEETSMC、KAIS等国内外期刊会议发表SCI/EI收录论文70余篇，获得2008和2009年度中国百篇最具影响国内学术论文。2007年获教育部科技进步一等奖，2008年获浙江省科技进步一等奖，2009年获中国商业联合会科学技术特等奖，2010年获国家科技进步奖二等奖。
+			
+				
+			工作研究领域
+			
+			研究兴趣集中在服务计算、数据挖掘、数字医疗等方面。
+			
+				
+			联系方式
+			
+						电子信箱：wujian2000@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：吴健
+		单位：计算机科学与技术学院计算机科学与工程学系
+		职称：教授
+		我的主页共被访问了27738次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	专利成果
+	奖励荣誉
+	实验室介绍
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

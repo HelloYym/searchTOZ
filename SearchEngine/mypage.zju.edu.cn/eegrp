@@ -1,0 +1,218 @@
+
+
+
+
+
+郭瑞鹏的主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0004442";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	郭瑞鹏的主页
+
+
+	永久链接:http://mypage.zju.edu.cn/eegrp&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			长期从事最优化技术及其在电力系统中的应用、电网自动电压控制等方面的科学研究与软件开发工作。成功开发了电网实时自动电压控制系统及电网运行方式决策支持系统。所开发的电网实时自动电压控制系统实际闭环运行于国内4个省级电网及多个地区电网。所开发的电网运行方式决策支持系统实际应用于国内3个省级电网及多个地区电网。先后获得省部级二等奖3项，三等奖2项，国家电网公司科技进步二等奖1项，国家电力科技三等奖1项。
+&nbsp;
+&nbsp;
+学历
+&middot;1994/09－1999/07，浙江大学，电气工程学院，电机工程学系，电力系统自动化专业，博士
+&middot;1990/09－1994/07，浙江大学，电机工程学系，电力系统自动化专业，学士
+&nbsp;
+&nbsp;
+工作经历
+&middot;2006/06－现在，浙江大学，电气工程学院，电机工程学系，副研究员
+&middot;2011/10－2012/10，美国康奈尔大学，电气与计算机工程系，访问学者
+&middot;2004/06－2006/05，浙江大学，电气工程学院，电机工程学系，博士后&nbsp;
+&middot;2003/01－2004/05，南京三能测控科技有限公司，总工程师
+&middot;1999/08－2002/12，烟台东方电子信息产业集团有限公司，配电自动化事业部，DMS应用软件组组长
+&nbsp;
+&nbsp;
+主要研究领域&nbsp;
+&middot;最优化技术及其在电力系统中的应用
+&middot;电网自动电压控制
+&middot;电压稳定
+&middot;电力系统状态估计、拓扑错误辨识、参数估计
+			
+				
+			联系方式
+			
+						电子信箱：eegrp@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：郭瑞鹏
+		单位：电气工程学院电机工程学系
+		职称：副研究员（自然科学）
+		我的主页共被访问了2677次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

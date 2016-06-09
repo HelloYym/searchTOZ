@@ -1,0 +1,226 @@
+
+
+
+
+
+方文军-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0094016";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	方文军
+
+
+	永久链接:http://mypage.zju.edu.cn/0094016&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			研究员&nbsp;2005.10~2006.10&nbsp;日本北海道大学
+教授&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2003.12-
+
+
+副教授&nbsp;1998.8-2003.12
+
+博士&nbsp;&nbsp;&nbsp;1995～1999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江大学
+&nbsp;
+硕士&nbsp;&nbsp;&nbsp;1991～1994&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江大学
+学士&nbsp;&nbsp;&nbsp;1985～1989&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江大学
+
+
+&nbsp;
+
+
+
+			
+				
+			工作研究领域
+			
+			1.航空航天推进剂化学：新型高能量密度液体推进剂及其添加组分的合成制备和应用技术。
+2.生物热化学：结合量热和光谱分析等技术研究药物酶促代谢、生物分子的相互作用。
+3.界面化学：超疏水固体界面；
+4.石油开采和加工用精细化学品。
+
+			
+				
+			联系方式
+			
+						电子信箱：fwjun@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：方文军
+		单位：化学系
+		职称：教授
+		我的主页共被访问了36326次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

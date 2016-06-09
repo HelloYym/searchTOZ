@@ -1,0 +1,223 @@
+
+
+
+
+
+潘恩荣-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0009663";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	潘恩荣
+
+
+	永久链接:http://mypage.zju.edu.cn/erp&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			潘恩荣，男，1979年生，浙江温岭人，副教授，浙江省“之江青年学者”，浙江大学求是青年学者，博士生导师。
+研究兴趣是马克思主义哲学、工程设计哲学、工程伦理与职业主义、TRIZ等。
+工科出身，先后攻读浙江大学科学技术哲学专业硕士学位和博士学位，2009年4月起于浙江大学语言与认知中心从事博士后工作。
+国外访学：
+（1）荷兰代尔夫特理工大学哲学系联合培养博士生（2007年10月-2008年11月），国家留学基金委“国家建设高水平大学公派研究生项目”全额资助，师从PeterKroes教授，完成博士论文的研究与写作。
+（2）荷兰代尔夫特理工大学哲学系访问学者（2015年2月-2016年2月），合作教授PeterKroes，国家留学基金委全额资助。
+主持国家自然科学基金青年科学基金项目、浙江省哲学社会科学规划课题、中国博士后基金项目和杭州市哲学社会科学规划课题等科研项目；已在《哲学研究》等期刊发表论文十篇。
+招生专业：马克思主义基本原理
+招生方向：《资本论》及其手稿哲学思想研究、马克思主义技术哲学、马克思主义技术的社会-经济研究、马克思主义技术伦理学
+近期研究主题：《资本论》及其手稿哲学思想研究，创新驱动发展战略的哲学研究，马克思技术哲学，当代西方技术哲学的经验转向纲领
+研究领域属于跨/交叉学科领域，欢迎各种学科专业背景的考生积极报考，尤其是具有工程背景和科学技术哲学背景的考生。
+
+			
+				
+			工作研究领域
+			
+			（一）马克思主义基本原理
+（二）工程设计哲学
+（三）工程伦理与职业主义
+（四）TRIZ
+			
+				
+			联系方式
+			
+						电子信箱：enrongpan@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：潘恩荣
+		单位：马克思主义学院
+		职称：副教授
+		我的主页共被访问了9670次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	出版著作
+	发表论文
+	奖励荣誉
+	学术兼职
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,208 @@
+
+
+
+
+
+姚栋伟@浙江大学-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0010728";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	姚栋伟@浙江大学
+Dowhatyousay,saywhatyoudo!
+
+	永久链接:http://mypage.zju.edu.cn/dwyao&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			浙江大学博士后/助理研究员，主要从事内燃机代用燃料、内燃机燃烧与排放控制以及汽车电子控制等基础与应用研究工作。在内燃机代用燃料领域，针对内燃机燃用醇类汽油混合燃料时的空燃比控制问题，建立了混合燃料下进气湿壁油膜蒸发预测模型，提出了基于油膜蒸发预测与补偿的混合燃料空燃比控制策略，并自主开发了嵌入式空燃比控制器，实现了内燃机掺醇燃烧空燃比精确控制。针对内燃机掺醇燃烧引起的非常规排放问题，采用敏感性分析方法建立了汽油掺醇燃烧简化机理模型，通过与内燃机整机热力循环模型进行耦合，仿真获得了非常规排放随内燃机设计与控制参数等的变化规律，为内燃机掺醇燃烧排放性能优化提供了参考。在内燃机排放控制领域，针对中重型柴油机建立了耦合排气流动、传热传质及化学反应的柴油机SCR尾气后处理过程数值仿真模型，设计搭建了柴油机全尺寸尾气模拟SCR流动反应器台架，为SCR系统的仿真与试验优化提供了条件。在汽车电子领域，建立了基于浙江大学自主OSEK/VDX实时操作系统SmartOSEK的汽车电子嵌入式软件平台，并基于AUTOSAR规范完成了平台在发动机管理系统上的控制应用示范，极大地提高了汽车电子实控系统的开发效率和运行可靠性。
+			
+				
+			工作研究领域
+			
+			主要从事内燃机代用燃料、内燃机燃烧与排放控制以及汽车电子控制等基础与应用研究工作。
+			
+				
+			联系方式
+			
+						电子信箱：dwyao@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：姚栋伟
+		单位：能源工程学系
+		职称：助理研究员（自然科学）
+		我的主页共被访问了2158次
+标签：能源系车辆工程动力机械及工程动力工程及工程热物理动力机械及车辆工程研究所	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	浙江大学
+浙江大学能源工程学系
+浙江大学动力机械及车辆工程研究所
+伊利诺伊大学香槟分校
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

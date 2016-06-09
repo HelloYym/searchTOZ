@@ -1,0 +1,213 @@
+
+
+
+
+
+胡晓兰-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0005200";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	胡晓兰
+
+
+	永久链接:http://mypage.zju.edu.cn/0005200&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			医学部基础医学系副教授，医学博士，硕士生导师。1994年获石河子医学院（现石河子大学医学院）医疗系临床医学专业学士学位。2001年在西安交通大学医学院获医学硕士学位。2005年在第四军医大学获医学博士学位。曾在卫生部重点实验室和国家重点实验室接受硕士和博士科研训练，研究经历涉及多学科，如分子生物学、细胞生物学、发育生物学和蛋白质组学等。长期目标是研究肿瘤、炎症相关性疾病以及退行性疾病等复杂疾病的信号通路，探查疾病关键信号通路的调节模式以及重要靶分子的作用机制，在此基础上利用干细胞技术、生物材料技术去研发基于这些复杂疾病的个性化诊断和治疗。2007年春在美国Loma&nbsp;Linda&nbsp;大学医学中心短期进修。
+&nbsp;
+			
+				
+			工作研究领域
+			
+			1.FutureResearch:Myprimaryinterestistounderstandsignalingnetworksofcomplexhumandiseasessuchascancerandinflammation.Inparticular,toexploitnanomedicinetodevelopeffectivepersonalizedtherapiesincludingcancerandstemcell-basedtherapeutics.
+2.CurrentResearch:Signalpathwaysandtherapyofcancerandinflammation;Developmentandapplicationoftargetingdrugcarriers;Anti-cancermechanismofmonomercomponentsofChinesemedicine.
+3.PreviousResearch:Molecularmechanismsoftumorigenesiscausedbyenvironmentalchemicals;Usingproteomicsandsecretometodiscoverbiomarkersrelatedwithcancer;DiscoveryofnewgenerelatedwithcellgrowthandusingdevelopmentalbiologytostudythestructureandfunctionofnewgeneNDRG2;Molecularmechanismandtherapyofacutelunginjurywithanimalmodels;Molecularmechanismandgenetherapyofatherosclerosis;Mechanismresearchofischemia-reperfusioninjurywithanimalmodels.
+
+
+			
+				
+			联系方式
+			
+			电话：13067957767			电子信箱：huxiaolan@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：胡晓兰
+		单位：基础医学系
+		职称：副教授
+		我的主页共被访问了10173次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	奖励荣誉
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

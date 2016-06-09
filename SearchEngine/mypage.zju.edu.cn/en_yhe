@@ -1,0 +1,265 @@
+
+
+
+
+
+Prof.YongHe-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0087119";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	Prof.YongHe
+
+
+	Permanentlink:http://mypage.zju.edu.cn/en/yhe&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			Blog
+
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			YongHe,Ph.D.,P.E.,Professor
+DirectorofcentreofprecisionagricultureandruralinformationinZhejiangUniversity
+CollegeofBiosystemsEngineeringandFoodScience
+ZhejiangUniversity
+Tel:+86-571-88982143,yhe@zju.edu.cn
+a.ProfessionalPreparation
+ZhejiangAgriculturalUniversity,CollegeofAgriculturalEngineeringBS1984
+ZhejiangAgriculturalUniversity,CollegeofAgriculturalEngineeringMS1987
+ZhejiangUniversity,BiosystemsEngineering,PhD1998
+b.Appointments
+1995-presentProfessor,CollegeofBiosystemsEngineeringandFoodScience,ZhejiangUniversity
+2006.12-2007.1SeniorVisitingScholarandVisitingProfessor,UniversityofTokyo,KyotoUniversityandTokyoUniversityofAgriculture
+2002-2010ViceDean,CollegeofBiosystemsEngineeringandFoodScience,ZhejiangUniversity
+2001-2002SeniorVisitingScholarandVisitingProfessor,UniversityofIllinois(UIUC)
+1998SeniorVisitingScholarandVisitingProfessor,TokyoUniversity
+1998SeniorVisitingScholarandVisitingProfessor,TokyoUniversityofAgriculture
+1998SeniorVisitingScholar,SingaporePolytechnic
+1998SeniorVisitingScholar,CityUniversityofHongKong
+1995-1998Professor,CollegeofAgriculturalEngineering,ZhejiangAgriculturalUniversity
+1992-1995AssociateProfessor,CollegeofAgriculturalEngineering,ZhejiangAgriculturalUniversity
+1991-1992Lecturer,CollegeofAgriculturalEngineering,ZhejiangAgriculturalUniversity
+1987-1991AssistantProfessor,CollegeofAgriculturalEngineering,ZhejiangAgriculturalUniversity
+c.Publications(Totalover400scientificpublications)
+1.&nbsp;LiuF.,ZhangF,JinZ.L,HeY*,FangH,YeQ.F,ZhouW.J.Determinationofacetolactatesynthaseactivityandproteincontentofoilseedrape(BrassicanapusL.)leavesusingvisible/near-infraredspectroscopy.AnalyticaChimicaActa,2008,629(1-2)：56-65.(SCI,IF=4.311)
+2.&nbsp;CenH.Y,HeY*.Theoryandapplicationofnearinfraedreflectancespectroscopyindeterminationoffoodquality.TrendsinFoodScience&amp;Technology,2007,18(2):72-83.(SCI,IF=4.051)
+3.&nbsp;LiuF,HeY*.Discriminationofproducingareasofauriculariaauriculausingvisible/nearinfraredspectroscopy.FoodandBioprocessTechnology,2011,4(3):387-394.(SCI,IF=3.576)
+4.&nbsp;LingP.,ChenY.M,HeY*.Identificationofbrokenricekernelsusingimageanalysistechniquescombinedwithvelocityrepresentationmethod,FoodandBioprocessTechnology,2012,5(2):796-802.(SCI,IF=3.576)
+5.&nbsp;ShaoY.N,ZhaoC.J,BaoY.D,HeY*.Quantificationofnitrogenstatusinricebyleast-squaressupportvectormachinesandreflectancespectroscop,FoodandBioprocessTechnology,2012,5(1):100-107.(SCI,IF=3.576)
+6.&nbsp;ShaoY.N,CenY.L,HeY*,LiuF.Infraredspectroscopyandchemometricsforthestarchandproteinpredictioninirradiatedrice.FoodChemistry,2011,126(4):1856-1861.(SCI,IF=3.458)
+7.&nbsp;LiuF,HeY*,SunG.M.DeterminationofproteincontentofAuriculariaauriculausingnearinfraredspectroscopycombinedwithlinearandnonlinearcalibrations.JournalofAgriculturalandFoodChemistry,2009,57(11):4520-4527.(SCI,IF=2.816)
+8.&nbsp;ShaoY.N,HeY*,WuC.Q.Dosedetectionofradiatedricebyinfraredspectroscopyandchemometrics.JournalofAgriculturalandFoodChemistry,2008,56(11):3960-3965.(SCI,IF=2.816)
+9.&nbsp;ShaoY.N,HeY*,GomezA.H,PereirA.G,QiuZ.J,ZhangY.Visible/nearinfraredspectrometrictechniquefornondestructiveassessmentoftomato'Heatwave'(Lycopersicumesculentum)qualitycharacteristics.JournalofFoodEngineering,2007,81(4):672-678.(SCI,IF=2.168)
+10.&nbsp;HeY*,LiX.L,DengX.F.DiscriminationofvarietiesofteausingnearinfraredspectroscopybyprincipalcomponentanalysisandBPmodel.JournalofFoodEngineering2007,79(4):1238-1242.(SCI,IF=2.168)
+11.&nbsp;WuD,YangH.Q,ChenX.J,HeY*,LiX.L.Applicationofimagetextureforthesortingofteacategoriesusingmulti-spectralimagingtechniqueandsupportvectormachine.JournalofFoodEngineering,2008,88(4):474-483.(SCI,IF=2.168)
+12.&nbsp;LiX.L,HeY*.DiscriminatingvarietiesofteaplantbasedonVis/NIRspectralcharacteristicsandusingartificialneuralnetworks.BiosystemsEngineering,2008,99(3):313-321.(SCI,IF=1.241)
+13.&nbsp;WuD,FengL,HeY*,BaoY.VarietyidentificationofChinesecabbageseedsusingvisibleandnear-infraredspectroscopy.TransactionsoftheASABE,2008,51(6):2193-2199.(SCI)
+14.&nbsp;WuD,FengL,ZhangC,HeY*.Earlydetectionofbotrytiscinereaoneggplantleavesbasedonvisibleandnear-infraredspectroscopy.TransactionsoftheASABE,2008,51(3):1133-1139.(SCI)
+15.&nbsp;LiX.L,HeY*.Chlorophyllassessmentandsensitivewavelengthexplorationfortea(Camelliasinensis)basedonreflectancespectralcharacteristics.Hortscience,2008,43(5):1586-1591.(SCI)
+16.&nbsp;ShaoY.N.,ZhaoC.J,HeY*,BaoY.D.Applicationinfraredspectroscopytechniqueandchemometricsformeasurementofcomponentsinriceafterradiation.TransactionsoftheASABE,2009,52(1):187-192.(SCI)
+17.&nbsp;LiuF,KongW.W,HeY*.Nondestructiveestimationofnitrogenstatusandvegetationindexofoilseedrapecanopyusingmulti-spectralimagingtechnology.SensorLetters,2011,9(3):1126-1132.(SCI)
+18.&nbsp;LiuF,NieP.C,HuangM,KongW.W,HeY*.Nondestructivedeterminationofnutritionalinformationinoilseedrapeleavesusingvisible/nearinfraredspectroscopyandmultivariatecalibrations.ScienceChina-InformationSciences,2011,54(3):598-608.(SCI)
+19.&nbsp;ZhangY,HeY*.Co-compostingsolidswinemanurewithpinesawdustasorganicsubstrate.BioresourceTechnology,2006,97(16):2024&ndash;2031.(SCI,IF=4.365)
+20.&nbsp;HeY*,HuangM,GarciaA,HernandezA,SongH.Predictionofsoilmacronutrientscontentusingnear-infraredspectroscopy.ComputersandElectronicsinAgriculture,2007,58(2):144-153.(SCI,IF=1.431)
+21.&nbsp;FangH,HeY*.ApocketPCbasedfieldinformationfastcollectionsystem.ComputersandElectronicsinAgriculture,2008,61(2):254-260.(SCI,IF=1.431)
+22.&nbsp;ShaoY.N,BaoY.D,HeY*.Soilnitrogencontentinfluenceoncanopyreflectancespectra,TransactionsoftheASABE,2011,54(6):2343-2349.(SCI)
+23.&nbsp;ShaoY.N,HeY*.Nitrogen,phosphorus,andpotassiumpredictioninsoilsusinginfraredspectroscopy.SoilResearch,2011,49:166&ndash;172.(SCI)
+24.&nbsp;YangH.Q,YangY,HeY.Wirelesssensornetworkfororchardsoilandclimatemonitoring.AMA-AgriculturalMechanizationinAsia,AfricaandLatinAmerica,2010,41(3):83&ndash;88.(SCI)
+25.&nbsp;QiuZ.J,HeY*,LiW.M.AnoteontheadoptionofprecisionagricultureinEasternChina.OutlookonAgriculture,2007,36(4):255-257.(SCI)
+26.&nbsp;NieP.C,WuD,YangY,HeY*.HybridcombinationofGIS,GPS,WSNandGPRStechnologyinmoderndigitalagricultureapplication.AdvancedMaterialsResearch,2010,108-111:1158-1163.(EI)
+27.&nbsp;WuD,NiePC,CuelloJ,HeY*,WangZP&amp;WuHX.Applicationofvisibleandnearinfraredspectroscopyforrapidandnon-invasivequantificationofcommonadulterantsinSpirulinapowder.JournalofFoodEngineering,2011,102(3),278-286.
+28.&nbsp;WuD,ChenXJ,ShiPY,WangSH,FengFQ&amp;HeY*.Determinationofalpha-linolenicacidandlinoleicacidinedibleoilsusingnear-infraredspectroscopyimprovedbywavelettransformanduninformativevariableelimination.AnalyticaChimicaActa,2009,634(2),166-171.
+29.&nbsp;HeY*&amp;BaoYD.Studyoncottonseedoilasapartialsubstitutefordieseloilinfuelforsingle-cylinderdieselengine.RenewableEnergy,2005,30(5),805-813.
+30.&nbsp;HeY*&amp;BaoYD.Studyonrapeseedoilasalternativefuelforasingle-cylinderdieselengine.RenewableEnergy,2003,28(9),1447-1453.
+d.SynergisticActivities
+ThefollowingactivitieshighlightDr.He&rsquo;sscholarshipandteaching:
+&#61548;&nbsp;Heteachesbothundergraduateandgraduatecoursesinareaofbiosystemsengineering.Hedevelopedanewcourse,PrecisionAgricultureand3Stechnology,andsubsequentlyauthoredatextbookusingthesametitleforseniorsandgraduatestudents.
+&#61548;&nbsp;HeparticipatedthedesigningofthefirstBiosystemsEngineeringprograminChina.
+&#61548;&nbsp;HewontheNationalDistinguishedTeacherofChinain2008.
+&#61548;&nbsp;Heconstantlyencouragesstudentstoexcelinresearchandteaching.HehasthreestudentswhowontheZhuKe-zhenScholoarship(ThehighestscholarshipofZhejiangUniversity).HehasonestudentwhowontheTOPtenstudentsofZhejiangUniversity.
+&#61548;&nbsp;Hementorsundergraduatestudentsthroughinvolvingthemintheresearchprojects(Oneprofessorandoneundergraduatestudentplan).Hisresearchteamconsistentlyhastwoormoreundergraduatestudents,teamingthemwithgraduatestudentsandresearchengineersandpost-doctorates.
+&nbsp;
+e．EditorialboardofsomeJournals
+&#61548;&nbsp;FoodandBioprocessTechnology
+&#61548;&nbsp;ComputersandElectronicsinAgriculture
+&#61548;&nbsp;FoodandNutritionSciences&nbsp;
+&nbsp;
+			
+				
+			Researchwork
+			
+			precisionagriculture
+farmequipment
+Internetofthings
+			
+				
+			Contact
+			
+			Phone:+8657188982143
+			E-mail:yhe@zju.edu.cn
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:YongHe
+		Units:CollegeofBiosystemsEngineeringandFoodScience,ZhejiangUniversity
+		Title:Professor
+		Myhomepagehasbeenvisited4419times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	
+
+
+Youarevisitor:4419
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

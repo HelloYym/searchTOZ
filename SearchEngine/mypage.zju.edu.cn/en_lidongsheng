@@ -1,0 +1,254 @@
+
+
+
+
+
+DongshengLi-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0002014";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	DongshengLi
+siliconphotonics,plasmonics
+
+	Permanentlink:http://mypage.zju.edu.cn/en/lidongsheng&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			Blog
+
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			
+DongshengLiisaProfessorintheDepartmentofMaterialScienceandEngineeringatZhejiangUniversity.HeiscurrentlyalsoafacultymemberintheStateKeyLaboratoryofSiliconMaterialsatZhejiangUniversity.Dr.LiobtainedhisBSdegreefromtheUniversityofJiangSuofChinaandhisPhDin2002fromZhejiangUniversityinDepartmentofMaterialScienceandEngineering.Then,hejoinedZhejiangUniversity.
+Dr.Li'sresearchinterestshavefocusedonsynthesizeofplasmonicmicrostructure,applicationofplasmonicmicrostructureonsolarcells,RamanandLuminescence,andsiliconphotonics.
+ThefollowingisalistofDr.Li'srepresentativepublications:
+(FullpublicationscanbefoundatResearcherIDA-1691-2010)
+1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ThelocationanddopingeffectofboroninSinanocrystalsembeddedsiliconoxidefilm
+MinXie,DongshengLi*;LeChen,FengWang,XiaodongZhu,DerenYang,&nbsp;AppliedPhysicsLettersVolume:102Issue:12Pages:123108(2013)(PDF)
+2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Evolutionofelectroluminescencefromsiliconnitridelight-emittingdevicesviananostructuralsilver
+DongshengLi*;FengWang,DerenYang,Nanoscale5(8):3435-3440(2013)(PDF)
+3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Size-dependentcouplingbetweenlocalizedsurfaceplasmonsandexcitonsinsiliconnitridematrix
+FengWang,DongshengLi*,DerenYang,DuanlinQue,Opt.Lett.38(15):2832-2834(2013)(PDF)
+4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TailoringEffectofEnhancedLocalElectricFieldFromMetalNanoparticlesonElectroluminescenceofSilicon-RichSiliconNitride
+FengWang,DongshengLi*,DerenYang,DuanlinQue,IEEEJOURNALOFSELECTEDTOPICSINQUANTUMELECTRONICS19(3):ArticleNumber:4602504(2013)(PDF)
+5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Enhancementoforange-yellowelectroluminescenceextractionfromSiNxlight-emittingdevicesbysilvernanostructures
+FengWang,DongshengLi*,DerenYang,DuanlinQue,OpticsExpress21(1):846-854(2013)(PDF)
+6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Enhancementofroomtemperaturedislocation-relatedphotoluminescenceofelectronirradiatedsilicon
+LuelueXiang,DongshengLi*,LuJin,ShumingWang,DerenYang,JournalofAppliedPhysics113(3):033518(2013)&nbsp;(PDF)
+7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LocalizedsurfaceplasmonresonanceenhancedphotoluminescencefromSiNxwithdifferentN/Siratios
+FengWang,MinghuaWang,DongshengLi*,DerenYang,Opt.Mater.Express2(10):1437-1448(2012)(PDF)
+8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ElectricallytunableelectroluminescencefromSiNx-basedlight-emittingdevices
+DongshengLi*,FengWang,DerenYang,DuanlinQue,OpticsExpress20(16):17360-17367(2012)(PDF)
+9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Improvedelectroluminescencefromsiliconnitridelightemittingdevicesbylocalizedsurfaceplasmons
+DongshengLi*,FengWang,ChangruiRen,DerenYang,Opt.Mater.Express2(6):872-877(2012)(PDF)
+NewsbreaksofLaserFocusWorld&nbsp;&quot;Silver-enhancedsiliconnitrideLEDisefficientintegrated-photonicssource&quot;.
+10.&nbsp;Enhancementoflight-extractionefficiencyofSiNxlightemittingdevicesthrougharoughAgislandfilm
+FengWang,DongshengLi*,DerenYang,DuanlinQue,AppliedPhysicsLetters&nbsp;V.100(3):031113(2012)(PDF)
+11.&nbsp;ControlledsynthesisofluminescentCuInS2nanocrystalsandtheiropticalproperties
+DongshengLi*,YuZou,DerenYang,JournalofLuminescenceV:132(2)Pages:313-317(2012)(PDF)
+12.&nbsp;FabricationofTiO2nanorodarray/semiconductornanocrystalhybridstructureforphotovoltaicapplications
+YuZou,DongshengLi*,XiaSheng,LeiWang,DerenYang,SolarEnergy86(5):1359-1365(2012)(PDF)
+key-scientific-articlesofRenewableEnergyglobalinnovations
+13.&nbsp;Animprovedseed-mediatedgrowthmethodtocoatcompletesilvershellsontosilicaspheresforsurface-enhancedRamanscattering
+TaoLiu,DongshengLi*,DerenYang,etal.,ColloidsandSurfacesA:PhysicochemicalandEngineeringAspectsVolume:387Issue:1-3Pages:17-22(2011)(PDF)
+14.&nbsp;FabricationofFlower-LikeSilverStructuresthroughAnisotropicGrowth
+TaoLiu,DongshengLi*,DerenYang,etal.LangmuirVolume:27Issue:10Pages:6211-6217(2011)(PDF)
+15.&nbsp;Preparationofechinus-likeSiO2@AgstructureswiththeaidoftheHCPphase
+TaoLiu,DongshengLi*,DerenYang,etal.ChemicalCommunicationsV47(18)Pages:5169-5171(2011)(PDF)
+16.&nbsp;ShapeandphasecontrolofCdSnanocrystalsusingcationicsurfactantinnoninjectionsynthesis
+YuZou,DongshengLi*,DerenYang,NanoscaleResearchLettersVolume:6Issue:1Pages:374(2011)(PDF)
+17.&nbsp;Sizecontrollablesynthesisofultrafinesilverparticlesthroughaone-stepreaction
+TaoLiu,DongshengLi*,DerenYang,etal.MaterialsLettersVolume:65Issue:4Pages:28-631(2011)(PDF)
+18.&nbsp;NoninjectionSynthesisofCdSandAlloyedCdSxSe1-xNanocrystalsWithoutNucleationInitiators
+YuZou,DongshengLi*,DerenYang,NanoscaleResearchLettersV.5Issue:6Pages:966-971(2010)(PDF)
+19.&nbsp;StructureandluminescenceevolutionofannealedEuropium-dopedsiliconoxidesfilms
+DongshengLi*,XuwuZhang,LuJin,etal.OpticsExpressVolume:18(26)Pages:27191-27196(2010)(PDF)
+20.&nbsp;LocalizedsurfaceplasmonenhancedphotoluminescencefromZnOfilms:Extractiondirectionandemittinglayerthickness
+PeihongCheng,DongshengLi*,XiaoqiangLi,etal.JournalofAppliedPhysicsVolume:106Issue:6(2009)(PDF)
+21.&nbsp;Excitationtransferfromporoussilicontopolymer
+DongshengLi,DerenYang,etal.MaterialsScienceandEngineeringB-SolidStateMaterialsforAdvancedTechnologyVolume:121Issue:3Pages:229-231(2005)(PDF)
+22.&nbsp;SelectiveetchingofGaNpolarsurfaceinpotassiumhydroxidesolutionstudiedbyx-rayphotoelectronspectroscopy
+DongshengLi,MSumiya，SFuke，DerenYang,etal.JournalofAppliedPhysicsVolume:90Issue:8Pages:4219-4223(2001)(PDF)
+23.&nbsp;CharacteristicsoftheGaNpolarsurfaceduringanetchingprocessinKOHsolution
+DongshengLi*,MSumiya，SFuke，DerenYang,etal.PhysicaStatusSolidia-AppliedResearch180(1)Pages:357-362(2000)(PDF)
+24.&nbsp;Effectsofnitrogenondislocationsinsiliconduringheattreatment
+DongshengLi,DerenYang,DuanlinQue,PhysicaBVolume:274Pages:553-556(1999)(PDF)
+
+			
+				
+			Researchwork
+			
+			Synthesizeofplasmonicmicrostructure
+Applicationofplasmonicmicrostructureonsolarcells,RamanandLuminescence,Siliconphotonics
+			
+				
+			Contact
+			
+			Phone:86-571-87953180
+			E-mail:mselds@zju.edu.cn
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:DongshengLI
+		Units:ZhejiangUniversity
+		Title:Professor
+		Myhomepagehasbeenvisited3178times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	
+
+
+Youarevisitor:3178
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,216 @@
+
+
+
+
+
+乐明的浙大工作网页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0094332";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	乐明的浙大工作网页
+语言、社会、文明、复杂网络
+
+	永久链接:http://mypage.zju.edu.cn/yueming&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+&nbsp;&nbsp;&nbsp;语言研究是我的本行，看文献、究语料、写文章是我日常工作的主要内容。
+&nbsp;&nbsp;&nbsp;有段时间看了不少民国时期的一些文化资料，很有收获。&ldquo;论究学术，阐述真理，昌明国粹，融化新知，以中正之眼光，行批评之职事，无偏无党，不激不随&rdquo;（《学衡》创刊词）。
+&nbsp;&nbsp;&nbsp;有段时间在看世界经济论坛的一些活动资料，从语言的角度分析全球的政治经济活动，也挺有意思。
+&nbsp;&nbsp;&nbsp;最近一直在读语言历时研究的各种文献，以及复杂适应网络理论在不同学科的发展和应用，很喜欢这种文理工兼容并蓄的意境。（2011年幸运地被评上&ldquo;求是青年学者&rdquo;，可以招博士了。如果您也对语言研究有兴趣，我们可以聊聊&hellip;&hellip;）
+&nbsp;&nbsp;&nbsp;空闲时间我喜欢爬山，养花弄草&hellip;&hellip;
+&nbsp;&nbsp;&nbsp;
+			
+				
+			工作研究领域
+			
+			语言定量研究、语言历时研究、语言对比研究、用法语法、新闻话语分析、识读教育
+			
+				
+			联系方式
+			
+						电子信箱：dr.yueming@@gmail.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：乐明
+		单位：浙江大学语言学研究所
+		职称：副教授
+		我的主页共被访问了20241次
+标签：语言学研究媒体研究	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+	MyAssociates
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	LinguisticDataConsortium
+ACLanthology
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

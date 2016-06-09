@@ -1,0 +1,220 @@
+
+
+
+
+
+王树荣-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0099169";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	王树荣
+
+
+	永久链接:http://mypage.zju.edu.cn/0099169&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			王树荣，男，1972年生，博士，教授，博士生导师。教育部&ldquo;新世纪优秀人才支持计划&rdquo;和浙江省&ldquo;新世纪151人才工程&rdquo;第一层次入选人员，中国可再生能源学会生物质能专委会常务委员，生物质能源产业技术创新战略联盟理事。&ldquo;EnergyScienceandEngineering&rdquo;和&ldquo;应用基础与工程科学学报&rdquo;编委。曾于2006~2007年期间受国家留学基金委资助赴瑞典皇家工学院进行合作访问交流。在浙江大学任职期间先后获得过浙江大学优秀研究生德育导师、浙江大学先进工作者和浙江大学优秀本科生班主任等荣誉称号。
+
+先后负责承担了可再生能源研究领域的4项国家自然科学基金、1项国际科技合作项目、1项国家&ldquo;863&rdquo;课题、2项国家&ldquo;973&rdquo;子课题、1项浙江省杰出青年基金、3项国家科技支撑计划子课题和1项教育部高等学校博士学科点专项科研基金等重要课题的研究工作，另外还主持了煤清洁利用领域的1项国家科技支撑计划子课题，3项国家&ldquo;863&rdquo;子课题、1项国际科技合作项目子课题和1项国家&ldquo;973&rdquo;子课题等多个重要项目的研究工作。
+曾以第二获奖人身份获得浙江省科技进步一等奖一项，并以主要参加人身份获得国家和省部级奖5项。自2004年以来，以第一、二作者或者通讯作者先后在国内外期刊或会议上发表SCI/EI收录论文80余篇，其中单篇论文被SCI正面他引200余次，单篇论文影响因子最高达9.6。以第一、二发明人授权10余项发明专利，并以第一、二著者身份参与编著3部。指导或协助指导的多名博士生或硕士生获得省优和校优毕业生称号。
+
+研究领域：
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;主要从事生物质高效转化为氢能和高品位液体动力燃料，以及生物质基合成气合成高品位液体燃料的研究工作。主要研究方向包括：
+(1)&nbsp;生物质热裂解机理；
+(2)生物质选择性热化学转化制取生物油；
+(3)生物油高效分级分离；
+(4)生物油分级改性研究；
+(5)生物油催化重整制氢；
+(6)生物质基合成气合成醇醚类液体燃料；
+(7)改良费托合成制取航空液体燃料；
+(8)生物质基天然气的高效制取；
+(9)生物基液体动力燃料应用；
+(10)生物质热裂解炭的高值化利用。
+			
+				
+			联系方式
+			
+			电话：0571-87952801			电子信箱：srwang@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：王树荣
+		单位：能源工程学系
+		职称：教授
+		我的主页共被访问了18825次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	研究成果
+	专利成果
+	奖励荣誉
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

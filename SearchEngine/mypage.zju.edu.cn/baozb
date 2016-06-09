@@ -1,0 +1,225 @@
+
+
+
+
+
+BaoZongbi'sHomepage-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0009622";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	BaoZongbi'sHomepage
+
+
+	永久链接:http://mypage.zju.edu.cn/baozb&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			男，1980年生，浙江平阳人，博士、副教授、硕士生导师；生物质化工教育部重点实验室固定成员。
+招收化学工程、制药工程、应用化学、生物化工、化学工艺等专业及科学硕士生。
+办公室：浙江大学玉泉校区教四-320&nbsp;
+
+教育及工作经历&nbsp;
+
+
+2003年获浙江大学制药工程学士学位
+2008年获浙江大学化学工程博士学位
+2009.1-2009.10为浙江大学环境科学与工程学科博士后
+2009.11-2010.10为美国新墨西哥州立大学化工系博士后
+2011年3月留校任教，2011年12月晋升副教授
+
+主要研究方向
+
+有机无机杂化分离材料：有机无机杂化手性固定相；硼特效吸附剂；金属有机骨架材料（MOFs）合成与应用
+化工分离工艺过程开发：天然产物分离纯化、二氧化碳/甲烷及烷烃/烯烃吸附分离、超临界流体色谱和模拟移动床色谱技术
+无机盐资源开发与利用：硼酸萃取剂及萃取工艺、氯化镁中脱除微量硼酸、镁锂分离
+
+&nbsp;
+			
+				
+			联系方式
+			
+						电子信箱：baozb@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：鲍宗必
+		单位：化学工程与生物工程学系
+		职称：副教授
+		我的主页共被访问了4091次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		专利成果
+	教学工作
+	工作研究项目
+	发表论文
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	浙江大学
+浙江大学化工系
+化工分离技术科技创新团队
+
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

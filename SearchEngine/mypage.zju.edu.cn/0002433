@@ -1,0 +1,242 @@
+
+
+
+
+
+-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0002433";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	
+
+
+	永久链接:http://mypage.zju.edu.cn/0002433&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			代表著作（论文）
+2003年（回国）后主要艺术与设计作品：
+2004年全国第五届美术作品入选国家级（出版）
+2004年第19届华沙国际海报双年展入选（两幅）国家级（出版）
+2006年意象武夷中德两国艺术家展（五幅）（北京、上海、德国）（出版）
+
+承担课题
+1、识别系统1.5万独立完成
+2、展示设计2.9万独立完成
+3、横店影视帝王设计项目3.36万独立完成
+4、浙江红楼修善保护4.5万独立完成
+5、标志设计0.2万独立完成
+6、设计咨询49万独立完成
+
+开设课程色彩Ⅰ
+油画（色彩）
+色彩（甲）Ⅱ
+色彩构成
+色彩（甲）Ⅰ联系电话
+书籍与版式编排Ⅰ
+书籍与版式编排Ⅱ
+色彩（甲）Ⅱ
+色彩构成
+色彩（甲）Ⅰ
+想象图形
+书籍与版式编排Ⅰ
+书籍与版式编排Ⅱ
+海报设计
+色彩（甲）Ⅱ
+标志与VI企业形象设计
+当代设计艺术考察
+实验性材料构成
+图形与意象
+平面的表现形式
+设计论证与探讨－以学术研讨会的形式
+设计概论与图形想象
+
+
+			
+				
+			工作研究领域
+			
+			1、艺术设计，
+2、当代艺术与设计
+
+			
+				
+			联系方式
+			
+						电子信箱：Wang64@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：王小松
+		单位：人文学院艺术学系
+		职称：教授
+		我的主页共被访问了4740次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

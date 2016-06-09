@@ -1,0 +1,268 @@
+
+
+
+
+
+洪樟连-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0094047";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	洪樟连
+常怀感恩之情！常葆进取之心！常存敬畏之念！
+
+	永久链接:http://mypage.zju.edu.cn/hzl&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			
+
+个人经历：
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1986年7月，浙江省建德市严州中学毕业。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1990年7月，浙江大学材料系毕业，获工学学士学位。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1994年3月，浙江大学材料系毕业，获工学硕士学位（硕士导师王民权教授）。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1994年4月-1996年&nbsp;4&nbsp;月，浙江大学材料系任助教。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1996年5月-2002年11月，浙江大学材料系任讲师；
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;期间，1997年10月-1998年9月在东北师范大学留日预备学校学习日语；1998年10月-2002年3月教育部公派赴日本东京大学材料系攻读博士学位（博士导师佐久間健人教授，日本金属学会第50任会长，任期2001年3月28日-2002年3月28日；协助指导老师原日本无机材质研究所主任研究官三友護博士），2002年3月29日毕业获博士学位。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2002年12月-2011年12月，浙江大学材料系任副教授，硕士生导师。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;期间，2006年2月-2008年4月挂职任浙江大学地方合作处副处长；
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2007年3月-2008年3月挂职任中国科学院院地合作局中南部合作处副处长。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2010年3月，筹建&ldquo;浙江大学临近空间飞行器技术研究中心&rdquo;并任中心常务副主任。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2011年1月，任博士生导师。2011年12月，晋升教授。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2011年12月，成立&ldquo;功能复合航天新材料&rdquo;科研团队。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;科研团队与校内外&ldquo;志同道合&rdquo;课题组合作，在&ldquo;军民两用先进功能复合新材料&rdquo;国家重大需求、新材料技术发展需求等课题任务牵引下、形成了定位于学科前沿与国际水平的、以国防基础科研工作为核心及特色的、兼顾民口新材料关键技术攻关任务的联合科研团队。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在&ldquo;十三五&rdquo;期间，科研团队将在有选择性地继续承担&ldquo;功能复合航天新材料研制&rdquo;国家科研任务的同时，根据国家重大战略需求和国内外新材料科技发展前沿动态，依托新筹建成立的&ldquo;浙江大学材料学院复合材料研究所&rdquo;平台，加强吸引国内外优秀青年人才的力度，有选择性地拓展研究方向；以开展&ldquo;启智铸魂&rdquo;为核心的&ldquo;教书育人、科研创新、服务社会&rdquo;高校教学科研工作为根本任务，服务于创新型国家建设的需求和目标。
+&nbsp;
+浙江大学&ldquo;功能复合航天新材料&rdquo;科研团队
+团队理念：常怀感恩之情！常葆进取之心！常存敬畏之念！
+团队精神：志存高远、脚踏实地；乐观进取、百折不挠！
+行动格言：事事落实、天天坚持、契而不舍！
+育人目标：做社会公民、育家国栋梁！
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+教学科研简况：
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1994年硕士毕业留校，从事先进陶瓷复合材料与半导体复合光电功能材料等方面的教学与科研工作，作为项目负责人先后承担/在研&ldquo;十二五&rdquo;&ldquo;863&rdquo;课题、&ldquo;十一五&rdquo;及&ldquo;十二五&rdquo;国家重大科技专项工程基础研究课题、国家自然科学基金、浙江省重大产业化示范工程项目、航天科技集团创新基金重点项目、航天一院-高校联合创新基金重点项目、企业重大横向合作研究等20项课题。先后讲授&ldquo;陶瓷材料工艺学&rdquo;、&ldquo;纳米科技基础&rdquo;、&ldquo;纳米科技概论&rdquo;、&ldquo;智能材料与系统&rdquo;、&ldquo;纳米粉体材料&rdquo;、&ldquo;纳米材料与器件&rdquo;、&ldquo;多孔及介孔材料&rdquo;等本科生与研究生课程；从事了（高温超导陶瓷、先进结构陶瓷、蜂窝陶瓷等）先进陶瓷及其功能复合材料，新型无机发光材料，半导体复合光电功能材料制备与应用等方面研究工作。已在国内外核心期刊发表论文110余篇。其中在JACS(IF=11.44)，Energy&amp;Environmental&nbsp;Science&nbsp;(IF=15.49)，Adv.Funt.Mater.(IF=10.44)，NanoResearch(IF=6.96)，JournalofPhysicalChemistryLetters(IF=6.68)，NanoScale(IF=6.74)，Chemistry-&nbsp;EuropeanJournal(IF=5.70)等期刊发表SCI收录论文90余篇、他引1400余次。担任AdvancedFunctionalMaterials(IF=10.44)，Nanoscale(IF=6.74)，Carbon(IF=6.16)，Journal&nbsp;of&nbsp;Catalysis(IF=6.07)，Environmental&nbsp;Science&nbsp;&amp;&nbsp;Technology(IF=5.48)，Crystal&nbsp;Growth&nbsp;&amp;&nbsp;Design(4.56)等国际期刊审稿人。此外，编著出版教材1部，获授权国家发明专利18项。
+&nbsp;&nbsp;&nbsp;
+
+招聘博士后信息（不限期，岗位招满为止）
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;背景与专业需求：&ldquo;十二五&rdquo;期间，因浙江大学新建&ldquo;功能复合航天材料&rdquo;研究方向和团队发展，以及&ldquo;十二五&rdquo;国家重大科技专项基础研究课题、&ldquo;863&rdquo;课题、国家自然科学基金等多项课题任务之需要，诚招博士后3-4名。研究方向：1、先进陶瓷及新型陶瓷基（隔热、防热、透波功能）功能复合航天材料；2、多孔与介孔材料制备、微观结构设计与力/热性能优化技术；3、特种（纤维、粉体）低维材料表面改性与多功能复合制备技术；4、半导体复合光电功能材料制备、表征及其应用（石墨烯/半导体复合光电材料，白光LED用氮化物/硅酸盐三基色荧光粉）。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;待遇及将来发展：参照浙江大学规定执行（参见浙江大学博士后工作办公室网站http://hr.zju.edu.cn/postdoctor/），可根据应聘者能力和工作情况，具体面议由实验室提供的研究工作绩效津贴，提供良好的研究工作环境及个人成长发展空间。有意向者请将简历资料发到邮箱联系hong_zhanglian@zju.edu.cn，来函必复。
+
+			
+				
+			工作研究领域
+			
+			1、先进陶瓷及其功能复合材料制备与应用。侧重研究
+A）功能复合航天材料：高温透波材料，多孔轻质耐高温隔热材料；
+B）蜂窝陶瓷成型技术与应用：DPF（柴油机微粒过滤器）用碳化硅基蜂窝陶瓷材料，氮化硅基蜂窝陶瓷材料；
+C）先进陶瓷复合材料的成型、烧结工艺技术与性能。
+
+2、低维半导体复合光电功能材料制备及其光电应用。侧重研究
+A）可见响应高活性TiO2基光催化剂、石墨烯基复合半导体材料；
+B）半导体量子点制备及其在光电转换、生物/化学传感器应用；
+C）无毒、环境友好的复合氧化物窄带隙纳米半导体材料。
+
+3、无机发光材料的制备与应用。侧重研究
+A）无稀土激活离子的长余辉荧光粉；
+B）无毒、环境友好的（钙钛矿结构）荧光粉材料；
+C）白光LED用三基色荧光粉制备及其应用。
+
+span>
+
+
+&nbsp;
+研究生招收与培养：欢迎热爱科研工作、有志于出国深造、英语能力熟练（TOEFL，GRE，雅思成绩优良）的各高校青年学子，来课题组攻读硕士和博士学位。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;攻读博士学位的学生：博士期间申请国家留学基金委员会项目或者浙大奖学金项目资助，去美国加州大学洛杉矶分校（UCLA）、麻省理工学院（MIT）、约翰.霍普金斯大学、新加坡国立大学（NUS）等名校知名教授课题组联合培养1-2年；
+&nbsp;&nbsp;&nbsp;&nbsp;攻读硕士学位的学生：
+1）硕士期间表现优秀者，优先推荐（申请全额奖学金、自费）去美国加州大学洛杉矶分校（UCLA）、新加坡国立大学（NUS）等名校知名教授课题组攻读博士研究生；
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2）也有机会申请国家留学基金委员会资助，拿公派名额去欧美名校攻读博士学位研究生。
+			
+				
+			联系方式
+			
+			电话：0571-87951234			电子信箱：hong_zhanglian@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：洪樟连
+		单位：材料科学与工程学系
+		职称：教授
+		我的主页共被访问了43058次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	学术交流（讲座报告）
+	实验室介绍
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

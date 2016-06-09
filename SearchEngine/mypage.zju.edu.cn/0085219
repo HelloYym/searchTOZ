@@ -1,0 +1,213 @@
+
+
+
+
+
+主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0085219";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	主页
+
+
+	永久链接:http://mypage.zju.edu.cn/0085219&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			叶兴乾，男，博士，1962年5月出生，浙江大学食品与营养系教授，博士生导师。浙江大学生物系统工程与食品科学学院副院长，食品加工物流与装备研究中心常务副主任。浙江省&ldquo;151&rdquo;重点培养，科技部农产品加工专家，农业部农产品安全专家组成员，浙江省发展规划研究院专家委员会成员，浙江省科技厅农产品加工重大科技专项咨询专家组组长，浙江省政府食品安全专家咨询组专家，浙江省质监局食品安全专家咨询专家，浙江省园艺学会副理事长，中国食品学会果蔬分副理事长，浙江省食品学会副理事长。
+　&nbsp;&nbsp;从教课程：果蔬加工、食品感官评定、农产品加工进展、食品科学与工程进展、食品专业英语等
+主持承担国家基金、863项目、科技支撑项目、教育部重点培育项目、国际合作重点项目、浙江省重大攻关项目、省长基金等15项，参加多项。获国家、省部级科技进步奖6项，取得发明专利45项。发表SCI、EI论文150多篇，著作10本。主编&ldquo;十二五教材，面向二十一世纪系列&rdquo;教材《果蔬加工工艺学》1本3版，参编全国统编教材《果蔬加工产品工艺学》等4本，参加《中国农业百科全书》编写。　主持开发牛奶成份快速分析仪属国内首创，获得大面积推广。主持的杨梅加工技术，成功开发了杨梅发酵干红酒和实现杨梅的大规模加工，处于国领先水平。
+			
+				
+			工作研究领域
+			
+			1、农产品增值加工和综合利用：主要在果蔬加工与综合利用；果蔬功能性成份的提取、分离、纯化与利用；传统果蔬加工（腌渍蔬菜、蜜饯）的安全生产技术与关键装备；果汁饮料加工新技术。尤其在柑橘、杨梅、青梅、榨菜、果品蜜饯加工。
+2、食品成份快速分析：牛奶快速分析，牛奶中残留成份的快速分析技术
+3、食品安全领域：低温流通食品的货架寿命及时间－温度批示器（剂）开发；食品智能包装及货架寿命指示剂的研究。
+			
+				
+			联系方式
+			
+			电话：88982155			电子信箱：psu@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：叶兴乾
+		单位：生物系统工程与食品科学学院食品科学与营养系
+		职称：教授
+		我的主页共被访问了22071次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	研究成果
+	专利成果
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

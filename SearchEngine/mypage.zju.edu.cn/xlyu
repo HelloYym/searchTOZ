@@ -1,0 +1,223 @@
+
+
+
+
+
+余小林-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0002266";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	余小林
+园艺与品质生活
+
+	永久链接:http://mypage.zju.edu.cn/xlyu&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			1989.9-1993.7：江西农业大学园艺系园艺学专业，获学士学位；
+
+1993.9-1999.7：江西农业大学园艺系任助教；
+
+1996.9-1999.7：华南农业大学蚕桑系硕士研究生，获硕士学位；
+1999.9-2002.7：浙江大学园艺系博士研究生，获博士学位；
+2005.10-2007.09：东京农工大学植物遗传研究室博士后研究。
+2009.11-2010.10：加州大学戴维斯分校植物科学系访问；
+2002.9&mdash;至今：浙江大学园艺系任任教。
+
+			
+				
+			工作研究领域
+			
+			研究领域一：植物生殖发育分子生物学及分子调控(1.十字花科及茄科园艺植物的雄性不育（CMS）遗传分子机制与分子调控；2.拟南芥与十字花科园艺植物的胚囊及胚发育的分子机制解析)；
+
+研究领域二：园艺植物种质资源与利用（1.十字花科及茄科园艺植物种质资源多样性研究；2.十字花科蔬菜根肿病发病机制及其抗病种质创制；3.十字花科及茄科园艺植物种质创新）。
+			
+				
+			联系方式
+			
+			电话：0571-88982354			电子信箱：xlyu@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：余小林
+		单位：农业与生物技术学院园艺系
+		职称：教授
+		我的主页共被访问了13166次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	研究成果
+	奖励荣誉
+	实验室介绍
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

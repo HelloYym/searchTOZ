@@ -1,0 +1,209 @@
+
+
+
+
+
+俞剑平-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0092156";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	俞剑平
+liveandlearn
+
+	永久链接:http://mypage.zju.edu.cn/yjp&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			俞剑平，男，浙江杭州人。浙江大学经济学硕士（指导教师：吴国华教授）、中国社会科学院研究生院国际贸易学博士研究生毕业（在职、指导教师：张卓元学部、教授；袁文祺教授）。浙江大学经济学院在职攻读经济学博士学位，（指导教师：张小蒂教授）。1997年被评为硕士研究生导师；曾被评为浙江大学优秀教师和优秀班主任各一次；中国教育家协会理事。出版拙稿：经济管理出版社、中国工人出版社、人民日报出版社、浙江大学出版社、浙江人民出版社等出版（编著、教材）共18本，国内外公开发表论文：在《世界经济》、《马克思主义研究》、《数量经济技术经济研究》、《财贸经济》、《中国农村经济》、《台湾研究》、《经济理论与经济管理》、《JOURNALOFZHEJIANGUNIVERSITY(SCIENCE)》、《CHINESEYI-CHINGLEARNINGMONTHLY》等杂志发表100余篇（其中国家一级刊物上发表共33篇，境外刊物上发表共3篇）；主参及承担各类课题研究17项。
+曾主讲本科生课程《国际企业管理》、《国际经济合作》、《国际贸易》、《国际商务谈判与沟通》；曾主讲硕士生课程《经贸管理学》、《涉外企业管理》、《国际经济合作研究》、《经济学前沿》、《国际投资与跨国企业管理》。。
+			
+				
+			工作研究领域
+			
+			国际贸易理论与政策；国际经济合作与对外投资；企业发展战略及民企发展对策
+			
+				
+			联系方式
+			
+						电子信箱：yjp92@zju.edu.cn1377754408@QQ.com			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：俞剑平
+		单位：经济学院国际经济系
+		职称：副教授
+		我的主页共被访问了8117次
+标签：livelearn	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		出版著作
+	研究成果
+	发表论文
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,216 @@
+
+
+
+
+
+张林教授个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0003322";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	张林教授个人主页
+
+
+	永久链接:http://mypage.zju.edu.cn/linzhang&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;张林，男，工学博士，1972年10月出生，安徽省当涂县人。
+2012/12&ndash;今，浙江大学，化学工程与生物工程学系，教授
+2005/12&ndash;2012/12，浙江大学，化学工程与生物工程学系，副教授
+2009/03&ndash;2011/01，美国加州大学河边分校，化学与环境工程学系，访问学者
+2008/07&ndash;2008/09，台湾中原大学，化学工程学系，访问学者
+2003/08&ndash;2005/12，浙江大学，材料与化工学院，讲师
+2000/09&ndash;2003/08，浙江大学，材料与化工学院，博士
+1997/09&ndash;2000/03，浙江大学，材料与化工学院，硕士
+1992/09&ndash;1996/06，南京化工大学，化学工程系，学士&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;近年来以空气、水资源和能源方向的重大需求作为研究背景，致力于膜科学与技术在上述领域中应用的关键科学问题开展研究工作，通过设计纳米复合功能材料改进与提高膜性能，构建膜生物反应器来强化过程分离和传递效率为主要研究内容，取得了创新性的结果。入选了浙江省&ldquo;151&rdquo;人才培养计划第二层次，获得浙江省杰出青年基金项目资助，作为项目负责人承担并完成了包括国家自然科学基金、&ldquo;863&rdquo;计划目标导向项目等多项国家级课题。多篇研究论文发表在AIChEJ、Chem.Eng.Sci.、I&amp;ECR、J.ofMembraneSci.、Polymer等化工类TOP期刊上，共发表SCI收录论文100余篇，累计他引近千次，个人H-index为18。四项研究成果成功地实现了知识产权的转让，2011年受邀参加了在泰国举行的第14届亚洲化学会议，在MembranesforMolecularSeparation分会上做了有关高通量纳米复合膜的邀请报告。形成了以纳米复合材料为膜，膜生物反应器为过程在空气中CO2捕集、水处理以及生物质能源中的应用基础研究体系。
+			
+				
+			工作研究领域
+			
+			膜科学与技术、环境生物技术、生物能源
+			
+				
+			联系方式
+			
+			电话：0571-87953802			电子信箱：linzhang@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：张林
+		单位：化学工程与生物工程学系
+		职称：教授
+		我的主页共被访问了16373次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		工作研究项目
+	发表论文
+	专利成果
+	学术交流（讲座报告）
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

@@ -1,0 +1,226 @@
+
+
+
+
+
+浙大一员-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0090025";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	浙大一员
+
+
+	永久链接:http://mypage.zju.edu.cn/0090025&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			王耘，博士，副研究员，硕士生导师。
+1983年获得浙江大学工学学士学位，电机系工业自动控制专业。
+1989年获得浙江大学工学硕士学位，电机系工业自动控制专业计算机控制研究方向。
+2001年获浙江大学理学博士学位，理学院应用数学系计算几何与计算机图形学专业。
+现为浙江大学机械工程学系机械设计研究所副研究员，机械工程学科机械设计及理论学科点和车辆工程学科点硕士生导师。
+近年来从事现代设计理论与方法、数字化集成化设计技术、测控技术等方面的研究与应用，在机电产品、车辆产品和模具数字化设计、产品性能分析和优化、仿生设计、图形图像处理和识别理解技术等方面具有工作积累。
+开设和主讲研究生课程：《网络技术及其应用》，《现代模具设计与制造技术》。
+开设和主讲本科生课程：《现代设计理论与方法概论》，《机械产品数字化建模》，《工程图学基础》。
+作为项目负责人或主要参加者承担和完成省部级项目、市级项目、企业横向合作项目20余项。完成项目鉴定和项目验收7项；获得浙江省科学技术奖二等奖2项。发表学术论文50余篇，获得国家发明专利和实用新型专利30多项，获得软件著作权4项，培养或协助培养硕士研究生30余名，参与完成浙江省高等教育重点教材编著1部。
+			
+				
+			工作研究领域
+			
+			从事现代设计理论与方法、计算机辅助技术、图像图形处理技术等方面的理论与应用研究。
+
+研究方向：
+
+-现代设计理论与方法：产品数字化集成化设计；数值分析和优化设计；仿生设计；计算机图形图像处理
+
+-车辆工程：汽车数字化开发技术；计算机辅助测控技术
+
+-模具先进制造技术：模具现代设计方法；成型过程数值模拟及成型工艺优化
+
+			
+				
+			联系方式
+			
+			电话：057187951149			电子信箱：wangyun@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：王耘
+		单位：机械工程学系
+		职称：副研究员（自然科学）
+		我的主页共被访问了2361次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	发表论文
+	出版著作
+	研究成果
+	专利成果
+	奖励荣誉
+
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

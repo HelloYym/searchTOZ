@@ -1,0 +1,322 @@
+
+
+
+
+
+柯越海-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0007063";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	柯越海
+
+
+	永久链接:http://mypage.zju.edu.cn/yke&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			博客
+
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;
+柯越海
+&nbsp;
+联系方式
+
+工作部门:&nbsp;浙江大学基础医学院病理与病理生理学系、浙江大学医学院分子医学研究中心(RMCC)
+通讯地址:&nbsp;浙江省杭州市西湖区余杭塘路866号浙江大学紫金港校区医学院59号信箱邮编310058
+快递地址(PI办公室):&nbsp;浙江大学紫金港校区医学院科研楼A312房间邮编310058
+实验室:&nbsp;浙江大学紫金港校区医学院科研楼A310-A316,A322-A325,&nbsp;PI办公室:医科A312;行政办公室:医综803;&nbsp;来访请参考路线攻略&nbsp;
+电话传真:&nbsp;0571-88208713(PIOffice);0571-88981215(BMSOffice);0571-88208583(Lab&amp;Fax);&nbsp;13905719900(Mobile)
+QQ:&nbsp;1281609029(个人);101268583(Csmg群);&nbsp;139378673(分子细胞生物学研究生教学群);&nbsp;260122733(生物医学本科班教学群)
+个人主页：http://mypage.zju.edu.cn/yke;EMAIL:yke[at]zju.edu.cn;个人微博:&nbsp;http://weibo.com/ykezju
+研究领域:分子细胞生物学、呼吸分子免疫学&nbsp;
+
+
+研究方向
+
+上皮组织往往发挥着许多独特的生理学功能如分泌、屏障、吸收等，上皮组织稳态、损伤修复与微环境调控密切相关。蛋白翻译后的可逆磷酸化修饰是最普遍、最广泛的一种细胞信号调控方式；我们课题组重点关注肺泡及气血屏障的损伤修复与炎症微环境相互作用的磷酸化调控机制，目前课题组围绕肺泡微环境形成了筛选和功能研究两个环节。
+
+首先基于肺损伤的病理特征，我们运用微电子活细胞芯片技术，结合基因组信息学分析手段，模拟多种体外肺泡上皮损伤与炎症微环境的筛选模型，用于磷酸化分子群的筛选与功能预测，这些通量检测手段包括肺上皮受体酪氨酸受体信号、肺泡巨噬细胞极化、上皮屏障与病原菌感染、肺微循环内皮屏障通透性等。通过构建新型高通量细胞筛选模型，结合各类筛选文库及体外生化验证手段，用于筛选并预测参与肺泡微环境调控的重要磷酸化调控分子群。&nbsp;
+
+肺泡与气血屏障层的微环境调控与呼吸、心肺血管疾病及恶性肿瘤发生密切相关；肺上皮、免疫细胞、肺微血管内皮、血管平滑肌、屏障细胞基质层等都是构成肺泡微环境的关键细胞亚群，解析各类细胞的磷酸化信号对于理解肺泡微环境调控的病理生理学过程至关重要。基于预测及生化验证，我们后续主要通过条件性敲除小鼠模型，同时结合多种生化与遗传学手段，重点解析参与肺泡微环境磷酸化调控的激酶、磷酸酶及支架蛋白的病理及病理生物学意义，我们重点关注上皮损伤及纤维化重构、炎症及肿瘤细胞的血管转运、肺微循环血管内皮与平滑肌稳态调控等。我们期待这些这些分子与细胞生物学过程的深入诠释有助于理解肺间质纤维化、急性肺损伤、肺动脉高压以及转移性肺癌等重大高发、恶心呼吸系统疾病的发病机制,并提供潜在的治疗干预靶点。
+
+详细信息查看研究进展更新...
+&nbsp;
+代表性论文*
+&nbsp;
+
+LiS,WangL,ZhaoQ,LiuY,HeL,XuQ,SunX,TengL,ChengH,KeY.SHP2positivelyregulatesTGFbeta1-inducedepithelial-mesenchymal-transitionmodulatedbyitsnovelinteractingproteinHook1.JBioChem2014Oct20.doi:10.1074/jbc.M113.546077(Pubmed)
+TaoB,JinW,XuJ,LiangZ,YaoJ,ZhangY,WangK,ChengH,ZhangX,KeY.Myeloid-specificdisruptionoftyrosinephosphataseShp2promotesalternativeactivationofmacrophagesandpredisposesmicetopulmonaryfibrosis.JImmunol.2014Sep15;193(6):2801-11&nbsp;(Pubmed)
+ZhangX,ZhangY,TaoB,WangD,&nbsp;ChengH,WangK,ZhouR,XieQ,KeY.DockingproteinGab2regulatesmucinexpressionandgobletcellhyperplasiathroughTYK2/STAT6pathway.FASEBJ.&nbsp;2012Nov;26(11):4603-11&nbsp;(Pubmed)&nbsp;
+LiF,ShenJ,ShenH,ZhangX,CaoR,ZhangY,QuiQ,LinX,XieY,ZhangL,JiaY,DongX,JiangJ,BaoM,ZhangS,MaW,WuX,ShenH,XieQ,KeYShp2playsanimportantroleinacutecigarettesmoke-mediatedlunginflammation.JImmunol.&nbsp;2012Sep15;189(6):3159-67.Epub2012Aug13.(Pubmed)
+ZhangX,&nbsp;ZhangY,&nbsp;TaoB,&nbsp;TengL,&nbsp;LiY,&nbsp;CaoR,&nbsp;GuiQ,&nbsp;YeM,&nbsp;MouX,&nbsp;ChengH,HuH,&nbsp;ZhouR,&nbsp;WuX,&nbsp;XieQ,&nbsp;NingW,&nbsp;LaiM,&nbsp;ShenH,&nbsp;FengG,&nbsp;KeYLossofShp2inalveoliepitheliainducesderegulatedsurfactanthomeostasis,resultinginspontaneouspulmonaryfibrosis.FASEBJ.2012Jun;26(6):2338-50&nbsp;(Pubmed)&nbsp;
+FuH,&nbsp;FuW,SunM,ShouQ,ZhaiY,ChengH,TengL,MouX,LiY,WangS,ZhangS,XuQ,ZhangX,WangJ,ZhuJ,WangX,XuX,LvG,JinL,GuoW,KeY.Kineticcellularphenotypicprofiling:prediction,identificationandanalysisofbioactivenaturalproducts.Anal.Chem.2011Sep1;83(17):6518-26(Pubmed)&nbsp;&nbsp;
+KeY,ZhangEE,HagiharaK,WuD,PangY,FengGS.DeletionofShp2inthebrainleadstodefectiveproliferationanddifferentiationinneuralstemcellsandearlypostnatallethality.Mol.Cell.Biol.2007Oct;27(19):6706-6717(Pubmed)
+KeY,WuD,PrincenF,NguyenT,LesperanceJ,OshimaRG,MullerWJ,FengGS.RoleofGab2inmammarytumorigenesisandmetastasis.Oncogene2007Jul;26(34):4951-60(Pubmed)
+KeY,LesperanceJ,ZhangEE,Bard-ChapeauEA,OshimaRG,MullerWJ,FengGS.ConditionaldeletionofShp2inthemammaryglandleadstoimpairedlobulo-alveolargrowthandattenuatedStat5activation.JBiolChem.2006Nov;281(45):34374-80(Pubmed)
+KeY,SuB,SongX,LuD,ChenL,LiH,QiC,MarzukiS,DekaR,UnderhillP,XiaoC,ShriverM,LellJ,WallaceD,WellsRS,SeielstadM,OefnerP,ZhuD,JinJ,HuangW,ChakrabortyR,ChenZ,JinL.AfricanoriginofmodernhumansinEastAsia:ataleof12,000Ychromosomes.Science.2001May;292(5519):1151-3.(Pubmed)
+
+*&nbsp;&nbsp;Firstorseniorcorrespondingauthorship&nbsp;
+全部论文......
+&nbsp;
+科研资助
+
+(2013)&nbsp;国家自然科学基金面上项目:《锚定蛋白Gab1调控树突状细胞介导气道过敏性炎症的机制研究》#31371415(2014-17)
+(2012)教育部新世纪优秀人才支撑计划：《肺上皮细胞损伤、异常修复及癌变的GABs/SHP2磷酸化调控机制》#NCET-12-0487(2013-15)
+(2011)国家自然科学基金重大项目：《结直肠癌细胞与微环境相互作用及其对EMT的调控》#81090421(2011-14)(参与)
+(2009)国家重大科学研究计划(973):《酪氨酸激酶受体膜转运的结构基础、磷酸化调控及突触功能调节》#2010CB912004(2010-15)(参与)
+(2009)国家自然科学基金面上项目:《Gab1/2信号调控肺损伤诱发气道高反应性及炎症反应的分子机制》#30971504(2010-12)
+(2009)浙江省&quot;钱江人才&quot;计划基金:《乳腺肿瘤干细胞GAB2/Shp2磷酸酶信号通路的调控机制》#2009R10005(2009-11）
+(2008)国家重点基础研究发展计划(973):《磷酸酶SHP2信号在肺损伤和异常修复中的调控机制》#2009CB522103(2009-14)(参与)
+(2008)国家自然科学基金面上项目:《中枢神经系统GABs蛋白家族的信号调控与生理学意义》#30871291(2009-11)
+(2008)教育部优博论文专项基金:《原癌基因PTPN11/SHP2的肿瘤分子遗传学研究》#2007B2(2009-10)
+(2008)浙江省中医药局重点项目:《高通量细胞动力学模型在以&quot;浙八味&quot;为代表的道地药材质量标准化和药效研究》#N20090004(2009-11)
+
+全部项目资助情况......
+&nbsp;
+教学工作
+
+医学院研究生：《分子生物学》（2009-迄今）主讲教师、《分子细胞生物学》（2014-迄今）主讲教师
+医学院研究生：《高级细胞生物学研讨》(2009-迄今）主讲教师
+基础医学院、竺可桢学院求是生物医学本科班专业：生命科学基础（2012-迄今）主讲责任教师
+
+详细教学信息（教学日历、课件下载等）.......
+&nbsp;
+个人简历
+&nbsp;
+
+2007-迄今&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;浙江大学医学部基础医学院病理与病理生理学系教授、研究员(07-10年,&nbsp;10年转评教授)、博士生导师、课题组组长(PI)
+2002-2007年&nbsp;&nbsp;&nbsp;美国BURNHAM医学院(Sanford-BurhamMedical&nbsp;ResearchInstitute)&nbsp;Dr.GS-Feng实验室博士后
+1998-2001年&nbsp;&nbsp;上海复旦大学遗传学研究所博士研究生&nbsp;导师:谈家桢先生院士;指导教师:金力院士
+2000年&nbsp;美国德州大学休斯顿分校Dr.LiJin实验室&nbsp;&nbsp;&nbsp;交换访问学生&nbsp;
+1995-1998年&nbsp;&nbsp;&nbsp;中国疾病预防控制中心病毒病预防控制所&nbsp;(原中国预防医学科学院病毒学研究所)&nbsp;硕士研究生导师:&nbsp;&nbsp;&nbsp;曾毅院士&nbsp;&nbsp;&nbsp;&nbsp;
+1991-1995年&nbsp;&nbsp;浙江大学(原杭州大学)生命科学学院本科&nbsp;生化专业指导教师:赵小立副教授&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+&nbsp;
+校内兼职
+
+浙江大学医学院医学生物学教学研究与发展中心责任教授（2014-迄今）、生物医学课程组组长（2013-迄今）
+浙江大学竺可桢学院2013级求是生物医学班班主任(2013级)
+浙江大学基础医学院（系）副院长(2012-&nbsp;迄今)
+浙江大学动物中心医学部教授委员会主任委员&nbsp;(2011-&nbsp;2014)、2014年起转任委员
+浙江大学医学部公共技术支撑体系技术主管教授&nbsp;(2010-2012)、生化平台技术支持教授(2013-迄今）&nbsp;
+
+
+
+
+
+&nbsp;其他校内服务......
+
+&nbsp;
+&nbsp;校外学术兼职
+
+
+浙江省生物医学学会副理事长、秘书长(2013-)
+
+
+中华医学会医学细胞生物学学会青年委员(2012-)
+
+
+中国生物化学与分子生物学学会医学分会青年委员(2010-&nbsp;)
+
+&nbsp;其他校外学术兼职......
+
+
+主要荣誉
+
+2012、2011年医学部科学研究重大贡献奖
+2006年美国BURNHAM医学院年度FISHMAN学者奖
+2003年教育部全国优秀百篇博士论文奖
+
+&nbsp;其他个人荣誉......
+&nbsp;
+&nbsp;
+			
+				
+			联系方式
+			
+			电话：0571-88208713			电子信箱：yke@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：柯越海
+		单位：医学院
+		职称：教授
+		我的主页共被访问了125708次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	发表论文
+	学术交流（讲座报告）
+	科研资助
+	招生信息
+	课题组成员
+	科研伙伴(PMCB等)
+	行政服务与学术兼职
+	News@Csmg
+	English
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

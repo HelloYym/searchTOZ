@@ -1,0 +1,418 @@
+
+
+
+
+
+ChemicalModelingforAirResources-staffHomepage,ZJU
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0012023";
+//-->
+
+
+
+
+
+
+
+
+
+Home
+Login
+Help
+
+
+
+
+
+
+
+	ChemicalModelingforAirResources
+Fundamentals,Applications,andCorroborativeAnalyses
+
+	Permanentlink:http://mypage.zju.edu.cn/en/liangjinyou&nbsp;&nbsp;Copy&nbsp;&nbsp;Favorites
+-->
+
+
+
+-->
+
+	
+
+			Chinese
+EnglishHome
+			
+
+
+
+
+
+
+	
+		
+			Profile
+			
+			Contents
+Preface	10
+PARTI.FUNDAMENTALS	12
+Chapter1.ChemicalCompositionoftheAtmosphereontheEarth	13
+1.1	Atmosphericcompositionfromobservationandtheory	14
+1.1.1	Troposphere	14
+1.1.2	Stratosphere	18
+1.1.3	Mesosphereandaloft	19
+1.2	TracechemicalsobservedinTroposphere	20
+1.2.1NaturaltracechemicalsinTroposphere	20
+1.2.2AnthropogenicemissionsourcesinregionalTroposphere	21
+1.2.3AnthropogenicorganicchemicalsinregionalTroposphere	25
+1.2.4TraceelementsinregionalTroposphere	26
+1.2.6IsotopictracersinTroposphere	27
+1.3	TracechemicalsobservedinStratosphere	28
+1.4	Greenhousechemicalsintheatmosphere	29
+1.5	Toxicchemicalsinbreathingzones	31
+Summary	33
+Exercises	34
+Chapter2.ChemicalReactionsintheAtmosphere	36
+2.1	Inorganicreactions	36
+2.1.1First-orderreactions	36
+2.1.2Second-orderreactions	39
+2.1.3Reactionswiththirdandaboveorders	41
+2.2	Organicreactions	42
+2.2.1	OxidationandformationofCH4	42
+2.2.2	Degradationof&ge;C2organics	44
+2.2.3	Oxygenatedhydrocarbons	49
+2.2.4	Reactivities	54
+2.3	Heterogeneousreactions	55
+2.3.1	Gas-aqueousreactions	55
+2.3.2	Gas-solidreactions	56
+2.4	Ozonephotochemicalmechanisms	57
+Summary	60
+Exercises	61
+Chapter3.RadiationintheAtmosphere	62
+3.1	Distributionofsolarspectrum	62
+3.1.1	Blackbodyradiation	62
+3.1.2	Atmosphericprotection	63
+3.1.3	Sunlightatthesurface	64
+3.2	Longwaveradiation	65
+3.2.1	SpectrumofEarthradiation	65
+3.2.2	Greenhousegases	66
+3.2.3Climatechange	68
+3.3	Radiativetransfermeasures	69
+3.3.1	TheBeer-Lambertlaw	69
+3.3.2	Actinicflux	70
+3.3.3	Energyflux	70
+3.3.4	Heatingrate	72
+3.4	SimulatingradiationfieldsintheAtmosphere	72
+3.4.1	ABeer-Lambertexperimentwithareflectivecell	72
+3.4.2Amorerealisticexample:two-streaminthreelayers	73
+3.4.3	Asix-streamradiativetransfermodel	75
+3.4.4	Generalizedequationsofradiativetransfer	78
+Summary	81
+Exercises	82
+Chapter4.ModelingChemicalChangesintheAtmosphere	83
+4.1	Chemicalordinarydifferentialequations	83
+4.1.1Generalformula	83
+4.1.2ExampleforMesosphericOH	83
+4.1.3ExampleforStratosphericO3	85
+4.1.4ExampleforTroposphericO3	87
+4.1.5Exampleforaerosols	89
+4.2	Accuratesolvers	92
+4.2.1	Stiffsystem	92
+4.2.2	Newton&rsquo;smethod	93
+4.2.3	Gear&rsquo;smethod	95
+4.3	Empiricalsolvers	97
+4.3.1	Steady-stateapproximation	97
+4.3.2Familyapproximation	98
+4.3.3	Separationofslowspecies	98
+4.3.4	Polynomialfittings	98
+4.4	Optimizationtechniques	99
+4.4.1Sparse-matrixtechniques	99
+4.4.2Vectorization	100
+4.5	Currentissues	101
+Summary	103
+Exercises	104
+PARTII.APPLICATIONS	105
+Chapter5.OzoneHole	106
+5.1	Discoveryofstratosphericozonehole	106
+5.1.1Measurementmethods	106
+5.1.2OzoneoverAntarctica	107
+5.1.3GlobalO3thinning	108
+5.1.4ClimatologicaltotalcolumnO3during2000-2011	108
+5.2	Formationmechanismoftheozonehole	109
+5.2.1Gas-phasephotochemicalmechanisminStratosphere	110
+5.2.2UniqueenvironmentoftheO3hole	111
+5.2.3Heterogeneousprocessesinpolarstratosphericclouds	114
+5.3	SimulatingtheozoneholeinStratosphere	122
+5.3.1	Budgetanalysis	122
+5.3.2	Computersimulations	122
+5.4	Chronologyoftheozoneholeandremainingissues	125
+5.4.1Chronologyofthe&lsquo;O3hole&rsquo;	125
+5.4.2Benefitsandremainingissues	127
+Summary	129
+Exercises	130
+Chapter6.AcidRain	133
+6.1	Observationsofacidrain	133
+6.1.1Adverseeffectsofaciddeposition	133
+6.1.2	Transboundaryacidification	134
+6.1.3	AciddepositioninUSA	134
+6.1.4	AciddepositioninChina	137
+6.2	Formationmechanismofacidrain	138
+6.3	Simulatingacidrain	147
+6.3.2Modeldomainandsetup	149
+6.3.3Simulationresults	150
+6.3.4Contributionfromoceanicbiota	151
+6.4	Currentissuesonacidrain	152
+6.4.1Criticalload	152
+6.4.2Challengesinacidrainsimulations	153
+Summary	155
+Exercises	156
+Chapter7.ClimateChange	158
+7.1	Observedclimateparameters	158
+7.1.1	Temperature	158
+7.1.2	Surfacepressure	158
+7.1.3	Precipitablewater	159
+7.1.4	Winds	159
+7.1.5	Seaiceandsnow	159
+7.1.6	HeightsofPBL,maximumwindspeedandTropopause	159
+7.1.7	Vorticity	160
+7.2	Observedclimatechangesandgreenhousegases	160
+7.2.1	Climatechangespriorto1850	160
+7.2.2	Globalwarmingsince1850	161
+7.2.3	Radiativeforcingoflong-livedgreenhousegases	162
+7.3	Simulatinganthropogenicclimatechange	164
+7.3.1	Earth&rsquo;senergybudgets	165
+7.3.2	Forceandresponsefromgeneralcirculationmodeling	167
+7.3.3	Feedbacks	168
+7.3.4	Chemistry-climatemodeling	169
+7.3.5	Coupledatmosphere-oceanmodeling	171
+7.4	Currentissuesonclimatechange	172
+Summary	174
+Exercises	175
+Chapter8.SurfaceOxidants	177
+8.1	Observationsofsurfaceozoneandotheroxidants	177
+8.1.1SurfaceO3episodes	178
+8.1.2LongtermtrendsofsurfaceO3	179
+8.2	Effectsofoxidantsonhumansandplants	182
+8.2.1	EffectsofO3pollutiononhumans	183
+8.2.2	EffectsofO3pollutiononplants	183
+8.3	Ozonecontrolefforts	184
+8.3.1PhotochemicalAssessmentMonitoringStations	185
+8.3.2Emissionprograms	187
+8.4	Regulatoryozonemodeling	188
+8.4.1	ChamberexperimentsonO3formation	188
+8.4.2	MulticolumnO3simulation	191
+8.4.3	Three-dimensionalO3simulation	192
+8.5	Currentissues	195
+Summary	197
+Exercises	198
+Chapter9.ParticulateMatter	200
+9.1	PhysicalandchemicalcharacteristicsofatmosphericPM	200
+9.1.1	Sizerepresentations	201
+9.1.2	SizeandchemicalprofilesofPMsources	201
+9.1.3	MixingstatesofPMinambientair	208
+9.1.4	AmbientPMcomposition	209
+9.2	FormationmechanismofPM	213
+9.2.1	Secondaryorganicaerosols	213
+9.2.2	Aerosolmechanisms	217
+9.3	HealthhazardofPM	218
+9.3.1	Careerminers&rsquo;health	218
+9.3.2	Ambientairqualitystandard	218
+9.4	PMpollutioncontrol	220
+9.4.1	SIPprocedures	220
+9.4.2	Monitoringnetwork	221
+9.4.3	Emissioncontrolmeasures	223
+9.4.4	Exposurereduction	226
+9.5	ChallengesofsimulatingPMintheatmosphere	228
+9.5.1	SimulatingaPMepisode	228
+9.5.2	SimulatingseasonalPM	229
+9.5.3	SimulatingclimateeffectsonPM	230
+Summary	232
+Exercises	233
+Chapter10.OtherToxicsintheAir	236
+10.1	Toxicmetals	236
+10.1.1Levelsforexposureassessment	236
+10.1.2Beryllium	237
+10.1.3Cadmium	237
+10.1.4Lead	238
+10.1.5Mercury	239
+10.1.6Summaryoftoxicmetals	240
+10.2	Toxicaromatics	241
+10.2.1Polychlorinatedbiphenyls	241
+10.2.2Polycyclicaromaticcompounds	242
+10.3	Otherairtoxics	246
+10.4	Pollutantsinbuiltenvironments	248
+10.4.1	Transportfromoutdoor	248
+10.4.2	Naturalindoorsources	248
+10.4.3	Anthropogenicindoorsources	249
+10.4.4	Indoorhumidity	249
+10.4.5	Insidevehicles	250
+10.5	Techniquesforsimulatingairtoxics	250
+10.5.1	Dispersionmodeling	250
+10.5.2	Chemicaltransportmodeling	250
+Summary	252
+Exercises	253
+PARTIII.ANALYSIS	254
+Chapter11.CorroborativeAnalysisTools	255
+11.1	Indicatorratiosforozone	255
+11.1.1	Theoreticalbasis	255
+11.1.2	Anumericalexperiment	257
+11.1.3	Rangesofindicatorratios	258
+11.2	ChargebalanceforPM	259
+11.2.1	Ionicinformation	259
+11.2.2	Precursorlimitation	260
+11.3	Factoranalysis	261
+11.3.1	Methods	262
+11.3.2	Airqualitymodeldiagnosis	264
+11.4	Sensitivityanalysis	270
+11.4.1	Brute-forcemethod	270
+11.4.2	Directsensitivitymodeling	270
+11.4.3	Source-receptorrelationship	272
+11.4.4	Mechanismuncertaintyanalysis	273
+11.5	AdjointMethod	274
+11.5.1	Abackwardproblem	274
+11.5.2	Formulation	275
+11.5.3	Applications	276
+11.6	Currentissues	278
+Summary	279
+Exercises	280
+REFERENCES	281
+Books	281
+JournalArticles	282
+FIGURES	300
+INDEX	387
+			
+				
+			Contact
+			
+			Phone:136-0663-9015
+			E-mail:jinyouliang@zju.edu.cn
+			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		Name:
+		Units:
+		Title:
+		Myhomepagehasbeenvisited412times-->
+	
+	
+	
+	
+	
+
+
+
+Columns
+
+	
+	
+Basicinformation
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+Usefullinks
+
+	
+
+
+Youarevisitor:412
+
+
+
+
+
+
+
+
+
+
+	
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

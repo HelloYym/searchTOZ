@@ -1,0 +1,219 @@
+
+
+
+
+
+单杭冠个人主页-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0011004";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	单杭冠个人主页
+
+
+	永久链接:http://mypage.zju.edu.cn/hshan&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			&nbsp;&nbsp;浙江大学信息与电子工程学系讲师，硕士生导师。2004年获浙江大学通信工程学士学位。2009年获复旦大学电路与系统博士学位。博士期间参加&ldquo;建设国家高水平大学&rdquo;项目在加拿大滑铁卢大学进行联合博士培养。博士毕业后在滑铁卢大学从事博士后研究。2011年进浙江大学信息与通信工程研究所工作。目前主要从事移动互联网、认知无线电技术、协作通信/网络、车辆移动自组织网络和体域网等方向的研究。
+
+
+学生培养目标：
+具备独立思考，勇于质疑和创新的精神和能力；熟练掌握一门数学工具和一门编程语言；具备较好的PPT制作能力以及英语书面和口语表达能力。
+
+
+			
+				
+			工作研究领域
+			
+			目前的研究兴趣集中于无线通信与网络：分布式资源管理、移动性管理、服务质量/用户体验保障、媒体接入控制、调度、呼叫准入控制、路由、拥塞控制、跨层协议设计和优化、异构网络融合。
+			
+				
+			联系方式
+			
+						电子信箱：hshan@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：单杭冠
+		单位：信息与电子工程学系
+		职称：讲师
+		我的主页共被访问了32382次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+		教学工作
+	工作研究项目
+	奖励荣誉
+	发表论文
+	专利成果
+	讲座报告
+	组内交流
+	实验室介绍
+	专业活动
+	Usefullink
+图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+

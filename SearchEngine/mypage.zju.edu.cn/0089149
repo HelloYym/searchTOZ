@@ -1,0 +1,252 @@
+
+
+
+
+
+关长龙-个人主页
+
+
+
+
+
+
+
+
+p{
+word-wrap:break-word;
+overflow:auto;
+}
+
+body{
+	margin:0px;
+}
+#topbanner{
+	width:100%;
+	height:26px;
+	background-color:#fff;
+	border-top:1pxsolid#333;
+	border-bottom:1pxsolid#333;
+	margin:0px;
+	background-image:url(images/topbanner_bg.gif);
+}
+#mainlink{
+	float:right;
+	line-height:26px;
+	margin-left:14px;
+	margin-right:10px;
+	color:#111;
+}
+#mainlinkullia{
+	color:#0E4D8B;
+}
+#mainlinkullia:hover{
+	text-decoration:underline;
+	color:#FF9933;
+}
+#mainlinkul{
+	list-style-type:none;
+	margin:0px;
+}
+#mainlinkulli{
+	display:inline;
+	padding:3px2px;
+}
+
+#Side_Itemdivul{
+	list-style-type:none;
+	margin:0px10px;
+}
+#Side_Itemdivulli{
+}
+#BookList{
+width:80%;
+text-align:center;
+}
+.bookitem{
+	float:left;
+	width:190px;
+	height:180px;
+	position:relative;
+}
+
+
+
+<!--
+varctxPath="http://mypage.zju.edu.cn";
+varuserId="0089149";
+//-->
+
+
+
+
+
+
+
+
+
+
+首页
+登录
+帮助
+|
+
+
+
+
+
+
+
+	关长龙
+
+
+	永久链接:http://mypage.zju.edu.cn/0089149&nbsp;&nbsp;复制&nbsp;&nbsp;收藏
+
+
+
+
+-->
+
+	
+中文主页
+EnglishVersion
+			
+
+
+
+
+
+	
+		
+			
+个人简介
+			
+			笔名关童。男，1964年10月生，满族，辽宁省岫岩县人。历史学博士，现任浙江大学古籍研究所教授。
+学历
+浙江大学历史系中国古代史专业博士研究生（1995-1999），
+杭州大学中文系汉语史专业硕士研究生（1986-1989），
+辽宁师范大学中文系汉语言文学专业本科生（1982-1986）。
+工作经历：
+浙江大学古籍研究所（2002&middot;8&mdash;今），浙江大学国际文化学系（原浙大中文系，1998改作今名）（1989&middot;8&mdash;2002&middot;7）助教、讲师、副教授、教授。
+访学经历：
+哈佛大学哈佛燕京学社2005&mdash;2006年度访问学者（2005&middot;8&mdash;2006&middot;8）。
+出版著作：
+1.《两宋道学命运的历史考察》，上海：学林出版社2001；
+2.《中国学术史述论》，成都：巴蜀书社2004。
+3.《中国古代文化会要》礼俗篇，杭州：西泠印社出版社2006.
+4.《敦煌经部文献合集》韵书卷，北京：中华书局2008.
+5.《敦煌本堪舆文书研究》，北京：中华书局2013年。
+主要成果：
+1.《〈说文段注〉双声字研究》(1989)[1/1]
+2.《联绵词语象浅析》(1991)[1/1]
+3.《王力〈古代汉语〉诂训质疑》(1992)[2/2]
+4.《&ldquo;东壁打西壁&rdquo;之方言启示献例》(1994)[1/1]
+5.《〈通雅〉诂训述略》(1994)[1/1]
+6.《&ldquo;艳曳&rdquo;解诂》(1994)[1/1]
+7.《&ldquo;夫子之道&rdquo;探微》（1994）[1/1]
+8.《联绵词名义再认识》(1995)[1/1]
+9.《〈集韵〉脞谈》(1996)[1/1]
+10.《〈古代文化词类集义辨考〉管窥》(1996)[1/1]
+11.《联绵词语源推阐模式刍议》(1996)[1/1]
+12.《汉语文化脞谈》(1997)[1/1]
+13.《论寻乐顺化与周敦颐的道学知行观》(1998)[1/1]
+14.《原儒杂俎》(2001)[1/1]
+15.《敦煌本梦书杂识》(2003)[1/1]
+16.《中国日月神话的象征原型考述》（2003）[1/1]
+17.《中国历代美学文库》之《宋辽金元卷》撰稿（2004）[1/1]
+18..《敦煌韵书斯二○五五之谜》(2004)[1/1]
+19.《浙江风俗文化的区域缘起述略》（2005）[1/1]
+20.《中国奇数重叠节日原型考》（2006）[1/1]
+21.《绍兴民俗旅游的人文思考》（2007）[1/1]
+22.《敦煌韵书与汉字辨伪》(2007)[1/1]
+23.《敦煌韵书的校勘学价值举例》(2007)[1/1]
+24.《法象时空：中国数术的基本理念》（2008）[1/1]
+25.《一本万殊：中国民间信仰的本体反思》（2008）[1/1]
+26.《天民&middot;天命&middot;天序&mdash;&mdash;儒家伦理的终极关怀》（2009）[1/1]
+27.《&ldquo;断桥&rdquo;考》(2009)[1/1]
+28.《让义利直面信仰&mdash;&mdash;从浙江风水文化遗产谈起》（2009）[1/1]
+29.《现代汉语通用字典》（2011，主编）
+30.《鬼字考源&mdash;&mdash;兼论中国传统生命理解中的鬼神信仰》（2012）[1/1]
+31.《礼学视野下的卜筮传统论略》（2013）[1/1]
+32.《事神致福&mdash;&mdash;儒学修身的一元论旨趣发微》（2013）[1/1]
+33.《&lt;绍兴大地八钤&gt;散论》（2013）[1/1]
+			
+				
+			工作研究领域
+			
+			中国古代数术文献，中国礼俗文化史。
+			
+				
+			联系方式
+			
+			电话：0571-88273353			电子信箱：risun@zju.edu.cn			
+		
+			
+	
+
+
+
+
+
+
+
+	
+	
+	
+			
+	
+	
+	
+		姓名：关长龙
+		单位：浙江大学古籍研究所
+		职称：教授
+		我的主页共被访问了5647次
+	
+	
+	
+	
+	
+
+
+
+栏目
+
+	
+	
+基本信息
+	图书推荐
+-->
+
+
+
+
+
+<!--
+	
+	
+	
+	
+	
+	
+-->
+
+链接
+
+	
+
+
+
+
+
+
+
+
+
+
+	Copyright&copy;2007-2009浙江大学信息化建设领导小组办公室咨询电话：87951669意见建议：itsm@zju.edu.cn
+
+
+var_bdhmProtocol=(("https:"==document.location.protocol)?"https://":"http://");
+document.write(unescape("%3Cscriptsrc='"+_bdhmProtocol+"hm.baidu.com/h.js%3Fffaea15092a9a9ddfe353191ac727c28'type='text/javascript'%3E%3C/script%3E"));
+
+
+
